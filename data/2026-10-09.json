@@ -1,6 +1,6 @@
 {
-  "v": 2,
-  "model": "gemini-3.8-flash",
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-09",
   "title": "Stickney Crater",
   "title_sv": "Stickneykratern",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQP/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESEwYUUXHBIzJBQmH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRQf/aAAwDAQACEQMRAD8AxdN06zjkCGJW2P1HGST8U2exDcFZokmh3woGKUt5cCMksfeqCCK1voGiKguOWHI9KPNZTrOE32LAzs620fbLfaw2H8zXPUdEtJLcXFmwhJODGWyM/Aqgfw40quILgbfrIMUlJFNa2rwv09PoB+aytllQ5pCULr5dWdMdeMDPFN2ebdyoYk5yGooq2g02aHnp7YgF9yORSksrXAw52Jyfc0UUNseEsR//2Q==",
   "quiz": [
     {
-      "q": "Stickneykratern ligger på Phobos. Vilken planet kretsar denna lilla måne runt?",
+      "q": "Vad är det för skillnad på månarna till Mars jämfört med jordens måne?",
       "options": [
-        "Mars",
-        "Jupiter",
-        "Venus"
-      ],
-      "correct": 0,
-      "fact": "Phobos är den största av planeten Mars två små månar, och den kretsar mycket nära sin planet."
-    },
-    {
-      "q": "Stickneykratern är över nio kilometer bred, vilket är nästan halva månens storlek. Vad hände troligen när den bildades?",
-      "options": [
-        "En jättelik vulkan fick ett våldsamt utbrott",
-        "En rymdsten krockade och var nära att spräcka hela månen",
-        "Två månar smälte samman i en långsam kollision"
+        "Mars månar är runda som ett klot",
+        "Mars månar är mycket små och liknar asteroider",
+        "Mars har bara en enda stor måne"
       ],
       "correct": 1,
-      "fact": "Nedslaget från rymdstenen var så kraftigt att hela Phobos var nära att splittras i spillror vid krocken."
+      "fact": "Mars två månar, Phobos och Deimos, är mycket små och har oregelbunden form som liknar asteroider snarare än runda månar."
     },
     {
-      "q": "Hur fungerar tyngdkraften på ytan av den lilla månen Phobos?",
+      "q": "Hur stor är Stickneykratern i förhållande till månen Phobos som den ligger på?",
       "options": [
-        "Den är ungefär dubbelt så stark som på vår måne",
-        "Den är lika stark som på jorden eftersom Phobos är så kompakt",
-        "Den är extremt svag och mindre än en tusendel av jordens tyngdkraft"
+        "Den är nästan hälften så stor som hela månen",
+        "Den täcker hela månen",
+        "Den är bara några meter bred"
       ],
-      "correct": 2,
-      "fact": "Eftersom Phobos är så liten och lätt är dess gravitation mindre än en tusendel av jordens gravitation."
+      "correct": 0,
+      "fact": "Stickneykratern är över nio kilometer i diameter, vilket är nästan hälften av den lilla månens totala storlek."
+    },
+    {
+      "q": "Varför rör sig löst material nerför väggarna i stora kratrar på små himlakroppar?",
+      "options": [
+        "På grund av att himlakroppen roterar så fort att allt slungas iväg",
+        "Eftersom den svaga dragningskraften gör att material gradvis glider nedåt",
+        "Därför att atmosfären blåser bort allt damm"
+      ],
+      "correct": 1,
+      "fact": "Trots att gravitationen är extremt svag på Phobos kan löst material som samlats på kraterns väggar med tiden glida neråt."
     }
   ],
   "levels": {
-    "barn": "Det här är en jättestor grop som kallas Stickneykratern. Den finns på Phobos, en liten måne som snurrar runt planeten Mars.\n\nPhobos ser nästan ut som en knölig rymdpotatis! En gång för länge sedan krockade en enorm rymdsten med månen i full fart. Smällen var så kraftig att månen nästan gick sönder i tusen bitar. På Phobos väger du nästan ingenting. Om du hoppade till där, skulle du sväva rakt ut i rymden!",
-    "nyborjare": "På bilden syns Stickneykratern på Phobos, den större av planeten Mars två månar. Kratern mäter över nio kilometer tvärs över, vilket är nästan hälften så stort som hela månen. När en rymdsten kraschade här och skapade kratern var smällen så kraftig att Phobos nästan slogs i spillror.\n\nTrots att månens gravitation är mindre än en tusendel av jordens dragningskraft syns ränder längs kraterns sluttningar. Det visar att löst grus och damm sakta har glidit nedför väggarna genom årmiljonerna. Längs ytan löper också mystiska fåror, som forskare tror kan bero på sprickor från nedslaget eller tidvattenkrafter från närbelägna Mars som sakta sliter i den lilla månen.",
-    "entusiast": "Denna bild i förstärkta färger fångades av den högupplösta kameran HiRISE ombord på rymdsonden Mars Reconnaissance Orbiter (MRO) i mars 2008, på ett avstånd av cirka 6 000 kilometer. I blickfånget finns den väldiga nedslagskratern Stickney på Phobos, uppkallad efter Chloe Angeline Stickney Hall, maka till astronomen Asaph Hall som upptäckte Mars månar år 1877.\n\nStickney mäter drygt nio kilometer i diameter, en ansenlig storlek med tanke på att hela Phobos bara är cirka 27 kilometer på längden. Den kinetiska energin från nedslaget beräknas ha legat precis på gränsen för att fullständigt disruptera och pulverisera månen. De ljusblå nyanserna kring kraterranden markerar troligen geologiskt färskt material som inte hunnit mörkna av rymdvittring, den process där kosmisk strålning och solvind förändrar ytans egenskaper.\n\nTrots en extremt låg ytacceleration – under en tusendel av jordens g – avslöjar väggarna tydliga spår av massrörelser och ras. De långsträckta fårorna som sträcker sig över Phobos yta har länge debatterats. De ledande teorierna kopplar dem antingen till djupa sprickbildningar från Stickney-nedslaget eller till grava tidvattenpåkänningar orsakade av att Phobos kretsar innanför den synkrona banradien och sakta spiralerar in mot Mars."
-  }
+    "barn": "Tänk dig en stor rymdboll som flyger runt den röda planeten Mars. Den här månen har fått ett jättestort sår efter att en annan rymdsten kraschat rakt in i den. Kratern är så enorm att den nästan är hälften så bred som hela lilla månen. Om månen hade varit en stor fotboll skulle kratern ha täckt nästan hela ena sidan. Det ser ut som en grop där damm och småsten sakta har glidit nedåt.",
+    "nyborjare": "Bilden visar Stickneykratern, som är den största nedslagskratern på Mars måne Phobos. Kratern är uppkallad efter matematikern Chloe Angeline Stickney Hall. Med en diameter på över nio kilometer upptar den nästan hälften av den lilla månens storlek. Nedslaget som skapade kratern var så enormt kraftfullt att det var nära att slå sönder hela den lilla månen. På bilden syns även mystiska fåror längs ytan och ljusare områden som kan bero på att nytt material har blottats när ytlagret glidit undan på grund av den svaga gravitationen.",
+    "entusiast": "Denna högupplösta, förstärkta färgbild från HiRISE-kameran ombord på Mars Reconnaissance Orbiter avporträtterar Stickneykratern på Phobos, den ena av Mars två små månar. Phobos kretsar mycket nära den röda planeten och har en ytgravitation som understiger en tusendel av jordens. Den gigantiska kratern, med sina dryga nio kilometer i diameter, bildades av en kollision som var nära att splittra hela månen. De synliga spåren och den nedglidna massan inuti kraterväggarna vittnar om erosion och massrörelser i mikrogravitation. Dessutom uppvisar ytan gåtfulla fåror och spår av tidvattenkrafter från den närliggande planeten, medan de ljusblåaktiga regionerna närmare kraterns kant indikerar färskt, oexponerat regolitmaterial."
+  },
+  "terms": [
+    {
+      "term": "krater",
+      "explanation": "En skålformad sänka eller grop på en himlakropps yta som bildats efter ett meteoritnedslag eller vulkanisk aktivitet."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den dragningskraft som massiva objekt utövar på varandra och som håller kvar oss på marken."
+    },
+    {
+      "term": "regolit",
+      "explanation": "Det lager av löst, brutet stoft och stendamm som täcker ytan på en planet eller måne."
+    },
+    {
+      "term": "tidvattenkrafter",
+      "explanation": "De gravitationella krafter från ett närliggande objekt som drar och tänjer i en himlakropps form."
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-21",
   "title": "Cocoon Nebula Wide Field",
-  "title_sv": "Kokongnebulosan med omgivande stjärnfält",
+  "title_sv": "Kokongnebulosan",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQG/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIAAxEEEiFREzFhIv/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABkRAQEAAwEAAAAAAAAAAAAAAAABAhIhEf/aAAwDAQACEQMRAD8A5cKbrQm4BRzn1GWhQqgY+4kLWjuEU7SeATJNbVPZTZtBPomZ3reXUpVRi3UHwOMjb13GU6O+y3xIDknA+yur0r6O7x2j9DPAj5wbdIZ23HngzTqbDYyluSUBzCEUWq16iylA1bsG7zFWWvdYXsYloQhF5R//2Q==",
   "quiz": [
     {
-      "q": "Vad är en nebulosa i rymden?",
+      "q": "Vad liknar Kokongnebulosan på denna breda stjärnfältsbild?",
       "options": [
-        "Ett jättelikt moln av gas och stoft",
-        "En döende stjärna som har exploderat",
-        "En planet gjord av flytande gas"
+        "En spiralgalax",
+        "En komet",
+        "En supernovarest"
+      ],
+      "correct": 1,
+      "fact": "Med sitt ljusa huvud och en lång svans av stoftmoln påminner hela komplexet om en komet på himlen."
+    },
+    {
+      "q": "Ungefär hur långt bort från jorden ligger Kokongnebulosan?",
+      "options": [
+        "2 500 ljusår",
+        "100 000 ljusår",
+        "50 miljoner ljusår"
       ],
       "correct": 0,
-      "fact": "Nebulosor är enorma ansamlingar av gas och interstellärt stoft där nya stjärnor ofta föds."
+      "fact": "Nebulosans komplex befinner sig på ett avstånd av ungefär 2 500 ljusår i stjärnbilden Svanen."
     },
     {
-      "q": "Varför ser vissa nebulosor ut att ha långa svansar som liknar kometer?",
+      "q": "Vad gömmer sig i de mörka stoftfilamenten i nebulosans svans?",
       "options": [
-        "De rör sig lika snabbt som kometer genom solsystemet",
-        "De har långa stråk av mörkt rymdstoft efter sig",
-        "De reflekteras av förbipasserande isiga asteroider"
+        "Massiva svarta hål",
+        "Gammal döende stjärnstoft",
+        "Stjärnor i födelseprocessen"
       ],
-      "correct": 1,
-      "fact": "Vissa nebulosokomplex har utsträckta svansar av mörkt interstellärt stoft som kan få hela formationen att likna en komet."
-    },
-    {
-      "q": "Vad händer inuti de mörka stoftfilamenten i en nebulosa?",
-      "options": [
-        "Stora svarta hål slukar all omgivande materia",
-        "Nya stjärnor håller på att bildas",
-        "Gasen kyls ner till absoluta nollpunkten"
-      ],
-      "correct": 1,
-      "fact": "De långa och mörka stoftfilamenten döljer stjärnor som är i färd med att födas."
+      "correct": 2,
+      "fact": "De långa och mörka stoftstråken döljer stjärnor som just nu håller på att bildas."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att det finns stora moln av godisregn långt ut i rymden, fast av glödande gas och rymddamm i stället! Det här molnet kallas för Kokongnebulosan eftersom det är som en mysig sovsäck där nya stjärnor föds. Bredvid molnet svansar en lång rad av mörkt stoft, vilket gör att hela rymdmolnet nästan ser ut som en glittrande komet som susar fram i mörkret.",
-    "nyborjare": "Den här bilden visar Kokongnebulosan, som är ett kompakt stjärnbildande område i stjärnbilden Svanen. En nebulosa är ett jättelikt moln av gas och rymdstoft. I det här fallet lyser en del av molnet vackert i både emissionsljus, vilket betyder att gasen själv glöder, och reflektionsljus där stjärnljus studsar på damm. Det som gör den extra spännande är den långa stjärten av mörkt interstellärt stoft som sträcker sig ut och får komplexet att likna en komet. De mörka stråken döljer faktiskt stjärnor som just nu håller på att födas.",
-    "entusiast": "Bilden fångar IC 5146, mer känd som Kokongnebulosan, belägen cirka 2 500 ljusår bort i stjärnbilden Svanen. Det komplexa stjärnbildningsområdet spänner över ett stjärnfält på över två grader. Det centrala huvudet av nebulosan mäter ungefär tio ljusår i diameter, medan dess mörka stoftsvans sträcker sig nästan 100 ljusår ut i rymden. En ljusstark stjärna nära det färggranna nebulosacentrumet tros tillhandahålla den energi som joniserar gasen och rensar ut en central hålighet i molnet. De omfattande stoftfilamenten i svansen uppvisar i synligt ljus en mörk profil men döljer aktiva protostjärnor i tidiga skeden av sin stjärnutveckling."
-  }
+    "barn": "Tänk dig en stor kosmisk kokong som svävar ute i rymden! Den här nebulosan ser faktiskt lite ut som en glödande komet med en jättelång svans gjord av rymdstoft. Precis som en kokong där en fjäril växer till sig, så gömmer det sig nya små stjärnor inuti det mörka stoftet. Det är som att rymden har sitt eget mysiga barnkammare för glittrande stjärnor långt borta i stjärnbilden Svanen.",
+    "nyborjare": "Kokongnebulosan, med katalogbeteckningen IC 5146, är ett slående exempel på ett stjärnbildande område i vår galax. Den befinner sig i stjärnbilden Svanen på ett avstånd av omkring 2 500 ljusår, vilket är det avstånd som ljuset färdas på 2 500 år. Nebulosan består av ett ljust huvud som drivs av en ung, het stjärna i mitten som rensar ut en stor kavitet. Från detta huvud sträcker sig en nästan 100 ljusår lång svans av mörka stoftmoln. Dessa stoftfilament är täta och döljer nya stjärnor som just nu håller på att födas inuti dem.",
+    "entusiast": "I detta vida fält över två grader i stjärnbilden Svanen framträder Kokongnebulosan (IC 5146) i både emissions- och reflektionsljus. Det centrala, ljusa huvudet spänner över cirka 10 ljusår och exciteras av en närliggande ung stjärna vars strålning rensar ut en central kavitet och driver nebulosans synliga ljus. Till vänster breder en utsträckt svans av interstellära stoftmoln ut sig över nästan 100 ljusår, vilket ger hela komplexet en morfologi som för tankarna till en komet. De mörka filamenten i denna stjärt består av kalla gaser och stoft som optiskt sett blockerar ljuset, men som i infrarött ljus avslöjar aktiva områden med stjärnbildning. Bilden fångar samspelet mellan joniserad gas och mörka molnkomplex som är typiskt för aktiva stjärnbildningsregioner i galaxens spiralarmar."
+  },
+  "terms": [
+    {
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och rymdstoft som svävar mellan stjärnorna i universum."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Den sträcka som en ljusstråle färdas på ett helt jordår, vilket används för att mäta gigantiska rymdavstånd."
+    },
+    {
+      "term": "stjärnbild",
+      "explanation": "Ett bestämt område på stjärnhimlen där flera synliga stjärnor bildar ett igenkännbart mönster."
+    },
+    {
+      "term": "interstellära",
+      "explanation": "Något som existerar eller rör sig i utrymmet mellan de olika stjärnorna i en galax."
+    }
+  ]
 }

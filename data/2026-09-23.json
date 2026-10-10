@@ -1,5 +1,5 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-23",
   "title": "A New Lunar Crater: McGetchin",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwUH/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFIjFBURQysUJhgZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMBYCG3XKn6h0qSWzGOTkYkfNE2YOvLKQpG4Hc03cP8ASWti004jixGSzHYAZ+aBDkiZUXlOptz9qHkhePGsadXmnixsOF3tis8ameTW25YjWO23ilXiCATsFXBBIYnt+6CuzupllUKF9w69Kdr21t7myFtdTAHAblwdI8n+1z6J2Q5U79j4rRa/laMIsrAjC/gCg1ZZ4bG1aK1JQHPtNL7s7ygasEnqalJOy6c7nbVv3oZjrJ7eKD//2Q==",
   "quiz": [
     {
-      "q": "Hur ofta förväntas en krater i denna storlek bildas på Månen?",
+      "q": "Vad är regolit för något?",
       "options": [
-        "Ungefär en gång var 132:e år",
-        "En gång i veckan året om",
-        "Varje årtusende"
-      ],
-      "correct": 0,
-      "fact": "Nedslag av kometfragment eller asteroider som är runt 10 till 20 meter stora är sällsynta och inträffar i genomsnitt bara en gång vart 132:e år på månen."
-    },
-    {
-      "q": "Vad kallas det lösa stoftet som täcker månens yta?",
-      "options": [
-        "Kosmisk lera",
-        "Regolit",
-        "Meteoritstoft"
+        "Ett flytande hav av magma under månens skorpa",
+        "Löst stoft och krossat stenmaterial som täcker ytan",
+        "En sällsynt typ av meteorit som ofta träffar månen"
       ],
       "correct": 1,
-      "fact": "Regolit kallas det lösa lager av stoft och brutet stenmaterial som täcker månens yta och som puffas upp vid kraftiga nedslag."
+      "fact": "Regolit kallas det lösa lagret av damm och stenfragment som täcker ytan på månen och andra himlakroppar."
     },
     {
-      "q": "Varför saknar Månen en skyddande atmosfär som Jorden?",
+      "q": "Varför skyddar jordens atmosfär oss mot samma typ av händelser?",
       "options": [
-        "Månen har för svag tyngdkraft för att hålla kvar en atmosfär",
-        "Månen ligger för nära Solen",
-        "Månen roterar för snabbt kring sin axel"
+        "Atmosfären gör att mindre rymdstenar brinner upp på vägen ner",
+        "Atmosfärens magnetfält stöter bort alla asteroider",
+        "Atmosfärens kyla gör att rymdstenarna spricker i smådelar"
       ],
       "correct": 0,
-      "fact": "Eftersom Månen är mycket mindre än Jorden har den en svagare gravitation, vilket gör att den inte kan behålla ett hölje av gaser omkring sig."
+      "fact": "När rymdstenar träffar jordens atmosfär bromsas de upp och hettas upp så kraftigt av friktionen att de förångas innan de når marken."
+    },
+    {
+      "q": "Hur skapas oftast kratrar av denna storlek på månen?",
+      "options": [
+        "Genom gigantiska vulkanutbrott som slungar ut lava",
+        "Genom att kometer eller asteroider kraschar in i ytan",
+        "Genom att ytan sjunker in när månen långsamt svalnar"
+      ],
+      "correct": 1,
+      "fact": "Stora nedslagskratrar bildas när himlakroppar som asteroider eller kometer slår ner med enorm kraft och slungar bort material."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en stor rymdsten stor som en hel val kraschar rakt in i månen. Då blir det ett jättestort hål som är lika brett som två fotbollsplaner efter varandra. Det är precis vad som har hänt! Hålet kallas för McGetchin. Månen har ingen luft och ingen vind som skyddar den, så rymdstenar kan flyga rakt igenom och slå ner med full kraft.",
-    "nyborjare": "En sällsynt händelse har inträffat på månen där en komet eller asteroid med en storlek som en knölval har kolliderat med ytan. Kollisionen har skapat en ny nedslagskrater som fått namnet McGetchin, efter en känd månforskare. Kratern är enorm, ungefär lika bred som två fotbollsplaner. Forskare kunde upptäcka kratern genom att jämföra högupplösta bilder tagna före och efter händelsen av rymdsonden Lunar Reconnaissance Orbiter. Eftersom månen saknar en skyddande atmosfär träffas den ofta av mindre rymdstenar, men kratrar av just den här ansenliga storleken hör till ovanligheterna och förväntas bara bildas ungefär en gång vart 132:e år.",
-    "entusiast": "En nynedkommen krater vid namn McGetchin har dokumenterats på månens yta efter en kollision med en impaktor som uppskattas till 10 till 20 meter i diameter, motsvarande storleken på en knölval. Händelsen ägde rum någon gång mellan april och maj 2024 och kunde identifieras tack vare före- och efterbilder tagna av Lunar Reconnaissance Orbiter, som övervakar månen i omloppsbana. Den resulterande kratern mäter två fotbollsplaner i diameter, en storleksklass som statistiskt sett enbart förväntas en gång per 132 år. Termisk avbildning efter nedslaget visade en stor kall fläck som omger den varma kratern. Detta beror på att impaktpulsen puffade upp månens lösa regolit, vilket sänkte dess densitet och försämrade dess värmebehållande förmåga. Det påverkade området sträcker sig långt utanför den synliga kraterkanten, vilket ger forskarna värdefulla insikter om hur ytimpakter formar regolitlager och bidrar till månens geologiska utveckling samt påminner oss om jordens skyddande atmosfär."
-  }
+    "barn": "Tänk dig att en stor osynlig jätte kastar en jättestor stenboll rakt in i månen. Precis så har det hänt här! En rymdsten stor som en hel val kraschade in i månen och gjorde ett jättestort hål i marken, som kallas för en krater. Hålet är faktiskt lika brett som två fotbollsplaner bredvid varandra. Om samma sten hade trillat ner på jorden hade den brunnit upp i luften, men månen har ingen luft som skyddar den.",
+    "nyborjare": "En sällsynt och spännande händelse har ägt rum på månen. Någon gång under våren 2024 kraschade en komet eller asteroid, ungefär stor som en knölval, in i månens yta. Nedslaget bildade en krater som har fått namnet McGetchin. Kratern är enorm och breder ut sig över en yta som motsvarar två fotbollsplaner. Genom att jämföra bilder tagna före och efter händelsen med en speciell rymdsond kunde forskare upptäcka kratern. Nedslaget kastade upp det lösa stoftet och gruset, som kallas regolit, och förändrade ett mycket större område än själva gropen. Händelsen visar hur utsatt månen är eftersom den saknar en skyddande atmosfär liknande den vi har på jorden.",
+    "entusiast": "Månens yta är ständigt utsatt för rymdväder, men det hör till ovanligheterna att nedslag av denna storlek dokumenteras i realtid. Mellan april och maj 2024 slog en impaktor med en diameter på 10 till 20 meter ner på månens yta och bildade kratern McGetchin, vars diameter motsvarar två fotbollsplaner. Statistiskt sett inträffar händelser i denna skala endast ungefär en gång per 1,32 århundrade. Den efterföljande analysen utfördes med hjälp av Lunar Reconnaissance Orbiter och dess instrument för termisk avbildning. Dessa observationer avslöjade en markant kall fl扪 som omger den varmare kratern. Förklaringen till denna anomali är att nedslaget fluffade upp det översta lagret av regolit, det vill säga det lösa månsedimentet. Denna minskade densitet försämrar materialets förmåga att leda och bevara värme, vilket ger ett tydligt termiskt spår som sträcker sig långt utanför den synliga kraterranden. Sådana upptäckter är ovärderliga för att förstå processerna kring rymdväder, regolitens fysikaliska egenskaper och månens geologiska utveckling över tid."
+  },
+  "terms": [
+    {
+      "term": "krater",
+      "explanation": "En skålformad sänka på en himlakropps yta som uppstått efter ett våldsamt nedslag eller vulkanisk aktivitet."
+    },
+    {
+      "term": "regolit",
+      "explanation": "Det lager av löst damm, sand och brutet stenmaterial som täcker den fasta berggrunden på månen och andra planeter."
+    },
+    {
+      "term": "atmosfär",
+      "explanation": "Det tjocka lager av gaser som omger vissa planeter och himlakroppar och håller kvar värme samt skyddar mot yttre föremål."
+    },
+    {
+      "term": "densitet",
+      "explanation": "Ett mått på hur kompakt ett ämne är, det vill säga hur mycket massa som rymms inom en viss volym."
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-16",
   "title": "Webb's View of M64",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAjEAABAwQCAQUAAAAAAAAAAAABAAIDBBESISIxBRRBUZKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECERIxA//aAAwDAQACEQMRAD8AwsbbkaVOnic8i0cf0CWpI8nBarw/jmTHm4MaBckm1gtT1WRidmRnQubG7izWjxCQmbiQrU2LXTObpjtC/v8ACh1Ml5NdIitpyV6xrWA1KQ0Kx6q0PB9g7sLPRS4opqOPaalV0I9HHBmrqbtxaeP6pUjrm67klyQCdp4S228s/9k=",
   "quiz": [
     {
-      "q": "Vad är Messier 64 (M64) för typ av astronomiskt objekt?",
+      "q": "Vad kallas den mörka stoftbana som har givit galaxen M64 smeknamnet Svartögon-galaxen?",
       "options": [
-        "En stjärnhop i Vintergatan",
-        "En spiralgalax",
-        "En planetariska nebulosa"
+        "En ring av nyfödda stjärnor som blockerar ljuset",
+        "Ett band av stoft som delvis döljer galaxens ljusa kärna",
+        "En jättelik skugga från en förbipasserande dvärggalax"
       ],
       "correct": 1,
-      "fact": "M64 är en spiralgalax, vilket är en stor samling av stjärnor, gas och stoft som är formad som en snurra med armar som sträcker ut sig från mitten."
+      "fact": "M64 har fått sitt smeknamn eftersom ett mörkt band av stoft delvis blockerar dess ljusa kärna."
     },
     {
-      "q": "Varför har M64 fått smeknamnet Black Eye Galaxy, eller Svart öga-galaxen?",
+      "q": "Vad visar rymdteleskopet Webbs infraröda instrument MIRI i denna galax?",
       "options": [
-        "Den lyser enbart i mörkt ultraviolett ljus",
-        "Ett kraftigt dammband blockerar ljuset framför dess kärna",
-        "Den befinner sig i ett helt mörkt hölje av rymden"
+        "Hur gasregioner roterar åt samma håll i hela galaxen",
+        "Det kalla stoftet som absorberar och återutsänder ljus från omgivande stjärnor",
+        "Hål i rymden där inga stjärnor någonsin har bildats"
       ],
       "correct": 1,
-      "fact": "Galaxen har fått sitt smeknamn eftersom ett mörkt band av stoft delvis blockerar dess ljusa kärna, vilket ser ut som ett mörkt öga mitt i den ljusa galaxen."
+      "fact": "Infrarödinstrumentet MIRI ser det stoft som absorberar och återutsänder ljus från omgivande nyfödda stjärnor."
     },
     {
-      "q": "Vad avslöjar rymdteleskopet Webbs infraröda instrument MIRI om stoftet i M64?",
+      "q": "Vad tror astronomer var orsaken till att galaxen M64 har inre och yttre gasregioner som roterar åt skilda håll?",
       "options": [
-        "Att stoftet absorberar och återutsänder ljus från nyfödda stjärnor",
-        "Att stoftet rör sig med ljusets hastighet bort från galaxens centrum",
-        "Att stoftet består helt av fruset vatten och flytande koldioxid"
+        "En tidigare krock eller sammanslagning med en mindre galax",
+        "Ett extremt starkt magnetfält i galaxens centrum",
+        "Att galaxen snurrar så snabbt att gasen slits itu"
       ],
       "correct": 0,
-      "fact": "Infrarött ljus kan tränga igenom kosmiskt damm. Webbs instrument visar hur stoftet i galaxen fångar upp och återutsänder ljus från nyfödda stjärnor som bildas i områdena."
+      "fact": "En sammanslagning mellan M64 och en mindre galax var sannolikt orsaken till gasens motsatta rörelser."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor virvelvind i rymden som är gjord av miljarder skinande stjärnor och glittrande moln. Den här galaxen ser lite linslusig ut eftersom den har ett mörkt band tvärs över sig, precis som om den har fått en blåtira på ett öga. Det mörka bandet består av rymddamm som blockerar ljuset från stjärnorna i mitten, men rymdteleskopet kan se rakt igenom det.",
-    "nyborjare": "Bilden visar galaxen Messier 64, som ofta kallas Svart öga-galaxen på grund av sitt dramatiska utseende. Det är en spiralgalax, vilket betyder att den har en platt struktur som roterar med spiralarmar. Det som gör galaxen extra speciell är att dess inre och yttre gasregioner roterar åt skilda håll. Forskare tror att detta beror på en tidigare krock med en annan, mindre galax för länge sedan. Genom att studera rymddammet med hjälp av infrarött ljus kan astronomerna förstå mer om hur galaxer utvecklas genom kollisioner.",
-    "entusiast": "Messier 64 (M64) är en närbelägen spiralgalax vars dynamiska historia utmanar den äldre bilden av att spiralgalaxer har haft fredliga utvecklingsförlopp. Det mest slående draget är det prominenta stoftbandet framför den ljusa kärnan. James Webb-teleskopets instrument MIRI (Mid-InfraRed Instrument) kan avbilda detta stoft i rymden, vilket syns i röd färgsättning där det absorberar och återutsänder strålning från omgivande unga stjärnbildningsregioner. Galaxens innersta och yttersta gasregioner uppvisar motrotation, det vill säga de roterar i motsatta riktningar i förhållande till varandra. Denna ovanliga kinematik skapar kraftiga kompressioner där de två gasströmmarna möts, vilket triggar igång intensiv stjärnbildning. Motrotationen i M64 anses vara ett tydligt tecken på en forntida galaxkollision, där galaxen har slagit sig samman med en mindre galax. Sådana observationer ger värdefulla ledtrådar om gasens struktur, rörelse och sammansättning, samt bidrar till vår förståelse för hur galaxer sammansmälter och utvecklas över kosmiska tidsrymder."
-  }
+    "barn": "Tänk dig en jättelik snurra i rymden som är full av gnistrande stjärnor. Den här galaxen ser ut som ett mystiskt öga mitt i mörkret eftersom ett tjockt moln av rymddamm ligger framför den lysande mitten. Det är som att rymden har målat ett jättestort öga som tittar tillbaka på oss med glittrande blick.",
+    "nyborjare": "Messier 64, ofta kallad Svartögon-galaxen, är en vacker spiralgalax som har fascinerat astronomer länge. Det som gör den speciell är en mörk stoftbana som delvis döljer dess ljusa kärna. Med hjälp av infrarött ljus kan rymdteleskopet Webb se hur det kosmiska stoftet fångar upp och sprider ljus från nyfödda stjärnor. Forskare tror att galaxen en gång i tiden har krockat och slagits samman med en mindre galax, vilket gör att gasen i dess inre och yttre delar roterar åt skilda håll.",
+    "entusiast": "Messier 64 är en astronomiskt viktig spiralgalax vars historia utmanar den gamla bilden av att spiralgalaxer utvecklas helt fredligt. Genom observationer med rymdteleskopet Webbs Mid-InfraRed Instrument går det att urskilja hur det interstellära stoftet, här återgivet i rött, absorberar och reemitterar strålning från omgivande stjärnbildningsområden. Det mest unika med M64 är dess motroterande gasregioner, där de inre och yttre gasströmmarna rör sig i motsatta riktningar. Denna dynamik komprimerar gasen där strömmarna möts och driver på ny stjärnbildning. Forskare menar att denna ovanliga kinematik är ett tydligt bevis på en tidigare galaxkrock, där M64 absorberat en mindre galax. Denna typ av galaktisk kannibalism ger ovärderliga insikter i hur spiralgalaxer, inklusive vår egen Vintergatan, växer och utvecklas över kosmiska tidsrymder."
+  },
+  "terms": [
+    {
+      "term": "spiralgalax",
+      "explanation": "En stor stjärnsystemform som liknar en roterande pinwheel med utarmade armar av gas, stoft och unga stjärnor."
+    },
+    {
+      "term": "stoft",
+      "explanation": "Små fasta partiklar och rymddamm som svävar fritt mellan stjärnorna i universum."
+    },
+    {
+      "term": "infraröd",
+      "explanation": "En typ av osynlig värmestrålning med längre våglängder än det synliga ljuset."
+    },
+    {
+      "term": "Vintergatan",
+      "explanation": "Den gigantiska galax där vårt solsystem och vår egen planet är belägna."
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
-  "v": 2,
-  "model": "gemini-3.8-flash",
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-26",
   "title": "Mirrored Meteor and Milky Way",
-  "title_sv": "Speglad meteor och Vintergatan",
+  "title_sv": "Spegelande meteor och Vintergatan",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBAgMEBv/EACAQAAICAwABBQAAAAAAAAAAAAECAAMEESESMTJBUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDlMSkEgR/ZgqlFJbRDAnUQYObQSPJwh+m5Nw5Fltq3m0+ae0qeARVRkYoViAItvp0DyMb8u5sxTpBS+hr5Ew5JXvYqEAMuHYehI/IQkF2vt2D5nY7uQ11jb25MIQP/2Q==",
   "quiz": [
     {
-      "q": "Meteorer, som den på bilden, kallas ofta för stjärnfall. Vad är de för något egentligen?",
+      "q": "Vad är Perseiderna för något?",
       "options": [
-        "Ett litet stoft- eller gruskorn från rymden som brinner upp i atmosfären",
-        "En riktig stjärna som slocknar och faller ned mot jorden",
-        "Rymdskrot från en satellit som styrs ned i havet efter avslutat uppdrag"
+        "En svärm av stoftpartiklar som brinner upp i atmosfären",
+        "Ett klotformigt stjärnhag med uråldriga stjärnor",
+        "En typ av intensiv gammablixt från en avlägsen galax"
       ],
       "correct": 0,
-      "fact": "Ett stjärnfall är en meteoroid, oftast inte större än ett sandkorn, som hettas upp och glöder av friktionen när den möter atmosfären i enorm fart."
+      "fact": "Perseiderna är ett årligt återkommande meteorsvärm som uppstår när jorden passerar genom stoft efter kometen Swift-Tuttle."
     },
     {
-      "q": "Det gigantiska teleskopet på marken är byggt för att observera energirik gammastrålning. Hur lyckas det från markytan?",
+      "q": "Vad är Vintergatan för typ av astronomiskt objekt?",
       "options": [
-        "Det tar emot radiovågor som bildas när gammastrålarna når marken",
-        "Det mäter minimala vibrationer i berggrunden orsakade av rymdstrålningen",
-        "Det fångar upp ultrakorta ljusblixtar som skapas när gammastrålar krockar med luften"
-      ],
-      "correct": 2,
-      "fact": "När högenergetiska gammastrålar träffar jordens atmosfär skapas en skur av partiklar som avger svagt Cherenkov-ljus under bråkdelen av en sekund."
-    },
-    {
-      "q": "I bakgrunden syns Vintergatan med tydliga mörka stråk genom stjärnhavet. Vad består dessa mörka partier av?",
-      "options": [
-        "Stora hålrum i galaxen där det inte finns några stjärnor alls",
-        "Täta och kalla moln av kosmiskt stoft som blockerar stjärnljuset bakom",
-        "Supermassiva svarta hål som slukar allt synligt ljus i närheten"
+        "En stor nebulosa där nya stjärnor föds",
+        "En spiralgalax som rymmer hundratals miljarder stjärnor",
+        "Ett supermassivt svart hål omgivet av gas"
       ],
       "correct": 1,
-      "fact": "De mörka fälten i Vintergatan är interstellära stoftmoln som absorberar och sprider ljuset från de bakomliggande stjärnorna."
+      "fact": "Vintergatan är den galax som innehåller vårt solsystem, och den består av en vidsträckt skiva av stjärnor, gas och stoft."
+    },
+    {
+      "q": "Vad gör ett Cherenkov-teleskop?",
+      "options": [
+        "Det lyssnar efter radiovågor från avlägsna pulsarer",
+        "Det mäter magnetfält kring unga stjärnor",
+        "Det registrerar svaga ljusglimtar från kosmiska gammalstrålar"
+      ],
+      "correct": 2,
+      "fact": "Cherenkov-teleskop är specialiserade på att upptäcka extremt korta ljusblixtar i atmosfären som skapas av högenergetisk gammastrålning från rymden."
     }
   ],
   "levels": {
-    "barn": "Titta på den jättelika spegeln! Den ser ut som ett gigantiskt pussel av glänsande bitar.\n\nPå himlen susar ett stjärnfall förbi framför vår galax, Vintergatan. Ett stjärnfall är inte en riktig stjärna som trillar ner, utan ett litet rymdgruskorn. När kornet krockar med luften runt jorden i superhög fart blir det så varmt att det börjar glöda som ett tomtebloss. Ser du hur stjärnfallet också speglar sig i några av teleskopets spegelbitar?",
-    "nyborjare": "På La Palma i Spanien reser sig en enorm teleskopspegel mot natthimlen. I bakgrunden sträcker sig vår hemgalax Vintergatan, fylld av oräkneliga stjärnor och mörka band av kosmiskt stoft. Plötsligt skär ett färgstarkt streck genom mörkret: en perseid, ett stjärnfall från den årliga meteorsvärmen Perseiderna.\n\nDet imponerande instrumentet i förgrunden kallas LST-1. Dess 23 meter breda spegel består av nästan tvåhundra mindre speglar som tillsammans bildar ett Cherenkov-teleskop. Istället för att titta på stjärnor i vanlig mening är teleskopet konstruerat för att fånga extremt korta ljusblixtar, bara en miljarddels sekund långa. Dessa blixtar uppstår när universums mest energirika strålning, gammastrålning, träffar jordens atmosfär. På bilden lyckades spegeln dessutom fånga den ljusa blixten från meteoren.",
-    "entusiast": "Vid observatoriet Roque de los Muchachos på La Palma fångar natthimlen ett spektakulärt möte mellan naturliga och teknologiska fenomen. I bakgrunden reser sig Vintergatans centrala delar, där mörka interstellära stoftmoln skapar silhuetter mot miljarder avlägsna stjärnor. Längs galaxbandet drar ett färgstarkt spår från en meteor i Perseidersvärmen förbi, orsakad av stoftpartiklar från kometen Swift-Tuttle som hettas upp och ableras i den övre atmosfären vid en hastighet av ungefär 60 kilometer per sekund.\n\nI förgrunden dominerar LST-1 (Large-Sized Telescope 1), det första prototypteleskopet för Cherenkov Telescope Array Observatory (CTAO). Dess segmenterade primärspegel mäter 23 meter i diameter och består av 198 individuella hexagonala speglar. Konstruktionen är specialiserad på att detektera mycket energirik gammastrålning från källor som aktiva galaxkärnor och gammablixtar i avlägsna galaxer.\n\nEftersom gammastrålar från rymden absorberas av atmosfären förlitar sig teleskopet på Cherenkov-effekten. När en kosmisk gammafoton krockar med luftens molekyler utlöses en kaskad av relativistiska laddade partiklar. Dessa färdas snabbare än ljusets fashastighet i luft och alstrar en kon av svagt, blåaktigt Cherenkov-ljus som bara varar några miljarddels sekunder. Teleskopets ultrasnabba kamera fångar dessa glimtar, men under denna augustinatt fångade spegelfacetterna även det dramatiska skenet från meteoren."
-  }
+    "barn": "Titta på den vackra stjärnhimlen! Där uppe lyser Vintergatan som ett jättestort moln av sockerull fyllt med tindrande diamanter. En glittrande stjärnskott sveper snabbt förbi som en eldig pil genom mörkret. Långt där nere står en stor skålformad spegel som fångar upp spännande blinkningar från rymden. Det ser ut som att den speglar det magiska stjärnregnet alldeles för sig själv i natten.",
+    "nyborjare": "På natthimlen sträcker sig Vintergatans band av stjärnor och mörka stoftmoln över landskapet, flankerat av ett lysande stjärnskott från meteorsvärmen Perseiderna. I förgrunden syns en stor spegel som tillhör ett avancerat teleskop. Ett teleskop är ett instrument som samlar in ljus för att studera avlägsna himlakroppar. Den här anläggningen är byggd för att upptäcka mycket snabba och svaga ljusblixtar i jordens atmosfär. Dessa blixtar orsakas av högenergetisk gammastrålning som färdats genom universum från avlägsna galaxer. När strålningen träffar luften bildas ett kortvarigt blått sken som teleskopets jättelika spegel kan fånga upp och registrera.",
+    "entusiast": "Här avbildas en perseidmeteor som sträcker över himlen vid Observatorio del Roque de los Muchachos, med Vintergatans centrala delar och mörka interstellära stoftmoln i bakgrunden. Nedanför skådespelet syns den tjugotrameter breda spegeln på prototypen LST-1, det första teleskopet vid norra halvklotet för det innovativa Cherenkov Telescope Array Observatory. Instrumentet är utrustat med 198 hexagonala spegelsegment och en högeffektiv, pixeliserad kamera. Dess primära syfte är att detektera Cherenkov-strålning i form av extremt korta, atmosfäriska ljusblixtar som varar omkring en miljarddels sekund. Dessa orsakas av mycket energirika gammastrålar från kosmiska källor som aktiva galaxkärnor och gammablixtar. Under natten har dessutom några av teleskopets individuella spegelsegment fångat upp och reflekterat ljuset från den förbipasserande meteoren."
+  },
+  "terms": [
+    {
+      "term": "Vintergatan",
+      "explanation": "Den väldiga stjärnansamling i form av en spiralgalax som innesluter vårt eget solsystem."
+    },
+    {
+      "term": "teleskop",
+      "explanation": "Ett optiskt instrument som används för att samla in ljus och därmed observera avlägsna objekt i rymden."
+    },
+    {
+      "term": "atmosfär",
+      "explanation": "Det omgivande lager av gaser som hålls kvar kring en planet av dess egen gravitationskraft."
+    },
+    {
+      "term": "gammastrålning",
+      "explanation": "En typ av extremt kortvågug och energirik elektromagnetisk strålning som sänds ut från våldsamma kosmiska processer."
+    }
+  ]
 }

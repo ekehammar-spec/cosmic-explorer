@@ -1,9 +1,9 @@
 {
-  "v": 2,
-  "model": "gemini-3.8-flash",
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-30",
   "title": "Arp 78: Peculiar Galaxy in Aries",
-  "title_sv": "Arp 78: En säregen galax i Väduren",
+  "title_sv": "Arp 78: Sällsam galax i Väduren",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgAEBv/EACAQAAICAgICAwAAAAAAAAAAAAERAAMCIQQSQVEFImH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4mzM2poLQUArKlWPJm7hX48bk42ZVC0DYxMDH1RHZuPsNnWvE0fJ8jG+454pn0EJggIlAQ79ylAQH2D3pxWkZFoD8EpQP//Z",
   "quiz": [
     {
-      "q": "Varför har den stora galaxen på bilden en enda spiralarm som är så kraftigt utdragen?",
+      "q": "Vad är en spiralgalax mest känd för att innehålla?",
       "options": [
-        "Den har krockat rakt in i ett osynligt mörkt stoftmoln.",
-        "Gravitationskrafter från den mindre granngalaxen drar i den.",
-        "En enorm explosion i galaxens mitt har blåst bort övriga armar."
+        "Enbart massiva svarta hål och stoft",
+        "Stjärnor, gas och stoft ordnade i snurrande armar",
+        "Enbart gamla röda jättestjärnor utan någon gas"
       ],
       "correct": 1,
-      "fact": "När två galaxer passerar nära varandra skapar deras gravitation tidvattenskrafter som sliter och drar ut galaxernas armar i asymmetriska former."
+      "fact": "Spiralgalaxer som Arp 78 kännetecknas av sina vackra spiralarmar där det bildas nya stjärnor från gas och stoft."
     },
     {
-      "q": "Spiralgalaxen Arp 78 mäter ungefär 200 000 ljusår tvärs över. Hur stor är den jämfört med Vintergatan?",
+      "q": "Hur uppstår ofta kraftigt förvridna spiralarmar hos vissa galaxer?",
       "options": [
-        "Den är ungefär dubbelt så stor som vår hemgalax.",
-        "Den är ungefär hälften så stor som vår hemgalax.",
-        "De båda galaxerna är i det närmaste exakt lika stora."
+        "Genom gravitationstryck från en närliggande följeslagare",
+        "På grund av snabb rotation runt ett enda solsystem",
+        "Genom kollisioner mellan planeter inuti galaxen"
       ],
       "correct": 0,
-      "fact": "Vintergatan sträcker sig över cirka 100 000 ljusår, vilket gör Arp 78 till en riktig jätte med dubbla diametern."
+      "fact": "Gravitationstider från interaktioner med en mindre följeslagare kan dra ut och förstora en galaxies spiralarmar."
     },
     {
-      "q": "Längs den utdragna spiralarmen syns mängder av klarblå partier. Vad avslöjar den blå färgen?",
+      "q": "Vad beskriver måttet ljusår inom astronomin?",
       "options": [
-        "Att ljuset reflekteras av stora mängder fryst metangas.",
-        "Att området domineras av mycket gamla, svala stjärnor.",
-        "Att det pågår intensiv nybildning av unga, heta stjärnor."
+        "Den tid det tar för en stjärna att explodera",
+        "Avståndet som ljuset färdas på ett år",
+        "Ett mått på hur varm en himlakropp är"
       ],
-      "correct": 2,
-      "fact": "När gravitationen komprimerar gas och stoft föds nya stjärnhopar. De mest massiva stjärnorna brinner hett och lyser med ett starkt blått sken."
+      "correct": 1,
+      "fact": "Ett ljusår är den enorma sträcka som ljuset färdas under ett jordår, vilket används för att mäta avstånd i rymden."
     }
   ],
   "levels": {
-    "barn": "Titta på den stora galaxen i rymden! Den ser ut som en gigantisk snurrande sockervadd, full av miljarder glittrande stjärnor. Men ser du att en av armarna är mycket längre än de andra?\n\nDet beror på att den lilla runda galaxen precis under den drar i den med sin osynliga tyngdkraft, precis som i en kosmisk dragkamp! Dragkampen klämmer ihop rymdmolnen och tänder massor av nya, heta blå stjärnor längs armen.",
-    "nyborjare": "På bilden ser vi galaxen NGC 772, även kallad Arp 78, som ligger ungefär 100 miljoner ljusår bort i stjärnbilden Väduren. En galax är en enorm samling av stjärnor, gas och stoft som binds samman av gravitationen.\n\nDet mest anmärkningsvärda med denna spiralgalax är dess obalanserade form. De flesta spiralgalaxer har symmetriska armar, men Arp 78 har en enda gigantisk ytterarm. Denna skapades genom en gravitationell dragkamp med den mindre, ovala grannstjärnan NGC 770, som syns rakt nedanför. Tidvattenskrafterna från grannen har slitit i galaxens gas och satt igång en kraftig våg av stjärnfödslar, vilket syns som klarblå stjärnhopar längs den utsträckta armen.",
-    "entusiast": "Arp 78 (NGC 772) är en fascinerande spiralgalax belägen cirka 100 miljoner ljusår bort i stjärnbilden Väduren. Med en diameter på runt 200 000 ljusår är den ungefär dubbelt så stor som Vintergatan.\n\nGalaxen klassificeras som pekuliär på grund av sin utpräglade asymmetri. Till skillnad från klassiska spiralsystem domineras den av en överutvecklad, vidsträckt ytterarm med framträdande stoftstråk och ljusstarka associationer av unga, massiva stjärnor. Denna struktur har formats av tidvattensinteraktioner med den kompakta elliptiska satellitgalaxen NGC 770, som syns strax söder om huvudgalaxen.\n\nDjupa exponeringar avslöjar också diffusa stjärnströmmar i galaxens halo, vilket vittnar om tidigare gravitationella störningar. Eftersom NGC 772 saknar en central stavstruktur ger den astronomer värdefull insikt i hur rena tidvattenskrafter kan inducera storskaliga spiralvågor och driva stjärnbildning i interagerande system."
-  }
+    "barn": "Tänk dig en jättestor snurra ute i rymden som är gjord av miljarder glittrande stjärnor. Den här galaxen ser ut som en virvelvind av ljus och stoft. En av dess armar har blivit jättelång och spretig, ungefär som när sockervadd dras ut åt ett håll. Det är en annan mindre galax som har dragit i den med osynliga gummiband som kallas gravitation.",
+    "nyborjare": "Arp 78 är en märklig spiralgalax som ligger cirka 100 miljoner ljusår bort i stjärnbilden Väduren. Galaxen är enorm och sträcker sig över 200 000 ljusår i rymden. Den har en ovanligt stor och framträdande spiralarm som är fylld av unga, blå stjärnhopar och mörka stoftstråk. Forskare tror att denna överutvecklade arm har skapats av gravitationskrafter från en mindre följeslagare, galaxen NGC 770, som drar i den större galaxen.",
+    "entusiast": "Arp 78, även katalogiserad som NGC 772, är ett slående exempel på en galax som påverkas av tidvattenkrafter. Belägen i stjärnbilden Väduren på ett avstånd av omkring 100 miljoner ljusår, uppvisar detta stjärnsystem en diameter på cirka 200 000 ljusår. Dess mest utmärkande drag är den asymmetriska, överutvecklade spiralarmen som är späckad med stjärnbildande områden och unga blå stjärnkluster. Denna struktur är resultatet av dynamiska interaktioner med dess kompakta elliptiska följeslagare, NGC 770, belägen strax nedanför. Djupa teleskopiska exponeringar avslöjar svaga stjärnströmmar och tidvattenbryggor som vittnar om den pågående gravitationspåverkan mellan de två galaxerna."
+  },
+  "terms": [
+    {
+      "term": "spiralgalax",
+      "explanation": "Ett stjärnsystem format som en roterande skiva med utarmade armar av gas, stoft och unga stjärnor."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Den sträcka som ljuset färdas i tom rymd under loppet av ett kalenderår."
+    },
+    {
+      "term": "stjärnbild",
+      "explanation": "En grupp stjärnor som från jorden sett bildar ett igenkännligt mönster på natthimlen."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den dragningskraft som utövas mellan alla kroppar med massa i universum."
+    }
+  ]
 }

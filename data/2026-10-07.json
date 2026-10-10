@@ -1,9 +1,9 @@
 {
-  "v": 2,
-  "model": "gemini-3.8-flash",
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-07",
   "title": "Supernova Remnant Pa 30",
-  "title_sv": "Supernovaresten Pa 30",
+  "title_sv": "Supernovarest Pa 30",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,61 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYBAwQAAv/EACMQAAIBBAICAgMAAAAAAAAAAAECAwAREiEEQTFRE2EiQtH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAAID/8QAGxEAAgIDAQAAAAAAAAAAAAAAAhEAAQMSMSH/2gAMAwEAAhEDEQA/AEZYyxVQLH17q+PjymNlEbEnrofde+BGzzKQQLb0bUwjhyy8YyRriFsNf2qEVtVNgCky5FpuPLGqhxi+VrdmtEkbPGkgkDO+zrx9VvfKWJ4p8rKNavuhKFRkuKsQe2xpA32GTHrydwZvjcEjXk68CjyStILRyKAx6OqV7lY7k2zqyHkSKcQ5AP3aggduohl1pXDHJtxy5aQNbQ/LzQg5SyMVxa+7E1DyvJILsW9bqJY3WJJMWVHJCk/taoIqBnt5P//Z",
   "quiz": [
     {
-      "q": "Vad är det för fenomen som syns stråla utåt som ett kosmiskt fyrverkeri i rymden?",
+      "q": "Vad är en nebulosa som bildas efter en stjärnas våldsamma död oftast resterna av?",
       "options": [
-        "Resterna av en stjärna som exploderat och slungats ut i rymden",
-        "En svärm av kometer som just har slitits sönder av ett svart hål",
-        "Het gas som virvlar inåt för att bilda en ny planet i ett planetsystem"
+        "Gas och stoft som slungats ut i rymden",
+        "En ny planet som har bildats runt kvasaren",
+        "Ett jättelikt svart hål som svalt hela galaxen"
       ],
       "correct": 0,
-      "fact": "Bilden visar en supernovarest, det vill säga ett expanderande skal av glödande gas som kastades ut när en stjärna detonerade."
+      "fact": "När en stjärna exploderar som en supernova kastas dess yttre lager ut i rymden och bildar vackra moln av gas och stoft."
     },
     {
-      "q": "Explosionen tros ha orsakats av vita dvärgar som krockade. Vad är egentligen en vit dvärg?",
+      "q": "Vad kallas den täta typ av stjärnrest som kan bildas när två vita dvärgar smälter samman?",
       "options": [
-        "Ett nyfött gasmoln som ännu inte hettats upp tillräckligt för kärnfusion",
-        "Den täta och heta kärnan som blir kvar när en medeltung stjärna dör",
-        "En liten och sval planet som vandrar ensam genom den interstellära rymden"
+        "En neutronstjärna",
+        "En vit dvärg",
+        "En röd jätte"
       ],
       "correct": 1,
-      "fact": "När en solliknande stjärna har förbrukat sitt kärnbränsle kollapsar dess inre till en mycket kompakt och het vit dvärg."
+      "fact": "Sammanslagningen av två vita dvärgar tros ligga bakom vissa ovanliga typer av supernovor och lämnar efter sig en mycket het centralstjärna."
     },
     {
-      "q": "Historiska astronomer såg explosionen som en ny stjärna år 1181 i ungefär ett halvår. Varför slutade den att synas?",
+      "q": "Vad är det som gör att de radiella filamenten i den här typen av nebulosor kan bildas?",
       "options": [
-        "Stjärnan drogs snabbt in bakom en tät och ogenomtränglig stoftvägg",
-        "Den rörde sig med enorm hastighet bort till en annan galax",
-        "Explosionens hetta och energi avtog allt eftersom gasmolnet spreds ut"
+        "Starka vindar från den extremt heta centralstjärnan",
+        "Kraftfulla magnetfält från omgivande svarta hål",
+        "Strålning från planeter i systemet"
       ],
-      "correct": 2,
-      "fact": "En supernova frigör enorma mängder ljus under de första månaderna, men ljusstyrkan avtar kraftigt när resterna expanderar och kyls ned."
+      "correct": 0,
+      "fact": "Centralstjärnan i Pa 30 är extremt het och producerar en stark stjärnvind som kan bidra till att forma de trådliknande strukturerna."
     }
   ],
   "levels": {
-    "barn": "Det här ser ut som ett gigantiskt nyårsfyrverkeri i rymden! Men i själva verket är det resterna av en exploderad stjärna, något som kallas för en supernova.\n\nFör över 800 år sedan krockade två gamla stjärnor med varandra och small som en jättelik ballong. Den heta gasen kastades ut åt alla håll och bildade långa, glittrande strålar. I mitten finns fortfarande en supervarm stjärna kvar som blåser på gasen ungefär som en kosmisk hårtork.",
-    "nyborjare": "Nebulosan Pa 30 liknar ett glödande fyrverkeri, men den är i själva verket en supernovarest – det utspridda materialet efter en väldig stjärnexplosion. År 1181 noterade astronomer i bland annat Kina och Japan en ny, starkt lysande \"gäststjärna\" på himlen. Den var synlig för blotta ögat i ett halvår innan den sakta slocknade.\n\nForskarna tror att explosionen startade när två vita dvärgar, kompakta rester av gamla stjärnor, smälte samman. Det var en ovanlig explosion som lämnade kvar en mystisk, extremt het stjärna i mitten. Från denna stjärna blåser våldsamma vindar som formar nebulosans långa trådar. Varje liten knut längs trådarna är enorm: hela fyra ljusdagar bred, vilket är flera gånger större än vårt eget solsystem.",
-    "entusiast": "Den spektakulära nebulosan Pa 30 är den optiska motsvarigheten till den historiska supernovan SN 1181, som observerades av kinesiska, japanska och arabiska astronomer för över 840 år sedan. Den klassas som en sällsynt typ Iax-supernova, en termonukleär explosion som till skillnad från klassiska typ Ia-händelser inte förstörde hela stjärnsystemet.\n\nForskarna menar att explosionen initierades vid en sammanslagning av två vita dvärgar. I centrum av resterna finns en anmärkningsvärd överlevare: en extremt het centralstjärna vars yttemperatur och snabba rotation driver massiva stjärnvindar på tusentals kilometer i sekunden. Det är dessa vindar som tros forma de nålliknande radiella filamenten, vilka fångats i detalj här av Gemini North-teleskopet på Hawaii.\n\nLängs filamenten syns pärlband av täta gasknutar med en diameter på runt fyra ljusdagar – långt större än avståndet från solen till Neptunus. Pa 30 erbjuder en unik möjlighet att studera nukleosyntes och mekanismerna bakom ofullständiga vita dvärg-kollisioner."
-  }
+    "barn": "Tänk dig att en stjärna har exploderat som världens största fyrverkeri i rymden. Kvar efter smällen finns ett jättelikt moln av glödande gas och stoft som ser ut som en blomma eller en sprakande sol. Mitt i det här färgstarka molnet gömmer sig en supervarm liten stjärnrest som blåser ut starka vindar i alla riktningar. Det är som att rymden har sparat resterna av ett gigantiskt kalas som hände för många hundra år sedan.",
+    "nyborjare": "Den här bilden visar nebulosa Pa 30, vilket är en supernovarest efter en stjärna som exploderade för länge sedan. Historiska dokument visar att en så kallad gäststjärna dök upp på himlen redan år 1181. Astronomer tror att explosionen orsakades av att två vita dvärgar smälte samman till ett enda objekt. Den mystiska stjärnan i mitten är extremt het och skapar en kraftfull stjärnvind. Denna vind formar de trådliknande filamenten som sträcker sig utåt och fortsätter att fascinera forskare än i dag.",
+    "entusiast": "Bilden fångar nebulosa Pa 30, som utgör resterna efter den historiska supernovan SN 1181, observerad av tidiga kinesiska, arabiska och japanska astronomiska krönikörer. Explosionen klassificeras som en sällsynt typ Iax-supernova, vilket teoretiskt härrör från en sammanslagning av två vita dvärgar. Centralstjärnan är extremt varm och genererar en kraftfull stjärnvind som tros forma de distinkta radiella filamenten. Dessa filament pryds av pärlliknande knutar som mäter omkring fyra ljusdagar i diameter, vilket gör objektet till ett unikt laboratorium för att studera stjärnevolution och supernovafragmentering."
+  },
+  "terms": [
+    {
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och stoft som svävar ute i rymden."
+    },
+    {
+      "term": "supernova",
+      "explanation": "En oerhört kraftfull och ljusstark explosion som markerar slutet på en stjärnas liv."
+    },
+    {
+      "term": "stjärnvind",
+      "explanation": "En ström av laddade partiklar som ständigt blåser ut från en stjärnas yta."
+    },
+    {
+      "term": "filament",
+      "explanation": "Trådformade strukturer av gas eller stoft som sträcker sig ut i rymden."
+    },
+    {
+      "term": "ljusdag",
+      "explanation": "Det avstånd som ljuset färdas i tomrummet under tjugofyra timmar."
+    }
+  ]
 }

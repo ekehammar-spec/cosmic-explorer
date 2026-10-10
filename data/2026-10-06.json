@@ -1,5 +1,5 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-06",
   "title": "A Complete Auroral Oval from SMILE",
@@ -17,37 +17,59 @@
     {
       "q": "Varför är det omöjligt att se en komplett norrskensoval direkt från marken?",
       "options": [
-        "Cirkeln som norrskenet bildar är för stor för att rymmas i synfältet.",
-        "Atmosfären blockerar allt ultraviolett ljus som norrskenet sänder ut.",
-        "Jordens magnetfält är för svagt nära ekvatorn för att skapa ljus."
+        "Cirkeln som norrskenet bildar är alldeles för stor",
+        "Atmosfären blockerar all synlighet av norrsken",
+        "Norrsken förekommer enbart på södra halvklotet"
       ],
       "correct": 0,
-      "fact": "Norrskensovalen bildar en så stor cirkel runt jordens magnetiska pol att den sträcker sig över ett enormt område som inte går att överblicka från marken."
+      "fact": "Norrskenet bildar en gigantisk ring runt jordens magnetiska poler, vilket gör att man från marken bara kan se en liten del i taget."
     },
     {
-      "q": "Vilken typ av ljus, som är osynligt för det mänskliga ögat, användes för att fånga norrskenet i dagsljus i videon?",
+      "q": "Vilken typ av ljus kan rymdfarkoster använda för att upptäcka norrsken även under dagtid?",
       "options": [
         "Infrarött ljus",
         "Ultraviolett ljus",
-        "Röntgenstrålning"
+        "Mikrovågor"
       ],
       "correct": 1,
-      "fact": "Genom att observera i ultraviolett ljus blir det möjligt att studera norrskenet även när solen lyser upp himlen under dagen."
+      "fact": "Genom att använda ultraviolett ljus kan forskare studera norrsken även när solen är uppe och lyser på himlen."
     },
     {
-      "q": "Vad är ett av huvudsyftena med rymdfarkosten SMILE och dess studier av norrskenet?",
+      "q": "Vad är en av de viktigaste uppgifterna för rymdfarkosten SMILE när det gäller solvinden?",
       "options": [
-        "Att mäta exakt hur snabbt jorden roterar kring sin egen axel",
-        "Att kartlägga stjärnornas avstånd till jorden med extrem noggrannhet",
-        "Att förstå hur solvinden interagerar med jordens magnetosfär"
+        "Att fånga in och samla upp solvindens partiklar",
+        "Att mäta hur solvinden kyler ner jordens atmosfär",
+        "Att förstå hur solvinden växelverkar med magnetosfären"
       ],
       "correct": 2,
-      "fact": "Genom att studera hur solvinden samspelar med jordens magnetosfär kan vi bättre skydda både astronauter, rymdfarkoster och elnät på jorden mot kraftiga solstormar."
+      "fact": "SMILE studerar interaktionen mellan solvinden och jordens magnetosfär för att skydda oss mot kraftiga solstormar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att jorden har en osynlig sköld omkring sig som skyddar oss mot rymdens faror. När osynlig vind från solen krockar med den skölden börjar det glöda på himlen. Det kallas för norrsken! Från jorden kan vi bara se en liten bit i taget, ungefär som när man står mitt i en jättestor karusell. Men rymdfarkoster högt upp kan se hela den glödande ringen på samma gång.",
-    "nyborjare": "Ett norrsken uppstår när laddade partiklar från solen träffar jordens magnetfält, det vill säga den skyddande magnetiska bubbla som omger vår planet. Från marken kan vi bara se fläckar av detta ljus eftersom norrskenet bildar en jättelik cirkel, en så kallad oval, runt magnetpolen. Genom att använda rymdfarkoster som kretsar långt ute i rymden kan forskare fånga hela denna oval på bild, till och med i ultraviolett ljus under dagtid. Detta hjälper oss att förstå rymdvädrets dynamik.",
-    "entusiast": "Bilden visar en komplett norrskensoval fångad av det gemensamma rymduppdraget SMILE från ESA och CAS. Eftersom en norrskensoval spänner över så enorma geografiska breddgrader runt jordens magnetiska poler är den omöjlig att observera i sin helhet från marken. Genom att använda instrument som är känsliga för ultraviolett strålning kan farkosten avbilda fenomenet även i dagsljus, vilket avslöjar den turbulens och höga variabilitet som prägelss av växelverkan mellan solvindens plasma och jordens magnetosfär. De punktformade ljuskällorna i periferin är stjärnor vars uppenbara rörelse enbart beror på att farkostens observationsvinkel förändras under dess omloppsbana. Ett av uppdragets primära vetenskapliga mål är att kartlägga energiöverföringen vid magnetopausen för att bättre kunna skydda viktig infrastruktur som satelliter och markbundna elnät mot potentiellt skadliga solstormar."
-  }
+    "barn": "Har du någonsin sett ett häftigt norrsken dansa på natthimlen? Det ser ut som gröna och lila vågor av ljus. Men ifall du skulle titta från rymden, skulle du se att norrskenet faktiskt bildar en jättestor ring runt jorden, som ett glimrande gummiband. Från marken kan vi bara se en liten bit av denna stora ring i taget.",
+    "nyborjare": "Ett norrsken är ett färggrant ljusfenomen som uppstår när laddade partiklar från solen träffar jordens atmosfär. Från marken ser vi bara fragment av detta, men rymdfarkoster högt ovanför jorden kan fånga hela bilden. De ser då en komplett norrskensoval, en jättelik ring som omger planetens magnetiska pol. Med hjälp av ultraviolett ljus kan farkoster som SMILE till och med observera detta under dagtid. Forskarna vill förstå hur solvinden, en ström av laddade partiklar från solen, påverkar vår magnetosfär, som är det magnetiska fält som skyddar oss.",
+    "entusiast": "Att observera en komplett norrskensoval kräver instrument placerade långt utanför jordens tätare atmosfär, eftersom den enorma cirkeln runt den magnetiska polen omöjliggör en fullständig överblick från marken. Rymdfarkosten SMILE, ett samarbetsprojekt mellan ESA och CAS, använder specialiserade kameror för att registrera ultraviolett ljus, vilket gör det möjligt att studera norrskenet även i dagsljus. Tidslinjen från observationerna visar på en påtaglig turbulens och variabilitet i norrskensaktiviteten under korta tidsperioder. De stjärnor som synperipheralts i bildfältet rör sig skenbart på grund av farkostens omloppsbana runt jorden. Huvudsyftet med missionen är att kartlägga fysiken bakom hur solvinden växelverkar med jordens magnetosfär. Kunskapen är avgörande för att kunna skydda känslig rymdbaserad och markbunden infrastruktur, såsom elnät och satelliter, från skadliga effekter orsakade av geomagnetiska stormar härstammande från solen."
+  },
+  "terms": [
+    {
+      "term": "norrsken",
+      "explanation": "Ett färgstarkt himlafenomen som uppstår när laddade partiklar från rymden krockar med gaser i den övre atmosfären."
+    },
+    {
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en planet och hålls kvar på plats av tyngdkraften."
+    },
+    {
+      "term": "ultraviolett ljus",
+      "explanation": "En typ av strålning med högre energi och kortare våglängd än det ljus som människoögat kan uppfatta."
+    },
+    {
+      "term": "solvind",
+      "explanation": "En ständig ström av laddade partiklar som slungas ut från solens yttersta skikt ut i rymden."
+    },
+    {
+      "term": "magnetosfär",
+      "explanation": "Det område runt en planet som styrs av planetens eget magnetfält och fungerar som ett skyddande sköld."
+    }
+  ]
 }

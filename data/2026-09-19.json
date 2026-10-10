@@ -1,9 +1,9 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-19",
   "title": "A Zodiacal Night",
-  "title_sv": "Zodiakalt ljus i natten",
+  "title_sv": "Zodiakalt ljus över Ladakh",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAAiEAABBAICAQUAAAAAAAAAAAABAAIDBBESMUEFIkJRYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Axhac9pkcZJRFbqOdrIXRnjJGR+K146rVtOLYbML3gZ1DhlLSW5iVqWqtYoyMlI1K53VnYJLTwipnXR+pxz2UvX7QhQPFmy1uosSgfG5Q2ecuGZ5CMj3FCFB//9k=",
   "quiz": [
     {
-      "q": "Vad är det zodiakala ljuset som ibland kallas för falsk gryning?",
+      "q": "Vad är det för svagt lysande band som sträcker sig över natthimlen i detta zodiakalljus?",
       "options": [
-        "Solljus som reflekteras mot stoftpartiklar i solsystemets planetplan",
-        "Ett svagt norrsken som uppstår nära ekvatorn vid solstormar",
-        "Ljus från avlägsna galaxer som samlas i Vintergatans mitt"
+        "Solljus som reflekteras mot interplanetärt stoft i solsystemets plan",
+        "Strålning från avlägsna galaxer i universums utkanter",
+        "Gaser från jordens övre atmosfär som joniseras av solvinden"
       ],
       "correct": 0,
-      "fact": "Det zodiakala ljuset skapas när solljus reflekteras av små dammkorn och partiklar som rör sig i samma plan som planeterna kring solen."
+      "fact": "Det zodiakala ljuset uppstår när solljus backas upp av små dammkorn som svävar i samma plan som planeterna rör sig i kring solen."
     },
     {
-      "q": "Vilken planet anses enligt nya rymdmätningar vara den troliga källan till det interplanetariska stoft som orsakar detta ljus?",
+      "q": "Varför placeras professionella teleskop ofta på höga platser som 4 500 meters höjd?",
+      "options": [
+        "För att komma närmare stjärnorna så att deras ljus blir starkare",
+        "För att undvika mycket av den störande luften och fukten i jordens atmosfär",
+        "För att undvika jordens magnetfält som annars stör utrustningen"
+      ],
+      "correct": 1,
+      "fact": "Genom att flytta observatorier högt upp över havet hamnar man ovanför stora delar av jordens atmosfär, vilket ger mycket skarpare bilder."
+    },
+    {
+      "q": "Vilken planet anses i nyare forskning vara huvudkällan till det damm som orsakar zodiakalljus?",
       "options": [
         "Saturnus",
         "Mars",
         "Venus"
       ],
       "correct": 1,
-      "fact": "Mätningar från NASA-rymdfarkosten Juno tyder på att Mars är källan till det stoft som sprider solljuset och skapar det zodiakala ljuset på jorden."
-    },
-    {
-      "q": "Vad kallas den astronomiska händelse som inträffar strax före solen går upp och efter att det zodiakala ljuset syns?",
-      "options": [
-        "Astronomisk skymning",
-        "Meteorskur",
-        "Astronomisk gryning"
-      ],
-      "correct": 2,
-      "fact": "Det zodiakala ljuset syns ofta tydligt just innan den astronomiska gryningen börjar och natthimlen börjar ljusna av solen."
+      "fact": "Mätningar från rymdsondsfärder tyder på att stoft som slungas upp från Mars bidrar starkt till det dammoln som reflekterar solljuset."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att det ligger ett glittrande dammstråk utspritt som en jättelik bana rakt över stjärnhimlen. Det här är inte stjärnor, utan ett moln av små, små stendelar och rymddamm som speglar solens strålar. Det ser ut som en falsk soluppgång fast det fortfarande är mitt i natten! Ungefär som när ett solstråle letar sig in genom ett dammigt fönsterrum hemma, fast i jättestort format ute i rymden.",
-    "nyborjare": "På den här stämningsfulla natthimlen syns ett svagt, konformat sken som sträcker sig uppåt från horisonten. Fenomenet kallas zodiakalt ljus eller falsk gryning. Det orsakas av att solljus studsar på miljarder små dammkorn som svävar i rymden runt solen, i samma skiva där planeterna kretsar. Bilden är tagen från en mycket mörk och högt belägen plats i Indien, på hela 4 500 meters höjd. Där uppe är luften tunn och fri från stadsljus, vilket gör det lättare att upptäcka svaga himlafenomen tillsammans med planeter som Jupiter och Mars.",
-    "entusiast": "Denna djuphimmelsbild fångar det zodiakala ljuset som reser sig i öster strax före den astronomiska gryningen. Bilden togs från Hanle Dark Sky Reserve i Ladakh, beläget på 4 500 meters höjd i Himalaya, vilket erbjuder en exceptionell miljö för astronomiska observationer tack vare minimal ljusförorening och den tunna atmosfären. Det diffusa, pyramidformade bandet utgörs av solljus som backscatteras av interplanetärt stoft i ekliptikans plan. Bland de mer intressanta upptäckterna på senare tid är att data från NASA:s Juno-sarkofag tyder på att Mars kan vara den primära källan till detta stoft, vilket ger ny insikt i solsystemets dynamik. I samma bildfält kan man skönja planeter som Jupiter och Mars, stjärnhopen M44 samt svaga spår av meteorer som skär genom den mörka natthimlen."
-  }
+    "barn": "Tänk dig att det finns ett osynligt moln av glittrande dammkorn ute i rymden mellan planeterna. När solens strålar träffar alla dessa små dammkorn börjar de lysa svagt som ett jättestort magiskt sken på natthimlen. Det ser ut som en bred strimma av ljus som sträcker sig uppåt, och det liknar faktiskt en stråle från en jättestor ficklampa som någon tänt långt borta i mörkret.",
+    "nyborjare": "På en riktigt mörk natthimmel långt bort från stadens ljus kan man ibland få syn på det zodiakala ljuset. Det är ett svagt, kägelformat sken som följer solsystemets plan, zodiaken. Fenomenet orsakas av att solljus reflekteras i enorma mängder interplanetärt stoft, det vill säga små dammkorn som svävar mellan planeterna. Bilden är tagen från ett höghöjdsobservatorium i Indien på 4 500 meters höjd. Den tunnare luften där gör att stjärnor och svaga rymdfenomen framträder med otrolig skärpa, medan planeter som Jupiter och Mars syns som klara färgklickar i närheten av ljusbandet.",
+    "entusiast": "Det zodiakala ljuset är en solsystemsnära optisk effekt som uppstår när solljus backscatters av mikroskopiska dammkorn belägna i ekliptikans plan. Bilden fångar detta subtila fenomen från Hanle Dark Sky Reserve i Ladakh, beläget på omkring 4 500 meters höjd. Den höga altituden ovanför större delen av troposfären minskar atmosfärisk extinction och ljusföroreningar avsevärt, vilket skapar ideella förhållanden för astrofotografi. Intressant nog har data från rymdsonden Juno indikerat att stoftet till stor del härstammar från Mars, vars yta ständigt bombarderas av meteoriter som frigör partiklar ut i rymden. Längs det lysande bandet kan man även skymta öppna stjärnhopen M44, även känd som Bikupan, samt den gulaktiga planeten Mars nära bildens mitt."
+  },
+  "terms": [
+    {
+      "term": "zodiakalt ljus",
+      "explanation": "Ett svagt, diffust sken på natthimlen som orsakas av solljus som reflekteras mot rymddamm i solsystemets plan."
+    },
+    {
+      "term": "interplanetärt stoft",
+      "explanation": "Mikroskopiska partiklar och dammkorn som svävar fritt i utrymmet mellan planeterna i ett solsystem."
+    },
+    {
+      "term": "ekliptikan",
+      "explanation": "Den tänkta linje på himlen som markerar solens årliga skenbara bana i förhållande till stjärnorna."
+    },
+    {
+      "term": "stjärnhop",
+      "explanation": "En samling stjärnor som hålls samman av sina inbördes gravitationskrafter och rör sig tillsammans genom rymden."
+    }
+  ]
 }

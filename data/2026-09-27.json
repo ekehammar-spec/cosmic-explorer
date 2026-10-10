@@ -1,9 +1,9 @@
 {
-  "v": 2,
-  "model": "gemini-3.8-flash",
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-27",
   "title": "Andromeda Before Photoshop",
-  "title_sv": "Andromedagalaxen före bildbehandling",
+  "title_sv": "Andromedagalaxen före Photoshop",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,61 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQMABAYCBf/EACYQAAEDAgQGAwAAAAAAAAAAAAEAAgMRMQQSIUEFEyIyUWEzQnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxjRU3oNyi41R7RTe5/VZweCdiXgVoCUFaKF8rqMBKY+Hl6P0K97iAwnDoGwQPEkuXqIsCs/LKZH6n2UEayp1srD8Y5jMsfT7CUbJUm6Ac4l+Z7cw8Eriwp5up9Qms+UoP//Z",
   "quiz": [
     {
-      "q": "Hur långt bort ligger Andromedagalaxen från oss i Vintergatan?",
+      "q": "Vad är Andromedagalaxen för något?",
       "options": [
-        "Cirka 25 000 ljusår bort",
-        "Cirka 2,5 miljoner ljusår bort",
-        "Cirka 250 miljoner ljusår bort"
+        "En stor galax som liknar vår egen Vintergata",
+        "En ensam stjärna som lyser väldigt starkt på himlen",
+        "Ett gasmoln där nya planeter föds inuti"
       ],
-      "correct": 1,
-      "fact": "Andromedagalaxen är vår närmaste stora spiralgalax och ligger på ett avstånd av ungefär 2,5 miljoner ljusår."
+      "correct": 0,
+      "fact": "Andromedagalaxen är en enorm stjärnsystem som består av hundratals miljarder stjärnor, precis som vår egen galax Vintergatan."
     },
     {
-      "q": "Vad kommer att hända med Vintergatan och Andromedagalaxen i framtiden?",
+      "q": "Ungefär hur långt bort från oss ligger Andromedagalaxen?",
       "options": [
-        "De rör sig bort från varandra på grund av universums expansion",
-        "De dras mot varandra och kommer att smälta samman till en galax",
-        "Andromedagalaxen kommer att passera oss utan att påverkas av gravitationen"
+        "Några ljusår bort, ganska nära vår sol",
+        "2,5 miljoner ljusår bort i rymden",
+        "Flera miljarder ljusår bort nära universums kant"
       ],
       "correct": 1,
-      "fact": "Gravitationen drar galaxerna mot varandra med hög hastighet, och om cirka 4 till 5 miljarder år väntas de kollidera och bilda en jättelik elliptisk galax."
+      "fact": "Andromedagalaxen är vår närmaste stora galaktiska granne och befinner sig på ett avstånd av ungefär 2,5 miljoner ljusår."
     },
     {
-      "q": "Vilken typ av galax är Andromedagalaxen (M31)?",
+      "q": "Varför ser stjärnor och galaxer ut att vara så långt borta när vi tittar på dem?",
       "options": [
-        "En oregelbunden galax utan tydlig kärna",
-        "En jättelik klotformad stjärnhop",
-        "En spiralgalax med armar av stjärnor och stoft"
+        "För att ljuset behöver tid för att färdas genom rymden",
+        "För att rymden krymper ihop runt jorden hela tiden",
+        "För att stjärnorna i universum ständigt flyr ifrån oss"
       ],
-      "correct": 2,
-      "fact": "Precis som vår egen Vintergatan är Andromeda en majestätisk spiralgalax som rymmer uppskattningsvis en biljon stjärnor."
+      "correct": 0,
+      "fact": "Eftersom avstånden i rymden är så enorma tar det ljuset miljontals år att nå våra teleskop, vilket gör att vi ser himlen som den såg ut för länge sedan."
     }
   ],
   "levels": {
-    "barn": "Här ser du vår närmaste stora granne i rymden: Andromedagalaxen! En galax är som en jättestor virvel av miljarder stjärnor, planeter och rymdgrus.\n\nNär astronomer fotograferar rymden blir bilderna inte alltid perfekta direkt. Flygplan flyger förbi och lämnar ljusa ränder, och satelliter drar vita streck över himlen. Det är som när någon råkar gå förbi precis när du tar ett foto med mobilen. Med datorns hjälp kan man städa bort alla streck så att den vackra galaxen syns ordentligt.",
-    "nyborjare": "Andromedagalaxen, även känd som M31, är Vintergatans närmaste stora granngalax och ligger ungefär 2,5 miljoner ljusår bort. Den här bilden visar hur galaxen ser ut innan bildbehandlingen har städat upp alla störningar.\n\nFör att fånga det svaga ljuset från avlägsna galaxer krävs lång exponeringstid, vilket innebär att kameran samlar in ljus under många minuter. Under den tiden hinner mycket störa bilden. De raka, ljusa linjerna som skär genom rymden är spår från flygplan och satelliter som passerar i jordens atmosfär och omloppsbana. Dessutom syns små prickar och streck från kosmisk strålning och trasiga kamerapixlar. Genom att lägga ihop hundratals bilder digitalt kan astronomer filtrera bort dessa jordiska störningar och visa galaxens verkliga prakt.",
-    "entusiast": "Andromedagalaxen (Messier 31) är det mest avlägsna objekt som det mänskliga ögat kan skönja utan teleskop under en mörk himmel. Denna sammansatta exponering från 2019 består av 223 delbilder på 300 sekunder vardera, vilket ger en total exponeringstid på över 18 timmar. Bilden illustrerar rådatans utmaningar inom modern astrofotografering från markbaserade observatorier.\n\nI råstacken syns tydliga spår av vår allt mer trafikerade närmiljö: parallella navigationsljus från flygplan och utdragna banor från satelliter i låg omloppsbana kring jorden. Utöver dessa artificiella störningar innehåller sensordatan spår av kosmisk strålning som träffat kiselchippet, termiskt brus samt heta och döda pixlar.\n\nFör att återskapa M31:s faktiska struktur används specialiserad programvara för bildbehandling, såsom Astro Pixel Processor och PixInsight. Genom statistiska metoder, exempelvis sigma-clipping under bildstackningen, kan avvikande pixlar från satellitspår och sensorartefakter effektivt uteslutas. Resultatet förvränger inte verkligheten utan befriar snarare signalen från jordbunden kontamination. Kvar blir en ren representation av galaxens stjärnbefolkning, stoftband och satellitgalaxerna M32 och NGC 205."
-  }
+    "barn": "Tänk dig en stor snurra på himlen som är gjord av miljarder glittrande stjärnor. Det är Andromedagalaxen, vår allra närmaste stora rymdgranne. När man tar ett foto av den fastnar det ibland streck från flygplan och satelliter på bilden. Det är som att försöka fota en fin blomma genom ett fönster där det har fastnat små dammkorn.",
+    "nyborjare": "Andromedagalaxen, även känd som M31, är vår närmaste stora galaktiska granne. Ljuset från denna avlägsna galax har färdats i 2,5 miljoner ljusår innan det når fram till våra teleskop på jorden. När astronomer tar långa exponeringar för att fånga upp det svaga ljuset från galaxen följer ofta oönskade detaljer med på köpet. Det kan handla om spår efter flygplan och satelliter som passerar förbi, eller kosmiska strålar. Genom att använda speciell bildbehandlingsprogramvara kan man rensa bort dessa jordiska artefakter och avslöja hur galaxen faktiskt ser ut.",
+    "entusiast": "Den här bilden av Andromedagalaxen illustrerar utmaningarna med modern astrofotografi från marken. M31 är en spiralgalax av typ SA(s)b med en massa som är jämförbar med eller något större än Vintergatans. Bilden är ett resultat av en stackning av 223 individuella exponeringar om 300 sekunder vardera, tagna under 2019. Under så långa exponeringstider i tätt trafikerade luftrum och omloppsbanor är det oundvikligt att instrumenten fångar upp artefakter som ljusspår från flygplan, satellitstråk, kosmiska strålar och dåliga pixlar på kamerasensorn. För att återskapa galaxens sanna utseende används avancerade programvaror som Astro Pixel Processor, DeepSkyStacker och PixInsight. Processen handlar inte om att förfalska verkligheten utan om att minimera störningar orsakade av jordens atmosfär och närmiljö för att komma närmare galaxens faktiska morfologi."
+  },
+  "terms": [
+    {
+      "term": "Andromedagalaxen",
+      "explanation": "En enorm spiralgalax som är vår närmaste stora galaktiska granne i universum."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset hinner färdas under ett helt kalenderår."
+    },
+    {
+      "term": "exponering",
+      "explanation": "Den tid under vilken en kameras sensor samlar in ljus för att skapa en bild."
+    },
+    {
+      "term": "spiralgalax",
+      "explanation": "En typ av galax som har vackra armar av stjärnor och gas som snurrar kring ett centralt klot."
+    },
+    {
+      "term": "kosmiska strålar",
+      "explanation": "Snabba och laddade partiklar som färdas genom rymden med oerhörd hastighet."
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-02",
   "title": "The Complete Sharpless Catalog: 313 Nebulas",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABkDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgABAwb/xAAiEAACAgEDBAMAAAAAAAAAAAABAgARIRIxQQMjUmFRU4H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhUf/aAAwDAQACEQMRAD8A8eF1WRgCJWoBbutyOISoKYsYwN7kFUPkbjfiNZqLgwE1FdS7Xcejp+SzgwUYtTMofXCss4QYDIJGblZIWzgHjiaVJWwpVfUVAgkXVccGQgYk2N/dRV1PGYyhaAcNj9l3PkSgVXT/2Q==",
   "quiz": [
     {
-      "q": "Vad är egentligen en nebulosa av typen H II-region, som utgör huvuddelen av Sharpless-katalogen?",
+      "q": "Vad är en H II-region för något?",
       "options": [
-        "Ett moln av joniserad vätgas som lyser upp av heta, unga stjärnor",
-        "En döende stjärna som har exploderat i en våldsam supernova",
-        "Ett kompakt klotformigt stjärnhop längst ut i galaxens utkant"
+        "Ett moln av joniserat väte som lyser av stjärnljus",
+        "En döende stjärna som har kollapsat till ett svart hål",
+        "En typ av planet som kretsar kring unga stjärnor"
       ],
       "correct": 0,
-      "fact": "H II-regioner är enorma interstellära moln av gas där ultraviolett ljus från nyfödda, massiva stjärnor river loss elektroner från väteatomerna, vilket får gasen att glöda."
+      "fact": "En H II-region är ett enormt moln av gas där ultraviolett ljus från heta, unga stjärnor slår bort elektroner från väteatomerna så att gasen börjar glöda."
     },
     {
-      "q": "Sharpless-katalogen innehåller även planetariska nebulosor. Hur bildas en sådan?",
+      "q": "Hur bildas en supernovarest som Spaghetti-nebulosan?",
       "options": [
-        "När jätteplaneter kolliderar och frigör stora mängder gas",
-        "När en solliknande stjärna stöter bort sina yttre lagren mot slutet av sitt liv",
-        "Genom att kometer samlas i tätt packade moln runt en stjärna"
+        "Genom att två tunga galaxer krockar med varandra",
+        "När en massiv stjärna exploderar i slutet av sitt liv",
+        "När gas dras samman i mitten av ett spiralmönster"
       ],
       "correct": 1,
-      "fact": "Planetariska nebulosor har ingenting med planeter att göra. Namnet kommer av att de i äldre, svagare teleskop kunde se runda ut som planeter, men de är egentligen glödande gas skal från åldrande stjärnor."
+      "fact": "När en tung stjärna får slut på bränsle exploderar den som en supernova och slungar ut sina yttre lager i rymden, vilka bildar en lysande gasrest."
     },
     {
-      "q": "Vad är en supernovarest, som till exempel Spaghetti-nebulosan i katalogen?",
+      "q": "Vad kännetecknar en planetarisk nebulosa?",
       "options": [
-        "Resterna efter en stjärna som svalnat och blivit en vit dvärg",
-        "Ett moln av gas och stoft som ännu inte har samlats till en stjärna",
-        "De utkastade resterna av en massiv stjärnexplosion som expanderar i rymden"
+        "Den innehåller tusentals unga planeter under bildande",
+        "Den bildas när en stjärna som solen stöter bort sina yttre lager",
+        "Den består av fast is och sten som kretsar kring en stjärna"
       ],
-      "correct": 2,
-      "fact": "När tunga stjärnor får slut på bränsle exploderar de som supernovor. Explosionen slungar ut stjärnans material i rymden i enorma hastigheter, och det är denna expanderande chockvåg som bildar en supernovarest."
+      "correct": 1,
+      "fact": "En planetarisk nebulosa uppstår när en stjärna av samma storlek som solen blir äldre, sväller upp och kastar av sig sina yttre gaslager i rymden."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar in i ett jättelikt rum fullt av färgglada godis moln och glittrande lampor ute i rymden. Den här bilden visar massor av nebulosor, som är enorma moln av gas och rymdstoft. Vissa ser ut som hjärtat, andra som örnar eller slingrande spagetti. Det är som ett jättestort fotoalbum över rymdens vackraste och fluffigaste moln där nya stjärnor föds.",
-    "nyborjare": "Den här bilden samlar hela Sharpless-katalogen, vilket innebär över 300 rymdobjekt. Huvuddelen utgörs av H II-regioner. Det är gigantiska moln av vätgas som lyser upp av det intensiva ljuset från unga och mycket varma stjärnor. Men katalogen rymmer mer än så. Här finns också planetariska nebulosor, som är vackra skal av gas som kastas ut från döende stjärnor, samt supernovarester som är resterna efter våldsamma stjärnexplosioner. Att fånga alla dessa svaga objekt kräver långa exponeringstider och känsliga filter för att lyfta fram detaljerna.",
-    "entusiast": "Sharpless-katalogen är en heltäckande sammanställning av H II-regioner, alltså områden med joniserad vätgas där stjärnbildning pågår eller nyligen har ägt rum. Även om fokus ligger på dessa områden inkluderar samlingen andra typer av emissionsnebulosor, däribland planetariska nebulosor som Sh2-274 och supernovarester som Sh2-240. För att fotografera ett helt sådant här bibliotek av kosmiska strukturer används ofta smalbandiga filter som isolerar specifikt ljus från ämnen som joniserat väte och syre. Det blockerar effektivt störande ljusföroreningar och framhäver de svaga filamenten. Varje enskild nebulosa kräver timmar av exponering för att avslöja de intrikata gasstrukturer som har formats av stjärnvindar och strålning under miljontals år."
-  }
+    "barn": "Tänk dig att du tittar in i ett gigantiskt tivoli i rymden där det finns massor av färgglada moln av gas. Det här är en stor samling av trehundratretton moln som lyses upp av glödande stjärnor långt borta. Vissa moln ser ut som hjärtat, andra som djur eller mystiska figurer. Det är som ett jättestort pysselalbum för stjärnkikare som visar hur vackert universum kan glänsa i mörkret.",
+    "nyborjare": "Den här storslagna bilden visar samtliga trehundratretton objekt i den så kallade Sharpless-katalogen, vilket är en känd sammanställning av vackra och spännande rymdmoln. Här ryms allt från gigantiska stjärnfabriker där nya solar föds till gamla gasrester efter våldsamma stjärnexplosioner. För att fånga in dessa svaga detaljer krävs det att man använder speciella filter som bara släpper igenom ljus från vissa grundämnen, som väte och syre. Det är ett enormt arbete som har tagit hundratals timmar under mörka nätter för att kartlägga den kosmiska miljön.",
+    "entusiast": "Den kompletta Sharpless-katalogen samlar 313 H II-regioner och andra relaterade objekt spridda över natthimlen. Bland dessa finns välkända emissionsnebulosor som Örnnebulosan, Hjärtnebulosan och Orionnebulosan, vilka drivs av hård ultraviolett strålning från heta O- och B-stjärnor som joniserar den omgivande gasen. Katalogen begränsar sig dock inte enbart till H II-regioner utan inrymmer även utvecklingsmässigt helt andra objekt, såsom den planetariska nebulosan Medusa-nebulosan och supernovarester i form av Spaghetti-nebulosan. Genom att använda smalbandiga filter som är optimerade för att isolera emissionen från joniserat väte och syre, tillsammans med traditionella RGB-filter, kan astrofotografer urskilja de svaga konturerna av utsträckt gas. Att dokumentera alla dessa objekt kräver en monumental insats med långa exponeringstider på flera timmar per fält, vilket summerar till hundratals timmars total integreringstid under optimala mörkerobservationer."
+  },
+  "terms": [
+    {
+      "term": "nebulosa",
+      "explanation": "Ett gigantiskt moln av gas och stoft som svävar ute i rymden mellan stjärnorna."
+    },
+    {
+      "term": "supernova",
+      "explanation": "En oerhört kraftfull och ljusstark explosion som markerar slutet på en tung stjärnas liv."
+    },
+    {
+      "term": "ioniserad",
+      "explanation": "Ett tillstånd där atomer har förlorat eller tagit upp elektroner så att de får en elektrisk laddning."
+    },
+    {
+      "term": "filter",
+      "explanation": "Ett optiskt verktyg som placeras framför en sensor för att bara släppa igenom ljus med en viss våglängd."
+    }
+  ]
 }

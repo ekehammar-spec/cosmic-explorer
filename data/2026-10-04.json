@@ -1,6 +1,6 @@
 {
-  "v": 2,
-  "model": "gemini-3.8-flash",
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-04",
   "title": "Supernumerary Rainbows over New Jersey",
   "title_sv": "Övertaliga regnbågar över New Jersey",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABYDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBQIDBv/EACUQAAIBBAICAAcAAAAAAAAAAAECAAMEERIhMQUiEzJBYXGR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEC/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECEQMSEyFR/9oADAMBAAIRAxEAPwCu+CveSIzboVBbbIEx12YAZ5jtWkKKrTK5IGT+YxTS9A4ltaLkse4TeoVhxkmEsmEePo73ak/KvscxqsS1RiSMk5M53wN3dPZ4RW1pcbHpufr/ACNV/MC1qql1bVUyOXIGuftEp5e1PRnMlYWDMV6WEXHmLEIrKFbbv3wB+4Qvmj6Yxn//2Q==",
   "quiz": [
     {
-      "q": "Vad är det för fysikaliskt fenomen som skapar de extra, tätt sittande ränderna på insidan av regnbågen?",
+      "q": "Vad är det som orsakar att regnbågar ibland visar flera svaga bågar på insidan av huvudbågen?",
       "options": [
-        "Ljusets våginterferens när det lämnar dropparna",
-        "Reflektion mot svävande iskristaller i atmosfären",
-        "Polarisering orsakad av molekyler i ozonskiktet"
-      ],
-      "correct": 0,
-      "fact": "De övertaliga banden uppstår när ljusvågor tar något olika vägar genom regndropparna och samverkar eller släcker ut varandra genom interferens."
-    },
-    {
-      "q": "Vilket villkor måste regndropparna uppfylla för att dessa övertaliga bågar ska bildas?",
-      "options": [
-        "De måste frysa till små runda hagelkorn under sitt fall",
-        "De måste ha nästan identisk storlek och vara under en millimeter",
-        "De måste passera genom ett kraftigt statiskt elektriskt fält"
+        "Att solljuset träffar iskristaller istället för vattendroppar i luften",
+        "Ljusvågor som interfererar med varandra när vattendropparna är jämna i storlek",
+        "Reflektioner från molnens undersida som speglas i atmosfären"
       ],
       "correct": 1,
-      "fact": "Dropparna måste vara mycket jämna i storlek för att interferensmönstret ska bli synligt, annars smetas färgbanden ut till ett diffust ljus."
+      "fact": "Övertaliga regnbågar bildas genom våginterferens när regndropparna är nästan exakt lika stora och mindre än en millimeter i diameter."
     },
     {
-      "q": "Vad i fysikens historia bidrog observationer av övertaliga regnbågar till att bevisa under tidigt 1800-tal?",
+      "q": "Vilken egenskap hos ljuset bevisades historiskt genom studiet av dessa ovanliga regnbågar?",
       "options": [
-        "Att ljushastigheten är konstant i alla referensramar",
-        "Att vitt solljus i själva verket består av fotoner",
-        "Att ljus beter sig som vågor och inte enbart som partiklar"
+        "Att ljus har en vågnatur",
+        "Att ljus färdas med en begränsad hastighet",
+        "Att solljus består av alla regnbågens färger"
       ],
-      "correct": 2,
-      "fact": "Klassisk stråloptik kunde inte förklara de extra banden, vilket gjorde fenomenet till ett viktigt tidigt bevis för ljusets vågnatur."
+      "correct": 0,
+      "fact": "När dessa speciella bågar uppmärksammades i början av 1800-talet sågs det som ett tidigt bevis för att ljus beter sig som vågor."
+    },
+    {
+      "q": "Hur stora måste regndropparna vara för att de ovanliga följdbågarna ska kunna uppstå?",
+      "options": [
+        "Större än en centimeter i diameter",
+        "Mindre än en millimeter i diameter",
+        "Exakt fem millimeter i diameter"
+      ],
+      "correct": 1,
+      "fact": "För att interferenseffekten ska synas tydligt krävs det att alla fallande vattendroppar är mindre än en millimeter över."
     }
   ],
   "levels": {
-    "barn": "Ibland kan en regnbåge få extra färgband på insidan, precis som om någon målat flera små regnbågar tätt intill varandra!\n\nDet händer när regndropparna i luften är pyttesmå och nästan exakt lika stora. När solens ljus studsar inuti dropparna krockar ljusstrålarna med varandra. Tänk dig vad som händer när du kastar två stenar i en sjö samtidigt: ringarna på vattnet krockar och skapar nya mönster. Precis så krockar ljuset och trollar fram de här sällsynta extraränderna.",
-    "nyborjare": "En vanlig regnbåge uppstår när solljus bryts och reflekteras inuti regndroppar, vilket delar upp det vita ljuset i ett spektrum av färger. På den här bilden syns dock något betydligt mer ovanligt: flera svagare, tätt liggande bågar på insidan av huvudregnbågen. Dessa kallas för övertaliga regnbågar.\n\nFenomenet kräver att regndropparna är anmärkningsvärt jämna i storlek och typiskt sett mindre än en millimeter i diameter. Till skillnad från den vanliga regnbågen kan dessa extra bågar inte förklaras med enkel stråloptik. Istället uppstår de genom interferens, en vågeffekt där ljusvågor antingen förstärker eller släcker ut varandra beroende på hur de möts, vilket bildar det upprepade mönstret.",
-    "entusiast": "Klassisk geometrisk optik enligt Descartes och Newtons strålmodell räcker för att härleda primära och sekundära regnbågar, men faller helt kort när det gäller övertaliga regnbågar. Dessa inre bågar är ett rent vågoptiskt fenomen som matematiskt beskrivs genom Airy-teori och mer rigoröst via Mie-spridning.\n\nNär en plan vågfront av solljus träffar en regndroppe tar ljuset något olika geometriska vägar genom vattnet. Efter intern reflektion uppstår en fasskillnad mellan strålar som lämnar droppen i nästan samma vinkel. Den resulterande fasförskjutningen leder till konstruktiv och destruktiv interferens, vilket genererar en serie intensitetsmaxima och intensitetsminima på insidan av regnbågens primära vinkel.\n\nFör att mönstret ska vara observerbart med blotta ögat krävs en extremt monodispers droppstorleksfördelning där partiklarna typiskt understiger 1 millimeter i diameter. Om dropparna har varierande radier förskjuts interferensvinklarna för varje enskild droppstorlek, vilket resulterar i att mönstret smetas ut. Under tidigt 1800-tal analyserade fysikern Thomas Young detta fenomen, vilket utgjorde ett avgörande empiriskt bevis för ljusets vågnatur gentemot Newtons korpuskulärteori."
-  }
+    "barn": "Tänk dig en helt vanlig regnbåge med sina sju färger på himlen. Ibland kan man ha så stor tur att det dyker upp flera extra regnbågar precis bredvid den vanliga. Det ser ut som att himlen har målat flera färgglada band på samma gång. Detta händer när små, små vattendroppar i luften är exakt lika stora och jobbar tillsammans för att spegla solljuset på ett alldeles speciellt sätt, precis som när man kastar en liten sten i en spegelblank vattenpuss.",
+    "nyborjare": "Efter ett oväder med kraftigt regn kan det ibland dyka upp en sällsynt syn på himlen: övertaliga regnbågar. Istället för bara en enda färgstark båge syns flera svagare bågar på insidan av den vanliga regnbågen. Detta spännande fenomen uppstår endast när regndropparna som faller är nästan exakt lika stora och mindre än en millimeter breda. Solljuset reflekteras då inte bara inuti dropparna utan börjar också interferera med varandra. Interferens är en vågfenomen som liknar de ringar som bildas på vattenytan när man kastar i en sten. Att forskarna förstod detta i början av 1800-talet blev ett viktigt bevis för ljusets vågnatur, vilket visar att ljus kan bete sig som vågor på samma sätt som vatten.",
+    "entusiast": "När resterna av orkaner drar förbi kan atmosfäriska förhållanden ibland skapa optiska fenomen som övertaliga regnbågar. Till skillnad från en primär regnbåge som förklaras helt med geometrisk optik, det vill säga ljusets refraktion och reflektion i enskilda sfäriska vattendroppar, kräver dessa extra bågar vågoptik för att förstås. När vattendropparna är monodispersa i storlek, det vill säga alla har en diameter under en millimeter, överlappar de ljusvågor som har reflekterats internt. Detta leder till destruktiv och konstruktiv interferens, ett fenomen som är analogt med krusningar på en damm. Förekomsten av dessa sekundära band på insidan av huvudbågen fungerade under tidigt 1800-tal som tidiga empiriska bevis för ljusets vågnatur och bidrog starkt till förståelsen av elektromagnetisk strålning innan kvantmekaniken utvecklades."
+  },
+  "terms": [
+    {
+      "term": "interferens",
+      "explanation": "När två eller flera vågor möts och antingen förstärker varandra eller släcker ut varandra."
+    },
+    {
+      "term": "refraktion",
+      "explanation": "När ljusvågor ändrar riktning när de rör sig från ett medium till ett annat med annan täthet."
+    },
+    {
+      "term": "vågnatur",
+      "explanation": "Egenskapen hos ljus och andra partiklar att bete sig som svängande vågor i vissa situationer."
+    },
+    {
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en planet och hålls kvar på plats av gravitationskraften."
+    }
+  ]
 }

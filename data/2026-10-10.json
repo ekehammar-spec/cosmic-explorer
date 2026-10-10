@@ -1,5 +1,5 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.8-flash",
   "date": "2026-10-10",
   "title": "Lunar Farside",
@@ -15,39 +15,61 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAwUC/8QAKxAAAQMDAgQEBwAAAAAAAAAAAQIDBAARIQVREiIxQRMUkdFCUmFxgaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFDQtEOoXff4kxkm2OqzsKamYbMdNmGUISPlT/asixhF09hhIwEW/Pc0Qw2gN2uU2FgKAB+CzJ5HmkOA9yM+tKmtaQYCg40SphRtnqk7U7k2B4bcQ64oaZGEqI404L+IkhP37UERJfmoLLiVXBTf3HrVvjBJ5hzDvvSZo+rGCS07dTCjfHVJ3FMaHmZICmHELTb4VZ96AtMpsIOM3ya5lSgxGceWeRtJUBue37rMeebj3LjiUJ+pzWLq2qmbZpu4ZTv1VQf/2Q==",
   "quiz": [
     {
-      "q": "Varför kan vi från jorden aldrig se den här sidan av månen?",
+      "q": "Varför ser vi från jorden alltid samma sida av månen?",
       "options": [
-        "Månen roterar runt sin egen axel i samma takt som den kretsar runt jorden.",
-        "Månens baksida är permanent vänd bort från solen och därför helt mörklagd.",
-        "Jordens starka magnetfält böjer av ljuset så att baksidan förblir osynlig."
-      ],
-      "correct": 0,
-      "fact": "Månen har bunden rotation runt jorden, vilket gör att den alltid visar samma sida mot oss."
-    },
-    {
-      "q": "Vad är den främsta geologiska orsaken till att månens baksida nästan helt saknar mörka månhav?",
-      "options": [
-        "Meteoritregn har krossat den mörka lavan till ljust stoft under årmiljarderna.",
-        "Baksidans skorpa är tjockare, vilket hindrade lava från det inre att nå ytan.",
-        "Solvinden har under miljarder år blekt bergarterna på baksidan till en ljus färg."
+        "Månen snurrar inte alls runt sin egen axel",
+        "Månens rotationstid är exakt lika lång som dess omloppstid kring jorden",
+        "Jordens magnetfält låser fast månens kärna i en fast vinkel"
       ],
       "correct": 1,
-      "fact": "Den tjockare jordskorpan på baksidan gjorde att forntida magma sällan kunde tränga upp och bilda vidsträckta lavaslätter."
+      "fact": "Fenomenet kallas bunden rotation och beror på att tidvattenkrafter har synkroniserat månens rotation kring sin egen axel med dess bana runt jorden."
     },
     {
-      "q": "Vilken rymdsond lyckades för allra första gången fotografera månens baksida år 1959?",
+      "q": "Vad är den främsta geologiska skillnaden mellan månens framsida och dess baksida?",
       "options": [
-        "Apollo 8",
-        "Mariner 2",
-        "Luna 3"
+        "Baksidan är täckt av tjock is medan framsidan består av sten",
+        "Baksidan har nästan inga mörka lavaslätter utan domineras av kratrar",
+        "Baksidan är helt slät eftersom den skyddas från meteoritnedslag"
       ],
-      "correct": 2,
-      "fact": "Sovjetiska Luna 3 tog de historiska första bilderna av baksidan i oktober 1959 och visade dess kraterrika terräng."
+      "correct": 1,
+      "fact": "Månens baksida har mycket få mörka månhav av stelnad basalt, vilket tros bero på att jordskorpan där är betydligt tjockare än på framsidan."
+    },
+    {
+      "q": "Vad kallas de stora, mörka områdena på månen som man kan se med blotta ögat från jorden?",
+      "options": [
+        "Månberg",
+        "Månhav",
+        "Månkanjoner"
+      ],
+      "correct": 1,
+      "fact": "Tidiga astronomer trodde att de mörka, släta ytorna var riktiga oceaner och gav dem det latinska namnet maria, som betyder hav."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du dansar runt en kompis och hela tiden tittar kompisen rakt i ögonen. Då ser kompisen bara din framsida, aldrig din rygg! Precis så gör månen när den snurrar runt jorden. Den här bilden visar månens baksida, som vi aldrig kan se från marken. Den är full av runda gropar som kallas kratrar. Kratrarna blev till när rymdstenar kraschade in i månen för jättelänge sedan. Här finns nästan inga mörka fläckar som på framsidan, utan mest ljusa och steniga kullar.",
-    "nyborjare": "Från jorden ser vi alltid samma sida av månen på grund av ett fenomen som kallas bunden rotation, vilket innebär att månen roterar ett varv runt sin egen axel på exakt samma tid som den kretsar runt jorden. Därför fick mänskligheten vänta ända tills rymdåldern innan vi för första gången fick se baksidan. Till astronomernas förvåning ser månens baksida helt annorlunda ut än den bekanta framsidan. Framsidan är täckt av stora, mörka slätter av stelnad lava som kallas månhav, medan baksidan nästan helt domineras av en ljus och kraftigt ärrad yta full av nedslagskratrar. Forskarna tror att detta beror på att månens skorpa är betydligt tjockare på baksidan, vilket gjorde det svårt för smält magma från månens inre att tränga upp till ytan vid meteoritnedslag.",
-    "entusiast": "Månens baksida uppvisar en markant geologisk dikotomi jämfört med den jordvända framsidan. Denna skarpa mosaik är sammansatt av över 15 000 bilder tagna med vidvinkelkameran på NASA:s rymdsond Lunar Reconnaissance Orbiter (LRO) mellan 2009 och 2011, med en detaljrikedom på 100 meter per pixel. Medan framsidan präglas av vidsträckta, mörka basaltiska månhav, eller maria, består baksidan nästan uteslutande av ett anortositrikt och extremt kratermättat högland. Den rådande vetenskapliga förklaringen till denna asymmetri är att baksidans skorpa är betydligt tjockare än framsidans, något som bekräftats av gravitometriska mätningar från NASA:s GRAIL-sonder. När massiva impaktorer slog ner under solsystemets tidiga bombardemang lyckades de sällan penetrera baksidans tjocka litosfär tillräckligt djupt för att inducera den massiva flodvulkanism som fyllde framsidans sänkor med järnrik basalt. Orsaken till denna asymmetriska skorptillväxt är föremål för aktiv forskning, med teorier som spänner från termiska effekter orsakade av den heta unga jorden till en långsam kollision med en mindre följeslagarmåne. Eftersom månen befinner sig i synkron rotation vänder den alltid samma sida mot jorden. Detta gör baksidan helt avskärmad från jordens elektromagnetiska brus, vilket gör den till solsystemets mest optimala observationsplats för framtida lågfrekvent radioastronomi."
-  }
+    "barn": "Tänk dig att du dansar runt en kompis och hela tiden håller ögonkontakt. Då ser kompisen bara din framsida, aldrig din rygg! Precis så gör månen runt jorden.\n\nDet här fotot visar månens baksida. Den kan vi aldrig se från marken. Den är inte mörk och slät som framsidan, utan gropig som en gammal pannkaka full av kratrar efter rymdstenar som kraschat där under miljontals år.",
+    "nyborjare": "Månen snurrar runt sin egen axel på precis samma tid som den tar ett varv runt jorden. Detta fenomen kallas bunden rotation och gör att vi från jorden alltid ser samma sida vänd mot oss. För att se månens baksida måste vi därför skicka ut rymdsonder.\n\nNär forskarna fick de första bilderna av baksidan blev de förvånade. Medan framsidan pryds av mörka, släta områden som kallas månhav, består baksidan nästan uteslutande av ljus, kraterärrad höglandsterräng. Skillnaden beror troligen på att skorpan är mycket tjockare på baksidan. När stora asteroider slog ned för länge sedan kunde det smälta berget från månens inre inte tränga upp och fylla kratrarna på samma sätt som på framsidan.",
+    "entusiast": "Tack vare gravitationsbunden rotation befinner sig månen i en synkron bana med jorden. Denna bild är en global mosaik sammansatt av över 15 000 bilder tagna av rymdsonden Lunar Reconnaissance Orbiter (LRO) med dess vidvinkelkamera, och visar baksidan med en upplösning ner till 100 meter per pixel.\n\nDen slående asymmetrin mellan hemisfärerna har länge fascinerat astronomer. Medan framsidan domineras av vidsträckta månhav bestående av basaltisk lava, täcks baksidan av en kraterfylld, anortositisk yta med minimal vulkanisk aktivitet. Geofysiska mätningar bekräftar att baksidans skorpa är betydligt tjockare. Det har förhindrat magma från att penetrera ytan vid nedslagshändelser. Forskningen kring asymmetrin ger viktiga ledtrådar till hur månen svalnade och utvecklades termiskt strax efter sin bildning."
+  },
+  "terms": [
+    {
+      "term": "bunden rotation",
+      "explanation": "När en himlakropp roterar runt sin axel på samma tid som den kretsar kring sitt moderobjekt."
+    },
+    {
+      "term": "krater",
+      "explanation": "En skålformad fördjupning i marken som har bildats när en meteoroid eller asteroid kraschat."
+    },
+    {
+      "term": "månhav",
+      "explanation": "Mörka och släta slätter av stelnad lava på månens yta, huvudsakligen bestående av basalt."
+    },
+    {
+      "term": "skorpa",
+      "explanation": "Det yttersta, fasta och svala lagret av bergarter på en planet eller måne."
+    },
+    {
+      "term": "Lunar Reconnaissance Orbiter",
+      "explanation": "En amerikansk rymdsond som kretsar kring månen för att kartlägga dess yta i hög upplösning."
+    }
+  ]
 }

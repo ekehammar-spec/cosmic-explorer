@@ -1,53 +1,71 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-12",
   "title": "Apollo 11: Catching Some Sun",
-  "title_sv": "Apollo 11: Solsken på månen",
+  "title_sv": "Apollo 11: Fångar lite sol",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
   "thumb": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
   "hdurl": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
   "link": "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/",
-  "credit": "Image Credit: Apollo 11, NASA (Image scanned by Kipp Teague)",
+  "credit": "Apollo 11, NASA (Image scanned by Kipp Teague)",
   "w": 2349,
   "h": 2361,
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCAwYH/8QAKBAAAgEDAgUEAwEAAAAAAAAAAQIDAAQREiEFMUFRYRQigbFScZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/AMzY2SLHmQDJAP8AaE4lCsbe0U3teEzQEL6g6c506andcDkuSMzhfOnNJbB81nktl9KXlBDNunMZH1QrhQgK79z57VoOI2ccNvbxsXZY0xqzgaiT06bYpKts0oOgkKvfvRb6TnHQlxGpDS5XwR9CrmKhCAyhsY3/ANpY0jKigaNZ/EH7pcOH6JGkkkLTA9XLADzvWoxuC0UOmQRzhuQWQjJ/RpMwVXZQ95bknPsTWD8jerwjLtHqkGOo5fAom2uzGxU6AQerY271if/Z",
   "quiz": [
     {
-      "q": "Vad kallas strömmen av laddade partiklar som ständigt flödar ut från solen och som astronauterna samlade in ett prov av?",
+      "q": "Vad består solvinden huvudsakligen av?",
       "options": [
-        "Solvinden",
-        "Jonosfären",
-        "Kosmisk bakgrundsstrålning"
+        "Partiklar som strömmar ut från solen",
+        "Tunga grundämnen som guld och järn",
+        "Koncentrerade strålar av synligt ljus"
       ],
       "correct": 0,
-      "fact": "Solvinden består av elektroner och protoner som kastas ut från solens yttersta atmosfär med enorm hastighet och färdas genom hela solsystemet."
+      "fact": "Solvinden är en ständig ström av laddade partiklar som slungas ut från solens yttersta lager ut i rymden."
     },
     {
-      "q": "Vilket år genomfördes den historiska månlandningen med Apollo 11 då människan för första gången gick på månytan?",
+      "q": "Varför är det en stor fördel att samla in material direkt från månytan jämfört med jorden?",
       "options": [
-        "1961",
-        "1969",
-        "1972"
+        "Månen har mycket starkare gravitation som drar till sig rymdstoft",
+        "Månen saknar en skyddande atmosfär som bromsar in solvindsartiklar",
+        "Månens yta är täckt av flytande vatten som samlar upp ämnen"
       ],
       "correct": 1,
-      "fact": "Den 20 juli 1969 landade månlandaren Eagle på månen, och Neil Armstrong blev den första människan att sätta sin fot där."
+      "fact": "Eftersom månen saknar en skyddande atmosfär och magnetfält träffar solvinden direkt på ytan."
     },
     {
-      "q": "Ungefär hur mycket månsten och månmaterial fördes tillbaka till jorden av Apollo 11-missionen för vetenskaplig analys?",
+      "q": "Hur transporterades måneteriet tillbaka till jorden efter Apollo 11-landningen?",
       "options": [
-        "2,2 kilogram",
-        "22 kilogram",
-        "220 kilogram"
+        "Det skickades med obemannade fraktronfarkoster i efterhand",
+        "Det förvarades i specialbyggda säckar på rymdstationen",
+        "Det togs med i månlandaren och lastades in i kommandomodulen"
       ],
       "correct": 2,
-      "fact": "Astronauterna samlade in och tog med sig 22 kilogram prover från månytan tillbaka till jorden för att studeras i laboratorier."
+      "fact": "Astronauterna tog med både stenar och experimentet tillbaka i rymdfarkosten för noggranna analyser i laboratorier på jorden."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att hoppa runt på en stor grå studsmatta långt ute i rymden. Det är månen! På den här bilden från 1969 ser vi en rymdfarkost som ser ut som en spindel. Två astronauter är ute och går i sina stora vita dräkter. En av dem samlar faktiskt upp lite av det osynliga solljuset med en blank foliebit, ungefär som att fånga solsken i en glänsande godispapper.",
-    "nyborjare": "År 1969 tog astronauten Neil Armstrong denna bild av månytan under den historiska Apollo 11-färden. Vi ser månlandaren Eagle och astronauten Buzz Aldrin i full rymdutrustning. Aldrin håller på att rulla ut en folie som utgjorde ett så kallat solvindsexperiment. Solvinden är en ständig ström av laddade partiklar som flödar ut från solen i alla riktningar. Genom att exponera folien mot solen kunde forskarna fånga upp och ta med dessa solvindspartiklar tillbaka till jorden för analys, tillsammans med 22 kilogram månsten och jord.",
-    "entusiast": "Denna ikoniska bild från Apollo 11 dokumenterar inte bara mänsklighetens första landning på en annan himlakropp utan visar också ett viktigt vetenskapligt instrument i arbete. Månlandarmodulen Eagle syns i skarpt solljus mot månens mörka och karga yta, med skarpa skuggor som avslöjar avsaknaden av en atmosfär som kan sprida ljuset. Vid sidan om står Buzz Aldrin och sätter upp Solar Wind Composition Experiment, en metallfolie speciellt utformad för att fånga upp joner från solvinden. Eftersom månen saknar ett signifikant globalt magnetfält och en tät atmosfär når solvinden i princip oreflekterad ända ner till ytan. Proverna som samlades in, tillsammans med 22 kg geologiskt material från månytan, gav ovärderlig information om solens sammansättning och det tidiga solsystemets historia när de analyserades i laboratorier på jorden."
-  }
+    "barn": "Tänk dig att vara först i hela världen med att sätta fötterna på en helt ny plats! Det gjorde astronauten Neil Armstrong när han klev ut på månen. Medan kompisarna jobbade utanför rymdfarkosten samlade de upp både stenar och fångade upp osynliga partiklar som flög hela vägen från solen. Det var som att fiska efter rymdbitar med en speciell folieark som fungerade som en magisk håv för solens strålar.",
+    "nyborjare": "Den historiska månlandningen med Apollo 11 gav inte bara mänskligheten dess första steg på en annan värld, utan också unika vetenskapliga prover. På bilden syns månlandaren och astronauten Buzz Aldrin när han rullar ut en speciell folie för solforskning. Denna folie exponerades för solvinden, vilket är en ständig ström av laddade partiklar som flödar ut från solen. Efter uppdraget togs både folien och tjugotvå kilogram månstenar med tillbaka till jorden för grundliga laboratorieanalyser.",
+    "entusiast": "Apollo 11-uppdraget den 20 juli 1969 levererade inte bara ikoniska bilder utan även ovärderligt material för solfysiken. I denna bild rullar månlandarmjölnaren Buzz Aldrin ut folien för Solvinds-kompositionsexperimentet. Eftersom månen saknar en tät atmosfär och ett globalt magnetfält når solvinden oreducerad fram till dess yta. Den utplacerade folien fungerade som en passiv samlare för höghastighetspartiklar från solens korona. Tillsammans med tjugotvå kilogram insamlad månsten och regolit kunde forskare i jordburna laboratorier analysera isotopsammansättningen av material från solen själv, vilket gav djupare insikter om solsystemets tidiga utveckling och sammansättning."
+  },
+  "terms": [
+    {
+      "term": "månlandare",
+      "explanation": "Det farkostfordon som används för att landa på månens yta från omloppsbanan."
+    },
+    {
+      "term": "solvind",
+      "explanation": "En kontinuerlig ström av laddade partiklar som kastas ut från en stjärnas yttre atmosfär."
+    },
+    {
+      "term": "regolit",
+      "explanation": "Det lösa lager av stoft och krossat berg som täcker ytan på månen och andra himlakroppar."
+    },
+    {
+      "term": "korona",
+      "explanation": "Den yttersta och extremt heta delen av en stjärnas atmosfär som sträcker sig ut i rymden."
+    }
+  ]
 }

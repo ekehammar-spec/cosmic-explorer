@@ -1,9 +1,9 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-24",
   "title": "The Ghosts of Five Supernovas",
-  "title_sv": "Fem supernovarester i Kusken",
+  "title_sv": "Spökena från fem supernovor",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAUBBv/EACIQAAIBBAICAwEAAAAAAAAAAAECAwAEESESMQVBEyJRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQEBAAMBAQAAAAAAAAAAAAABAAIRQRIj/9oADAMBAAIRAxEAPwDxqxQ/GV5ZbGTUjDxhOFyO8keqdFBlQQNGuvGAREOWSd5pN2jyKlThgYSHipLrutGz8gLWI8lDH1+j9p3j/Gkh5JOZboBO91G7tLe3SWGRj83a+/7Ta7NiuBPWFTZRtvJPearxNxvU0G1n7DNFFS5VT6T7Sd0aVlPE4Oxqs66JLFztiaKKMHl//9k=",
   "quiz": [
     {
-      "q": "Vad är en supernovarest?",
+      "q": "Vad är en supernova?",
       "options": [
-        "Det svarta hål som alltid blir kvar efter en stor stjärna.",
-        "De utvidgande gasmoln som slungas ut när en stjärna exploderar.",
-        "Ett moln av gas som dras ihop för att bilda nya stjärnor."
+        "En stjärna som föds i ett gasmoln",
+        "En våldsam explosion när en tung stjärna dör",
+        "Ett svart hål som slukar en hel galax"
       ],
       "correct": 1,
-      "fact": "När en massiv stjärna får slut på bränsle exploderar den i en supernova och kastar ut sina yttre lager i rymden som lysande gasmoln."
+      "fact": "En supernova inträffar när en massiv stjärna får slut på bränsle och exploderar i en titanisk katastrof som slungar ut gas i rymden."
     },
     {
-      "q": "Vilka grundämnen färgar ofta supernovarester röda respektive blå på astronomiska bilder?",
+      "q": "Hur skapas de glödande filamenten av gas som syns i nebulosor efter en explosion?",
       "options": [
-        "Väte lyser ofta rött och syre lyser i blåa eller filamentära strukturer.",
-        "Kväve lyser blått och kol lyser i skarpt röda nyanser.",
-        "Helium lyser rött och järn ger ett intensivt blått sken."
+        "Genom att den utåtgående stötvågen från explosionen hettar upp omgivande gas",
+        "Genom att stjärnans kärna drar till sig stoft med enorm tyngdkraft",
+        "Genom att solen skickar ut solvindar som träffar månen"
       ],
       "correct": 0,
-      "fact": "Chockvågorna från explosionen hettar upp gasen, där joniserat väte sänder ut rött ljus och syre skapar blåaktiga trådliknande strukturer."
+      "fact": "När den enorma tryckvågen från en stjärnexplosion pressar sig fram genom rymden bildas glödande skal av gas som lyser i olika färger."
     },
     {
-      "q": "Hur kan tidiga människor ha upplevt supernovor som inträffade för tiotusentals år sedan?",
+      "q": "Varför kan gasmolnen efter gamla stjärnexplosioner lysa i olika färger som rött och blått?",
       "options": [
-        "Genom att höra en enorm dånande ljudvåg färdas genom rymden.",
-        "Genom att se en ny, mycket klar stjärna tändas på himlen som bleknade efter månader.",
-        "Genom att moln av aska nådde jorden och färgade solnedgångarna röda."
+        "Färgerna beror på att olika grundämnen som väte och syre exciteras och sänder ut ljus",
+        "Det är stjärnornas omgivande planeter som reflekterar solljuset i regnbågens färger",
+        "Rymdens mörker bryter ljuset precis som ett gigantiskt prisma"
       ],
-      "correct": 1,
-      "fact": "När stjärnor exploderar lyses himlen upp av en extremt ljusstark ny stjärna som kan synas tydligt i veckor eller månader innan den sakta tynar bort."
+      "correct": 0,
+      "fact": "Olika grundämnen i rymden skickar ut specifika våglängder av ljus när de hettas upp; vätgas lyser ofta rött och syre blått."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en jättestor stjärna smäller som en jättefyrverkeripjäs ute i rymden. När den exploderar sprätter den ut massa färgglad gas åt alla håll. Det ser ut som spöken eller slingrande maskar av rött och blått ljus. Sådana här gasmoln blir kvar i rymden i tusentals år efter att smällen har hänt.",
-    "nyborjare": "Bilden visar resterna efter fem gamla stjärnexplosioner, så kallade supernovor, som har inträffat oberoende av varandra i stjärnbilden Kusken. När en stjärna dör i en våldsam explosion slungas dess materia ut i rymden och bildar enorma moln av gas och stoft. Chockvågorna från explosionerna hettar upp gasen, vilket gör att den lyser. På denna djupexponering kan vi se lysande väte i rött och syre i blått som bildar vackra trådliknande strukturer, däribland den berömda Spaghettinebulosan.",
-    "entusiast": "Detta extraordinära djuptagen visar ett gigantiskt område i stjärnbilden Auriga, motsvarande ytan av tusen fullmånar. Observationerna från Oukaïmeden Observatory i Marocko, som tagit omkring 200 timmar att samla in, fångar fem distinkta supernovarester: G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (även känd som Sh2-240 eller Spaghettinebulosan) samt G178.2−4.2. Dessa oberoende stjärnexplosioner befinner sig på varierande avstånd upp till tusentals ljusår från jorden och har uppskattade åldrar på tiotusentals år. När de chockerade gasfronterna expanderar genom det interstellära mediumet exciteras väte och syre, vilket ger det karakteristiska röda och blå emissionsmönstret. I fältet syns även den öppna stjärnhopen M37 och Yngelnebulosan."
-  }
+    "barn": "Tänk dig att jättestora stjärnor har smällt som fantastiska nyårsraketer långt ut i rymden för väldigt länge sedan. De här färggranna molnen är resterna efter smällarna som fortfarande flyter omkring som stora spöken i mörkret. Det röda och blåa lyset kommer från glödande gas som sprider ut sig som moln av magisk färg. Om man tittar riktigt noga kan man föreställa sig att det är glittrande moln efter en kosmiskt stor fest bland stjärnorna.",
+    "nyborjare": "Den här storslagna vyn fångar resterna efter fem helt oberoende stjärnexplosioner, eller supernovor som de kallas, belägna i stjärnbilden Kusken. När en massiv stjärna dör kastar den våldsamt ut sina yttre lager i rymden. Explosionerna expanderar utåt och bildar vidsträckta skal av gas och känsliga filamentstrukturer. Det röda ljuset kommer från upphettad vätgas medan det blåa visar förekomsten av syre. Eftersom dessa explosioner har skett under loppet av tusentals år och på olika avstånd, har de hunnit växa till enorma proportioner och skapar idag ett spöklikt landskap på natthimlen.",
+    "entusiast": "Bilden är ett resultat av omkring 200 timmars observationer från Oukaïmeden Observatory i Marocko och täcker ett enormt himladecksområde i stjärnbilden Kusken, ekvivalent med tusen fullmånar. Den visar fem distinkta supernovarester: G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0-1.7 som även är känd som Spaghetti-nebulosan eller Sh2-240, samt G178.2-4.2. Dessa oberoende händelser inträffade på olika avstånd upp till flera tusen ljusår från jorden med en ålder på upp till tiotusentals år. Varje expansion har drivit en kraftfull stötvåg genom interstellär gas, vilket exciterar vätgas som lyser rött och syre som bildar blå filamentstrukturer. I synfältet syns även den öppna hop M37 och Yngelyktsnebulosan, vilka kompletterar detta komplexa astrofotografiska porträtt av åldrande galaktiska strukturer."
+  },
+  "terms": [
+    {
+      "term": "supernova",
+      "explanation": "En kraftfull och ljusstark explosion som markerar slutet på en massiv stjärnas livscykel."
+    },
+    {
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och rymdstoft som breder ut sig mellan stjärnorna i en galax."
+    },
+    {
+      "term": "väte",
+      "explanation": "Universums vanligaste och enklaste grundämne som utgör bränslet i stjärnornas kärnor."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset färdas under ett helt jordår, vilket motsvarar ungefär 9,5 biljoner kilometer."
+    }
+  ]
 }

@@ -1,53 +1,71 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-03",
   "title": "Selfie at Vera Rubin Ridge",
-  "title_sv": "Självporträtt vid Vera Rubin Ridge",
+  "title_sv": "Självporträtt vid Vera Rubin-åsen",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=480&h=480&fit=clip",
   "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1600&h=800&fit=clip&crop=faces%2Cfocalpoint",
   "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-  "credit": "Image Credit: NASA, JPL-Caltech, MSSS - Panorama: Andrew Bodrov",
+  "credit": "NASA, JPL-Caltech, MSSS - Panorama: Andrew Bodrov",
   "w": 480,
   "h": 240,
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAABQMEBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERMhMRIicQUyQlHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ANh0ADijr2/toVfpOq6j2r+1D6retqm1jyFA7yOfFCaZZcAkDkDgk1C1SQ5BeRTIpKFCwz9irBjBGRuKBs5JDhpO1QMBcY3pe2lwwX4tt4NNMf/Z",
   "quiz": [
     {
-      "q": "Vad kallas ett solgnst dygn på Mars, det vill säga ett marsianskt soldygn?",
+      "q": "Vad kallas en dag på Mars, som är ungefär 40 minuter längre än en jorddag?",
       "options": [
-        "Ett sol",
-        "Ett mars",
-        "Ett rad"
+        "En sol",
+        "En titan",
+        "En kronos"
       ],
       "correct": 0,
-      "fact": "Ett sol är ett marsianskt soldygn och är ungefär 40 minuter längre än ett jorddygn."
+      "fact": "En sol är benämningen på en soldag på Mars, det vill säga ett helt varv som planeten roterar kring sin egen axel i förhållande till solen."
     },
     {
-      "q": "Hur skapas de imponerande panoramabilderna som rymdrovar på andra planeter skickar hem till jorden?",
-      "options": [
-        "Genom att filma i en enda lång sekvens med en rörlig videokamera",
-        "Genom att montera ihop många enskilda fotografier till ett stort mosaikmönster",
-        "Genom att skapa en virtuell 3D-modell i en dator utifrån radardata"
-      ],
-      "correct": 1,
-      "fact": "Rovarna sätter ihop många mindre exponeringar, i det här fallet tiotals bilder, till en enda stor och detaljerad mosaik."
-    },
-    {
-      "q": "Vad är det för berg som reser sig i bakgrunden av Gale-kratern där Curiosity befinner sig?",
+      "q": "Vilket berg har Curiosity Rover kört uppför under sin expedition på Mars?",
       "options": [
         "Olympus Mons",
         "Mount Sharp",
-        "Valles Marineris"
+        "Ascraeus Mons"
       ],
       "correct": 1,
-      "fact": "Mount Sharp är det centrala berget i Gale-kratern som Curiosity har klättrat uppför under sin utforskning av planetens yta."
+      "fact": "Mount Sharp är det centrala berget i Gale-kratern som Curiosity har utforskat och klättrat uppför för att studera geologiska lager."
+    },
+    {
+      "q": "Vad kallas den typ av robotfordon som rullar runt på Mars yta för att undersöka marken?",
+      "options": [
+        "En landare",
+        "En satellit",
+        "En rover"
+      ],
+      "correct": 2,
+      "fact": "En rover är ett motordrivet terrängfordon som är byggt för att kunna köra omkring på andra himlakroppar och utföra vetenskapliga mätningar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en leksaksbil som är lika stor som en riktig bil och som kör runt på en röd planet helt ensam. Den kan inte ta vanliga foton med en selfiestick som vi gör på jorden. Istället har den en lång arm med en kamera på, som tar många små bilder av den själv från alla håll. Sedan pusslar forskarna ihop bilderna till en jättestor bild så att vi kan se hur roboten har det där borta i den röda sanden.",
-    "nyborjare": "Här ser vi en av vetenskapens mest otroliga skapelser, marsrovaren Curiosity, som tar ett så kallat självporträtt på den röda planeten. Bilden är egentligen ett stort kollage som satts ihop av 61 olika fotografier tagna med en kamera som sitter längst ut på rovarens mekaniska arm. Själva armen har sedan redigerats bort i efterhand för att ge oss fri sikt. Curiosity har rullat runt i den stora Gale-kratern sedan 2012 för att undersöka om miljön någonsin har kunnat stödja liv, och på vägen har den klättrat uppför det mäktiga berget Mount Sharp.",
-    "entusiast": "Denna detaljerade panoramabild visar marsrovaren Curiosity på den södra kanten av Vera Rubin Ridge på sol 1943, vilket motsvarar januari 2018. Mosaiken är uppbyggd av 61 exponeringar tagna med MAHLI, det vill säga Mars Hand Lens Imager, monterad på rovarens robotarm. För att skapa en komplett vy har armen redigerats bort digitalt medan bakgrunden kompletterats med Mastcam-bilder från sol 1903. Längst upp på masten syns ChemCam-huset, vars laserinstrument används för att analysera bergarters sammansättning. Curiosity har sedan landningen i Gale-kratern successivt tagit sig uppåt längs Mount Sharps sluttningar och dokumenterat Mars geologiska historia skikt för skikt, vilket ger oss avgörande ledtrådar om planetens våta och dynamiska förflutna."
-  }
+    "barn": "Tänk dig att du har en radiostyrd leksaksbil som är lika stor som en liten bil och som kör runt helt ensam på en röd och stenig ökenplanet. På planeten Mars rullar just en sådan tuff maskin runt och tar kort på sig själv. Den undersöker stenar och letar efter spår av gammalt vatten. Det är som att ha världens häftigaste rymdäventyr på avstånd.",
+    "nyborjare": "På ytan av den röda planeten Mars kör en bilstor robot som kallas rover omkring för att utforska sin omgivning. Den har rullat fram över den dammiga terrängen och nått fram till en stor formation som kallas Vera Rubin-åsen. För att dokumentera sitt arbete tar maskinen ibland panoramabilder av sig själv, vilket fungerar ungefär som en selfie. Maskinen använder sina inbyggda kameror för att fota alla delar av sitt eget chassi och sina instrument, för att sedan pussla ihop bilderna. Genom att studera de lager av sten och jord som finns i området kan forskarna lära sig mer om planetens historia och hur den har förändrats under miljarder år.",
+    "entusiast": "Curiosity Rover har sedan sin landning i Gale-kratern spelat en avgörande roll i utforskningen av Mars geologi. Den bildserie som ligger till grund för detta självporträtt är tagen vid södra kanten av Vera Rubin-åsen på sol 1943. En sol definieras som en marsdag och är ungefär fyrtio minuter längre än en jorddag. Panoraman har skapats genom att foga samman sextioett exponeringar tagna med instrumentet MAHLI, medan delar av bakgrunden och det utökade landskapet har fångats in med Mastcam. Maskinens laserförsedda ChemCam-enhet skymmer delvis det avlägsna Mount Sharp, vars topp höjer sig fem kilometer över kraterns botten. Under sin långa expedition har rovern mäktat med betydande höjdskillnader, vilket ger ovärderliga insikter om Mars klimathistoria och sedimentära avlagringar."
+  },
+  "terms": [
+    {
+      "term": "rover",
+      "explanation": "Ett motordrivet fordon som är konstruerat för att köra på ytan av en annan planet eller måne."
+    },
+    {
+      "term": "sol",
+      "explanation": "En benämning på ett helt dygn på planeten Mars."
+    },
+    {
+      "term": "krater",
+      "explanation": "En skålformad sänka i marken som har bildats efter ett nedslag av en meteorit eller genom vulkanisk aktivitet."
+    },
+    {
+      "term": "exponering",
+      "explanation": "Den tid under vilken en kameras sensor utsätts för ljus för att registrera en bild."
+    }
+  ]
 }

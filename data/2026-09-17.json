@@ -1,5 +1,5 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-17",
   "title": "A Treasure Chest in the Carina Nebula",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAJRAAAgAGAgEEAwAAAAAAAAAAAQIAAwQREiEFQTETIlFhFaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIDIQQREhP/2gAMAwEAAhEDEQA/AOblTGZFuga36jZTvZ9at1e8S4kS2rUR1yQDIr0fiH/NUVIkgTZCYMouWHgwPYPTKb7NRDV52ult/UEWcghWlS9xMO8bdQQta9kl9+dMp4iYrLNmeMRaN35NgiS0Om9uJ/sKKRplPTT5RU5ML3+R1GYTAjhDMACeT533BvGMl0tKHN4oJuN+SnyziSfcRsfcEKKj02LFnIudY7NoIcPmFZNapks2n//Z",
   "quiz": [
     {
-      "q": "Ungefär hur långt bort från jorden ligger Carinanebulosan?",
+      "q": "Vad är egentligen en nebulosa som Carinanebulosan?",
       "options": [
-        "7 500 ljusår",
-        "75 000 ljusår",
-        "750 000 ljusår"
+        "Ett jättelikt moln av gas och stoft där nya stjärnor föds",
+        "En rest av en exploderad stjärna som lyser i vackra färger",
+        "En kompakt samling av miljarder äldre stjärnor i en galax"
       ],
       "correct": 0,
-      "fact": "Carinanebulosan befinner sig cirka 7 500 ljusår bort, vilket är i vårt eget galaktiska kvarter i Vintergatan."
+      "fact": "Nebulosor är enorma interstellära moln av gas och stoft som fungerar som stjärnornas barnkammare i universum."
     },
     {
-      "q": "Vad är det som formar pelarna av gas och stoft i en nebulosa?",
+      "q": "Hur skapas de märkliga pelarstrukturerna i gasmoln?",
       "options": [
-        "Kraftfull stjärnvind och strålning från närliggande stjärnor",
-        "Svart hål i centrum som suger åt sig materia",
-        "Kraftiga magnetfält som drar ihop gasen som en dammsugare"
-      ],
-      "correct": 0,
-      "fact": "Stora mängder gas och stoft formas av energirik strålning och starka stjärnvindar från närliggande massiva stjärnor."
-    },
-    {
-      "q": "Hur beter sig riktigt massiva stjärnor jämfört med mindre stjärnor?",
-      "options": [
-        "De lever mycket längre eftersom de har mer bränsle",
-        "De lyser starkare men lever betydligt kortare tid",
-        "De lyser svagare eftersom deras massa dämpar ljuset"
+        "Genom att mörk materia drar samman gasen i långa cylinderformer",
+        "Av kraftiga stjärnvindar och strålning från närliggande tunga stjärnor",
+        "Genom kollisioner mellan två förbipasserande galaxer i rymden"
       ],
       "correct": 1,
-      "fact": "Massiva stjärnor förbrukar sitt bränsle i en rasande takt vilket gör att de skiner starkast men också dör mycket snabbare."
+      "fact": "Pelarna formas och skulpteras när intensiv strålning och starka stjärnvindar från omgivande massiva stjärnor eroderar det omgivande gasmolnet."
+    },
+    {
+      "q": "Vad kännetecknar de mest massiva stjärnorna i universum?",
+      "options": [
+        "De har längst livstid eftersom de bränner sitt bränsle mycket långsamt",
+        "De är mycket vanliga och finns i nästan varje liten stjärnhop",
+        "De lyser oerhört starkt men lever betydligt kortare tid än mindre stjärnor"
+      ],
+      "correct": 2,
+      "fact": "Massiva stjärnor är sällsynta ju större de är, lyser extremt starkt och förbrukar sitt kärnbränsle i snabb takt vilket gör att de lever kortast tid."
     }
   ],
   "levels": {
-    "barn": "Titta på den här häftiga rymdbilden som liknar en magisk skattkista full av glittrande stjärnor. Det är en stor pelare gjord av rymddamm och gas som ligger långt borta i vår galax. Inne i den här molniga pelaren föds helt nya stjärnor som formar som ett öppet lock på skattkistan. Det är rymdteleskopet James Webb som har tagit den fantastiska bilden med sina superskarpa ögon.",
-    "nyborjare": "Denna fascinerande bild visar en dammpelare i Carinanebulosan, ett enormt moln av gas och stoft där nya stjärnor bildas. Området ligger ungefär 7 500 ljusår bort i vår egen galax, Vintergatan. Ett ljusår är den sträcka som ljuset hinner färdas på ett helt år. Bilden är tagen med NASA:s James Webb-teleskop, som kan se genom det tjocka rymddammet med hjälp av infrarött ljus. Pelaren formas av starka stjärnvindar och strålning från närliggande jättestjärnor, vilket gröper ur materialet och skapar en form som liknar en öppen skattkista fylld med unga stjärnor.",
-    "entusiast": "Den här detaljrika bilden, fångad av NASA:s James Webb Space Telescope, visar en distinkt stoftpelare i Carinanebulosan belägen cirka 7 500 ljusår från jorden. Strukturen formas av fotoevaporation och kraftfulla stjärnvindar från närliggande massiva stjärnor, däribland det extrema stjärnsystemet Eta Carinae som överträffar solen i ljusstyrka med en faktor på över fem miljoner. Inuti pelaren pågår aktiv stjärnbildning som har gröpt ur toppen likt ett öppet lock på en kista. Den inneslutna, kompakta stjärnhopen beräknas vara blott 1,3 miljoner år gammal och rymmer ungefär 70 stjärnor. Bland dessa återfinns en massiv primär stjärna på omkring 19 solmassor. Observationer som denna illustrerar hur massiva stjärnor, trots sin korta livslängd och snabba evolution, drastiskt omformar sin omgivning genom joniserande strålning och mekanisk feedback från stjärnvindar."
-  }
+    "barn": "Tänk dig en stor, glimrande skattkista fylld med guld och ädelstenar långt ute i rymden. Det här är en riktig stjärnskattkista som gömmer sig i ett jättelikt moln av rymdgas. Det blåser starka vindar från jättelika stjärnor i närheten, och vindarna har öppnat locket på kistan så att massor av sprillans nya och skinande stjärnor kikar ut. Det är som att rymden har byggt sin egen hemliga skattkammare.",
+    "nyborjare": "Den här bilden visar en spektakulär stjärnskattkista inuti Carinanebulosan, ett enormt moln av interstellär gas och stoft som ligger ungefär 7 500 ljusår bort i vår egen galax. En nebulosa är en gigantisk rymdbarndomskammare där nya stjärnor föds ur sammandragen gas. Området har formats av kraftfulla stjärnvindar och strålning från närliggande massiva stjärnor, till exempel det enorma stjärnsystemet Eta Carinae som är ljusstarkare än fem miljoner solar tillsammans. Inne i gaspelaren öppnar stjärnbildningen ett slags lock, och astronomerna uppskattar att det finns ett sjuttiotal unga stjärnor i denna kompakta stjärnhop, inklusive en jätte som väger nitton gånger mer än solen.",
+    "entusiast": "Förevisad av James Webb-rymdteleskopets högupplösta instrument avslöjar denna bild en detaljerad studie av en stoftpelarstruktur i Carinanebulosan på cirka 7 500 ljusårs avstånd. Området domineras av dynamisk växelverkan mellan den omgivande interstellära medium-gasen och högenergetisk strålning samt kraftfulla stjärnvindar från närliggande luminösa objekt som Eta Carinae. Den pågående stjärnbildningen eroderar spetsen på stoftpelaren, vilket skapar den karakteristiska öppna kistloppsstrukturen. Den inneslutna stjärnhopen beräknas ha en ringa ålder på omkring 1,3 miljoner år och innehåller omkring sjuttio medlemmar. Bland dessa återfinns en massiv stjärna på cirka nitton solmassor. Eftersom massiva stjärnor har en extremt hög luminositet och en accelererad evolutionstakt på grund av snabb förbränning av kärnbränsle, representerar de korta men intensiva livscykler som starkt påverkar den kemiska anrikningen i galaxer."
+  },
+  "terms": [
+    {
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och stoft ute i rymden där nya stjärnor bildas."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Den sträcka som ljuset färdas under ett helt jordår, vilket används för att mäta astronomiska avstånd."
+    },
+    {
+      "term": "galax",
+      "explanation": "Ett jättelikt system av miljarder stjärnor, gas, stoft och mörk materia som hålls ihop av gravitation."
+    },
+    {
+      "term": "stjärnhop",
+      "explanation": "En grupp av stjärnor som bildades tillsammans och som hålls samman av sin gemensamma dragningskraft."
+    }
+  ]
 }

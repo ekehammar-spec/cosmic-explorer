@@ -1,5 +1,5 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-13",
   "title": "Comet NEOWISE Rising Over the Adriatic Sea",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQb/xAAjEAACAAUCBwAAAAAAAAAAAAAAAQIDERIUIVEiMkJSYXGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABkRAQEAAwEAAAAAAAAAAAAAAAARAiEiUf/aAAwDAQACEQMRAD8A4WhlB1gOA0VGE0MoOsMtFRFTEdeeD6Lik29UJNy5vcCnzolVar0QmXq3KhwrRpMLZXkmZMzdBkTN0PZcv//Z",
   "quiz": [
     {
-      "q": "Vad är huvudsakligen en komet när den befinner sig långt ut i solsystemet?",
+      "q": "Vad är huvudsakligen en komet uppbyggd av när den befinner sig i de yttre delarna av solsystemet?",
       "options": [
-        "En glödande boll av ren plasma",
-        "En frusen klump av is och stoft",
-        "En tät svärm av små asteroider"
+        "Smält metall och flytande lava",
+        "Is, stoft och frusna gaser",
+        "Enbart tät gas utan fast kärna"
       ],
       "correct": 1,
-      "fact": "Kometer kallas ibland för smutsiga snöbollar eftersom de till största delen består av is, gaser och stendamm som har frusit till."
+      "fact": "Kometer kallas ibland för smutsiga snöbollar eftersom de består av en kärna av is, sten och frysta gaser som börjar avdunsta när de närmar sig solen."
     },
     {
-      "q": "Vad är det som skapar en komets karakteristiska svans när den närmar sig solen?",
+      "q": "Varför utvecklar en komet vanligtvis en svans när den närmar sig solen?",
       "options": [
-        "Solvinden och strålningen som värmer upp kometen",
-        "Friktionen mot rymdens osynliga gaser",
-        "Kometens egen snabba rotation runt sin axel"
+        "Solvinden och solvärmen pressar bort gas och stoft från kometkärnan",
+        "Kometen rör sig så snabbt att friktionen mot rymdens vakuum skapar eld",
+        "Gravitationen från planeterna sliter isen ur dess bana"
       ],
       "correct": 0,
-      "fact": "När kometen kommer närmare solen värms den upp, vilket gör att isen förångas och drar med sig stoft som bildar de glödande svansarna."
+      "fact": "När kometen kommer närmare solen värms den upp, vilket gör att isen förångas och drar med sig stoft som trycks ut i långa svansar riktade bort från solen."
     },
     {
-      "q": "Hur stor brukar den fasta kärnan i en typisk komet oftast vara?",
+      "q": "Hur stor är vanligtvis den fasta kärnan i en typisk komet?",
       "options": [
         "Några få kilometer i diameter",
         "Lika stor som månen",
-        "Större än hela jorden"
+        "Större än jorden"
       ],
       "correct": 0,
-      "fact": "Kometkärnor är förvånansvärt små i förhållande till svansarna de skapar, ofta bara några kilometer breda."
+      "fact": "Trots att kometernas svansar kan bli miljontals kilometer långa är själva kometkärnan oftast förvånansvärt liten, bara några få kilometer bred."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor snöboll som flyger långt ute i rymden. När den kommer närmare solen börjar den smälta lite grann. Då flyger det ut glittrande stoft och gas efter den som en jättelång svans, precis som när man springer snabbt med ett glansigt band i handen. På bilden kan man se en sådan fantastisk komet som lyser vackert tidigt på morgonen innan solen går upp.",
-    "nyborjare": "En komet är en liten himlakropp som mestadels består av is, gas och stoft. När den rör sig in mot solsystemets inre delar värms den upp av solen. Isen börjar då förångas och bildar ett moln runt kärnan som kallas koma, och solvinden formar detta till långa svansar. Kometen NEOWISE blev känd som en av de ljusstarkaste kometerna under det här århundradet, och den kunde ses med blotta ögat från jorden.",
-    "entusiast": "Komet C/2020 F3 (NEOWISE) klassificeras som en av de mest framträdande kometerna på den norra stjärnhimlen på mycket länge. Den upptäcktes av rymdteleskopet NEOWISE och uppvisade en fast kärna med en diameter på ungefär fem kilometer. Det som gjorde händelsen särskilt intressant var att kometen förblev oväntat ljusstark under över en månads tid, med tydligt separerade jon- och stoftsvansar som emanerade från kärnan. I denna bild ses den stiga mot himlen bakom lysande nattmoln, vilka är de högst belägna molnen i jordens atmosfär och som bildas i mesopausen."
-  }
+    "barn": "Tänk dig en jättestor isboll som flyger fram genom den svarta rymden som en glittrande snöboll med en lång, lysande svans efter sig. När den här isbollen kom närmare solen började den lysa upp himlen tidigt på morgonen innan solen gick upp. Det ser ut som magi, ungefär som när en gnistrande lykta tänds högt uppe bland stjärnorna ovanför det glittrande havet.",
+    "nyborjare": "Här ser vi den vackra kometen NEOWISE som stiger upp över Adriatiska havet tidigt en morgon. En komet är en himlakropp som mestadels består av is, stoft och frusna gaser. När en komet rör sig in i det inre solsystemet och närmar sig solen värms den upp. Då bildas en tydlig atmosfär kring kärnan, och solvinden drar ut materialet i långa svansar av gas och stoft som reflekterar solljuset. Den här kometen blev ovanligt ljusstark och synlig för blotta ögat, vilket gjorde den till en av århundradets mest spektakulära himlafenomen för alla stjärnintresserade som gick upp före gryningen.",
+    "entusiast": "Bilden visar komet C/2020 F3, känd som NEOWISE, som fångades i en serie time-lapse-bilder när den steg upp över Adriatiska havet i juli 2020. Kometen klassificeras som en inträngling i det inre solsystemet med en fast kärna som mäter omkring fem kilometer i diameter. Det som gjorde detta objekt särskilt anmärkningsvärt för astronomin var att kometen förblev oväntat ljusstark i över en månad efter sin periheliepassage, vilket möjliggjorde detaljerade studier av dess jätteaktiga jon- och stoftsvansar. I förgrunden syns lysande nattmoln, så kallade noctilucent clouds, vilka bildas i mesosfären och utgör en dramatisk kontrast mot de avlägsna bakgrundsstjärnorna."
+  },
+  "terms": [
+    {
+      "term": "komet",
+      "explanation": "En liten himlakropp bestående av is och stoft som utvecklar en svans när den närmar sig solen."
+    },
+    {
+      "term": "solsystem",
+      "explanation": "Det system av planeter, månar och andra himlakroppar som kretsar kring solen."
+    },
+    {
+      "term": "solvind",
+      "explanation": "En ström av laddade partiklar som ständigt flödar ut i rymden från solen."
+    },
+    {
+      "term": "mesosfär",
+      "explanation": "Ett högt beläget lager i jordens atmosfär där det är extremt kallt."
+    }
+  ]
 }

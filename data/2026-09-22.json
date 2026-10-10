@@ -1,9 +1,9 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-22",
   "title": "Chance Triple Alignment: Plane, Space Station, Sun",
-  "title_sv": "Trippel linjering: Flygplan, rymdstation och solen",
+  "title_sv": "Sällsynt trippelpassage: Flygplan, rymdstation och sol",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcCBQABBP/EACkQAAICAgEDAgUFAAAAAAAAAAECAwQAEQUSITFBUgYTFCIyUWGBkcH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB4RAQABBAIDAAAAAAAAAAAAAAEAAgMRIQVRBBIT/9oADAMBAAIRAxEAPwBdKMIq5iKSQANk9gMs+KkgqcjE/IQsa8Up6nVdjqHjZ9QPOhi66sGYaTLDQfDXJTIG+mZQfHUQP9zlvcRcojc9eRF92tj+xjZqNDarpNBIksbjYZTsHNzVldCrKCCNEEeckHIXCrZOv423QxQcZVa5cjhSUROx0rH3emNHhqXyeKiqT14AEHSVX7kb9+/6+cVNOdq9mKZfyjYMP4xtcdcitVo5omDI42MbyHtrqDxwR7lhVqx1IBDWhiijBJCoNDvhWHbvreRSQayMkoyTtcs2UuZ//9k=",
   "quiz": [
     {
-      "q": "Vad är solfläckar för något på solens yta?",
+      "q": "Vad är de små, mörka områdena som ibland syns på solens yta och som orsakas av koncentrerade magnetfält?",
       "options": [
-        "Mörka områden orsakade av koncentrerade magnetfält",
-        "Skuggor från planeter som passerar framför solen",
-        "Kallare områden som bildas när solen roterar kring sin axel"
+        "Solfläckar",
+        "Solvindar",
+        "Solkoronor"
       ],
       "correct": 0,
-      "fact": "Solfläckar är mörka regioner på solens yta som uppstår på grund av starka och koncentrerade magnetfält som dämpar värmet."
+      "fact": "Solfläckar är mörka fläckar på solens yta som uppstår där starka magnetfält dämpar värmetransporten från solens inre."
     },
     {
-      "q": "Vilken roll spelar Internationella rymdstationen (ISS) när den kretsar kring jorden?",
+      "q": "Vilken typ av omloppsbana befinner sig Internationella rymdstationen i?",
       "options": [
-        "Den fungerar som en rymdbas för studier av solens magnetfält",
-        "Den är en bemannad forskningsstation i omloppsbana runt jorden",
-        "Den är en fast satellit som alltid befinner sig ovanför samma plats"
+        "Geostationär omloppsbana",
+        "Låg omloppsbana kring jorden",
+        "Heliocentrisk omloppsbana"
       ],
       "correct": 1,
-      "fact": "Den Internationella rymdstationen är en bemannad forskningsstation som kretsar runt jorden på låg omloppsbana och kan observeras när den passerar framför ljusa himlakroppar."
+      "fact": "Internationella rymdstationen kretsar kring jorden på en relativt låg höjd av cirka 400 kilometer, vilket gör att den rör sig mycket snabbt över himlen."
     },
     {
-      "q": "Hur kan ett flygplan skapa en miniatyrform av en solförmörkelse när det passerar framför solen?",
+      "q": "Vad kallas det astronomiska fenomenet när ett himlaköl täcker ett annat, till exempel när månen passerar framför solen?",
       "options": [
-        "Genom att reflektera solljuset från sina vingar",
-        "Genom att släppa ut vattenånga som blockerar ljuset",
-        "Genom att skymma en liten del av solskivan med sin kropp"
+        "Supernova",
+        "Okultation",
+        "Formörkelse"
       ],
       "correct": 2,
-      "fact": "När ett flygplan befinner sig i synlinjen mellan en observatör och solen skapar det en silhuett genom att blockera en del av solens ljus, vilket liknar en mini-solförmörkelse."
+      "fact": "En solförmörkelse uppstår när månen eller ett annat objekt passerar direkt framför solen och skymmer dess ljus för en betraktare på jorden."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar upp på den stora, varma solen på himlen. Plötsligt flyger det förbi ett flygplan precis samtidigt som en stor rymdstation långt ut i rymden passerar förbi. Det blir som en jättestor tittut-lek! Flygplanet är nära oss i luften, medan rymdstationen är jättelångt bort bland stjärnorna. Det är nästan som om tre olika världar träffas på samma bild på samma gång.",
-    "nyborjare": "Den här bilden visar en otroligt sällsynt händelse där tre helt olika företag har radat upp sig framför solen. Vi ser solens yta med dess solfläckar, som är mörka områden skapade av starka magnetfält. Långt ute i rymden kretsar Den internationella rymdstationen, förkortad ISS, som är en bemannad forskningsstation i omloppsbana runt jorden. Helt nära oss i jordens atmosfär råkar ett vanligt passagerarflygplan flyga förbi. Chansen att få alla dessa tre element i exakt samma bild är extremt liten.",
-    "entusiast": "Bilden fångar en exceptionellt sällsynt geometrisk linjering av tre distinkta objekt framför solskivan. För det första observeras solfläckar, vilka är relativt kalla, mörka områden på fotosfären som orsakas av intensiv magnetisk aktivitet som hämmar konvektionen. För det andra syns den Internationella rymdstationen (ISS), en avancerad forskningsplattform i låg omloppsbana runt jorden som kräver subsekundsplanering för att fångas under en soltransit. Slutligen skapar ett slumpmässigt förbipasserande flygplan en miniatyrliknande solförmörkelse i förgrunden. Sannolikheten för att en observatör från en specifik plats på jorden av en händelse ska få både rymdstationen och ett flygplan i samma solbild har av experter uppskattats till omkring trettio miljoner till ett."
-  }
+    "barn": "Tänk dig att du tittar upp på solen en solig dag, men titta aldrig rakt på den utan solglasögon för solen är jättestark! Ibland kan det hända något superhäftigt när man tittar på solskivan genom ett speciellt teleskop. Då kan man ha turen att få syn på både en flygande fågel eller ett flygplan och en rymdstation som susar förbi samtidigt framför den stora, runda solen som en jättestor apelsinskiva på himlen.",
+    "nyborjare": "Att fånga solen på bild i ett ögonblick då flera objekt passerar framför den samtidigt är en sällsynt händelse. På solens yta syns ibland solfläckar, vilka är mörka regioner som orsakas av koncentrerade magnetfält. Långt utanför vår atmosfär kretsar Internationella rymdstationen i en så kallad omloppsbana kring jorden. När ett flygplan dessutom råkar korsa siktlinjen uppstår en tillfällig minisolformörkelse i miniatyr. Sannolikheten att en slumpmässig bild ska fånga både en rymdstation och ett flygplan framför solen samtidigt är oerhört liten.",
+    "entusiast": "Solens yta uppvisar ständigt komplexa magnetiska strukturer där solfläckar bildas på grund av stark lokal magnetfältstäthet som hämmar konvektionen. Samtidigt kretsar Internationella rymdstationen i en omloppsbana på cirka 400 kilometers höjd med en hastighet av omkring 7,66 kilometer per sekund, vilket gör att dess passage över solskivan endast tar en bråkdel av en sekund. När även ett flygplan i troposfären passerar i samma siktlinje skapas en exceptionell trippelinriktning. Att beräkna sannolikheten för en dylik händelse involverar avancerad geometri gällande observatörens geografiska position, himlakropparnas skenbara storlekar och de respektive hastigheterna hos rymdstationen och luftfarkosten."
+  },
+  "terms": [
+    {
+      "term": "solfläck",
+      "explanation": "Mörka områden på solytan som uppstår på grund av starka magnetfält som kyler ner ytan."
+    },
+    {
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som en himlakropp eller farkost följer på grund av gravitationskrafter."
+    },
+    {
+      "term": "solförmörkelse",
+      "explanation": "Ett fenomen som inträffar när månen eller ett annat objekt blockerar solljuset från att nå jorden."
+    },
+    {
+      "term": "troposfären",
+      "explanation": "Det lägsta skiktet i jordens atmosfär där det egna vädret och de flesta molnen bildas."
+    }
+  ]
 }

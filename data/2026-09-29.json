@@ -1,6 +1,6 @@
 {
-  "v": 2,
-  "model": "gemini-3.8-flash",
+  "v": 3,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-29",
   "title": "Sh2-188: The Shrimp Nebula",
   "title_sv": "Sh2-188: Räknebulosan",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAgEDBv/EACQQAAIBAwQBBQEAAAAAAAAAAAECAAMRIQQFEjFBMlFhgZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIABAX/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDERIh/9oADAMBAAIRAxEAPwDk9r2upr3JBCUl9Tt0IxbatEpPCqzn2tCaDrQ2Wkq+Rm3kmLjquIaxyYrZozjxxK69bBNRp0TAvjzBMX6h1aoHGP7BuI+YSpaW/BklYvt4pjteoqdm5zbSrMoNj3JyBzYAyBqukiq3vn8k5CYLYxKfUImz/9k=",
   "quiz": [
     {
-      "q": "Vad för typ av astronomiskt objekt är Sh2-188 i grunden?",
+      "q": "Vad är en planetarisk nebulosa för något?",
       "options": [
-        "En rest efter en våldsam supernovaexplosion från en massiv stjärna",
-        "En planetarisk nebulosa skapad av en döende, medelstor stjärna",
-        "En enorm stoftpelare där nya stjärnor och planetsystem föds"
+        "En födelseplats för nya planeter i solsystemet",
+        "Ett moln av gas som en döende stjärna har kastat ut",
+        "En planet som har exploderat i en supernova"
       ],
       "correct": 1,
-      "fact": "Trots namnet har planetariska nebulosor inget med planeter att göra. De bildas när stjärnor liknande vår sol gör sig av med sina yttre gasskikt i slutet av sina liv."
+      "fact": "Trots det missvisande namnet har en planetarisk nebulosa ingenting med planeter att göra. Det är resterna av yttre gaslager från en stjärna som liknar solen."
     },
     {
-      "q": "Nebulosan har en starkt asymmetrisk bågform i stället för en rund bubbla. Vad är orsaken till detta?",
+      "q": "Vad är det för typ av stjärna som blir kvar i mitten av en planetarisk nebulosa?",
       "options": [
-        "Stjärnresten i centrum rör sig ovanligt snabbt genom rymdens gas",
-        "Ett dolt svart hål drar i gasen med sin enorma gravitation",
-        "Kraftig kosmisk strålning från galaxens centrum blåser bort gasen"
+        "En vit dvärg",
+        "Ett supermassivt svart hål",
+        "En neutronstjärna"
       ],
       "correct": 0,
-      "fact": "När den heta stjärnresten plöjer genom den interstellära gasen i hög hastighet bildas en bogchock, precis som vågen framför fören på en snabb båt."
+      "fact": "Kvar i mitten av nebulosan blir en het och tät kärna som kallas för en vit dvärg, vilket är vad solen kommer att bli i framtiden."
     },
     {
-      "q": "Vad finns kvar i nebulosans mittpunkt när de yttre gaslagren har kastats ut?",
+      "q": "Vad är en bogvåg när det handlar om rymden?",
       "options": [
-        "Ett supermassivt svart hål som suger i sig resterna",
-        "En roterande neutronstjärna med starka radiopulser",
-        "En vit dvärg som sakta svalnar under miljarder år"
+        "En våg som bildas när rymdens magnetfält krockar med solvinden",
+        "Ett ljusfenomen som uppstår när två galaxer kolliderar",
+        "En tryckvåg som skapas när en stjärna rör sig snabbt genom gasen i rymden"
       ],
       "correct": 2,
-      "fact": "Kärnan som blir kvar från en sollik stjärna kallas vit dvärg. Den är extremt kompakt, het och lyser med sitt kvarvarande värmeförråd."
+      "fact": "Precis som när en båt plöjer genom vattnet bildas en tryckvåg, eller bogvåg, framför stjärnan när den rör sig ovanligt snabbt genom den interstellära gasen."
     }
   ],
   "levels": {
-    "barn": "Här ser vi något som kallas Räknebulosan! Den ser ut som en lysande liten räka i rymden. Nebulosan skapades av en stjärna som blev gammal och puffade ut sina yttersta gasmoln.\n\nNu åker den lilla stjärnkärnan fram genom rymden i en väldig fart. Tänk dig en båt som kör fort genom vattnet och gör en stor bågvåg framför sig! Samma sak händer här med gasen, och det gör att framkanten lyser extra starkt och rött.",
-    "nyborjare": "Sh2-188, även kallad Räknebulosan, är en så kallad planetarisk nebulosa belägen i stjärnbilden Cassiopeia. Trots sitt historiska namn har den inget med planeter att göra. Den består i stället av gas som stötts bort från en döende stjärna av samma typ som vår egen sol.\n\nDe flesta planetariska nebulosor expanderar till runda eller symmetriska ringar, men Sh2-188 är annorlunda. Den kompakta vita dvärgen i mitten rör sig extremt snabbt genom det tunna gasmoln som fyller rymden mellan stjärnorna. Denna framfart komprimerar gasen framför sig och skapar en kraftig chockvåg, en bogchock. Det är denna heta, sammanpressade gas som lyser allra starkast i bildens övre vänstra del.",
-    "entusiast": "Sh2-188 är en anmärkningsvärd planetarisk nebulosa i Cassiopeia som spänner över en vinkelstorlek motsvarande ungefär halva fullmånens diameter. Den katalogiserades ursprungligen av Stewart Sharpless som en emissionsnebulosa, men dess sanna natur är en stjärnhöljeutkastning från en åldrande intermediär stjärna.\n\nDet mest framträdande draget hos Sh2-188 är dess extrema asymmetri. Den centrala vita dvärgen uppvisar en hög egenrörelse genom det interstellära mediet (ISM). Denna överljudsrörelse genererar en utpräglad bogchock där stjärnvinden möter och komprimerar ISM. På grund av kompressionen och chockupphettningen ökar densiteten och rekombinationsstrålningen markant på den framåtriktade flanken.\n\nDenna smalbandsbild separerar emissionen från joniserat väte (H-alfa), svavel ([S II]) och dubbeljoniserat syre ([O III]). Syreemissionen avslöjar de mest högenergetiska chockfronterna nära stjärnan, medan det utsträckta filamentära nätverket domineras av väte och svavel. Sh2-188 fungerar som ett utmärkt laboratorium för att studera hydrodynamiska instabiliteter och växelverkan mellan stjärnvindar och det omgivande interstellära mediet."
-  }
+    "barn": "Tänk dig att en stjärna har levt under en jättelång tid och till slut nyser ut en stor molnig massa omkring sig. Det bildar en färggrann dimma i rymden som liknar en svävande räka. Mitt i den lysande gasen gömmer det sig en liten men superhet stjärnrest som swischar fram genom rymden precis som en snabb båt som drar upp vågor i vattnet.",
+    "nyborjare": "Sh2-188, som ibland kallas för Räknebulosan, är en imponerande planetarisk nebulosa på natthimlen. En planetarisk nebulosa är ett lysande moln av gas som kastas ut från en döende solliknande stjärna. I mitten av nebulosan finns stjärnans rest, en vit dvärg, som är en mycket tät och kompakt stjärnrest. Det som gör det här objektet extra speciellt är att den vita dvärgen rör sig ovanligt snabbt genom den interstellära gasen, vilket skapar en tydlig bogvåg framför den på samma sätt som när en båt plöjer genom vattnet.",
+    "entusiast": "Sh2-188 är en storskalig planetarisk nebulosa med en vinkelstorlek på himlen som motsvarar ungefär halva månens diameter. Den intressanta dynamiken i systemet beror på den centrala vita dvärgen, som är kärnresten av en solliknande stjärna efter att dess yttre atmosfär har fötts ut. Denna vita dvärg färdas med hög hastighet genom den interstellära rymden. Den höga rörelsehastigheten orsakar en markant bogvåg, särskilt synlig i övre vänstra kanten, där gasen komprimeras och värms upp i färdriktningen. Denna bild är tagen genom ett amatörteleskop i Polen med smalbandiga filter för väte, svavel och syre, och har sedan digitalt justerats för att efterlikna nebulosans sanna färger."
+  },
+  "terms": [
+    {
+      "term": "planetarisk nebulosa",
+      "explanation": "Ett expanderande moln av glödande gas och stoft som stöts bort från en åldrande stjärna i slutet av dess liv."
+    },
+    {
+      "term": "vit dvärg",
+      "explanation": "Det extremt kompakta och tunga slurstadiet för en stjärna med samma storlek som vår sol."
+    },
+    {
+      "term": "interstellär",
+      "explanation": "Det tomrum och den materia som finns beläget mellan stjärnorna ute i galaxen."
+    },
+    {
+      "term": "bogvåg",
+      "explanation": "En tryckvåg som uppstår i en fluid när ett föremål rör sig framåt genom mediet."
+    }
+  ]
 }

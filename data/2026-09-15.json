@@ -1,9 +1,9 @@
 {
-  "v": 2,
+  "v": 3,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-15",
   "title": "A Daytime Eclipse: Moon Occults Venus",
-  "title_sv": "En solförmörkelse i dagsljus: Månen döljer Venus",
+  "title_sv": "En solförmörkelse dagtid: Månen passerar Venus",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg?w=480&h=480&fit=clip",
@@ -15,39 +15,57 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAJBAAAgICAQEJAAAAAAAAAAAAAQIAAxEhMQQSIjJBQlFhcYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgUA/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBEv/aAAwDAQACEQMRAD8A4QE0Vd8SVpk7OBHK60HoJ+zKe6nZgVq7ozxIakjaVErisH9lHoyTkmLTQstSrywE2rsRfCM/JiQb32YQeGFroHqNbME9S3lEu0c55MsMZoPT/9k=",
   "quiz": [
     {
-      "q": "Vad är Venus för typ av himlakropp?",
+      "q": "Varför kan planeter som Venus ibland ses i en skärform precis som Månen?",
       "options": [
-        "En gasjätte som Jupiter",
-        "En stjärna som lyser med eget ljus",
-        "En stenig planet nära solen"
-      ],
-      "correct": 2,
-      "fact": "Venus är den andra planeten från solen och är en stenig planet med ett tjockt, reflekterande molntäcke som gör den mycket ljusstark på himlen."
-    },
-    {
-      "q": "Varför kan både månen och Venus visa upp en mån- eller skärvfas?",
-      "options": [
-        "Eftersom de lyses upp av solen från en viss vinkel",
-        "För att jorden kastar sin skugga på dem samtidigt",
-        "Därför att de roterar så snabbt kring sin egen axel"
-      ],
-      "correct": 0,
-      "fact": "Precis som månen uppvisar faser när den kretsar kring jorden, visar inre planeter som Venus olika faser beroende på deras position i förhållande till solen och jorden."
-    },
-    {
-      "q": "Vad kallas det när månen passerar framför och döljer en mer avlägsen planet?",
-      "options": [
-        "En planetarisk förmörkelse",
-        "En okkultation",
-        "En himlakroppsblockad"
+        "Eftersom planeten roterar så snabbt att dess skugga ändrar form",
+        "Eftersom vi ser planeten från en vinkel där solen belyser en del av dess yta",
+        "Eftersom planetens egna månar kastar skuggor över dess atmosfär"
       ],
       "correct": 1,
-      "fact": "När en himlakropp skymmer en annan från observatörens perspektiv kallas det för en okkultation."
+      "fact": "Precis som Månen har faser när den kretsar kring jorden, uppvisar inre planeter som Venus olika faser beroende på deras position i förhållande till solen och oss."
+    },
+    {
+      "q": "Vad kallas händelsen när Månen passerar framför en planet eller en stjärna?",
+      "options": [
+        "En okkultation",
+        "En förmörkelse",
+        "En transit"
+      ],
+      "correct": 0,
+      "fact": "När ett himlakropp skymmer en annan, till exempel när Månen täcker Venus, kallas det för en okkultation."
+    },
+    {
+      "q": "Varför kan Venus ibland synas på himlen mitt på dagen?",
+      "options": [
+        "Eftersom planeten har ett eget kraftfullt sken som övertrumfar dagsljuset",
+        "Eftersom planeten ligger mycket nära solen och reflekterar starkt solljus",
+        "Eftersom planeten reflekterar ljuset från jorden tillbaka mot oss"
+      ],
+      "correct": 1,
+      "fact": "Venus ligger nära solen och har moln som reflekterar solljuset mycket effektivt, vilket gör den till en av himlens ljusstarkaste punkter."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du bygger ett tittskåp och håller en liten kula framför en stor lampa. Det är ungefär vad som händer på himlen när månen smyger sig framför planeten Venus mitt på dagen! Även om det är ljust ute kan man ibland se hur månen sakta täcker över planeten. Det ser ut som två små skimrande bananer som tittar fram bakom molnen.",
-    "nyborjare": "Det här astronomiska fenomenet visar hur månen passerar framför och tillfälligt döljer planeten Venus mitt på dagen. Händelsen kallas för en okkultation. Både månen och Venus uppvisar här en så kallad fas, vilket betyder att solen endast belyser en del av deras ytor sett från jorden. Eftersom Venus moln är mycket reflekterande och planeten befinner sig nära solen kan den lysa starkt, trots att bara en liten del av dess skiva är belyst av solljuset.",
-    "entusiast": "Bilden fångar en okkultation där månen passerar framför planeten Venus under dagtid. Denna typ av händelse är endast synlig från en begränsad del av jorden, i detta fall cirka 10 procent av planetens yta. I den enskilda exponeringen uppvisar både månen och Venus tydliga faser. Månens skära är tunn med endast omkring 10 procent belysning, medan Venus visar en mer fullständig fas med ungefär 25 procents belysning. Venus till synes höga ljusstyrka i förhållande till sin belysta yta beror på dess korta avstånd till solen samt den höga albedon hos dess tjocka svavelsyramoln, vilka reflekterar solljuset effektivare än den mörka och karga månloytan."
-  }
+    "barn": "Tänk dig att Månen leker kurragömma uppe på den blå dagen. Plötsligt tittar en liten skinande prick fram bakom den stora månskärvan. Det är planeten Venus som varit och gömt sig! Det ser ut som att både Månen och Venus har ätit upp stora bitar av varandra så att de har blivit som smala bananer. Det är solen som lyser på dem snett ifrån sidan så att bara kanterna syns.",
+    "nyborjare": "Mitt på ljusa dagen kan man ibland få syn på mer än bara moln om man tittar riktigt noga. På den här bilden har Månen glidit framför planeten Venus i en så kallad okkultation, vilket betyder att ett himlakropp tillfälligt skymmer en annan bakom sig. Både Månen och Venus visar upp en vacker fas där endast en del av dem är upplyst av solen. Venus ser ut som en liten lysande halvmåne eftersom den ligger närmare solen än vad jorden gör och har moln som reflekterar ljuset väldigt bra.",
+    "entusiast": "Den här enskilda exponeringen fångar en sällsynt dagtidsokkultation där månskärvan passerar framför Venus. Endast cirka tio procent av jordens yta hade möjlighet att observera händelsen, och stora delar av det området upplevde dessutom dagsljus. Månen, med endast tio procent av sin skiva solbelyst, skymmer den ljusstarkare planeten Venus som visar en tjugofemprocentig fas. Venus höga albedo beror på dess starkt reflekterande molnlagren och dess gynnsamma position närmare solen, vilket gör den synlig trots det starka omgivande dagsljuset."
+  },
+  "terms": [
+    {
+      "term": "okkultation",
+      "explanation": "När ett astronomiskt objekt tillfälligt döljs av ett annat himlakropp som passerar framför det."
+    },
+    {
+      "term": "faser",
+      "explanation": "De olika former av ljus och skugga som en måne eller planet uppvisar beroende på betraktelsevinkeln."
+    },
+    {
+      "term": "albedo",
+      "explanation": "Ett mått på hur bra en yta är på att reflektera inkommande ljus."
+    },
+    {
+      "term": "exponering",
+      "explanation": "Den tid under vilken en kameras sensor samlar in ljus för att skapa en bild."
+    }
+  ]
 }
