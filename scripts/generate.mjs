@@ -19,7 +19,7 @@ const GEMINI_KEY = process.env.GEMINI_API_KEY;
 // Modeller i turordning: den starkaste först. En modell som nekas (t.ex. för att
 // den inte ingår i gratisnivån) hoppas över resten av körningen.
 const MODELS = (process.env.GEMINI_MODEL || "gemini-3.8-flash,gemini-3.5-flash-lite").split(",").map(m => m.trim()).filter(Boolean);
-const VERSION = 2; // höj för att låta jobbet skriva om befintliga dagar
+const VERSION = 3; // höj för att låta jobbet skriva om befintliga dagar
 
 if (!GEMINI_KEY) {
   console.error("GEMINI_API_KEY saknas.");
@@ -62,7 +62,7 @@ async function fetchFeed() {
       date: published.toISOString().slice(0, 10),
       title: text(item, "title"),
       explanation: text(item, "apod:explanation").replace(/^Explanation:\s*/i, ""),
-      credit: text(item, "apod:credit").replace(/\s+([,.;])/g, "$1").slice(0, 200),
+      credit: text(item, "apod:credit").replace(/^\s*(image\s+)?credits?\s*(&|and)?\s*(copyright)?\s*:\s*/i, "").replace(/\s+([,.;])/g, "$1").slice(0, 200),
       link: decode(raw(item, "link")),
       url: sized(image, 1600),
       thumb: sized(image, 480),
@@ -77,7 +77,7 @@ async function fetchFeed() {
 /* ---------- Gemini ---------- */
 const SCHEMA = {
   type: "OBJECT",
-  required: ["title_sv", "quiz", "levels"],
+  required: ["title_sv", "quiz", "levels", "terms"],
   properties: {
     title_sv: { type: "STRING" },
     quiz: {
@@ -97,6 +97,10 @@ const SCHEMA = {
       type: "OBJECT",
       required: ["barn", "nyborjare", "entusiast"],
       properties: { barn: { type: "STRING" }, nyborjare: { type: "STRING" }, entusiast: { type: "STRING" } }
+    },
+    terms: {
+      type: "ARRAY",
+      items: { type: "OBJECT", required: ["term", "explanation"], properties: { term: { type: "STRING" }, explanation: { type: "STRING" } } }
     }
   }
 };
@@ -121,6 +125,13 @@ Skriv:
    - nyborjare: för en vuxen utan förkunskaper. Förklara facktermer första gången de används. Cirka 130 ord.
    - entusiast: för en astronomientusiast. Gå på djupet med fysiken, avstånd, instrument och varför objektet är vetenskapligt intressant. Cirka 220 ord.
 
+4. terms: 4 till 6 facktermer eller egennamn som läsaren kan vilja få förklarade (t.ex. "nebulosa", "ljusår", "Gale-kratern").
+   - Varje term måste förekomma ordagrant i minst en av de tre texterna i levels. Skriv den i grundform, precis som stammen står i texten.
+   - "explanation" är en enda mening på högst 25 ord som förklarar termen för en nybörjare, utan att upprepa själva termen som förklaring.
+   - Välj inte vardagsord som alla förstår.
+
+Ordval: skriv marsrover, rover och rovern (aldrig rovare). Skriv ihop sammansatta ord (trippelpassage, inte trippel passage).
+
 Språk: korrekt, ledig svenska med rätt genus och böjning (en/ett, den/det). Läs igenom varje mening och rätta stavfel innan du svarar. Skriv tal på svenskt vis (1,5 miljoner, 20 000).
 
 Fakta: håll dig strikt till underlaget och väletablerad astronomi. Hitta inte på siffror.`;
@@ -131,7 +142,8 @@ function valid(c) {
     Array.isArray(c.quiz) && c.quiz.length === 3 &&
     c.quiz.every(q => q.q && Array.isArray(q.options) && q.options.length === 3 &&
       Number.isInteger(q.correct) && q.correct >= 0 && q.correct <= 2 && q.fact) &&
-    c.levels && ["barn", "nyborjare", "entusiast"].every(k => typeof c.levels[k] === "string" && c.levels[k].length > 40);
+    c.levels && ["barn", "nyborjare", "entusiast"].every(k => typeof c.levels[k] === "string" && c.levels[k].length > 40) &&
+    Array.isArray(c.terms);
 }
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
@@ -222,7 +234,8 @@ async function buildDay(apod) {
     w: apod.w, h: apod.h,
     ...(await preview(apod.thumb)),
     quiz: content.quiz,
-    levels: content.levels
+    levels: content.levels,
+    terms: content.terms.filter(t => t && t.term && t.explanation).slice(0, 6)
   };
   await writeFile(fileFor(day.date), JSON.stringify(day, null, 2));
   console.log(`Sparade ${day.date}: ${day.title} (${model})`);
