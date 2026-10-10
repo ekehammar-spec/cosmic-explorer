@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-14",
   "title": "Where Your Elements Came From",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgb/xAAmEAACAgECBgEFAAAAAAAAAAABAgADEQQxEhMUIUFhcSNCUYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACETFB/9oADAMBAAIRAxEAPwDiFr5DUW9mVu5BXOP15jmsVgCtVPfi2q/G3mbosr5NSkAt59RzFPtCj1iUF75V1rlOLHsYKtGmOAN68RVmnb6tj8K4GQEHbMuyg9fAiNS2aX+P7Gq/ImqGpijcQ3Eo6uw7nMITOHaqDHV2epi3Uu6FTjBhCJsMl//Z",
   "quiz": [
     {
-      "q": "Varifrån kommer nästan allt väte som finns i universum och i våra kroppar?",
+      "q": "Varifrån kommer nästan all väte som finns i universum och i våra kroppar?",
       "options": [
-        "Från stora explosioner när stjärnor dör",
-        "Från den stora smällen, big bang",
+        "Från när universum föddes i Big Bang",
+        "Från gamla exploderande stjärnor",
         "Från kolliderande neutronstjärnor"
       ],
-      "correct": 1,
-      "fact": "Vätet skapades under universums första ögonblick vid big bang och är det vanligaste ämnet i kosmos."
+      "correct": 0,
+      "fact": "Nästan allt väte i universum bildades under själva Big Bang för cirka 13,8 miljarder år sedan."
     },
     {
-      "q": "Vilken process inuti stjärnor bildar tyngre grundämnen som kol och syre?",
+      "q": "Hur har grundämnen som kol och syre huvudsakligen bildats?",
       "options": [
-        "Kärnfusion",
-        "Gravitationsvågor",
-        "Kosmisk nedkylning"
+        "Genom kärnfusion inuti stjärnor",
+        "Genom vulkanutbrott på tidiga planeter",
+        "Genom blixtnedslag i interstellär gas"
       ],
       "correct": 0,
-      "fact": "Inuti stjärnor pressas atomkärnor samman under enormt tryck och temperatur genom kärnfusion, vilket bildar nya ämnen."
+      "fact": "Kol och syre skapas djupt inne i stjärnor genom att atomer slås samman i en process som kallas kärnfusion."
     },
     {
-      "q": "Vad tros vara den huvudsakliga källan till tunga ämnen som guld i universum?",
+      "q": "Vad är den mest sannolika källan till tunga grundämnen som guld i universum?",
       "options": [
-        "Supernovor från små stjärnor",
-        "Solens dagliga utbrott",
-        "Kollisioner mellan neutronstjärnor"
+        "Gasmoln som dras samman till planeter",
+        "Kollisioner mellan tunga neutronstjärnor",
+        "Stora svarta hål som slukar materia"
       ],
-      "correct": 2,
-      "fact": "När extremt tunga neutronstjärnor krockar med varandra bildas förutsättningar för att skapa sällsynta ämnen som guld."
+      "correct": 1,
+      "fact": "Tunga ämnen som guld bildas i våldsamma kosmiska händelser som när neutronstjärnor krockar med varandra."
     }
   ],
   "levels": {
-    "barn": "Visste du att din kropp är byggd av stjärnstoft? Det väte som finns i allt vatten i kroppen har funnits ända sedan universum föddes i en jättestor smäll. Andra ämnen, som kol och syre, har tillverkats inuti glödheta stjärnor som brunnit långt ut i rymden. Guldet i skinande smycken kan till och med ha bildats när två döda supertunga stjärnor krockade med varandra långt bort i kosmos för länge sedan.",
-    "nyborjare": "Människokroppen och allt runtomkring oss består av grundämnen som har sitt ursprung på olika platser i rymden. Vätet i våra kroppar skapades under den stora smällen som kallas big bang för snart fjorton miljarder år sedan. Tyngre ämnen som kol och syre har bildats genom kärnfusion djupt inne i stjärnornas brinnande inre. Ännu våldsammare händelser, som när supernovor exploderar eller när neutronstjärnor krockar, sprider ut grundämnen som järn och guld i universum. Genom att studera periodiska systemet kan forskare färgcodexa och spåra var varje enskild atom en gång har bildats.",
-    "entusiast": "Det periodiska systemets nukleära ursprung ger en fascinerande överblick över nukleosyntesen i kosmos. Urväte och en mindre mängd helium bildades primordialt under big bang, vilket utgör grunden för allt vatten och väte i våra kroppar. När stjärnor utvecklas sker kontinuerlig kärnfusion i deras kärnor, där väte fusioneras till helium och därefter till tyngre element som kol och syre. När massiva stjärnor når slutet av sin livscykel och exploderar som supernovor bildas järn och andra järngruppselement genom explosiv nukleosyntes. Ännu tyngre ämnen, såsom guld och platina, tros till stor del ha sitt ursprung i r-processen som sker vid sammansmältningar av neutronstjärnor. Dessa våldsamma händelser detekteras ibland som korta gammaurladdningar eller via krökningar i rumtiden i form av gravitationsvågor. Trots omfattande observationer och teoretisk forskning återstår det fortfarande oklarheter kring exakt var vissa grundämnen, exempelvis koppar, huvudsakligen har sitt ursprung."
+    "barn": "Tänk på att du är byggd av stjärnstoft! Nästan allt väte i din kropp har funnits ända sedan universum skapades i en jättestor smäll för länge sedan. Men andra ämnen, som kol och syre, har tillverkats inuti glödande stjärnor långt ut i rymden. Och en del av guldet som finns i smycken kommer faktiskt ifrån krockar mellan supertunga stjärnrester. Hela din kropp är som ett litet museum med delar från hela universums historia.",
+    "nyborjare": "Visste du att din kropp innehåller ämnen från kosmiska händelser som inträffade miljarder år innan jorden fanns? Vätet i våra kroppar och i allt vatten kommer ursprungligen från Big Bang, det gigantiska ögonblick då universum föddes. Tyngre ämnen som kol och syre har bildats genom kärnfusion djupt inuti brinnande stjärnor, där enormt tryck pressar samman atomer. Ännu tyngre grundämnen, såsom järn och guld, har skapats i våldsamma slutskeden som när massiva stjärnor exploderar eller när neutronstjärnor krockar med varandra.",
+    "entusiast": "Universums periodiska system bär på en kosmisk berättelse om nukleosyntes. Det primära vätet samt en del helium bildades under Big Bang-nukleosyntesen strax efter universums begynnelse. De flesta grundämnen upp till järn har därefter skapats genom stjärnornas nukleosyntes via kärnfusion i deras inre. Ämnen bortom järn kräver extrema energiflöden för att bildas, vilket sker under supernovaexplosioner eller vid sammansmältningar av neutronstjärnor som kan detekteras via gravitationsvågor. Forskningen fortsätter att kartlägga exakt vilka astrofysiska miljöer som bidragit med vissa sällsynta grundämnen."
   },
   "terms": [
     {
-      "term": "big bang",
-      "explanation": "Den enorma explosion som gav upphov till hela vårt expanderande universum för nästan fjorton miljarder år sedan."
-    },
-    {
       "term": "kärnfusion",
-      "explanation": "En process där atomkärnor pressas samman under extremt högt tryck och temperatur och bildar tyngre ämnen."
-    },
-    {
-      "term": "supernova",
-      "explanation": "Den våldsamma och ljusstarka explosion som inträffar när en massiv stjärna har förbrukat sitt bränsle."
+      "explanation": "Processen då atomkärnor slås samman under enormt tryck och temperatur och frigör gigantiska mängder energi."
     },
     {
       "term": "neutronstjärna",
-      "explanation": "En otroligt tät rest av en insjunken jättestjärna som enbart består av hoptryckta neutroner."
+      "explanation": "En oerhört tät rest efter en exploderad massiv stjärna som till största delen består av tätt packade neutroner."
+    },
+    {
+      "term": "supernova",
+      "explanation": "En våldsam och extremt ljusstark explosion som inträffar när en tung stjärna har slut på bränsle."
+    },
+    {
+      "term": "gravitationsvåg",
+      "explanation": "Krusningar i rumtidens väv som skapas när enorma massor accelererar eller kolliderar i rymden."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Think about the fact that you are made of stardust! Almost all the hydrogen in your body has existed ever since the universe began in a huge explosion a long time ago. Other elements, like carbon and oxygen, were made inside glowing stars far out in space. Some of the gold found in jewelry even comes from crashes between heavy stellar remnants. Your entire body is like a small museum with pieces from the history of the universe.",
+      "nyborjare": "Did you know that your body contains elements from cosmic events that occurred billions of years before Earth was formed? The hydrogen in our bodies and in all water originally comes from the Big Bang, the gigantic moment when the universe was born. Heavier elements like carbon and oxygen were formed through nuclear fusion deep inside burning stars, where immense pressure squeezes atoms together. Even heavier elements, such as iron and gold, were created in violent final stages like exploding stars or colliding neutron stars.",
+      "entusiast": "The periodic table of the universe tells a cosmic story of nucleosynthesis. Primary hydrogen and some helium were formed during Big Bang nucleosynthesis shortly after the origin of the universe. Most elements up to iron are subsequently created via stellar nucleosynthesis through nuclear fusion in stellar cores. Elements beyond iron require extreme energy fluxes to form, which occurs during supernova explosions or neutron star mergers that can be detected through gravitational waves. Ongoing research continues to map the exact astrophysical environments responsible for producing certain rare elements."
+    },
+    "terms": [
+      {
+        "term": "nuclear fusion",
+        "explanation": "The process where atomic nuclei merge together under immense pressure and temperature, releasing massive amounts of energy."
+      },
+      {
+        "term": "neutron star",
+        "explanation": "An incredibly dense remnant left behind by an exploded massive star, consisting mostly of tightly packed neutrons."
+      },
+      {
+        "term": "supernova",
+        "explanation": "A violent and extremely luminous explosion that occurs when a massive star runs out of nuclear fuel."
+      },
+      {
+        "term": "gravitational wave",
+        "explanation": "Ripples in the fabric of spacetime created when massive objects accelerate or collide violently in space."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Where did nearly all the hydrogen in the universe and in our bodies originate?",
+        "options": [
+          "From the birth of the universe in the Big Bang",
+          "From ancient exploding massive stars",
+          "From colliding dense neutron stars"
+        ],
+        "correct": 0,
+        "fact": "Almost all the hydrogen in the universe was forged during the Big Bang about 13.8 billion years ago."
+      },
+      {
+        "q": "How were elements such as carbon and oxygen primarily created?",
+        "options": [
+          "Through nuclear fusion in the interiors of stars",
+          "Through volcanic eruptions on early planets",
+          "Through lightning strikes in interstellar gas"
+        ],
+        "correct": 0,
+        "fact": "Carbon and oxygen are forged deep inside stars through a process called nuclear fusion."
+      },
+      {
+        "q": "What is the most likely cosmic source for heavy elements like gold found in the universe?",
+        "options": [
+          "Gas clouds collapsing to form new planets",
+          "Collisions between extremely dense neutron stars",
+          "Massive black holes consuming surrounding matter"
+        ],
+        "correct": 1,
+        "fact": "Heavy elements such as gold are produced in violent cosmic events like merging neutron stars."
+      }
+    ]
+  }
 }

@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-22",
   "title": "Chance Triple Alignment: Plane, Space Station, Sun",
-  "title_sv": "Sällsynt trippelpassage: Flygplan, rymdstation och sol",
+  "title_sv": "Trippelpassage: Flygplan, rymdstation och sol",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=480&h=480&fit=clip",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcCBQABBP/EACkQAAICAgEDAgUFAAAAAAAAAAECAwQAEQUSITFBUgYTFCIyUWGBkcH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB4RAQABBAIDAAAAAAAAAAAAAAEAAgMRIQVRBBIT/9oADAMBAAIRAxEAPwBdKMIq5iKSQANk9gMs+KkgqcjE/IQsa8Up6nVdjqHjZ9QPOhi66sGYaTLDQfDXJTIG+mZQfHUQP9zlvcRcojc9eRF92tj+xjZqNDarpNBIksbjYZTsHNzVldCrKCCNEEeckHIXCrZOv423QxQcZVa5cjhSUROx0rH3emNHhqXyeKiqT14AEHSVX7kb9+/6+cVNOdq9mKZfyjYMP4xtcdcitVo5omDI42MbyHtrqDxwR7lhVqx1IBDWhiijBJCoNDvhWHbvreRSQayMkoyTtcs2UuZ//9k=",
   "quiz": [
     {
-      "q": "Vad är de små, mörka områdena som ibland syns på solens yta och som orsakas av koncentrerade magnetfält?",
+      "q": "Hur fort rör sig den internationella rymdstationen i sin bana runt jorden?",
       "options": [
-        "Solfläckar",
-        "Solvindar",
-        "Solkoronor"
+        "Ungefär 8 kilometer i sekundén",
+        "Omkring 30 kilometer i timmen",
+        "Runt 300 kilometer i sekunden"
       ],
       "correct": 0,
-      "fact": "Solfläckar är mörka fläckar på solens yta som uppstår där starka magnetfält dämpar värmetransporten från solens inre."
+      "fact": "Rymdstationen färdas i en oerhörd hastighet och kretsar kring vår planet på ungefär 90 minuter."
     },
     {
-      "q": "Vilken typ av omloppsbana befinner sig Internationella rymdstationen i?",
+      "q": "Vad är det som orsakar solfläckar på solens yta?",
       "options": [
-        "Geostationär omloppsbana",
-        "Låg omloppsbana kring jorden",
-        "Heliocentrisk omloppsbana"
+        "Skuggor från planeter som passerar framför",
+        "Koncentrerade och starka magnetfält",
+        "Kall rymdstoft som faller mot ytan"
       ],
       "correct": 1,
-      "fact": "Internationella rymdstationen kretsar kring jorden på en relativt låg höjd av cirka 400 kilometer, vilket gör att den rör sig mycket snabbt över himlen."
+      "fact": "Solfläckar är mörkare områden som uppstår på grund av kraftiga magnetfält som dämpar värmetransporten."
     },
     {
-      "q": "Vad kallas det astronomiska fenomenet när ett himlaköl täcker ett annat, till exempel när månen passerar framför solen?",
+      "q": "Vilken roll spelar solen för vårt solsystem?",
       "options": [
-        "Supernova",
-        "Okultation",
-        "Formörkelse"
+        "Den är en fast planet av sten och metall",
+        "Den är en stjärna som sänder ut ljus och värme",
+        "Den är en stor måne som kretsar kring jorden"
       ],
-      "correct": 2,
-      "fact": "En solförmörkelse uppstår när månen eller ett annat objekt passerar direkt framför solen och skymmer dess ljus för en betraktare på jorden."
+      "correct": 1,
+      "fact": "Solen är en jättelik stjärna i centrum av vårt solsystem som drivs av fusion i sitt inre."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar upp på solen en solig dag, men titta aldrig rakt på den utan solglasögon för solen är jättestark! Ibland kan det hända något superhäftigt när man tittar på solskivan genom ett speciellt teleskop. Då kan man ha turen att få syn på både en flygande fågel eller ett flygplan och en rymdstation som susar förbi samtidigt framför den stora, runda solen som en jättestor apelsinskiva på himlen.",
-    "nyborjare": "Att fånga solen på bild i ett ögonblick då flera objekt passerar framför den samtidigt är en sällsynt händelse. På solens yta syns ibland solfläckar, vilka är mörka regioner som orsakas av koncentrerade magnetfält. Långt utanför vår atmosfär kretsar Internationella rymdstationen i en så kallad omloppsbana kring jorden. När ett flygplan dessutom råkar korsa siktlinjen uppstår en tillfällig minisolformörkelse i miniatyr. Sannolikheten att en slumpmässig bild ska fånga både en rymdstation och ett flygplan framför solen samtidigt är oerhört liten.",
-    "entusiast": "Solens yta uppvisar ständigt komplexa magnetiska strukturer där solfläckar bildas på grund av stark lokal magnetfältstäthet som hämmar konvektionen. Samtidigt kretsar Internationella rymdstationen i en omloppsbana på cirka 400 kilometers höjd med en hastighet av omkring 7,66 kilometer per sekund, vilket gör att dess passage över solskivan endast tar en bråkdel av en sekund. När även ett flygplan i troposfären passerar i samma siktlinje skapas en exceptionell trippelinriktning. Att beräkna sannolikheten för en dylik händelse involverar avancerad geometri gällande observatörens geografiska position, himlakropparnas skenbara storlekar och de respektive hastigheterna hos rymdstationen och luftfarkosten."
+    "barn": "Tänk dig att titta rakt in i en jättestor lysande boll på himlen och plötsligt få syn på både en liten rymdstation och ett flygplan som flyger förbi samtidigt. Det blir som en jättehäftig skuggteater där allt hamnar på exakt samma linje precis som när du blundar med ena ögat och ställer en myra framför en lampa.",
+    "nyborjare": "Det här ovanliga fotografiet fångar en extremt sällsynt händelse där tre helt skilda föremål radas upp framför solskivan. Till vänster syns den internationella rymdstationen, en farkost som kretsar runt jorden på hög höjd. Bredvid den finns mörkare solfläckar som orsakas av koncentrerade magnetfält på stjärnans yta. Längst fram korsar ett vanligt flygplan synfältet och skapar en miniatyrform av en solförmörkelse. Sannolikheten för att en slumpmässig bild ska innehålla både en rymdstation och ett flygplan på samma gång är oerhört liten.",
+    "entusiast": "Att fånga en trippelpassage av det här slaget kräver extremt exakt planering med subsekunds precision. Den internationella rymdstationen färdas i låg omloppsbana med en hastighet på omkring 28 000 kilometer i timmen, vilket gör att dess transit framför solskivan endast tar en bråkdel av en sekund. Samtidigt bidrar solfläckar, som är områden med intensiv magnetisk aktivitet på solens fotosfär, till visst brus i bilden. Att ett civilt flygplan dessutom råkar passera i exakt samma synlinje från fotografens position i Tjeckien uppskattas av forskare ha en sannolikhet på ungefär 30 miljoner till ett. Resultatet blir en sällsynt visuell överlagring av himmelska strukturer och atmosfäriska farkoster."
   },
   "terms": [
     {
-      "term": "solfläck",
-      "explanation": "Mörka områden på solytan som uppstår på grund av starka magnetfält som kyler ner ytan."
+      "term": "rymdstation",
+      "explanation": "En stor bemannad farkost som kretsar kring jorden för forskning och observationer."
     },
     {
-      "term": "omloppsbana",
-      "explanation": "Den krökta bana som en himlakropp eller farkost följer på grund av gravitationskrafter."
+      "term": "solfläck",
+      "explanation": "Ett mörkare område på en stjärnas yta med kraftig magnetisk aktivitet och lägre temperatur."
     },
     {
       "term": "solförmörkelse",
-      "explanation": "Ett fenomen som inträffar när månen eller ett annat objekt blockerar solljuset från att nå jorden."
+      "explanation": "När månen eller ett annat föremål hamnar framför stjärnan och skymmer dess ljus."
     },
     {
-      "term": "troposfären",
-      "explanation": "Det lägsta skiktet i jordens atmosfär där det egna vädret och de flesta molnen bildas."
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som en himlakropp eller farkost följer på grund av gravitationen."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine looking straight at a huge glowing ball in the sky and suddenly spotting both a tiny space station and an airplane flying past at the same time. It creates a cool shadow puppet show where everything lines up perfectly, just like holding your toy up in front of a lamp.",
+      "nyborjare": "This unusual photograph captures an extremely rare event where three completely separate objects line up in front of the solar disk. To the left is the International Space Station, a spacecraft orbiting Earth at high altitude. Next to it are darker sunspots caused by concentrated magnetic fields on the star's surface. Right in front, a regular airplane crosses the field of view, creating a miniature version of a solar eclipse. The probability of any random image containing both a space station and an airplane at the same time is remarkably low.",
+      "entusiast": "Capturing a triple alignment of this nature requires extremely precise planning with sub-second timing. The International Space Station travels in a low Earth orbit at a speed of about 28,000 kilometers per hour, making its transit across the solar disk last only a fraction of a second. Meanwhile, sunspots, which are regions of intense magnetic activity on the solar photosphere, add complex features to the star's disk. The fact that a commercial airplane happened to cross the exact same line of sight from the photographer's position in the Czech Republic is estimated to have a probability of roughly 30 million to one. The result is a rare visual overlay of celestial structures and atmospheric craft."
+    },
+    "terms": [
+      {
+        "term": "space station",
+        "explanation": "A large crewed spacecraft that orbits Earth for research and observation."
+      },
+      {
+        "term": "sunspot",
+        "explanation": "A darker region on a star's surface featuring strong magnetic activity and lower temperatures."
+      },
+      {
+        "term": "solar eclipse",
+        "explanation": "When an object passes directly in front of a star and blocks its light."
+      },
+      {
+        "term": "orbit",
+        "explanation": "The curved path that a celestial body or spacecraft follows due to gravity."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "How fast does the International Space Station travel in its orbit around Earth?",
+        "options": [
+          "About 8 kilometers per second",
+          "Around 30 kilometers per hour",
+          "About 300 kilometers per second"
+        ],
+        "correct": 0,
+        "fact": "The space station travels at an immense speed, circling our planet once every 90 minutes."
+      },
+      {
+        "q": "What causes sunspots on the surface of the Sun?",
+        "options": [
+          "Shadows from passing planets",
+          "Concentrated and strong magnetic fields",
+          "Cold space dust falling onto the surface"
+        ],
+        "correct": 1,
+        "fact": "Sunspots are darker regions that appear due to powerful magnetic fields suppressing heat transport."
+      },
+      {
+        "q": "What role does the Sun play in our solar system?",
+        "options": [
+          "It is a solid planet made of rock and metal",
+          "It is a star that emits light and heat",
+          "It is a large moon orbiting Earth"
+        ],
+        "correct": 1,
+        "fact": "The Sun is a gigantic star at the center of our solar system powered by nuclear fusion in its core."
+      }
+    ]
+  }
 }

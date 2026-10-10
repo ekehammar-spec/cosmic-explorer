@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-23",
   "title": "A New Lunar Crater: McGetchin",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwUH/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFIjFBURQysUJhgZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMBYCG3XKn6h0qSWzGOTkYkfNE2YOvLKQpG4Hc03cP8ASWti004jixGSzHYAZ+aBDkiZUXlOptz9qHkhePGsadXmnixsOF3tis8ameTW25YjWO23ilXiCATsFXBBIYnt+6CuzupllUKF9w69Kdr21t7myFtdTAHAblwdI8n+1z6J2Q5U79j4rRa/laMIsrAjC/gCg1ZZ4bG1aK1JQHPtNL7s7ygasEnqalJOy6c7nbVv3oZjrJ7eKD//2Q==",
   "quiz": [
     {
-      "q": "Vad är regolit för något?",
+      "q": "Vad är det som oftast orsakar nedslagskratrar på månen?",
       "options": [
-        "Ett flytande hav av magma under månens skorpa",
-        "Löst stoft och krossat stenmaterial som täcker ytan",
-        "En sällsynt typ av meteorit som ofta träffar månen"
+        "Vulkanutbrott inifrån månen",
+        "Kometer och asteroider utifrån rymden",
+        "Kraftiga solvindar som eroderar ytan"
       ],
       "correct": 1,
-      "fact": "Regolit kallas det lösa lagret av damm och stenfragment som täcker ytan på månen och andra himlakroppar."
+      "fact": "Månens yta saknar skyddande atmosfär, vilket gör att den ständigt träffas av rymdstenar som kraschar in i hög hastighet."
     },
     {
-      "q": "Varför skyddar jordens atmosfär oss mot samma typ av händelser?",
+      "q": "Varför ser man sällan lika stora nya kratrar bildas på jorden?",
       "options": [
-        "Atmosfären gör att mindre rymdstenar brinner upp på vägen ner",
-        "Atmosfärens magnetfält stöter bort alla asteroider",
-        "Atmosfärens kyla gör att rymdstenarna spricker i smådelar"
+        "Jorden har en atmosfär som bromsar och bränner upp det mesta",
+        "Asteroider dras alltid till månen i stället för till jorden",
+        "Jordens gravitation är för svag för att dra till sig rymdstenar"
       ],
       "correct": 0,
-      "fact": "När rymdstenar träffar jordens atmosfär bromsas de upp och hettas upp så kraftigt av friktionen att de förångas innan de når marken."
+      "fact": "Jordens tjocka atmosfär fungerar som en sköld där de flesta mindre rymdstenar brinner upp innan de når marken."
     },
     {
-      "q": "Hur skapas oftast kratrar av denna storlek på månen?",
+      "q": "Vad kallas det lösa lagret av damm och grus som täcker månens yta?",
       "options": [
-        "Genom gigantiska vulkanutbrott som slungar ut lava",
-        "Genom att kometer eller asteroider kraschar in i ytan",
-        "Genom att ytan sjunker in när månen långsamt svalnar"
+        "Magma",
+        "Regolit",
+        "Lava"
       ],
       "correct": 1,
-      "fact": "Stora nedslagskratrar bildas när himlakroppar som asteroider eller kometer slår ner med enorm kraft och slungar bort material."
+      "fact": "Regolit är ett lager av krossat stenmaterial och fint damm som skapats under miljarder år av meteoritnedslag."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en stor osynlig jätte kastar en jättestor stenboll rakt in i månen. Precis så har det hänt här! En rymdsten stor som en hel val kraschade in i månen och gjorde ett jättestort hål i marken, som kallas för en krater. Hålet är faktiskt lika brett som två fotbollsplaner bredvid varandra. Om samma sten hade trillat ner på jorden hade den brunnit upp i luften, men månen har ingen luft som skyddar den.",
-    "nyborjare": "En sällsynt och spännande händelse har ägt rum på månen. Någon gång under våren 2024 kraschade en komet eller asteroid, ungefär stor som en knölval, in i månens yta. Nedslaget bildade en krater som har fått namnet McGetchin. Kratern är enorm och breder ut sig över en yta som motsvarar två fotbollsplaner. Genom att jämföra bilder tagna före och efter händelsen med en speciell rymdsond kunde forskare upptäcka kratern. Nedslaget kastade upp det lösa stoftet och gruset, som kallas regolit, och förändrade ett mycket större område än själva gropen. Händelsen visar hur utsatt månen är eftersom den saknar en skyddande atmosfär liknande den vi har på jorden.",
-    "entusiast": "Månens yta är ständigt utsatt för rymdväder, men det hör till ovanligheterna att nedslag av denna storlek dokumenteras i realtid. Mellan april och maj 2024 slog en impaktor med en diameter på 10 till 20 meter ner på månens yta och bildade kratern McGetchin, vars diameter motsvarar två fotbollsplaner. Statistiskt sett inträffar händelser i denna skala endast ungefär en gång per 1,32 århundrade. Den efterföljande analysen utfördes med hjälp av Lunar Reconnaissance Orbiter och dess instrument för termisk avbildning. Dessa observationer avslöjade en markant kall fl扪 som omger den varmare kratern. Förklaringen till denna anomali är att nedslaget fluffade upp det översta lagret av regolit, det vill säga det lösa månsedimentet. Denna minskade densitet försämrar materialets förmåga att leda och bevara värme, vilket ger ett tydligt termiskt spår som sträcker sig långt utanför den synliga kraterranden. Sådana upptäckter är ovärderliga för att förstå processerna kring rymdväder, regolitens fysikaliska egenskaper och månens geologiska utveckling över tid."
+    "barn": "Tänk dig att en stor rymdsten lika stor som en hel val kraschade rakt in i månen. Det blev en jättestor grop som är lika bred som två fotbollsplaner bredvid varandra. Det händer inte varje dag, utan bara en gång på över hundra år. Som tur är har vi jorden en skyddande luftsäck runt oss som stoppar de flesta stenarna.",
+    "nyborjare": "Mellan april och maj 2024 inträffade en sällsynt händelse när en asteroid eller komet slog ner på månen. Nedslaget skapade en krater stor som två fotbollsplaner, en händelse som statistiskt sett bara inträffar en gång per sekel. Forskare kunde upptäcka kratern genom att jämföra bilder tagna före och efter av Lunar Reconnaissance Orbiter. Vid nedslaget kastades det lösa ytmaterialet upp, vilket bildar ett lager av regolit. Områdena runt kratern visade sig vara kallare än omgivningen eftersom det uppfluffade materialet isolerar sämre och tappar värme snabbare. Händelsen ger forskare viktig kunskap om hur månytan formas och understryker hur värdefull jordens atmosfär är som skydd.",
+    "entusiast": "En sällsynt nedslagshändelse inträffade på månen mellan april och maj 2024, då en impaktor med en dimension motsvarande en knölval kolliderade med ytan. Kollisionen resulterade i en krater med en utsträckning motsvarande två fotbollsplaner, en storleksklass som uppskattningsvis endast bildas en gång vart 132:e år. Lunar Reconnaissance Orbiter identifierade strukturen genom högupplöst montering av månens topografi före och efter händelsen. Termiska mätningar avslöjade en signifikant kall anomali som omger den varma kratern. Detta termiska beteende beror på att kinetisk energi vid nedslaget komprimerar och omstrukturerar den lösa regolitens porositet. Genom att minska materialets densitet försämras dess värmeledningsförmåga, vilket skapar en tydlig kylsignatur. Denna storskaliga påverkan sträcker sig långt bortom den synliga kraterranden och bidrar med avgörande insikter kring regolitens fysikaliska egenskaper, ytevol्यूशन samt effekterna av hyperhastighetsnedslag i solsystemet."
   },
   "terms": [
     {
-      "term": "krater",
-      "explanation": "En skålformad sänka på en himlakropps yta som uppstått efter ett våldsamt nedslag eller vulkanisk aktivitet."
-    },
-    {
       "term": "regolit",
-      "explanation": "Det lager av löst damm, sand och brutet stenmaterial som täcker den fasta berggrunden på månen och andra planeter."
+      "explanation": "Det lösa lager av stoft, damm och krossat stenmaterial som täcker ytan på månen och andra himlakroppar."
     },
     {
-      "term": "atmosfär",
-      "explanation": "Det tjocka lager av gaser som omger vissa planeter och himlakroppar och håller kvar värme samt skyddar mot yttre föremål."
+      "term": "krater",
+      "explanation": "En skålformad sänka eller grop som bildas när en himlakropp träffas av en meteorit eller genom vulkanisk aktivitet."
     },
     {
-      "term": "densitet",
-      "explanation": "Ett mått på hur kompakt ett ämne är, det vill säga hur mycket massa som rymms inom en viss volym."
+      "term": "asteroid",
+      "explanation": "En mindre stenkropp eller metallklump som kretsar kring solen i rymden utan att vara en fullstor planet."
+    },
+    {
+      "term": "komet",
+      "explanation": "En himlakropp bestående av is, stoft och sten som bildar en lysande svans när den kommer nära solen."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a big space rock as large as a whale crashing straight into the Moon. It left a huge hole as wide as two football fields put together. This does not happen every day, but only once in over a hundred years. Luckily, we have Earth with a cozy protective blanket of air around us that stops most rocks.",
+      "nyborjare": "Between April and May 2024, a rare event occurred when an asteroid or comet struck the Moon. The impact created a crater the size of two football fields, an event that statistically happens only once a century. Scientists discovered the crater by comparing images taken before and after by the Lunar Reconnaissance Orbiter. The impact threw up loose surface material, forming a layer of regolith. Areas surrounding the crater appeared colder than their surroundings because the fluffed-up material insulates poorly and loses heat faster. This event gives researchers vital knowledge about how the lunar surface evolves and highlights how valuable Earth's atmosphere is as a shield.",
+      "entusiast": "A rare impact event occurred on the Moon between April and May 2024, when an impactor comparable in size to a humpback whale collided with the surface. The collision resulted in a crater spanning two football fields, a scale of event estimated to occur only once every 132 years. The Lunar Reconnaissance Orbiter identified the structure through high-resolution monitoring of the lunar topography before and after the event. Thermal imaging revealed a significant cold anomaly surrounding the warm crater. This thermal behavior occurs because kinetic energy from the impact alters the porosity of the loose regolith. By decreasing the material's density, its thermal conductivity is impaired, creating a distinct cooling signature. This large-scale disruption extends far beyond the visible crater rim, providing crucial insights into regolith physics, surface evolution, and hypervelocity impacts across the solar system."
+    },
+    "terms": [
+      {
+        "term": "regolith",
+        "explanation": "The layer of loose dust, soil, and broken rock covering the solid bedrock of a planet or moon."
+      },
+      {
+        "term": "crater",
+        "explanation": "A bowl-shaped depression formed on a surface by a meteorite impact or volcanic activity."
+      },
+      {
+        "term": "asteroid",
+        "explanation": "A small rocky body orbiting the Sun, typically found in the main belt between Mars and Jupiter."
+      },
+      {
+        "term": "comet",
+        "explanation": "An icy small celestial body that warms up and develops a tail when passing close to the Sun."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What usually causes impact craters on the Moon?",
+        "options": [
+          "Internal volcanic eruptions from deep inside",
+          "Comets and asteroids crashing from space",
+          "Powerful solar winds eroding the surface"
+        ],
+        "correct": 1,
+        "fact": "The Moon lacks a protective atmosphere, leaving its surface exposed to constant impacts from space rocks."
+      },
+      {
+        "q": "Why are similarly sized new craters rarely seen forming on Earth?",
+        "options": [
+          "Earth has an atmosphere that slows down and burns up most objects",
+          "Asteroids are always magnetically drawn to the Moon instead of Earth",
+          "Earth's gravity is too weak to attract space rocks"
+        ],
+        "correct": 0,
+        "fact": "Earth's thick atmosphere acts as a shield where most incoming space rocks burn up before reaching the ground."
+      },
+      {
+        "q": "What is the loose layer of dust and broken rock covering the Moon's surface called?",
+        "options": [
+          "Magma",
+          "Regolith",
+          "Lava"
+        ],
+        "correct": 1,
+        "fact": "Regolith is a blanket of fine dust and fragmented rock created by billions of years of meteorite impacts."
+      }
+    ]
+  }
 }

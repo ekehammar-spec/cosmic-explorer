@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-30",
   "title": "Arp 78: Peculiar Galaxy in Aries",
-  "title_sv": "Arp 78: Sällsam galax i Väduren",
+  "title_sv": "Arp 78: Speciell galax i Väduren",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg?w=480&h=480&fit=clip",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgAEBv/EACAQAAICAgICAwAAAAAAAAAAAAERAAMCIQQSQVEFImH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4mzM2poLQUArKlWPJm7hX48bk42ZVC0DYxMDH1RHZuPsNnWvE0fJ8jG+454pn0EJggIlAQ79ylAQH2D3pxWkZFoD8EpQP//Z",
   "quiz": [
     {
-      "q": "Vad är en spiralgalax mest känd för att innehålla?",
+      "q": "Vad är ett ljusår för något?",
       "options": [
-        "Enbart massiva svarta hål och stoft",
-        "Stjärnor, gas och stoft ordnade i snurrande armar",
-        "Enbart gamla röda jättestjärnor utan någon gas"
+        "Den tid det tar för ljuset att färdas på ett år",
+        "Den sträcka som ljuset tillryggalägger på ett år",
+        "Ett mått på hur mycket ljus en stjärna sänder ut"
       ],
       "correct": 1,
-      "fact": "Spiralgalaxer som Arp 78 kännetecknas av sina vackra spiralarmar där det bildas nya stjärnor från gas och stoft."
+      "fact": "Ett ljusår är en sträcka, nämligen den väg som ljuspartiklar hinner färdas under ett helt jordår i rymdens tomrum."
     },
     {
-      "q": "Hur uppstår ofta kraftigt förvridna spiralarmar hos vissa galaxer?",
+      "q": "Vad driver vanligtvis fram bildandet av spiralarmar med kraftiga stjärnhopar i galaxer?",
       "options": [
-        "Genom gravitationstryck från en närliggande följeslagare",
-        "På grund av snabb rotation runt ett enda solsystem",
-        "Genom kollisioner mellan planeter inuti galaxen"
+        "Gravitationella tidvattenkrafter från närliggande galaxer",
+        "Våldsamma utbrott från supermassiva svarta hål i kärnan",
+        "Kollisioner med snabbrörliga intergalaktiska gasmoln"
       ],
       "correct": 0,
-      "fact": "Gravitationstider från interaktioner med en mindre följeslagare kan dra ut och förstora en galaxies spiralarmar."
+      "fact": "När galaxer dras till varandra skapar gravitationen tidvattenkrafter som trycker ihop gas och sätter igång stjärnbildning."
     },
     {
-      "q": "Vad beskriver måttet ljusår inom astronomin?",
+      "q": "Vilken form har galaxer som NGC 770 som ofta fungerar som mindre följeslagare till större spiralgalaxer?",
       "options": [
-        "Den tid det tar för en stjärna att explodera",
-        "Avståndet som ljuset färdas på ett år",
-        "Ett mått på hur varm en himlakropp är"
+        "Oregelbunden form utan fast struktur",
+        "Perfekt cirkulär skivform",
+        "Elliptisk form med mjukt och diffust utseende"
       ],
-      "correct": 1,
-      "fact": "Ett ljusår är den enorma sträcka som ljuset färdas under ett jordår, vilket används för att mäta avstånd i rymden."
+      "correct": 2,
+      "fact": "Mindre kompanjonger till stora spiralgalaxer har ofta en rundare, elliptisk form som påminner om en utdragen boll."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor snurra ute i rymden som är gjord av miljarder glittrande stjärnor. Den här galaxen ser ut som en virvelvind av ljus och stoft. En av dess armar har blivit jättelång och spretig, ungefär som när sockervadd dras ut åt ett håll. Det är en annan mindre galax som har dragit i den med osynliga gummiband som kallas gravitation.",
-    "nyborjare": "Arp 78 är en märklig spiralgalax som ligger cirka 100 miljoner ljusår bort i stjärnbilden Väduren. Galaxen är enorm och sträcker sig över 200 000 ljusår i rymden. Den har en ovanligt stor och framträdande spiralarm som är fylld av unga, blå stjärnhopar och mörka stoftstråk. Forskare tror att denna överutvecklade arm har skapats av gravitationskrafter från en mindre följeslagare, galaxen NGC 770, som drar i den större galaxen.",
-    "entusiast": "Arp 78, även katalogiserad som NGC 772, är ett slående exempel på en galax som påverkas av tidvattenkrafter. Belägen i stjärnbilden Väduren på ett avstånd av omkring 100 miljoner ljusår, uppvisar detta stjärnsystem en diameter på cirka 200 000 ljusår. Dess mest utmärkande drag är den asymmetriska, överutvecklade spiralarmen som är späckad med stjärnbildande områden och unga blå stjärnkluster. Denna struktur är resultatet av dynamiska interaktioner med dess kompakta elliptiska följeslagare, NGC 770, belägen strax nedanför. Djupa teleskopiska exponeringar avslöjar svaga stjärnströmmar och tidvattenbryggor som vittnar om den pågående gravitationspåverkan mellan de två galaxerna."
+    "barn": "Långt ut i rymden finns det gigantiska samlingar av stjärnor som kallas galaxer. En av dem ser ut som ett snurrade snäckskal med en extra lång arm som har sträckts ut. Det är som att galaxen har gjort en virvelvind av miljarder skinande solar och glittrande stjärnhopar. Runt omkring den svävar en mindre kompisgalax som drar i den med osynliga händer, vilket gör att stjärnorna formas till spännande mönster i det svarta mörkret.",
+    "nyborjare": "Bland stjärnbilderna på natthimlen hittar vi galaxen Arp 78, som även bär beteckningen NGC 772. Den befinner sig ungefär 100 miljoner ljusår bort och är en väldig samling stjärnor som mäter hela 200 000 ljusår i diameter. Det som gör den extra intressant är dess enorma och kraftigt utvecklade spiralarm. Denna utstickande struktur har formats av gravitationskrafter från en mindre följeslagare som kretsar i närheten, den kompakta galaxen NGC 770. Tillsammans bildar de ett fascinerande par i universum.",
+    "entusiast": "Arp 78, katalogiserad som NGC 772, utgör ett slående exempel på en märklig spiralgalax belägen i stjärnbilden Väduren. Med en uppskattad diameter på omkring 200 000 ljusår och belägen på ett avstånd av 100 miljoner ljusår uppvisar systemet en gravitationsmässigt påverkad morfologi. Dess mest framträdande drag är den asymmetriska, överutvecklade yttre spiralarmen, vilken präglas av intensiva stjärnbildningszoner fyllda med unga, blå stjärnhopar och svepande stoftband. Denna storslagna struktur tros vara resultatet av tidvattenkrafter från växelverkan med dess ljusstarka följeslagare, den elliptiska dvärggalaxen NGC 770 som syns strax nedanför. Djupa teleskopiska exponeringar avslöjar även svaga stjärnströmmar som vittnar om galaxens dynamiska historia av gravitationella möten."
   },
   "terms": [
     {
-      "term": "spiralgalax",
-      "explanation": "Ett stjärnsystem format som en roterande skiva med utarmade armar av gas, stoft och unga stjärnor."
-    },
-    {
       "term": "ljusår",
-      "explanation": "Den sträcka som ljuset färdas i tom rymd under loppet av ett kalenderår."
+      "explanation": "Det enorma avstånd som en ljusstråle färdas på ett helt jordår."
     },
     {
-      "term": "stjärnbild",
-      "explanation": "En grupp stjärnor som från jorden sett bildar ett igenkännligt mönster på natthimlen."
+      "term": "spiralarm",
+      "explanation": "En svängd struktur i en galax där gas och unga stjärnor samlas."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den dragningskraft som utövas mellan alla kroppar med massa i universum."
+      "term": "elliptisk",
+      "explanation": "En form som liknar en lätt hoptryckt och utdragen cirkel."
+    },
+    {
+      "term": "morfologi",
+      "explanation": "Läran om ett objekts yttre form och strukturella uppbyggnad."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Far out in space, there are giant collections of stars called galaxies. One of them looks like a swirling spiral shell with an extra long arm stretched out wide. It is as if the galaxy has made a giant whirlpool of billions of shining suns and glittering star clusters. Floating nearby is a smaller companion galaxy pulling on it with invisible hands, creating exciting patterns in the dark night.",
+      "nyborjare": "Among the constellations in the night sky lies the galaxy Arp 78, also designated as NGC 772. Located roughly 100 million light-years away, it is a vast island of stars measuring a staggering 200,000 light-years across. What makes it particularly interesting is its unusually prominent and overdeveloped spiral arm. This striking structure has been pumped up by gravitational forces from a smaller companion orbiting nearby, the compact galaxy NGC 770. Together they form a fascinating pair in the universe.",
+      "entusiast": "Arp 78, cataloged as NGC 772, presents a striking example of a peculiar spiral galaxy located within the constellation Aries. With an estimated diameter of about 200,000 light-years and situated at a distance of 100 million light-years, the system displays a heavily disturbed morphology. Its most prominent feature is the asymmetric, overdeveloped outer spiral arm, highlighted by sweeping dust lanes and rich populations of young blue star clusters. This grand design structure is widely considered the result of gravitational tidal interactions with its bright companion, the elliptical dwarf galaxy NGC 770 positioned directly below. Deep telescopic exposures further reveal faint stellar streams that bear witness to the complex dynamical history of these interacting systems."
+    },
+    "terms": [
+      {
+        "term": "light-year",
+        "explanation": "The enormous distance that a beam of light travels in one Earth year."
+      },
+      {
+        "term": "spiral arm",
+        "explanation": "A curved structure within a galaxy where gas and young stars congregate."
+      },
+      {
+        "term": "elliptical",
+        "explanation": "A rounded shape that resembles a slightly flattened and stretched circle."
+      },
+      {
+        "term": "morphology",
+        "explanation": "The study of the physical form and structural layout of an astronomical object."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a light-year?",
+        "options": [
+          "The time it takes for light to travel during one year",
+          "The distance that light travels in the span of one year",
+          "A measure of how much light a star emits"
+        ],
+        "correct": 1,
+        "fact": "A light-year is a unit of distance, representing how far light particles can travel through the vacuum of space in a single Earth year."
+      },
+      {
+        "q": "What typically drives the formation of pronounced spiral arms with active star clusters in galaxies?",
+        "options": [
+          "Gravitational tidal interactions with neighboring galaxies",
+          "Violent outbursts from supermassive black holes at the core",
+          "Collisions with fast-moving intergalactic gas clouds"
+        ],
+        "correct": 0,
+        "fact": "When galaxies pass close to one another, gravity creates tidal forces that compress gas and trigger widespread star formation."
+      },
+      {
+        "q": "What shape do smaller companion galaxies like NGC 770 often display when orbiting larger spirals?",
+        "options": [
+          "An irregular shape lacking any fixed structure",
+          "A perfectly circular disc shape",
+          "An elliptical shape with a smooth and diffuse appearance"
+        ],
+        "correct": 2,
+        "fact": "Smaller companions to large spiral galaxies frequently feature a rounded, elliptical shape resembling a stretched-out sphere."
+      }
+    ]
+  }
 }

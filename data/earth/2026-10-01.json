@@ -1,0 +1,66 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-01",
+  "title": "An Agricultural “Island” in the Saskatchewan River Delta",
+  "title_sv": "En jordbruksö i Saskatchewanflodens delta",
+  "place": "Saskatchewanflodens delta, Manitoba, Kanada",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-“island”-in-the-saskatchewan-river-delta/manitobaharvest_oli2_20260702.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-“island”-in-the-saskatchewan-river-delta/manitobaharvest_oli2_20260702.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-“island”-in-the-saskatchewan-river-delta/manitobaharvest_oli2_20260702.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "w": 480,
+  "h": 431,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAL/xAAlEAACAgEDAwQDAAAAAAAAAAABAgMRAAQhMRIiQRNCYZFxgbH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAED/8QAHBEBAQACAgMAAAAAAAAAAAAAAQAREgIxAyFR/9oADAMBAAIRAxEAPwCejqaX2gltt/Ga9HIscyylI3C+JAKGT3NjtazyQBxnWheVtYBCha96qzYxPBTNGC+41q+uAVod11dDDRxPHZZQsZ55zTqVRHPW4Lk77eb/ALi/VRFVpCS10DsbxcfI6aEMG1ohCxThkGw8VuPvKJ1MEEvagQe5q5/eSpnI6gMUwJPUWJJP1vk6DdFw4J8jPr9Z2qFaQ0LHHziJUVCUouo2BI5Pn8YAWrCzscSw6BSkgXxeI+Wd93//2Q==",
+  "levels": {
+    "barn": "Titta på bilden! Ser du alla de raka rutorna som ser ut som ett lapptäcke? Det är odlade fält mitt i ett stort våtmarksområde med sjöar och slingrande floder i Kanada. Det är som en liten jordbruksö omgiven av natur. På sommaren lyser fälten gröna av växande grödor, och på hösten har de skördats. Det är mycket blött där, så bönderna måste pumpa bort vatten och skydda sina fält med vallar för att kunna odla mat som raps och vete.",
+    "nyborjare": "Satellitbilden visar Carrot River Valley i Manitoba i Kanada, som är provinsens nordligaste jordbruksområde. Området ligger i en stor inlandsdelta som heter Saskatchewan River Delta och som annars är för blött för att brukas. Det som gör platsen unik är att den liknar en ö av raka fält mitt bland slingrande kanaler, sjöar och våtmarker. Här odlas främst grödor som raps och vårvete tack vare näringsrika jordar och långa sommardagar. Eftersom det är ett fuktigt område är jordbruket helt beroende av vallar och pumpar för att skydda marken mot översvämningar.",
+    "entusiast": "Bilden visar Carrot River Valley i Saskatchewanflodens delta, bildad med data från OLI instrumentet ombord på NASA och USGS satelliter Landsat 9 och Landsat 8. OLI samlar in multispektral data i flera våglängder som gör det möjligt att följa växtsäsongen och jordbrukets utveckling. Deltats omgivande våtmarker och slingrande flodkanaler kontrasterar kraftigt mot de rätlinjiga jordbruksfälten. Satellitdata från Landsat används direkt som underlag för Agriculture and Agri-Food Canadas årliga grödinventering. I denna nordliga region spelar kombinationen av bördig jord och långa sommardagar en avgörande roll för att grödor som raps och vårvete ska kunna växa snabbt trots att våta markförhållanden ofta försenar själva planteringstiden."
+  },
+  "terms": [
+    {
+      "term": "Canola",
+      "explanation": "En oljeväxt som odlas i stor utsträckning av bönderna i Carrot River Valley."
+    },
+    {
+      "term": "Landsat 9",
+      "explanation": "En satellit som tillsammans med Landsat 8 har observerat dalgången under växtsäsongen."
+    },
+    {
+      "term": "Operational Land Imager",
+      "explanation": "Det instrument som används för att ta de satellitbilder som visar jordbruksdalen."
+    },
+    {
+      "term": "Saskatchewan River Delta",
+      "explanation": "Ett stort inlandsdelta som sträcker sig över de kanadensiska provinserna Saskatchewan och Manitoba."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the picture! Do you see all the straight-edged squares that look like a quilt? That is farmland right in the middle of a large wetland area with lakes and winding rivers in Canada. It is like a small agricultural island surrounded by nature. In the summer, the fields look green with growing crops, and by autumn they have been harvested. The area is very wet, so farmers must pump away water and protect their fields with dikes to grow food like canola and wheat.",
+      "nyborjare": "The satellite image shows the Carrot River Valley in Manitoba, Canada, which is the province's northernmost agricultural area. The region is located within a large inland delta known as the Saskatchewan River Delta, which is generally too wet for extensive farming. What makes the location unique is that it resembles an island of straight fields amidst winding channels, lakes, and wetlands. Crops such as canola and spring wheat are grown here thanks to fertile soils and long summer days. Because it is a wet environment, farming relies heavily on dikes and pumping for flood protection.",
+      "entusiast": "The image shows the Carrot River Valley in the Saskatchewan River Delta, acquired using data from the Operational Land Imager on the NASA-USGS Landsat 9 and Landsat 8 satellites. OLI collects multispectral data across various wavelengths, enabling researchers to monitor the growing season and agricultural land use. The surrounding wetlands and winding river channels contrast sharply with the rectilinear farm fields. Landsat data feeds directly into Agriculture and Agri-Food Canada's annual crop inventory, illustrating how northern latitude summer days and fertile soils drive rapid crop development despite challenging wet planting conditions."
+    },
+    "terms": [
+      {
+        "term": "Canola",
+        "explanation": "An oilseed crop extensively grown by farmers in the Carrot River Valley."
+      },
+      {
+        "term": "Landsat 9",
+        "explanation": "A satellite that, along with Landsat 8, acquired the imagery of the valley during the growing season."
+      },
+      {
+        "term": "Operational Land Imager",
+        "explanation": "The instrument used to capture the satellite images showing the agricultural valley."
+      },
+      {
+        "term": "Saskatchewan River Delta",
+        "explanation": "A large inland delta that straddles the Canadian provinces of Saskatchewan and Manitoba."
+      }
+    ],
+    "place": "Saskatchewan River Delta, Manitoba, Canada"
+  }
+}

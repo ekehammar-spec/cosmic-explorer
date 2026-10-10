@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-06",
   "title": "A Complete Auroral Oval from SMILE",
@@ -17,59 +17,120 @@
     {
       "q": "Varför är det omöjligt att se en komplett norrskensoval direkt från marken?",
       "options": [
-        "Cirkeln som norrskenet bildar är alldeles för stor",
-        "Atmosfären blockerar all synlighet av norrsken",
-        "Norrsken förekommer enbart på södra halvklotet"
-      ],
-      "correct": 0,
-      "fact": "Norrskenet bildar en gigantisk ring runt jordens magnetiska poler, vilket gör att man från marken bara kan se en liten del i taget."
-    },
-    {
-      "q": "Vilken typ av ljus kan rymdfarkoster använda för att upptäcka norrsken även under dagtid?",
-      "options": [
-        "Infrarött ljus",
-        "Ultraviolett ljus",
-        "Mikrovågor"
+        "Jordens atmosfär är för tjock för att släppa igenom norrskenets ljus",
+        "Norrskensovalen bildar en så stor cirkel runt jordens magnetiska pol att den inte ryms i synfältet",
+        "Norrsken syns enbart under natten vilket försvårar översikten"
       ],
       "correct": 1,
-      "fact": "Genom att använda ultraviolett ljus kan forskare studera norrsken även när solen är uppe och lyser på himlen."
+      "fact": "En norrskensoval sträcker sig i en enorm ring runt den magnetiska polen, vilket gör att en observatör på marken bara kan se en liten bit av den i taget."
     },
     {
-      "q": "Vad är en av de viktigaste uppgifterna för rymdfarkosten SMILE när det gäller solvinden?",
+      "q": "Vad är det huvudsakliga vetenskapliga målet med rymdfarkosten SMILE?",
       "options": [
-        "Att fånga in och samla upp solvindens partiklar",
-        "Att mäta hur solvinden kyler ner jordens atmosfär",
-        "Att förstå hur solvinden växelverkar med magnetosfären"
+        "Att kartlägga alla stjärnor i Vintergatan med extrem noggrannhet",
+        "Att mäta avståndet mellan jorden och solen i realtid",
+        "Att förstå hur solvinden interagerar med jordens magnetosfär"
       ],
       "correct": 2,
-      "fact": "SMILE studerar interaktionen mellan solvinden och jordens magnetosfär för att skydda oss mot kraftiga solstormar."
+      "fact": "Genom att studera hur solvinden samspelar med magnetosfären kan forskare bättre skydda både astronauter, rymdfarkoster och elnät på jorden mot kraftiga solstormar."
+    },
+    {
+      "q": "Varför kan rymdfarkosten SMILE fånga bilder av norrsken även under dagen?",
+      "options": [
+        "Därför att instrumentet använder ultraviolett ljus som inte drunknar i solens vanliga strålning",
+        "Eftersom farkosten har en inbyggd skärm som blockerar allt solljus",
+        "Genom att konstgjort färga om bilderna i efterhand för att efterlikna natt"
+      ],
+      "correct": 0,
+      "fact": "Genom att observera i ultraviolett ljus kan forskare urskilja norrskenets svaga glöd även när solen lyser upp jordens atmosfär."
     }
   ],
   "levels": {
-    "barn": "Har du någonsin sett ett häftigt norrsken dansa på natthimlen? Det ser ut som gröna och lila vågor av ljus. Men ifall du skulle titta från rymden, skulle du se att norrskenet faktiskt bildar en jättestor ring runt jorden, som ett glimrande gummiband. Från marken kan vi bara se en liten bit av denna stora ring i taget.",
-    "nyborjare": "Ett norrsken är ett färggrant ljusfenomen som uppstår när laddade partiklar från solen träffar jordens atmosfär. Från marken ser vi bara fragment av detta, men rymdfarkoster högt ovanför jorden kan fånga hela bilden. De ser då en komplett norrskensoval, en jättelik ring som omger planetens magnetiska pol. Med hjälp av ultraviolett ljus kan farkoster som SMILE till och med observera detta under dagtid. Forskarna vill förstå hur solvinden, en ström av laddade partiklar från solen, påverkar vår magnetosfär, som är det magnetiska fält som skyddar oss.",
-    "entusiast": "Att observera en komplett norrskensoval kräver instrument placerade långt utanför jordens tätare atmosfär, eftersom den enorma cirkeln runt den magnetiska polen omöjliggör en fullständig överblick från marken. Rymdfarkosten SMILE, ett samarbetsprojekt mellan ESA och CAS, använder specialiserade kameror för att registrera ultraviolett ljus, vilket gör det möjligt att studera norrskenet även i dagsljus. Tidslinjen från observationerna visar på en påtaglig turbulens och variabilitet i norrskensaktiviteten under korta tidsperioder. De stjärnor som synperipheralts i bildfältet rör sig skenbart på grund av farkostens omloppsbana runt jorden. Huvudsyftet med missionen är att kartlägga fysiken bakom hur solvinden växelverkar med jordens magnetosfär. Kunskapen är avgörande för att kunna skydda känslig rymdbaserad och markbunden infrastruktur, såsom elnät och satelliter, från skadliga effekter orsakade av geomagnetiska stormar härstammande från solen."
+    "barn": "Har du någonsin sett ett norrsken dansa på natthimlen? Det ser ut som magiska färgband som rör sig. Men om man tittar från rymden bildar norrskenet en stor ring runt hela jorden, som en lysande krans! Det är precis som en glorifierad rockring av ljus som snurrar högt uppe i luften. Rymdfarkoster kan fota hela denna ring på en gång, till och med när solen skiner.",
+    "nyborjare": "Ett norrsken är ett vackert ljusfenomen som uppstår när laddade partiklar från solen träffar jordens atmosfär. Från marken kan vi bara se små delar av detta skådespel i taget. För att se hela bilden krävs rymdfarkoster som kretsar högt ovanför oss. Genom att använda ultraviolett ljus kan forskare till och med upptäcka norrsken mitt på dagen. Instrumenten visar hur rörliga och föränderliga dessa ljusfenomen faktiskt är under en timmes tid. Detta hjälper forskare att förstå hur jorden skyddas av sin magnetosfär, vilket är det osynliga magnetfält som omger vår planet. Solvinden, som är en ständig ström av partiklar från solen, kan nämligen orsaka kraftiga solstormar som kan störa både teknik och elnät.",
+    "entusiast": "Att observera en hel norrskensoval är en utmaning från marken eftersom den bildar en oerhört stor cirkel runt jordens magnetiska pol. Med hjälp av specialiserade rymdfarkoster som SMILE, ett samarbetsprojekt mellan ESA och CAS, öppnas nya möjligheter att studera dessa fenomen i detalj. Genom att fokusera på ultraviolett ljus kan instrumenten fånga dagtidsaurorer som annars skulle drunknas i solens synliga strålning. Tidssekvenser som spänner över en timme avslöjar norrskenets dynamiska och turbulenta natur i övre atmosfären. Det yttersta målet för dessa mätningar är att öka förståelsen för hur solens solvind interagerar med jordens magnetosfär. Kunskapen är kritisk för att kunna skydda satelliter, rymdfarkoster och markbundna elnät mot de potentiellt förödande effekterna av framtida solstormar."
   },
   "terms": [
     {
       "term": "norrsken",
-      "explanation": "Ett färgstarkt himlafenomen som uppstår när laddade partiklar från rymden krockar med gaser i den övre atmosfären."
+      "explanation": "Ett färgstarkt ljusspel på himlen som bildas när laddade partiklar från rymden krockar med gaser i jordens atmosfär."
     },
     {
       "term": "atmosfär",
-      "explanation": "Det lager av gaser som omger en planet och hålls kvar på plats av tyngdkraften."
-    },
-    {
-      "term": "ultraviolett ljus",
-      "explanation": "En typ av strålning med högre energi och kortare våglängd än det ljus som människoögat kan uppfatta."
-    },
-    {
-      "term": "solvind",
-      "explanation": "En ständig ström av laddade partiklar som slungas ut från solens yttersta skikt ut i rymden."
+      "explanation": "Det tjocka lager av gaser som hålls kvar runt en planet av dess egen tyngdkraft."
     },
     {
       "term": "magnetosfär",
-      "explanation": "Det område runt en planet som styrs av planetens eget magnetfält och fungerar som ett skyddande sköld."
+      "explanation": "Det område i rymden som domineras av en planets magnetfält och skyddar mot strålning från solen."
+    },
+    {
+      "term": "solvind",
+      "explanation": "En kontinuerlig ström av laddade partiklar som flödar ut i rymden från solens yttersta lagring."
+    },
+    {
+      "term": "solstorm",
+      "explanation": "Ett kraftigt utbrott av energi och partiklar från solen som kan störa kommunikationer och elnät på jorden."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Have you ever seen an aurora dancing in the night sky? It looks like magical colorful ribbons moving around. But if you look from space, the aurora forms a huge ring all around the Earth, like a glowing crown! It is just like a giant hula hoop of light spinning high up in the air. Spacecraft can take pictures of this entire ring at once, even when the sun is shining.",
+      "nyborjare": "An aurora is a beautiful light phenomenon that occurs when charged particles from the sun collide with Earth's atmosphere. From the ground, we can only see small parts of this spectacle at a time. To see the big picture, spacecraft orbiting high above us are required. By using ultraviolet light, researchers can even detect auroras in the middle of the day. The instruments show how mobile and variable these light displays actually are over the course of an hour. This helps scientists understand how Earth is protected by its magnetosphere, which is the invisible magnetic field surrounding our planet. The solar wind, which is a constant stream of particles from the sun, can cause powerful solar storms that might disrupt both technology and power grids.",
+      "entusiast": "Observing an entire auroral oval is a challenge from the ground because it forms an extremely large circle around the Earth's magnetic pole. Using specialized spacecraft like SMILE, a joint project between ESA and CAS, new possibilities emerge to study these phenomena in detail. By focusing on ultraviolet light, the instruments can capture daytime auroras that would otherwise be drowned out by the sun's visible radiation. Time-lapse sequences spanning about an hour reveal the dynamic and turbulent nature of the aurora in the upper atmosphere. The ultimate goal of these measurements is to increase understanding of how the sun's solar wind interacts with Earth's magnetosphere. This knowledge is critical to protect satellites, spacecraft, and ground-based electrical grids against the potentially devastating effects of future solar storms."
+    },
+    "terms": [
+      {
+        "term": "aurora",
+        "explanation": "A colorful light display in the sky created when charged particles from space collide with gases in a planet's atmosphere."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The thick layer of gases held surrounding a planet by its own gravity."
+      },
+      {
+        "term": "magnetosphere",
+        "explanation": "The region surrounding a planet dominated by its magnetic field, protecting it from solar radiation."
+      },
+      {
+        "term": "solar wind",
+        "explanation": "A continuous stream of charged particles flowing outward into space from the sun's outer layers."
+      },
+      {
+        "term": "solar storm",
+        "explanation": "A violent outburst of energy and particles from the sun capable of disrupting communications and power grids on Earth."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Why is it impossible to see a complete auroral oval directly from the ground?",
+        "options": [
+          "Earth's atmosphere is too thick to let the aurora's light pass through",
+          "The auroral oval forms such a large circle around the magnetic pole that it does not fit in the field of view",
+          "Auroras only occur during the night which makes observation difficult"
+        ],
+        "correct": 1,
+        "fact": "An auroral oval stretches in a huge ring around the magnetic pole, meaning an observer on the ground can only see a small fraction of it at a time."
+      },
+      {
+        "q": "What is the main scientific goal of the SMILE spacecraft?",
+        "options": [
+          "To map every star in the Milky Way with extreme precision",
+          "To measure the distance between the Earth and the Sun in real time",
+          "To understand how the solar wind interacts with Earth's magnetosphere"
+        ],
+        "correct": 2,
+        "fact": "By studying how the solar wind interacts with the magnetosphere, researchers can better protect astronauts, spacecraft, and ground-based electrical grids from severe solar storms."
+      },
+      {
+        "q": "Why can the SMILE spacecraft capture images of auroras even during the day?",
+        "options": [
+          "Because the instrument uses ultraviolet light that is not drowned out by normal sunlight",
+          "Because the spacecraft has a built-in screen that blocks all sunlight",
+          "By artificially recoloring the images afterward to mimic nighttime conditions"
+        ],
+        "correct": 0,
+        "fact": "By observing in ultraviolet light, researchers can distinguish the faint glow of the aurora even when the sun is illuminating Earth's atmosphere."
+      }
+    ]
+  }
 }

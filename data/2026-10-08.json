@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-08",
   "title": "The Saturn System Smörgåsbord",
-  "title_sv": "Saturnussystemet",
+  "title_sv": "Saturnussystemets smörgåsbord",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=480&h=480&fit=clip",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEFAgMH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAAECAxEEBRIGIVEiIzFCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AObyk5PLeSAbKFU5+85KKX1WW/wCa9NdY48aptT7Rai+5j66pSWcP4Zd7j1AtXttekpoVPHCbT8eChJAABQAAH//2Q==",
   "quiz": [
     {
-      "q": "Vilken av Saturnussystemets månar är känd för att ha en tjock atmosfär och flytande sjöar av kolväten?",
+      "q": "Vilken färg har de stormmoln och virvlar som oftast dominerar Saturnussatmosfär?",
+      "options": [
+        "Skarp blå",
+        "Blekgul",
+        "Intensiv röd"
+      ],
+      "correct": 1,
+      "fact": "Saturnus har en blekgul ton som orsakas av ammoniakmoln i dess övre atmosfär."
+    },
+    {
+      "q": "Vad består huvudsakligen Saturnus ringar av?",
+      "options": [
+        "Miljarder bitar av is och stendamm",
+        "Ett enda sammanhängande flytande hav",
+        "Glödande plasma från solen"
+      ],
+      "correct": 0,
+      "fact": "Ringarna är uppbyggda av otaliga partiklar av is och mindre mängder sten som kretsar kring planeten."
+    },
+    {
+      "q": "Vilket av Saturnus månar är känd för sina aktiva gejsrar som sprutar ut vattenånga ut i rymden?",
       "options": [
         "Titan",
         "Enceladus",
         "Mimas"
       ],
-      "correct": 0,
-      "fact": "Titan är Saturnus största måne och den enda månen i solsystemet med en tät atmosfär och flytande ämnen på ytan."
-    },
-    {
-      "q": "Vad kallas det astronomiska fenomenet som inträffar när jorden passerar rakt emellan en yttre planet och solen?",
-      "options": [
-        "Konjunktion",
-        "Opposition",
-        "Eklips"
-      ],
       "correct": 1,
-      "fact": "Under opposition står planeten i motsatt riktning mot solen sett från jorden, vilket gör att den syns som bäst och lyser extra starkt."
-    },
-    {
-      "q": "Vad består Saturnus ringar huvudsakligen av?",
-      "options": [
-        "Flytande väte",
-        "Hård metall",
-        "Iskorn och stenblock"
-      ],
-      "correct": 2,
-      "fact": "Saturnus ringar utgörs av miljarder partiklar som varierar i storlek från små mikroskopiska iskorn till stora stenblock."
+      "fact": "Enceladus har kryovulkaner vid sin sydpol som skjuter ut vattenånga och ispartiklar från ett underjordiskt hav."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att ringplaneten Saturnus är som en stor gokart med en jättestor hatt av glänsande skivor omkring sig! Den här jätteplaneten har också massor av månar som kretsar runt den, precis som små studsbollar som flyger i cirklar. Vissa månebitar är gjorda av gnistrande is som ser ut som fryst glass. Planeten är så stor att tusen jordklot skulle få plats inuti den!",
-    "nyborjare": "Saturnus är en av solsystemets gasjättar och är omgiven av ett spektakulärt system av ringar som till största delen består av is och stendelar. Runt planeten kretsar ett dussintal månar, inklusive den kända månen Titan som har en egen tät atmosfär. När jorden befinner sig rakt mellan solen och en yttre planet kallas det för opposition. Vid en opposition är planeten som närmast jorden och fullt upplyst av solen, vilket gör den idealisk för observation.",
-    "entusiast": "Saturnussystemet uppvisar en enorm komplexitet med sin dynamiska ringstruktur präglad av luckor och subtila mönster som så kallade ekerliknande formationer. Systemet hyser fascinerande månar som Enceladus, vars isiga gejsrar skickar ut vattenånga i rymden, samt Titan med sin kväverika atmosfär och metansjöar. Vid oppositionen, som inträffade den 4 oktober, nådde planeten sin största skenbara storlek och oppositionseffekten maximerade solbelysningen på ringarna. För att få skarpa bilder av sådana avlägsna himlakroppar från jorden krävs undantagsvis god seeing samt tekniker som lucky imaging för att mildra den turbulenta atmosfärens förvrängning."
+    "barn": "Tänk dig en stor och mysig planet som bär upp en jättelik hattbräda gjord av glittrande is! Saturnus är en gasskuldra i rymden som är så lätt att den nästan skulle flyta om det fanns ett badkar som var tillräckligt stort. Runt omkring den svävar tusentals små isbitar i ringar, som glimmar i solljuset precis som miljoner glittrande diamantstoft.",
+    "nyborjare": "Saturnus är solsystemets näst största planet och den sjätte planeten räknat från solen. Den är en så kallad gasjätte, vilket innebär att den till största delen består av väte och helium istället för fast mark. Planetens mest kända karaktärdrag är dess fantastiska system av ringar som består av is och stenpartiklar i olika storlekar. Runt Saturnus kretsar också ett enormt följe av månar, däribland den disiga månen Titan som har en egen tjock atmosfär.",
+    "entusiast": "Saturnus är en gasjätte med en radie som är nästan nio gånger större än jordens. Dess spektakulära ringՍsystem sträcker sig hundratusentals kilometer ut i rymden men är i gengäld anmärkningsvärt tunna, ofta bara några tiotals meter på tjockleken. Dynamiken i ringarna styrs av gravitationspåverkan från så kallade herdemånar som rensar ut klyftor. Planetens magnetosfär och dess komplexa system av månar, som den geologiskt aktiva Enceladus med sina plymer av vattenånga, gör hela Saturnussystemet till ett av de mest fascinerande studieobjekten inom solsystemforskningen."
   },
   "terms": [
     {
-      "term": "opposition",
-      "explanation": "Det läge då en yttre planet står rakt i motsatt riktning mot solen sett från jorden."
+      "term": "gasjätte",
+      "explanation": "En stor planet som till övervägande del utgörs av lätta grundämnen snarare än fast materia."
     },
     {
       "term": "atmosfär",
-      "explanation": "Det hölje av gaser som omger en himlakropp och hålls kvar på plats av gravitationen."
+      "explanation": "Det lager av gaser som omger en himlakropp och hålls kvar på plats av dess tyngdkraft."
     },
     {
-      "term": "seeing",
-      "explanation": "Ett mått på hur stabil och klar jordens atmosfär är för astronomiska observationer."
+      "term": "gravitation",
+      "explanation": "Den fysikaliska kraft som gör att massor dras till varandra och binder samman planeter i omloppsbanor."
     },
     {
-      "term": "gasjätte",
-      "explanation": "En stor planet som till övervägande del består av lätta grundämnen som väte och helium."
+      "term": "gejsrar",
+      "explanation": "Naturliga utbrott som med jämna mellanrum slungar upp het vätska eller gas från en underjordisk källa."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a magnificent planet wearing a giant, sparkling hula hoop made entirely of ice! Saturn is a giant gas ball in space that is so light it could almost float in a giant bathtub. Around it, countless tiny pieces of ice form gorgeous rings that shimmer in the sunlight like millions of glittering diamonds.",
+      "nyborjare": "Saturn is the second-largest planet in our solar system and the sixth from the sun. It is classified as a gas giant, meaning it is composed mostly of hydrogen and helium rather than solid ground. The planet's most iconic feature is its magnificent ring system, made of orbiting ice and rock particles. A vast family of moons orbits Saturn as well, including the hazy moon Titan which possesses its own thick atmosphere.",
+      "entusiast": "Saturn is a gas giant with a radius nearly nine times that of Earth. Its spectacular ring system spans hundreds of thousands of kilometers while remaining remarkably thin, often measuring only tens of meters vertically. The complex structures within the rings are sculpted by gravitational interactions with small shepherd moons. Furthermore, Saturn's magnetosphere and diverse satellite system, featuring cryovolcanic plumes on Enceladus, make the entire Saturnian system a primary target for planetary exploration."
+    },
+    "terms": [
+      {
+        "term": "gas giant",
+        "explanation": "A massive planet composed primarily of lightweight elements rather than solid rocky material."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The envelope of gases surrounding a celestial body and held in place by its gravity."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The fundamental natural force that causes masses to attract each other and hold planetary systems together."
+      },
+      {
+        "term": "geysers",
+        "explanation": "Natural vents on a celestial body that forcefully eject liquid water or vapor from internal sources."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What color predominantly characterizes the cloud tops and storm systems in Saturn's atmosphere?",
+        "options": [
+          "Vibrant blue",
+          "Pale yellow",
+          "Deep red"
+        ],
+        "correct": 1,
+        "fact": "Saturn exhibits a pale yellow hue due to ammonia ice clouds residing in its upper atmosphere."
+      },
+      {
+        "q": "What are Saturn's prominent rings primarily composed of?",
+        "options": [
+          "Billions of chunks of water ice and rocky debris",
+          "A single continuous liquid metallic sheet",
+          "Glowing plasma trapped from the solar wind"
+        ],
+        "correct": 0,
+        "fact": "The rings are made up of countless individual particles ranging from microscopic dust to boulder-sized chunks of ice."
+      },
+      {
+        "q": "Which of Saturn's moons is famous for its active geysers spraying water vapor into space?",
+        "options": [
+          "Titan",
+          "Enceladus",
+          "Mimas"
+        ],
+        "correct": 1,
+        "fact": "Enceladus features cryovolcanic activity at its south pole, venting water vapor and ice particles from a subsurface ocean."
+      }
+    ]
+  }
 }

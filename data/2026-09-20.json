@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-20",
   "title": "Analemma over the Callanish Stones",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgD/xAAnEAABBAEDAgYDAAAAAAAAAAABAgMEEQAFEiETkSIxMkFRsWGBof/EABgBAQADAQAAAAAAAAAAAAAAAAUAAQID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECBBEhEv/aAAwDAQACEQMRAD8AjQg5oNE4zbh37YSnTzXpxYO1iItnM7D8Y7cg7fNODqi8+WTC9ZaRNEUKK00Pk8DGaGdNYjKceebKUgElJvg3Xej2yGVNdkJSiRJkOJSbAK/yD9gYFqkhlmIltnqb1EWorJ4F8f3BndlN+UhBVlBaXK4kSaLhutuWjqAA87bq++LHdGcCz4D2yVamPvNhcd07kI2Kbvmrv9jOVqr9+J95B9x1SPsZ2jckuYYlXi+7h//Z",
   "quiz": [
     {
-      "q": "Vilken form får en analemma när man ritar in solens position vid samma tid varje dag under ett helt år?",
+      "q": "Vilken form får solens position på himlen om man fotograferar den vid samma klockslag varje dag under ett helt år?",
       "options": [
-        "En perfekt cirkel",
+        "En cirkel",
         "En åtta",
-        "En rak linje"
+        "En rät linje"
       ],
       "correct": 1,
-      "fact": "Solens årliga rörelse bildar en åtta på himlen beroende på jordens lutning och dess elliptiska bana runt solen."
+      "fact": "Kombinationen av jordaxelns lutning och banans elliptiska form gör att solen rör sig i en åttaliknande figur som kallas analemma."
     },
     {
-      "q": "Vad orsakar huvudsakligen att solen flyttar på sig i en analemma-figur under året?",
+      "q": "Vad beror solens skiftande höjd på himlen under året på?",
       "options": [
-        "Jordaxelns lutning och omloppsbana",
-        "Månen som drar i solens strålar",
-        "Solen som roterar kring sin egen axel"
+        "Att jordaxeln lutar",
+        "Att solen rör sig närmare jorden",
+        "Att jordens rotation saktar in"
       ],
       "correct": 0,
-      "fact": "Det är kombinationen av att jorden lutar i sin axel och att dess omloppsbana runt solen är elliptisk som skapar mönstret."
+      "fact": "Det är jordaxelns lutning i förhållande till banan runt solen som gör att solljuset träffar jorden i olika vinklar under året."
     },
     {
-      "q": "Vid vilka tillfällen på året befinner sig solen i de översta eller nedersta punkterna på en analemma?",
+      "q": "Vilken roll spelar jordbanans form för bildandet av ett analemma?",
       "options": [
-        "Vid dagjämvigning",
-        "Vid månförmörkelse",
-        "Vid solstånd"
+        "Banans form gör att figuren blir helt rund",
+        "Banans elliptiska form bidrar till åttans asymmetri",
+        "Banans form saknar helt betydelse"
       ],
-      "correct": 2,
-      "fact": "Vid sommar- och vintersolståndet når solen sina yttersta lägen på himlen, vilket hamnar längst upp eller längst ned i figuren."
+      "correct": 1,
+      "fact": "Att jordens bana inte är helt cirkulär utan elliptisk gör att farten varierar, vilket påverkar solens position i sidled och skapar åttans form."
     }
   ],
   "levels": {
-    "barn": "Tänk dig om du kunde ta ett foto av solen exakt samma tid varje dag under ett helt år. Om man lägger ihop alla bilderna bildar solen faktiskt en stor åtta på himlen! Det beror på att jorden lutar lite grann när den åker runt solen. Framför solen på bilden står gamla stencirklar som ser ut som uråldriga pusselbitar från en sagovärld.",
-    "nyborjare": "Om man fotograferar solen vid exakt samma tid varje dag under ett helt år bildas ett mönster som kallas för en analemma. Den får en karakteristisk åttaform på grund av två saker: att jorden lutar i sin axel och att dess omloppsbana runt solen inte är helt cirkelformad utan elliptisk. I förgrunden syns de historiska Callanish Stones, en gammal stencirkel som byggdes under bronsåldern. Solståndet markerar när solen når den absoluta toppen eller botten i detta åttaliknande mönster.",
-    "entusiast": "En analemma är den kurva som bildas om solen observeras vid samma klockslag varje dag under ett solår. Den uppkommer på grund av superpositionen av två effekter orsakade av jorden: dess axellutning i förhållande till ekliptikan samt excentriciteten i dess elliptiska omloppsbana. Vid solstånden befinner sig solen vid extrempunkterna längst upp eller längst ned i figuren, medan dagjämvigningarna återfinns vid mellanting längs kurvans centrala delar. Bilden visar detta astronomiska fenomen fångat i Skottland med de megalitiska Callanish Stones, uppförda under bronsåldern omkring 2700 före Kristus, i förgrunden."
+    "barn": "Tänk dig att du tar ett foto av solen varje dag vid samma tid. Om du klistrar ihop alla bilderna ser du att solen bildar en magisk åtta på himlen. Det är precis som att rita en osynlig racerbana i luften! Den här snygga åttan beror på att jorden lutar lite grann när den snurrar runt solen. Nedanför på marken står gamla mystiska stenar som har stått där i tusentals år.",
+    "nyborjare": "Om du går ut och fotograferar solen exakt samma klockslag varje dag under ett helt år bildar den en åttaliknande figur på himlen. Detta kallas för ett analemma. Den fascinerande formen orsakas av två saker: att jorden lutar i sin axel och att jordbanan runt solen är elliptisk och inte helt cirkulär. Vid vintersolståndet hamnar solen längst ner på denna osynliga åtta eftersom dagen är som kortast. I förgrunden syns Callanish Stones, en gammal stencirkel från bronsåldern i Skottland som byggdes för omkring 4 700 år sedan.",
+    "entusiast": "Fenomenet som avbildas är ett analemma, vilket är den komplexa kurva som solen beskriver på himlen om dess position registreras vid samma tidpunkt varje dag under ett solår. Kurvans utmärkande åttarmade form är en direkt konsekvens av två astronomiska faktorer: jordaxelns ca 23,5 graders lutning mot ekliptikan samt eccentriciteten i jordens omloppsbana, det vill säga banans elliptiska natur. Vid solstånd når solen sina yttersta extremer i de översta eller nedersta looparna, medan dagjämningar inträffar nära mittpunkterna. Bilden är sammansatt av exponeringar tagna vid middagstid nära byn Callanish i yttre Hebriderna i Skottland. Kompositionen ramas in av Callanish Stones, en megalitisk stencirkel uppförd under bronsåldern omkring 2700 före Kristus, vars eventuella ursprungliga astronomiska betydelse fortfarande debatteras av forskare."
   },
   "terms": [
     {
       "term": "analemma",
-      "explanation": "Ett mönster som bildas på himlen när ett himlakelom observaras vid samma klockslag under ett år."
+      "explanation": "En kurva som visar solens skenbara position på himlen vid samma klockslag under ett år."
     },
     {
       "term": "elliptisk",
-      "explanation": "Någonting som har en lätt utdragen och oval form snarare än en helt rund cirkelform."
+      "explanation": "En oval eller sammantryckt form som liknar en utdragen cirkel."
     },
     {
       "term": "solstånd",
-      "explanation": "De två tillfällen på året då jordens axel lutar som mest mot eller från solen."
+      "explanation": "De två tillfällen på året då jorden lutar som mest mot eller från solen."
     },
     {
       "term": "bronsåldern",
-      "explanation": "En historisk tidsperiod då människan lärde sig att framställa redskap och föremål av metall."
+      "explanation": "En historisk tidsperiod då människor började tillverka föremål av metallen brons."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine taking a photo of the Sun at the exact same time every single day. If you glue all those pictures together, the Sun forms a magical figure-eight in the sky. It is just like drawing an invisible race track in the air! This cool shape happens because the Earth tilts a little bit as it spins around the Sun. Down on the ground, old mysterious stones stand quietly, having been there for thousands of years.",
+      "nyborjare": "If you go outside and photograph the Sun at the exact same time every day for a year, it traces a figure-eight pattern in the sky. This is called an analemma. The fascinating shape is caused by two main factors: the tilt of the Earth's axis and the fact that Earth's orbit is elliptical rather than a perfect circle. During the winter solstice, the Sun appears near the bottom of this loop because the day is shortest. In the foreground are the Callanish Stones, an ancient megalithic circle in Scotland built during the Bronze Age about 4 700 years ago.",
+      "entusiast": "The depicted phenomenon is an analemma, representing the curved path traced by the Sun across the sky when observed at the same mean solar time throughout a tropical year. The characteristic figure-eight shape is a direct consequence of two primary astronomical factors: the obliquity of the Earth's axis tilted at approximately 23.5 degrees, and the eccentricity of the Earth's elliptical orbit around the Sun. Solstices correspond to the extreme upper and lower apexes of the loop, while equinoxes occur near the midpoints. The composite photograph was compiled from exposures captured at local noon near the village of Callanish in the Outer Hebrides of Scotland. Framing the celestial mechanics are the Callanish Stones, a stone circle erected during the Bronze Age around 2700 BC, whose potential intentional astronomical alignments remain a subject of discussion."
+    },
+    "terms": [
+      {
+        "term": "analemma",
+        "explanation": "A curve representing the changing position of the Sun in the sky throughout the year."
+      },
+      {
+        "term": "elliptical",
+        "explanation": "A rounded shape resembling a flattened circle or an oval."
+      },
+      {
+        "term": "solstice",
+        "explanation": "One of the two times of the year when the Earth's axis is tilted most toward or away from the Sun."
+      },
+      {
+        "term": "Bronze Age",
+        "explanation": "A historical period characterized by the first widespread use of metal tools."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What shape does the Sun's position trace in the sky if photographed at the exact same time every day throughout a year?",
+        "options": [
+          "A circle",
+          "A figure-eight",
+          "A straight line"
+        ],
+        "correct": 1,
+        "fact": "The combination of the Earth's axial tilt and the ellipticity of its orbit causes the Sun to trace an analemma figure-eight."
+      },
+      {
+        "q": "What causes the changing height of the Sun in the sky throughout the year?",
+        "options": [
+          "The tilt of the Earth's axis",
+          "The Sun moving closer to Earth",
+          "The slowing of Earth's rotation"
+        ],
+        "correct": 0,
+        "fact": "It is the axial tilt of the Earth relative to its orbital plane that changes the angle of sunlight throughout the year."
+      },
+      {
+        "q": "What role does the shape of Earth's orbit play in forming an analemma?",
+        "options": [
+          "The orbital shape makes the figure perfectly round",
+          "The elliptical shape contributes to the asymmetry of the figure",
+          "The orbital shape has no effect at all"
+        ],
+        "correct": 1,
+        "fact": "Because Earth's orbit is elliptical rather than circular, orbital speed varies, which affects the horizontal position of the Sun and creates the loop."
+      }
+    ]
+  }
 }

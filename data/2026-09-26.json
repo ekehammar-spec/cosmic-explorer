@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-26",
   "title": "Mirrored Meteor and Milky Way",
-  "title_sv": "Spegelande meteor och Vintergatan",
+  "title_sv": "Speglad meteor och Vintergatan",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=480&h=480&fit=clip",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBAgMEBv/EACAQAAICAwABBQAAAAAAAAAAAAECAAMEESESMTJBUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDlMSkEgR/ZgqlFJbRDAnUQYObQSPJwh+m5Nw5Fltq3m0+ae0qeARVRkYoViAItvp0DyMb8u5sxTpBS+hr5Ew5JXvYqEAMuHYehI/IQkF2vt2D5nY7uQ11jb25MIQP/2Q==",
   "quiz": [
     {
-      "q": "Vad är Perseiderna för något?",
+      "q": "Vad är det för astronomiskt fenomen som skapar ett färggrant streck över natthimlen i den här bilden?",
       "options": [
-        "En svärm av stoftpartiklar som brinner upp i atmosfären",
-        "Ett klotformigt stjärnhag med uråldriga stjärnor",
-        "En typ av intensiv gammablixt från en avlägsen galax"
-      ],
-      "correct": 0,
-      "fact": "Perseiderna är ett årligt återkommande meteorsvärm som uppstår när jorden passerar genom stoft efter kometen Swift-Tuttle."
-    },
-    {
-      "q": "Vad är Vintergatan för typ av astronomiskt objekt?",
-      "options": [
-        "En stor nebulosa där nya stjärnor föds",
-        "En spiralgalax som rymmer hundratals miljarder stjärnor",
-        "Ett supermassivt svart hål omgivet av gas"
+        "En supernovaexplosion i en avlägsen galax",
+        "En meteor som brinner upp i jordens atmosfär",
+        "En solvind som träffar jordens magnetfält"
       ],
       "correct": 1,
-      "fact": "Vintergatan är den galax som innehåller vårt solsystem, och den består av en vidsträckt skiva av stjärnor, gas och stoft."
+      "fact": "Meteorer uppstår när små rymdstenar faller mot jorden med enorm fart och hettas upp när de bromsas av luften."
     },
     {
-      "q": "Vad gör ett Cherenkov-teleskop?",
+      "q": "Vad är Vintergatan för något?",
       "options": [
-        "Det lyssnar efter radiovågor från avlägsna pulsarer",
-        "Det mäter magnetfält kring unga stjärnor",
-        "Det registrerar svaga ljusglimtar från kosmiska gammalstrålar"
+        "En gigantisk samling av hundratals miljarder stjärnor",
+        "Ett moln av gas som lyser tack vare närliggande solar",
+        "En planet som kretsar mycket nära vårt solsystem"
+      ],
+      "correct": 0,
+      "fact": "Vintergatan är vår egen galax, en stor skiva bestående av stjärnor, gas och stoft där solen bara är en av alla stjärnor."
+    },
+    {
+      "q": "Varför bygger forskare jättelika teleskop med speglar som består av massor av mindre sexkantiga delar?",
+      "options": [
+        "För att spegeln ska bli billigare att frakta ut i rymden",
+        "För att lättare kunna spegla bort det störande solljuset",
+        "För att kunna bygga en enorm yta som samlar in mycket ljus"
       ],
       "correct": 2,
-      "fact": "Cherenkov-teleskop är specialiserade på att upptäcka extremt korta ljusblixtar i atmosfären som skapas av högenergetisk gammastrålning från rymden."
+      "fact": "Genom att sätta ihop många mindre spegelsegment kan man skapa en jättestor ljusinsamlande yta som är omöjlig att tillverka som en enda hel enhet."
     }
   ],
   "levels": {
-    "barn": "Titta på den vackra stjärnhimlen! Där uppe lyser Vintergatan som ett jättestort moln av sockerull fyllt med tindrande diamanter. En glittrande stjärnskott sveper snabbt förbi som en eldig pil genom mörkret. Långt där nere står en stor skålformad spegel som fångar upp spännande blinkningar från rymden. Det ser ut som att den speglar det magiska stjärnregnet alldeles för sig själv i natten.",
-    "nyborjare": "På natthimlen sträcker sig Vintergatans band av stjärnor och mörka stoftmoln över landskapet, flankerat av ett lysande stjärnskott från meteorsvärmen Perseiderna. I förgrunden syns en stor spegel som tillhör ett avancerat teleskop. Ett teleskop är ett instrument som samlar in ljus för att studera avlägsna himlakroppar. Den här anläggningen är byggd för att upptäcka mycket snabba och svaga ljusblixtar i jordens atmosfär. Dessa blixtar orsakas av högenergetisk gammastrålning som färdats genom universum från avlägsna galaxer. När strålningen träffar luften bildas ett kortvarigt blått sken som teleskopets jättelika spegel kan fånga upp och registrera.",
-    "entusiast": "Här avbildas en perseidmeteor som sträcker över himlen vid Observatorio del Roque de los Muchachos, med Vintergatans centrala delar och mörka interstellära stoftmoln i bakgrunden. Nedanför skådespelet syns den tjugotrameter breda spegeln på prototypen LST-1, det första teleskopet vid norra halvklotet för det innovativa Cherenkov Telescope Array Observatory. Instrumentet är utrustat med 198 hexagonala spegelsegment och en högeffektiv, pixeliserad kamera. Dess primära syfte är att detektera Cherenkov-strålning i form av extremt korta, atmosfäriska ljusblixtar som varar omkring en miljarddels sekund. Dessa orsakas av mycket energirika gammastrålar från kosmiska källor som aktiva galaxkärnor och gammablixtar. Under natten har dessutom några av teleskopets individuella spegelsegment fångat upp och reflekterat ljuset från den förbipasserande meteoren."
+    "barn": "Tänk dig att titta upp på natthimlen och få se ett färggrant stjärnfall susa förbi precis bredvid Vintergatan. Mitt i bilden står ett jättestort teleskop med en jättelik spegel som blänker i mörkret. Det är som att rymden själv speglar sig i en jättestor silversked. Stjärnfallet kommer från en sten som ramlar in i luften och brinner upp, och teleskopet är byggt för att fånga upp blixtsnabba ljusglimtar från kosmos.",
+    "nyborjare": "På den här bilden syns ett färggrant streck efter en perseidmeteor som far fram över himlen, vackert inramad av vår egen galax Vintergatan. Längst ner står ett avancerat instrument kallat Cherenkov-teleskop. Det har en stor spegel som består av hela 198 mindre, sexkantiga delar. Teleskopet är skapat för att upptäcka extremt korta och svaga ljusglimtar i atmosfären. Sådana blixtar uppstår när högenergetiska gammastrålar från avlägsna galaxer träffar jorden. Den här natten speglades dessutom meteorens ljus i några av teleskopets spegelsegment.",
+    "entusiast": "Den spektakulära bilden fångar en perseidmeteor som streckar över himlen vid Observatorio del Roque de los Muchachos på La Palma. I förgrunden syns LST-1, som är prototypen för det första Large-Sized Telescope inom det innovativa Cherenkov Telescope Array Observatory. Teleskopet är utrustat med en 23 meter bred reflektor sammansatt av 198 sexkantiga spegelsegment och en högeffektiv, pixeliserad kamera. Dess primära syfte är att detektera Cherenkov-strålning – svaga och extremt korta atmosfäriska ljusblixtar som varar i storleksordningen en nanosekund. Dessa orsakas av högenergetiska gammastrålar från extragalaktiska källor som aktiva galaxkärnor och gammablixtar. Som en slumpfaktorns skönhet fångades även meteorsekvensens reflektion direkt i LST-1 spegelyta under denna observation."
   },
   "terms": [
     {
-      "term": "Vintergatan",
-      "explanation": "Den väldiga stjärnansamling i form av en spiralgalax som innesluter vårt eget solsystem."
+      "term": "meteor",
+      "explanation": "En lysande rymdsten som hettas upp när den faller genom jordens atmosfär."
     },
     {
-      "term": "teleskop",
-      "explanation": "Ett optiskt instrument som används för att samla in ljus och därmed observera avlägsna objekt i rymden."
+      "term": "galax",
+      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationen i rymden."
+    },
+    {
+      "term": "spegel",
+      "explanation": "En reflekterande yta som används för att samla in och rikta ljus i ett teleskop."
     },
     {
       "term": "atmosfär",
-      "explanation": "Det omgivande lager av gaser som hålls kvar kring en planet av dess egen gravitationskraft."
-    },
-    {
-      "term": "gammastrålning",
-      "explanation": "En typ av extremt kortvågug och energirik elektromagnetisk strålning som sänds ut från våldsamma kosmiska processer."
+      "explanation": "Det lager av gaser som omger en planet och skyddar ytan."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine looking up at the night sky and seeing a colorful shooting star race past right next to the Milky Way. In the middle of the picture stands a huge telescope with a giant mirror that shines in the dark. It is like space itself is mirroring in a giant silver spoon. The shooting star comes from a rock that falls into the air and burns up, and the telescope is built to catch lightning-fast flashes of light from the cosmos.",
+      "nyborjare": "This image captures a colorful streak from a Perseid meteor cutting across the sky, beautifully framed by our galaxy, the Milky Way. At the bottom stands an advanced instrument called a Cherenkov telescope. It features a large reflector made up of 198 smaller, hexagonal segments. The telescope is designed to detect extremely short and faint flashes of light in the atmosphere. Such flashes occur when high-energy gamma rays from distant galaxies strike Earth. On this particular night, the meteor's light was also reflected in some of the telescope's mirror segments.",
+      "entusiast": "This spectacular image captures a Perseid meteor streaking across the night sky at the Observatorio del Roque de los Muchachos on La Palma. In the foreground is LST-1, the prototype for the first Large-Sized Telescope of the innovative Cherenkov Telescope Array Observatory. The telescope features a 23-meter diameter reflector composed of 198 hexagonal mirror segments and a high-efficiency pixelized camera. Its primary purpose is to detect Cherenkov radiation, which are extremely brief atmospheric light flashes lasting about a billionth of a second. These are triggered by high-energy gamma rays from cosmic sources such as distant active galaxies and gamma-ray bursts. By serendipity, individual mirror segments of LST-1 also reflected the atmospheric flash of the bright meteor during this observation."
+    },
+    "terms": [
+      {
+        "term": "meteor",
+        "explanation": "A glowing space rock that heats up as it plunges through Earth's atmosphere."
+      },
+      {
+        "term": "galaxy",
+        "explanation": "A massive system of stars held together by gravitational forces in space."
+      },
+      {
+        "term": "mirror",
+        "explanation": "A reflective surface used to gather and focus light inside a telescope."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet and retained by gravity."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What kind of astronomical phenomenon creates a colorful streak across the night sky in this image?",
+        "options": [
+          "A supernova explosion in a distant galaxy",
+          "A meteor burning up in Earth's atmosphere",
+          "A solar wind hitting Earth's magnetic field"
+        ],
+        "correct": 1,
+        "fact": "Meteors occur when small space rocks enter Earth at high speed and heat up as they are slowed down by the air."
+      },
+      {
+        "q": "What is the Milky Way?",
+        "options": [
+          "A gigantic collection of hundreds of billions of stars",
+          "A cloud of gas glowing due to nearby suns",
+          "A planet orbiting very close to our solar system"
+        ],
+        "correct": 0,
+        "fact": "The Milky Way is our home galaxy, a large disk consisting of stars, gas, and dust where the Sun is just one of many stars."
+      },
+      {
+        "q": "Why do scientists build giant telescopes with mirrors made of many smaller hexagonal pieces?",
+        "options": [
+          "To make the mirror cheaper to transport into space",
+          "To more easily reflect away unwanted sunlight",
+          "To create a huge surface area that collects a lot of light"
+        ],
+        "correct": 2,
+        "fact": "By assembling many smaller mirror segments, scientists can build a massive light-gathering surface that is impossible to manufacture as a single piece."
+      }
+    ]
+  }
 }

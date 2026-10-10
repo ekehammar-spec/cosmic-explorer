@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-25",
   "title": "Globular Cluster Omega Centauri",
@@ -15,57 +15,122 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAgX/xAAgEAABBAEFAQEAAAAAAAAAAAABAAIDEQQFISIxYUFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AhgLNJ/EwnTmmi0kzvtUugSxMkAfsfVYOTl4DoBTm0VznigNt/wBVpr8kD4uNX4o6YckpWfqYhyHRmwUIQamy3SCibSriXFCEH//Z",
   "quiz": [
     {
-      "q": "Vad är en klotformig stjärnhop som Omega Centauri för något?",
+      "q": "Vad är en klotformig stjärnhop som Omega Centauri?",
       "options": [
-        "En kompakt samling av hundratusentals eller miljontals äldre stjärnor",
-        "En nyfödd nebulosa där stjärnor just håller på att tändas",
-        "Ett moln av gas som kretsar kring ett supermassivt svart hål"
+        "En kompakt samling av miljontals gamla stjärnor som hålls ihop av gravitation",
+        "Ett moln av gas och stoft där nya stjärnor föds i rasande fart",
+        "Resterna efter en stor stjärna som exploderat som supernova"
       ],
       "correct": 0,
-      "fact": "Klotformiga stjärnhopar är tätt packade system av urgamla stjärnor som hålls samman av sin gemensamma gravitation i galaxernas ytterområden."
+      "fact": "Klotformiga stjärnhopar är tätt packade system av upp till miljontals stjärnor som hör till de äldsta objekten i en galax."
     },
     {
-      "q": "Hur skiljer sig Omega Centauri från de flesta andra stjärnhopar i vår galax?",
+      "q": "Varför misstänker forskare att Omega Centauri kan vara kärnan av en tidigare dvärggalax?",
       "options": [
-        "Den saknar helt stjärnor som är äldre än solen",
-        "Den innehåller stjärnor av olika åldrar och kemisk sammansättning",
-        "Den lyser enbart med ett starkt blått sken"
+        "Den rör sig mycket snabbare än andra stjärnhopar i Vintergatan",
+        "Den innehåller stjärnor med olika ålder och kemisk sammansättning",
+        "Den har exakt samma storlek som Andromedagalaxen"
       ],
       "correct": 1,
-      "fact": "Medan de flesta stjärnhopar består av stjärnor födda vid samma tidpunkt har Omega Centauri en blandning av skilda generationer, vilket tyder på att den kan vara kärnan av en uppslukad dvärggalax."
+      "fact": "Till skillnad från vanliga stjärnhopar där alla stjärnor bildades samtidigt har Omega Centauri stjärnor från olika tidsperioder, vilket tyder på att den en gång varit en egen galax som slukats."
     },
     {
-      "q": "Var i vår galax brukar man huvudsakligen hitta klotformiga stjärnhopar som denna?",
+      "q": "Vilken färg har de äldsta och mest utvecklade jättestjärnorna i en stjärnhop som denna?",
       "options": [
-        "I galaxens tunna och platta skiva",
-        "I det centrala supermassiva svarta hålet",
-        "I galaxens omgivande halo"
+        "Intensivt blå",
+        "Skarp grön",
+        "Tydligt gulaktig"
       ],
       "correct": 2,
-      "fact": "Vintergatans drygt 200 kända klotformiga stjärnhopar rör sig i den vidsträckta halon som omger galaxens platta skiva."
+      "fact": "Äldre stjärnor som har svalnat av på ytan lyser med ett varmt, gulaktigt eller rödaktigt sken."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en gigantyks stor boll i rymden som är proppfull med tio miljoner gnistrande stjärnor. Det är precis vad stjärnhopen Omega Centauri är. Alla dessa stjärnor sitter tätt hoptryckta av sin egen dragningskraft, ungefär som ett enormt tivoli där alla lampor lyser samtidigt på samma ställe. De flesta av stjärnorna i bollen är väldigt gamla och lyser i ett varmt, gulaktigt sken som gör dem enkla att upptäcka med ett teleskop.",
-    "nyborjare": "Omega Centauri är den största och ljusstarkaste av de omkring 200 klotformiga stjärnhopar som kretsar i utkanten av vår galax, Vintergatan. Den rymmer ungefär tio miljoner stjärnor på ett relativt litet utrymme, vilket gör den otroligt tätbefolkad. Till skillnad från vanliga stjärnhopar, vars stjärnor bildades samtidigt, visar Omega Centauri upp flera olika generationer av stjärnor med olika åldrar och kemiska sammansättningar. Detta har lett till teorier om att den egentligen är kärnan i en mindre dvärggalax som en gång i tiden slukades av Vintergatan. Långvariga observationer med rymdteleskopet Hubble har dessutom avslöjat spår av ett massivt svart hål i dess mitt.",
-    "entusiast": "Med katalogbeteckningen NGC 5139 utgör Omega Centauri ett av Vintergatans mest fascinerande stjärnsystem. Beläget på ett avstånd av omkring 15 000 ljusår sträcker sig denna klotformiga stjärnhop över en volym med en diameter på cirka 150 ljusår och samlar runt 10 miljoner stjärnor. Dess anmärkningsvärda population av röda jättar ger hopen dess karakteristiska gulaktiga färgton. Det som gör Omega Centauri unikt i ett astrofysiskt perspektiv är den kemiska mångfalden och förekomsten av skilda stjärnpopulationer, vilket starkt indikerar att objektet är resterna av kärnan i en dvärggalax som kolliderat med och absorberats av Vintergatan. Därtill har data insamlade under två decennier med Hubble Space Telescope givit starka bevis för närvaron av ett mellantungt eller massivt svart hål i dess centrala regioner."
+    "barn": "Tänk dig en jättestor boll fylld med tio miljoner glittrande diamanter ute i mörka rymden. Det är precis vad Omega Centauri är, fast istället för diamanter är det glödande stjärnor som sitter tätt packade tillsammans. Alla dessa stjärnor snurrar runt i en jättelik svärm långt borta i vår galax. Om du tittar noga kan du se att många av stjärnorna lyser i vackra, gula färger precis som lysande små lyktor.",
+    "nyborjare": "Omega Centauri är den största och ljusstarkaste stjärnhopen i hela Vintergatan. Den rymmer ungefär tio miljoner stjärnor som är mycket äldre än vår sol. Hopen befinner sig på ett avstånd av femtusen ljusår från oss och kretsar runt vår galax i en vidsträckt bana. Forskarna har länge förundrats över detta objekt eftersom stjärnorna i vanliga hopar är födda samtidigt, medan Omega Centauri har stjärnor med olika åldrar och kemiska sammansättningar. Det tyder på att den en gång kan ha varit kärnan i en liten dvärggalax som har smält samman med Vintergatan. Med hjälp av rymdteleskop har astronomer också hittat spår av ett massivt svart hål i dess mitt.",
+    "entusiast": "Omega Centauri, även katalogiserad som NGC 5139, är en magnifik klotformig stjärnhop belägen på cirka femtusen ljusårs avstånd i vår galax halo. Den rymmer runt tio miljoner stjärnor inneslutna i en volym med en diameter på etthundrafemtio ljusår. Till skillnad från mer typiska klotformiga stjärnhopar som uppvisar en homogen stjärnpopulation, kännetecknas Omega Centauri av en komplex uppsättning stjärnpopulationer med spridda åldrar och kemiska överflöd. Denna anomali, tillsammans med dess ovanliga massa och rotation, stärker hypotesen att den utgör resterna av kärnan i en dvärggalax som kolliderat med och absorberats av Vintergatan.Observationer under två decennier med rymdteleskop har dessutom avslöjat dynamiska bevis för ett mellantungt till massivt svart hål i dess centrala regioner. Dess framträdande gulaktiga färg domineras av äldre röda jättestjärnor som tydligt urskiljs i högupplösta teleskopiska avbildningar."
   },
   "terms": [
     {
       "term": "stjärnhop",
-      "explanation": "En gravitationellt bundet samling av många stjärnor som rör sig tillsammans genom rymden."
+      "explanation": "En gravitationellt bunden samling av tusentals till miljontals stjärnor som färdas tillsammans genom rymden."
+    },
+    {
+      "term": "Vintergatan",
+      "explanation": "Den gigantiska galax där vårt solsystem och miljarder andra stjärnor befinner sig."
+    },
+    {
+      "term": "dvärggalax",
+      "explanation": "En liten typ av galax som bara innehåller några få miljarder stjärnor."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som ljuset färdas i tom rymd under ett helt jordår."
+      "explanation": "Det enorma avstånd som ljuset hinner färdas på ett helt jordår."
     },
     {
-      "term": "galax",
-      "explanation": "Ett enormt storskaligt system av stjärnor, gas, stoft och mörk materia som hålls samman av gravitation."
-    },
-    {
-      "term": "rymdteleskop",
-      "explanation": "Ett avancerat astronomiskt instrument placerat i omloppsbana ovanför jordens atmosfär för att observera universum."
+      "term": "svart hål",
+      "explanation": "Ett område i rymden med en gravitation så enorm att inte ens ljuset kan ta sig ut."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant ball filled with ten million glittering diamonds out in the dark space. That is exactly what Omega Centauri is, though instead of diamonds, it is glowing stars packed tightly together. All these stars swirl around in a giant swarm far away in our galaxy. If you look closely, you can see that many of the stars shine in beautiful yellow colors just like glowing little lanterns.",
+      "nyborjare": "Omega Centauri is the largest and brightest star cluster in the entire Milky Way. It holds about ten million stars that are much older than our Sun. The cluster is located at a distance of fifteen thousand light-years from us and orbits our galaxy in a vast path. Researchers have long wondered about this object because stars in normal clusters are born at the same time, whereas Omega Centauri has stars with different ages and chemical abundances. This indicates that it may once have been the core of a small dwarf galaxy that merged with the Milky Way. Using space telescopes, astronomers have also found evidence of a massive black hole at its center.",
+      "entusiast": "Omega Centauri, also cataloged as NGC 5139, is a magnificent globular star cluster located at a distance of approximately fifteen thousand light-years in the halo of our Milky Way. It packs about ten million stars enclosed in a volume some one hundred fifty light-years in diameter. Unlike more typical globular clusters that exhibit a homogeneous stellar population, Omega Centauri is characterized by a complex presence of different stellar populations with a spread of ages and chemical abundances. This anomaly, along with its unusual mass and kinematics, strengthens the hypothesis that it represents the remnant core of a dwarf galaxy that collided with and was absorbed by the Milky Way. Observations spanning two decades with space telescopes have additionally revealed dynamical evidence for a massive black hole in its central regions. Its prominent yellowish hue is dominated by older red giant stars clearly resolved in high-resolution telescopic imaging."
+    },
+    "terms": [
+      {
+        "term": "star cluster",
+        "explanation": "A gravitationally bound collection of thousands to millions of stars traveling together through space."
+      },
+      {
+        "term": "Milky Way",
+        "explanation": "The gigantic galaxy where our solar system and billions of other stars reside."
+      },
+      {
+        "term": "dwarf galaxy",
+        "explanation": "A small type of galaxy containing only a few billion stars."
+      },
+      {
+        "term": "light-year",
+        "explanation": "The enormous distance that light travels in one Earth year."
+      },
+      {
+        "term": "black hole",
+        "explanation": "A region of space having a gravitational field so intense that no matter or radiation can escape."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a globular cluster like Omega Centauri?",
+        "options": [
+          "A compact collection of millions of old stars held together by gravity",
+          "A vast cloud of gas and dust where new stars form rapidly",
+          "The remnants of a massive star that exploded as a supernova"
+        ],
+        "correct": 0,
+        "fact": "Globular clusters are densely packed systems containing up to millions of stars and rank among the oldest objects in a galaxy."
+      },
+      {
+        "q": "Why do scientists suspect that Omega Centauri might be the core of a former dwarf galaxy?",
+        "options": [
+          "It moves much faster than other star clusters in the Milky Way",
+          "It contains stars of different ages and chemical compositions",
+          "It has the exact same size as the Andromeda Galaxy"
+        ],
+        "correct": 1,
+        "fact": "Unlike typical star clusters where all stars formed simultaneously, Omega Centauri features stars from different eras, suggesting it was once a separate galaxy consumed by the Milky Way."
+      },
+      {
+        "q": "What color hue typically characterizes older, highly evolved giant stars in a cluster like this?",
+        "options": [
+          "Intense blue",
+          "Sharp green",
+          "Distinct yellowish"
+        ],
+        "correct": 2,
+        "fact": "Older stars that have cooled down on their surfaces shine with a warm, yellowish or reddish glow."
+      }
+    ]
+  }
 }

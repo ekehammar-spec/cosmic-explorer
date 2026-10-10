@@ -1,0 +1,74 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-02",
+  "title": "Rains Swamp the Gandak River",
+  "title_sv": "Regn översvämmar Gandakfloden",
+  "place": "Nepal och Indien",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/torrential-rains-swamp-the-gandaki-river/floodingindianepal_tmo_20260920.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/torrential-rains-swamp-the-gandaki-river/floodingindianepal_tmo_20260920.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/torrential-rains-swamp-the-gandaki-river/floodingindianepal_tmo_20260920.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/",
+  "credit": "NASA Earth Observatory / Lauren Dauphin",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview .",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAJBAAAgIBAwMFAQAAAAAAAAAAAQIAEQMEEiITITEUQVFxgaH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBQb/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQIREwMSQVH/2gAMAwEAAhEDEQA/AOZ6FemG6h3G7AExp8DcchIPukbZq83RkODv3KB2Expt5OfXI8i2XW6gY+muRwtVyA7j7ioyOrWw3E+SDOkCrCmUSG0+MmtsPY/Q930uRxJvt8SituX+QhJUrrkXSQeCZoDx/IQlyk0LZ//Z",
+  "levels": {
+    "barn": "Bilden visar en flod från rymden som har svämmat över sina bräddar efter mycket regn. Vattnet syns i blå färg som breder ut sig över landskapet, medan växtligheten lyser i klar grönt. Mycket regn föll i bergen och fick floden att stiga mycket högt så att vatten rann ut över åkrar och byar. Satelliten tittar ner på jorden för att hjälpa till att visa var vattnet har tagit vägen.",
+    "nyborjare": "Den här satellitbilden visar hur Gandakfloden har svämmat över efter kraftiga skyfall i slutet av september 2026. Bilden är tagen med falska färger, vilket innebär att forskare har kombinerat infrarött och synligt ljus för att göra det lättare att skilja vatten från land. Det översvämmade vattnet syns som blå områden, medan grön vegetation och ljusblå moln syns tydligt. Skyfallen utlöste jordskred och fick floden att nå rekordhöga nivåer i både Nepal och Indien. Vattnet bröt igenom vallar och översvämmade jordbruksmark och bebyggelse, vilket påverkade hundratals byar och tvingade tusentals människor på flykt.",
+    "entusiast": "Satellitbilderna har tagits av instrumentet MODIS som sitter på NASAs satelliter Terra och Aqua. Genom att kombinera observationer av infrarött och synligt ljus, specifikt MODIS band 7-2-1, skapas falska färger som tydligt särskiljer vatten från omgivningen där översvämmat vatten framträder i blått och vegetationen lyser klart grön. Bilderna visar den dramatiska situationen efter att senmonsunens häftiga stormar drabbat Nepals bergiga Lumbini- och Gandakiprovinser mellan den 24 och 27 september 2026. Vattenmassorna orsakade jordskred och fick Gandakfloden att stiga till rekordnivåer. Mätdata från Nepals hydrologiska och meteorologiska avdelning visade att en mätare i Devghat nådde 11,94 meter den 27 september, vilket är den högsta nivån sedan mätningarna startade på 1960-talet. Liknande nya rekordnoteringar uppmättes vid flertalet mätstationer på den indiska sidan, såsom vid Bagaha och Dumariaghat. Forskare och myndigheter använder förutom MODIS ett flertal verktyg och dataset för att spåra nederbörd och översvämningar, däribland Worldview, FLOOD Viewer och GPM IMERG Global Viewer, vilket ger viktig information för att förstå och hantera naturkatastrofer."
+  },
+  "terms": [
+    {
+      "term": "MODIS",
+      "explanation": "Ett instrument som sitter på NASAs satelliter Terra och Aqua för att observera jorden."
+    },
+    {
+      "term": "Gandakfloden",
+      "explanation": "En flod som även kallas Narayani och som nådde rekordhöga nivåer under översvämningen."
+    },
+    {
+      "term": "Devghāṭ",
+      "explanation": "En plats i Nepal där en mätstation noterade ett historiskt högsta vattenstånd i september 2026."
+    },
+    {
+      "term": "Worldview",
+      "explanation": "Ett av NASAs verktyg som används för att spåra regn och översvämningar från rymden."
+    },
+    {
+      "term": "diara",
+      "explanation": "Säsongsbundna fält på låglänta avlagringar av sand och silt inom flodens fåra."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This image shows a river from space that has flooded after a lot of rain. The water is shown in blue spreading across the land, while the vegetation glows bright green. Heavy rain fell in the mountains and made the river rise very high, causing water to flow over fields and villages. The satellite looks down at earth to help show where the water has gone.",
+      "nyborjare": "This satellite image shows how the Gandak River flooded following torrential downpours in late September 2026. The image is captured in false color, meaning scientists have combined infrared and visible light to make it easier to distinguish water from land. The floodwater appears as blue areas, while green vegetation and light blue clouds are clearly visible. The heavy storms triggered landslides and pushed the river to record levels in both Nepal and India, overtopping embankments and inundating farmland and settlements across hundreds of villages.",
+      "entusiast": "The satellite images were captured by the MODIS instrument aboard NASA's Terra and Aqua satellites. By combining observations of infrared and visible light, specifically MODIS bands 7-2-1, false-color images are created that clearly distinguish water, with floodwater appearing blue and vegetation glowing bright green. The images illustrate the dramatic situation after late-monsoon storms struck Nepal's mountainous Lumbini and Gandaki provinces between September 24 and 27, 2026. The deluge triggered landslides and pushed the Gandak River to record levels, with a gauge in Devghat reaching 11.94 meters on September 27, the highest since measurements began in the 1960s. Similar high-water marks were set at gauges in India including Bagaha and Dumariaghat. Researchers and authorities utilize various tools and datasets to track rainfall and flooding, such as Worldview, FLOOD Viewer, and the GPM IMERG Global Viewer, providing vital data for understanding natural disasters."
+    },
+    "terms": [
+      {
+        "term": "MODIS",
+        "explanation": "An instrument on NASA's Terra and Aqua satellites used to observe Earth."
+      },
+      {
+        "term": "Gandak River",
+        "explanation": "A river also called the Narayani that reached record levels during the floods."
+      },
+      {
+        "term": "Devghāṭ",
+        "explanation": "A location in Nepal where a gauge recorded a historic high water level in September 2026."
+      },
+      {
+        "term": "Worldview",
+        "explanation": "One of NASA's tools used to track rainfall and flooding."
+      },
+      {
+        "term": "diara",
+        "explanation": "Seasonal fields on low-lying deposits of sand and silt within the river's channel."
+      }
+    ],
+    "place": "Nepal and India"
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-19",
   "title": "A Zodiacal Night",
-  "title_sv": "Zodiakalt ljus över Ladakh",
+  "title_sv": "Zodiakalljus i natthimlen",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=480&h=480&fit=clip",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAAiEAABBAICAQUAAAAAAAAAAAABAAIDBBESMUEFIkJRYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Axhac9pkcZJRFbqOdrIXRnjJGR+K146rVtOLYbML3gZ1DhlLSW5iVqWqtYoyMlI1K53VnYJLTwipnXR+pxz2UvX7QhQPFmy1uosSgfG5Q2ecuGZ5CMj3FCFB//9k=",
   "quiz": [
     {
-      "q": "Vad är det för svagt lysande band som sträcker sig över natthimlen i detta zodiakalljus?",
+      "q": "Vad är zodiakalljus för något?",
       "options": [
-        "Solljus som reflekteras mot interplanetärt stoft i solsystemets plan",
-        "Strålning från avlägsna galaxer i universums utkanter",
-        "Gaser från jordens övre atmosfär som joniseras av solvinden"
+        "Solljus som reflekteras av interplanetärt rymddamm",
+        "Ett norrsken som uppstår nära planeternas banor",
+        "Ljuset från en avlägsen galax långt bort i kosmos"
       ],
       "correct": 0,
-      "fact": "Det zodiakala ljuset uppstår när solljus backas upp av små dammkorn som svävar i samma plan som planeterna rör sig i kring solen."
+      "fact": "Zodiakalljus är svagt solljus som sprids åt sidorna av enorma mängder små dammkorn i solsystemet."
     },
     {
-      "q": "Varför placeras professionella teleskop ofta på höga platser som 4 500 meters höjd?",
+      "q": "Varför ser man ofta zodiakalljuset bäst nära horisonten?",
       "options": [
-        "För att komma närmare stjärnorna så att deras ljus blir starkare",
-        "För att undvika mycket av den störande luften och fukten i jordens atmosfär",
-        "För att undvika jordens magnetfält som annars stör utrustningen"
+        "För att dammet är tjockast längst ut i Oorts moln",
+        "För att ljuset följer planeternas banplan där dammet samlas",
+        "För att jordens atmosfär förstorar stjärnljuset just där"
       ],
       "correct": 1,
-      "fact": "Genom att flytta observatorier högt upp över havet hamnar man ovanför stora delar av jordens atmosfär, vilket ger mycket skarpare bilder."
+      "fact": "Dammet som orsakar zodiakalljuset ligger samlat i ekliptikan, vilket gör att det lyser starkast längs zodiaken."
     },
     {
-      "q": "Vilken planet anses i nyare forskning vara huvudkällan till det damm som orsakar zodiakalljus?",
+      "q": "Vilken planet har av forskare kopplats samman som en trolig källa till dammet som skapar zodiakalljuset?",
       "options": [
         "Saturnus",
-        "Mars",
-        "Venus"
+        "Venus",
+        "Mars"
       ],
-      "correct": 1,
-      "fact": "Mätningar från rymdsondsfärder tyder på att stoft som slungas upp från Mars bidrar starkt till det dammoln som reflekterar solljuset."
+      "correct": 2,
+      "fact": "Mätningar från rymdfarkoster visar att damm från Mars kan vara en huvudkälla till detta kosmiska dammlager."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att det finns ett osynligt moln av glittrande dammkorn ute i rymden mellan planeterna. När solens strålar träffar alla dessa små dammkorn börjar de lysa svagt som ett jättestort magiskt sken på natthimlen. Det ser ut som en bred strimma av ljus som sträcker sig uppåt, och det liknar faktiskt en stråle från en jättestor ficklampa som någon tänt långt borta i mörkret.",
-    "nyborjare": "På en riktigt mörk natthimmel långt bort från stadens ljus kan man ibland få syn på det zodiakala ljuset. Det är ett svagt, kägelformat sken som följer solsystemets plan, zodiaken. Fenomenet orsakas av att solljus reflekteras i enorma mängder interplanetärt stoft, det vill säga små dammkorn som svävar mellan planeterna. Bilden är tagen från ett höghöjdsobservatorium i Indien på 4 500 meters höjd. Den tunnare luften där gör att stjärnor och svaga rymdfenomen framträder med otrolig skärpa, medan planeter som Jupiter och Mars syns som klara färgklickar i närheten av ljusbandet.",
-    "entusiast": "Det zodiakala ljuset är en solsystemsnära optisk effekt som uppstår när solljus backscatters av mikroskopiska dammkorn belägna i ekliptikans plan. Bilden fångar detta subtila fenomen från Hanle Dark Sky Reserve i Ladakh, beläget på omkring 4 500 meters höjd. Den höga altituden ovanför större delen av troposfären minskar atmosfärisk extinction och ljusföroreningar avsevärt, vilket skapar ideella förhållanden för astrofotografi. Intressant nog har data från rymdsonden Juno indikerat att stoftet till stor del härstammar från Mars, vars yta ständigt bombarderas av meteoriter som frigör partiklar ut i rymden. Längs det lysande bandet kan man även skymta öppna stjärnhopen M44, även känd som Bikupan, samt den gulaktiga planeten Mars nära bildens mitt."
+    "barn": "Tänk dig att solen lyser på ett jättestort moln av osynligt rymddamm som flyger runt i rymden. När solstrålarna träffar dammet börjar det glimma svagt som en mystisk strimma på natthimlen. Det ser nästan ut som en spöklik ljuskägla som pekar uppåt från horisonten precis innan solen går upp. Mitt i detta vackra ljus kan man ibland få syn på stora planeter som lyser som klara färgade prickar bland alla blänkande stjärnor.",
+    "nyborjare": "På en mörk natthimmel långt från stadens ljus kan man ibland ana ett svagt, pyramidformat sken som sträcker sig upp från horisonten strax före gryningen. Detta fenomen kallas zodiakalljus och orsakas av att solljus studsar mot miljarder små dammkorn som svävar i rymden. Dessa partiklar ligger utspridda i solsystemets plan, där planeter som Mars och Jupiter rör sig. Ljuset är så svagt att det krävs en riktigt mörk plats på jorden, gärna på hög höjd med klar luft, för att man ska kunna upptäcka det.",
+    "entusiast": "Zodiakalljus framträder som en svagt lysande kägla längs ekliptikan och orsakas av solljus som backscatters av interplanetärt stoft. Stoftpartiklarna, vars ursprung länge har debatterats, har i modern tid genom mätningar från bland annat rymdfarkosten Juno starkt sammankopplats med Mars som primär källa. När man blickar in i detta band kan man finna både ljusstarka planeter som Jupiter och öppna stjärnhopar som M44. För att få syn på detta diffusa sken krävs exceptionellt mörka observationsplatser, till exempel högt belägna platser som Hanle Dark Sky Reserve där ljusföroreningar är minimala och förhållandena för astrofotografi är optimala."
   },
   "terms": [
     {
-      "term": "zodiakalt ljus",
-      "explanation": "Ett svagt, diffust sken på natthimlen som orsakas av solljus som reflekteras mot rymddamm i solsystemets plan."
-    },
-    {
-      "term": "interplanetärt stoft",
-      "explanation": "Mikroskopiska partiklar och dammkorn som svävar fritt i utrymmet mellan planeterna i ett solsystem."
+      "term": "zodiakalljus",
+      "explanation": "Ett svagt, diffust sken på natthimlen orsakat av solljus som reflekteras av rymddamm i solsystemet."
     },
     {
       "term": "ekliptikan",
-      "explanation": "Den tänkta linje på himlen som markerar solens årliga skenbara bana i förhållande till stjärnorna."
+      "explanation": "Den tänkta linje på himlen som solen och planeterna rör sig längs under året."
+    },
+    {
+      "term": "astrofotografi",
+      "explanation": "Fotografering av astronomiska objekt och himlakroppar med hjälp av specialutrustning."
     },
     {
       "term": "stjärnhop",
-      "explanation": "En samling stjärnor som hålls samman av sina inbördes gravitationskrafter och rör sig tillsammans genom rymden."
+      "explanation": "En samling stjärnor som hålls samman av sina inbördes gravitationskrafter."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine that the sun is shining on a giant cloud of invisible space dust floating around in space. When the sunbeams hit the dust, it starts to gleam faintly like a mysterious streak in the night sky. It almost looks like a spooky cone of light pointing up from the horizon just before the sun rises. Right in the middle of this beautiful glow, you can sometimes catch sight of large planets shining like bright colored dots among all the twinkling stars.",
+      "nyborjare": "In a dark night sky far from city lights, one can sometimes glimpse a faint, pyramid-shaped glow stretching up from the horizon just before dawn. This phenomenon is called zodiacal light and is caused by sunlight bouncing off billions of tiny dust grains floating in space. These particles are scattered across the plane of the solar system, where planets like Mars and Jupiter move. The light is so faint that it requires a truly dark location on earth, preferably at high altitude with clear air, to be detected.",
+      "entusiast": "Zodiacal light appears as a faintly glowing cone along the ecliptic and is caused by sunlight backscattered by interplanetary dust. The dust particles, whose origin has long been debated, have in modern times through measurements from spacecraft such as Juno been strongly linked to Mars as a primary source. When gazing into this band, one can find both bright planets like Jupiter and open star clusters like M44. To spot this diffuse glow requires exceptionally dark observation sites, such as high-altitude locations like the Hanle Dark Sky Reserve where light pollution is minimal and conditions for astrophotography are optimal."
+    },
+    "terms": [
+      {
+        "term": "zodiacal light",
+        "explanation": "A faint, diffuse glow in the night sky caused by sunlight reflected off space dust in the solar system."
+      },
+      {
+        "term": "ecliptic",
+        "explanation": "The apparent path that the sun and planets take across the sky throughout the year."
+      },
+      {
+        "term": "astrophotography",
+        "explanation": "The photography of astronomical objects and celestial bodies using specialized equipment."
+      },
+      {
+        "term": "star cluster",
+        "explanation": "A collection of stars held together by their mutual gravitational forces."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is zodiacal light?",
+        "options": [
+          "Sunlight reflected by interplanetary space dust",
+          "An aurora occurring near the planetary orbits",
+          "Light from a distant galaxy far away in the cosmos"
+        ],
+        "correct": 0,
+        "fact": "Zodiacal light is faint sunlight scattered sideways by enormous amounts of tiny dust grains in the solar system."
+      },
+      {
+        "q": "Why is zodiacal light often seen best near the horizon?",
+        "options": [
+          "Because dust is thickest at the edge of the Oort cloud",
+          "Because the light follows the orbital plane where dust gathers",
+          "Because earth's atmosphere magnifies starlight right there"
+        ],
+        "correct": 1,
+        "fact": "The dust causing zodiacal light is gathered in the ecliptic plane, making it glow brightest along the zodiac."
+      },
+      {
+        "q": "Which planet has been linked by researchers as a likely source of the dust creating the zodiacal light?",
+        "options": [
+          "Saturn",
+          "Venus",
+          "Mars"
+        ],
+        "correct": 2,
+        "fact": "Measurements from spacecraft show that dust from Mars may be a primary source for this cosmic dust layer."
+      }
+    ]
+  }
 }

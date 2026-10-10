@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-12",
   "title": "Apollo 11: Catching Some Sun",
-  "title_sv": "Apollo 11: Fångar lite sol",
+  "title_sv": "Apollo 11: Solbad på månen",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
   "thumb": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCAwYH/8QAKBAAAgEDAgUEAwEAAAAAAAAAAQIDAAQREiEFMUFRYRQigbFScZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/AMzY2SLHmQDJAP8AaE4lCsbe0U3teEzQEL6g6c506andcDkuSMzhfOnNJbB81nktl9KXlBDNunMZH1QrhQgK79z57VoOI2ccNvbxsXZY0xqzgaiT06bYpKts0oOgkKvfvRb6TnHQlxGpDS5XwR9CrmKhCAyhsY3/ANpY0jKigaNZ/EH7pcOH6JGkkkLTA9XLADzvWoxuC0UOmQRzhuQWQjJ/RpMwVXZQ95bknPsTWD8jerwjLtHqkGOo5fAom2uzGxU6AQerY271if/Z",
   "quiz": [
     {
-      "q": "Vad består solvinden huvudsakligen av?",
+      "q": "Vad är solvind för något?",
       "options": [
-        "Partiklar som strömmar ut från solen",
-        "Tunga grundämnen som guld och järn",
-        "Koncentrerade strålar av synligt ljus"
-      ],
-      "correct": 0,
-      "fact": "Solvinden är en ständig ström av laddade partiklar som slungas ut från solens yttersta lager ut i rymden."
-    },
-    {
-      "q": "Varför är det en stor fördel att samla in material direkt från månytan jämfört med jorden?",
-      "options": [
-        "Månen har mycket starkare gravitation som drar till sig rymdstoft",
-        "Månen saknar en skyddande atmosfär som bromsar in solvindsartiklar",
-        "Månens yta är täckt av flytande vatten som samlar upp ämnen"
+        "En stark vind som blåser på solens yta",
+        "Partiklar som kastas ut från solen i hög fart",
+        "Ljuset som färdas från solen till jorden"
       ],
       "correct": 1,
-      "fact": "Eftersom månen saknar en skyddande atmosfär och magnetfält träffar solvinden direkt på ytan."
+      "fact": "Solvinden består av laddade partiklar som ständigt flödar ut i rymden från solens yttre atmosfär."
     },
     {
-      "q": "Hur transporterades måneteriet tillbaka till jorden efter Apollo 11-landningen?",
+      "q": "Varför samlade Apollo 11-astronauterna in mångrus och stenar?",
       "options": [
-        "Det skickades med obemannade fraktronfarkoster i efterhand",
-        "Det förvarades i specialbyggda säckar på rymdstationen",
-        "Det togs med i månlandaren och lastades in i kommandomodulen"
+        "För att bygga skydd mot solvinden",
+        "För att forska om månens uppkomst och historia",
+        "För att väga hur mycket månen väger"
       ],
-      "correct": 2,
-      "fact": "Astronauterna tog med både stenar och experimentet tillbaka i rymdfarkosten för noggranna analyser i laboratorier på jorden."
+      "correct": 1,
+      "fact": "Genom att studera månstenar kan forskare lära sig mer om hur månen och solsystemet bildades."
+    },
+    {
+      "q": "Hur skapas månens mörka skuggor på bilden?",
+      "options": [
+        "Solen skiner från sidan och månen saknar skyddande atmosfär",
+        "Moln på månen skymmer det starka solljuset",
+        "Månens yta är målad i svarta färger"
+      ],
+      "correct": 0,
+      "fact": "Eftersom månen saknar en atmosfär som sprider ljuset blir skuggorna helt svarta och skarpa när solen lyser från sidan."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att vara först i hela världen med att sätta fötterna på en helt ny plats! Det gjorde astronauten Neil Armstrong när han klev ut på månen. Medan kompisarna jobbade utanför rymdfarkosten samlade de upp både stenar och fångade upp osynliga partiklar som flög hela vägen från solen. Det var som att fiska efter rymdbitar med en speciell folieark som fungerade som en magisk håv för solens strålar.",
-    "nyborjare": "Den historiska månlandningen med Apollo 11 gav inte bara mänskligheten dess första steg på en annan värld, utan också unika vetenskapliga prover. På bilden syns månlandaren och astronauten Buzz Aldrin när han rullar ut en speciell folie för solforskning. Denna folie exponerades för solvinden, vilket är en ständig ström av laddade partiklar som flödar ut från solen. Efter uppdraget togs både folien och tjugotvå kilogram månstenar med tillbaka till jorden för grundliga laboratorieanalyser.",
-    "entusiast": "Apollo 11-uppdraget den 20 juli 1969 levererade inte bara ikoniska bilder utan även ovärderligt material för solfysiken. I denna bild rullar månlandarmjölnaren Buzz Aldrin ut folien för Solvinds-kompositionsexperimentet. Eftersom månen saknar en tät atmosfär och ett globalt magnetfält når solvinden oreducerad fram till dess yta. Den utplacerade folien fungerade som en passiv samlare för höghastighetspartiklar från solens korona. Tillsammans med tjugotvå kilogram insamlad månsten och regolit kunde forskare i jordburna laboratorier analysera isotopsammansättningen av material från solen själv, vilket gav djupare insikter om solsystemets tidiga utveckling och sammansättning."
+    "barn": "Tänk dig att du är ute på en stor grå sandlåda där det är jätteljust. På månen skiner solen hela tiden, men eftersom det inte finns någon luft blir skuggorna kolsvarta. Astronauten Buzz Aldrin rullar ut en blank aluminiumfolie för att fånga upp osynliga partiklar som flyger genom rymden hela vägen från solen. Det blir som att fånga solens egna hemligheter på en foliebit att ta med hem.",
+    "nyborjare": "Under månfärden med Apollo 11 placerade astronauten Buzz Aldrin ut ett speciellt experiment för att fånga solvinden på månens yta. Solvinden är en ström av laddade partiklar som ständigt kastas ut från solen i enorm hastighet. Eftersom månen saknar en skyddande atmosfär och ett starkt magnetfält träffar dessa partiklar rakt på månmarken. Genom att använda en folieduk som exponerades för solljuset kunde forskarna samla in solvindens beståndsdelar och ta dem till jorden för analys. Utöver detta samlades även tjugotvå kilogram månstenar och stoft in för att öka vår förståelse för månen.",
+    "entusiast": "Apollo 11-missionen den tjugonde juli 1969 gav inte bara mänskligheten de första stegen på ett annat astronomiskt objekt, den levererade även värdefull data om solsystemets dynamik. På bilden syns månlandaren Eagle och astronauten Buzz Aldrin som sätter upp solfångarexperimentet för solvindskomposition, benämnt Solar Wind Composition Experiment. Denna utplacering av aluminiumfolie fungerade som en passiv detektor för solens korpuskulära strålning. När solvindens joner träffade folien fastnade de i materialet. Genom att analysera folieproverna i jordbundna laboratorier kunde forskare mäta isotopsammansättningen av ädelgaser som helium, neon och argon i solvinden. Dessa mätningar ger viktig insikt om solens sammansättning och utveckling över tid, vilket kompletterades av tjugotvå kilogram insamlat geologiskt material bestående av måndamm och bergarter."
   },
   "terms": [
     {
-      "term": "månlandare",
-      "explanation": "Det farkostfordon som används för att landa på månens yta från omloppsbanan."
-    },
-    {
       "term": "solvind",
-      "explanation": "En kontinuerlig ström av laddade partiklar som kastas ut från en stjärnas yttre atmosfär."
+      "explanation": "En ständig ström av laddade partiklar som kastas ut i rymden från stjärnans yttre atmosfär."
     },
     {
-      "term": "regolit",
-      "explanation": "Det lösa lager av stoft och krossat berg som täcker ytan på månen och andra himlakroppar."
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en planet eller himlakropp och håller kvar värme."
     },
     {
-      "term": "korona",
-      "explanation": "Den yttersta och extremt heta delen av en stjärnas atmosfär som sträcker sig ut i rymden."
+      "term": "månlandaren",
+      "explanation": "Det rymdfarkostfordon som används för att landa på månens yta från omloppsbanan."
+    },
+    {
+      "term": "isotopsammansättning",
+      "explanation": "Förhållandet mellan olika varianter av samma grundämne med olika antal neutroner."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine being in a huge gray sandbox where everything is super bright. On the moon, the sun shines all the time, but because there is no air, the shadows are pitch black. Astronaut Buzz Aldrin rolls out a shiny foil sheet to catch invisible particles flying all the way through space from the sun. It is like catching the sun's own secrets on a piece of foil to bring back home.",
+      "nyborjare": "During the Apollo 11 moon landing, astronaut Buzz Aldrin set up a special experiment to capture the solar wind on the lunar surface. The solar wind is a stream of charged particles constantly hurled from the sun at immense speed. Because the moon lacks a protective atmosphere and a strong magnetic field, these particles hit the lunar ground directly. By using a foil sheet exposed to the sunlight, scientists could collect components of the solar wind and bring them back to Earth for analysis. In addition to this, twenty-two kilograms of moon rocks and soil were also gathered to increase our understanding of the moon.",
+      "entusiast": "The Apollo 11 mission on July 20, 1969, not only provided humanity with its first steps on another celestial body, it also delivered valuable data regarding solar system dynamics. Pictured is the lunar module Eagle and astronaut Buzz Aldrin deploying the Solar Wind Composition Experiment. This deployment of aluminum foil acted as a passive detector for the sun's corpuscular radiation. When the solar wind ions struck the foil, they became trapped in the material. By analyzing the foil samples in earthbound laboratories, researchers could measure the isotopic composition of noble gases like helium, neon, and argon within the solar wind. These measurements provide crucial insight into the sun's composition and evolution over time, complemented by twenty-two kilograms of collected geological material consisting of lunar soil and rocks."
+    },
+    "terms": [
+      {
+        "term": "solar wind",
+        "explanation": "A continuous stream of charged particles streaming outward into space from a star's outer atmosphere."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet or celestial body that retains heat."
+      },
+      {
+        "term": "lunar module",
+        "explanation": "The spacecraft vehicle used to land on the surface of the moon from orbit."
+      },
+      {
+        "term": "isotopic composition",
+        "explanation": "The relative proportions of different variants of the same chemical element possessing varying numbers of neutrons."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is the solar wind?",
+        "options": [
+          "A strong breeze blowing across the sun's surface",
+          "Particles streaming outward from the sun at high speed",
+          "Light traveling from the sun to the Earth"
+        ],
+        "correct": 1,
+        "fact": "The solar wind consists of charged particles that continuously stream outward into space from the sun's outer atmosphere."
+      },
+      {
+        "q": "Why did the Apollo 11 astronauts collect lunar rocks?",
+        "options": [
+          "To build shelters against the solar wind",
+          "To research the origin and history of the moon",
+          "To weigh how heavy the moon is"
+        ],
+        "correct": 1,
+        "fact": "By studying moon rocks, scientists can learn more about how the moon and the solar system were formed."
+      },
+      {
+        "q": "What causes the dark shadows on the moon in this image?",
+        "options": [
+          "The sun shines from the side and the moon lacks a protecting atmosphere",
+          "Clouds on the moon block the bright sunlight",
+          "The lunar surface is painted in black colors"
+        ],
+        "correct": 0,
+        "fact": "Because the moon lacks an atmosphere to scatter light, the shadows appear completely dark and sharp when the sun shines from the side."
+      }
+    ]
+  }
 }

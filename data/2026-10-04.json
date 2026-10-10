@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-04",
   "title": "Supernumerary Rainbows over New Jersey",
-  "title_sv": "Övertaliga regnbågar över New Jersey",
+  "title_sv": "Extraregnbågar över New Jersey",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=480&h=480&fit=clip",
@@ -15,40 +15,40 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABYDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBQIDBv/EACUQAAIBBAICAAcAAAAAAAAAAAECAAMEERIhMQUiEzJBYXGR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEC/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECEQMSEyFR/9oADAMBAAIRAxEAPwCu+CveSIzboVBbbIEx12YAZ5jtWkKKrTK5IGT+YxTS9A4ltaLkse4TeoVhxkmEsmEePo73ak/KvscxqsS1RiSMk5M53wN3dPZ4RW1pcbHpufr/ACNV/MC1qql1bVUyOXIGuftEp5e1PRnMlYWDMV6WEXHmLEIrKFbbv3wB+4Qvmj6Yxn//2Q==",
   "quiz": [
     {
-      "q": "Vad är det som orsakar att regnbågar ibland visar flera svaga bågar på insidan av huvudbågen?",
+      "q": "Vad är det som orsakar de extra färgbanden som syns på insidan av en extraregnbåge?",
       "options": [
-        "Att solljuset träffar iskristaller istället för vattendroppar i luften",
-        "Ljusvågor som interfererar med varandra när vattendropparna är jämna i storlek",
-        "Reflektioner från molnens undersida som speglas i atmosfären"
+        "Att ljuset reflekteras två gånger inuti samma vattendroppe",
+        "Ljuset fungerar som vågor som interfererar med varandra",
+        "Solljuset delas upp av iskristaller högt upp i atmosfären"
       ],
       "correct": 1,
-      "fact": "Övertaliga regnbågar bildas genom våginterferens när regndropparna är nästan exakt lika stora och mindre än en millimeter i diameter."
+      "fact": "När vattendropparna är mycket jämna i storlek uppstår våginterferens, vilket skapar de extra färgbanden som bara kan förklaras med ljusets vågnatur."
     },
     {
-      "q": "Vilken egenskap hos ljuset bevisades historiskt genom studiet av dessa ovanliga regnbågar?",
+      "q": "Vilken storlek måste vattendropparna i luften ha för att dessa särskilda regnbågar ska kunna bildas?",
       "options": [
-        "Att ljus har en vågnatur",
-        "Att ljus färdas med en begränsad hastighet",
-        "Att solljus består av alla regnbågens färger"
+        "Knappt en millimeter eller mindre i diameter",
+        "Precis lika stora som vanliga hagelkorn",
+        "Minst fem centimeter stora för att fånga tillräckligt med ljus"
       ],
       "correct": 0,
-      "fact": "När dessa speciella bågar uppmärksammades i början av 1800-talet sågs det som ett tidigt bevis för att ljus beter sig som vågor."
+      "fact": "För att interferenseffekten ska uppstå och synas tydligt krävs det att de fallande vattendropparna är mycket små, vanligtvis mindre än en millimeter."
     },
     {
-      "q": "Hur stora måste regndropparna vara för att de ovanliga följdbågarna ska kunna uppstå?",
+      "q": "Var på himlen uppträder vanligtvis dessa sällsynta regnbågar i förhållande till solen?",
       "options": [
-        "Större än en centimeter i diameter",
-        "Mindre än en millimeter i diameter",
-        "Exakt fem millimeter i diameter"
+        "Rakt upp i zenit direkt ovanför betraktaren",
+        "I exakt samma riktning som solen skiner från",
+        "I motsatt riktning jämfört med var solen befinner sig"
       ],
-      "correct": 1,
-      "fact": "För att interferenseffekten ska synas tydligt krävs det att alla fallande vattendroppar är mindre än en millimeter över."
+      "correct": 2,
+      "fact": "Precis som vanliga regnbågar bildas dessa fenomen på himlen i den riktning som är vänd bort från solen när ljuset bryts och reflekteras i regndropparna."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en helt vanlig regnbåge med sina sju färger på himlen. Ibland kan man ha så stor tur att det dyker upp flera extra regnbågar precis bredvid den vanliga. Det ser ut som att himlen har målat flera färgglada band på samma gång. Detta händer när små, små vattendroppar i luften är exakt lika stora och jobbar tillsammans för att spegla solljuset på ett alldeles speciellt sätt, precis som när man kastar en liten sten i en spegelblank vattenpuss.",
-    "nyborjare": "Efter ett oväder med kraftigt regn kan det ibland dyka upp en sällsynt syn på himlen: övertaliga regnbågar. Istället för bara en enda färgstark båge syns flera svagare bågar på insidan av den vanliga regnbågen. Detta spännande fenomen uppstår endast när regndropparna som faller är nästan exakt lika stora och mindre än en millimeter breda. Solljuset reflekteras då inte bara inuti dropparna utan börjar också interferera med varandra. Interferens är en vågfenomen som liknar de ringar som bildas på vattenytan när man kastar i en sten. Att forskarna förstod detta i början av 1800-talet blev ett viktigt bevis för ljusets vågnatur, vilket visar att ljus kan bete sig som vågor på samma sätt som vatten.",
-    "entusiast": "När resterna av orkaner drar förbi kan atmosfäriska förhållanden ibland skapa optiska fenomen som övertaliga regnbågar. Till skillnad från en primär regnbåge som förklaras helt med geometrisk optik, det vill säga ljusets refraktion och reflektion i enskilda sfäriska vattendroppar, kräver dessa extra bågar vågoptik för att förstås. När vattendropparna är monodispersa i storlek, det vill säga alla har en diameter under en millimeter, överlappar de ljusvågor som har reflekterats internt. Detta leder till destruktiv och konstruktiv interferens, ett fenomen som är analogt med krusningar på en damm. Förekomsten av dessa sekundära band på insidan av huvudbågen fungerade under tidigt 1800-tal som tidiga empiriska bevis för ljusets vågnatur och bidrog starkt till förståelsen av elektromagnetisk strålning innan kvantmekaniken utvecklades."
+    "barn": "Tänk dig att det har regnat färdigt och solen tittar fram igen. Ibland kan man vara så lycklig att man får se en färggrann båge på himlen. Men om alla regndroppar är precis lika stora kan det hända något magiskt. Då trollas det fram flera extra bågar på insidan som liknar ringar på vattnet när man kastar en liten sten i en spegelblank sjö.",
+    "nyborjare": "Efter ett oväder kan det hända att solen bryter igenom och skapar en regnbåge på himlen. Under speciella förhållanden kan man få se extraregnbågar, vilket är ett sällsynt och vackert fenomen. Det uppstår när fallande vattendroppar har nästan exakt samma storlek och är mindre än en millimeter breda. Solljuset reflekteras då inte bara inuti dropparna utan börjar också interferera, vilket är en vågeffekt som liknar krusningar på en damm när man kastar i en sten. Detta gör att flera extra färgbanden rullas upp på himlen.",
+    "entusiast": "När regnresterna efter en orkan drar förbi kan himlen bjuda på spektakulära optiska fenomen. Vid gynnsamma förhållanden uppenbarar sig extraregnbågar, vilket kräver att de fallande vattendropparna är monodispersa i storlek med en diameter som underskrider en millimeter. När solljuset passerar dessa droppar sker inte enbart en geometrisk reflektion och refraktion, utan en ljusvågskollision som kallas interferens. Fenomenet kan liknas vid vågryatmer på en vattenyta och kan enbart förklaras genom att betrakta ljus som vågor snarare än enbart partiklar. Under tidigt 1800-tal ansågs just dessa regnbågar utgöra tidiga experimentella bevis för ljusets vågnatur."
   },
   "terms": [
     {
@@ -56,16 +56,73 @@
       "explanation": "När två eller flera vågor möts och antingen förstärker varandra eller släcker ut varandra."
     },
     {
-      "term": "refraktion",
-      "explanation": "När ljusvågor ändrar riktning när de rör sig från ett medium till ett annat med annan täthet."
-    },
-    {
       "term": "vågnatur",
-      "explanation": "Egenskapen hos ljus och andra partiklar att bete sig som svängande vågor i vissa situationer."
+      "explanation": "Egenskapen hos ljus eller andra storheter att bete sig som rörliga vågor snarare än fasta partiklar."
     },
     {
-      "term": "atmosfär",
-      "explanation": "Det lager av gaser som omger en planet och hålls kvar på plats av gravitationskraften."
+      "term": "reflekteras",
+      "explanation": "När ljus eller andra strålar studsar tillbaka från en yta istället för att absorberas."
+    },
+    {
+      "term": "atmosfären",
+      "explanation": "Det tjocka lager av gaser och luft som omger vår planet och håller kvar luften vi andas."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine that a rainstorm has just passed and the Sun comes out again. Sometimes you are lucky enough to see a colorful bow across the sky. But if all the raindrops are nearly the exact same size, something magical can happen. Extra glowing arches pop up on the inside, looking just like ripples spreading on a pond when you toss a little stone into the water.",
+      "nyborjare": "After a storm clears, the Sun can break through and create a rainbow across the sky. Under special conditions, people can witness supernumerary rainbows, which are a rare and beautiful sight. This phenomenon happens when falling water droplets are almost identical in size and measure less than a millimeter across. Sunlight then not only reflects inside the droplets but also begins to interfere, which is a wave phenomenon similar to ripples on a pond when a stone is thrown in. This creates several extra bands of color.",
+      "entusiast": "When storm remnants pass through an area, the sky can reveal spectacular optical phenomena. Under favorable conditions, supernumerary rainbows appear, which require falling water droplets to be nearly uniform in size with a diameter under a millimeter. As sunlight passes through these droplets, it undergoes not only geometric reflection and refraction, but also wave interference. This phenomenon behaves similarly to ripples on a water surface and can only be explained by treating light as waves rather than simple particles. In the early 1800s, the existence of these distinct rainbows served as early evidence of light's wave nature."
+    },
+    "terms": [
+      {
+        "term": "interference",
+        "explanation": "When two or more waves meet and combine to either reinforce or cancel each other out."
+      },
+      {
+        "term": "droplets",
+        "explanation": "Very small and tiny drops of liquid water falling or floating through the air."
+      },
+      {
+        "term": "reflects",
+        "explanation": "When light or other forms of radiation bounce back off a surface instead of passing through."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The thick layer of gases surrounding our planet that protects life and holds the air we breathe."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What causes the extra color bands that appear on the inner side of a supernumerary rainbow?",
+        "options": [
+          "Light reflecting twice inside the exact same water droplet",
+          "Light waves interfering with each other like ripples on water",
+          "Sunlight being split apart by high-altitude ice crystals"
+        ],
+        "correct": 1,
+        "fact": "When water droplets are very uniform in size, wave interference occurs, creating extra color bands that can only be explained by the wave nature of light."
+      },
+      {
+        "q": "What size must the falling water droplets be in order for these specific unusual rainbows to form?",
+        "options": [
+          "Roughly a millimeter across or even smaller",
+          "Exactly the same size as standard hailstones",
+          "At least five centimeters wide to catch enough light"
+        ],
+        "correct": 0,
+        "fact": "For the interference effect to take place and become visible, the falling water droplets must be very small, typically measuring less than a millimeter."
+      },
+      {
+        "q": "Where in the sky do these rare rainbows typically appear relative to the position of the Sun?",
+        "options": [
+          "Directly overhead in the highest point of the zenith",
+          "In the exact same direction where the Sun is shining",
+          "In the opposite direction compared to where the Sun is located"
+        ],
+        "correct": 2,
+        "fact": "Just like standard rainbows, these atmospheric displays form in the part of the sky facing away from the Sun as light refracts and reflects inside raindrops."
+      }
+    ]
+  }
 }

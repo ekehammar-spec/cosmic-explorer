@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-27",
   "title": "Andromeda Before Photoshop",
@@ -15,61 +15,122 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQMABAYCBf/EACYQAAEDAgQGAwAAAAAAAAAAAAEAAgMRMQQSIUEFEyIyUWEzQnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxjRU3oNyi41R7RTe5/VZweCdiXgVoCUFaKF8rqMBKY+Hl6P0K97iAwnDoGwQPEkuXqIsCs/LKZH6n2UEayp1srD8Y5jMsfT7CUbJUm6Ac4l+Z7cw8Eriwp5up9Qms+UoP//Z",
   "quiz": [
     {
-      "q": "Vad är Andromedagalaxen för något?",
+      "q": "Vad är Andromedagalaxen för typ av astronomiskt objekt?",
       "options": [
-        "En stor galax som liknar vår egen Vintergata",
-        "En ensam stjärna som lyser väldigt starkt på himlen",
-        "Ett gasmoln där nya planeter föds inuti"
+        "En stor galax som innehåller hundratals miljarder stjärnor",
+        "Ett glödande moln av gas inuti vårt eget solsystem",
+        "Ett supermassivt svart hål i Vintergatans mitt"
       ],
       "correct": 0,
-      "fact": "Andromedagalaxen är en enorm stjärnsystem som består av hundratals miljarder stjärnor, precis som vår egen galax Vintergatan."
+      "fact": "Andromedagalaxen är en enorm spiralgalax och vår närmaste stora granne i universum."
     },
     {
-      "q": "Ungefär hur långt bort från oss ligger Andromedagalaxen?",
+      "q": "Vilken typ av galax är Andromedagalaxen (även känd som M31)?",
       "options": [
-        "Några ljusår bort, ganska nära vår sol",
-        "2,5 miljoner ljusår bort i rymden",
-        "Flera miljarder ljusår bort nära universums kant"
+        "En oregelbunden galax utan tydlig form",
+        "En spiralgalax med armar som snurrar kring ett centrum",
+        "En klotformig dvärggalax"
       ],
       "correct": 1,
-      "fact": "Andromedagalaxen är vår närmaste stora galaktiska granne och befinner sig på ett avstånd av ungefär 2,5 miljoner ljusår."
+      "fact": "Andromedagalaxen är en klassisk spiralgalax som liknar vår egen Vintergata med svepande stjärnarmar."
     },
     {
-      "q": "Varför ser stjärnor och galaxer ut att vara så långt borta när vi tittar på dem?",
+      "q": "Ungefär hur lång tid tar det för ljuset att färdas från Andromedagalaxen till jorden?",
       "options": [
-        "För att ljuset behöver tid för att färdas genom rymden",
-        "För att rymden krymper ihop runt jorden hela tiden",
-        "För att stjärnorna i universum ständigt flyr ifrån oss"
+        "Cirka 8 minuter",
+        "Runt 4 år",
+        "Flera miljoner år"
       ],
-      "correct": 0,
-      "fact": "Eftersom avstånden i rymden är så enorma tar det ljuset miljontals år att nå våra teleskop, vilket gör att vi ser himlen som den såg ut för länge sedan."
+      "correct": 2,
+      "fact": "Andromedagalaxen ligger ungefär 2,5 miljoner ljusår bort, vilket betyder att ljuset vi ser i dag lämnade galaxen långt innan den moderna människan fanns."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor snurra på himlen som är gjord av miljarder glittrande stjärnor. Det är Andromedagalaxen, vår allra närmaste stora rymdgranne. När man tar ett foto av den fastnar det ibland streck från flygplan och satelliter på bilden. Det är som att försöka fota en fin blomma genom ett fönster där det har fastnat små dammkorn.",
-    "nyborjare": "Andromedagalaxen, även känd som M31, är vår närmaste stora galaktiska granne. Ljuset från denna avlägsna galax har färdats i 2,5 miljoner ljusår innan det når fram till våra teleskop på jorden. När astronomer tar långa exponeringar för att fånga upp det svaga ljuset från galaxen följer ofta oönskade detaljer med på köpet. Det kan handla om spår efter flygplan och satelliter som passerar förbi, eller kosmiska strålar. Genom att använda speciell bildbehandlingsprogramvara kan man rensa bort dessa jordiska artefakter och avslöja hur galaxen faktiskt ser ut.",
-    "entusiast": "Den här bilden av Andromedagalaxen illustrerar utmaningarna med modern astrofotografi från marken. M31 är en spiralgalax av typ SA(s)b med en massa som är jämförbar med eller något större än Vintergatans. Bilden är ett resultat av en stackning av 223 individuella exponeringar om 300 sekunder vardera, tagna under 2019. Under så långa exponeringstider i tätt trafikerade luftrum och omloppsbanor är det oundvikligt att instrumenten fångar upp artefakter som ljusspår från flygplan, satellitstråk, kosmiska strålar och dåliga pixlar på kamerasensorn. För att återskapa galaxens sanna utseende används avancerade programvaror som Astro Pixel Processor, DeepSkyStacker och PixInsight. Processen handlar inte om att förfalska verkligheten utan om att minimera störningar orsakade av jordens atmosfär och närmiljö för att komma närmare galaxens faktiska morfologi."
+    "barn": "Tänk dig en jättestor snurra i rymden som är gjord av miljarder glittrande stjärnor. Det är Andromedagalaxen, och den är vår närmaste stora granne i rymden. Fast den ligger jättelångt borta! Ljuset från stjärnorna måste resa i miljoner år för att nå fram till våra ögon på jorden. Det är som ett gigantiskt fyrverkeri som lyser långt, långt borta i mörkret.",
+    "nyborjare": "Andromedagalaxen, eller M31 som den också kallas, är vår närmaste stora galaxgranne. En galax är en enorm samling av stjärnor, gas och stoft som hålls ihop av gravitationen. För att kunna urskilja detaljer i en så avlägsen struktur använder astronomer ofta långa exponeringar, vilket innebär att kameran samlar in ljus under en längre tid. Bilden visar hur galaxen ser ut genom jordens atmosfär, där stjärnljuset ibland störs av förbipasserande satelliter och flygplan.",
+    "entusiast": "Andromedagalaxen (M31) är en storslagen spiralgalax av Hubbletyp Sb, belägen på ett avstånd av ungefär 2,5 miljoner ljusår. Den utgör tillsammans med Vintergatan och Triangelgalaxen de mest framträdande medlemmarna i den lokala galaxhopen. M31 har en massa som är i storleksordningen en biljon solmassor och hyser ett komplext system av satellitgalaxer. När astronomer avbildar objekt som M31 från markbaserade observatorier ackumuleras brus från atmosfärisk turbulens, satellitspår och kosmisk strålning. Genom att stacka hundratals exponeringar och använda avancerad mjukvara kan man subtrahera dessa artefakter och närma sig galaxens sanna morfologi."
   },
   "terms": [
     {
-      "term": "Andromedagalaxen",
-      "explanation": "En enorm spiralgalax som är vår närmaste stora galaktiska granne i universum."
+      "term": "galax",
+      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationen och innehåller miljarder stjärnor, gas och mörk materia."
     },
     {
-      "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas under ett helt kalenderår."
+      "term": "spiralgalax",
+      "explanation": "En galaxform med utsträckta, roterande armar av stjärnor och gas som slingrar sig ut från ett ljust centrum."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den dragningskraft som massiva objekt utövar på varandra i universum."
     },
     {
       "term": "exponering",
       "explanation": "Den tid under vilken en kameras sensor samlar in ljus för att skapa en bild."
     },
     {
-      "term": "spiralgalax",
-      "explanation": "En typ av galax som har vackra armar av stjärnor och gas som snurrar kring ett centralt klot."
-    },
-    {
-      "term": "kosmiska strålar",
-      "explanation": "Snabba och laddade partiklar som färdas genom rymden med oerhörd hastighet."
+      "term": "kosmisk strålning",
+      "explanation": "Henergirika partiklar som rör sig genom rymden med enorm hastighet."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant pinwheel out in space made of billions of twinkling stars. That is the Andromeda galaxy, and it is our closest big neighbor in space. Even though it is a neighbor, it is super far away! The light from its stars has to travel for millions of years just to reach our eyes here on Earth. It is like a gigantic faraway firework glowing in the dark.",
+      "nyborjare": "The Andromeda galaxy, also known as M31, is our closest major galactic neighbor. A galaxy is a massive collection of stars, gas, and dust held together by gravity. To capture details in such a distant structure, astronomers often use long exposures, meaning the camera gathers light over an extended period. This image shows how the galaxy appears through Earth's atmosphere, where starlight is sometimes disrupted by passing satellites and airplanes.",
+      "entusiast": "The Andromeda galaxy (M31) is a magnificent Hubble type Sb spiral galaxy located at a distance of roughly 2.5 million light-years. Along with the Milky Way and the Triangelum galaxy, it is one of the most prominent members of the Local Group. M31 has a mass on the order of a trillion solar masses and hosts a complex system of satellite galaxies. When astronomers image objects like M31 from ground-based observatories, noise from atmospheric turbulence, satellite trails, and cosmic rays is accumulated. By stacking hundreds of exposures and employing advanced software, these artifacts can be subtracted to better reveal the true morphology of the galaxy."
+    },
+    "terms": [
+      {
+        "term": "galaxy",
+        "explanation": "A massive system of stars, gas, and dark matter held together by gravitational forces."
+      },
+      {
+        "term": "spiral galaxy",
+        "explanation": "A galaxy shape featuring prominent, rotating arms of stars and gas winding out from a bright center."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The invisible force of attraction that massive objects exert on one another across space."
+      },
+      {
+        "term": "exposure",
+        "explanation": "The duration during which a camera sensor collects light to form an image."
+      },
+      {
+        "term": "cosmic rays",
+        "explanation": "High-energy particles traveling through space at nearly the speed of light."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What type of astronomical object is the Andromeda galaxy?",
+        "options": [
+          "A large galaxy containing hundreds of billions of stars",
+          "A glowing gas cloud inside our own solar system",
+          "A supermassive black hole at the center of the Milky Way"
+        ],
+        "correct": 0,
+        "fact": "The Andromeda galaxy is a massive spiral galaxy and our closest major galactic neighbor in the universe."
+      },
+      {
+        "q": "What morphological classification does the Andromeda galaxy (also known as M31) belong to?",
+        "options": [
+          "An irregular galaxy with no distinct shape",
+          "A spiral galaxy with arms rotating around a central core",
+          "A globular dwarf galaxy"
+        ],
+        "correct": 1,
+        "fact": "The Andromeda galaxy is a classic spiral galaxy resembling our own Milky Way with sweeping stellar arms."
+      },
+      {
+        "q": "Roughly how long does it take for light to travel from the Andromeda galaxy to Earth?",
+        "options": [
+          "About 8 minutes",
+          "Around 4 years",
+          "Several million years"
+        ],
+        "correct": 2,
+        "fact": "The Andromeda galaxy is located approximately 2.5 million light-years away, meaning the light we see today left the galaxy long before modern humans existed."
+      }
+    ]
+  }
 }

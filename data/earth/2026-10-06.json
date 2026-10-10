@@ -1,0 +1,66 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-06",
+  "title": "The Beaver Brown Waters of Rupert Bay",
+  "title_sv": "Bäverbruna vatten i Rupert Bay",
+  "place": "Kanada",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey .",
+  "w": 480,
+  "h": 467,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBAgMFBv/EACEQAAICAgICAwEAAAAAAAAAAAECAxEAIRIxBEETInFR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABoRAAMBAQEBAAAAAAAAAAAAAAABEQIhEkH/2gAMAwEAAhEDEQA/APCMLJrISJpG4r3lnUgAkd9ZMYPNRWO8I56bnxfjcBTy1v3gIzGuxRbY/M6HgxQsvBDcrX9fzF/OgeCYBi1HoH1kPdcLvEzQ8pEkjEg1WqA94vBA7uDW+hjUUxROI66IOaQ+UI2KlARdrWsK0ohZWb0X5PG5+IshGrujhLM7RhHYsV0CTZr+ZVjzPK7J31kKGc16HeEM1/D/2Q==",
+  "levels": {
+    "barn": "Titta på den här bilden! Den visar ett land med massor av skog och slingrande floder som rinner ut i havet. Vattnet nära land ser brunt och tefärgat ut. Det är för att det har färgats av gamla löv och rötter som ligger i skogen. Det bruna vattnet blandar sig med det mörkblå havet. Längs stränderna finns ljusbruna lerbankar som bildas när floderna för med sig lera och sand. Det ser ut som spännande mönster i grönt och brunt från rymden.",
+    "nyborjare": "Bilden visar Rupert Bay och Hannah Bay i Kanada, där flera floder rinner ut i James Bay. Vattnet nära kusten har en iögonfallande brun färg. Denna färg uppstår på grund av färgat löst organiskt material, förkortat CDOM. Materialet kommer från multnande löv, rötter och bark som lakas ur från de omgivande boreala skogarna och våtmarkerna, vilket ger vattnet en färg som liknar te. Längs stränderna syns breda lerbankar. De byggs upp av fina lerpartiklar som floderna ständigt för med sig och avsätter i det grunda vattnet, där tidvatten och strömmar rör om i sedimenten. De gröna mönstren på land visar vegetationen, där tätare skog längs vattendragen framträder i mörkgrönt och de sämre dränerade myrmarkerna syns i ljusgrönt.",
+    "entusiast": "Satellitbilden fångades den 27 september 2026 av instrumentet Operational Land Imager ombord på Landsat 9, och visar utflödet från bland annat Moose-, Nottaway- och Harricanaw-floderna i James Bays sydligaste delar. De iögonfallande bruna färgerna orsakas av Colored Dissolved Organic Matter, det vill säga färgat löst organiskt material med ämnen som tannin och lignin. Detta material absorberar ljus i den blå och ultravioletta delen av det elektromagnetiska spektrumet, vilket gör att vattnet upplevs som brunt. De ljusbruna områdena längs stränderna är vidsträckta lerbankar, vilka är resultatet av en grund och sluttande batymetri samt postglacial landhöjning som ständigt lyfter landskapet medan floderna avsätter sediment. Tidvatten och strömmar rör om i bottensedimenten och skapar de ljusare bruna plym av suspenderat sediment som blandas med flodvattnet. De gröna, dendritiska mönstren på land återspeglar skillnader i fuktighet och vegetation, där tätare skog längs strömmarna framträder mörkare än de trädfattiga torvmarkerna."
+  },
+  "terms": [
+    {
+      "term": "Landsat 9",
+      "explanation": "En satellit som används för att avbilda jorden och som tog den aktuella bilden med sitt instrument OLI."
+    },
+    {
+      "term": "CDOM",
+      "explanation": "Färgat löst organiskt material som absorberar ljus i blåa och ultravioletta våglängder och färgar vattnet brunt."
+    },
+    {
+      "term": "Postglacial landhöjning",
+      "explanation": "En långsam process som lyfter hela landskapet sedan inlandsisen har dragit sig tillbaka."
+    },
+    {
+      "term": "Hudson’s Bay Company",
+      "explanation": "Ett historiskt företag som grundades för att odla pälshandeln, särskilt med bäverpelts."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this picture! It shows a landscape with lots of forest and winding rivers flowing into the sea. The water near the land looks brown and tea-colored. This is because it has been stained by old leaves and roots from the forest. The brown water mixes with the dark blue sea. Along the shores, there are light brown mudflats formed by rivers carrying mud and sand. It creates exciting patterns in green and brown from space.",
+      "nyborjare": "The image shows Rupert Bay and Hannah Bay in Canada, where several rivers empty into James Bay. The water near the coast has a striking brown hue. This color is caused by colored dissolved organic matter, abbreviated as CDOM. The material comes from decaying leaves, roots, and bark leaching from surrounding boreal forests and wetlands, giving the water a tea-like color. Along the shores, broad mudflats are visible. They are built up by fine mud particles that rivers continuously carry and deposit in the shallow water, where tides and currents stir up the sediments. The green patterns on land show vegetation, with denser forests along waterways appearing dark green and poorly drained bogs appearing light green.",
+      "entusiast": "The satellite image was captured on September 27, 2026, by the Operational Land Imager instrument aboard Landsat 9, showing the outflow of rivers such as the Moose, Nottaway, and Harricanaw into the southernmost parts of James Bay. The striking brown colors are caused by colored dissolved organic matter containing substances like tannins and lignins, which absorb light in the blue and ultraviolet parts of the electromagnetic spectrum. The light brown areas along the shores are expansive mudflats resulting from shallow sloping bathymetry and postglacial rebound that continually lifts the landscape while rivers deposit sediments. Tides and currents stir up bottom sediments, producing lighter brown plumes of suspended sediment that mix with incoming river water. The green dendritic patterns on land reflect variations in moisture and vegetation, with denser forest growth appearing darker than poorly drained peatlands."
+    },
+    "terms": [
+      {
+        "term": "Landsat 9",
+        "explanation": "A satellite used to image the Earth and which captured the current image using its OLI instrument."
+      },
+      {
+        "term": "CDOM",
+        "explanation": "Colored dissolved organic matter that absorbs light in blue and ultraviolet wavelengths and stains the water brown."
+      },
+      {
+        "term": "Postglacial rebound",
+        "explanation": "A slow process that is gradually lifting the entire landscape following the retreat of ice sheets."
+      },
+      {
+        "term": "Hudson’s Bay Company",
+        "explanation": "A historical company established to cultivate the fur trade, especially in beaver pelts."
+      }
+    ],
+    "place": "Canada"
+  }
+}

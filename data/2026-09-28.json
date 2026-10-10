@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-28",
   "title": "Cosmic Latte: The Average Color of the Universe",
-  "title_sv": "Cosmic Latte: Universums genomsnittliga färg",
+  "title_sv": "Kosmisk latte: Universums genomsnittliga färg",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=480&h=480&fit=clip",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAIBAwf/xAAgEAADAAIABwEAAAAAAAAAAAAAAQIDERMhUVNhkaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6KCKhutrJSXRaChpPeSn65GS1g18Ou7fz8MzDVJvJT8PQFgAAAAP/9k=",
   "quiz": [
     {
-      "q": "Vilken färg har universum i genomsnitt om man blandar allt ljus från alla stjärnor i alla galaxer?",
+      "q": "Vad händer med universums genomsnittliga färg över miljarder år?",
       "options": [
-        "Ett starkt intensivt vitt sken",
-        "En beigefärgad nyans",
-        "En djupt indigoblå ton"
+        "Den blir allt blåare",
+        "Den blir allt rödare",
+        "Den förblir helt oförändrad"
       ],
       "correct": 1,
-      "fact": "När astronomerna räknade samman ljuset från över 200 000 galaxer blev slutresultatet en beige nyans som fick namnet cosmic latte."
+      "fact": "Universums färg har blivit mindre blå och mer beige eftersom äldre, rödare stjärnor blir vanligare."
     },
     {
-      "q": "Hur har universums genomsnittliga färg förändrats under de senaste 10 miljarderna åren?",
+      "q": "Hur kom forskarna fram till universums genomsnittliga färg?",
       "options": [
-        "Den har blivit betydligt rödare",
-        "Den har blivit mycket blåare",
-        "Den har blivit helt osynlig"
+        "Genom att räkna ihop ljuset från hundratusentals galaxer",
+        "Genom att mäta temperaturen i det tomma rymdmörkret",
+        "Genom att analysera månens yta med specialkameror"
       ],
       "correct": 0,
-      "fact": "Universums färg har blivit mindre blå och mer rödaktig eftersom de blå stjärnorna dör ut och rödare, äldre stjärnor blir vanligare."
+      "fact": "Astronomer räknade ut genomsnittsljuset från omkring 200 000 galaxer i ett stort kartläggningsprojekt."
     },
     {
-      "q": "Vad kallas den storskaliga undersökning av rymden som har hjälpt till att analysera ljuset från 200 000 galaxer?",
+      "q": "Vilket roligt smeknamn fick den vinnande färgen i omröstningen?",
       "options": [
-        "Milky Way Mapping Project",
-        "2dF Galaxy Redshift Survey",
-        "Cosmic Background Explorer"
+        "Galaxy gold",
+        "Cosmic latte",
+        "Nebula beige"
       ],
       "correct": 1,
-      "fact": "Det var genom data från 2dF Galaxy Redshift Survey som forskare kunde mäta och beräkna det genomsnittliga galaxljuset."
+      "fact": "Vinnarnamnet blev cosmic latte efter en tävling där andra förslag var skyvory och univeige."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tar regnbågens alla färger från miljarder stjärnor ute i rymden och blandar dem i en jättestor målarburk. Vilken färg skulle det bli? Om man smetar ut hela himlen och räknar ut genomsnittet blir det faktiskt en ljusbrun eller beigefärgad nyans. Det är precis som när man blandar alla färgpennor i pennskrinet tills det blir en enda färg av allt tillsammans.",
-    "nyborjare": "Forskare har länge ställt sig frågan vilken färg universum egentligen har om man tittar på allt ljus från alla stjärnor samtidigt. För att ta reda på detta har astronomer studerat ljuset från ett enormt antal galaxer, närmare bestämt 200 000 stycken som kartlagts i en stor rymdundersökning. När man digitalt väger samman detta ljus blir det en specifik beigefärg. Denna färg har blivit mindre blå under de senaste tio miljarderna åren eftersom de blå, massiva stjärnorna brinner ut snabbt och efterlämnar fler röda stjärnor.",
-    "entusiast": "Genom att analysera det kosmiska spektrumet från över 200 000 galaxer inom 2dF Galaxy Redshift Survey kunde astronomer fastställa universums genomsnittliga färg. Ljuset som emitteras täcker hela det elektromagnetiska spektrumet, men det sammantagna intrycket motsvarar en beige nyans som i datorsammanhang kan beskrivas med hexadecimala koden FFF8E7. Denna färg har skiftat markant över kosmisk tid; för tio miljarder år sedan dominerades universums ljus av unga, heta blå stjärnor. Eftersom dessa stjärnor har kort livslängd har populationen av äldre, rödare stjärnor blivit mer dominant, vilket gör att universums genomsnittsfärg har blivit rödare och till slut fick det officiella namnet cosmic latte efter en namntävling."
+    "barn": "Tänk dig att du blandar alla färger på alla stjärnor i hela universum i en stor skål. Om man rör om ordentligt blir det till slut en ljusbrun färg som liknar kaffe med mycket mjölk. Forskare har räknat ut att om universum hade en enda färg så skulle den se ut så här.",
+    "nyborjare": "Forskare har länge ställt sig den udda frågan: vilken färg har egentligen universum? För att ta reda på detta har astronomer räknat samman ljuset från omkring 200 000 galaxer i ett enormt forskningsprojekt. Resultatet visar att det samlade ljuset från alla stjärnor bildar en beige nyans som påminner om latte. Detta färgspektrum har förändrats under de senaste tio miljarder åren eftersom äldre, rödare stjärnor blir vanligare medan blå stjärnor dör ut.",
+    "entusiast": "Genom att analysera data från 2D F Galaxy Redshift Survey har astronomer kunnat beräkna det genomsnittliga spektrumet för ljuset som emitteras av en stor population galaxer. Det resulterande kosmiska spektrumet visar att även om det finns emission i hela det elektromagnetiska spektrumet, så uppfattas den sammanlagda kulören som en ljus beige nyans med datorkoden FFF8E7. Denna färg har gradvis blivit mindre blå och rört sig mot rött under de senaste tio miljarder åren. Detta beror på att massiva, blå stjärnor har hunnit brinna ut, vilket gör att mindre massiva, rödare stjärnor dominerar det synliga ljuset."
   },
   "terms": [
     {
       "term": "galax",
-      "explanation": "Ett gigantiskt system av stjärnor, gas, stoft och mörk materia som hålls samman av gravitation."
+      "explanation": "Ett enormt stjärnsystem som samlar miljarder stjärnor, gas och stoft som hålls ihop av tyngdkraften."
     },
     {
       "term": "spektrum",
-      "explanation": "En uppdelning av elektromagnetisk strålning ordnad efter våglängd eller frekvens."
+      "explanation": "En uppdelning av ljus i olika våglängder eller färger, ungefär som när solljus delas upp i en regnbåge."
     },
     {
-      "term": "elektromagnetisk",
-      "explanation": "Ett begrepp som beskriver vågor av elektriska och magnetiska fält som rör sig genom rymden."
+      "term": "emission",
+      "explanation": "Utsändning av strålning eller ljus från ett ämne när dess partiklar tappar energi."
     },
     {
       "term": "astronom",
-      "explanation": "En forskare som studerar universum, himlakroppar och fysikaliska fenomen utanför jorden."
+      "explanation": "En forskare som studerar universum, stjärnor, planeter och andra himlakroppar."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine mixing the colors of every single star in the entire universe together in a giant bowl. If you stirred it all up, it would end up looking like a light brown shade similar to coffee with a lot of milk. Scientists have calculated that if the universe had just one single color, it would look like this.",
+      "nyborjare": "Scientists have long asked a whimsical question: what color is the universe? To find out, astronomers calculated the combined light from about 200,000 galaxies in a massive research project. The result shows that the composite light from all stars forms a beige shade resembling a latte. This color spectrum has changed over the past ten billion years because older, redder stars are becoming more prevalent while blue stars fade away.",
+      "entusiast": "By analyzing data from the 2D F Galaxy Redshift Survey, astronomers were able to compute the average spectrum of light emitted by a large sample of galaxies. The resulting cosmic spectrum shows that although there is emission across the entire electromagnetic spectrum, the perceived composite color is a light beige shade represented by the computer code FFF8E7. This color has gradually become less blue and shifted toward red over the past ten billion years. This occurs because massive blue stars burn through their fuel quickly, leaving lower-mass, redder stars to dominate the visible light."
+    },
+    "terms": [
+      {
+        "term": "galaxy",
+        "explanation": "A massive system held together by gravity that contains billions of stars, gas, and dust."
+      },
+      {
+        "term": "spectrum",
+        "explanation": "The distribution of light into different wavelengths or colors, much like a rainbow."
+      },
+      {
+        "term": "emission",
+        "explanation": "The release of radiation or light from matter as its particles lose energy."
+      },
+      {
+        "term": "astronomer",
+        "explanation": "A scientist who studies the universe, stars, planets, and other celestial bodies."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What happens to the average color of the universe over billions of years?",
+        "options": [
+          "It is becoming increasingly blue",
+          "It is becoming increasingly red",
+          "It remains completely unchanged"
+        ],
+        "correct": 1,
+        "fact": "The color of the universe has become less blue and more beige as older, redder stars become more common."
+      },
+      {
+        "q": "How did researchers determine the average color of the universe?",
+        "options": [
+          "By averaging the light emitted by hundreds of thousands of galaxies",
+          "By measuring the temperature in the dark void of deep space",
+          "By analyzing the surface of the Moon with specialized cameras"
+        ],
+        "correct": 0,
+        "fact": "Astronomers computationally averaged the light from approximately 200,000 galaxies in a major survey."
+      },
+      {
+        "q": "What fun nickname won the contest to name the final color?",
+        "options": [
+          "Galaxy gold",
+          "Cosmic latte",
+          "Nebula beige"
+        ],
+        "correct": 1,
+        "fact": "The winning name became cosmic latte after a contest where other notable entries included skyvory and univeige."
+      }
+    ]
+  }
 }

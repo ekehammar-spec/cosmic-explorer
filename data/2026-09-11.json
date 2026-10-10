@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-11",
   "title": "M83: The Southern Pinwheel",
@@ -15,61 +15,122 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgADAQIH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIAAwURBCExEhNBUTJCgf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAwDAQACEQMRAD8A5/zLEpM/AkoqHcL7MX6GxpVWmnQXYj6xalEalB6YBZcDwZURGl1tqaXRlRgkn9g+uoWqwEhjFJyjZHMWW299OlVR8wMEZxmEFJB2m2SvB8ZkSi46/u0iSVXb3kwzUbJ439yd5yN2JxK+ZB//2Q==",
   "quiz": [
     {
-      "q": "Vilken typ av astronomiskt objekt är M83?",
+      "q": "Vad är det som ger spiralgalaxer som M83 deras vackra färgskiftningar med blå armar och rödaktiga områden?",
       "options": [
-        "En spiralgalax",
-        "En stoftrik nebulosa",
-        "En klotformig stjärnhop"
-      ],
-      "correct": 0,
-      "fact": "M83 är en vacker spiralgalax som liknar vår egen Vintergata med tydliga armar fyllda av stjärnor och gas."
-    },
-    {
-      "q": "Vad är ett ljusår för något?",
-      "options": [
-        "Den tid det tar för jorden att kretsa ett varv kring solen",
-        "Den sträcka ljuset hinner färdas på ett helt år",
-        "Den sammanlagda livslängden för en genomsnittlig stjärna"
+        "Solen och andra gula stjärnor i mitten",
+        "Unga blå stjärnor och röda gasmoln",
+        "Reflekterande isringar runt galaxens kärna"
       ],
       "correct": 1,
-      "fact": "Ett ljusår är en avståndsenhet som mäter hur långt ljuset färdas i rymden under ett års tid."
+      "fact": "De blå områdena består av nyfödda, varma stjärnor, medan de rödaktiga fläckarna är lysande gasmoln där nya stjärnor bildas."
     },
     {
-      "q": "Vad kan finnas kvar i galaxers centrala delar efter en intensiv period av stjärnbildning?",
+      "q": "Ungefär hur lång tid tar det för ljuset att färdas från M83 till jorden?",
       "options": [
-        "Massor av fasta stenplaneter",
-        "Enbart kalla moln av vattenis",
-        "Neutronstjärnor och svarta hål"
+        "12 miljoner år",
+        "40 000 år",
+        "150 miljarder år"
+      ],
+      "correct": 0,
+      "fact": "M83 ligger omkring 12 miljoner ljusår bort, vilket betyder att ljuset vi ser i våra teleskop lämnade galaxen för 12 miljoner år sedan."
+    },
+    {
+      "q": "Vad är det som gör att galaxens kärna lyser så starkt i röntgenstrålning?",
+      "options": [
+        "En enorm samling av supernovorester som svarta hål och neutronstjärnor",
+        "Kraftiga vulkanutbrott på planeter nära centrum",
+        "Att galaxen roterar snabbare än ljusets hastighet"
       ],
       "correct": 2,
-      "fact": "När tunga stjärnor bildas och dör i snabb takt lämnar de efter sig kompakta rester som neutronstjärnor och svarta hål."
+      "fact": "Kärnan visar en hög koncentration av neutronstjärnor och svarta hål som bildats i en intensiv period av stjärnbildning."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor snurra ute i rymden som lyser av miljarder gnistrande stjärnor. Det här är en galax som ser ut som ett färggrant fyrverkeri. Den har vackra armar som slingrar sig runt i mörkret, fyllda med blå stjärnhopar och röda moln där det föds nya stjärnor hela tiden. Det är som en magisk karusell av ljus som snurrar långsamt långt borta i världsalltet.",
-    "nyborjare": "M83 är en praktfull spiralgalax som ligger ungefär tolv miljoner ljusår bort i stjärnbilden Vattenslangen. Galaxen har fått sitt populära namn Södra pinwheelgalaxen på grund av sin form som påminner om en leksakssnurra. Dess framträdande spiralarmar markeras av mörka dammstråk och blå stjärnhopar, men den är också känd för sina röda områden där nya stjärnor bildas. Galaxen är något mindre än vår egen Vintergata och har en ljusstark kärna fylld av kompakta objekt.",
-    "entusiast": "M83, även känd som Södra pinwheelgalaxen, är en storslagen spiralgalax av typen SAB(s)c belägen på ett avstånd av cirka tolv miljoner ljusår. Med en diameter på omkring 40 000 ljusår är den mer kompakt än Vintergatan. Galaxen ingår i en galaxgrupp som även inrymmer den aktiva galaxen Centaurus A. Dess centrala region uppvisar en extremt hög röntgenluminositet, vilket avslöjar en stor population av neutronstjärnor och svarta hål som är resultatet av en tidigare våg av intensiv stjärnbildning. De distinkta röda H II-regionerna vittnar om pågående nukleosyntes och stjärnformation längs de prominenta stoftbanorna."
+    "barn": "Tänk dig en enorm fyrverkerisnurra som snurrar långt ute i rymden. Den här galaxen är som en stor stjärnhop full av glittrande lampor. I mitten lyser den extra starkt, och runt omkring slingrar sig armar som är fulla av blå stjärnor och röda gasmoln. Det är som ett gigantiskt konstverk gjort av stjärnor som ligger tolv miljoner ljusår bort från oss.",
+    "nyborjare": "M83, som också kallas Södra pinwheelgalaxen, är en vacker spiralgalax belägen cirka tolv miljoner ljusår från jorden i stjärnbilden Vattenslangen. Galaxen har en diameter på 40 000 ljusår, vilket gör den mindre än vår egen Vintergatan. Dess framträdande spiralarmar är fyllda med mörka stoftstråk, blå stjärnhopar och röda områden där nya stjärnor föds. På grund av dessa röda regioner kallas den ibland för Tusenrubingalaxen. I dess ljusstarka kärna finns en stor mängd svarta hål och neutronstjärnor som bildats efter intensiva perioder av stjärnbildning.",
+    "entusiast": "M83 är en praktfull spiralgalax av typen SAB(s)c, belägen i utkanten av stjärnbilden Vattenslangen på ett avstånd av ungefär 12 miljoner ljusår. Med en fysisk storlek på cirka 40 000 ljusår i diameter är den betydligt kompaktare än Vintergatan. Galaxens morfologi domineras av framträdande spiralarmar markerade av stoftband, unga OB-associationer och H II-regioner, vilka givit upphov till smeknamnet Tusenrubingalaxen tack vare de intensivt lysande stjärnbildningsområdena. Kinematiskt och dynamiskt är M83 en del av en galaxgrupp som även innefattar den aktiva galaxen Centaurus A. Kärnområdet uppvisar en exceptionell röntgenluminositet, vilket avslöjar en hög population av kompakta objekt såsom neutronstjärnor och svarta hål, rester efter en våldsam och storskalig stjärnbildningsburst."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt system av miljarder stjärnor, gas, damm och mörk materia som hålls samman av gravitationen."
+      "term": "spiralgalax",
+      "explanation": "En typ av stjärnsystem som kännetecknas av en platt, roterande skiva med ljusstarka armar som snurrar ut från en central kärna."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas i vakuum under ett års tid, närmare tio biljoner kilometer."
+      "explanation": "Det avstånd som en ljusstråle färdas på ett helt jordår, vilket motsvarar ungefär 9,46 biljoner kilometer."
     },
     {
-      "term": "stjärnhop",
-      "explanation": "En ansamling av stjärnor som gravitationellt hör ihop och färdas tillsammans genom rymden."
+      "term": "Vintergatan",
+      "explanation": "Vår egen hemgalax där solsystemet är beläget, innehållande hundratals miljarder stjärnor."
     },
     {
-      "term": "neutronstjärna",
-      "explanation": "Den extremt täta resten efter en massiv stjärna som exploderat som en supernova."
+      "term": "svarta hål",
+      "explanation": "Himlakroppar med en så enorm gravitation att ingenting, inte ens ljuset, kan undkomma deras närhet."
     },
     {
-      "term": "svart hål",
-      "explanation": "Ett rymdområde med så stark gravitationskraft att ingenting, inte ens ljuset, kan undkomma."
+      "term": "neutronstjärnor",
+      "explanation": "Extremt täta restprodukter efter att tunga stjärnor har exploderat i en supernova."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a huge fireworks pinwheel spinning far out in space. This galaxy is like a giant star cluster full of sparkling lights. In the middle it shines extra bright, and all around it wrap arms full of blue stars and red gas clouds. It is like a gigantic work of art made of stars located twelve million light-years away from us.",
+      "nyborjare": "M83, also known as the Southern Pinwheel Galaxy, is a beautiful spiral galaxy located about twelve million light-years from Earth in the constellation Hydra. The galaxy has a diameter of 40,000 light-years, making it smaller than our own Milky Way. Its prominent spiral arms are filled with dark dust lanes, blue star clusters, and red regions where new stars are born. Due to these red regions, it is sometimes called the Thousand-Ruby Galaxy. In its bright core lies a large number of black holes and neutron stars formed after intense periods of star formation.",
+      "entusiast": "M83 is a magnificent SAB(s)c spiral galaxy situated near the southeastern tip of the constellation Hydra at a distance of approximately 12 million light-years. With a physical size of about 40,000 light-years across, it is significantly more compact than the Milky Way. The morphology of the galaxy is dominated by prominent spiral arms traced by dust lanes, young OB associations, and H II regions, which have earned it the nickname the Thousand-Ruby Galaxy due to its intensely glowing star-forming regions. Kinematically, M83 is a member of a galaxy group that includes the active galaxy Centaurus A. The core region exhibits an exceptional X-ray luminosity, revealing a high population of compact objects such as neutron stars and black holes, remnants of a violent and large-scale star formation burst."
+    },
+    "terms": [
+      {
+        "term": "spiral galaxy",
+        "explanation": "A type of stellar system characterized by a flat, rotating disk with bright arms winding out from a central core."
+      },
+      {
+        "term": "light-years",
+        "explanation": "The distance that a beam of light travels in one Earth year, corresponding to roughly 9.46 trillion kilometers."
+      },
+      {
+        "term": "Milky Way",
+        "explanation": "Our own home galaxy where the solar system is located, containing hundreds of billions of stars."
+      },
+      {
+        "term": "black holes",
+        "explanation": "Celestial bodies with gravity so immense that nothing, not even light, can escape their vicinity."
+      },
+      {
+        "term": "neutron stars",
+        "explanation": "Extremely dense remnants left behind after massive stars explode in a supernova."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What gives spiral galaxies like M83 their beautiful color variations with blue arms and reddish areas?",
+        "options": [
+          "The Sun and other yellow stars in the center",
+          "Young blue stars and glowing red gas clouds",
+          "Reflective ice rings surrounding the galactic core"
+        ],
+        "correct": 1,
+        "fact": "The blue regions consist of newly formed, hot stars, while the reddish spots are glowing gas clouds where new stars are being born."
+      },
+      {
+        "q": "Approximately how long does it take for light to travel from M83 to Earth?",
+        "options": [
+          "12 million years",
+          "40,000 years",
+          "150 billion years"
+        ],
+        "correct": 0,
+        "fact": "M83 lies about 12 million light-years away, meaning the light we see in our telescopes left the galaxy 12 million years ago."
+      },
+      {
+        "q": "What causes the core of the galaxy to shine so brightly in X-ray energies?",
+        "options": [
+          "A massive collection of supernova remnants like black holes and neutron stars",
+          "Powerful volcanic eruptions on planets near the center",
+          "The galaxy rotating faster than the speed of light"
+        ],
+        "correct": 2,
+        "fact": "The core shows a high concentration of neutron stars and black holes left from an intense burst of star formation."
+      }
+    ]
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-07",
   "title": "Supernova Remnant Pa 30",
@@ -15,61 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYBAwQAAv/EACMQAAIBBAICAgMAAAAAAAAAAAECAwAREiEEQTFRE2EiQtH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAAID/8QAGxEAAgIDAQAAAAAAAAAAAAAAAhEAAQMSMSH/2gAMAwEAAhEDEQA/AEZYyxVQLH17q+PjymNlEbEnrofde+BGzzKQQLb0bUwjhyy8YyRriFsNf2qEVtVNgCky5FpuPLGqhxi+VrdmtEkbPGkgkDO+zrx9VvfKWJ4p8rKNavuhKFRkuKsQe2xpA32GTHrydwZvjcEjXk68CjyStILRyKAx6OqV7lY7k2zqyHkSKcQ5AP3aggduohl1pXDHJtxy5aQNbQ/LzQg5SyMVxa+7E1DyvJILsW9bqJY3WJJMWVHJCk/taoIqBnt5P//Z",
   "quiz": [
     {
-      "q": "Vad är en nebulosa som bildas efter en stjärnas våldsamma död oftast resterna av?",
+      "q": "Vad är en nebulosa som denna främst uppbyggd av?",
       "options": [
-        "Gas och stoft som slungats ut i rymden",
-        "En ny planet som har bildats runt kvasaren",
-        "Ett jättelikt svart hål som svalt hela galaxen"
-      ],
-      "correct": 0,
-      "fact": "När en stjärna exploderar som en supernova kastas dess yttre lager ut i rymden och bildar vackra moln av gas och stoft."
-    },
-    {
-      "q": "Vad kallas den täta typ av stjärnrest som kan bildas när två vita dvärgar smälter samman?",
-      "options": [
-        "En neutronstjärna",
-        "En vit dvärg",
-        "En röd jätte"
+        "Fast sten och metall som har slitits loss från planeter",
+        "Glödande gas och stoft som slungats ut i rymden",
+        "Flytande vatten och andra ämnen i fryst tillstånd"
       ],
       "correct": 1,
-      "fact": "Sammanslagningen av två vita dvärgar tros ligga bakom vissa ovanliga typer av supernovor och lämnar efter sig en mycket het centralstjärna."
+      "fact": "Nebulosor som denna skapas när material från en stjärna sprids ut i rymden efter dramatiska händelser."
     },
     {
-      "q": "Vad är det som gör att de radiella filamenten i den här typen av nebulosor kan bildas?",
+      "q": "Vilken händelse ger upphov till en supernovarest?",
       "options": [
-        "Starka vindar från den extremt heta centralstjärnan",
-        "Kraftfulla magnetfält från omgivande svarta hål",
-        "Strålning från planeter i systemet"
+        "En massiv stjärnexplosion i slutet av en stjärnas liv",
+        "När två asteroider kolliderar i ett solsystem",
+        "När en planet fångas in av en stjärnas starka dragningskraft"
       ],
       "correct": 0,
-      "fact": "Centralstjärnan i Pa 30 är extremt het och producerar en stark stjärnvind som kan bidra till att forma de trådliknande strukturerna."
+      "fact": "En supernova är en av de våldsammaste händelserna i universum och lämnar efter sig vackra moln av gas."
+    },
+    {
+      "q": "Vad kallas restprodukten när två vita dvärgar slås samman?",
+      "options": [
+        "Ett svart hål",
+        "En neutronstjärna",
+        "En typ av supernovarest"
+      ],
+      "correct": 2,
+      "fact": "Sammanslagningen av två vita dvärgar kan leda till en ovanlig typ av supernovaexplosion som bildar en nebulosa."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en stjärna har exploderat som världens största fyrverkeri i rymden. Kvar efter smällen finns ett jättelikt moln av glödande gas och stoft som ser ut som en blomma eller en sprakande sol. Mitt i det här färgstarka molnet gömmer sig en supervarm liten stjärnrest som blåser ut starka vindar i alla riktningar. Det är som att rymden har sparat resterna av ett gigantiskt kalas som hände för många hundra år sedan.",
-    "nyborjare": "Den här bilden visar nebulosa Pa 30, vilket är en supernovarest efter en stjärna som exploderade för länge sedan. Historiska dokument visar att en så kallad gäststjärna dök upp på himlen redan år 1181. Astronomer tror att explosionen orsakades av att två vita dvärgar smälte samman till ett enda objekt. Den mystiska stjärnan i mitten är extremt het och skapar en kraftfull stjärnvind. Denna vind formar de trådliknande filamenten som sträcker sig utåt och fortsätter att fascinera forskare än i dag.",
-    "entusiast": "Bilden fångar nebulosa Pa 30, som utgör resterna efter den historiska supernovan SN 1181, observerad av tidiga kinesiska, arabiska och japanska astronomiska krönikörer. Explosionen klassificeras som en sällsynt typ Iax-supernova, vilket teoretiskt härrör från en sammanslagning av två vita dvärgar. Centralstjärnan är extremt varm och genererar en kraftfull stjärnvind som tros forma de distinkta radiella filamenten. Dessa filament pryds av pärlliknande knutar som mäter omkring fyra ljusdagar i diameter, vilket gör objektet till ett unikt laboratorium för att studera stjärnevolution och supernovafragmentering."
+    "barn": "Tänk dig att ett stort tomtebloss har sprakat till långt ut i rymden. Det här färgglada molnet är som resterna efter en jättestor raket som exploderade för länge sedan. Forskare tror att det bildades när två döda stjärnor krockade med varandra och flög i bitar. Nu lyser resterna vackert i mörkret likt en glittrande blomma av gas.",
+    "nyborjare": "Bilden visar en nebulosa som är resterna efter en stjärnexplosion, en så kallad supernovarest. För mycket länge sedan observerade astronomer på jorden en gäststjärna som plötsligt dök upp på natthimmeln. Forskare tror i dag att detta ljus kom från en ovanlig typ av supernova som orsakades av att två vita dvärgar smälte samman. Den heta stjärnan i mitten av molnet blåser ut starka vindar som formar de trådlika strukturerna vi ser.",
+    "entusiast": "Det här objektet är nebulosan Pa 30, en sällsynt supernovarest som kopplats till den historiska gäststjärnan SN 1181 som beskrevs av kinesiska, japanska och arabiska astronomer. Explosionen klassificeras som en Type Iax-supernova, vilket tros ha initierats av en sammanslagning av två vita dvärgar. Den extrema centralstjärnan driver en kraftfull stjärnvind som skapar de radiella filamenten, vars pärlliknande knutar mäter fyra ljusdagar i diameter. Detta unika system fortsätter att ge forskare insikter i stjärnors slutstadier efter nästan nio sekler."
   },
   "terms": [
     {
       "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och stoft som svävar ute i rymden."
+      "explanation": "Ett enormt moln av gas och stoft som svävar ute i rymden mellan stjärnorna."
     },
     {
       "term": "supernova",
-      "explanation": "En oerhört kraftfull och ljusstark explosion som markerar slutet på en stjärnas liv."
+      "explanation": "En oerhört kraftfull och ljusstark explosion som inträffar när vissa stjärnor dör."
     },
     {
-      "term": "stjärnvind",
-      "explanation": "En ström av laddade partiklar som ständigt blåser ut från en stjärnas yta."
-    },
-    {
-      "term": "filament",
-      "explanation": "Trådformade strukturer av gas eller stoft som sträcker sig ut i rymden."
+      "term": "vit dvärg",
+      "explanation": "Den mycket tunga och kompakta rest som blir kvar när en stjärna som solen har brunnit ut."
     },
     {
       "term": "ljusdag",
-      "explanation": "Det avstånd som ljuset färdas i tomrummet under tjugofyra timmar."
+      "explanation": "Det enorma avstånd som ljuset hinner färdas på tjugofyra timmar."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant sparkler bursting far out in space. This colorful cloud is like the remains of a huge firework that exploded a long time ago. Scientists believe it formed when two dead stars crashed into each other and flew apart. Now, the glowing remnants shine brightly in the dark like a glittering flower made of gas.",
+      "nyborjare": "The image shows a nebula that is the remnant of a stellar explosion, known as a supernova remnant. Long ago, astronomers on Earth observed a guest star that suddenly appeared in the night sky. Researchers today believe this light came from an unusual type of supernova caused by the merger of two white dwarfs. The hot star at the center of the cloud blows out strong winds that shape the threadlike structures we see.",
+      "entusiast": "This object is nebula Pa 30, a rare supernova remnant linked to the historical guest star SN 1181 recorded by Chinese, Japanese, and Arabic astronomers. The explosion is classified as a Type Iax supernova, thought to be initiated by the merger of two white dwarfs. The extreme central star drives a powerful stellar wind creating the radial filaments, whose pearl-like knots measure four light-days in diameter. This unique system continues to provide researchers with insights into stellar end-stages after nearly nine centuries."
+    },
+    "terms": [
+      {
+        "term": "nebula",
+        "explanation": "A massive cloud of gas and dust floating in the space between stars."
+      },
+      {
+        "term": "supernova",
+        "explanation": "An incredibly powerful and luminous explosion that occurs when certain stars die."
+      },
+      {
+        "term": "white dwarf",
+        "explanation": "The very dense and compact remnant left behind when a star like the Sun burns out."
+      },
+      {
+        "term": "light-day",
+        "explanation": "The enormous distance that light travels in twenty-four hours."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a nebula like this primarily composed of?",
+        "options": [
+          "Solid rock and metal torn away from planets",
+          "Glowing gas and dust hurled out into space",
+          "Frozen water and other compounds in solid form"
+        ],
+        "correct": 1,
+        "fact": "Nebulae like this are created when material from a star is expelled into space after dramatic events."
+      },
+      {
+        "q": "What event gives rise to a supernova remnant?",
+        "options": [
+          "A massive stellar explosion at the end of a star's life",
+          "When two asteroids collide within a solar system",
+          "When a planet is captured by a star's strong gravitational pull"
+        ],
+        "correct": 0,
+        "fact": "A supernova is one of the most violent events in the universe, leaving behind beautiful clouds of gas."
+      },
+      {
+        "q": "What is formed when two white dwarfs merge?",
+        "options": [
+          "A black hole",
+          "A neutron star",
+          "A type of supernova remnant"
+        ],
+        "correct": 2,
+        "fact": "The merger of two white dwarfs can trigger an unusual type of supernova explosion that forms a nebula."
+      }
+    ]
+  }
 }

@@ -1,0 +1,74 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-08",
+  "title": "Fighting Drought in Texas Cotton Country",
+  "title_sv": "Kampen mot torkan i bomullslandets Texas",
+  "place": "Texas, USA",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+  "credit": "NASA Earth Observatory / Lauren Dauphin",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey and the U.S. Drought Monitor at the University of Nebraska-Lincoln . Photos by Lacy Cotter-Vardeman and Adam Zwerner .",
+  "w": 480,
+  "h": 467,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAgADBAX/xAAjEAEAAgEEAgEFAAAAAAAAAAABAhEAAxIhMUFREyJCUnGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAARAWH/2gAMAwEAAhEDEQA/AOYbCzSHd7HnDHSWZSkryiHYD44cXySj9IbU4uucyPTnENLUQbi9XZ+81Yw+TsRPWPWluiVECLzx3lpvCxsF49Jj3ic6UNwVJqPl6/mKTEY7lVeL+7GabqlF0flyZEJwOiPlbvxk1cFg7pWiHdeLyjDZC9oQevOZtKq3HF1WWo7SKLfrCiP/2Q==",
+  "levels": {
+    "barn": "Bilden visar landskap i Texas där bönder odlar bomull. Titta på de bruna fläckarna i stället för gröna fält. Det beror på att det har varit väldigt lite regn, vilket gör det svårt för växterna att växa. Vattnet i jorden och i små sjöar har torkat bort. Som tur är samarbetar forskare och bönder med NASA för att hitta smarta sätt att spara på vattnet och hjälpa naturen att må bra igen.",
+    "nyborjare": "Satellitbilden visar det jordbruksintensiva området på Texas High Plains i USA under en svår torka år 2026. Jämfört med ett normalt år då landskapet är grönt och frodigt, domineras bilden av bruna, uttorkade fält där bomullsskördarna har misslyckats. I bilden syns också grunda sjöar som kallas playasjonar, vilka brukar samla upp regnvatten och fylla på grundvattenmagasinet i akviferen. Eftersom grundvattnet har sjunkit kraftigt sedan 1950-talet på grund av intensiv bevattning, kämpar nu bönder och forskare tillsammans för att hitta nya metoder för vattenhushållning och skydda jordbruket för framtiden.",
+    "entusiast": "Den multispektrala satellitbilden fångades den 9 september 2026 av OLI-instrumentet (Operational Land Imager) ombord på NASA:s satellit Landsat 8. Instrumentet registrerar reflektioner i olika våglängder, vilket gör att forskare tydligt kan skilja på gröna, friska grödor och bruna, uttorkade fält samt identifiera geometriska bevattningsmönster och grunda playasjonar. Bilden synliggör konsekvenserna av en extrem torka kombinerad med en långsiktig uttömning av High Plains-akviferen, där vattennivåerna har sjunkit avsevärt sedan 1950-talet då storskalig grundvattenpumpning inleddes. Genom initiativ som NASA Acres och samarbete med organisationer som Sandhills Area Research Association använder forskare djuplärningsmodeller och historiska satellitdata från bland annat Landsat 1 för att spåra miljöförändringar över årtionden. Detta ger jordbrukare som de i Lubbock County värdefulla underlag för att optimera växtval, sköta bevattning och restaurera sedimentfyllda playasjonar för att återföras vatten till den akvifer som regionens överlevnad bygger på."
+  },
+  "terms": [
+    {
+      "term": "High Plains",
+      "explanation": "Ett höglänt jordbruksområde i USA där bomullsodling är stor men drabbas av svår torka."
+    },
+    {
+      "term": "OLI",
+      "explanation": "Ett instrument kallat Operational Land Imager som sitter på satelliten Landsat 8 och tar bilder av jordytan."
+    },
+    {
+      "term": "playa lake",
+      "explanation": "Grunda, lerväggade sjöar i regionen som samlar regnvatten och hjälper till att fylla på grundvattnet."
+    },
+    {
+      "term": "akvifer",
+      "explanation": "Ett underzemiskt magasin med grundvatten som används för bevattning i området."
+    },
+    {
+      "term": "NASA Acres",
+      "explanation": "Ett forskningskonsortium som kopplar samman jordbrukare med NASA-vetenskap för att lösa jordbruksutmaningar."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows landscapes in Texas where farmers grow cotton. Look at the brown patches instead of green fields. This is because there has been very little rain, making it hard for plants to grow. The water in the soil and small lakes has dried up. Fortunately, scientists and farmers are working with NASA to find smart ways to save water and help nature recover.",
+      "nyborjare": "The satellite image shows the agricultural area of the Texas High Plains in the USA during a severe drought in 2026. Compared to a normal year when the landscape is green and lush, the image is dominated by brown, parched fields where cotton harvests have failed. The image also reveals shallow water features called playa lakes, which typically collect rainwater and recharge the underlying aquifer. Because groundwater levels have dropped sharply since the 1950s due to heavy irrigation, farmers and researchers are now working together to find new water management methods and protect agriculture for the future.",
+      "entusiast": "The multispectral satellite image was captured on September 9, 2026, by the Operational Land Imager (OLI) aboard NASA's Landsat 8 satellite. The instrument records reflections across various wavelengths, enabling researchers to clearly distinguish between healthy green crops and brown, parched fields, as well as identify geometric irrigation patterns and shallow playa lakes. The imagery highlights the consequences of extreme drought combined with the long-term depletion of the High Plains aquifer, where water tables have dropped significantly since the 1950s when large-scale groundwater pumping began. Through initiatives like NASA Acres and partnerships with organizations such as the Sandhills Area Research Association, scientists use deep learning frameworks and historical satellite data from missions like Landsat 1 to track environmental changes over decades. This provides farmers in Lubbock County with valuable data to optimize crop selection, manage irrigation, and restore sediment-filled playa lakes to return water to the aquifer upon which the region's survival depends."
+    },
+    "terms": [
+      {
+        "term": "High Plains",
+        "explanation": "A high-altitude agricultural region in the US where cotton farming is extensive but affected by severe drought."
+      },
+      {
+        "term": "OLI",
+        "explanation": "An instrument called the Operational Land Imager aboard the Landsat 8 satellite that captures images of the Earth's surface."
+      },
+      {
+        "term": "playa lake",
+        "explanation": "Shallow, clay-lined water features in the region that collect rainfall and help recharge the underground aquifer."
+      },
+      {
+        "term": "aquifer",
+        "explanation": "An underground layer of water-bearing permeable rock or sediment used for irrigation in the area."
+      },
+      {
+        "term": "NASA Acres",
+        "explanation": "A research consortium that connects farmers with NASA science to address agricultural challenges."
+      }
+    ],
+    "place": "Texas, USA"
+  }
+}

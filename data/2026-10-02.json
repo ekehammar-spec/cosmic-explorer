@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-02",
   "title": "The Complete Sharpless Catalog: 313 Nebulas",
-  "title_sv": "Sharpless-katalogen: 313 nebulosor",
+  "title_sv": "Det kompletta Sharpless-katalogen: 313 nebulosor",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=480&h=480&fit=clip",
@@ -17,55 +17,112 @@
     {
       "q": "Vad är en H II-region för något?",
       "options": [
-        "Ett moln av joniserat väte som lyser av stjärnljus",
-        "En döende stjärna som har kollapsat till ett svart hål",
-        "En typ av planet som kretsar kring unga stjärnor"
+        "Ett moln av joniserat väte som lyser upp av heta, unga stjärnor",
+        "Ett döende stjärnsystem som sänder ut röntgenstrålning",
+        "Ett supermassivt svart hål i centrum av en galax"
       ],
       "correct": 0,
-      "fact": "En H II-region är ett enormt moln av gas där ultraviolett ljus från heta, unga stjärnor slår bort elektroner från väteatomerna så att gasen börjar glöda."
+      "fact": "H II-regioner är stora interstellära moln av gas där ultraviolett ljus från nyfödda stjärnor joniserar vätet och får det att glöda."
     },
     {
-      "q": "Hur bildas en supernovarest som Spaghetti-nebulosan?",
+      "q": "Hur bildas en planetarisk nebulosa?",
       "options": [
-        "Genom att två tunga galaxer krockar med varandra",
-        "När en massiv stjärna exploderar i slutet av sitt liv",
-        "När gas dras samman i mitten av ett spiralmönster"
+        "När två tunga neutronstjärnor krockar med varandra i rymden",
+        "När en stjärna som solen stöter bort sina yttre lagren mot slutet av sitt liv",
+        "När interstellärt stoft dras samman av gravitationen för att bilda planeter"
       ],
       "correct": 1,
-      "fact": "När en tung stjärna får slut på bränsle exploderar den som en supernova och slungar ut sina yttre lager i rymden, vilka bildar en lysande gasrest."
+      "fact": "En planetarisk nebulosa har inget med planeter att göra, utan uppstår när en solliknande stjärna kastar av sig sina yttre gaslager."
     },
     {
-      "q": "Vad kännetecknar en planetarisk nebulosa?",
+      "q": "Vad är ursprunget till en supernovarest?",
       "options": [
-        "Den innehåller tusentals unga planeter under bildande",
-        "Den bildas när en stjärna som solen stöter bort sina yttre lager",
-        "Den består av fast is och sten som kretsar kring en stjärna"
+        "Resterna efter en stjärna som exploderat i en våldsam supernova",
+        "Ett moln av gas som har blivit nedkylt till absoluta nollpunkten",
+        "Stjärnvindar från en ung och mycket massiv stjärna"
       ],
-      "correct": 1,
-      "fact": "En planetarisk nebulosa uppstår när en stjärna av samma storlek som solen blir äldre, sväller upp och kastar av sig sina yttre gaslager i rymden."
+      "correct": 0,
+      "fact": "Supernovarester är de expanderande moln av materia och gas som kastas ut i rymden när en massiv stjärna exploderar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar in i ett gigantiskt tivoli i rymden där det finns massor av färgglada moln av gas. Det här är en stor samling av trehundratretton moln som lyses upp av glödande stjärnor långt borta. Vissa moln ser ut som hjärtat, andra som djur eller mystiska figurer. Det är som ett jättestort pysselalbum för stjärnkikare som visar hur vackert universum kan glänsa i mörkret.",
-    "nyborjare": "Den här storslagna bilden visar samtliga trehundratretton objekt i den så kallade Sharpless-katalogen, vilket är en känd sammanställning av vackra och spännande rymdmoln. Här ryms allt från gigantiska stjärnfabriker där nya solar föds till gamla gasrester efter våldsamma stjärnexplosioner. För att fånga in dessa svaga detaljer krävs det att man använder speciella filter som bara släpper igenom ljus från vissa grundämnen, som väte och syre. Det är ett enormt arbete som har tagit hundratals timmar under mörka nätter för att kartlägga den kosmiska miljön.",
-    "entusiast": "Den kompletta Sharpless-katalogen samlar 313 H II-regioner och andra relaterade objekt spridda över natthimlen. Bland dessa finns välkända emissionsnebulosor som Örnnebulosan, Hjärtnebulosan och Orionnebulosan, vilka drivs av hård ultraviolett strålning från heta O- och B-stjärnor som joniserar den omgivande gasen. Katalogen begränsar sig dock inte enbart till H II-regioner utan inrymmer även utvecklingsmässigt helt andra objekt, såsom den planetariska nebulosan Medusa-nebulosan och supernovarester i form av Spaghetti-nebulosan. Genom att använda smalbandiga filter som är optimerade för att isolera emissionen från joniserat väte och syre, tillsammans med traditionella RGB-filter, kan astrofotografer urskilja de svaga konturerna av utsträckt gas. Att dokumentera alla dessa objekt kräver en monumental insats med långa exponeringstider på flera timmar per fält, vilket summerar till hundratals timmars total integreringstid under optimala mörkerobservationer."
+    "barn": "Tänk dig att rymden är som en stor sagobok fylld med färgglada moln av gas. I dag får vi titta på ett jättestort album som visar över trehundra sådana moln. Vissa ser ut som fladdermöss, andra som stora hjärtan eller spindelnät. De lyser i mörkret eftersom det bor nyfödda, sprudlande stjärnor inuti dem som fungerar som glödlampor. Det har tagit massor av timmar att fånga alla dessa magiska bilder med ett jättestort teleskop.",
+    "nyborjare": "Att fotografera rymdens alla gömställen kräver ett enormt tålamod och särskild utrustning. Den här bilden visar det kompletta Sharpless-katalogen, vilket är en samling av 313 olika nebulosor spridda över natthimlen. En nebulosa är ett enormt moln av gas och stoft i rymden där nya stjärnor ofta föds. Bland objekten finns både lysande H II-regioner, som är moln av joniserat väte som får sin energi från unga stjärnor, och mer sällsynta fenomen som planetariska nebulosor och supernovarester, vilka är lämningar efter döende eller exploderade stjärnor.",
+    "entusiast": "Att samla in hela Sharpless-katalogen av H II-regioner och andra nebulösa objekt är en herkulisk bedrift inom astrofotografin som kräver runt 800 timmars exponeringstid. Katalogen omfattar 313 distinkta objekt, där varje enskild komponent krävt mellan två och sex timmars arbete med smalbandssilter för att isolera emissioner från joniserat väte och syre, tillsammans med RGB-data. Utöver de klassiska stjärnbildande områdena som upplyses av O- och B-stjärnor, innehåller samlingen även mer avancerade evolutionsstadier av stjärnors livscykler. Hit hör planetariska nebulosor såsom Medusanebulosan, som är resterna av expanderande skal från avsvalnade jättestjärnor, samt supernovarester likt Spaghettinebulosan, där stoft och gas accelereras av shockvågor från historiska stjärnexplosioner."
   },
   "terms": [
     {
       "term": "nebulosa",
-      "explanation": "Ett gigantiskt moln av gas och stoft som svävar ute i rymden mellan stjärnorna."
+      "explanation": "Ett gigantiskt moln av gas och stoft som svävar fritt ute i rymden."
     },
     {
-      "term": "supernova",
-      "explanation": "En oerhört kraftfull och ljusstark explosion som markerar slutet på en tung stjärnas liv."
+      "term": "joniserat",
+      "explanation": "Atomer som har förlorat eller tagit upp elektroner och därmed fått en elektrisk laddning."
     },
     {
-      "term": "ioniserad",
-      "explanation": "Ett tillstånd där atomer har förlorat eller tagit upp elektroner så att de får en elektrisk laddning."
+      "term": "stjärnvindar",
+      "explanation": "Strömmar av laddade partiklar som ständigt blåser ut från en stjärnas yta."
     },
     {
-      "term": "filter",
-      "explanation": "Ett optiskt verktyg som placeras framför en sensor för att bara släppa igenom ljus med en viss våglängd."
+      "term": "astronomi",
+      "explanation": "Vetenskapen som studerar universum och allt som finns bortom jorden."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine space is like a huge storybook filled with colorful gas clouds. Today we get to look at a giant album showing over three hundred such clouds. Some look like bats, others like giant hearts or spiderwebs. They glow in the dark because newborn, energetic stars live inside them acting like lightbulbs. It took countless hours to capture all these magical images using a huge telescope.",
+      "nyborjare": "Photographing all of space's hidden corners requires immense patience and specialized equipment. This image displays the complete Sharpless Catalog, which is a collection of 313 different nebulas scattered across the night sky. A nebula is a massive cloud of gas and dust in space where new stars are often born. Among the objects are glowing H II regions, which are clouds of ionized hydrogen energized by young stars, as well as rarer phenomena like planetary nebulas and supernova remnants, representing the remains of dying or exploded stars.",
+      "entusiast": "Compiling the entire Sharpless Catalog of H II regions and other nebular objects is a monumental feat in astrophotography requiring around 800 hours of exposure time. The catalog encompasses 313 distinct objects, with each individual component demanding between two and six hours of work using narrowband filters to isolate emissions from ionized hydrogen and oxygen, combined with RGB data. Beyond classical star-forming regions illuminated by O and B stars, the collection also contains more advanced evolutionary stages of stellar lifecycles. These include planetary nebulas such as the Medusa Nebula, which are the remnants of expanding shells from evolved giant stars, as well as supernova remnants like the Spaghetti Nebula, where dust and gas are accelerated by shockwaves from historical stellar explosions."
+    },
+    "terms": [
+      {
+        "term": "nebula",
+        "explanation": "A giant cloud of gas and dust floating freely out in space."
+      },
+      {
+        "term": "ionized",
+        "explanation": "Atoms that have lost or gained electrons and thereby acquired an electrical charge."
+      },
+      {
+        "term": "telescope",
+        "explanation": "An optical instrument used to observe distant objects in the universe."
+      },
+      {
+        "term": "astrophotography",
+        "explanation": "The specialized practice of photographing celestial objects and night sky events."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is an H II region?",
+        "options": [
+          "A cloud of ionized hydrogen lit up by hot, young stars",
+          "A dying star system emitting powerful X-rays",
+          "A supermassive black hole at the center of a galaxy"
+        ],
+        "correct": 0,
+        "fact": "H II regions are vast interstellar gas clouds where ultraviolet light from newborn stars ionizes the hydrogen and makes it glow."
+      },
+      {
+        "q": "How is a planetary nebula formed?",
+        "options": [
+          "When two heavy neutron stars collide with each other in space",
+          "When a star like the Sun sheds its outer layers near the end of its life",
+          "When interstellar dust is pulled together by gravity to form planets"
+        ],
+        "correct": 1,
+        "fact": "A planetary nebula has nothing to do with planets; rather, it occurs when a sun-like star ejects its outer gas layers."
+      },
+      {
+        "q": "What is the origin of a supernova remnant?",
+        "options": [
+          "The debris left behind after a star explodes in a violent supernova",
+          "A gas cloud cooled down close to absolute zero",
+          "Stellar winds blowing from a young and massive star"
+        ],
+        "correct": 0,
+        "fact": "Supernova remnants are the expanding clouds of matter and gas cast out into space when a massive star explodes."
+      }
+    ]
+  }
 }

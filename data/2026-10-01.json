@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-01",
   "title": "Harvest Moon with Erupting Mount Etna",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACUQAAEEAQIFBQAAAAAAAAAAAAEAAgMRBBIhBTFhcZETIzJRUv/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EABoRAAMBAAMAAAAAAAAAAAAAAAABEQIDEiH/2gAMAwEAAhEDEQA/AMZ8Rvp2B4Uo4sYeZZ2OdBGbcGjn07KjBxrFLPea9tbVWq/CQzuJwSgta2TSDfxoLLGd2Qt0+NZvZEnimS/NyTK/YAaWN/LRyCnuCoSGF1kG+p2SrwANqKpkURHa6aRZj2aTojIG9UmW5euFz3xNJDgB2QhJoyvolJKXk7AD6pYE226HhCEWPJ//2Q==",
   "quiz": [
     {
-      "q": "Varför går fullmånen upp just när solen går ner?",
+      "q": "Varför stiger fullmånen upp i horisonten just som solen går ner?",
       "options": [
-        "Eftersom solen och månen befinner sig på motsatta sidor om jorden.",
-        "Därför att månens omloppsbana lutar kraftigt mot ekliptikan.",
-        "För att månen roterar i samma takt som jorden snurrar kring sin axel."
+        "Eftersom solen drar med sig månen i sin bana",
+        "Eftersom månen och solen står på motsatta sidor om jorden",
+        "Eftersom jordens rotation saktar ner på kvällen"
+      ],
+      "correct": 1,
+      "fact": "Vid en fullmåne befinner sig jorden rakt emellan solen och månen, vilket gör att de står i opposition på himlen."
+    },
+    {
+      "q": "Ungefär hur lång tid tar det för månen att fullfölja en hel fascykel från fullmåne till fullmåne?",
+      "options": [
+        "27 dygn",
+        "29,5 dygn",
+        "31 dygn"
+      ],
+      "correct": 1,
+      "fact": "Fascykeln tar cirka 29,5 dygn eftersom jorden samtidigt rör sig runt solen, vilket gör att månen behöver lite extra tid för att nå samma position igen."
+    },
+    {
+      "q": "Vad kallas det rosa färgband som ibland syns lågt på himlen under gryning eller skymning?",
+      "options": [
+        "Venusbältet",
+        "Atmosfärens gloria",
+        "Skymningsskivan"
       ],
       "correct": 0,
-      "fact": "När det är fullmåne står jorden rakt emellan solen och månen, vilket gör att månen befinner sig i opposition och går upp i öster när solen går ner i väster."
-    },
-    {
-      "q": "Hur lång tid tar det för månen att fullborda ett helt fascykelmängd, det vill säga från nymåne till nästa nymåne?",
-      "options": [
-        "Ungefär 27,3 dygn",
-        "Ungefär 29,5 dygn",
-        "Exakt 30 dygn"
-      ],
-      "correct": 1,
-      "fact": "Den synodiska månaden, som mäter tiden mellan samma månfas, är ungefär 29,5 dygn eftersom jorden rör sig runt solen samtidigt som månen kretsar kring jorden."
-    },
-    {
-      "q": "Vad kallas den svagt rosa färgbandszon som ofta syns på himlen strax över horisonten mitt emot den nedgående solen?",
-      "options": [
-        "Jordens skuggzon",
-        "Venusbältet",
-        "Antitwilight-horisonten"
-      ],
-      "correct": 1,
-      "fact": "Venusbältet är ett rosa band av spritt solljus som syns i diset på himlen motsatt solnedgången eller soluppgången."
+      "fact": "Venusbältet är ett rosa eller skärt band av spritt solljus som syns på motsatt sida av himlen i förhållande till solen under solnedgång eller soluppgång."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att titta ut på kvällen och se en jättestor, lysande boll på himlen som kallas för fullmåne. Den här kvällen hände något väldigt spännande för bakom månen dök det upp glödande rök och aska från en stor vulkan som heter Etna. Det ser nästan ut som att månen svävar mitt i ett jättelikt fyrverkeri. Solen och månen är som bästisar som står på varsin sida om vår jord och tittar på varandra.",
-    "nyborjare": "När det är fullmåne befinner sig jorden rakt emellan solen och månen, vilket gör att månen stiger upp i öster precis när solen går ned i väster. Det här färgstarka fotot är taget på Sicilien och visar hur månen stiger medan himlen mörknar. Lägre moln speglar skenet från solnedgången, medan aska och gas från vulkanen Etna syns högre upp i bakgrunden. Det rosa bandet lägre ner på himlen kallas för Venusbältet och bildas av solljus som sprids i atmosfären. Månens fascykel tar ungefär 29,5 dygn, och i vissa kulturer på det norra halvklotet kallas septembermånen för skördemåne.",
-    "entusiast": "Denna sammansatta bild fångar ett astronomiskt och geologiskt ögonblick på Sicilien, där en uppstigande fullmåne kombineras med ett pågående vulkanutbrott från Mount Etna. Under en fullmåne befinner sig månen och solen i opposition i förhållande till jorden. Månens synodiska månad, alltså tiden mellan samma månfas, uppgår till cirka 29,5 dygn, vilket skiljer sig från den sideriska omloppsbanan på drygt 27 dygn eftersom jorden flyttar sig i sin bana runt solen under tiden. Lågtsittande moln reflekterar färgerna från antitwilight, medan den distinkta rosa bågen ovanför jorden skugga kallas Venusbältet. Aska och vulkaniska gaser stiger upp i bakgrunden och ger en dramatisk inramning till månuppgången."
+    "barn": "Tänk dig att månen lyser stor och rund på kvällshimlen samtidigt som solen tittar bort och går ner i horisonten. På den här färggranna bilden ser det ut som att månen stiger upp precis bakom ett stort berg som sprutar glödande aska och rök. Det är som ett jättestort fyrverkeri i rymden där månen är en lysande boll och berget är en vulkan som spottar eld.",
+    "nyborjare": "När det är fullmåne befinner sig solen och månen i opposition, vilket betyder att de står på helt motsatta sidor om jorden. Det gör att månen går upp i öster precis när solen går ner i väster. Den här bilden visar en måne som stiger upp över Sicilien, där vulkanen Etna kastar ut aska och gas i bakgrunden. Lågt på himlen syns också det vackra Venusbältet, ett rosa färgband som skapas av solljus som reflekteras i den lägre atmosfären.",
+    "entusiast": "Denna sammansatta bild fångar det exakta ögonblicket för en fullmåne i opposition, där solens och månens ekliptikala longituder skiljer sig med 180 grader. Månens synodiska månad, det vill säga tiden mellan två identiska månfascykler, är i genomsnitt cirka 29,5 dygn på grund av jordens rörelse kring solen, även om det sideromiska kretsloppet endast tar ungefär 27 dygn. Kompositionen förenar himlavalvets mekanik med jordbunden geologi genom att inkludera vulkanisk aktivitet från Etna samt det karakteristiska rosa Venusbältet, en arised-effekt av backscattered solljus i troposfären känt som antisolskenet."
   },
   "terms": [
     {
-      "term": "fullmåne",
-      "explanation": "Den månfas som uppstår när hela månens mot jorden vända sida är fullt upplyst av solen."
-    },
-    {
       "term": "opposition",
-      "explanation": "Det läge då två himlakroppar står på motsatta sidor om jorden sett från vårt perspektiv."
+      "explanation": "När två himlakroppar befinner sig på motsatta sidor om jorden i förhållande till varandra."
     },
     {
-      "term": "atmosfär",
-      "explanation": "Det lager av gaser som omger en planet och hålls kvar av dess dragningskraft."
+      "term": "ekliptikala",
+      "explanation": "Det plan som definieras av jordens bana runt solen."
     },
     {
-      "term": "omloppsbana",
-      "explanation": "Den krökta bana som en himlakropp följer runt en annan på grund av gravitationskraften."
+      "term": "synodiska",
+      "explanation": "Den tid det tar för en himlakropp att återkomma till samma position i förhållande till solen."
+    },
+    {
+      "term": "troposfären",
+      "explanation": "Den lägsta och tätaste delen av jordens atmosfär där det mesta av vädret äger rum."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a big, round moon glowing in the evening sky at the exact same time the sun goes down. In this colorful picture, the moon looks like it is rising right behind a giant mountain that is puffing out smoke and ash. It is like a glowing space show where the moon is a shiny ball and the mountain is a fiery volcano.",
+      "nyborjare": "When there is a full moon, the sun and the moon are in opposition, meaning they sit on opposite sides of Earth. This makes the moon rise in the east just as the sun sets in the west. This image captures a moon rising over Sicily, with Mount Etna erupting ash and gas in the background. Low in the sky, you can also see the Belt of Venus, a pink band of light created by sunlight reflecting off the lower atmosphere.",
+      "entusiast": "This composite image captures the precise geometry of a full moon in opposition, where the celestial bodies align across 180 degrees of longitude relative to Earth. The synodical month averages approximately 29.5 days due to Earth's orbital motion around the sun, even though the sidereal orbit takes only about 27 days. The composition bridges celestial mechanics with terrestrial geology by featuring volcanic ejecta from Mount Etna alongside the Belt of Venus, a distinct backscattered photometric phenomenon observed in the troposphere."
+    },
+    "terms": [
+      {
+        "term": "opposition",
+        "explanation": "The astronomical alignment when two bodies are on opposite sides of the sky as viewed from Earth."
+      },
+      {
+        "term": "longitude",
+        "explanation": "The angular distance measured east or west along the celestial equator or Earth's surface."
+      },
+      {
+        "term": "synodical",
+        "explanation": "Relating to successive conjunctions or phases of a celestial body relative to the sun."
+      },
+      {
+        "term": "troposphere",
+        "explanation": "The lowest layer of Earth's atmosphere where most weather phenomena occur."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Why does the full moon rise just as the sun sets?",
+        "options": [
+          "Because the sun pulls the moon along in its orbit",
+          "Because the moon and the sun are in opposition on opposite sides of Earth",
+          "Because Earth's rotation slows down in the evening"
+        ],
+        "correct": 1,
+        "fact": "During a full moon, Earth lies directly between the sun and the moon, placing them in opposition in the sky."
+      },
+      {
+        "q": "Approximately how long does it take for the moon to complete a full phase cycle from one full moon to the next?",
+        "options": [
+          "27 days",
+          "29.5 days",
+          "31 days"
+        ],
+        "correct": 1,
+        "fact": "The phase cycle takes about 29.5 days because Earth is simultaneously orbiting the sun, requiring the moon to travel slightly further to reach the same relative phase."
+      },
+      {
+        "q": "What is the name of the pinkish band of light that sometimes appears low in the sky during twilight?",
+        "options": [
+          "The Belt of Venus",
+          "The Atmospheric Halo",
+          "The Twilight Disc"
+        ],
+        "correct": 0,
+        "fact": "The Belt of Venus is a pink or peach-colored band visible in the sky opposite the sun during sunrise or sunset."
+      }
+    ]
+  }
 }

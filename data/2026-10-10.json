@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-10",
   "title": "Lunar Farside",
@@ -15,61 +15,122 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAwUC/8QAKxAAAQMDAgQEBwAAAAAAAAAAAQIDBAARIQVREiIxQRMUkdFCUmFxgaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFDQtEOoXff4kxkm2OqzsKamYbMdNmGUISPlT/asixhF09hhIwEW/Pc0Qw2gN2uU2FgKAB+CzJ5HmkOA9yM+tKmtaQYCg40SphRtnqk7U7k2B4bcQ64oaZGEqI404L+IkhP37UERJfmoLLiVXBTf3HrVvjBJ5hzDvvSZo+rGCS07dTCjfHVJ3FMaHmZICmHELTb4VZ96AtMpsIOM3ya5lSgxGceWeRtJUBue37rMeebj3LjiUJ+pzWLq2qmbZpu4ZTv1VQf/2Q==",
   "quiz": [
     {
-      "q": "Varför ser vi från jorden alltid samma sida av månen?",
+      "q": "Varför ser vi från jorden alltid bara samma sida av månen?",
       "options": [
-        "Månen snurrar inte alls runt sin egen axel",
-        "Månens rotationstid är exakt lika lång som dess omloppstid kring jorden",
-        "Jordens magnetfält låser fast månens kärna i en fast vinkel"
+        "Månen roterar inte alls runt sin egen axel",
+        "Månens rotationstid är exakt lika lång som dess omloppstid runt jorden",
+        "Jordens magnetfält tvingar månen att alltid hålla en sida låst mot oss"
       ],
       "correct": 1,
-      "fact": "Fenomenet kallas bunden rotation och beror på att tidvattenkrafter har synkroniserat månens rotation kring sin egen axel med dess bana runt jorden."
+      "fact": "Månen befinner sig i bunden rotation, vilket innebär att den snurrar ett varv runt sin axel på precis samma tid som den kretsar ett varv runt jorden."
     },
     {
-      "q": "Vad är den främsta geologiska skillnaden mellan månens framsida och dess baksida?",
+      "q": "Vad är den främsta anledningen till att månens baksida har så få mörka 'mån衝hav' (maria) jämfört med framsidan?",
       "options": [
-        "Baksidan är täckt av tjock is medan framsidan består av sten",
-        "Baksidan har nästan inga mörka lavaslätter utan domineras av kratrar",
-        "Baksidan är helt slät eftersom den skyddas från meteoritnedslag"
+        "Baksidan har utsatts för mycket mer solvind som blekt ytan",
+        "Baksidans jordskorpa är tjockare, vilket hindrade lava från att tränga upp",
+        "Meteoritnedslag har krossat och pulvriserat all tidigare mörk berggrund"
       ],
       "correct": 1,
-      "fact": "Månens baksida har mycket få mörka månhav av stelnad basalt, vilket tros bero på att jordskorpan där är betydligt tjockare än på framsidan."
+      "fact": "Eftersom månskorpan är avsevärt tjockare på baksidan hade magma från det inre mycket svårare att tränga fram och bilda släta basalthav."
     },
     {
-      "q": "Vad kallas de stora, mörka områdena på månen som man kan se med blotta ögat från jorden?",
+      "q": "Vilken rymdsond tog de allra första fotografierna av månens dolda baksida?",
       "options": [
-        "Månberg",
-        "Månhav",
-        "Månkanjoner"
+        "Apollo 8 år 1968",
+        "Lunar Orbiter 1 år 1966",
+        "Luna 3 år 1959"
       ],
-      "correct": 1,
-      "fact": "Tidiga astronomer trodde att de mörka, släta ytorna var riktiga oceaner och gav dem det latinska namnet maria, som betyder hav."
+      "correct": 2,
+      "fact": "Den sovjetiska sonden Luna 3 tog mänsklighetens första historiska bilder av månens baksida i oktober 1959."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du dansar runt en kompis och hela tiden håller ögonkontakt. Då ser kompisen bara din framsida, aldrig din rygg! Precis så gör månen runt jorden.\n\nDet här fotot visar månens baksida. Den kan vi aldrig se från marken. Den är inte mörk och slät som framsidan, utan gropig som en gammal pannkaka full av kratrar efter rymdstenar som kraschat där under miljontals år.",
-    "nyborjare": "Månen snurrar runt sin egen axel på precis samma tid som den tar ett varv runt jorden. Detta fenomen kallas bunden rotation och gör att vi från jorden alltid ser samma sida vänd mot oss. För att se månens baksida måste vi därför skicka ut rymdsonder.\n\nNär forskarna fick de första bilderna av baksidan blev de förvånade. Medan framsidan pryds av mörka, släta områden som kallas månhav, består baksidan nästan uteslutande av ljus, kraterärrad höglandsterräng. Skillnaden beror troligen på att skorpan är mycket tjockare på baksidan. När stora asteroider slog ned för länge sedan kunde det smälta berget från månens inre inte tränga upp och fylla kratrarna på samma sätt som på framsidan.",
-    "entusiast": "Tack vare gravitationsbunden rotation befinner sig månen i en synkron bana med jorden. Denna bild är en global mosaik sammansatt av över 15 000 bilder tagna av rymdsonden Lunar Reconnaissance Orbiter (LRO) med dess vidvinkelkamera, och visar baksidan med en upplösning ner till 100 meter per pixel.\n\nDen slående asymmetrin mellan hemisfärerna har länge fascinerat astronomer. Medan framsidan domineras av vidsträckta månhav bestående av basaltisk lava, täcks baksidan av en kraterfylld, anortositisk yta med minimal vulkanisk aktivitet. Geofysiska mätningar bekräftar att baksidans skorpa är betydligt tjockare. Det har förhindrat magma från att penetrera ytan vid nedslagshändelser. Forskningen kring asymmetrin ger viktiga ledtrådar till hur månen svalnade och utvecklades termiskt strax efter sin bildning."
+    "barn": "Tänk dig att månen leker kurragömma med oss! Den visar alltid samma glada ansikte mot jorden, medan dess rygg är vänd bortåt i rymden. Bilden visar just denna dolda baksida.\n\nPå framsidan ser vi mörka fläckar som ser ut som ögon och mun, men baksidan är nästan helt full av gropar som kallas kratrar. Det ser ut som en gigantisk golfboll som krockat med massor av rymdstenar under flera miljarder år!",
+    "nyborjare": "Månen är i så kallad bunden rotation med jorden, vilket gör att den alltid vänder samma sida mot oss. Därför kunde ingen människa se månens baksida förrän rymdsonder fotograferade den under 1950-talet.\n\nNågot som förvånade forskarna var hur annorlunda baksidan ser ut. Framsidan är täckt av stora, släta och mörka slätter av gammal stelnad lava, så kallade maria eller månhav. Baksidan saknar nästan helt dessa mörka fält och domineras istället av ett tätt nätverk av kratrar. Det beror främst på att månskorpan är mycket tjockare på baksidan, vilket gjorde det svårt för smält magma att tränga upp till ytan vid forntida nedslag.",
+    "entusiast": "Månens synkrona rotation kring jorden beror på tidvattenkrafter som över årmiljarder har bromsat dess spinn tills rotationsperioden matchar omloppsbanan exakt. Denna mosaik, sammansatt av över 15 000 bilder från Lunar Reconnaissance Orbiter, visar baksidans brutala topografi i hög upplösning.\n\nDen slående asymmetrin mellan hemisfärerna kallas ibland för månens dikotomi. Medan framsidan domineras av mörka mare-basalter som fyllt ut stora nedslagsbassänger, består baksidan nästan uteslutande av ljus, anortositisk höglandsterräng mättad med kratrar. Geofysiska mätningar visar att baksidans jordskorpa är signifikant tjockare än framsidans, möjligen till följd av ojämn avkylning under bildandet eller asymmetrisk värmestrålning från en glödhet ung jord. Den tjocka skorpan fungerade som en barriär som hindrade mantelplymer och basaltisk magma från att nå ytan och dränka kratrarna i lava."
   },
   "terms": [
     {
       "term": "bunden rotation",
-      "explanation": "När en himlakropp roterar runt sin axel på samma tid som den kretsar kring sitt moderobjekt."
+      "explanation": "När en himlakropps rotationstid kring sin axel sammanfaller med dess omloppstid kring en annan kropp."
+    },
+    {
+      "term": "maria",
+      "explanation": "Stora, mörka slätter på månen som bildats av forntida stelnad basaltlava från vulkanisk aktivitet."
     },
     {
       "term": "krater",
-      "explanation": "En skålformad fördjupning i marken som har bildats när en meteoroid eller asteroid kraschat."
+      "explanation": "En skålformad fördjupning på en himlakropps yta, oftast skapad av en nedslående meteoroid."
     },
     {
-      "term": "månhav",
-      "explanation": "Mörka och släta slätter av stelnad lava på månens yta, huvudsakligen bestående av basalt."
+      "term": "anortositisk",
+      "explanation": "Bestående av bergarten anortosit, en ljus magmatisk bergart rik på fältspat som utgör månens högland."
     },
     {
-      "term": "skorpa",
-      "explanation": "Det yttersta, fasta och svala lagret av bergarter på en planet eller måne."
-    },
-    {
-      "term": "Lunar Reconnaissance Orbiter",
-      "explanation": "En amerikansk rymdsond som kretsar kring månen för att kartlägga dess yta i hög upplösning."
+      "term": "dikotomi",
+      "explanation": "En tydlig tudelning eller skarp kontrast mellan två halvor av ett system eller en himlakropp."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine the Moon playing peek-a-boo! It always keeps its friendly face turned toward Earth, while its back is tucked away toward deep space. This picture shows that hidden farside.\n\nWhile the front side has big dark spots that look like eyes and a mouth, the back is covered in countless dents called craters. It looks like a giant, rugged golf ball that has been pelted by flying space rocks for billions of years!",
+      "nyborjare": "The Moon is tidally locked to Earth, which means it rotates at the exact same rate that it orbits our planet. Because of this, nobody had ever laid eyes on the farside until robotic probes took pictures of it in the late 1950s.\n\nAstronomers were surprised by how different it looked. The familiar nearside is covered in dark, smooth plains of ancient cooled lava known as maria. In contrast, the farside is almost completely devoid of these dark expanses and is instead dominated by a rugged expanse of impact craters. This is largely because the farside crust is much thicker, which prevented molten magma from easily welling up to the surface.",
+      "entusiast": "Tidal locking over billions of years has matched the Moon's spin period precisely to its orbital period. Assembled from more than 15,000 images captured by the Lunar Reconnaissance Orbiter, this mosaic highlights the rugged geomorphology of the lunar farside at high resolution.\n\nThe dramatic contrast between the two hemispheres is known as the lunar crustal dichotomy. While the nearside features extensive mare basalts that flooded giant impact basins, the farside is dominated by heavily cratered, anorthositic highlands. Geophysical data indicates that the farside crust is considerably thicker, possibly due to asymmetric cooling dynamics or thermal radiation from a hot, primordial Earth. This increased crustal thickness acted as a mechanical barrier, preventing mantle-derived basaltic melts from erupting onto the surface and erasing older impact features."
+    },
+    "terms": [
+      {
+        "term": "tidally locked",
+        "explanation": "A state where an orbiting body rotates at the same speed it orbits, keeping one hemisphere facing its partner."
+      },
+      {
+        "term": "maria",
+        "explanation": "Large, dark basaltic plains on the Moon formed by ancient volcanic eruptions flooding low basins."
+      },
+      {
+        "term": "crater",
+        "explanation": "A bowl-shaped depression on a planetary surface formed by the hypervelocity impact of a meteorite."
+      },
+      {
+        "term": "anorthositic",
+        "explanation": "Composed primarily of anorthosite, a light-colored igneous rock rich in plagioclase feldspar common in lunar highlands."
+      },
+      {
+        "term": "dichotomy",
+        "explanation": "A sharp contrast or fundamental difference between two parts or hemispheres of a celestial body."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Why do we on Earth always see the exact same side of the Moon?",
+        "options": [
+          "The Moon does not rotate around its own axis at all",
+          "The Moon's rotational period precisely matches its orbital period around Earth",
+          "Earth's magnetic field locks one hemisphere permanently facing inward"
+        ],
+        "correct": 1,
+        "fact": "The Moon is tidally locked to Earth, meaning it completes one spin on its axis in the exact time it takes to orbit Earth once."
+      },
+      {
+        "q": "Why does the lunar farside have so few dark 'seas' (maria) compared to the nearside?",
+        "options": [
+          "Solar wind stripped away the dark basalt layers on the farside",
+          "The farside crust is significantly thicker, blocking magma from reaching the surface",
+          "Heavier asteroid impacts pulverized and pulverized all dark rocks into bright powder"
+        ],
+        "correct": 1,
+        "fact": "Because the crust is much thicker on the lunar farside, molten basaltic magma from the mantle could not easily breach the surface."
+      },
+      {
+        "q": "Which spacecraft captured humanity's very first images of the Moon's farside?",
+        "options": [
+          "Apollo 8 in 1968",
+          "Lunar Orbiter 1 in 1966",
+          "Luna 3 in 1959"
+        ],
+        "correct": 2,
+        "fact": "The Soviet probe Luna 3 transmitted the historic first photographs of the hidden farside back to Earth in October 1959."
+      }
+    ]
+  }
 }

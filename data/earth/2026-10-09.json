@@ -1,0 +1,66 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-09",
+  "title": "Floodwaters Overwhelm Thailand",
+  "title_sv": "Översvämningar dränker Thailand",
+  "place": "Thailand",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+  "credit": "NASA Earth Observatory / Lauren Dauphin",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey .",
+  "w": 480,
+  "h": 333,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwH/xAAlEAACAQQCAgAHAAAAAAAAAAABAhEAAxIhBDEFQRMiUWFxgaH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAECA//EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDBCExMv/aAAwDAQACEQMRAD8A43keMuZBVr7EzFJPznv8lMSyqoOl2ST6NTSVu3ZNo4BpAUfz8VQ43FOTOCRnsqdT+qBPHGPL7CNlG22MEllcx2KYF9yPmdjrqdUonxrJtgkszGN7JrTC5cnMFfsdg0SiJMh+NVH5al0Dq8ooPQPcke6vPbAMj1qiiu+17RukanZgx9aCY3ExRRRbZZ//2Q==",
+  "levels": {
+    "barn": "Titta på den här bilden från rymden! Den visar ett land som heter Thailand. De ljusröda strecken är stora samlingar med solpaneler som flyter på vattnet. Det mörka blåa visar vatten som har svämmat över floderna och täckt stora fält där grödor brukar växa. Regnet har fallit oerhört mycket under en lång stund, och då har vattnet stigit på många platser så att människor har fått det svårt.",
+    "nyborjare": "Den här satellitbilden visar hur översvämningar har drabbat delar av Thailand under hösten 2026. Bilden är tagen med falska färger, vilket innebär att forskare använder speciella våglängder för att lättare skilja vatten från växthus och bebyggelse. Det mörka vattnet syns tydligt bredvid floden Bang Pakong och de omgivande jordbruksområdena. De klarröda formerna i bilden är flytande solpaneler. Ett stillastående lågtryck fyllt med fukt från Thailandsviken orsakade de intensiva regnovädren som har drabbat över fyra miljoner människor i landet.",
+    "entusiast": "Satellitbilderna har förvärvats med NASA-USGS Landsat-satelliter, närmare bestämt med hjälp av data från instrument ombord på Landsat 8 och Landsat 9. Genom att använda falsk färg, som kombinerar olika spektralband, kan forskare tydligt urskilja vattenmassor från vegetation och bebyggda ytor. De ljusröda formerna som syns är flytande solcellsanläggningar. Översvämningarna orsakades av ett lågtryckssystem som stannade över regionen under flera dagar i slutet av september, förstärkt av varma vindar och fukt från Thailandsviken. Händelsen ledde till att tusentals hektar jordbruksmark översvämmades och miljontals invånare påverkades i tiotals provinser."
+  },
+  "terms": [
+    {
+      "term": "Landsat",
+      "explanation": "En serie amerikanska satelliter som används för att observera jorden och samla in data om dess landskap."
+    },
+    {
+      "term": "lågtryckssystem",
+      "explanation": "Ett vädersystem som ofta för med sig moln, regn och kraftiga vindar till ett område."
+    },
+    {
+      "term": "falsk-color",
+      "explanation": "En teknik där satellitbilder visas i andra färger än vad som syns med blotta ögat för att tydliggöra detaljer."
+    },
+    {
+      "term": "akvakultur",
+      "explanation": "Odling av fisk, skaldjur eller vattenväxter i kontrollerade vattenmiljöer."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this picture from space! It shows a country called Thailand. The bright red shapes are large solar panels floating on the water. The dark blue shows water that has flooded over the rivers and covered large fields where crops usually grow. Heavy rain fell for a long time, making the water rise in many places.",
+      "nyborjare": "This satellite image shows how severe floods affected parts of Thailand in the fall of 2026. The image uses false color, meaning scientists use specific wavelengths to easily distinguish water from vegetation and buildings. The dark water is clearly visible next to the Bang Pakong River and nearby agricultural areas. The bright red shapes are floating solar arrays. A stalled low-pressure system fueled by moisture from the Gulf of Thailand caused the intense rains that affected over four million people.",
+      "entusiast": "The satellite images were acquired using NASA-USGS Landsat satellites, utilizing data from Landsat 8 and Landsat 9. By employing false-color processing, researchers can clearly distinguish water from vegetation and developed land. The bright red shapes represent floating solar arrays. The flooding stemmed from a low-pressure system that stalled over the area for several days in late September, fueled by warmth and moisture from the nearby Gulf of Thailand, ultimately inundating agricultural land and affecting millions across dozens of provinces."
+    },
+    "terms": [
+      {
+        "term": "Landsat",
+        "explanation": "A series of Earth-observing satellites operated jointly by NASA and the U.S. Geological Survey."
+      },
+      {
+        "term": "low-pressure system",
+        "explanation": "A weather system that often brings clouds, precipitation, and intense rains to a region."
+      },
+      {
+        "term": "false-color",
+        "explanation": "An imaging technique used to better distinguish features like water from vegetation using specific spectral bands."
+      },
+      {
+        "term": "aquaculture",
+        "explanation": "The breeding, rearing, and harvesting of fish, shellfish, and other organisms in all types of water environments."
+      }
+    ],
+    "place": "Thailand"
+  }
+}

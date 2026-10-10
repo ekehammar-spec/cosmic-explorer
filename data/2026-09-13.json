@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-13",
   "title": "Comet NEOWISE Rising Over the Adriatic Sea",
-  "title_sv": "Kometen NEOWISE stiger över Adriatiska havet",
+  "title_sv": "Kometen NEOWISE stiger upp över Adriatiska havet",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Comet_snapshot.png?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Comet_snapshot.png?w=480&h=480&fit=clip",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQb/xAAjEAACAAUCBwAAAAAAAAAAAAAAAQIDERIUIVEiMkJSYXGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABkRAQEAAwEAAAAAAAAAAAAAAAARAiEiUf/aAAwDAQACEQMRAD8A4WhlB1gOA0VGE0MoOsMtFRFTEdeeD6Lik29UJNy5vcCnzolVar0QmXq3KhwrRpMLZXkmZMzdBkTN0PZcv//Z",
   "quiz": [
     {
-      "q": "Vad är huvudsakligen en komet uppbyggd av när den befinner sig i de yttre delarna av solsystemet?",
+      "q": "Vad är huvudsakligen uppbyggnaden av kärnan i en komet som NEOWISE?",
       "options": [
-        "Smält metall och flytande lava",
         "Is, stoft och frusna gaser",
-        "Enbart tät gas utan fast kärna"
+        "Enbart kompakt järn och nickel",
+        "Glödande plasma och flytande lava"
+      ],
+      "correct": 0,
+      "fact": "Kometkärnor brukar kallas för smutsiga snöbollar eftersom de består av en blandning av is, sten och frysta gaser."
+    },
+    {
+      "q": "Varför utvecklar kometer vanligtvis en svans när de närmar sig solen?",
+      "options": [
+        "Solen suger upp stoft direkt från kometens yta genom stark gravitation",
+        "Solvinden och solvärmen får isen att förångas och släppa ifrån sig gas och stoft",
+        "Kometen kolliderar med andra asteroider och skapar ett stoftmoln omkring sig"
       ],
       "correct": 1,
-      "fact": "Kometer kallas ibland för smutsiga snöbollar eftersom de består av en kärna av is, sten och frysta gaser som börjar avdunsta när de närmar sig solen."
+      "fact": "När kometen kommer närmare solen värms den upp, vilket gör att isen förångas och drar med sig stoft ut i rymden."
     },
     {
-      "q": "Varför utvecklar en komet vanligtvis en svans när den närmar sig solen?",
+      "q": "Hur stor brukar den fasta kärnan i en typisk komet som denna vara?",
       "options": [
-        "Solvinden och solvärmen pressar bort gas och stoft från kometkärnan",
-        "Kometen rör sig så snabbt att friktionen mot rymdens vakuum skapar eld",
-        "Gravitationen från planeterna sliter isen ur dess bana"
+        "Ungefär lika stor som hela jorden",
+        "Bara några kilometer i diameter",
+        "Lika stor som en genomsnittlig fotbollsplan"
       ],
-      "correct": 0,
-      "fact": "När kometen kommer närmare solen värms den upp, vilket gör att isen förångas och drar med sig stoft som trycks ut i långa svansar riktade bort från solen."
-    },
-    {
-      "q": "Hur stor är vanligtvis den fasta kärnan i en typisk komet?",
-      "options": [
-        "Några få kilometer i diameter",
-        "Lika stor som månen",
-        "Större än jorden"
-      ],
-      "correct": 0,
-      "fact": "Trots att kometernas svansar kan bli miljontals kilometer långa är själva kometkärnan oftast förvånansvärt liten, bara några få kilometer bred."
+      "correct": 2,
+      "fact": "Trots att kometernas svansar kan sträcka sig miljontals kilometer ut i rymden är själva kärnan förvånansvärt liten, ofta bara några få kilometer bred."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor isboll som flyger fram genom den svarta rymden som en glittrande snöboll med en lång, lysande svans efter sig. När den här isbollen kom närmare solen började den lysa upp himlen tidigt på morgonen innan solen gick upp. Det ser ut som magi, ungefär som när en gnistrande lykta tänds högt uppe bland stjärnorna ovanför det glittrande havet.",
-    "nyborjare": "Här ser vi den vackra kometen NEOWISE som stiger upp över Adriatiska havet tidigt en morgon. En komet är en himlakropp som mestadels består av is, stoft och frusna gaser. När en komet rör sig in i det inre solsystemet och närmar sig solen värms den upp. Då bildas en tydlig atmosfär kring kärnan, och solvinden drar ut materialet i långa svansar av gas och stoft som reflekterar solljuset. Den här kometen blev ovanligt ljusstark och synlig för blotta ögat, vilket gjorde den till en av århundradets mest spektakulära himlafenomen för alla stjärnintresserade som gick upp före gryningen.",
-    "entusiast": "Bilden visar komet C/2020 F3, känd som NEOWISE, som fångades i en serie time-lapse-bilder när den steg upp över Adriatiska havet i juli 2020. Kometen klassificeras som en inträngling i det inre solsystemet med en fast kärna som mäter omkring fem kilometer i diameter. Det som gjorde detta objekt särskilt anmärkningsvärt för astronomin var att kometen förblev oväntat ljusstark i över en månad efter sin periheliepassage, vilket möjliggjorde detaljerade studier av dess jätteaktiga jon- och stoftsvansar. I förgrunden syns lysande nattmoln, så kallade noctilucent clouds, vilka bildas i mesosfären och utgör en dramatisk kontrast mot de avlägsna bakgrundsstjärnorna."
+    "barn": "Tänk dig en stor snöboll som rymmer ut i rymden och har åkt jättelångt. När den kommer närmare solen börjar den smälta och spruta ut gnistrande stoft och gas, precis som när man springer med ett lysande bloss i mörkret. Den här kometen kallas NEOWISE och den lyste så starkt att man kunde se den med egna ögon tidigt på morgonen innan solen gick upp.",
+    "nyborjare": "Kometen NEOWISE är en fascinerande besökare från det inre solsystemet som dök upp på himlen för några år sedan. Denna himlakropp blev känd som en av seklets mest spektakulkares synliga kometer för blotta ögat. En komet består av en stenig kärna av is och stoft. När den närmar sig solen värms den upp och bildar en lysande svans som sveper genom rymden framför avlägsna stjärnor.",
+    "entusiast": "Komst C/2020 F3 (NEOWISE) klassificeras som en av de mest framträdande kometerna på norra halvklotet under det senaste århundradet. Dess kärna uppskattas till cirka fem kilometer i diameter och den uppvisade en oväntat långvarig ljusstyrka som varade i över en månad. Bilden fångar kometen när den stiger över Adriatiska havet, inramad av vågiga och ljusstarka nattlysande moln som bildas i mesosfären. Jon- och stoftsvansarna drivs ut från kärnan till följd av solvindens och solvärmens växelverkan med kometmaterialet under dess periheliepassage."
   },
   "terms": [
     {
       "term": "komet",
-      "explanation": "En liten himlakropp bestående av is och stoft som utvecklar en svans när den närmar sig solen."
+      "explanation": "En liten himlakropp bestående av is och stoft som bildar en svans när den närmar sig solen."
     },
     {
       "term": "solsystem",
-      "explanation": "Det system av planeter, månar och andra himlakroppar som kretsar kring solen."
+      "explanation": "Ett stjärnsystem som består av en sol och alla planeter, asteroider och kometer som kretsar kring den."
+    },
+    {
+      "term": "kärna",
+      "explanation": "Den fasta och centrala delen av en himlakropp."
     },
     {
       "term": "solvind",
-      "explanation": "En ström av laddade partiklar som ständigt flödar ut i rymden från solen."
-    },
-    {
-      "term": "mesosfär",
-      "explanation": "Ett högt beläget lager i jordens atmosfär där det är extremt kallt."
+      "explanation": "En ström av laddade partiklar som ständigt flödar ut från solens yttersta atmosfär."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant snowball traveling from deep space and coming close to our Sun. When it gets warm, it starts to melt and sprays out glowing dust and gas, just like a sparkling firework in the dark. This comet is called NEOWISE, and it shone so brightly that people could see it early in the morning before the sun came up.",
+      "nyborjare": "Comet NEOWISE is a fascinating visitor from the inner solar system that graced our skies a few years ago. This celestial body became known as one of the most spectacular comets visible to the unaided eye in decades. A comet consists of a frozen nucleus made of ice and dust. As it approaches the Sun, it warms up and forms a glowing tail that sweeps through space against a background of distant stars.",
+      "entusiast": "Comet C/2020 F3 (NEOWISE) is classified as one of the most prominent comets in the northern hemisphere during recent times. Its nucleus spans roughly five kilometers across and maintained an unexpectedly high brightness for over a month. The image captures the comet rising over the Adriatic Sea, framed by undulating noctilucent clouds in the upper atmosphere. Both the ion and dust tails emanate from the nucleus due to the interaction between solar wind and vaporized cometary material during its closest approach to the Sun."
+    },
+    "terms": [
+      {
+        "term": "comet",
+        "explanation": "A small icy celestial body that releases gas and dust to form a tail when approaching the Sun."
+      },
+      {
+        "term": "solar system",
+        "explanation": "The gravitational system comprising the Sun and the objects that orbit it."
+      },
+      {
+        "term": "nucleus",
+        "explanation": "The solid and central part of a celestial body."
+      },
+      {
+        "term": "solar wind",
+        "explanation": "A continuous stream of charged particles released from the upper atmosphere of the Sun."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is the core of a typical comet like NEOWISE primarily composed of?",
+        "options": [
+          "Ice, dust, and frozen gases",
+          "Compact iron and nickel exclusively",
+          "Glowing plasma and liquid lava"
+        ],
+        "correct": 0,
+        "fact": "Comet nuclei are often referred to as dirty snowballs because they consist of a mixture of ice, rock, and frozen gases."
+      },
+      {
+        "q": "Why do comets typically develop a tail as they approach the Sun?",
+        "options": [
+          "The Sun pulls dust directly from the comet's surface using strong gravity",
+          "Solar wind and heat vaporize the ice, releasing gas and dust into space",
+          "The comet collides with other asteroids, creating a surrounding dust cloud"
+        ],
+        "correct": 1,
+        "fact": "As a comet gets closer to the Sun, it warms up, causing the ice to vaporize and drag dust out into space."
+      },
+      {
+        "q": "How large is the solid nucleus of a typical comet like this one?",
+        "options": [
+          "About the size of planet Earth",
+          "Only a few kilometers in diameter",
+          "Roughly the size of a standard football field"
+        ],
+        "correct": 2,
+        "fact": "Although the tails of comets can stretch for millions of kilometers, the actual nucleus is surprisingly small, often just a few kilometers wide."
+      }
+    ]
+  }
 }

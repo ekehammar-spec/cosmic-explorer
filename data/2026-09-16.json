@@ -1,9 +1,9 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-16",
   "title": "Webb's View of M64",
-  "title_sv": "Webbs vy av M64",
+  "title_sv": "Webbs bild av M64",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=480&h=480&fit=clip",
@@ -15,57 +15,114 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAjEAABAwQCAQUAAAAAAAAAAAABAAIDBBESISIxBRRBUZKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECERIxA//aAAwDAQACEQMRAD8AwsbbkaVOnic8i0cf0CWpI8nBarw/jmTHm4MaBckm1gtT1WRidmRnQubG7izWjxCQmbiQrU2LXTObpjtC/v8ACh1Ml5NdIitpyV6xrWA1KQ0Kx6q0PB9g7sLPRS4opqOPaalV0I9HHBmrqbtxaeP6pUjrm67klyQCdp4S228s/9k=",
   "quiz": [
     {
-      "q": "Vad kallas den mörka stoftbana som har givit galaxen M64 smeknamnet Svartögon-galaxen?",
+      "q": "Vad är det som har gett galaxen M64 smeknamnet Black Eye Galaxy?",
       "options": [
-        "En ring av nyfödda stjärnor som blockerar ljuset",
-        "Ett band av stoft som delvis döljer galaxens ljusa kärna",
-        "En jättelik skugga från en förbipasserande dvärggalax"
+        "Ett jättelikt svart hål i galaxens mitt",
+        "Ett mörkt band av stoft som blockerar ljuset",
+        "En ring av döende stjärnor runt kärnan"
       ],
       "correct": 1,
-      "fact": "M64 har fått sitt smeknamn eftersom ett mörkt band av stoft delvis blockerar dess ljusa kärna."
+      "fact": "Det mörka bandet av stoft framför galaxens ljusa kärna skapar ett utseende som för tankarna till ett svart öga."
     },
     {
-      "q": "Vad visar rymdteleskopet Webbs infraröda instrument MIRI i denna galax?",
+      "q": "Vad händer i de regioner av M64 där de inre och yttre gasmassorna rör sig åt skilda håll?",
       "options": [
-        "Hur gasregioner roterar åt samma håll i hela galaxen",
-        "Det kalla stoftet som absorberar och återutsänder ljus från omgivande stjärnor",
-        "Hål i rymden där inga stjärnor någonsin har bildats"
-      ],
-      "correct": 1,
-      "fact": "Infrarödinstrumentet MIRI ser det stoft som absorberar och återutsänder ljus från omgivande nyfödda stjärnor."
-    },
-    {
-      "q": "Vad tror astronomer var orsaken till att galaxen M64 har inre och yttre gasregioner som roterar åt skilda håll?",
-      "options": [
-        "En tidigare krock eller sammanslagning med en mindre galax",
-        "Ett extremt starkt magnetfält i galaxens centrum",
-        "Att galaxen snurrar så snabbt att gasen slits itu"
+        "Gasen kolliderar och trycks ihop vilket ökar bildandet av nya stjärnor",
+        "Stjärnorna slits sönder av de starka tidvattenkrafterna",
+        "Galaxen roterar snabbare och snabbare tills den splittras"
       ],
       "correct": 0,
-      "fact": "En sammanslagning mellan M64 och en mindre galax var sannolikt orsaken till gasens motsatta rörelser."
+      "fact": "När gasströmmar med olika rörelser möts och pressas samman skapas perfekta förutsättningar för att nya stjärnor ska födas."
+    },
+    {
+      "q": "Varför tror astronomer att M64 en gång i tiden har krockat med en annan galax?",
+      "options": [
+        "Eftersom den saknar en central kärna",
+        "Eftersom gasen i de yttre delarna roterar åt motsatt håll mot resten av galaxen",
+        "Eftersom den rör sig mycket snabbare än andra galaxer i universum"
+      ],
+      "correct": 1,
+      "fact": "Att gasen i de yttre regionerna roterar åt motsatt håll tyder på en historisk sammanslagning med en mindre galax."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättelik snurra i rymden som är full av gnistrande stjärnor. Den här galaxen ser ut som ett mystiskt öga mitt i mörkret eftersom ett tjockt moln av rymddamm ligger framför den lysande mitten. Det är som att rymden har målat ett jättestort öga som tittar tillbaka på oss med glittrande blick.",
-    "nyborjare": "Messier 64, ofta kallad Svartögon-galaxen, är en vacker spiralgalax som har fascinerat astronomer länge. Det som gör den speciell är en mörk stoftbana som delvis döljer dess ljusa kärna. Med hjälp av infrarött ljus kan rymdteleskopet Webb se hur det kosmiska stoftet fångar upp och sprider ljus från nyfödda stjärnor. Forskare tror att galaxen en gång i tiden har krockat och slagits samman med en mindre galax, vilket gör att gasen i dess inre och yttre delar roterar åt skilda håll.",
-    "entusiast": "Messier 64 är en astronomiskt viktig spiralgalax vars historia utmanar den gamla bilden av att spiralgalaxer utvecklas helt fredligt. Genom observationer med rymdteleskopet Webbs Mid-InfraRed Instrument går det att urskilja hur det interstellära stoftet, här återgivet i rött, absorberar och reemitterar strålning från omgivande stjärnbildningsområden. Det mest unika med M64 är dess motroterande gasregioner, där de inre och yttre gasströmmarna rör sig i motsatta riktningar. Denna dynamik komprimerar gasen där strömmarna möts och driver på ny stjärnbildning. Forskare menar att denna ovanliga kinematik är ett tydligt bevis på en tidigare galaxkrock, där M64 absorberat en mindre galax. Denna typ av galaktisk kannibalism ger ovärderliga insikter i hur spiralgalaxer, inklusive vår egen Vintergatan, växer och utvecklas över kosmiska tidsrymder."
+    "barn": "Tänk dig en stor snurra ute i rymden som är gjord av miljarder stjärnor. Det här är galaxen M64. Den ser lite mystisk ut eftersom den har ett mörkt band tvärs över sig, ungefär som om den har fått enblått öga i ett busstreck. Med speciella teleskop kan vi se att det mörka bandet är moln av stoft och gas där helt nya stjärnor tänds hela tiden. Det är som ett jättelikt fyrverkeri som lyser långt borta i mörkret.",
+    "nyborjare": "Messier 64, eller M64, är en vacker spiralgalax som befinner sig ute i rymden. Galaxen kallas ibland för den svarta ögongalaxen på grund av ett framträdande och mörkt stoftband som delvis döljer dess ljusa kärna. När rymdteleskop tittar på galaxen i infrarött ljus avslöjas hur stoftet absorberar och återutsänder ljus från nyfödda stjärnor. Forskarna har upptäckt att gasen i galaxens inre och yttre delar rör sig åt skilda håll. Denna märkliga rörelse tyder på att galaxen tidigare har slagits samman med en mindre galax, vilket har lett till intensiv stjärnbildning där gasströmmarna möts.",
+    "entusiast": "Messier 64 är en närbelägen spiralgalax som länge har studerats för att förstå hur galaktiska interaktioner formar stjärnbildningen. En unik egenskap hos M64 är dess motroterande gassystem, där de inre och yttre gasregionerna rör sig i motsatta riktningar. Denna dynamik är starka bevis för att spiralgalaxer kan uppleva sammanslagningar, vilket tidigare ansågs vara mindre vanligt för denna typ av galaxer. Vid mötet mellan de motroterande gasströmmarna sker en kompression som driver på bildandet av nya stjärnor i rosa stjärnbildande regioner. Avancerade instrument som Webb-teleskopets MIRI registrerar det infraröda ljuset från stoftet när det värms upp av omgivande unga stjärnor, vilket ger forskarna detaljerad information om galaxens sammansättning, struktur och evolutionära historia."
   },
   "terms": [
     {
       "term": "spiralgalax",
-      "explanation": "En stor stjärnsystemform som liknar en roterande pinwheel med utarmade armar av gas, stoft och unga stjärnor."
+      "explanation": "En stjärnsamling formad som en platt skiva med roterande armar som sträcker sig ut från en ljus central kärna."
+    },
+    {
+      "term": "infrarött ljus",
+      "explanation": "Osynlig värmestrålning med längre våglängder än det ljus som det mänskliga ögat kan uppfatta."
+    },
+    {
+      "term": "stjärnbildning",
+      "explanation": "Processen där stora moln av gas och stoft dras samman av gravitationen för att bilda nya stjärnor."
     },
     {
       "term": "stoft",
-      "explanation": "Små fasta partiklar och rymddamm som svävar fritt mellan stjärnorna i universum."
-    },
-    {
-      "term": "infraröd",
-      "explanation": "En typ av osynlig värmestrålning med längre våglängder än det synliga ljuset."
-    },
-    {
-      "term": "Vintergatan",
-      "explanation": "Den gigantiska galax där vårt solsystem och vår egen planet är belägna."
+      "explanation": "Små fasta partiklar av tunga grundämnen som flyter runt i rymden mellan stjärnorna."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant spinning pinwheel out in space made of billions of stars. This is the galaxy M64. It looks a bit mysterious because it has a dark band right across it, almost like it got a black eye during play. With special telescopes, we can see that this dark band is made of dust and gas clouds where brand new stars are being born all the time. It is like a giant cosmic fireworks show shining far away in the dark.",
+      "nyborjare": "Messier 64, or M64, is a spiral galaxy located out in space. The galaxy is often called the Black Eye Galaxy because of a prominent dark dust band that partially hides its bright core. When space telescopes view the galaxy in infrared light, they reveal how the dust absorbs and re-emits light from newborn stars. Researchers have discovered that the gas in the inner and outer parts of the galaxy moves in opposite directions. This strange motion suggests that the galaxy previously collided and merged with a smaller galaxy, which has led to intense star formation where the gas currents meet.",
+      "entusiast": "Messier 64 is a nearby spiral galaxy that has long been studied to understand how galactic interactions shape stellar birth. A unique feature of M64 is its counter-rotating gas system, where the inner and outer gas regions move in opposite directions. This dynamics provides key evidence that spiral galaxies can experience mergers, a history once thought uncommon for such systems. Where the opposing gas currents meet, compression drives increased star formation within pink star-forming regions. Advanced instruments like the Webb telescope's MIRI record the infrared light from dust as it is heated by surrounding young stars, giving researchers detailed insight into the galaxy's composition, structure, and evolutionary history."
+    },
+    "terms": [
+      {
+        "term": "spiral galaxy",
+        "explanation": "A stellar system shaped like a flat disk with curving arms extending outward from a bright central core."
+      },
+      {
+        "term": "infrared light",
+        "explanation": "Invisible thermal radiation with longer wavelengths than the light that the human eye can perceive."
+      },
+      {
+        "term": "star formation",
+        "explanation": "The process by which massive clouds of gas and dust collapse under gravity to create new stars."
+      },
+      {
+        "term": "dust",
+        "explanation": "Tiny solid particles composed of heavy elements drifting through the interstellar space between stars."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What gave the galaxy M64 the moniker Black Eye Galaxy?",
+        "options": [
+          "A supermassive black hole at its exact center",
+          "A dark band of dust partially blocking its bright core",
+          "A surrounding ring of dying red giant stars"
+        ],
+        "correct": 1,
+        "fact": "The dark band of dust obscuring part of the bright core creates an appearance reminiscent of a black eye."
+      },
+      {
+        "q": "What happens in the regions of M64 where the inner and outer gas currents meet?",
+        "options": [
+          "The gas is compressed and triggers increased star formation",
+          "The gas streams collide and instantly evaporate into space",
+          "The rotation of the entire galaxy halts completely"
+        ],
+        "correct": 0,
+        "fact": "When opposing gas currents meet and compress, it creates ideal conditions for new stars to form."
+      },
+      {
+        "q": "Why do astronomers believe that M64 experienced a merger in its past?",
+        "options": [
+          "Because it lacks any recognizable spiral arms",
+          "Because the outer gas region counter-rotates relative to the inner region",
+          "Because it moves at extreme speeds away from the Milky Way"
+        ],
+        "correct": 1,
+        "fact": "The opposing motion of the outer gas compared to the inner gas strongly indicates a historical merger with a smaller galaxy."
+      }
+    ]
+  }
 }

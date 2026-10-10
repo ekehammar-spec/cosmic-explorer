@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-29",
   "title": "Sh2-188: The Shrimp Nebula",
@@ -17,55 +17,120 @@
     {
       "q": "Vad är en planetarisk nebulosa för något?",
       "options": [
-        "En födelseplats för nya planeter i solsystemet",
-        "Ett moln av gas som en döende stjärna har kastat ut",
-        "En planet som har exploderat i en supernova"
-      ],
-      "correct": 1,
-      "fact": "Trots det missvisande namnet har en planetarisk nebulosa ingenting med planeter att göra. Det är resterna av yttre gaslager från en stjärna som liknar solen."
-    },
-    {
-      "q": "Vad är det för typ av stjärna som blir kvar i mitten av en planetarisk nebulosa?",
-      "options": [
-        "En vit dvärg",
-        "Ett supermassivt svart hål",
-        "En neutronstjärna"
+        "Ett moln av gas och stoft som kastas ut från en döende stjärna",
+        "En nyfödd planet som omges av tjocka moln av metangas",
+        "Resterna efter två stora planeter som har krockat i rymden"
       ],
       "correct": 0,
-      "fact": "Kvar i mitten av nebulosan blir en het och tät kärna som kallas för en vit dvärg, vilket är vad solen kommer att bli i framtiden."
+      "fact": "En planetarisk nebulosa har ingenting med planeter att göra, utan är de yttre lagren av gas som en stjärna lik vår sol stöter bort när den börjar bli gammal."
     },
     {
-      "q": "Vad är en bogvåg när det handlar om rymden?",
+      "q": "Vad blir kvar i mitten av en stjärna när den har bildat en nebulosa?",
       "options": [
-        "En våg som bildas när rymdens magnetfält krockar med solvinden",
-        "Ett ljusfenomen som uppstår när två galaxer kolliderar",
-        "En tryckvåg som skapas när en stjärna rör sig snabbt genom gasen i rymden"
+        "Ett supermassivt svart hål",
+        "En kompakt vit dvärg",
+        "En snabbt snurrande pulsar"
       ],
-      "correct": 2,
-      "fact": "Precis som när en båt plöjer genom vattnet bildas en tryckvåg, eller bogvåg, framför stjärnan när den rör sig ovanligt snabbt genom den interstellära gasen."
+      "correct": 1,
+      "fact": "När stjärnan har skjutit ifrån sig sitt yttre skal återstår den heta och täta kärnan, som kallas för en vit dvärg."
+    },
+    {
+      "q": "Vad orsakar den bågformade chockvågen framför vissa snabbrörliga nebulosor?",
+      "options": [
+        "När stjärnvinden krockar med en förbipasserande planet",
+        "När den glödande gasen trycks ihop i färdriktningen genom rymden",
+        "När stjärnan accelererar på grund av en nära explosion"
+      ],
+      "correct": 1,
+      "fact": "När nebulosan rör sig snabbt genom den tunna gasen i rymden bildas en tryckvåg framför den, ungefär som när en båt plöjer genom vatten."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en stjärna har levt under en jättelång tid och till slut nyser ut en stor molnig massa omkring sig. Det bildar en färggrann dimma i rymden som liknar en svävande räka. Mitt i den lysande gasen gömmer det sig en liten men superhet stjärnrest som swischar fram genom rymden precis som en snabb båt som drar upp vågor i vattnet.",
-    "nyborjare": "Sh2-188, som ibland kallas för Räknebulosan, är en imponerande planetarisk nebulosa på natthimlen. En planetarisk nebulosa är ett lysande moln av gas som kastas ut från en döende solliknande stjärna. I mitten av nebulosan finns stjärnans rest, en vit dvärg, som är en mycket tät och kompakt stjärnrest. Det som gör det här objektet extra speciellt är att den vita dvärgen rör sig ovanligt snabbt genom den interstellära gasen, vilket skapar en tydlig bogvåg framför den på samma sätt som när en båt plöjer genom vattnet.",
-    "entusiast": "Sh2-188 är en storskalig planetarisk nebulosa med en vinkelstorlek på himlen som motsvarar ungefär halva månens diameter. Den intressanta dynamiken i systemet beror på den centrala vita dvärgen, som är kärnresten av en solliknande stjärna efter att dess yttre atmosfär har fötts ut. Denna vita dvärg färdas med hög hastighet genom den interstellära rymden. Den höga rörelsehastigheten orsakar en markant bogvåg, särskilt synlig i övre vänstra kanten, där gasen komprimeras och värms upp i färdriktningen. Denna bild är tagen genom ett amatörteleskop i Polen med smalbandiga filter för väte, svavel och syre, och har sedan digitalt justerats för att efterlikna nebulosans sanna färger."
+    "barn": "Tänk dig en jättestor lysande ballong av färgstark gas som svävar ute i rymden. Det är resterna av en stjärna som har levt färdigt och skickat ut sina fluffiga kläder i universum. Den här stjärnan kör så himla fort genom rymden att den bildar en våg framför sig, precis som när en snabb motorbåt kör på sjön och skapar skumvatten.",
+    "nyborjare": "Sh2-188 är en planetarisk nebulosa, vilket är ett enormt moln av glödande gas som en åldrande stjärna har kastat ut i rymden. Trots sitt missvisande namn har den ingenting med planeter att göra. I mitten finns kärnan av stjärnan kvar som en vit dvärg. Den här nebulosan drar fram ovanligt snabbt genom den interstellära rymden, vilket gör att gasen pressas ihop framför den. Det skapar en tydlig chockvåg som liknar svallvågen efter en båt som plöjer genom vatten.",
+    "entusiast": "Sh2-188 utmärker sig genom sin ovanligt höga egenrörelse i det interstellära mediet. Den runda gasformationen, som spänner över en vinkelstorlek som motsvarar ungefär halva månens diameter på natthimlen, uppvisar en tydlig bogchock i sitt norra hörn. Denna asymmetriska kompression av vätgas, svavel och syre uppstår på grund av den höga hastigheten hos den kvarvarande vita dvärgen, som utgör den gravitationsmässigt kollapsade resten av en solliknande stjärna. Genom att studera dessa vågfrontsstrukturer kan astronomer få värdefull information om den omgivande galaktiska miljöns densitet och dynamiska tryckförhållanden."
   },
   "terms": [
     {
-      "term": "planetarisk nebulosa",
-      "explanation": "Ett expanderande moln av glödande gas och stoft som stöts bort från en åldrande stjärna i slutet av dess liv."
+      "term": "nebulosa",
+      "explanation": "Ett gigantiskt moln av gas och rymdstoft som ofta lyser vackert i olika färger."
     },
     {
       "term": "vit dvärg",
-      "explanation": "Det extremt kompakta och tunga slurstadiet för en stjärna med samma storlek som vår sol."
+      "explanation": "Resterna av en medelstor stjärna som har brunnit ut och blivit extremt kompakt och tät."
     },
     {
       "term": "interstellär",
-      "explanation": "Det tomrum och den materia som finns beläget mellan stjärnorna ute i galaxen."
+      "explanation": "Det tomrum och den materia som finns belägen ute i rymden mellan stjärnorna."
     },
     {
-      "term": "bogvåg",
-      "explanation": "En tryckvåg som uppstår i en fluid när ett föremål rör sig framåt genom mediet."
+      "term": "chockvåg",
+      "explanation": "En häftig tryckvåg som bildas när något rör sig snabbare än ljudet eller pressar undan materia."
+    },
+    {
+      "term": "vatten",
+      "explanation": "En vanlig kemisk förening i flytande form som täcker stora delar av jorden."
     }
-  ]
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant, glowing balloon made of colorful gas floating far out in space. It is what is left of a star that has finished its life and puffed its fluffy layers out into the universe. This star is traveling super fast through space, creating a wave in front of it just like a fast motorboat making white water on a lake.",
+      "nyborjare": "Sh2-188 is a planetary nebula, which is a huge cloud of glowing gas cast off by an aging star. Despite its misleading name, it has nothing to do with planets. At its center lies the leftover core of the star, known as a white dwarf. This nebula is moving unusually fast through interstellar space, causing gas to compress along its leading edge and creating a distinct shock wave similar to a boat plowing through water.",
+      "entusiast": "Sh2-188 stands out due to its remarkably high proper motion through the interstellar medium. The gaseous shell, spanning an angular size roughly half the diameter of the Moon, exhibits a prominent bow shock on its upper edge. This asymmetric compression of hydrogen, sulfur, and oxygen is driven by the high velocity of the surviving white dwarf core, which represents the degenerate remnant of a sun-like star. Analyzing these shock front structures provides astronomers with crucial insights into the density and dynamic pressure of the surrounding galactic environment."
+    },
+    "terms": [
+      {
+        "term": "nebula",
+        "explanation": "A giant cloud of gas and dust in outer space that often glows brightly."
+      },
+      {
+        "term": "white dwarf",
+        "explanation": "The dense, collapsed core left behind after a medium-sized star has exhausted its nuclear fuel."
+      },
+      {
+        "term": "interstellar",
+        "explanation": "Pertaining to the vast spaces and matter located between the stars."
+      },
+      {
+        "term": "shock wave",
+        "explanation": "A sharp pressure disturbance that propagates rapidly through a medium."
+      },
+      {
+        "term": "water",
+        "explanation": "A transparent and odorless liquid compound that is essential for known life."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a planetary nebula?",
+        "options": [
+          "A cloud of gas and dust ejected from a dying star",
+          "A newborn planet surrounded by thick clouds of methane gas",
+          "The remnants of two large planets that collided in space"
+        ],
+        "correct": 0,
+        "fact": "A planetary nebula has nothing to do with planets, but is instead the outer layers of gas shed by a sun-like star at the end of its life."
+      },
+      {
+        "q": "What remains at the center of a star after it forms a planetary nebula?",
+        "options": [
+          "A supermassive black hole",
+          "A compact white dwarf",
+          "A rapidly spinning pulsar"
+        ],
+        "correct": 1,
+        "fact": "Once the star has shed its outer envelope, the hot and dense stellar core remains behind as a white dwarf."
+      },
+      {
+        "q": "What causes the bow-shaped shock wave in front of certain fast-moving nebulas?",
+        "options": [
+          "Stellar winds colliding with a passing planet",
+          "Glowing gas being compressed in the direction of travel through space",
+          "A nearby stellar explosion accelerating the gas"
+        ],
+        "correct": 1,
+        "fact": "As the nebula moves swiftly through the thin gas of space, a pressure wave builds up ahead of it, similar to a boat plowing through water."
+      }
+    ]
+  }
 }
