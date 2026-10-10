@@ -249,11 +249,17 @@ button { font: inherit; color: inherit; cursor: pointer; }
 #sky > .skydate { margin: -12px auto 0; font-size: .9rem; }
 /* Hållpunkter som ligger kvar överst */
 .jump {
-  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 3; display: flex; justify-content: center; gap: 4px;
-  margin: -4px calc(-1 * var(--gutter)) -8px; padding: 12px var(--gutter) 14px; background: linear-gradient(var(--bg) 72%, transparent);
+  position: sticky; top: calc(env(safe-area-inset-top, 0px) + 8px); z-index: 3; display: flex; justify-content: center; gap: 4px;
+  width: fit-content; margin: 0 auto; padding: 4px; border-radius: 999px; border: 1px solid transparent;
+  transition: background .3s, border-color .3s;
 }
-.jump button { white-space: nowrap; font: 600 .8rem var(--body); color: var(--muted); background: none; border: 1px solid transparent; border-radius: 999px; padding: 7px 12px; }
-.jump button[aria-current="true"] { color: var(--text); background: var(--surface); border-color: var(--hairline); }
+.jump.stuck { background: rgba(16, 18, 27, .82); border-color: var(--hairline); backdrop-filter: blur(18px) saturate(1.4); -webkit-backdrop-filter: blur(18px) saturate(1.4); }
+.jump button { white-space: nowrap; font: 600 .8rem var(--body); color: var(--muted); background: none; border: 1px solid transparent; border-radius: 999px; padding: 7px 12px; transition: color .25s, background .25s, border-color .25s; }
+.jump button[aria-current="true"] { color: #f0b48c; background: rgba(240, 180, 140, .1); border-color: rgba(240, 180, 140, .34); }
+#sky1 { height: 0; margin: -9px 0; }
+.seg { display: flex; gap: 6px; margin: 14px 0 10px; }
+.seg button { font: 600 .84rem var(--body); color: var(--muted); background: none; border: 1px solid var(--hairline); border-radius: 999px; padding: 8px 16px; transition: color .25s, background .25s, border-color .25s; }
+.seg button[aria-pressed="true"] { color: #f0b48c; background: rgba(240, 180, 140, .1); border-color: rgba(240, 180, 140, .34); }
 /* Mellanrubrik med kometlinje */
 .sec { text-align: center; margin: 18px 0 2px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
 .sec b { display: block; font: 700 .72rem "Orbitron", var(--display); letter-spacing: .2em; text-transform: uppercase; color: #f0b48c; }
@@ -407,6 +413,10 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
 
   <section id="archive" hidden>
     <h2>Arkiv</h2>
+    <div class="seg" id="archKind" role="group" aria-label="Välj arkiv">
+      <button data-kind="space" aria-pressed="true">Rymden</button>
+      <button data-kind="earth" aria-pressed="false">Jorden</button>
+    </div>
     <p id="collection">En ny bild varje dag. De du inte har upptäckt är suddiga tills du har klarat trivian.</p>
     <div class="tools">
       <input type="search" id="search" placeholder="Sök bland bilderna" aria-label="Sök bland bilderna" autocomplete="off">
@@ -424,7 +434,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <button data-to="sky3" aria-current="false">Ute i världen</button>
     </div>
 
-    <div class="sec" id="sky1"><b>Himlen i natt</b><svg viewBox="0 0 120 14" aria-hidden="true"><defs><linearGradient id="ck1" x1="0" x2="1"><stop offset="0" stop-color="#f0b48c" stop-opacity="0"/><stop offset=".55" stop-color="#f0b48c"/><stop offset="1" stop-color="#f8dac6"/></linearGradient></defs><path d="M0 6.5 Q60 5 104 7 L104 8.6 Q60 8 0 7.5Z" fill="url(#ck1)"/><path d="M110 0 Q111 5.6 119 7 Q111 8.4 110 14 Q109 8.4 101 7 Q109 5.6 110 0Z" fill="#f8dac6"/></svg></div>
+    <div id="sky1"></div>
     <div class="card sum" id="sum">
       <button data-to="moonCard"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="7" opacity=".5"/><path id="sumMoonLit" d="" fill="currentColor"/></svg><span><b id="sumMoon"></b><small id="sumMoonText"></small></span><i>›</i></button>
       <button data-to="aurora" id="sumAurora" hidden><svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" aria-hidden="true"><path d="M10 70 Q30 20 50 55 T90 35"/><path d="M14 90 Q34 50 54 78 T90 62" opacity=".5"/></svg><span><b id="sumAuroraHead"></b><small id="sumAuroraText"></small></span><i>›</i></button>
@@ -569,6 +579,7 @@ async function loadDay(date, kind = "space") {
   }
 
   const isImage = kind === "earth" || day.media_type === "image";
+  document.querySelector('[data-level="barn"]').textContent = kind === "earth" ? "För unga jordspanare" : "För unga rymdhjältar";
   const src = isImage ? day.url : day.thumbnail_url;
   const frame = $("frame");
   if (day.w && day.h) frame.style.setProperty("--ratio", day.w / day.h);
@@ -752,14 +763,20 @@ function renderOnward() {
 
 /* ---------- Arkiv ---------- */
 let shownMonths = 3;
+let archKind = "space";
 function renderArchive() {
+  const earth = archKind === "earth", src = earth ? earthIndex : index;
+  const isDone = d => earth || played[d.date] !== undefined;
   const found = index.filter(d => played[d.date] !== undefined).length;
-  $("collection").textContent = `Din samling: ${found} av ${index.length} bilder upptäckta. De övriga är suddiga tills du har klarat trivian.`;
-  const q = $("search").value.trim().toLowerCase(), onlyNew = $("onlyNew").getAttribute("aria-pressed") === "true";
-  const list = index.filter(d => {
-    const done = played[d.date] !== undefined;
+  $("collection").textContent = earth
+    ? (src.length === 1 ? "1 bild av jorden från rymden." : `${src.length} bilder av jorden från rymden.`) + " Här finns inget att låsa upp, bara att titta."
+    : `Din samling: ${found} av ${index.length} bilder upptäckta. De övriga är suddiga tills du har klarat trivian.`;
+  $("onlyNew").hidden = earth;
+  const q = $("search").value.trim().toLowerCase(), onlyNew = !earth && $("onlyNew").getAttribute("aria-pressed") === "true";
+  const list = src.filter(d => {
+    const done = isDone(d);
     if (onlyNew && done) return false;
-    return !q || tidy(d.title).toLowerCase().includes(q) || niceDate(d.date).includes(q) || d.date.includes(q);
+    return !q || (d.place || "").toLowerCase().includes(q) || tidy(d.title).toLowerCase().includes(q) || niceDate(d.date).includes(q) || d.date.includes(q);
   });
   if (!list.length) { $("grid").innerHTML = '<p class="empty">Inga bilder matchar.</p>'; return; }
   const months = new Map();
@@ -767,16 +784,22 @@ function renderArchive() {
   const keys = [...months.keys()], filtering = q || onlyNew, visible = filtering ? keys : keys.slice(0, shownMonths);
   $("grid").innerHTML = visible.map(k => {
     const days = months.get(k), name = new Date(k + "-15T12:00:00").toLocaleDateString("sv-SE", { month: "long", year: "numeric" });
-    const doneCount = days.filter(d => played[d.date] !== undefined).length;
-    return `<div class="month">${esc(name)}<span>${doneCount} av ${days.length} upptäckta</span></div><div class="grid">` + days.map(d => {
-      const done = played[d.date] !== undefined;
-      return `<a class="tile ${done ? "" : "new"}" href="#${d.date}">
+    const doneCount = days.filter(isDone).length;
+    return `<div class="month">${esc(name)}<span>${earth ? (days.length === 1 ? "1 bild" : days.length + " bilder") : doneCount + " av " + days.length + " upptäckta"}</span></div><div class="grid">` + days.map(d => {
+      const done = isDone(d);
+      return `<a class="tile ${done ? "" : "new"}" href="#${earth ? "jorden-" : ""}${d.date}">
         <img src="${esc(d.thumb)}" alt="" loading="lazy">
         <span>${done ? esc(tidy(d.title)) : "Oupptäckt"}<small>${esc(niceDate(d.date))}</small></span></a>`;
     }).join("") + "</div>";
   }).join("") + (visible.length < keys.length ? '<button class="more" id="moreMonths">Visa äldre</button>' : "");
 }
 $("search").addEventListener("input", renderArchive);
+$("archKind").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  archKind = b.dataset.kind; shownMonths = Math.max(shownMonths, 0);
+  document.querySelectorAll("#archKind button").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
+  renderArchive();
+});
 $("onlyNew").addEventListener("click", e => { e.target.setAttribute("aria-pressed", String(e.target.getAttribute("aria-pressed") !== "true")); renderArchive(); });
 $("grid").addEventListener("click", e => { if (e.target.id === "moreMonths") { shownMonths += 6; renderArchive(); } });
 
@@ -926,6 +949,7 @@ $("sum").addEventListener("click", e => { const b = e.target.closest("button"); 
 addEventListener("scroll", () => {
   if ($("sky").hidden) return;
   let cur = "sky1";
+  $("jump").classList.toggle("stuck", scrollY > 8 && $("jump").getBoundingClientRect().top <= parseFloat(getComputedStyle($("jump")).top) + 1);
   for (const id of ["sky1", "sky2", "sky3"]) if ($(id).getBoundingClientRect().top < 120) cur = id;
   document.querySelectorAll("#jump button").forEach(b => b.setAttribute("aria-current", String(b.dataset.to === cur)));
 }, { passive: true });
