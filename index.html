@@ -74,11 +74,11 @@ main, footer { position: relative; z-index: 1; }
   background: var(--shift); -webkit-background-clip: text; background-clip: text; color: transparent;
   filter: drop-shadow(0 1px 6px #0009);
 }
-.bar-right { display: flex; align-items: center; gap: 8px; }
+.bar-right { display: flex; align-items: center; gap: 6px; flex: none; }
 .chip {
   font: 600 .86rem var(--body); color: var(--text); text-decoration: none;
   background: rgba(10, 11, 16, .45); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-  border: 1px solid var(--hairline); border-radius: 999px; padding: 7px 14px; cursor: pointer;
+  border: 1px solid var(--hairline); border-radius: 999px; padding: 7px 13px; cursor: pointer; white-space: nowrap; flex: none;
   font-variant-numeric: tabular-nums;
 }
 .chip b { color: var(--accent); font-weight: 600; display: inline-block; }
@@ -146,6 +146,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .caption h2.mystery { color: var(--muted); font-weight: 500; }
 .caption p { margin: 6px 0 0; color: var(--muted); font-size: .78rem; line-height: 1.4; }
+.caption .credit { display: block; margin-top: 2px; font-size: .64rem; opacity: .75; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .caption p a { color: var(--text); }
 
 .card {
@@ -189,6 +190,28 @@ button { font: inherit; color: inherit; cursor: pointer; }
 @keyframes rise { from { opacity: 0; transform: translateY(8px); } }
 .muted { color: var(--muted); }
 
+/* Tryckbara ord med förklaring */
+.term { cursor: pointer; color: #b6a3ff; font-weight: 600; }
+.term[aria-expanded="true"] { color: #d4c8ff; }
+.gloss {
+  margin: -.2em 0 1em; padding: 12px 14px; border-radius: 14px; background: var(--surface);
+  border-left: 2px solid #b6a3ff; font-size: .92rem; color: var(--muted); animation: rise .35s var(--ease) both;
+}
+.gloss b { color: var(--text); font-weight: 600; }
+.hint { font-size: .78rem; color: var(--muted); margin: 14px 0 0; }
+
+/* Vidare härifrån */
+.onward { display: flex; flex-direction: column; gap: 10px; margin-top: 14px; }
+.onward a {
+  display: flex; align-items: center; gap: 14px; padding: 10px; border-radius: 16px; background: var(--surface);
+  text-decoration: none; font-weight: 600; transition: background .2s;
+}
+.onward a:hover { background: var(--surface-hi); }
+.onward .thumb { width: 56px; height: 56px; border-radius: 12px; overflow: hidden; flex: none; background: #0b0c12; }
+.onward .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; filter: blur(5px) saturate(.8); transform: scale(1.3); }
+.onward small { display: block; color: var(--muted); font-weight: 400; font-size: .8rem; }
+.onward .arrow { margin-left: auto; padding-right: 6px; color: var(--muted); }
+
 /* ---------- Arkiv ---------- */
 #archive { max-width: 1100px; margin: 0 auto; padding: calc(env(safe-area-inset-top, 0px) + 84px) var(--gutter) 56px; }
 #archive h2 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 5vw, 2rem); letter-spacing: -0.02em; line-height: 1.1; margin: 0; }
@@ -201,6 +224,41 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .tile small { display: block; color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; margin-top: 2px; }
 .tile.new img { filter: blur(9px) saturate(.7); transform: scale(1.2); }
 
+/* ---------- Himlen ---------- */
+.page { max-width: 640px; margin: 0 auto; padding: calc(env(safe-area-inset-top, 0px) + 84px) var(--gutter) 40px; display: flex; flex-direction: column; gap: 18px; }
+.page h2 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 5vw, 2rem); letter-spacing: -0.02em; line-height: 1.1; margin: 0; }
+.page > p { color: var(--muted); margin: -8px 0 4px; max-width: 52ch; }
+.moon { display: flex; align-items: center; gap: 20px; }
+.moon svg { width: 112px; height: 112px; flex: none; filter: drop-shadow(0 0 26px rgba(182, 163, 255, .28)); }
+.moon h3 { margin: 4px 0 2px; }
+.moon dl { margin: 12px 0 0; display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; font-size: .86rem; }
+.moon dt { color: var(--muted); } .moon dd { margin: 0; font-weight: 500; font-variant-numeric: tabular-nums; }
+.events { display: flex; flex-direction: column; gap: 8px; margin-top: 14px; }
+.event { display: flex; align-items: center; gap: 14px; padding: 10px; border-radius: 16px; background: var(--surface); min-width: 0; }
+.event .when { flex: none; width: 52px; height: 52px; border-radius: 13px; background: var(--surface-hi); display: grid; place-content: center; text-align: center; line-height: 1.05; }
+.event .when small { font-size: .58rem; font-weight: 600; letter-spacing: .12em; color: #b6a3ff; }
+.event .when b { font: 600 1.15rem var(--display); font-variant-numeric: tabular-nums; }
+.event .what { min-width: 0; flex: 1; font-weight: 600; font-size: .95rem; line-height: 1.3; }
+.event .what small { display: block; color: var(--muted); font-weight: 400; font-size: .8rem; margin-top: 1px; }
+.event .in { flex: none; color: var(--muted); font-size: .72rem; text-align: right; white-space: nowrap; }
+.note { color: var(--muted); font-size: .76rem; margin: 14px 0 0; }
+
+/* ---------- Fast rad i botten ---------- */
+.tabbar {
+  position: fixed; z-index: 7; left: 50%; transform: translateX(-50%);
+  bottom: calc(env(safe-area-inset-bottom, 0px) + 10px); width: min(360px, calc(100% - 24px));
+  display: flex; justify-content: space-around; padding: 8px 6px 7px;
+  background: rgba(14, 16, 24, .8); backdrop-filter: blur(20px) saturate(1.4); -webkit-backdrop-filter: blur(20px) saturate(1.4);
+  border: 1px solid rgba(255, 255, 255, .1); border-radius: 24px; box-shadow: 0 12px 40px -12px #000;
+  transition: opacity .8s ease, transform .9s var(--ease);
+}
+body.intro-on .tabbar { opacity: 0; pointer-events: none; transform: translate(-50%, 24px); }
+.tab { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 2px 0; text-decoration: none; font-size: .64rem; font-weight: 600; color: var(--muted); transition: color .2s; }
+.tab svg { width: 24px; height: 24px; overflow: visible; }
+.tab[aria-current="page"] { color: var(--text); }
+.tab[aria-current="page"] .ico { stroke: url(#shiftG); }
+.tab[aria-current="page"] .icofill { fill: url(#shiftG); }
+
 /* ---------- Helskärm: bara bilden ---------- */
 #lightbox {
   position: fixed; inset: 0; z-index: 10; background: #000; display: flex; align-items: center; justify-content: center;
@@ -211,7 +269,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 
 .burst { position: fixed; z-index: 5; pointer-events: none; color: var(--accent); font-size: 20px; animation: fly 900ms ease-out forwards; }
 @keyframes fly { to { transform: translate(var(--dx), var(--dy)) rotate(200deg) scale(.3); opacity: 0; } }
-footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(--gutter) calc(env(safe-area-inset-bottom, 0px) + 36px); }
+footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(--gutter) calc(env(safe-area-inset-bottom, 0px) + 104px); }
 
 @media (min-width: 900px) {
   :root { --gutter: 32px; }
@@ -234,8 +292,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
 <header class="bar">
   <a class="brand" href="#" aria-label="Andromeda Arc"><svg viewBox="-2 2 104 100" aria-hidden="true"><defs><linearGradient id="shiftG" x1="4" y1="20" x2="98" y2="92" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b6a3ff"/><stop offset="1" stop-color="#3fdcff"/></linearGradient></defs><path d="M15 90 L50 12 L70 54" fill="none" stroke="url(#shiftG)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 51 Q44 47 82 73 L75 82 Q42 57 4 51Z" fill="url(#shiftG)"/><path d="M82 61 Q84.21 74.6 99 78 Q84.21 81.4 82 95 Q79.79 81.4 65 78 Q79.79 74.6 82 61Z" fill="url(#shiftG)"/></svg><span>Andromeda Arc</span></a>
   <div class="bar-right">
-    <a class="chip" id="navLink" href="#arkiv">Arkiv</a>
-    <span class="chip" aria-label="Poäng"><b id="score">0</b> p</span>
+    <span class="chip" aria-label="Poäng"><b id="score">0</b>&nbsp;p</span>
   </div>
 </header>
 
@@ -264,6 +321,10 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
         </div>
         <div id="levelText"><p class="muted">Välj en nivå.</p></div>
       </section>
+      <section class="card" id="onward" hidden>
+        <div class="eyebrow">Fortsätt utforska</div>
+        <div class="onward" id="onwardLinks"></div>
+      </section>
     </div>
   </section>
 
@@ -272,7 +333,32 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
     <p>En ny bild varje dag. De du inte har spelat är suddiga tills du har klarat trivian.</p>
     <div class="grid" id="grid"></div>
   </section>
+
+  <section id="sky" class="page" hidden>
+    <h2>Himlen</h2>
+    <p>Månen just nu och vad som händer härnäst. Tider gäller Sverige.</p>
+    <div class="card moon">
+      <svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="45" fill="#1d2030"/><path id="moonLit" d="" fill="#eeeae0"/></svg>
+      <div>
+        <div class="eyebrow">Månen i dag</div>
+        <h3 id="moonName"></h3>
+        <div class="muted" id="moonPct"></div>
+        <dl><dt>Fullmåne</dt><dd id="nextFull"></dd><dt>Nymåne</dt><dd id="nextNew"></dd></dl>
+      </div>
+    </div>
+    <div class="card">
+      <div class="eyebrow">Kommande på himlen</div>
+      <div class="events" id="events"></div>
+      <p class="note">Meteorregnens toppnätter kan skifta ett dygn mellan åren. Förmörkelsernas tider gäller Stockholm.</p>
+    </div>
+  </section>
 </main>
+
+<nav class="tabbar" aria-label="Huvudmeny">
+  <a class="tab" href="#" data-view="today"><svg viewBox="0 0 100 100" aria-hidden="true"><rect class="ico" x="12" y="18" width="76" height="64" rx="16" fill="none" stroke="currentColor" stroke-width="8"/><circle class="icofill" cx="50" cy="50" r="13" fill="currentColor"/></svg>Dagens</a>
+  <a class="tab" href="#himlen" data-view="sky"><svg viewBox="0 0 100 100" aria-hidden="true"><circle class="ico" cx="50" cy="50" r="40" fill="none" stroke="currentColor" stroke-width="8"/><path id="tabMoon" class="icofill" d="" fill="currentColor"/></svg>Himlen</a>
+  <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
+</nav>
 
 <footer>Bilder från NASA Astronomy Picture of the Day. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning.</footer>
 
@@ -284,10 +370,13 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
    filer i data/, som skapas varje morgon av scripts/generate.mjs. */
 
 // Exempeldag som används om data/ inte går att läsa (t.ex. när filen öppnas med dubbelklick).
-const SAMPLE = {"sample":true,"date":"2026-10-10","title":"Lunar Farside","title_sv":"Månens baksida","media_type":"image","url":"https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&h=1600&fit=clip","hdurl":"https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg","credit":"NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter","quiz":[{"q":"Från jorden ser vi alltid samma sida av månen. Varför?","options":["Månen snurrar inte alls","Månen snurrar ett varv på exakt samma tid som den går ett varv runt jorden","Den andra sidan är alltid mörk och syns därför inte"],"correct":1,"fact":"Det kallas bunden rotation. Baksidan får lika mycket solljus som framsidan, den är bara vänd bort från oss."},{"q":"Hur skiljer sig månens baksida från sidan vi ser?","options":["Den har fler kratrar och nästan inga stora mörka slätter","Den är helt slät och saknar kratrar","Den är täckt av is"],"correct":0,"fact":"Skorpan är troligen tjockare på baksidan, så smält sten hade svårare att tränga upp och bilda de mörka haven som framsidan har."},{"q":"Bilden är ett pussel av många foton. Ungefär hur många?","options":["150","1 500","Över 15 000"],"correct":2,"fact":"Rymdsonden Lunar Reconnaissance Orbiter tog bilderna med sin vidvinkelkamera mellan 2009 och 2011. Varje bildpunkt motsvarar ungefär 100 meter på marken."}],"levels":{"barn":"Visste du att månen har en hemlig sida? Månen är som en kompis som alltid tittar på dig och aldrig vänder sig om. Därför ser vi bara hennes ansikte, aldrig hennes rygg!\n\nMen en rymdsond har flugit runt månen och fotat ryggen åt oss. Den tog över 15 000 bilder och pusslade ihop dem till den här. Titta noga: baksidan är full av gropar. Groparna heter kratrar och blev till när stenar från rymden krockade med månen för länge, länge sedan.","nyborjare":"Månen vänder alltid samma sida mot jorden. Det beror på bunden rotation: månen snurrar ett varv runt sin egen axel på precis samma tid som den går ett varv runt jorden. Baksidan är alltså inte mörk, den är bara vänd bort från oss.\n\nBilden är en mosaik av över 15 000 foton som rymdsonden Lunar Reconnaissance Orbiter tog mellan 2009 och 2011. Baksidan ser tydligt annorlunda ut än framsidan. Den är tätt täckt av kratrar och saknar nästan helt de stora mörka slätterna, som kallas månhav. Den troligaste förklaringen är att månens skorpa är tjockare på baksidan, så att smält sten från månens inre hade svårare att nå ytan.","entusiast":"Månens rotation är synkroniserad med dess omloppstid, ett resultat av tidvattenkrafter som tidigt i månens historia bromsade rotationen tills den låstes mot jorden. Därför var baksidan okänd tills rymdsonder kunde fotografera den.\n\nDen här mosaiken är centrerad på baksidan och bygger på över 15 000 bilder från vidvinkelkameran på Lunar Reconnaissance Orbiter, tagna mellan 2009 och 2011 med en upplösning på omkring 100 meter per bildpunkt.\n\nSkillnaden mot framsidan är slående. Framsidan domineras av mörka basaltslätter, månhaven, som bildades när lava fyllde stora nedslagsbäcken. Baksidan är i stället ett ljust, kraftigt kraterbetäckt högland med mycket få hav. Den ledande förklaringen är en asymmetri i skorpans tjocklek: skorpan är tjockare på baksidan, vilket gjorde det svårare för magma att tränga upp till ytan även där stora nedslag hade öppnat bäcken. Varför skorpan är asymmetrisk är fortfarande en öppen forskningsfråga."},"thumb":"https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=480&h=480&fit=clip","link":"https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"};
+const SAMPLE = {"sample": true, "date": "2026-10-10", "title": "Lunar Farside", "title_sv": "Månens baksida", "media_type": "image", "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&h=1600&fit=clip", "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg", "credit": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter", "quiz": [{"q": "Från jorden ser vi alltid samma sida av månen. Varför?", "options": ["Månen snurrar inte alls", "Månen snurrar ett varv på exakt samma tid som den går ett varv runt jorden", "Den andra sidan är alltid mörk och syns därför inte"], "correct": 1, "fact": "Det kallas bunden rotation. Baksidan får lika mycket solljus som framsidan, den är bara vänd bort från oss."}, {"q": "Hur skiljer sig månens baksida från sidan vi ser?", "options": ["Den har fler kratrar och nästan inga stora mörka slätter", "Den är helt slät och saknar kratrar", "Den är täckt av is"], "correct": 0, "fact": "Skorpan är troligen tjockare på baksidan, så smält sten hade svårare att tränga upp och bilda de mörka haven som framsidan har."}, {"q": "Bilden är ett pussel av många foton. Ungefär hur många?", "options": ["150", "1 500", "Över 15 000"], "correct": 2, "fact": "Rymdsonden Lunar Reconnaissance Orbiter tog bilderna med sin vidvinkelkamera mellan 2009 och 2011. Varje bildpunkt motsvarar ungefär 100 meter på marken."}], "levels": {"barn": "Visste du att månen har en hemlig sida? Månen är som en kompis som alltid tittar på dig och aldrig vänder sig om. Därför ser vi bara hennes ansikte, aldrig hennes rygg!\n\nMen en rymdsond har flugit runt månen och fotat ryggen åt oss. Den tog över 15 000 bilder och pusslade ihop dem till den här. Titta noga: baksidan är full av gropar. Groparna heter kratrar och blev till när stenar från rymden krockade med månen för länge, länge sedan.", "nyborjare": "Månen vänder alltid samma sida mot jorden. Det beror på bunden rotation: månen snurrar ett varv runt sin egen axel på precis samma tid som den går ett varv runt jorden. Baksidan är alltså inte mörk, den är bara vänd bort från oss.\n\nBilden är en mosaik av över 15 000 foton som rymdsonden Lunar Reconnaissance Orbiter tog mellan 2009 och 2011. Baksidan ser tydligt annorlunda ut än framsidan. Den är tätt täckt av kratrar och saknar nästan helt de stora mörka slätterna, som kallas månhav. Den troligaste förklaringen är att månens skorpa är tjockare på baksidan, så att smält sten från månens inre hade svårare att nå ytan.", "entusiast": "Månens rotation är synkroniserad med dess omloppstid, ett resultat av tidvattenkrafter som tidigt i månens historia bromsade rotationen tills den låstes mot jorden. Därför var baksidan okänd tills rymdsonder kunde fotografera den.\n\nDen här mosaiken är centrerad på baksidan och bygger på över 15 000 bilder från vidvinkelkameran på Lunar Reconnaissance Orbiter, tagna mellan 2009 och 2011 med en upplösning på omkring 100 meter per bildpunkt.\n\nSkillnaden mot framsidan är slående. Framsidan domineras av mörka basaltslätter, månhaven, som bildades när lava fyllde stora nedslagsbäcken. Baksidan är i stället ett ljust, kraftigt kraterbetäckt högland med mycket få hav. Den ledande förklaringen är en asymmetri i skorpans tjocklek: skorpan är tjockare på baksidan, vilket gjorde det svårare för magma att tränga upp till ytan även där stora nedslag hade öppnat bäcken. Varför skorpan är asymmetrisk är fortfarande en öppen forskningsfråga."}, "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=480&h=480&fit=clip", "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/", "terms": [{"term": "bunden rotation", "explanation": "När en himlakropp snurrar ett varv runt sin axel på samma tid som den går ett varv runt en annan, så att samma sida alltid är vänd inåt."}, {"term": "mosaik", "explanation": "En stor bild som pusslats ihop av många mindre foton tagna vid olika tillfällen."}, {"term": "Lunar Reconnaissance Orbiter", "explanation": "En NASA-sond som har kretsat runt månen sedan 2009 och kartlagt hela ytan i detalj."}, {"term": "månhav", "explanation": "Mörka slätter av stelnad lava på månen, som förr i tiden misstogs för riktiga hav."}, {"term": "tidvattenkrafter", "explanation": "Dragningskrafter som töjer en himlakropp, eftersom sidan närmast grannen dras hårdare än sidan längst bort."}, {"term": "kratrar", "explanation": "Runda gropar som bildas när stenar från rymden slår ner på ytan."}]};
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+// Putsar text från äldre sparade dagar: dubbla "Image Credit" och ordet rovare (ska vara rover).
+const tidyCredit = c => String(c || "NASA").replace(/^\s*(image\s+)?credits?\s*(&|and)?\s*(copyright)?\s*:\s*/i, "").trim() || "NASA";
+const tidy = t => String(t).replace(/([Rr])ovare(n|ns|)(?![a-zåäö])/g, "$1over$2");
 const niceDate = d => new Date(d + "T12:00:00").toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" });
 const store = {
   get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch (e) { return d; } },
@@ -331,6 +420,7 @@ async function loadDay(date) {
   const stage = $("stage");
   stage.classList.remove("ready");
   stage.classList.toggle("intro", !calm);   // bilden öppnar i helskärm
+  document.body.classList.toggle("intro-on", !calm);
   $("below").classList.remove("in");
   $("glow").classList.remove("on");
   $("lq").classList.remove("on");
@@ -342,9 +432,9 @@ async function loadDay(date) {
   }
   if (id !== loadId) return;
   if (!day) {
-    stage.classList.remove("intro");
+    stage.classList.remove("intro"); document.body.classList.remove("intro-on");
     $("title").textContent = "Den här dagen finns inte i arkivet än";
-    $("meta").textContent = ""; $("quiz").hidden = true; $("after").hidden = true;
+    $("meta").textContent = ""; $("quiz").hidden = true; $("after").hidden = true; $("onward").hidden = true;
     $("below").classList.add("in");
     return;
   }
@@ -359,12 +449,12 @@ async function loadDay(date) {
   renderCaption();
   current = 0; rightCount = 0;
   $("quiz").hidden = false;
-  if (played[day.date] !== undefined) finish(true); else { $("after").hidden = true; renderQuestion(); }
+  if (played[day.date] !== undefined) finish(true); else { $("after").hidden = true; $("onward").hidden = true; renderQuestion(); }
 
   // Helskärm i ett par sekunder, sedan drar sig bilden tillbaka och texten kommer in.
   const settle = () => {
     if (id !== loadId) return;
-    stage.classList.remove("intro");
+    stage.classList.remove("intro"); document.body.classList.remove("intro-on");
     $("below").classList.add("in");
   };
   const load = (url, onFail) => {
@@ -394,10 +484,10 @@ async function loadDay(date) {
 function renderCaption() {
   const done = played[day.date] !== undefined;
   const t = $("title");
-  t.textContent = done ? (day.title_sv || day.title) : "Vad är det vi ser?";
+  t.textContent = done ? tidy(day.title_sv || day.title) : "Vad är det vi ser?";
   t.classList.toggle("mystery", !done);
   const video = day.media_type !== "image" ? ` · <a href="${esc(day.url)}" target="_blank" rel="noopener">Öppna videon</a>` : "";
-  $("meta").innerHTML = esc(niceDate(day.date)) + (done ? " · Bild: " + esc(day.credit || "NASA") : "") + video;
+  $("meta").innerHTML = esc(niceDate(day.date)) + video + (done ? `<span class="credit">Bild: ${esc(tidyCredit(day.credit))}</span>` : "");
 }
 
 /* ---------- Quiz ---------- */
@@ -406,9 +496,9 @@ function renderQuestion() {
   const quiz = $("quiz");
   quiz.innerHTML =
     `<div class="eyebrow">Fråga ${current + 1} av ${day.quiz.length}</div>
-     <h3>${esc(q.q)}</h3>
+     <h3>${esc(tidy(q.q))}</h3>
      <div class="options">${q.options.map((o, i) =>
-       `<button data-i="${i}"><i>${"ABC"[i]}</i><span>${esc(o)}</span></button>`).join("")}</div>
+       `<button data-i="${i}"><i>${"ABC"[i]}</i><span>${esc(tidy(o))}</span></button>`).join("")}</div>
      <div id="feedback"></div>`;
   quiz.querySelectorAll(".options button").forEach(b => b.addEventListener("click", e => answer(Number(b.dataset.i), e)));
 }
@@ -423,7 +513,7 @@ function answer(i, e) {
   else buttons[i].classList.add("wrong");
   const last = current === day.quiz.length - 1;
   $("feedback").innerHTML =
-    `<p class="fact"><strong>${right ? "Rätt! +10 poäng." : "Inte riktigt."}</strong> ${esc(q.fact)}</p>
+    `<p class="fact"><strong>${right ? "Rätt! +10 poäng." : "Inte riktigt."}</strong> ${esc(tidy(q.fact))}</p>
      <button class="next" id="nextBtn">${last ? "Visa vad bilden föreställer" : "Nästa fråga"}</button>`;
   $("nextBtn").addEventListener("click", () => {
     if (!last) { current++; renderQuestion(); return; }
@@ -444,14 +534,69 @@ function finish(alreadyPlayed) {
   $("levelText").innerHTML = '<p class="muted">Välj en nivå.</p>';
   document.querySelectorAll(".levels button").forEach(b => b.setAttribute("aria-pressed", "false"));
   $("after").hidden = false;
+  renderOnward();
   if (!alreadyPlayed && r === n) starBurst(innerWidth / 2, innerHeight / 3, 28);
+}
+
+// Markerar dagens facktermer i en text. Första förekomsten av varje term blir tryckbar.
+function markTerms(text, used) {
+  const terms = (day.terms || []).map((t, i) => ({ i, term: tidy(t.term).trim() })).filter(t => t.term.length > 2)
+    .sort((a, b) => b.term.length - a.term.length);
+  if (!terms.length) return esc(text);
+  const quote = x => x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  let re;
+  try { re = new RegExp("(^|[^\\p{L}])(" + terms.map(t => quote(t.term) + "[\\p{L}]{0,4}").join("|") + ")(?![\\p{L}])", "giu"); }
+  catch (e) { return esc(text); }
+  let out = "", last = 0, m;
+  while ((m = re.exec(text))) {
+    const word = m[2], start = m.index + m[1].length;
+    const hit = terms.find(t => word.toLowerCase().startsWith(t.term.toLowerCase()));
+    if (!hit || used.has(hit.i)) continue;
+    used.add(hit.i);
+    out += esc(text.slice(last, start)) + `<span class="term" role="button" tabindex="0" data-t="${hit.i}" aria-expanded="false">${esc(word)}</span>`;
+    last = start + word.length;
+  }
+  return out + esc(text.slice(last));
 }
 
 document.querySelectorAll(".levels button").forEach(b => b.addEventListener("click", () => {
   document.querySelectorAll(".levels button").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
-  const text = day.levels[b.dataset.level] || "";
-  $("levelText").innerHTML = text.split(/\n\s*\n/).map((p, i) => `<p style="animation-delay:${i * 120}ms">${esc(p)}</p>`).join("");
+  const text = tidy(day.levels[b.dataset.level] || "");
+  const used = new Set();
+  $("levelText").innerHTML = text.split(/\n\s*\n/).map((p, i) => `<p style="animation-delay:${i * 120}ms">${markTerms(p, used)}</p>`).join("");
 }));
+
+$("levelText").addEventListener("keydown", e => {
+  if ((e.key === "Enter" || e.key === " ") && e.target.closest(".term")) { e.preventDefault(); e.target.click(); }
+});
+$("levelText").addEventListener("click", e => {
+  const btn = e.target.closest(".term");
+  if (!btn) return;
+  const open = btn.getAttribute("aria-expanded") === "true";
+  $("levelText").querySelectorAll(".gloss").forEach(g => g.remove());
+  $("levelText").querySelectorAll(".term").forEach(t => t.setAttribute("aria-expanded", "false"));
+  if (open) return;
+  const t = day.terms[Number(btn.dataset.t)];
+  const g = document.createElement("div");
+  g.className = "gloss";
+  g.innerHTML = `<b>${esc(tidy(t.term))}</b> ${esc(tidy(t.explanation))}`;
+  btn.closest("p").after(g);
+  btn.setAttribute("aria-expanded", "true");
+});
+
+/* ---------- Vidare härifrån: nästa ospelade bild och arkivet ---------- */
+function renderOnward() {
+  const unplayed = index.filter(d => played[d.date] === undefined && d.date !== day.date);
+  const next = unplayed.find(d => d.date < day.date) || unplayed[0];
+  $("onwardLinks").innerHTML =
+    (next ? `<a href="#${next.date}"><span class="thumb"><img src="${esc(next.thumb)}" alt=""></span>
+      <span>Nästa ospelade bild<small>${esc(niceDate(next.date))}</small></span><span class="arrow">→</span></a>` : "") +
+    `<a href="#himlen"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">☾</span>
+      <span>Himlen<small>Månen just nu och kommande händelser</small></span><span class="arrow">→</span></a>` +
+    `<a href="#arkiv"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">✦</span>
+      <span>Hela arkivet<small>${index.length} bilder, ${unplayed.length} ospelade</small></span><span class="arrow">→</span></a>`;
+  $("onward").hidden = false;
+}
 
 /* ---------- Arkiv ---------- */
 function renderArchive() {
@@ -459,23 +604,108 @@ function renderArchive() {
     const done = played[d.date] !== undefined;
     return `<a class="tile ${done ? "" : "new"}" href="#${d.date}">
       <img src="${esc(d.thumb)}" alt="" loading="lazy">
-      <span>${done ? esc(d.title) : "Ospelad"}<small>${esc(niceDate(d.date))}</small></span></a>`;
+      <span>${done ? esc(tidy(d.title)) : "Ospelad"}<small>${esc(niceDate(d.date))}</small></span></a>`;
   }).join("");
 }
 
 /* ---------- Navigering: #arkiv eller #ÅÅÅÅ-MM-DD ---------- */
 function route() {
   const h = location.hash.slice(1);
-  const archive = h === "arkiv";
-  $("today").hidden = archive; $("archive").hidden = !archive;
-  $("navLink").textContent = archive ? "Dagens bild" : "Arkiv";
-  $("navLink").href = archive ? "#" : "#arkiv";
+  const view = h === "arkiv" ? "archive" : h === "himlen" ? "sky" : "today";
+  $("today").hidden = view !== "today"; $("archive").hidden = view !== "archive"; $("sky").hidden = view !== "sky";
+  document.querySelectorAll(".tab").forEach(t => t.dataset.view === view ? t.setAttribute("aria-current", "page") : t.removeAttribute("aria-current"));
   scrollTo(0, 0);
-  if (archive) { renderArchive(); return; }
+  if (view !== "today") document.body.classList.remove("intro-on");
+  if (view === "archive") { renderArchive(); return; }
+  if (view === "sky") { renderSky(); return; }
   const date = /^\d{4}-\d{2}-\d{2}$/.test(h) ? h : (index[0] && index[0].date);
   if (!day || day.date !== date) loadDay(date);
 }
 addEventListener("hashchange", route);
+
+/* ---------- Himlen: månfaser, meteorregn och förmörkelser ---------- */
+// Tidpunkt för nymåne (full=false) eller fullmåne (full=true) nummer k, efter Jean Meeus förenklade formler.
+function moonTime(k, full) {
+  const kk = k + (full ? 0.5 : 0), T = kk / 1236.85, E = 1 - 0.002516 * T, r = Math.PI / 180;
+  const M = r * (2.5534 + 29.1053567 * kk), Mp = r * (201.5643 + 385.81693528 * kk), F = r * (160.7108 + 390.67050284 * kk);
+  const c = full ? [0.40614, 0.17302, 0.01614, 0.01043, 0.00734, 0.00515, 0.00209] : [0.4072, 0.17241, 0.01608, 0.01039, 0.00739, 0.00514, 0.00208];
+  const jde = 2451550.09766 + 29.530588861 * kk + 0.00015437 * T * T
+    - c[0] * Math.sin(Mp) + c[1] * E * Math.sin(M) + c[2] * Math.sin(2 * Mp) + c[3] * Math.sin(2 * F)
+    + c[4] * E * Math.sin(Mp - M) - c[5] * E * Math.sin(Mp + M) + c[6] * E * E * Math.sin(2 * M);
+  return new Date((jde - 2440587.5) * 864e5);
+}
+// Månens läge i sitt varv vid en tidpunkt: f = 0 nymåne, 0.5 fullmåne. lit = belyst andel.
+function moonAt(date) {
+  let k = Math.floor((date - Date.UTC(2000, 0, 6, 18, 14)) / 864e5 / 29.530588861);
+  while (moonTime(k + 1, false) <= date) k++;
+  while (moonTime(k, false) > date) k--;
+  const prev = moonTime(k, false), next = moonTime(k + 1, false), f = (date - prev) / (next - prev);
+  return { k, f, lit: (1 - Math.cos(2 * Math.PI * f)) / 2, nextNew: next, nextFull: f < 0.5 ? moonTime(k, true) : moonTime(k + 1, true) };
+}
+function moonPath(m, R = 45) {
+  const waxing = m.f < 0.5, rx = Math.abs(1 - 2 * m.lit) * R;
+  return `M50 ${50 - R} A${R} ${R} 0 0 ${waxing ? 1 : 0} 50 ${50 + R} A${rx.toFixed(1)} ${R} 0 0 ${(m.lit > 0.5) === waxing ? 1 : 0} 50 ${50 - R}Z`;
+}
+function moonName(m) {
+  const f = m.f;
+  if (f < 0.03 || f > 0.97) return "Nymåne";
+  if (f < 0.22) return "Tilltagande skära";
+  if (f < 0.28) return "Första kvarteret";
+  if (f < 0.47) return "Tilltagande måne";
+  if (f < 0.53) return "Fullmåne";
+  if (f < 0.72) return "Avtagande måne";
+  if (f < 0.78) return "Sista kvarteret";
+  return "Avtagande skära";
+}
+const SHOWERS = [   // [månad, dag, namn, beskrivning]
+  [1, 3, "Kvadrantiderna", "Kort men intensiv topp, upp till 100 meteorer i timmen"],
+  [4, 22, "Lyriderna", "Runt 15 meteorer i timmen"],
+  [5, 6, "Eta-akvariderna", "Rester av Halleys komet, syns lågt från Sverige"],
+  [8, 12, "Perseiderna", "Årets mest kända, upp till 100 meteorer i timmen"],
+  [10, 21, "Orioniderna", "Rester av Halleys komet, runt 20 meteorer i timmen"],
+  [11, 17, "Leoniderna", "Snabba meteorer, runt 15 i timmen"],
+  [12, 14, "Geminiderna", "Årets rikaste, över 100 meteorer i timmen"],
+  [12, 22, "Ursiderna", "Ett litet regn, runt 10 meteorer i timmen"]
+];
+const ECLIPSES = [  // kontrollerade mot tabeller för Stockholm
+  ["2027-08-02T11:19:00+02:00", "Partiell solförmörkelse", "Månen täcker runt 13 % av solen, störst kl. 11.19. Titta aldrig utan solförmörkelseglasögon."],
+  ["2028-12-31T17:51:00+01:00", "Total månförmörkelse", "Månen blir mörkröd kl. 17.15–18.28, på nyårsafton"]
+];
+function renderSky() {
+  const now = new Date(), m = moonAt(now);
+  const d = x => x.toLocaleDateString("sv-SE", { day: "numeric", month: "long" });
+  $("moonLit").setAttribute("d", moonPath(m));
+  $("moonName").textContent = moonName(m);
+  $("moonPct").textContent = Math.round(m.lit * 100) + " % belyst";
+  $("nextFull").textContent = d(m.nextFull);
+  $("nextNew").textContent = d(m.nextNew);
+
+  const events = [];
+  for (let i = 0, k = m.k; i < 3; i++, k++) {
+    const full = moonTime(k, true), nw = moonTime(k + 1, false);
+    if (full > now) events.push([full, "Fullmåne", "Månen går upp i öster vid solnedgången"]);
+    events.push([nw, "Nymåne", "Mörkast himmel, bäst för stjärnor och norrsken"]);
+  }
+  for (const [mo, da, name, text] of SHOWERS) {
+    let when = new Date(now.getFullYear(), mo - 1, da, 23);
+    if (when < now) when = new Date(now.getFullYear() + 1, mo - 1, da, 23);
+    const lit = moonAt(when).lit;
+    events.push([when, "Meteorregn: " + name, text + ". " + (lit < 0.3 ? "Mörk himmel utan måne." : lit < 0.7 ? "Månen stör en del." : "Starkt månljus stör.")]);
+  }
+  for (const [iso, name, text] of ECLIPSES) if (new Date(iso) > now) events.push([new Date(iso), name, text]);
+  events.sort((a, b) => a[0] - b[0]);
+  const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const soon = events.filter(e => e[0] - now < 300 * 864e5).slice(0, 9);
+  const far = events.filter(e => /förmörkelse/.test(e[1]) && !soon.includes(e));
+  $("events").innerHTML = soon.concat(far).map(([when, name, text]) => {
+    const days = Math.round((new Date(when.getFullYear(), when.getMonth(), when.getDate()) - midnight) / 864e5);
+    const sameYear = when.getFullYear() === now.getFullYear();
+    return `<div class="event"><div class="when"><small>${when.toLocaleDateString("sv-SE", { month: "short" }).replace(".", "").toUpperCase()}</small><b>${when.getDate()}</b></div>
+      <div class="what">${esc(name)}<small>${esc(text)}</small></div>
+      <div class="in">${days <= 0 ? "i dag" : days === 1 ? "i morgon" : days < 100 ? "om " + days + " dagar" : sameYear ? "" : when.getFullYear()}</div></div>`;
+  }).join("");
+}
+$("tabMoon").setAttribute("d", moonPath(moonAt(new Date()), 40));
 
 /* ---------- Helskärm ---------- */
 $("frame").addEventListener("click", () => {
