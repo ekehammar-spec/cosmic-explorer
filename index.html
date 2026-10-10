@@ -255,15 +255,16 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .jump.stuck { background: rgba(16, 18, 27, .82); border-color: var(--hairline); backdrop-filter: blur(18px) saturate(1.4); -webkit-backdrop-filter: blur(18px) saturate(1.4); }
 .jump button { white-space: nowrap; font: 600 .8rem var(--body); color: var(--muted); background: none; border: 1px solid transparent; border-radius: 999px; padding: 7px 12px; transition: color .25s, background .25s, border-color .25s; }
-.jump button[aria-current="true"] { color: #f0b48c; background: rgba(240, 180, 140, .1); border-color: rgba(240, 180, 140, .34); }
+.jump button[aria-current="true"] { color: #c9c3e6; background: rgba(201, 195, 230, .09); border-color: rgba(201, 195, 230, .32); }
 #sky1 { height: 0; margin: -9px 0; }
 .seg { display: flex; gap: 6px; margin: 14px 0 10px; }
 .seg button { font: 600 .84rem var(--body); color: var(--muted); background: none; border: 1px solid var(--hairline); border-radius: 999px; padding: 8px 16px; transition: color .25s, background .25s, border-color .25s; }
-.seg button[aria-pressed="true"] { color: #f0b48c; background: rgba(240, 180, 140, .1); border-color: rgba(240, 180, 140, .34); }
+.seg button[aria-pressed="true"] { color: #c9c3e6; background: rgba(201, 195, 230, .09); border-color: rgba(201, 195, 230, .32); }
 /* Mellanrubrik med kometlinje */
-.sec { text-align: center; margin: 18px 0 2px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
-.sec b { display: block; font: 700 .72rem "Orbitron", var(--display); letter-spacing: .2em; text-transform: uppercase; color: #f0b48c; }
-.sec svg { display: block; width: 120px; height: 14px; margin: 9px auto 0; }
+.sec { display: flex; align-items: center; gap: 14px; margin: 18px 0 2px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
+.sec::before, .sec::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, transparent, rgba(201, 195, 230, .35)); }
+.sec::after { background: linear-gradient(90deg, rgba(201, 195, 230, .35), transparent); }
+.sec b { font: 700 .72rem "Orbitron", var(--display); letter-spacing: .2em; text-transform: uppercase; color: #c9c3e6; }
 /* Sammanfattningen */
 .sum { padding: 6px 8px; }
 .sum button { width: 100%; display: flex; align-items: center; gap: 14px; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--hairline); padding: 13px 12px; border-radius: 0; }
@@ -457,14 +458,14 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <p class="note">Prognos från amerikanska vädermyndigheten NOAA. Det krävs också mörker och klar himmel.</p>
     </div>
 
-    <div class="sec" id="sky2"><b>Kommande</b><svg viewBox="0 0 120 14" aria-hidden="true"><defs><linearGradient id="ck2" x1="0" x2="1"><stop offset="0" stop-color="#f0b48c" stop-opacity="0"/><stop offset=".55" stop-color="#f0b48c"/><stop offset="1" stop-color="#f8dac6"/></linearGradient></defs><path d="M0 6.5 Q60 5 104 7 L104 8.6 Q60 8 0 7.5Z" fill="url(#ck2)"/><path d="M110 0 Q111 5.6 119 7 Q111 8.4 110 14 Q109 8.4 101 7 Q109 5.6 110 0Z" fill="#f8dac6"/></svg></div>
+    <div class="sec" id="sky2"><b>Kommande</b></div>
     <div class="card">
       <div class="eyebrow">Kommande på himlen</div>
       <div class="events" id="events"></div>
       <p class="note">Meteorregnens toppnätter kan skifta ett dygn mellan åren. Förmörkelsernas tider gäller Stockholm.</p>
     </div>
 
-    <div class="sec" id="sky3"><b>Ute i världen</b><svg viewBox="0 0 120 14" aria-hidden="true"><defs><linearGradient id="ck3" x1="0" x2="1"><stop offset="0" stop-color="#f0b48c" stop-opacity="0"/><stop offset=".55" stop-color="#f0b48c"/><stop offset="1" stop-color="#f8dac6"/></linearGradient></defs><path d="M0 6.5 Q60 5 104 7 L104 8.6 Q60 8 0 7.5Z" fill="url(#ck3)"/><path d="M110 0 Q111 5.6 119 7 Q111 8.4 110 14 Q109 8.4 101 7 Q109 5.6 110 0Z" fill="#f8dac6"/></svg></div>
+    <div class="sec" id="sky3"><b>Ute i världen</b></div>
     <div class="card" id="storm" hidden>
       <div class="eyebrow">Rymdväder</div>
       <h3 id="stormHead"></h3>
