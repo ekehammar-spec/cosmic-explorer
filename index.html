@@ -106,7 +106,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .frame {
   position: relative; display: block; padding: 0; border: 0; overflow: hidden; background: transparent;
   -webkit-mask-image: linear-gradient(#000 72%, transparent); mask-image: linear-gradient(#000 72%, transparent);
-  height: 100%; aspect-ratio: var(--ratio, 1); max-width: 100%;
+  height: 100%; aspect-ratio: var(--ratio, 1); max-width: 100%; min-width: min(100%, 720px);
   cursor: zoom-in;
 }
 /* 1. Skimmer medan vi väntar */
@@ -134,6 +134,9 @@ button { font: inherit; color: inherit; cursor: pointer; }
   opacity: 0; filter: blur(30px) brightness(1.25); transform: scale(1.07);
   transition: opacity 1.4s ease, filter 2.4s var(--ease), transform 2.8s var(--ease);
 }
+/* Enfärgade bilder, diagram och kartor visas hela i stället för beskurna */
+.frame.whole img { object-fit: contain; animation: none !important; }
+.frame.whole .kb { animation: none !important; }
 .stage.ready .frame::before { animation: none; opacity: 0; transition: opacity .8s; }
 .stage.ready .frame img { opacity: 1; filter: none; transform: none; }
 
@@ -565,7 +568,7 @@ const calm = matchMedia("(prefers-reduced-motion: reduce)").matches;
 // Var i bilden ligger motivet? Räknas ur den lilla förhandsbilden: det som sticker ut mot bakgrunden väger tyngst.
 // Utsnittet flyttas dit, så att ett motiv i kanten inte klipps bort när bilden fyller skärmen.
 function setFocus(frame, lqip) {
-  frame.style.removeProperty("--fx"); frame.style.removeProperty("--fy");
+  frame.style.removeProperty("--fx"); frame.style.removeProperty("--fy"); frame.classList.remove("whole");
   if (!lqip) return;
   const im = new Image();
   im.onload = () => {
@@ -581,7 +584,10 @@ function setFocus(frame, lqip) {
         const wt = Math.pow(Math.abs(l - base) + sat * .6, 2);
         sx += wt * ((i % w) + .5) / w; sy += wt * (Math.floor(i / w) + .5) / h; sw += wt;
       });
-      if (!sw || frame.dataset.lq !== lqip) return;
+      if (frame.dataset.lq !== lqip) return;
+      const mean = lum.reduce((a, b) => a + b, 0) / lum.length, spread = Math.sqrt(lum.reduce((a, b) => a + (b - mean) ** 2, 0) / lum.length);
+      if (spread < 11) { frame.classList.add("whole"); return; }   // nästan enfärgad: inget motiv att beskära mot
+      if (!sw) return;
       const pos = v => Math.min(88, Math.max(12, 50 + (v / sw * 100 - 50) * 1.7)).toFixed(1) + "%";
       frame.style.setProperty("--fx", pos(sx)); frame.style.setProperty("--fy", pos(sy));
     } catch (e) {}
@@ -890,6 +896,19 @@ function runVeils() {
 document.addEventListener("visibilitychange", runVeils);
 
 /* ---------- Navigering: #arkiv eller #ÅÅÅÅ-MM-DD ---------- */
+// Alltid från toppen vid byte av vy. Mobilens webbläsare kan strunta i ett enda scrollTo medan sidan
+// fortfarande glider efter ett svep, så glidet stoppas och förflyttningen upprepas tills man själv rör skärmen.
+try { history.scrollRestoration = "manual"; } catch (e) {}
+let topTimers = [];
+function toTop() {
+  topTimers.forEach(clearTimeout);
+  const root = document.documentElement, go = () => scrollTo(0, 0);
+  root.style.overflow = "hidden"; go();
+  requestAnimationFrame(() => { root.style.overflow = ""; go(); });
+  topTimers = [60, 200, 450, 800].map(ms => setTimeout(go, ms));
+}
+addEventListener("touchstart", () => { topTimers.forEach(clearTimeout); topTimers = []; }, { passive: true });
+addEventListener("wheel", () => { topTimers.forEach(clearTimeout); topTimers = []; }, { passive: true });
 function route() {
   const h = location.hash.slice(1);
   const earthDate = (h.match(/^jorden-(\d{4}-\d{2}-\d{2})$/) || [])[1];
@@ -899,7 +918,7 @@ function route() {
   document.querySelectorAll(".tab").forEach(t => t.dataset.view === view ? t.setAttribute("aria-current", "page") : t.removeAttribute("aria-current"));
   document.body.classList.toggle("sky-on", view === "sky"); runVeils();
   document.body.classList.toggle("plain", view !== "today" && view !== "earth");
-  scrollTo(0, 0);
+  toTop();
   if (view !== "today" && view !== "earth") document.body.classList.remove("intro-on");
   if (view === "archive") { renderArchive(); return; }
   if (view === "sky") { renderSky(); return; }
