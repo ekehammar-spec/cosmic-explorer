@@ -16,7 +16,10 @@ import { fileURLToPath } from "node:url";
 const DATA = path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "data");
 const FEED = process.env.APOD_FEED || "https://science.nasa.gov/feed/apod-basic/";
 const GEMINI_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-3.5-flash-lite";
+// Modeller i turordning: den starkaste först. En modell som nekas (t.ex. för att
+// den inte ingår i gratisnivån) hoppas över resten av körningen.
+const MODELS = (process.env.GEMINI_MODEL || "gemini-3.8-flash,gemini-3.5-flash-lite").split(",").map(m => m.trim()).filter(Boolean);
+const VERSION = 2; // höj för att låta jobbet skriva om befintliga dagar
 
 if (!GEMINI_KEY) {
   console.error("GEMINI_API_KEY saknas.");
@@ -99,20 +102,28 @@ const SCHEMA = {
 };
 
 function promptFor(apod) {
-  return `Du skriver innehåll på svenska till en rymdapp. Underlaget är NASA:s "Astronomy Picture of the Day".
+  return `Du är en svensk vetenskapsjournalist som skriver innehåll till en rymdapp. Underlaget är NASA:s "Astronomy Picture of the Day".
 
 Titel: ${apod.title}
 NASA:s beskrivning: ${apod.explanation}
 
 Skriv:
-1. title_sv: bildens titel på svenska.
-2. quiz: exakt 3 roliga och lärorika flervalsfrågor. Spelaren ser bilden men varken titeln eller NASA:s text, så frågorna ska gå att resonera sig fram till. Varje fråga har exakt 3 alternativ i "options". "correct" är index (0, 1 eller 2) för rätt alternativ; variera det mellan frågorna. "fact" är en eller två meningar som förklarar rätt svar.
+1. title_sv: bildens titel på naturlig svenska. Använd vedertagna svenska namn (t.ex. Vintergatan, Andromedagalaxen, Orionnebulosan). Behåll katalogbeteckningar som M83 och NGC 1234. Översätt eller behåll engelska egennamn, men blanda aldrig engelska ord med svensk böjning.
+2. quiz: exakt 3 roliga och lärorika flervalsfrågor.
+   - Varje fråga ska lära ut astronomi, fysik eller rymdfart: vad objektet är, hur det fungerar, hur stort eller avlägset det är, hur det bildades.
+   - Fråga aldrig om hur fotot togs eller planerades, vem fotografen är, eller detaljer som bara går att veta om man läst NASA:s text.
+   - Spelaren ser bilden men varken titeln eller NASA:s text. Frågorna ska gå att resonera sig fram till, och får inte avslöja varandras svar.
+   - Varje fråga har exakt 3 alternativ i "options". Alla tre ska vara rimliga, ungefär lika långa och skrivna i samma stil.
+   - "correct" är index (0, 1 eller 2) för rätt alternativ. Variera det mellan frågorna.
+   - "fact" är en eller två meningar som förklarar varför svaret är rätt.
 3. levels: tre förklaringar av bilden som löpande text utan rubriker och utan markdown, med tom rad mellan stycken.
    - barn: för ett nyfiket barn på 6–9 år. Enkla ord, korta meningar, en lekfull jämförelse från vardagen. Cirka 80 ord.
    - nyborjare: för en vuxen utan förkunskaper. Förklara facktermer första gången de används. Cirka 130 ord.
    - entusiast: för en astronomientusiast. Gå på djupet med fysiken, avstånd, instrument och varför objektet är vetenskapligt intressant. Cirka 220 ord.
 
-Håll dig strikt till fakta i underlaget och väletablerad astronomi. Hitta inte på siffror.`;
+Språk: korrekt, ledig svenska med rätt genus och böjning (en/ett, den/det). Läs igenom varje mening och rätta stavfel innan du svarar. Skriv tal på svenskt vis (1,5 miljoner, 20 000).
+
+Fakta: håll dig strikt till underlaget och väletablerad astronomi. Hitta inte på siffror.`;
 }
 
 function valid(c) {
@@ -125,28 +136,47 @@ function valid(c) {
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
 
+const dropped = new Set();
+
+async function callGemini(model, apod) {
+  const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+    method: "POST",
+    headers: { "content-type": "application/json", "x-goog-api-key": GEMINI_KEY },
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: promptFor(apod) }] }],
+      generationConfig: { responseMimeType: "application/json", responseSchema: SCHEMA, temperature: 0.6 }
+    })
+  });
+  if (!res.ok) {
+    const err = new Error(`${model} svarade ${res.status}: ${(await res.text()).slice(0, 200)}`);
+    err.status = res.status;
+    throw err;
+  }
+  const body = await res.json();
+  const out = body.candidates?.[0]?.content?.parts?.map(p => p.text || "").join("") || "";
+  const content = JSON.parse(out);
+  if (!valid(content)) throw new Error("ofullständigt svar från " + model);
+  return content;
+}
+
 async function askGemini(apod) {
-  let lastError;
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    try {
-      const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`, {
-        method: "POST",
-        headers: { "content-type": "application/json", "x-goog-api-key": GEMINI_KEY },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: promptFor(apod) }] }],
-          generationConfig: { responseMimeType: "application/json", responseSchema: SCHEMA, temperature: 0.7 }
-        })
-      });
-      if (!res.ok) throw new Error(`Gemini svarade ${res.status}: ${(await res.text()).slice(0, 300)}`);
-      const body = await res.json();
-      const out = body.candidates?.[0]?.content?.parts?.map(p => p.text || "").join("") || "";
-      const content = JSON.parse(out);
-      if (!valid(content)) throw new Error("Gemini gav ett ofullständigt svar");
-      return content;
-    } catch (e) {
-      lastError = e;
-      console.warn(`Försök ${attempt} misslyckades: ${e.message}`);
-      await wait(Number(process.env.RETRY_MS ?? 5000) * attempt);
+  let lastError = new Error("Ingen Gemini-modell är tillgänglig");
+  for (const model of MODELS) {
+    if (dropped.has(model)) continue;
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        return { content: await callGemini(model, apod), model };
+      } catch (e) {
+        lastError = e;
+        console.warn(`Försök ${attempt} misslyckades: ${e.message}`);
+        // 4xx = modellen finns inte, ingår inte i nivån eller kvoten är slut: gå vidare till nästa modell.
+        if (e.status >= 400 && e.status < 500 && model !== MODELS[MODELS.length - 1]) {
+          dropped.add(model);
+          console.warn(`Hoppar över ${model} resten av körningen.`);
+          break;
+        }
+        await wait(Number(process.env.RETRY_MS ?? 8000) * attempt);
+      }
     }
   }
   throw lastError;
@@ -171,12 +201,15 @@ async function preview(imageUrl) {
 
 async function needs(date) {
   if (!existsSync(fileFor(date))) return true;
-  return Boolean(JSON.parse(await readFile(fileFor(date), "utf8")).sample); // exempeldagar skrivs över
+  const old = JSON.parse(await readFile(fileFor(date), "utf8"));
+  return Boolean(old.sample) || (old.v || 1) < VERSION; // exempeldagar och äldre versioner skrivs om
 }
 
 async function buildDay(apod) {
-  const content = await askGemini(apod);
+  const { content, model } = await askGemini(apod);
   const day = {
+    v: VERSION,
+    model,
     date: apod.date,
     title: apod.title,
     title_sv: content.title_sv,
@@ -192,7 +225,7 @@ async function buildDay(apod) {
     levels: content.levels
   };
   await writeFile(fileFor(day.date), JSON.stringify(day, null, 2));
-  console.log(`Sparade ${day.date}: ${day.title}`);
+  console.log(`Sparade ${day.date}: ${day.title} (${model})`);
 }
 
 async function writeIndex() {
@@ -214,7 +247,7 @@ if (!items.length) { console.error("Hittade inga bilder i NASA:s flöde."); proc
 let failed = 0;
 for (const item of items) {
   if (!(await needs(item.date))) continue;
-  try { await buildDay(item); await wait(Number(process.env.PAUSE_MS ?? 5000)); }
+  try { await buildDay(item); await wait(Number(process.env.PAUSE_MS ?? 13000)); }
   catch (e) { failed++; console.error(`Kunde inte skapa ${item.date}: ${e.message}`); }
 }
 await writeIndex();
