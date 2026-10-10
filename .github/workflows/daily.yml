@@ -1,0 +1,28 @@
+name: Dagens bild
+
+on:
+  schedule:
+    - cron: "7 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-save sharp
+      - run: node scripts/generate.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Spara nya filer
+        run: |
+          git config user.name "cosmic-bot"
+          git config user.email "cosmic-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Dagens bild $(date -u +%F)" && git push)
