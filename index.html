@@ -210,6 +210,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .onward a:hover { background: var(--surface-hi); }
 .onward .thumb { width: 56px; height: 56px; border-radius: 12px; overflow: hidden; flex: none; background: #0b0c12; }
 .onward .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; filter: blur(5px) saturate(.8); transform: scale(1.3); }
+.onward .thumb.clear img { filter: none; transform: none; }
 .onward small { display: block; color: var(--muted); font-weight: 400; font-size: .8rem; }
 .onward .arrow { margin-left: auto; padding-right: 6px; color: var(--muted); }
 
@@ -287,7 +288,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 /* ---------- Fast rad i botten ---------- */
 .tabbar {
   position: fixed; z-index: 7; left: 50%; transform: translateX(-50%);
-  bottom: calc(env(safe-area-inset-bottom, 0px) + 10px); width: min(420px, calc(100% - 24px));
+  bottom: calc(env(safe-area-inset-bottom, 0px) + 10px); width: min(460px, calc(100% - 20px));
   display: flex; justify-content: space-around; padding: 8px 6px 7px;
   background: rgba(16, 18, 27, .94); backdrop-filter: blur(20px) saturate(1.4); -webkit-backdrop-filter: blur(20px) saturate(1.4);
   border: 1px solid rgba(255, 255, 255, .1); border-radius: 24px; box-shadow: 0 12px 40px -12px #000;
@@ -302,7 +303,7 @@ body::after {
   transition: opacity .8s ease;
 }
 body.intro-on::after { opacity: 0; }
-.tab { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 2px 0; text-decoration: none; font-size: .64rem; font-weight: 600; color: var(--muted); transition: color .2s; }
+.tab { flex: 1; min-width: 0; display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 2px 0; text-decoration: none; font-size: .6rem; font-weight: 600; color: var(--muted); transition: color .2s; }
 .tab svg { width: 24px; height: 24px; overflow: visible; }
 .tab[aria-current="page"] { color: var(--text); }
 .tab[aria-current="page"] .ico { stroke: url(#shiftG); }
@@ -448,6 +449,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#" data-view="today"><svg viewBox="0 0 100 100" aria-hidden="true"><rect class="ico" x="12" y="18" width="76" height="64" rx="16" fill="none" stroke="currentColor" stroke-width="8"/><circle class="icofill" cx="50" cy="50" r="13" fill="currentColor"/></svg>Dagens</a>
   <a class="tab" href="#himlen" data-view="sky"><svg viewBox="0 0 100 100" aria-hidden="true"><circle class="ico" cx="50" cy="50" r="40" fill="none" stroke="currentColor" stroke-width="8"/><path id="tabMoon" class="icofill" d="" fill="currentColor"/></svg>Himlen</a>
   <a class="tab" href="#solsystemet" data-view="solar"><svg viewBox="0 0 100 100" aria-hidden="true"><circle class="ico" cx="50" cy="50" r="40" fill="none" stroke="currentColor" stroke-width="7" opacity=".55"/><circle class="icofill" cx="50" cy="50" r="15" fill="currentColor"/><circle class="icofill" cx="84" cy="29" r="9" fill="currentColor"/></svg>Solsystemet</a>
+  <a class="tab" href="#jorden" data-view="earth"><svg viewBox="0 0 100 100" aria-hidden="true"><circle class="ico" cx="50" cy="50" r="40" fill="none" stroke="currentColor" stroke-width="8"/><path class="ico" d="M50 10 C28 30 28 70 50 90 M50 10 C72 30 72 70 50 90 M12 50 H88" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"/></svg>Jorden</a>
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
@@ -475,6 +477,7 @@ const store = {
 };
 
 let index = [];
+let earthIndex = [];   // jordbilderna, nyast först
 let day = null;
 let current = 0, rightCount = 0;
 let loadId = 0;
@@ -506,7 +509,7 @@ const STANDIN = "data:image/svg+xml," + encodeURIComponent(
   '</svg>');
 const calm = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-async function loadDay(date) {
+async function loadDay(date, kind = "space") {
   const id = ++loadId;
   const stage = $("stage");
   stage.classList.remove("ready");
@@ -517,15 +520,18 @@ async function loadDay(date) {
   $("lq").classList.remove("on");
   $("image").removeAttribute("src");
   try {
-    day = await getJson("data/" + date + ".json");
+    day = await getJson((kind === "earth" ? "data/earth/" : "data/") + date + ".json");
   } catch (e) {
-    day = SAMPLE && (!date || SAMPLE.date === date) ? SAMPLE : null;
+    day = kind === "space" && SAMPLE && (!date || SAMPLE.date === date) ? SAMPLE : null;
   }
   if (id !== loadId) return;
+  if (day) day.kind = kind;
   if (!day) {
     stage.classList.remove("intro"); document.body.classList.remove("intro-on");
-    $("title").textContent = "Den här dagen finns inte i arkivet än";
-    $("meta").textContent = ""; $("quiz").hidden = true; $("after").hidden = true; $("onward").hidden = true;
+    $("title").textContent = kind === "earth" ? "Jordbilderna är på väg" : "Den här dagen finns inte i arkivet än";
+    $("title").classList.add("mystery");
+    $("meta").textContent = kind === "earth" ? "Den första visas här när morgonjobbet har kört." : "";
+    $("quiz").hidden = true; $("after").hidden = true; $("onward").hidden = true;
     $("below").classList.add("in");
     return;
   }
@@ -539,8 +545,14 @@ async function loadDay(date) {
 
   renderCaption();
   current = 0; rightCount = 0;
-  $("quiz").hidden = false;
-  if (played[day.date] !== undefined) finish(true); else { $("after").hidden = true; $("onward").hidden = true; renderQuestion(); }
+  if (kind === "earth") {   // jorden: ingen frågesport, bara titta och läsa
+    $("quiz").hidden = true; $("after").hidden = false;
+    document.querySelector('.levels [data-level="nyborjare"]').click();
+    renderOnwardEarth();
+  } else {
+    $("quiz").hidden = false;
+    if (played[day.date] !== undefined) finish(true); else { $("after").hidden = true; $("onward").hidden = true; renderQuestion(); }
+  }
 
   // Helskärm i ett par sekunder, sedan drar sig bilden tillbaka och texten kommer in.
   const settle = () => {
@@ -554,7 +566,7 @@ async function loadDay(date) {
       if (id !== loadId) return;
       if (pre.naturalWidth) frame.style.setProperty("--ratio", pre.naturalWidth / pre.naturalHeight);
       $("image").src = url;
-      $("image").alt = "NASA:s astronomibild för " + day.date;
+      $("image").alt = day.kind === "earth" ? "Satellitbild: " + (day.title_sv || day.title) : "NASA:s astronomibild för " + day.date;
       $("glow").style.backgroundImage = `url("${url}")`;
       $("glow").classList.add("on");
       requestAnimationFrame(() => requestAnimationFrame(() => {
@@ -573,6 +585,12 @@ async function loadDay(date) {
 }
 
 function renderCaption() {
+  if (day.kind === "earth") {
+    $("title").textContent = tidy(day.title_sv || day.title);
+    $("title").classList.remove("mystery");
+    $("meta").innerHTML = esc([day.place, niceDate(day.date)].filter(Boolean).join(" · ")) + `<span class="credit">Bild: ${esc(tidyCredit(day.credit))}</span>`;
+    return;
+  }
   const done = played[day.date] !== undefined;
   const t = $("title");
   t.textContent = done ? tidy(day.title_sv || day.title) : "Vad är det vi ser?";
@@ -676,6 +694,15 @@ $("levelText").addEventListener("click", e => {
 });
 
 /* ---------- Vidare härifrån: nästa ospelade bild och arkivet ---------- */
+function renderOnwardEarth() {
+  const older = earthIndex.filter(d => d.date !== day.date).slice(0, 4);
+  $("onwardLinks").innerHTML = older.map(d =>
+    `<a href="#jorden-${d.date}"><span class="thumb clear"><img src="${esc(d.thumb)}" alt="" loading="lazy"></span>
+      <span>${esc(tidy(d.title))}<small>${esc([d.place, niceDate(d.date)].filter(Boolean).join(" · "))}</small></span><span class="arrow">→</span></a>`).join("") +
+    `<a href="#"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">✦</span>
+      <span>Dagens bild<small>Rymdbilden med trivia</small></span><span class="arrow">→</span></a>`;
+  $("onward").hidden = false;
+}
 function renderOnward() {
   const unplayed = index.filter(d => played[d.date] === undefined && d.date !== day.date);
   const next = unplayed.find(d => d.date < day.date) || unplayed[0];
@@ -722,17 +749,23 @@ $("grid").addEventListener("click", e => { if (e.target.id === "moreMonths") { s
 /* ---------- Navigering: #arkiv eller #ÅÅÅÅ-MM-DD ---------- */
 function route() {
   const h = location.hash.slice(1);
-  const view = h === "arkiv" ? "archive" : h === "himlen" ? "sky" : h === "solsystemet" ? "solar" : "today";
-  $("today").hidden = view !== "today"; $("archive").hidden = view !== "archive"; $("sky").hidden = view !== "sky"; $("solar").hidden = view !== "solar";
+  const earthDate = (h.match(/^jorden-(\d{4}-\d{2}-\d{2})$/) || [])[1];
+  const view = h === "arkiv" ? "archive" : h === "himlen" ? "sky" : h === "solsystemet" ? "solar" : (h === "jorden" || earthDate) ? "earth" : "today";
+  $("today").hidden = view !== "today" && view !== "earth"; $("archive").hidden = view !== "archive"; $("sky").hidden = view !== "sky"; $("solar").hidden = view !== "solar";
   if (view !== "solar") stopSol();
   document.querySelectorAll(".tab").forEach(t => t.dataset.view === view ? t.setAttribute("aria-current", "page") : t.removeAttribute("aria-current"));
   scrollTo(0, 0);
-  if (view !== "today") document.body.classList.remove("intro-on");
+  if (view !== "today" && view !== "earth") document.body.classList.remove("intro-on");
   if (view === "archive") { renderArchive(); return; }
   if (view === "sky") { renderSky(); return; }
   if (view === "solar") { openSol(); return; }
+  if (view === "earth") {
+    const date = earthDate || (earthIndex[0] && earthIndex[0].date);
+    if (!day || day.kind !== "earth" || day.date !== date) loadDay(date, "earth");
+    return;
+  }
   const date = /^\d{4}-\d{2}-\d{2}$/.test(h) ? h : (index[0] && index[0].date);
-  if (!day || day.date !== date) loadDay(date);
+  if (!day || day.kind === "earth" || day.date !== date) loadDay(date);
 }
 addEventListener("hashchange", route);
 
@@ -1122,6 +1155,7 @@ function starBurst(x, y, count = 14) {
 (async function () {
   try { index = await getJson("data/index.json"); }
   catch (e) { index = SAMPLE ? [{ date: SAMPLE.date, title: SAMPLE.title_sv, thumb: SAMPLE.url, media_type: SAMPLE.media_type }] : []; }
+  try { earthIndex = await getJson("data/earth/index.json"); } catch (e) { earthIndex = []; }
   route();
 })();
 </script>
