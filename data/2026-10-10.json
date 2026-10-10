@@ -1,0 +1,49 @@
+{
+  "sample": true,
+  "date": "2026-10-10",
+  "title": "Lunar Farside",
+  "title_sv": "Månens baksida",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&h=1600&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg",
+  "credit": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter",
+  "quiz": [
+    {
+      "q": "Från jorden ser vi alltid samma sida av månen. Varför?",
+      "options": [
+        "Månen snurrar inte alls",
+        "Månen snurrar ett varv på exakt samma tid som den går ett varv runt jorden",
+        "Den andra sidan är alltid mörk och syns därför inte"
+      ],
+      "correct": 1,
+      "fact": "Det kallas bunden rotation. Baksidan får lika mycket solljus som framsidan, den är bara vänd bort från oss."
+    },
+    {
+      "q": "Hur skiljer sig månens baksida från sidan vi ser?",
+      "options": [
+        "Den har fler kratrar och nästan inga stora mörka slätter",
+        "Den är helt slät och saknar kratrar",
+        "Den är täckt av is"
+      ],
+      "correct": 0,
+      "fact": "Skorpan är troligen tjockare på baksidan, så smält sten hade svårare att tränga upp och bilda de mörka haven som framsidan har."
+    },
+    {
+      "q": "Bilden är ett pussel av många foton. Ungefär hur många?",
+      "options": [
+        "150",
+        "1 500",
+        "Över 15 000"
+      ],
+      "correct": 2,
+      "fact": "Rymdsonden Lunar Reconnaissance Orbiter tog bilderna med sin vidvinkelkamera mellan 2009 och 2011. Varje bildpunkt motsvarar ungefär 100 meter på marken."
+    }
+  ],
+  "levels": {
+    "barn": "Visste du att månen har en hemlig sida? Månen är som en kompis som alltid tittar på dig och aldrig vänder sig om. Därför ser vi bara hennes ansikte, aldrig hennes rygg!\n\nMen en rymdsond har flugit runt månen och fotat ryggen åt oss. Den tog över 15 000 bilder och pusslade ihop dem till den här. Titta noga: baksidan är full av gropar. Groparna heter kratrar och blev till när stenar från rymden krockade med månen för länge, länge sedan.",
+    "nyborjare": "Månen vänder alltid samma sida mot jorden. Det beror på bunden rotation: månen snurrar ett varv runt sin egen axel på precis samma tid som den går ett varv runt jorden. Baksidan är alltså inte mörk, den är bara vänd bort från oss.\n\nBilden är en mosaik av över 15 000 foton som rymdsonden Lunar Reconnaissance Orbiter tog mellan 2009 och 2011. Baksidan ser tydligt annorlunda ut än framsidan. Den är tätt täckt av kratrar och saknar nästan helt de stora mörka slätterna, som kallas månhav. Den troligaste förklaringen är att månens skorpa är tjockare på baksidan, så att smält sten från månens inre hade svårare att nå ytan.",
+    "entusiast": "Månens rotation är synkroniserad med dess omloppstid, ett resultat av tidvattenkrafter som tidigt i månens historia bromsade rotationen tills den låstes mot jorden. Därför var baksidan okänd tills rymdsonder kunde fotografera den.\n\nDen här mosaiken är centrerad på baksidan och bygger på över 15 000 bilder från vidvinkelkameran på Lunar Reconnaissance Orbiter, tagna mellan 2009 och 2011 med en upplösning på omkring 100 meter per bildpunkt.\n\nSkillnaden mot framsidan är slående. Framsidan domineras av mörka basaltslätter, månhaven, som bildades när lava fyllde stora nedslagsbäcken. Baksidan är i stället ett ljust, kraftigt kraterbetäckt högland med mycket få hav. Den ledande förklaringen är en asymmetri i skorpans tjocklek: skorpan är tjockare på baksidan, vilket gjorde det svårare för magma att tränga upp till ytan även där stora nedslag hade öppnat bäcken. Varför skorpan är asymmetrisk är fortfarande en öppen forskningsfråga."
+  },
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=480&h=480&fit=clip",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
+}
