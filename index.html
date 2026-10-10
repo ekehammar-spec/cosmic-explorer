@@ -3,91 +3,110 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Cosmic Explorer</title>
+<title>Andromeda Arc</title>
 <meta name="description" content="En ny bild från universum varje dag, med trivia och förklaringar på tre nivåer.">
+<meta name="theme-color" content="#06070b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Andromeda Arc">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20128%20128%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23171b33%22/%3E%3Cstop%20offset%3D%22.7%22%20stop-color%3D%22%2307090d%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22128%22%20height%3D%22128%22%20rx%3D%2228%22%20fill%3D%22url%28%23bg%29%22/%3E%3Cg%20transform%3D%22translate%2815%2010%29%20scale%28.98%29%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%224%22%20y1%3D%2220%22%20x2%3D%2298%22%20y2%3D%2292%22%20gradientUnits%3D%22userSpaceOnUse%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23b6a3ff%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233fdcff%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath%20d%3D%22M15%2090%20L50%2012%20L70%2054%22%20fill%3D%22none%22%20stroke%3D%22url%28%23g%29%22%20stroke-width%3D%228.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22/%3E%3Cpath%20d%3D%22M4%2051%20Q44%2047%2082%2073%20L75%2082%20Q42%2057%204%2051Z%22%20fill%3D%22url%28%23g%29%22/%3E%3Cpath%20d%3D%22M82%2061%20Q84.21%2074.6%2099%2078%20Q84.21%2081.4%2082%2095%20Q79.79%2081.4%2065%2078%20Q79.79%2074.6%2082%2061Z%22%20fill%3D%22url%28%23g%29%22/%3E%3C/g%3E%3C/svg%3E">
+<link rel="apple-touch-icon" href="icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Nunito:wght@400;600;700&display=swap">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600&family=Figtree:wght@400;500;600&family=Orbitron:wght@600;700&display=swap">
 
 <style>
-/* Layout: bilden är scenen. Den fyller bredden överst och färgar hela rummet;
-   allt annat ligger i en smal, lugn kolumn under och kommer in först när bilden är klar. */
+/* Layout: bilden är allt. Den öppnar i helskärm, rör sig långsamt och drar sig sedan
+   tillbaka till två tredjedelar av skärmen. Texten är liten, centrerad och kommer sist. */
 :root {
   color-scheme: dark;
-  --night: #100e22;
-  --dusk: #1c1838;
-  --dusk-hi: #2a2552;
-  --line: #3a3468;
-  --cream: #f3ead9;
-  --mist: #a9a2cf;
-  --lamp: #ffc477;
-  --good: #8fe0b0;
-  --bad: #ff9a9a;
-  --display: "Fraunces", Georgia, serif;
-  --body: "Nunito", "Segoe UI", system-ui, sans-serif;
-  --radius: 18px;
+  --bg: #06070b;
+  --surface: rgba(255, 255, 255, .06);
+  --surface-hi: rgba(255, 255, 255, .11);
+  --hairline: rgba(255, 255, 255, .08);
+  --text: #f2f0ea;
+  --muted: #9b9ba8;
+  --accent: #6cd3ff;
+  --shift: linear-gradient(100deg, #b6a3ff, #3fdcff);   /* logons färgskiftning */
+  --good: #7ddba6;
+  --bad: #ff8f8f;
+  --display: "Bricolage Grotesque", "Figtree", system-ui, sans-serif;
+  --body: "Figtree", -apple-system, "Segoe UI", system-ui, sans-serif;
   --ease: cubic-bezier(.2, .7, .2, 1);
+  --gutter: 20px;
 }
-* { box-sizing: border-box; }
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 html, body { margin: 0; }
 body {
-  background: var(--night);
-  color: var(--cream);
+  background: var(--bg);
+  color: var(--text);
   font-family: var(--body);
-  font-size: 17px;
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 1.55;
   min-height: 100vh;
   overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
 }
 [hidden] { display: none !important; }
+a { color: inherit; }
 
 /* Rummets ljus: bilden själv, kraftigt suddad, bakom allt */
 #glow {
   position: fixed; inset: -20%; z-index: 0; pointer-events: none;
   background-size: cover; background-position: center;
-  filter: blur(90px) saturate(1.4); opacity: 0; transition: opacity 3s ease;
+  filter: blur(90px) saturate(1.5); opacity: 0; transition: opacity 3s ease;
 }
-#glow.on { opacity: .33; }
+#glow.on { opacity: .26; }
 #stars { position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; }
+main, footer { position: relative; z-index: 1; }
 
-.bar, main, footer { position: relative; z-index: 1; }
+/* ---------- Topprad, ligger ovanpå bilden ---------- */
 .bar {
-  max-width: 1100px; margin: 0 auto; padding: 18px 16px 10px;
-  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 18px;
+  position: absolute; top: 0; left: 0; right: 0; z-index: 4;
+  padding: calc(env(safe-area-inset-top, 0px) + 14px) var(--gutter) 14px;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
 }
-h1 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 5vw, 1.9rem); margin: 0; letter-spacing: -0.01em; }
-h1 em { color: var(--lamp); font-weight: 400; }
-nav { display: flex; gap: 6px; }
-nav button { background: transparent; border-color: transparent; color: var(--mist); padding: 6px 14px; }
-nav button[aria-current="page"] { color: var(--cream); background: var(--dusk); border-color: var(--line); }
-.score { font-weight: 700; font-variant-numeric: tabular-nums; color: var(--mist); }
-.score b { color: var(--lamp); display: inline-block; }
-.score b.bump { animation: bump .5s ease; }
+.brand { display: flex; align-items: center; gap: 8px; text-decoration: none; min-width: 0; }
+.brand svg { width: 26px; height: 26px; flex: none; filter: drop-shadow(0 1px 6px #0009); }
+.brand span {
+  font: 700 .8rem "Orbitron", var(--display); letter-spacing: .1em; text-transform: uppercase; white-space: nowrap;
+  background: var(--shift); -webkit-background-clip: text; background-clip: text; color: transparent;
+  filter: drop-shadow(0 1px 6px #0009);
+}
+.bar-right { display: flex; align-items: center; gap: 8px; }
+.chip {
+  font: 600 .86rem var(--body); color: var(--text); text-decoration: none;
+  background: rgba(10, 11, 16, .45); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--hairline); border-radius: 999px; padding: 7px 14px; cursor: pointer;
+  font-variant-numeric: tabular-nums;
+}
+.chip b { color: var(--accent); font-weight: 600; display: inline-block; }
+.chip b.bump { animation: bump .5s ease; }
 @keyframes bump { 40% { transform: scale(1.5); } }
 
-button {
-  font: inherit; font-weight: 700; color: var(--cream);
-  background: var(--dusk-hi); border: 1px solid var(--line); border-radius: 12px;
-  padding: 9px 16px; cursor: pointer; transition: transform .15s, background .2s, border-color .2s;
-}
-button:hover:not(:disabled) { border-color: var(--lamp); }
-button:focus-visible, a:focus-visible { outline: 2px solid var(--lamp); outline-offset: 2px; }
-button:disabled { cursor: default; opacity: .8; }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 
 /* ---------- Scenen ---------- */
-.stage { padding: 8px 16px 0; display: flex; justify-content: center; }
-.frame {
-  position: relative; display: block; padding: 0; border: 0; border-radius: var(--radius); overflow: hidden;
-  width: min(100%, 1100px, calc(78vh * var(--ratio, 1.5)));
-  aspect-ratio: var(--ratio, 1.5);
-  background: var(--dusk); cursor: zoom-in;
-  box-shadow: 0 30px 90px -30px #000;
-  transition: aspect-ratio .6s var(--ease), width .6s var(--ease);
+.stage {
+  position: relative; display: flex; justify-content: center; overflow: hidden;
+  height: 66vh; height: 66svh; transition: height 2s var(--ease);
 }
-.frame:hover:not(:disabled) { transform: none; }
+.stage.intro { height: 100vh; height: 100svh; }
+/* Bilden tonar ut nedåt i rummets ljus, utan skarv */
+.stage::before { content: ""; position: absolute; left: 0; right: 0; z-index: 2; pointer-events: none; }
+.stage::before { top: 0; height: 120px; background: linear-gradient(#000a, transparent); }
+.frame {
+  position: relative; display: block; padding: 0; border: 0; overflow: hidden; background: transparent;
+  -webkit-mask-image: linear-gradient(#000 72%, transparent); mask-image: linear-gradient(#000 72%, transparent);
+  height: 100%; aspect-ratio: var(--ratio, 1); max-width: 100%;
+  cursor: zoom-in;
+}
 /* 1. Skimmer medan vi väntar */
 .frame::before {
   content: ""; position: absolute; inset: 0;
-  background: linear-gradient(100deg, transparent 30%, #ffffff12 50%, transparent 70%);
+  background: linear-gradient(100deg, transparent 30%, #ffffff10 50%, transparent 70%);
   background-size: 250% 100%; animation: shimmer 2.2s linear infinite;
 }
 @keyframes shimmer { from { background-position: 120% 0; } to { background-position: -130% 0; } }
@@ -97,7 +116,12 @@ button:disabled { cursor: default; opacity: .8; }
   filter: blur(26px); opacity: 0; transition: opacity 1s ease;
 }
 .frame .lq.on { opacity: 1; }
-/* 3. Skärpan ställs in */
+/* 3. Skärpan ställs in, och bilden börjar röra sig långsamt */
+.frame .kb { position: absolute; inset: 0; }
+.stage.ready .frame .kb { animation: drift 44s ease-in-out infinite alternate; }
+.stage.ready .frame img { animation: pan 70s ease-in-out infinite; }
+@keyframes drift { from { transform: scale(1); } to { transform: scale(1.12); } }
+@keyframes pan { 0%, 100% { object-position: 50% 50%; } 25% { object-position: 64% 50%; } 75% { object-position: 36% 50%; } }
 .frame img {
   position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;
   opacity: 0; filter: blur(30px) brightness(1.25); transform: scale(1.07);
@@ -108,77 +132,98 @@ button:disabled { cursor: default; opacity: .8; }
 
 /* ---------- Kolumnen under ---------- */
 .below {
-  max-width: 720px; margin: 0 auto; padding: 22px 16px 48px;
-  display: flex; flex-direction: column; gap: 20px;
+  position: relative; z-index: 3;
+  max-width: 640px; margin: 0 auto; padding: 6px var(--gutter) 56px;
+  display: flex; flex-direction: column; gap: 18px;
   opacity: 0; transform: translateY(14px);
-  transition: opacity 1s ease .9s, transform 1.2s var(--ease) .9s;
+  transition: opacity 1s ease .5s, transform 1.2s var(--ease) .5s;
 }
 .below.in { opacity: 1; transform: none; }
 .caption { text-align: center; }
-.caption h2 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 5vw, 2.1rem); margin: 0; text-wrap: balance; line-height: 1.2; }
-.caption h2.mystery { font-style: italic; font-weight: 400; color: var(--mist); }
-.caption p { margin: 6px 0 0; color: var(--mist); font-size: .9rem; }
-.caption a { color: var(--lamp); }
+.caption h2 {
+  font-family: var(--display); font-weight: 600; font-size: clamp(1.25rem, 4.6vw, 1.6rem);
+  letter-spacing: -0.015em; line-height: 1.2; margin: 0; text-wrap: balance;
+}
+.caption h2.mystery { color: var(--muted); font-weight: 500; }
+.caption p { margin: 6px 0 0; color: var(--muted); font-size: .78rem; line-height: 1.4; }
+.caption p a { color: var(--text); }
 
 .card {
-  background: color-mix(in srgb, var(--dusk) 82%, transparent);
-  backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
-  border: 1px solid var(--line); border-radius: var(--radius); padding: 22px;
+  background: rgba(18, 19, 26, .62);
+  backdrop-filter: blur(22px) saturate(1.3); -webkit-backdrop-filter: blur(22px) saturate(1.3);
+  border: 1px solid var(--hairline); border-radius: 24px; padding: 20px;
 }
-.card h3 { font-family: var(--display); font-weight: 600; font-size: 1.3rem; margin: 2px 0 0; text-wrap: balance; line-height: 1.3; }
-.eyebrow { color: var(--lamp); font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
-.options { display: flex; flex-direction: column; gap: 10px; margin-top: 16px; }
-.options button { text-align: left; display: flex; gap: 12px; align-items: baseline; padding: 12px 16px; }
-.options button:hover:not(:disabled) { transform: translateX(3px); }
-.options button i { font-style: normal; color: var(--lamp); font-family: var(--display); }
-.options button.right { background: #1f4a3a; border-color: var(--good); animation: pop .5s ease; }
-.options button.wrong { background: #4a2233; border-color: var(--bad); animation: shake .4s ease; }
-@keyframes pop { 40% { transform: scale(1.04); } }
+.card h3 { font-family: var(--display); font-weight: 600; font-size: 1.12rem; letter-spacing: -0.01em; line-height: 1.3; margin: 6px 0 0; text-wrap: balance; }
+.eyebrow { color: var(--accent); font-size: .68rem; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; }
+.options { display: flex; flex-direction: column; gap: 10px; margin-top: 18px; }
+.options button, .levels button, .next {
+  background: var(--surface); border: 1px solid transparent; border-radius: 16px;
+  transition: background .2s, border-color .2s, transform .15s;
+}
+.options button { text-align: left; display: flex; gap: 14px; align-items: center; padding: 14px 16px; font-weight: 500; line-height: 1.35; }
+.options button:hover:not(:disabled), .levels button:hover, .next:hover { background: var(--surface-hi); }
+.options button:active:not(:disabled) { transform: scale(.985); }
+.options button i {
+  font-style: normal; font: 600 .8rem var(--body); color: var(--muted);
+  flex: none; width: 28px; height: 28px; border-radius: 50%; background: var(--surface-hi);
+  display: grid; place-items: center;
+}
+.options button:disabled { cursor: default; }
+.options button:disabled:not(.right):not(.wrong) { opacity: .5; }
+.options button.right { background: rgba(125, 219, 166, .16); border-color: var(--good); animation: pop .5s ease; }
+.options button.right i { background: var(--good); color: #06110b; }
+.options button.wrong { background: rgba(255, 143, 143, .13); border-color: var(--bad); animation: shake .4s ease; }
+.options button.wrong i { background: var(--bad); color: #1a0606; }
+@keyframes pop { 40% { transform: scale(1.03); } }
 @keyframes shake { 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
-.fact { margin-top: 14px; padding: 12px 16px; border-radius: 12px; background: #0c0a1c99; color: var(--mist); }
-.fact strong { color: var(--cream); }
-.next { margin-top: 16px; }
-.levels { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-top: 16px; }
-.levels button[aria-pressed="true"] { border-color: var(--lamp); background: #3a3270; }
-#levelText { margin-top: 18px; max-width: 65ch; }
+.fact { margin-top: 16px; color: var(--muted); }
+.fact strong { color: var(--text); font-weight: 600; }
+.next { margin-top: 18px; padding: 13px 22px; border-radius: 999px; font-weight: 600; background: var(--shift); color: #06080c; }
+.next:hover { background: var(--shift); filter: brightness(1.1); }
+.levels { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; margin-top: 18px; }
+.levels button { padding: 13px 14px; font-weight: 600; font-size: .95rem; }
+.levels button[aria-pressed="true"] { background: var(--shift); color: #06080c; }
+#levelText { margin-top: 20px; max-width: 62ch; }
 #levelText p { margin: 0 0 .9em; animation: rise .6s var(--ease) both; }
 #levelText p:last-child { margin-bottom: 0; }
 @keyframes rise { from { opacity: 0; transform: translateY(8px); } }
-.muted { color: var(--mist); }
+.muted { color: var(--muted); }
 
 /* ---------- Arkiv ---------- */
-#archive { max-width: 1100px; margin: 0 auto; padding: 16px 16px 48px; }
-#archive > p { color: var(--mist); max-width: 60ch; margin: 0 0 18px; }
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px; }
-.tile {
-  position: relative; display: block; aspect-ratio: 1; border-radius: 14px; overflow: hidden;
-  background: var(--dusk); border: 1px solid var(--line); color: var(--cream); text-decoration: none;
-}
+#archive { max-width: 1100px; margin: 0 auto; padding: calc(env(safe-area-inset-top, 0px) + 84px) var(--gutter) 56px; }
+#archive h2 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 5vw, 2rem); letter-spacing: -0.02em; line-height: 1.1; margin: 0; }
+#archive > p { color: var(--muted); max-width: 52ch; margin: 10px 0 24px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.tile { position: relative; display: block; aspect-ratio: 1; border-radius: 18px; overflow: hidden; background: #0b0c12; text-decoration: none; }
 .tile img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .6s var(--ease); }
 .tile:hover img { transform: scale(1.06); }
-.tile span {
-  position: absolute; inset: auto 0 0 0; padding: 26px 10px 8px; font-size: .82rem; line-height: 1.3;
-  background: linear-gradient(transparent, #000c);
-}
-.tile small { display: block; color: var(--mist); font-variant-numeric: tabular-nums; }
-.tile.new img { filter: blur(7px) saturate(.7); transform: scale(1.15); }
+.tile span { position: absolute; inset: auto 0 0 0; padding: 30px 12px 10px; font-size: .84rem; font-weight: 500; line-height: 1.25; background: linear-gradient(transparent, #000d); }
+.tile small { display: block; color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; margin-top: 2px; }
+.tile.new img { filter: blur(9px) saturate(.7); transform: scale(1.2); }
 
-/* ---------- Helskärm ---------- */
+/* ---------- Helskärm: bara bilden ---------- */
 #lightbox {
   position: fixed; inset: 0; z-index: 10; background: #000; display: flex; align-items: center; justify-content: center;
-  cursor: zoom-out; animation: fade .4s ease;
+  cursor: zoom-out; animation: fade .35s ease;
 }
 #lightbox img { max-width: 100%; max-height: 100%; object-fit: contain; }
-#lightbox a { position: absolute; bottom: max(16px, env(safe-area-inset-bottom)); color: var(--mist); font-size: .9rem; background: #000a; padding: 6px 14px; border-radius: 999px; }
 @keyframes fade { from { opacity: 0; } }
 
-.burst { position: fixed; z-index: 5; pointer-events: none; color: var(--lamp); font-size: 20px; animation: fly 900ms ease-out forwards; }
+.burst { position: fixed; z-index: 5; pointer-events: none; color: var(--accent); font-size: 20px; animation: fly 900ms ease-out forwards; }
 @keyframes fly { to { transform: translate(var(--dx), var(--dy)) rotate(200deg) scale(.3); opacity: 0; } }
-footer { color: var(--mist); font-size: .85rem; text-align: center; padding: 0 16px 40px; }
-footer a { color: var(--lamp); }
+footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(--gutter) calc(env(safe-area-inset-bottom, 0px) + 36px); }
 
+@media (min-width: 900px) {
+  :root { --gutter: 32px; }
+  .frame {
+    -webkit-mask-image: linear-gradient(#000 72%, transparent), linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent);
+    mask-image: linear-gradient(#000 72%, transparent), linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent);
+    -webkit-mask-composite: source-in; mask-composite: intersect;
+  }
+}
 @media (prefers-reduced-motion: reduce) {
   *, *::before { animation: none !important; transition-duration: .01s !important; transition-delay: 0s !important; }
+  .stage.intro { height: 66vh; height: 66svh; }
 }
 </style>
 </head>
@@ -186,21 +231,20 @@ footer a { color: var(--lamp); }
 <div id="glow"></div>
 <canvas id="stars"></canvas>
 
-<div class="bar">
-  <h1>Cosmic <em>Explorer</em></h1>
-  <nav>
-    <button id="navToday" aria-current="page">Dagens bild</button>
-    <button id="navArchive">Arkiv</button>
-  </nav>
-  <div class="score">Poäng <b id="score">0</b></div>
-</div>
+<header class="bar">
+  <a class="brand" href="#" aria-label="Andromeda Arc"><svg viewBox="-2 2 104 100" aria-hidden="true"><defs><linearGradient id="shiftG" x1="4" y1="20" x2="98" y2="92" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b6a3ff"/><stop offset="1" stop-color="#3fdcff"/></linearGradient></defs><path d="M15 90 L50 12 L70 54" fill="none" stroke="url(#shiftG)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 51 Q44 47 82 73 L75 82 Q42 57 4 51Z" fill="url(#shiftG)"/><path d="M82 61 Q84.21 74.6 99 78 Q84.21 81.4 82 95 Q79.79 81.4 65 78 Q79.79 74.6 82 61Z" fill="url(#shiftG)"/></svg><span>Andromeda Arc</span></a>
+  <div class="bar-right">
+    <a class="chip" id="navLink" href="#arkiv">Arkiv</a>
+    <span class="chip" aria-label="Poäng"><b id="score">0</b> p</span>
+  </div>
+</header>
 
 <main>
   <section id="today">
     <div class="stage" id="stage">
       <button class="frame" id="frame" aria-label="Visa bilden i helskärm">
         <span class="lq" id="lq"></span>
-        <img id="image" alt="">
+        <span class="kb"><img id="image" alt=""></span>
       </button>
     </div>
 
@@ -214,9 +258,9 @@ footer a { color: var(--lamp); }
         <div class="eyebrow">Lär dig mer</div>
         <h3>Hur vill du läsa om bilden?</h3>
         <div class="levels">
-          <button data-level="barn" aria-pressed="false">För rymdhjältar (Barn)</button>
+          <button data-level="barn" aria-pressed="false">För rymdhjältar</button>
           <button data-level="nyborjare" aria-pressed="false">Nybörjare</button>
-          <button data-level="entusiast" aria-pressed="false">Djupdykning (Entusiast)</button>
+          <button data-level="entusiast" aria-pressed="false">Djupdykning</button>
         </div>
         <div id="levelText"><p class="muted">Välj en nivå.</p></div>
       </section>
@@ -224,24 +268,27 @@ footer a { color: var(--lamp); }
   </section>
 
   <section id="archive" hidden>
-    <p>Varje dag läggs en ny bild till. Bilder du inte har spelat är suddiga tills du har klarat trivian.</p>
+    <h2>Arkiv</h2>
+    <p>En ny bild varje dag. De du inte har spelat är suddiga tills du har klarat trivian.</p>
     <div class="grid" id="grid"></div>
   </section>
 </main>
 
-<footer>Bilder från <a href="https://science.nasa.gov/apod/" target="_blank" rel="noopener">NASA Astronomy Picture of the Day</a>. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning.</footer>
+<footer>Bilder från NASA Astronomy Picture of the Day. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning.</footer>
 
-<div id="lightbox" hidden><img alt=""><a target="_blank" rel="noopener">Öppna originalet hos NASA</a></div>
+<div id="lightbox" hidden><img alt=""></div>
+
 
 <script>
 /* Den här sidan innehåller inga API-nycklar. Allt innehåll läses från färdiga
    filer i data/, som skapas varje morgon av scripts/generate.mjs. */
 
 // Exempeldag som används om data/ inte går att läsa (t.ex. när filen öppnas med dubbelklick).
-const SAMPLE = {"sample": true, "date": "2026-10-10", "title": "Lunar Farside", "title_sv": "Månens baksida", "media_type": "image", "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&h=1600&fit=clip", "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg", "credit": "NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter", "quiz": [{"q": "Från jorden ser vi alltid samma sida av månen. Varför?", "options": ["Månen snurrar inte alls", "Månen snurrar ett varv på exakt samma tid som den går ett varv runt jorden", "Den andra sidan är alltid mörk och syns därför inte"], "correct": 1, "fact": "Det kallas bunden rotation. Baksidan får lika mycket solljus som framsidan, den är bara vänd bort från oss."}, {"q": "Hur skiljer sig månens baksida från sidan vi ser?", "options": ["Den har fler kratrar och nästan inga stora mörka slätter", "Den är helt slät och saknar kratrar", "Den är täckt av is"], "correct": 0, "fact": "Skorpan är troligen tjockare på baksidan, så smält sten hade svårare att tränga upp och bilda de mörka haven som framsidan har."}, {"q": "Bilden är ett pussel av många foton. Ungefär hur många?", "options": ["150", "1 500", "Över 15 000"], "correct": 2, "fact": "Rymdsonden Lunar Reconnaissance Orbiter tog bilderna med sin vidvinkelkamera mellan 2009 och 2011. Varje bildpunkt motsvarar ungefär 100 meter på marken."}], "levels": {"barn": "Visste du att månen har en hemlig sida? Månen är som en kompis som alltid tittar på dig och aldrig vänder sig om. Därför ser vi bara hennes ansikte, aldrig hennes rygg!\n\nMen en rymdsond har flugit runt månen och fotat ryggen åt oss. Den tog över 15 000 bilder och pusslade ihop dem till den här. Titta noga: baksidan är full av gropar. Groparna heter kratrar och blev till när stenar från rymden krockade med månen för länge, länge sedan.", "nyborjare": "Månen vänder alltid samma sida mot jorden. Det beror på bunden rotation: månen snurrar ett varv runt sin egen axel på precis samma tid som den går ett varv runt jorden. Baksidan är alltså inte mörk, den är bara vänd bort från oss.\n\nBilden är en mosaik av över 15 000 foton som rymdsonden Lunar Reconnaissance Orbiter tog mellan 2009 och 2011. Baksidan ser tydligt annorlunda ut än framsidan. Den är tätt täckt av kratrar och saknar nästan helt de stora mörka slätterna, som kallas månhav. Den troligaste förklaringen är att månens skorpa är tjockare på baksidan, så att smält sten från månens inre hade svårare att nå ytan.", "entusiast": "Månens rotation är synkroniserad med dess omloppstid, ett resultat av tidvattenkrafter som tidigt i månens historia bromsade rotationen tills den låstes mot jorden. Därför var baksidan okänd tills rymdsonder kunde fotografera den.\n\nDen här mosaiken är centrerad på baksidan och bygger på över 15 000 bilder från vidvinkelkameran på Lunar Reconnaissance Orbiter, tagna mellan 2009 och 2011 med en upplösning på omkring 100 meter per bildpunkt.\n\nSkillnaden mot framsidan är slående. Framsidan domineras av mörka basaltslätter, månhaven, som bildades när lava fyllde stora nedslagsbäcken. Baksidan är i stället ett ljust, kraftigt kraterbetäckt högland med mycket få hav. Den ledande förklaringen är en asymmetri i skorpans tjocklek: skorpan är tjockare på baksidan, vilket gjorde det svårare för magma att tränga upp till ytan även där stora nedslag hade öppnat bäcken. Varför skorpan är asymmetrisk är fortfarande en öppen forskningsfråga."}, "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=480&h=480&fit=clip", "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"};
+const SAMPLE = {"sample":true,"date":"2026-10-10","title":"Lunar Farside","title_sv":"Månens baksida","media_type":"image","url":"https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&h=1600&fit=clip","hdurl":"https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg","credit":"NASA / GSFC / Arizona State Univ. / Lunar Reconnaissance Orbiter","quiz":[{"q":"Från jorden ser vi alltid samma sida av månen. Varför?","options":["Månen snurrar inte alls","Månen snurrar ett varv på exakt samma tid som den går ett varv runt jorden","Den andra sidan är alltid mörk och syns därför inte"],"correct":1,"fact":"Det kallas bunden rotation. Baksidan får lika mycket solljus som framsidan, den är bara vänd bort från oss."},{"q":"Hur skiljer sig månens baksida från sidan vi ser?","options":["Den har fler kratrar och nästan inga stora mörka slätter","Den är helt slät och saknar kratrar","Den är täckt av is"],"correct":0,"fact":"Skorpan är troligen tjockare på baksidan, så smält sten hade svårare att tränga upp och bilda de mörka haven som framsidan har."},{"q":"Bilden är ett pussel av många foton. Ungefär hur många?","options":["150","1 500","Över 15 000"],"correct":2,"fact":"Rymdsonden Lunar Reconnaissance Orbiter tog bilderna med sin vidvinkelkamera mellan 2009 och 2011. Varje bildpunkt motsvarar ungefär 100 meter på marken."}],"levels":{"barn":"Visste du att månen har en hemlig sida? Månen är som en kompis som alltid tittar på dig och aldrig vänder sig om. Därför ser vi bara hennes ansikte, aldrig hennes rygg!\n\nMen en rymdsond har flugit runt månen och fotat ryggen åt oss. Den tog över 15 000 bilder och pusslade ihop dem till den här. Titta noga: baksidan är full av gropar. Groparna heter kratrar och blev till när stenar från rymden krockade med månen för länge, länge sedan.","nyborjare":"Månen vänder alltid samma sida mot jorden. Det beror på bunden rotation: månen snurrar ett varv runt sin egen axel på precis samma tid som den går ett varv runt jorden. Baksidan är alltså inte mörk, den är bara vänd bort från oss.\n\nBilden är en mosaik av över 15 000 foton som rymdsonden Lunar Reconnaissance Orbiter tog mellan 2009 och 2011. Baksidan ser tydligt annorlunda ut än framsidan. Den är tätt täckt av kratrar och saknar nästan helt de stora mörka slätterna, som kallas månhav. Den troligaste förklaringen är att månens skorpa är tjockare på baksidan, så att smält sten från månens inre hade svårare att nå ytan.","entusiast":"Månens rotation är synkroniserad med dess omloppstid, ett resultat av tidvattenkrafter som tidigt i månens historia bromsade rotationen tills den låstes mot jorden. Därför var baksidan okänd tills rymdsonder kunde fotografera den.\n\nDen här mosaiken är centrerad på baksidan och bygger på över 15 000 bilder från vidvinkelkameran på Lunar Reconnaissance Orbiter, tagna mellan 2009 och 2011 med en upplösning på omkring 100 meter per bildpunkt.\n\nSkillnaden mot framsidan är slående. Framsidan domineras av mörka basaltslätter, månhaven, som bildades när lava fyllde stora nedslagsbäcken. Baksidan är i stället ett ljust, kraftigt kraterbetäckt högland med mycket få hav. Den ledande förklaringen är en asymmetri i skorpans tjocklek: skorpan är tjockare på baksidan, vilket gjorde det svårare för magma att tränga upp till ytan även där stora nedslag hade öppnat bäcken. Varför skorpan är asymmetrisk är fortfarande en öppen forskningsfråga."},"thumb":"https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=480&h=480&fit=clip","link":"https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"};
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const niceDate = d => new Date(d + "T12:00:00").toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" });
 const store = {
   get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
@@ -269,9 +316,21 @@ function addPoints(n) {
 }
 
 /* ---------- Ladda en dag ---------- */
+// Ersättningsbild som bara används när exempeldagen visas utan nätåtkomst (t.ex. i en förhandsvisning).
+const STANDIN = "data:image/svg+xml," + encodeURIComponent(
+  '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200"><rect width="1200" height="1200" fill="#000"/>' +
+  '<defs><radialGradient id="g" cx="38%" cy="34%" r="75%"><stop offset="0" stop-color="#d9d9d9"/><stop offset=".6" stop-color="#8d8d8d"/><stop offset="1" stop-color="#3d3d3d"/></radialGradient></defs>' +
+  '<circle cx="600" cy="600" r="585" fill="url(#g)"/>' +
+  [[420,380,70],[700,300,40],[820,560,90],[520,720,55],[330,640,34],[680,860,62],[900,800,30],[560,480,26],[760,700,22],[440,900,40]]
+    .map(c => `<circle cx="${c[0]}" cy="${c[1]}" r="${c[2]}" fill="#000" opacity=".13"/><circle cx="${c[0]+c[2]*.12}" cy="${c[1]+c[2]*.12}" r="${c[2]*.86}" fill="#fff" opacity=".07"/>`).join("") +
+  '</svg>');
+const calm = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
 async function loadDay(date) {
   const id = ++loadId;
-  $("stage").classList.remove("ready");
+  const stage = $("stage");
+  stage.classList.remove("ready");
+  stage.classList.toggle("intro", !calm);   // bilden öppnar i helskärm
   $("below").classList.remove("in");
   $("glow").classList.remove("on");
   $("lq").classList.remove("on");
@@ -283,6 +342,7 @@ async function loadDay(date) {
   }
   if (id !== loadId) return;
   if (!day) {
+    stage.classList.remove("intro");
     $("title").textContent = "Den här dagen finns inte i arkivet än";
     $("meta").textContent = ""; $("quiz").hidden = true; $("after").hidden = true;
     $("below").classList.add("in");
@@ -301,28 +361,34 @@ async function loadDay(date) {
   $("quiz").hidden = false;
   if (played[day.date] !== undefined) finish(true); else { $("after").hidden = true; renderQuestion(); }
 
-  // Bilden avkodas färdigt i bakgrunden innan den visas, så att skärpan kan komma mjukt.
-  const reveal = () => {
+  // Helskärm i ett par sekunder, sedan drar sig bilden tillbaka och texten kommer in.
+  const settle = () => {
     if (id !== loadId) return;
-    $("stage").classList.add("ready");
+    stage.classList.remove("intro");
     $("below").classList.add("in");
   };
-  if (!src) { reveal(); return; }
-  const pre = new Image();
-  pre.src = src;
-  const show = () => {
-    if (id !== loadId) return;
-    if (pre.naturalWidth) frame.style.setProperty("--ratio", pre.naturalWidth / pre.naturalHeight);
-    $("image").src = src;
-    $("image").alt = "NASA:s astronomibild för " + day.date;
-    $("glow").style.backgroundImage = `url("${src}")`;
-    $("glow").classList.add("on");
-    requestAnimationFrame(() => requestAnimationFrame(reveal));
+  const load = (url, onFail) => {
+    const pre = new Image();
+    const show = () => {
+      if (id !== loadId) return;
+      if (pre.naturalWidth) frame.style.setProperty("--ratio", pre.naturalWidth / pre.naturalHeight);
+      $("image").src = url;
+      $("image").alt = "NASA:s astronomibild för " + day.date;
+      $("glow").style.backgroundImage = `url("${url}")`;
+      $("glow").classList.add("on");
+      requestAnimationFrame(() => requestAnimationFrame(() => {
+        if (id !== loadId) return;
+        stage.classList.add("ready");
+        setTimeout(settle, calm ? 0 : 3200);
+      }));
+    };
+    pre.onload = () => (pre.decode ? pre.decode().then(show, show) : show());
+    pre.onerror = onFail;
+    pre.src = url;
   };
-  (pre.decode ? pre.decode() : Promise.reject()).then(show, () => {
-    if (pre.complete && pre.naturalWidth) show();
-    else { pre.onload = show; pre.onerror = () => { $("meta").textContent = "Bilden gick inte att ladda. " + day.date; reveal(); }; }
-  });
+  const fail = () => { if (id === loadId) { $("meta").textContent = "Bilden gick inte att ladda."; settle(); } };
+  if (!src) { settle(); return; }
+  load(src, () => (day === SAMPLE ? load(STANDIN, fail) : fail()));
 }
 
 function renderCaption() {
@@ -331,7 +397,7 @@ function renderCaption() {
   t.textContent = done ? (day.title_sv || day.title) : "Vad är det vi ser?";
   t.classList.toggle("mystery", !done);
   const video = day.media_type !== "image" ? ` · <a href="${esc(day.url)}" target="_blank" rel="noopener">Öppna videon</a>` : "";
-  $("meta").innerHTML = esc(day.date) + (done ? " · " + esc(day.credit || "NASA") : "") + video;
+  $("meta").innerHTML = esc(niceDate(day.date)) + (done ? " · Bild: " + esc(day.credit || "NASA") : "") + video;
 }
 
 /* ---------- Quiz ---------- */
@@ -357,7 +423,7 @@ function answer(i, e) {
   else buttons[i].classList.add("wrong");
   const last = current === day.quiz.length - 1;
   $("feedback").innerHTML =
-    `<div class="fact"><strong>${right ? "Rätt! +10 poäng." : "Inte riktigt."}</strong> ${esc(q.fact)}</div>
+    `<p class="fact"><strong>${right ? "Rätt! +10 poäng." : "Inte riktigt."}</strong> ${esc(q.fact)}</p>
      <button class="next" id="nextBtn">${last ? "Visa vad bilden föreställer" : "Nästa fråga"}</button>`;
   $("nextBtn").addEventListener("click", () => {
     if (!last) { current++; renderQuestion(); return; }
@@ -373,7 +439,7 @@ function finish(alreadyPlayed) {
   $("quiz").innerHTML =
     `<div class="eyebrow">${alreadyPlayed ? "Redan spelad" : "Klart"}</div>
      <h3>${r} av ${n} rätt</h3>
-     <p class="muted" style="margin:6px 0 0">${alreadyPlayed ? "Du har redan samlat poängen för den här bilden." : cheer}</p>`;
+     <p class="muted" style="margin:8px 0 0">${alreadyPlayed ? "Du har redan samlat poängen för den här bilden." : cheer}</p>`;
   renderCaption();
   $("levelText").innerHTML = '<p class="muted">Välj en nivå.</p>';
   document.querySelectorAll(".levels button").forEach(b => b.setAttribute("aria-pressed", "false"));
@@ -393,7 +459,7 @@ function renderArchive() {
     const done = played[d.date] !== undefined;
     return `<a class="tile ${done ? "" : "new"}" href="#${d.date}">
       <img src="${esc(d.thumb)}" alt="" loading="lazy">
-      <span>${done ? esc(d.title) : "Ospelad"}<small>${d.date}</small></span></a>`;
+      <span>${done ? esc(d.title) : "Ospelad"}<small>${esc(niceDate(d.date))}</small></span></a>`;
   }).join("");
 }
 
@@ -402,27 +468,22 @@ function route() {
   const h = location.hash.slice(1);
   const archive = h === "arkiv";
   $("today").hidden = archive; $("archive").hidden = !archive;
-  $("navArchive").toggleAttribute("aria-current", archive);
-  $("navToday").toggleAttribute("aria-current", !archive);
-  if (archive) { $("navArchive").setAttribute("aria-current", "page"); renderArchive(); return; }
-  $("navToday").setAttribute("aria-current", "page");
+  $("navLink").textContent = archive ? "Dagens bild" : "Arkiv";
+  $("navLink").href = archive ? "#" : "#arkiv";
+  scrollTo(0, 0);
+  if (archive) { renderArchive(); return; }
   const date = /^\d{4}-\d{2}-\d{2}$/.test(h) ? h : (index[0] && index[0].date);
   if (!day || day.date !== date) loadDay(date);
-  scrollTo(0, 0);
 }
-$("navToday").addEventListener("click", () => { location.hash = ""; });
-$("navArchive").addEventListener("click", () => { location.hash = "arkiv"; });
 addEventListener("hashchange", route);
 
 /* ---------- Helskärm ---------- */
 $("frame").addEventListener("click", () => {
   if (!day || !$("image").src) return;
-  const box = $("lightbox");
-  box.querySelector("img").src = $("image").src;
-  box.querySelector("a").href = day.link || day.hdurl || day.url;
-  box.hidden = false;
+  $("lightbox").querySelector("img").src = $("image").src;
+  $("lightbox").hidden = false;
 });
-$("lightbox").addEventListener("click", e => { if (e.target.tagName !== "A") $("lightbox").hidden = true; });
+$("lightbox").addEventListener("click", () => { $("lightbox").hidden = true; });
 addEventListener("keydown", e => { if (e.key === "Escape") $("lightbox").hidden = true; });
 
 /* ---------- Stjärnregn vid rätt svar ---------- */
@@ -448,17 +509,16 @@ function starBurst(x, y, count = 14) {
     const d = devicePixelRatio || 1;
     c.width = innerWidth * d; c.height = innerHeight * d;
     ctx.setTransform(d, 0, 0, d, 0, 0);
-    stars = Array.from({ length: Math.round(innerWidth * innerHeight / 8000) }, () => ({
+    stars = Array.from({ length: Math.round(innerWidth * innerHeight / 9000) }, () => ({
       x: Math.random() * innerWidth, y: Math.random() * innerHeight,
-      r: Math.random() * 1.2 + 0.3, p: Math.random() * 6.28, s: 0.4 + Math.random() * 1.1,
-      warm: Math.random() < 0.2
+      r: Math.random() * 1.1 + 0.3, p: Math.random() * 6.28, s: 0.4 + Math.random() * 1.1
     }));
   }
   function draw(t) {
     ctx.clearRect(0, 0, innerWidth, innerHeight);
+    ctx.fillStyle = "#f2f0ea";
     for (const s of stars) {
-      ctx.globalAlpha = 0.2 + 0.55 * (0.5 + 0.5 * Math.sin(t / 1000 * s.s + s.p));
-      ctx.fillStyle = s.warm ? "#ffc477" : "#f3ead9";
+      ctx.globalAlpha = 0.12 + 0.45 * (0.5 + 0.5 * Math.sin(t / 1000 * s.s + s.p));
       ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, 6.28); ctx.fill();
     }
   }
