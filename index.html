@@ -272,6 +272,11 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .planets button { display: flex; align-items: center; gap: 7px; flex: none; }
 .planets button i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
 .planets button[aria-pressed="true"] { background: var(--surface-hi); border-color: var(--c); }
+.phead { display: flex; align-items: center; gap: 16px; }
+.phead button { flex: none; width: 108px; height: 108px; padding: 0; border: 0; border-radius: 20px; overflow: hidden; background: #000; cursor: zoom-in; }
+.phead img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.phead img.fit { object-fit: contain; }
+.phead small { display: block; color: var(--muted); font-size: .68rem; margin-top: 4px; }
 .facts { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; margin: 14px 0; }
 .facts div { background: var(--surface); border-radius: 14px; padding: 10px 12px; }
 .facts small { display: block; color: var(--muted); font-size: .72rem; }
@@ -405,6 +410,23 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <div class="eyebrow">Kommande på himlen</div>
       <div class="events" id="events"></div>
       <p class="note">Meteorregnens toppnätter kan skifta ett dygn mellan åren. Förmörkelsernas tider gäller Stockholm.</p>
+    </div>
+    <h2 style="margin-top:14px">Ute i världen</h2>
+    <p>Det största som händer på himlen och i rymden, var det än syns.</p>
+    <div class="card" id="storm" hidden>
+      <div class="eyebrow">Rymdväder</div>
+      <h3 id="stormHead"></h3>
+      <div class="muted" id="stormText" style="font-size:.9rem;margin-top:4px"></div>
+    </div>
+    <div class="card" id="launchCard" hidden>
+      <div class="eyebrow">Nästa uppskjutningar</div>
+      <div class="events" id="launches"></div>
+      <p class="note">Tider i svensk tid och kan ändras med kort varsel. Källa: The Space Devs.</p>
+    </div>
+    <div class="card">
+      <div class="eyebrow">Stora solförmörkelser</div>
+      <div class="events" id="worldEclipses"></div>
+      <p class="note">Varaktigheten gäller där förmörkelsen är som längst.</p>
     </div>
   </section>
   <section id="solar" class="page" hidden>
@@ -762,7 +784,59 @@ const ECLIPSES = [  // kontrollerade mot tabeller för Stockholm
   ["2027-08-02T11:19:00+02:00", "Partiell solförmörkelse", "Månen täcker runt 13 % av solen, störst kl. 11.19. Titta aldrig utan solförmörkelseglasögon."],
   ["2028-12-31T17:51:00+01:00", "Total månförmörkelse", "Månen blir mörkröd kl. 17.15–18.28, på nyårsafton"]
 ];
+const WORLD_ECLIPSES = [   // ur förteckningen över 2000-talets solförmörkelser
+  ["2027-02-06T16:00:00Z", "Ringformig solförmörkelse", "Chile, Argentina och Atlanten. En ring av sol runt månen i upp till 7 min 51 s."],
+  ["2027-08-02T10:07:00Z", "Total solförmörkelse", "Spanien, Marocko, Algeriet, Tunisien, Libyen, Egypten, Saudiarabien, Jemen och Somalia. Upp till 6 min 23 s, en av århundradets längsta."],
+  ["2028-01-26T15:08:00Z", "Ringformig solförmörkelse", "Ecuador, Peru, Colombia, Brasilien, Portugal och Spanien. Upp till 10 min 27 s."],
+  ["2028-07-22T02:56:00Z", "Total solförmörkelse", "Australien och Nya Zeeland, bland annat över Sydney. Upp till 5 min 10 s."]
+];
+const MISSION_SV = { "Communications": "Kommunikationssatelliter", "Earth Science": "Jordobservation", "Human Exploration": "Bemannad färd",
+  "Resupply": "Förråd till rymdstationen", "Planetary Science": "Planetforskning", "Astrophysics": "Astrofysik", "Navigation": "Navigationssatelliter",
+  "Government/Top Secret": "Militärt uppdrag", "Test Flight": "Testflygning", "Dedicated Rideshare": "Flera småsatelliter", "Technology": "Teknikprov",
+  "Lunar Exploration": "Månfärd", "Robotic Exploration": "Rymdsond", "Tourism": "Rymdturism", "Heliophysics": "Solforskning", "Space Station": "Rymdstation" };
+function eventRow(when, name, text, showTime) {
+  const now = new Date(), midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const days = Math.round((new Date(when.getFullYear(), when.getMonth(), when.getDate()) - midnight) / 864e5);
+  const right = days <= 0 ? "i dag" : days === 1 ? "i morgon" : days < 100 ? "om " + days + " dagar" : when.getFullYear() === now.getFullYear() ? "" : String(when.getFullYear());
+  const time = showTime ? `kl. ${String(when.getHours()).padStart(2, "0")}.${String(when.getMinutes()).padStart(2, "0")}` : "";
+  return `<div class="event"><div class="when"><small>${when.toLocaleDateString("sv-SE", { month: "short" }).replace(".", "").toUpperCase()}</small><b>${when.getDate()}</b></div>
+    <div class="what">${esc(name)}<small>${esc(text)}</small></div>
+    <div class="in">${right}${time ? "<br>" + time : ""}</div></div>`;
+}
+function renderWorld() {
+  const now = new Date();
+  $("worldEclipses").innerHTML = WORLD_ECLIPSES.filter(e => new Date(e[0]) > now).map(e => eventRow(new Date(e[0]), e[1], e[2])).join("");
+}
+// Kommande uppskjutningar från The Space Devs. Sparas en timme, eftersom tjänsten begränsar antalet frågor.
+async function loadLaunches() {
+  let list = null;
+  const saved = store.get("aa-launches", null);
+  if (saved && Date.now() - saved.t < 36e5) list = saved.list;
+  if (!list) {
+    try {
+      const res = await fetch("https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=12&mode=list");
+      if (!res.ok) return;
+      list = ((await res.json()).results || []).map(r => ({ name: r.name, net: r.net, lsp: r.lsp_name, loc: r.location, type: r.mission_type }));
+      store.set("aa-launches", { t: Date.now(), list });
+    } catch (e) { return; }
+  }
+  const future = list.filter(l => new Date(l.net) > new Date());
+  const routine = /starlink|satnet|kuiper|guowang|qianfan|oneweb/i;
+  const picks = future.filter(l => !routine.test(l.name)).concat(future.filter(l => routine.test(l.name))).slice(0, 4).sort((a, b) => new Date(a.net) - new Date(b.net));
+  if (!picks.length) return;
+  $("launches").innerHTML = picks.map(l => {
+    const [rocket, mission] = String(l.name).split(" | ");
+    const place = String(l.loc || "").split(",").map(x => x.trim()).filter(Boolean);
+    const sub = [l.lsp, place.length > 1 ? place[0] + ", " + place[place.length - 1] : place[0], MISSION_SV[l.type] || l.type].filter(Boolean).join(" · ");
+    return eventRow(new Date(l.net), (mission || rocket) + (mission ? " (" + rocket + ")" : ""), sub, true);
+  }).join("");
+  $("launchCard").hidden = false;
+}
+let skyLoaded = false;
+
 function renderSky() {
+  renderWorld();
+  if (!skyLoaded) { skyLoaded = true; loadLaunches(); }
   const now = new Date(), m = moonAt(now);
   const d = x => x.toLocaleDateString("sv-SE", { day: "numeric", month: "long" });
   $("moonLit").setAttribute("d", moonPath(m));
@@ -805,12 +879,29 @@ const KP_TEXT = [
   [3, "Måttlig aktivitet", "Norrsken kan synas i norra och mellersta Norrland."],
   [0, "Lugnt", "Norrsken syns bara längst i norr, om alls."]
 ];
+// Rymdväder de närmaste dygnen ur samma prognos: NOAA:s stormskala G1 (svag) till G5 (extrem).
+function showStorm(_, rows) {
+  const ahead = rows.filter(r => r.t > Date.now() - 3 * 36e5);
+  if (!ahead.length) return;
+  const top = ahead.reduce((a, b) => (b.kp > a.kp ? b : a));
+  const level = Number(String(top.g).replace(/\D/g, "")) || (top.kp >= 5 ? Math.min(5, Math.floor(top.kp) - 4) : 0);
+  const names = ["", "Svag", "Måttlig", "Stark", "Mycket stark", "Extrem"];
+  if (level) {
+    $("stormHead").textContent = `${names[level]} solstorm väntas (G${level})`;
+    $("stormText").textContent = `Störst väntas den ${top.t.toLocaleDateString("sv-SE", { day: "numeric", month: "long" })}. Solen har slungat ut laddade partiklar som skakar jordens magnetfält, vilket kan ge norrsken ovanligt långt söderut.`;
+  } else {
+    $("stormHead").textContent = "Lugnt rymdväder";
+    $("stormText").textContent = "Inga solstormar väntas de närmaste dygnen. Högsta väntade Kp-index är " + top.kp.toFixed(1).replace(".", ",") + " av 9.";
+  }
+  $("storm").hidden = false;
+}
 async function loadAurora() {
   try {
     const res = await fetch("https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json");
     if (!res.ok) return;
     const rows = (await res.json()).map(r => Array.isArray(r) ? { time_tag: r[0], kp: r[1] } : r)
-      .map(r => ({ t: new Date(String(r.time_tag).replace(" ", "T") + "Z"), kp: Number(r.kp ?? r.Kp) })).filter(r => !isNaN(r.t) && !isNaN(r.kp));
+      .map(r => ({ t: new Date(String(r.time_tag).replace(" ", "T") + "Z"), kp: Number(r.kp ?? r.Kp), g: r.noaa_scale || "" })).filter(r => !isNaN(r.t) && !isNaN(r.kp));
+    showStorm(await 0, rows);
     const now = new Date(), start = new Date(now), end = new Date(now);
     if (now.getHours() < 6) start.setDate(start.getDate() - 1);
     start.setHours(18, 0, 0, 0); end.setTime(start.getTime() + 12 * 36e5);
@@ -849,21 +940,21 @@ function helio(name, date) {
 }
 
 const PLANETS = [
-  { id: "mercury", name: "Merkurius", c: "#b3aca2", size: 3, d: "4 879 km", day: "176 jorddygn", year: "88 dagar", moons: "0", eye: true,
+  { id: "mercury", img: "PIA15162", credit: "NASA/Johns Hopkins APL/Carnegie Institution", name: "Merkurius", c: "#b3aca2", size: 3, d: "4 879 km", day: "176 jorddygn", year: "88 dagar", moons: "0", eye: true,
     text: "Den minsta planeten och den som ligger närmast solen. Dagsidan är varmare än en ugn och nattsidan kallare än Antarktis, eftersom det saknas luft som håller kvar värmen." },
-  { id: "venus", name: "Venus", c: "#ecd3a0", size: 4.5, d: "12 104 km", day: "117 jorddygn", year: "225 dagar", moons: "0", eye: true,
+  { id: "venus", img: "PIA00271", credit: "NASA/JPL", name: "Venus", c: "#ecd3a0", size: 4.5, d: "12 104 km", day: "117 jorddygn", year: "225 dagar", moons: "0", eye: true,
     text: "Nästan lika stor som jorden, men den hetaste planeten av alla. Den täta luften av koldioxid stänger in värmen, så att det är runt 465 grader på ytan. Venus snurrar dessutom åt motsatt håll mot de flesta planeter." },
-  { id: "earth", name: "Jorden", c: "#6cb6ff", size: 4.8, d: "12 742 km", day: "24 timmar", year: "365 dagar", moons: "1", eye: false,
+  { id: "earth", img: "as17-148-22727", credit: "NASA, Apollo 17", name: "Jorden", c: "#6cb6ff", size: 4.8, d: "12 742 km", day: "24 timmar", year: "365 dagar", moons: "1", eye: false,
     text: "Den enda plats vi känner till där det finns liv. Jorden ligger på lagom avstånd från solen för att vatten ska kunna vara flytande på ytan." },
-  { id: "mars", name: "Mars", c: "#e2734f", size: 3.8, d: "6 779 km", day: "24 tim 40 min", year: "687 dagar", moons: "2", eye: true,
+  { id: "mars", img: "PIA00422", credit: "NASA/JPL/USGS", name: "Mars", c: "#e2734f", size: 3.8, d: "6 779 km", day: "24 tim 40 min", year: "687 dagar", moons: "2", eye: true,
     text: "Den röda planeten är hälften så stor som jorden. Färgen kommer av rostigt järn i marken. Här finns solsystemets högsta berg, Olympus Mons, och flera rovrar som kör omkring och letar efter spår av gammalt vatten." },
-  { id: "jupiter", name: "Jupiter", c: "#dcb68e", size: 9, d: "139 820 km", day: "knappt 10 timmar", year: "nästan 12 år", moons: "omkring 95", eye: true,
+  { id: "jupiter", img: "PIA22946", credit: "Kevin M. Gill (CC BY), efter NASA/JPL-Caltech/SwRI/MSSS", name: "Jupiter", c: "#dcb68e", size: 9, d: "139 820 km", day: "knappt 10 timmar", year: "nästan 12 år", moons: "omkring 95", eye: true,
     text: "Den största planeten, så stor att alla de andra skulle få plats inuti den. Jupiter är ett klot av gas utan fast yta. Den stora röda fläcken är en storm som har pågått i hundratals år." },
-  { id: "saturn", name: "Saturnus", c: "#e8d6a4", size: 8, ring: true, d: "116 460 km", day: "knappt 11 timmar", year: "29 år", moons: "över 270", eye: true,
+  { id: "saturn", img: "PIA06193", credit: "NASA/JPL/Space Science Institute", name: "Saturnus", c: "#e8d6a4", size: 8, ring: true, d: "116 460 km", day: "knappt 11 timmar", year: "29 år", moons: "över 270", eye: true,
     text: "Känd för sina ringar, som består av otaliga bitar av is och sten. Saturnus är så lätt för sin storlek att den skulle flyta, om det fanns ett hav stort nog." },
-  { id: "uranus", name: "Uranus", c: "#a3e6e8", size: 6.5, d: "50 724 km", day: "17 timmar", year: "84 år", moons: "nära 30", eye: false,
+  { id: "uranus", img: "PIA18182", credit: "NASA/JPL-Caltech", name: "Uranus", c: "#a3e6e8", size: 6.5, d: "50 724 km", day: "17 timmar", year: "84 år", moons: "nära 30", eye: false,
     text: "En iskall jätte som ligger på sidan och rullar fram runt solen. Det gör att varje pol har sommar i 42 år och sedan vinter lika länge." },
-  { id: "neptune", name: "Neptunus", c: "#6088ff", size: 6.3, d: "49 244 km", day: "16 timmar", year: "165 år", moons: "16", eye: false,
+  { id: "neptune", img: "PIA01492", credit: "NASA/JPL", name: "Neptunus", c: "#6088ff", size: 6.3, d: "49 244 km", day: "16 timmar", year: "165 år", moons: "16", eye: false,
     text: "Den yttersta planeten, djupblå och med de starkaste vindarna i solsystemet. Sedan Neptunus upptäcktes 1846 har den bara hunnit ett enda varv runt solen." }
 ];
 let solOffset = 0, solPick = "mars", solTimer = 0, solReady = false;
@@ -925,12 +1016,26 @@ function renderPlanet(pos) {
     now = `${num(dist * 149.6)} miljoner km från jorden. Ljuset behöver ${light < 90 ? num(light, 1) + " minuter" : num(light / 60, 1) + " timmar"} för att nå oss. ${where}` +
       (p.eye ? "" : " Du behöver kikare eller teleskop.");
   }
-  $("planetCard").innerHTML =
-    `<div class="eyebrow">Planet</div><h3>${p.name}</h3>
-     <div class="facts"><div><small>Diameter</small><b>${p.d}</b></div><div><small>Ett dygn</small><b>${p.day}</b></div>
-       <div><small>Ett år</small><b>${p.year}</b></div><div><small>Månar</small><b>${p.moons}</b></div></div>
-     <p style="margin:0">${esc(p.text)}</p>
-     <p class="now"><b>${solOffset === 0 ? "Just nu" : "Den här dagen"}</b>${esc(now)}</p>`;
+  const card = $("planetCard");
+  if (card.dataset.p !== p.id) {   // byggs bara om när man byter planet, så att bilden inte laddas om medan tiden spolas
+    card.dataset.p = p.id;
+    const src = `https://images-assets.nasa.gov/image/${p.img}/${p.img}~`;
+    card.innerHTML =
+      `<div class="phead"><button aria-label="Visa bilden i helskärm" data-big="${src}medium.jpg"><img class="${p.ring ? "fit" : ""}" src="${src}small.jpg" alt="${p.name}"></button>
+         <div><div class="eyebrow">Planet</div><h3>${p.name}</h3><small>Bild: ${esc(p.credit)}</small></div></div>
+       <div class="facts"><div><small>Diameter</small><b>${p.d}</b></div><div><small>Ett dygn</small><b>${p.day}</b></div>
+         <div><small>Ett år</small><b>${p.year}</b></div><div><small>Månar</small><b>${p.moons}</b></div></div>
+       <p style="margin:0">${esc(p.text)}</p>
+       <p class="now"><b id="nowLabel"></b><span id="nowText"></span></p>`;
+    const im = card.querySelector("img");
+    im.onerror = () => { im.closest("button").hidden = true; };
+    card.querySelector(".phead button").onclick = e => {
+      $("lightbox").querySelector("img").src = e.currentTarget.dataset.big;
+      $("lightbox").hidden = false;
+    };
+  }
+  $("nowLabel").textContent = solOffset === 0 ? "Just nu" : "Den här dagen";
+  $("nowText").textContent = now;
   document.querySelectorAll("#planetChips button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.p === solPick)));
 }
 
