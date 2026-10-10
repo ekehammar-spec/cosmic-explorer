@@ -58,6 +58,7 @@ a { color: inherit; }
   filter: blur(90px) saturate(1.5); opacity: 0; transition: opacity 3s ease;
 }
 #glow.on { opacity: .26; }
+body.plain #glow { opacity: 0; }
 #stars { position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; }
 main, footer { position: relative; z-index: 1; }
 
@@ -246,11 +247,11 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .page h2 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 5vw, 2rem); letter-spacing: -0.02em; line-height: 1.1; margin: 0; }
 .page > p { color: var(--muted); margin: -8px 0 4px; max-width: 52ch; }
 #sky > h2, #sky > .skydate { text-align: center; }
-#sky > .skydate { margin: -12px auto 0; font-size: .9rem; }
+#sky > .skydate { margin: -2px auto 8px; font-size: .9rem; }
 /* Hållpunkter som ligger kvar överst */
 .jump {
   position: sticky; top: calc(env(safe-area-inset-top, 0px) + 8px); z-index: 3; display: flex; justify-content: center; gap: 4px;
-  width: fit-content; margin: 0 auto; padding: 4px; border-radius: 999px; border: 1px solid transparent;
+  width: fit-content; margin: 0 auto 8px; padding: 4px; border-radius: 999px; border: 1px solid transparent;
   transition: background .3s, border-color .3s;
 }
 .jump.stuck { background: rgba(16, 18, 27, .82); border-color: var(--hairline); backdrop-filter: blur(18px) saturate(1.4); -webkit-backdrop-filter: blur(18px) saturate(1.4); }
@@ -261,7 +262,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .seg button { font: 600 .84rem var(--body); color: var(--muted); background: none; border: 1px solid var(--hairline); border-radius: 999px; padding: 8px 16px; transition: color .25s, background .25s, border-color .25s; }
 .seg button[aria-pressed="true"] { color: #c9c3e6; background: rgba(201, 195, 230, .09); border-color: rgba(201, 195, 230, .32); }
 /* Mellanrubrik med kometlinje */
-.sec { display: flex; align-items: center; gap: 14px; margin: 18px 0 2px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
+#sky { gap: 10px; }
+.sec { display: flex; align-items: center; gap: 14px; margin: 30px 0 10px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
 .sec::before, .sec::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, transparent, rgba(201, 195, 230, .35)); }
 .sec::after { background: linear-gradient(90deg, rgba(201, 195, 230, .35), transparent); }
 .sec b { font: 700 .72rem "Orbitron", var(--display); letter-spacing: .2em; text-transform: uppercase; color: #c9c3e6; }
@@ -812,6 +814,7 @@ function route() {
   $("today").hidden = view !== "today" && view !== "earth"; $("archive").hidden = view !== "archive"; $("sky").hidden = view !== "sky"; $("solar").hidden = view !== "solar";
   if (view !== "solar") stopSol();
   document.querySelectorAll(".tab").forEach(t => t.dataset.view === view ? t.setAttribute("aria-current", "page") : t.removeAttribute("aria-current"));
+  document.body.classList.toggle("plain", view !== "today" && view !== "earth");
   scrollTo(0, 0);
   if (view !== "today" && view !== "earth") document.body.classList.remove("intro-on");
   if (view === "archive") { renderArchive(); return; }
