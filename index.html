@@ -223,6 +223,21 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .tile span { position: absolute; inset: auto 0 0 0; padding: 30px 12px 10px; font-size: .84rem; font-weight: 500; line-height: 1.25; background: linear-gradient(transparent, #000d); }
 .tile small { display: block; color: var(--muted); font-weight: 400; font-variant-numeric: tabular-nums; margin-top: 2px; }
 .tile.new img { filter: blur(9px) saturate(.7); transform: scale(1.2); }
+.tools { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+.tools input {
+  flex: 1 1 180px; min-width: 0; font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--hairline);
+  border-radius: 14px; padding: 11px 14px; -webkit-appearance: none; appearance: none;
+}
+.tools input::placeholder { color: var(--muted); }
+.tools button { font: 600 .86rem var(--body); background: var(--surface); border: 1px solid var(--hairline); border-radius: 14px; padding: 0 14px; min-height: 44px; color: var(--muted); }
+.tools button[aria-pressed="true"] { background: var(--shift); color: #06080c; border-color: transparent; }
+.month { font: 600 .72rem var(--body); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin: 22px 0 10px; display: flex; justify-content: space-between; }
+.month span { letter-spacing: 0; text-transform: none; font-weight: 400; }
+.empty { color: var(--muted); padding: 30px 0; text-align: center; }
+.more { display: block; margin: 22px auto 0; font: 600 .9rem var(--body); background: var(--surface); border: 1px solid var(--hairline); border-radius: 999px; padding: 11px 22px; }
+.kp { display: flex; gap: 3px; margin: 14px 0 10px; }
+.kp i { flex: 1; height: 8px; border-radius: 4px; background: var(--surface-hi); }
+.kp i.on { background: var(--shift); }
 
 /* ---------- Himlen ---------- */
 .page { max-width: 640px; margin: 0 auto; padding: calc(env(safe-area-inset-top, 0px) + 84px) var(--gutter) 40px; display: flex; flex-direction: column; gap: 18px; }
@@ -331,7 +346,11 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <section id="archive" hidden>
     <h2>Arkiv</h2>
     <p>En ny bild varje dag. De du inte har spelat är suddiga tills du har klarat trivian.</p>
-    <div class="grid" id="grid"></div>
+    <div class="tools">
+      <input type="search" id="search" placeholder="Sök bland bilderna" aria-label="Sök bland bilderna" autocomplete="off">
+      <button id="onlyNew" aria-pressed="false">Ospelade</button>
+    </div>
+    <div id="grid"></div>
   </section>
 
   <section id="sky" class="page" hidden>
@@ -345,6 +364,13 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
         <div class="muted" id="moonPct"></div>
         <dl><dt>Fullmåne</dt><dd id="nextFull"></dd><dt>Nymåne</dt><dd id="nextNew"></dd></dl>
       </div>
+    </div>
+    <div class="card" id="aurora" hidden>
+      <div class="eyebrow">Norrsken i natt</div>
+      <h3 id="auroraHead"></h3>
+      <div class="kp" id="kpBar" aria-hidden="true"></div>
+      <div class="muted" id="auroraText" style="font-size:.9rem"></div>
+      <p class="note">Prognos från amerikanska vädermyndigheten NOAA. Det krävs också mörker och klar himmel.</p>
     </div>
     <div class="card">
       <div class="eyebrow">Kommande på himlen</div>
@@ -545,7 +571,7 @@ function markTerms(text, used) {
   if (!terms.length) return esc(text);
   const quote = x => x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   let re;
-  try { re = new RegExp("(^|[^\\p{L}])(" + terms.map(t => quote(t.term) + "[\\p{L}]{0,4}").join("|") + ")(?![\\p{L}])", "giu"); }
+  try { re = new RegExp("(^|[^\\p{L}])(" + terms.map(t => quote(t.term) + (t.term.length > 4 ? "[\\p{L}]{0,4}" : "")).join("|") + ")(?![\\p{L}])", "giu"); }
   catch (e) { return esc(text); }
   let out = "", last = 0, m;
   while ((m = re.exec(text))) {
@@ -599,14 +625,32 @@ function renderOnward() {
 }
 
 /* ---------- Arkiv ---------- */
+let shownMonths = 3;
 function renderArchive() {
-  $("grid").innerHTML = index.map(d => {
+  const q = $("search").value.trim().toLowerCase(), onlyNew = $("onlyNew").getAttribute("aria-pressed") === "true";
+  const list = index.filter(d => {
     const done = played[d.date] !== undefined;
-    return `<a class="tile ${done ? "" : "new"}" href="#${d.date}">
-      <img src="${esc(d.thumb)}" alt="" loading="lazy">
-      <span>${done ? esc(tidy(d.title)) : "Ospelad"}<small>${esc(niceDate(d.date))}</small></span></a>`;
-  }).join("");
+    if (onlyNew && done) return false;
+    return !q || tidy(d.title).toLowerCase().includes(q) || niceDate(d.date).includes(q) || d.date.includes(q);
+  });
+  if (!list.length) { $("grid").innerHTML = '<p class="empty">Inga bilder matchar.</p>'; return; }
+  const months = new Map();
+  for (const d of list) { const k = d.date.slice(0, 7); if (!months.has(k)) months.set(k, []); months.get(k).push(d); }
+  const keys = [...months.keys()], filtering = q || onlyNew, visible = filtering ? keys : keys.slice(0, shownMonths);
+  $("grid").innerHTML = visible.map(k => {
+    const days = months.get(k), name = new Date(k + "-15T12:00:00").toLocaleDateString("sv-SE", { month: "long", year: "numeric" });
+    const doneCount = days.filter(d => played[d.date] !== undefined).length;
+    return `<div class="month">${esc(name)}<span>${doneCount} av ${days.length} spelade</span></div><div class="grid">` + days.map(d => {
+      const done = played[d.date] !== undefined;
+      return `<a class="tile ${done ? "" : "new"}" href="#${d.date}">
+        <img src="${esc(d.thumb)}" alt="" loading="lazy">
+        <span>${done ? esc(tidy(d.title)) : "Ospelad"}<small>${esc(niceDate(d.date))}</small></span></a>`;
+    }).join("") + "</div>";
+  }).join("") + (visible.length < keys.length ? '<button class="more" id="moreMonths">Visa äldre</button>' : "");
 }
+$("search").addEventListener("input", renderArchive);
+$("onlyNew").addEventListener("click", e => { e.target.setAttribute("aria-pressed", String(e.target.getAttribute("aria-pressed") !== "true")); renderArchive(); });
+$("grid").addEventListener("click", e => { if (e.target.id === "moreMonths") { shownMonths += 6; renderArchive(); } });
 
 /* ---------- Navigering: #arkiv eller #ÅÅÅÅ-MM-DD ---------- */
 function route() {
@@ -705,6 +749,34 @@ function renderSky() {
       <div class="in">${days <= 0 ? "i dag" : days === 1 ? "i morgon" : days < 100 ? "om " + days + " dagar" : sameYear ? "" : when.getFullYear()}</div></div>`;
   }).join("");
 }
+// Norrskensprognos: högsta Kp-värdet i natt (kl. 18–06) ur NOAA:s prognos. Kortet visas bara om tjänsten svarar.
+const KP_TEXT = [
+  [7, "Mycket stark aktivitet", "Norrsken kan synas i hela landet, ända ner till Skåne."],
+  [6, "Stark aktivitet", "Norrsken kan synas ner till Götaland."],
+  [5, "Förhöjd aktivitet", "Norrsken kan synas ner till Mälardalen."],
+  [4, "Viss aktivitet", "Norrsken kan synas i Norrland och ibland i norra Svealand."],
+  [3, "Måttlig aktivitet", "Norrsken kan synas i norra och mellersta Norrland."],
+  [0, "Lugnt", "Norrsken syns bara längst i norr, om alls."]
+];
+async function loadAurora() {
+  try {
+    const res = await fetch("https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json");
+    if (!res.ok) return;
+    const rows = (await res.json()).map(r => Array.isArray(r) ? { time_tag: r[0], kp: r[1] } : r)
+      .map(r => ({ t: new Date(String(r.time_tag).replace(" ", "T") + "Z"), kp: Number(r.kp ?? r.Kp) })).filter(r => !isNaN(r.t) && !isNaN(r.kp));
+    const now = new Date(), start = new Date(now), end = new Date(now);
+    if (now.getHours() < 6) start.setDate(start.getDate() - 1);
+    start.setHours(18, 0, 0, 0); end.setTime(start.getTime() + 12 * 36e5);
+    const night = rows.filter(r => r.t.getTime() + 3 * 36e5 > Math.max(start, now) && r.t < end);
+    if (!night.length) return;
+    const kp = Math.max(...night.map(r => r.kp)), level = KP_TEXT.find(l => kp >= l[0]);
+    $("auroraHead").textContent = level[1];
+    $("auroraText").textContent = level[2] + " Kp-index " + kp.toFixed(1).replace(".", ",") + " av 9.";
+    $("kpBar").innerHTML = Array.from({ length: 9 }, (_, i) => `<i class="${i < Math.round(kp) ? "on" : ""}"></i>`).join("");
+    $("aurora").hidden = false;
+  } catch (e) { /* tjänsten nås inte: kortet förblir dolt */ }
+}
+loadAurora();
 $("tabMoon").setAttribute("d", moonPath(moonAt(new Date()), 40));
 
 /* ---------- Helskärm ---------- */
