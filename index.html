@@ -29,8 +29,8 @@
   --muted: #9b9ba8;
   --accent: #6cd3ff;
   --shift: linear-gradient(100deg, #b6a3ff, #3fdcff);   /* logons färgskiftning */
-  --good: #7ddba6;
-  --bad: #ff8f8f;
+  --good: #72e0c2;   /* norrskensgrönt */
+  --bad: #f29ab8;    /* mjukt rosarött */
   --display: "Bricolage Grotesque", "Figtree", system-ui, sans-serif;
   --body: "Figtree", -apple-system, "Segoe UI", system-ui, sans-serif;
   --ease: cubic-bezier(.2, .7, .2, 1);
@@ -172,10 +172,10 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .options button:disabled { cursor: default; }
 .options button:disabled:not(.right):not(.wrong) { opacity: .5; }
-.options button.right { background: rgba(125, 219, 166, .16); border-color: var(--good); animation: pop .5s ease; }
-.options button.right i { background: var(--good); color: #06110b; }
-.options button.wrong { background: rgba(255, 143, 143, .13); border-color: var(--bad); animation: shake .4s ease; }
-.options button.wrong i { background: var(--bad); color: #1a0606; }
+.options button.right { background: rgba(114, 224, 194, .14); border-color: var(--good); animation: pop .5s ease; }
+.options button.right i { background: var(--good); color: #05130f; }
+.options button.wrong { background: rgba(242, 154, 184, .13); border-color: var(--bad); animation: shake .4s ease; }
+.options button.wrong i { background: var(--bad); color: #1c0711; }
 @keyframes pop { 40% { transform: scale(1.03); } }
 @keyframes shake { 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
 .fact { margin-top: 16px; color: var(--muted); }
@@ -245,6 +245,34 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .page { max-width: 640px; margin: 0 auto; padding: calc(env(safe-area-inset-top, 0px) + 84px) var(--gutter) 40px; display: flex; flex-direction: column; gap: 18px; }
 .page h2 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 5vw, 2rem); letter-spacing: -0.02em; line-height: 1.1; margin: 0; }
 .page > p { color: var(--muted); margin: -8px 0 4px; max-width: 52ch; }
+#sky > h2, #sky > .skydate { text-align: center; }
+#sky > .skydate { margin: -12px auto 0; font-size: .9rem; }
+/* Hållpunkter som ligger kvar överst */
+.jump {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 3; display: flex; justify-content: center; gap: 4px;
+  margin: -4px calc(-1 * var(--gutter)) -8px; padding: 12px var(--gutter) 14px; background: linear-gradient(var(--bg) 72%, transparent);
+}
+.jump button { white-space: nowrap; font: 600 .8rem var(--body); color: var(--muted); background: none; border: 1px solid transparent; border-radius: 999px; padding: 7px 12px; }
+.jump button[aria-current="true"] { color: var(--text); background: var(--surface); border-color: var(--hairline); }
+/* Mellanrubrik med kometlinje */
+.sec { text-align: center; margin: 18px 0 2px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
+.sec b { display: block; font: 700 .72rem "Orbitron", var(--display); letter-spacing: .2em; text-transform: uppercase; color: #f0b48c; }
+.sec svg { display: block; width: 120px; height: 14px; margin: 9px auto 0; }
+/* Sammanfattningen */
+.sum { padding: 6px 8px; }
+.sum button { width: 100%; display: flex; align-items: center; gap: 14px; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--hairline); padding: 13px 12px; border-radius: 0; }
+.sum button:last-child { border-bottom: 0; }
+.sum svg { width: 22px; height: 22px; flex: none; color: #cfcdc7; overflow: visible; }
+.sum b { display: block; font-weight: 600; font-size: .98rem; line-height: 1.25; }
+.sum small { display: block; color: var(--muted); font-size: .8rem; }
+.sum i { margin-left: auto; color: var(--muted); font-style: normal; flex: none; }
+.sum button.alert svg, .sum button.alert b { color: var(--good); }
+.sum button.alert i { width: 8px; height: 8px; border-radius: 50%; background: var(--good); font-size: 0; animation: pulse 2.4s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity: .35; } }
+#sky .card { scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
+.showmore { display: block; width: 100%; margin-top: 10px; font: 600 .86rem var(--body); background: none; border: 1px solid var(--hairline); border-radius: 14px; padding: 11px; }
+.events .event.extra { display: none; }
+.events.open .event.extra { display: flex; }
 .moon { display: flex; align-items: center; gap: 20px; }
 .moon svg { width: 112px; height: 112px; flex: none; filter: drop-shadow(0 0 26px rgba(182, 163, 255, .28)); }
 .moon h3 { margin: 4px 0 2px; }
@@ -342,7 +370,6 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
 <header class="bar">
   <a class="brand" href="#" aria-label="Andromeda Arc"><svg viewBox="-2 2 104 100" aria-hidden="true"><defs><linearGradient id="shiftG" x1="4" y1="20" x2="98" y2="92" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b6a3ff"/><stop offset="1" stop-color="#3fdcff"/></linearGradient></defs><path d="M15 90 L50 12 L70 54" fill="none" stroke="url(#shiftG)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 51 Q44 47 82 73 L75 82 Q42 57 4 51Z" fill="url(#shiftG)"/><path d="M82 61 Q84.21 74.6 99 78 Q84.21 81.4 82 95 Q79.79 81.4 65 78 Q79.79 74.6 82 61Z" fill="url(#shiftG)"/></svg><span>Andromeda Arc</span></a>
   <div class="bar-right">
-    <span class="chip" aria-label="Poäng"><b id="score">0</b><span class="unit">&nbsp;p</span></span>
   </div>
 </header>
 
@@ -365,7 +392,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
         <div class="eyebrow">Lär dig mer</div>
         <h3>Hur vill du läsa om bilden?</h3>
         <div class="levels">
-          <button data-level="barn" aria-pressed="false">För rymdhjältar</button>
+          <button data-level="barn" aria-pressed="false">För unga rymdhjältar</button>
           <button data-level="nyborjare" aria-pressed="false">Nybörjare</button>
           <button data-level="entusiast" aria-pressed="false">Djupdykning</button>
         </div>
@@ -380,18 +407,30 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
 
   <section id="archive" hidden>
     <h2>Arkiv</h2>
-    <p>En ny bild varje dag. De du inte har spelat är suddiga tills du har klarat trivian.</p>
+    <p id="collection">En ny bild varje dag. De du inte har upptäckt är suddiga tills du har klarat trivian.</p>
     <div class="tools">
       <input type="search" id="search" placeholder="Sök bland bilderna" aria-label="Sök bland bilderna" autocomplete="off">
-      <button id="onlyNew" aria-pressed="false">Ospelade</button>
+      <button id="onlyNew" aria-pressed="false">Oupptäckta</button>
     </div>
     <div id="grid"></div>
   </section>
 
   <section id="sky" class="page" hidden>
     <h2>Himlen</h2>
-    <p>Månen just nu och vad som händer härnäst. Tider gäller Sverige.</p>
-    <div class="card moon">
+    <p class="skydate" id="skyDate"></p>
+    <div class="jump" id="jump">
+      <button data-to="sky1" aria-current="true">Himlen i natt</button>
+      <button data-to="sky2" aria-current="false">Kommande</button>
+      <button data-to="sky3" aria-current="false">Ute i världen</button>
+    </div>
+
+    <div class="sec" id="sky1"><b>Himlen i natt</b><svg viewBox="0 0 120 14" aria-hidden="true"><defs><linearGradient id="ck1" x1="0" x2="1"><stop offset="0" stop-color="#f0b48c" stop-opacity="0"/><stop offset=".55" stop-color="#f0b48c"/><stop offset="1" stop-color="#f8dac6"/></linearGradient></defs><path d="M0 6.5 Q60 5 104 7 L104 8.6 Q60 8 0 7.5Z" fill="url(#ck1)"/><path d="M110 0 Q111 5.6 119 7 Q111 8.4 110 14 Q109 8.4 101 7 Q109 5.6 110 0Z" fill="#f8dac6"/></svg></div>
+    <div class="card sum" id="sum">
+      <button data-to="moonCard"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="7" opacity=".5"/><path id="sumMoonLit" d="" fill="currentColor"/></svg><span><b id="sumMoon"></b><small id="sumMoonText"></small></span><i>›</i></button>
+      <button data-to="aurora" id="sumAurora" hidden><svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" aria-hidden="true"><path d="M10 70 Q30 20 50 55 T90 35"/><path d="M14 90 Q34 50 54 78 T90 62" opacity=".5"/></svg><span><b id="sumAuroraHead"></b><small id="sumAuroraText"></small></span><i>›</i></button>
+      <button data-to="sky2"><svg viewBox="0 0 100 100" aria-hidden="true"><path d="M12 14 L70 72" stroke="currentColor" stroke-width="8" stroke-linecap="round" opacity=".5"/><path d="M74 54 Q76 70 92 74 Q76 78 74 94 Q72 78 56 74 Q72 70 74 54Z" fill="currentColor"/></svg><span><b id="sumMeteor"></b><small>Nästa meteorregn</small></span><i>›</i></button>
+    </div>
+    <div class="card moon" id="moonCard">
       <svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="45" fill="#1d2030"/><path id="moonLit" d="" fill="#eeeae0"/></svg>
       <div>
         <div class="eyebrow">Månen i dag</div>
@@ -407,13 +446,15 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <div class="muted" id="auroraText" style="font-size:.9rem"></div>
       <p class="note">Prognos från amerikanska vädermyndigheten NOAA. Det krävs också mörker och klar himmel.</p>
     </div>
+
+    <div class="sec" id="sky2"><b>Kommande</b><svg viewBox="0 0 120 14" aria-hidden="true"><defs><linearGradient id="ck2" x1="0" x2="1"><stop offset="0" stop-color="#f0b48c" stop-opacity="0"/><stop offset=".55" stop-color="#f0b48c"/><stop offset="1" stop-color="#f8dac6"/></linearGradient></defs><path d="M0 6.5 Q60 5 104 7 L104 8.6 Q60 8 0 7.5Z" fill="url(#ck2)"/><path d="M110 0 Q111 5.6 119 7 Q111 8.4 110 14 Q109 8.4 101 7 Q109 5.6 110 0Z" fill="#f8dac6"/></svg></div>
     <div class="card">
       <div class="eyebrow">Kommande på himlen</div>
       <div class="events" id="events"></div>
       <p class="note">Meteorregnens toppnätter kan skifta ett dygn mellan åren. Förmörkelsernas tider gäller Stockholm.</p>
     </div>
-    <h2 style="margin-top:14px">Ute i världen</h2>
-    <p>Det största som händer på himlen och i rymden, var det än syns.</p>
+
+    <div class="sec" id="sky3"><b>Ute i världen</b><svg viewBox="0 0 120 14" aria-hidden="true"><defs><linearGradient id="ck3" x1="0" x2="1"><stop offset="0" stop-color="#f0b48c" stop-opacity="0"/><stop offset=".55" stop-color="#f0b48c"/><stop offset="1" stop-color="#f8dac6"/></linearGradient></defs><path d="M0 6.5 Q60 5 104 7 L104 8.6 Q60 8 0 7.5Z" fill="url(#ck3)"/><path d="M110 0 Q111 5.6 119 7 Q111 8.4 110 14 Q109 8.4 101 7 Q109 5.6 110 0Z" fill="#f8dac6"/></svg></div>
     <div class="card" id="storm" hidden>
       <div class="eyebrow">Rymdväder</div>
       <h3 id="stormHead"></h3>
@@ -481,21 +522,12 @@ let earthIndex = [];   // jordbilderna, nyast först
 let day = null;
 let current = 0, rightCount = 0;
 let loadId = 0;
-let score = store.get("cosmic-score", 0);
 let played = store.get("cosmic-played", {});   // { "2026-10-10": antal rätt }
-$("score").textContent = score;
 
 async function getJson(path) {
   const res = await fetch(path, { cache: "no-cache" });
   if (!res.ok) throw new Error(path + " " + res.status);
   return res.json();
-}
-
-function addPoints(n) {
-  score += n; store.set("cosmic-score", score);
-  const el = $("score");
-  el.textContent = score;
-  el.classList.remove("bump"); void el.offsetWidth; el.classList.add("bump");
 }
 
 /* ---------- Ladda en dag ---------- */
@@ -536,7 +568,7 @@ async function loadDay(date, kind = "space") {
     return;
   }
 
-  const isImage = day.media_type === "image";
+  const isImage = kind === "earth" || day.media_type === "image";
   const src = isImage ? day.url : day.thumbnail_url;
   const frame = $("frame");
   if (day.w && day.h) frame.style.setProperty("--ratio", day.w / day.h);
@@ -618,11 +650,11 @@ function answer(i, e) {
   buttons.forEach(b => b.disabled = true);
   const right = i === q.correct;
   buttons[q.correct].classList.add("right");
-  if (right) { rightCount++; addPoints(10); starBurst(e.clientX, e.clientY); }
+  if (right) { rightCount++; starBurst(e.clientX, e.clientY); }
   else buttons[i].classList.add("wrong");
   const last = current === day.quiz.length - 1;
   $("feedback").innerHTML =
-    `<p class="fact"><strong>${right ? "Rätt! +10 poäng." : "Inte riktigt."}</strong> ${esc(tidy(q.fact))}</p>
+    `<p class="fact"><strong>${right ? "Rätt!" : "Inte riktigt."}</strong> ${esc(tidy(q.fact))}</p>
      <button class="next" id="nextBtn">${last ? "Visa vad bilden föreställer" : "Nästa fråga"}</button>`;
   $("nextBtn").addEventListener("click", () => {
     if (!last) { current++; renderQuestion(); return; }
@@ -636,9 +668,9 @@ function finish(alreadyPlayed) {
   const n = day.quiz.length, r = played[day.date];
   const cheer = r === n ? "Full pott, du är en riktig rymdhjälte!" : r > 0 ? "Bra jobbat!" : "Nu vet du mer än nyss, och det är det som räknas.";
   $("quiz").innerHTML =
-    `<div class="eyebrow">${alreadyPlayed ? "Redan spelad" : "Klart"}</div>
+    `<div class="eyebrow">${alreadyPlayed ? "I din samling" : "Klart"}</div>
      <h3>${r} av ${n} rätt</h3>
-     <p class="muted" style="margin:8px 0 0">${alreadyPlayed ? "Du har redan samlat poängen för den här bilden." : cheer}</p>`;
+     <p class="muted" style="margin:8px 0 0">${alreadyPlayed ? "Du har redan upptäckt den här bilden." : cheer + " Bilden ligger nu i din samling."}</p>`;
   renderCaption();
   $("levelText").innerHTML = '<p class="muted">Välj en nivå.</p>';
   document.querySelectorAll(".levels button").forEach(b => b.setAttribute("aria-pressed", "false"));
@@ -708,19 +740,21 @@ function renderOnward() {
   const next = unplayed.find(d => d.date < day.date) || unplayed[0];
   $("onwardLinks").innerHTML =
     (next ? `<a href="#${next.date}"><span class="thumb"><img src="${esc(next.thumb)}" alt=""></span>
-      <span>Nästa ospelade bild<small>${esc(niceDate(next.date))}</small></span><span class="arrow">→</span></a>` : "") +
+      <span>Nästa oupptäckta bild<small>${esc(niceDate(next.date))}</small></span><span class="arrow">→</span></a>` : "") +
     `<a href="#himlen"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">☾</span>
       <span>Himlen<small>Månen just nu och kommande händelser</small></span><span class="arrow">→</span></a>` +
     `<a href="#solsystemet"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">☉</span>
       <span>Solsystemet<small>Planeterna där de står i dag</small></span><span class="arrow">→</span></a>` +
     `<a href="#arkiv"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">✦</span>
-      <span>Hela arkivet<small>${index.length} bilder, ${unplayed.length} ospelade</small></span><span class="arrow">→</span></a>`;
+      <span>Hela arkivet<small>${index.length - unplayed.length} av ${index.length} upptäckta</small></span><span class="arrow">→</span></a>`;
   $("onward").hidden = false;
 }
 
 /* ---------- Arkiv ---------- */
 let shownMonths = 3;
 function renderArchive() {
+  const found = index.filter(d => played[d.date] !== undefined).length;
+  $("collection").textContent = `Din samling: ${found} av ${index.length} bilder upptäckta. De övriga är suddiga tills du har klarat trivian.`;
   const q = $("search").value.trim().toLowerCase(), onlyNew = $("onlyNew").getAttribute("aria-pressed") === "true";
   const list = index.filter(d => {
     const done = played[d.date] !== undefined;
@@ -734,11 +768,11 @@ function renderArchive() {
   $("grid").innerHTML = visible.map(k => {
     const days = months.get(k), name = new Date(k + "-15T12:00:00").toLocaleDateString("sv-SE", { month: "long", year: "numeric" });
     const doneCount = days.filter(d => played[d.date] !== undefined).length;
-    return `<div class="month">${esc(name)}<span>${doneCount} av ${days.length} spelade</span></div><div class="grid">` + days.map(d => {
+    return `<div class="month">${esc(name)}<span>${doneCount} av ${days.length} upptäckta</span></div><div class="grid">` + days.map(d => {
       const done = played[d.date] !== undefined;
       return `<a class="tile ${done ? "" : "new"}" href="#${d.date}">
         <img src="${esc(d.thumb)}" alt="" loading="lazy">
-        <span>${done ? esc(tidy(d.title)) : "Ospelad"}<small>${esc(niceDate(d.date))}</small></span></a>`;
+        <span>${done ? esc(tidy(d.title)) : "Oupptäckt"}<small>${esc(niceDate(d.date))}</small></span></a>`;
     }).join("") + "</div>";
   }).join("") + (visible.length < keys.length ? '<button class="more" id="moreMonths">Visa äldre</button>' : "");
 }
@@ -839,6 +873,7 @@ function eventRow(when, name, text, showTime) {
 function renderWorld() {
   const now = new Date();
   $("worldEclipses").innerHTML = WORLD_ECLIPSES.filter(e => new Date(e[0]) > now).map(e => eventRow(new Date(e[0]), e[1], e[2])).join("");
+  clipList("worldEclipses", 2);
 }
 // Kommande uppskjutningar från The Space Devs. Sparas en timme, eftersom tjänsten begränsar antalet frågor.
 async function loadLaunches() {
@@ -863,9 +898,37 @@ async function loadLaunches() {
     const sub = [l.lsp, place.length > 1 ? place[0] + ", " + place[place.length - 1] : place[0], MISSION_SV[l.type] || l.type].filter(Boolean).join(" · ");
     return eventRow(new Date(l.net), (mission || rocket) + (mission ? " (" + rocket + ")" : ""), sub, true);
   }).join("");
+  clipList("launches", 3);
   $("launchCard").hidden = false;
 }
 let skyLoaded = false;
+// Visar de n första raderna i en lista och en knapp för resten.
+const openLists = new Set();
+function clipList(id, n) {
+  const el = $(id), rows = [...el.children], extra = rows.length - n;
+  rows.forEach((r, i) => r.classList.toggle("extra", i >= n));
+  el.classList.toggle("open", openLists.has(id));
+  let btn = el.nextElementSibling && el.nextElementSibling.classList.contains("showmore") ? el.nextElementSibling : null;
+  if (extra <= 0) { if (btn) btn.remove(); return; }
+  if (!btn) {
+    btn = document.createElement("button"); btn.className = "showmore";
+    btn.addEventListener("click", () => { openLists.has(id) ? openLists.delete(id) : openLists.add(id); clipList(id, n); });
+    el.after(btn);
+  }
+  btn.textContent = openLists.has(id) ? "Visa färre" : `Visa ${extra} till`;
+}
+function skyJump(id) {
+  const t = $(id); if (!t) return;
+  scrollTo({ top: t.getBoundingClientRect().top + scrollY - 64, behavior: calm ? "auto" : "smooth" });
+}
+$("jump").addEventListener("click", e => { const b = e.target.closest("button"); if (b) skyJump(b.dataset.to); });
+$("sum").addEventListener("click", e => { const b = e.target.closest("button"); if (b) skyJump(b.dataset.to); });
+addEventListener("scroll", () => {
+  if ($("sky").hidden) return;
+  let cur = "sky1";
+  for (const id of ["sky1", "sky2", "sky3"]) if ($(id).getBoundingClientRect().top < 120) cur = id;
+  document.querySelectorAll("#jump button").forEach(b => b.setAttribute("aria-current", String(b.dataset.to === cur)));
+}, { passive: true });
 
 function renderSky() {
   renderWorld();
@@ -877,6 +940,11 @@ function renderSky() {
   $("moonPct").textContent = Math.round(m.lit * 100) + " % belyst";
   $("nextFull").textContent = d(m.nextFull);
   $("nextNew").textContent = d(m.nextNew);
+  const today = now.toLocaleDateString("sv-SE", { weekday: "long", day: "numeric", month: "long" });
+  $("skyDate").textContent = today.charAt(0).toUpperCase() + today.slice(1);
+  $("sumMoonLit").setAttribute("d", moonPath(m, 42));
+  $("sumMoon").textContent = moonName(m);
+  $("sumMoonText").textContent = m.lit < 0.25 ? "Mörk himmel i natt" : m.lit > 0.75 ? "Ljus natt, månen lyser starkt" : `Månen är ${Math.round(m.lit * 100)} % belyst`;
 
   const events = [];
   for (let i = 0, k = m.k; i < 3; i++, k++) {
@@ -902,6 +970,12 @@ function renderSky() {
       <div class="what">${esc(name)}<small>${esc(text)}</small></div>
       <div class="in">${days <= 0 ? "i dag" : days === 1 ? "i morgon" : days < 100 ? "om " + days + " dagar" : sameYear ? "" : when.getFullYear()}</div></div>`;
   }).join("");
+  clipList("events", 3);
+  const shower = events.find(e => e[1].startsWith("Meteorregn"));
+  if (shower) {
+    const days = Math.round((new Date(shower[0].getFullYear(), shower[0].getMonth(), shower[0].getDate()) - midnight) / 864e5);
+    $("sumMeteor").textContent = shower[1].replace("Meteorregn: ", "") + (days <= 0 ? " i natt" : days === 1 ? " i morgon" : ` om ${days} dagar`);
+  }
 }
 // Norrskensprognos: högsta Kp-värdet i natt (kl. 18–06) ur NOAA:s prognos. Kortet visas bara om tjänsten svarar.
 const KP_TEXT = [
@@ -945,6 +1019,12 @@ async function loadAurora() {
     $("auroraText").textContent = level[2] + " Kp-index " + kp.toFixed(1).replace(".", ",") + " av 9.";
     $("kpBar").innerHTML = Array.from({ length: 9 }, (_, i) => `<i class="${i < Math.round(kp) ? "on" : ""}"></i>`).join("");
     $("aurora").hidden = false;
+    const active = kp >= 4;   // från Kp 4 kan norrsken synas en bit ner i landet
+    $("sumAurora").classList.toggle("alert", active);
+    $("sumAurora").querySelector("i").textContent = active ? "" : "›";
+    $("sumAuroraHead").textContent = active ? "Norrsken möjligt i natt" : "Lugnt norrsken";
+    $("sumAuroraText").textContent = level[2].replace(/^Norrsken /, "").replace(/\.$/, "").replace(/^./, c => c.toUpperCase());
+    $("sumAurora").hidden = false;
   } catch (e) { /* tjänsten nås inte: kortet förblir dolt */ }
 }
 loadAurora();
