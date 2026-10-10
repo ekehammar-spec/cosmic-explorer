@@ -15,11 +15,15 @@ import { fileURLToPath } from "node:url";
 
 const DATA = path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "data");
 const FEED = process.env.APOD_FEED || "https://science.nasa.gov/feed/apod-basic/";
+// Jordbilden: NASA Earth Observatorys "Image of the Day"
+const EARTH_FEED = process.env.EARTH_FEED || "https://science.nasa.gov/feed/?science_org=19791%2C22453";
+const EARTH = path.join(DATA, "earth");
+const EARTH_MAX = Number(process.env.EARTH_MAX ?? 12);   // högst så här många nya jordbilder per körning
 const GEMINI_KEY = process.env.GEMINI_API_KEY;
 // Modeller i turordning: den starkaste först. En modell som nekas (t.ex. för att
 // den inte ingår i gratisnivån) hoppas över resten av körningen.
 const MODELS = (process.env.GEMINI_MODEL || "gemini-3.8-flash,gemini-3.5-flash-lite").split(",").map(m => m.trim()).filter(Boolean);
-const VERSION = 3; // höj för att låta jobbet skriva om befintliga dagar
+const VERSION = 4; // höj för att låta jobbet skriva om befintliga dagar
 
 if (!GEMINI_KEY) {
   console.error("GEMINI_API_KEY saknas.");
@@ -75,33 +79,47 @@ async function fetchFeed() {
 }
 
 /* ---------- Gemini ---------- */
+const QUIZ = {
+  type: "ARRAY",
+  items: {
+    type: "OBJECT",
+    required: ["q", "options", "correct", "fact"],
+    properties: { q: { type: "STRING" }, options: { type: "ARRAY", items: { type: "STRING" } }, correct: { type: "INTEGER" }, fact: { type: "STRING" } }
+  }
+};
+const LEVELS = {
+  type: "OBJECT",
+  required: ["barn", "nyborjare", "entusiast"],
+  properties: { barn: { type: "STRING" }, nyborjare: { type: "STRING" }, entusiast: { type: "STRING" } }
+};
+const TERMS = {
+  type: "ARRAY",
+  items: { type: "OBJECT", required: ["term", "explanation"], properties: { term: { type: "STRING" }, explanation: { type: "STRING" } } }
+};
 const SCHEMA = {
   type: "OBJECT",
-  required: ["title_sv", "quiz", "levels", "terms"],
+  required: ["title_sv", "quiz", "levels", "terms", "en"],
   properties: {
     title_sv: { type: "STRING" },
-    quiz: {
-      type: "ARRAY",
-      items: {
-        type: "OBJECT",
-        required: ["q", "options", "correct", "fact"],
-        properties: {
-          q: { type: "STRING" },
-          options: { type: "ARRAY", items: { type: "STRING" } },
-          correct: { type: "INTEGER" },
-          fact: { type: "STRING" }
-        }
-      }
-    },
-    levels: {
+    quiz: QUIZ,
+    levels: LEVELS,
+    terms: TERMS,
+    en: {
       type: "OBJECT",
-      required: ["barn", "nyborjare", "entusiast"],
-      properties: { barn: { type: "STRING" }, nyborjare: { type: "STRING" }, entusiast: { type: "STRING" } }
-    },
-    terms: {
-      type: "ARRAY",
-      items: { type: "OBJECT", required: ["term", "explanation"], properties: { term: { type: "STRING" }, explanation: { type: "STRING" } } }
+      required: ["quiz", "levels", "terms"],
+      properties: { quiz: QUIZ, levels: LEVELS, terms: TERMS }
     }
+  }
+};
+const EARTH_SCHEMA = {
+  type: "OBJECT",
+  required: ["title_sv", "place_sv", "levels", "terms", "en"],
+  properties: {
+    title_sv: { type: "STRING" },
+    place_sv: { type: "STRING" },
+    levels: LEVELS,
+    terms: TERMS,
+    en: { type: "OBJECT", required: ["place", "levels", "terms"], properties: { place: { type: "STRING" }, levels: LEVELS, terms: TERMS } }
   }
 };
 
@@ -134,7 +152,38 @@ Ordval: skriv marsrover, rover och rovern (aldrig rovare). Skriv ihop sammansatt
 
 Språk: korrekt, ledig svenska med rätt genus och böjning (en/ett, den/det). Läs igenom varje mening och rätta stavfel innan du svarar. Skriv tal på svenskt vis (1,5 miljoner, 20 000).
 
+5. en: samma innehåll på engelska, skrivet direkt på naturlig engelska och inte ordagrant översatt.
+   - en.quiz: samma tre frågor med samma rätta svar på samma plats.
+   - en.levels: samma tre nivåer (nycklarna heter fortfarande barn, nyborjare och entusiast).
+   - en.terms: 4 till 6 termer som förekommer ordagrant i de engelska texterna, med förklaring på engelska.
+
 Fakta: håll dig strikt till underlaget och väletablerad astronomi. Hitta inte på siffror.`;
+}
+
+function promptEarth(e) {
+  return `Du är en svensk vetenskapsjournalist som skriver till en app om rymden och jorden. Underlaget är en satellitbild från NASA Earth Observatory med tillhörande artikel.
+
+Titel: ${e.title}
+Ämnen: ${e.topics}
+Artikel: ${e.article}
+
+Läsaren ska betrakta bilden och förstå vad den visar. Det finns inga frågor och inga poäng.
+
+Skriv:
+1. title_sv: titeln på naturlig svenska. Behåll ortnamn i sin svenska form när en sådan finns.
+2. place_sv: var på jorden bilden är tagen, kort (t.ex. "Thailand", "Texas, USA", "Arktis").
+3. levels: tre förklaringar som löpande text utan rubriker och utan markdown, med tom rad mellan stycken. Börja med vad man faktiskt ser i bilden: färger, former och vad de betyder.
+   - barn: för ett nyfiket barn på 6–9 år. Enkla ord och korta meningar. Var varsam om bilden visar en katastrof: berätta sakligt och utan att skrämmas. Cirka 80 ord.
+   - nyborjare: för en vuxen utan förkunskaper. Förklara facktermer första gången de används. Cirka 130 ord.
+   - entusiast: för den som vill veta mer om satelliten, instrumentet, våglängderna och vad forskarna lär sig. Cirka 220 ord.
+4. terms: 4 till 6 facktermer eller egennamn som förekommer ordagrant i texterna, i grundform, var och en med en förklaring på en mening om högst 25 ord. Välj inte vardagsord.
+5. en: samma innehåll skrivet direkt på naturlig engelska: en.place, en.levels (samma tre nycklar) och en.terms (termer ur de engelska texterna).
+
+Ton: lugn, saklig och respektfull. Om bilden visar en översvämning, brand eller torka som drabbar människor: beskriv det med medkänsla och utan sensationslystnad.
+
+Språk: korrekt, ledig svenska med rätt genus och böjning. Skriv ihop sammansatta ord. Läs igenom och rätta stavfel innan du svarar. Skriv tal på svenskt vis (1,5 miljoner, 20 000).
+
+Fakta: håll dig strikt till artikeln. Hitta inte på siffror, orsaker eller följder som inte står där.`;
 }
 
 function valid(c) {
@@ -145,18 +194,36 @@ function valid(c) {
     c.levels && ["barn", "nyborjare", "entusiast"].every(k => typeof c.levels[k] === "string" && c.levels[k].length > 40) &&
     Array.isArray(c.terms);
 }
+const okLevels = l => l && ["barn", "nyborjare", "entusiast"].every(k => typeof l[k] === "string" && l[k].length > 40);
+function validEarth(c) {
+  return c && typeof c.title_sv === "string" && c.title_sv && okLevels(c.levels) && Array.isArray(c.terms);
+}
+const cleanTerms = t => (Array.isArray(t) ? t : []).filter(x => x && x.term && x.explanation).slice(0, 6);
+// Den engelska delen sparas om den är hel. En trasig engelsk del ska inte stoppa den svenska.
+function english(c, withQuiz) {
+  const en = c.en;
+  if (!en || !okLevels(en.levels)) return undefined;
+  const out = { levels: en.levels, terms: cleanTerms(en.terms) };
+  if (en.place) out.place = en.place;
+  if (withQuiz) {
+    const ok = Array.isArray(en.quiz) && en.quiz.length === 3 && en.quiz.every(q => q.q && Array.isArray(q.options) && q.options.length === 3 && q.fact);
+    if (!ok) return undefined;
+    out.quiz = en.quiz.map((q, i) => ({ ...q, correct: c.quiz[i].correct }));
+  }
+  return out;
+}
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
 
 const dropped = new Set();
 
-async function callGemini(model, apod) {
+async function callGemini(model, prompt, schema, check) {
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
     method: "POST",
     headers: { "content-type": "application/json", "x-goog-api-key": GEMINI_KEY },
     body: JSON.stringify({
-      contents: [{ parts: [{ text: promptFor(apod) }] }],
-      generationConfig: { responseMimeType: "application/json", responseSchema: SCHEMA, temperature: 0.6 }
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { responseMimeType: "application/json", responseSchema: schema, temperature: 0.6 }
     })
   });
   if (!res.ok) {
@@ -167,17 +234,17 @@ async function callGemini(model, apod) {
   const body = await res.json();
   const out = body.candidates?.[0]?.content?.parts?.map(p => p.text || "").join("") || "";
   const content = JSON.parse(out);
-  if (!valid(content)) throw new Error("ofullständigt svar från " + model);
+  if (!check(content)) throw new Error("ofullständigt svar från " + model);
   return content;
 }
 
-async function askGemini(apod) {
+async function askGemini(prompt, schema = SCHEMA, check = valid) {
   let lastError = new Error("Ingen Gemini-modell är tillgänglig");
   for (const model of MODELS) {
     if (dropped.has(model)) continue;
     for (let attempt = 1; attempt <= 2; attempt++) {
       try {
-        return { content: await callGemini(model, apod), model };
+        return { content: await callGemini(model, prompt, schema, check), model };
       } catch (e) {
         lastError = e;
         console.warn(`Försök ${attempt} misslyckades: ${e.message}`);
@@ -218,7 +285,7 @@ async function needs(date) {
 }
 
 async function buildDay(apod) {
-  const { content, model } = await askGemini(apod);
+  const { content, model } = await askGemini(promptFor(apod));
   const day = {
     v: VERSION,
     model,
@@ -235,7 +302,8 @@ async function buildDay(apod) {
     ...(await preview(apod.thumb)),
     quiz: content.quiz,
     levels: content.levels,
-    terms: content.terms.filter(t => t && t.term && t.explanation).slice(0, 6)
+    terms: cleanTerms(content.terms),
+    en: english(content, true)
   };
   await writeFile(fileFor(day.date), JSON.stringify(day, null, 2));
   console.log(`Sparade ${day.date}: ${day.title} (${model})`);
@@ -252,7 +320,63 @@ async function writeIndex() {
   await writeFile(path.join(DATA, "index.json"), JSON.stringify(list, null, 1));
 }
 
+/* ---------- Jordbilden ---------- */
+const strip = html => decode(decode(html).replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
+async function fetchEarth() {
+  const res = await fetch(EARTH_FEED, { headers: { "user-agent": "cosmic-explorer (github actions)" } });
+  if (!res.ok) throw new Error(`Jordflödet svarade ${res.status}`);
+  const xml = await res.text();
+  const items = [];
+  for (const part of xml.split(/<item[\s>]/).slice(1)) {
+    const item = part.split("</item>")[0];
+    const published = new Date(text(item, "pubDate"));
+    const body = raw(item, "content:encoded");
+    const cats = [...item.matchAll(/<category>([\s\S]*?)<\/category>/g)].map(m => strip(m[1].replace(/<!\[CDATA\[|\]\]>/g, "")));
+    if (isNaN(published) || !cats.includes("Earth Observatory")) continue;
+    const img = (body.match(/https:\/\/assets\.science\.nasa\.gov\/dynamicimage\/[^"'\s?]*\/eo\/[^"'\s?]+\.(?:jpe?g|png)/i) || [])[0];
+    const credit = strip((body.match(/class="hds-credits"[^>]*>([\s\S]*?)<\/div>/) || [])[1] || "");
+    const source = ((strip(body).match(/NASA Earth Observatory (?:images?|photos?|maps?|animations?|videos?) (?:by|courtesy).{0,240}?(?=\s*Story by|\s*Text by|$)/) || [])[0] || "").trim();
+    const paragraphs = [...body.matchAll(/<p class="wp-block-paragraph"[^>]*>([\s\S]*?)<\/p>/g)].map(m => strip(m[1])).filter(t => t.length > 40);
+    const article = (paragraphs.join("\n\n") || text(item, "description")).replace(/The post .* appeared first on NASA Science\./, "").slice(0, 6000);
+    const rights = credit + " " + source;
+    // Bara NASA:s egna bilder tas med. Andras bilder är märkta med ägarens namn och hoppas över.
+    if (!img || !/NASA/i.test(rights) || /©|copyright|Planet Labs|Maxar|Airbus|courtesy of (?!NASA)/i.test(rights)) {
+      console.log(`Jordbild hoppas över (${text(item, "title")}): ${img ? "upphov: " + (rights.trim() || "saknas") : "ingen bild"}`);
+      continue;
+    }
+    items.push({
+      date: published.toISOString().slice(0, 10), title: text(item, "title"), link: decode(raw(item, "link")),
+      topics: cats.filter(c => c !== "Earth Observatory").join(", "), article, credit, source,
+      url: sized(img, 1600), thumb: sized(img, 480), hdurl: img
+    });
+  }
+  return items.filter(i => i.title && i.article.length > 60);
+}
+const earthFile = date => path.join(EARTH, date + ".json");
+async function buildEarth(e) {
+  const { content, model } = await askGemini(promptEarth(e), EARTH_SCHEMA, validEarth);
+  const day = {
+    v: VERSION, model, date: e.date, title: e.title, title_sv: content.title_sv, place: content.place_sv || "",
+    url: e.url, thumb: e.thumb, hdurl: e.hdurl, link: e.link, credit: e.credit || "NASA Earth Observatory", source: e.source,
+    ...(await preview(e.thumb)),
+    levels: content.levels, terms: cleanTerms(content.terms), en: english(content, false)
+  };
+  await writeFile(earthFile(day.date), JSON.stringify(day, null, 2));
+  console.log(`Sparade jordbild ${day.date}: ${day.title} (${model})`);
+}
+async function writeEarthIndex() {
+  const files = (await readdir(EARTH)).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f));
+  const list = [];
+  for (const f of files) {
+    const d = JSON.parse(await readFile(path.join(EARTH, f), "utf8"));
+    list.push({ date: d.date, title: d.title_sv || d.title, place: d.place, thumb: d.thumb || d.url });
+  }
+  list.sort((a, b) => b.date.localeCompare(a.date));
+  await writeFile(path.join(EARTH, "index.json"), JSON.stringify(list, null, 1));
+}
+
 await mkdir(DATA, { recursive: true });
+await mkdir(EARTH, { recursive: true });
 const items = await fetchFeed();
 console.log(`Flödet innehåller ${items.length} bilder.`);
 if (!items.length) { console.error("Hittade inga bilder i NASA:s flöde."); process.exit(1); }
@@ -264,4 +388,19 @@ for (const item of items) {
   catch (e) { failed++; console.error(`Kunde inte skapa ${item.date}: ${e.message}`); }
 }
 await writeIndex();
+
+// Jordbilderna: fel här stoppar inte resten, eftersom flödets form kan ändras.
+try {
+  const earth = await fetchEarth();
+  console.log(`Jordflödet innehåller ${earth.length} godkända bilder.`);
+  let made = 0;
+  for (const e of earth) {
+    if (made >= EARTH_MAX) break;
+    if (existsSync(earthFile(e.date)) && (JSON.parse(await readFile(earthFile(e.date), "utf8")).v || 1) >= VERSION) continue;
+    try { await buildEarth(e); made++; await wait(Number(process.env.PAUSE_MS ?? 13000)); }
+    catch (err) { console.error(`Kunde inte skapa jordbild ${e.date}: ${err.message}`); }
+  }
+  await writeEarthIndex();
+} catch (err) { console.error("Jordbilderna hoppades över: " + err.message); }
+
 if (failed) process.exit(1);
