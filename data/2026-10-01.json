@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-10-01",
   "title": "Harvest Moon with Erupting Mount Etna",
-  "title_sv": "Skördemåne med utbrytande Mount Etna",
+  "title_sv": "Skördemåne över Etnas utbrott",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACUQAAEEAQIFBQAAAAAAAAAAAAEAAgMRBBIhBTFhcZETIzJRUv/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EABoRAAMBAAMAAAAAAAAAAAAAAAABEQIDEiH/2gAMAwEAAhEDEQA/AMZ8Rvp2B4Uo4sYeZZ2OdBGbcGjn07KjBxrFLPea9tbVWq/CQzuJwSgta2TSDfxoLLGd2Qt0+NZvZEnimS/NyTK/YAaWN/LRyCnuCoSGF1kG+p2SrwANqKpkURHa6aRZj2aTojIG9UmW5euFz3xNJDgB2QhJoyvolJKXk7AD6pYE226HhCEWPJ//2Q==",
   "quiz": [
     {
-      "q": "Vad händer på himlen samtidigt som en fullmåne går upp?",
+      "q": "Varför tar det cirka 29,5 dagar mellan två fullmånar, trots att månen kretsar runt jorden på drygt 27 dagar?",
       "options": [
-        "Solen går ner",
-        "En solförmörkelse inträffar",
-        "Nordskenet tänds"
+        "Jorden rör sig samtidigt runt solen, så månen måste färdas lite längre för att åter hamna i linje med solen.",
+        "Månens bana är kraftigt elliptisk, vilket saktar ner dess hastighet under halva omloppet.",
+        "Jordens rotation bromsar månens skenbara rörelse över himlen genom tidvattnets friktion."
       ],
       "correct": 0,
-      "fact": "Under en fullmåne är Månen och Solen i opposition på himlen, vilket betyder att månen stiger upp precis när solen går ner."
+      "fact": "Eftersom jorden hela tiden rör sig framåt i sin bana runt solen måste månen färdas drygt två extra dagar för att solens, jordens och månens inbördes vinklar ska återställas."
     },
     {
-      "q": "Hur lång tid tar det ungefär för Månen att fullfölja en hel fascykel från fullmåne till fullmåne?",
+      "q": "Vad orsakar det rosa bandet på himlen som kallas Venus bälte?",
       "options": [
-        "24 timmar",
-        "29,5 dagar",
-        "365 dagar"
-      ],
-      "correct": 1,
-      "fact": "Månfascykeln tar ungefär 29,5 dagar att slutföra, även om själva omloppsbanan runt jorden tar ungefär 27 dagar."
-    },
-    {
-      "q": "Vad kallas den rosa färgbandet som ibland syns lågt på himlen i skymningen?",
-      "options": [
-        "Vintergatan",
-        "Ozonlagret",
-        "Venusbältet"
+        "Reflektion av månsken i mikroskopiska iskristaller högt uppe i stratosfären.",
+        "Ljussken från heta vulkaniska gaser som sprids i atmosfären vid solnedgången.",
+        "Bakåtspridning av det sista rodnande solljuset i atmosfären ovanför jordens skugga."
       ],
       "correct": 2,
-      "fact": "Det rosa bandet som syns lägre ner på himlen kallas för Venusbältet och orsakas av solljus som sprids i atmosfären."
+      "fact": "Venus bälte uppstår när det rödaktiga ljuset från den nedgående solen sprids tillbaka av atmosfären, precis ovanför jordens mörka skugga."
+    },
+    {
+      "q": "Varför går fullmånen alltid upp ungefär samtidigt som solen går ner?",
+      "options": [
+        "Månen reflekterar bara tillräckligt med solljus när den står vinkelrätt mot jorden.",
+        "Fullmåne inträffar när månen befinner sig rakt mitt emot solen sett från jorden.",
+        "Jordens gravitation drar månen mot horisonten så fort solens strålning försvinner."
+      ],
+      "correct": 1,
+      "fact": "Vid fullmåne står solen, jorden och månen på rad. När vi på jorden roterar bort från solen ser vi därför fullmånen stiga upp på den motsatta sidan av himlen."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar upp på kvällshimlen och ser en jättestor, lysande boll. Det är fullmånen som klättrar uppåt samtidigt som solen gömmer sig. Bakom månen puffar en vulkan som heter Etna ut aska och rök, precis som när man blåser ut ett ljus på en tårta och det ryker lite efteråt. Himlen skiftar i vackra färger som rosa och orange, ungefär som när godis smälter i munnen.",
-    "nyborjare": "Den här färgglada bilden är ett så kallat kompositfoto, vilket betyder att flera fotografier har satts ihop till ett. Den visar hur fullmånen stiger upp i Sicilien samtidigt som himlen mörknar. Lägre moln reflekterar färgerna från skymningen, medan aska och gas från vulkanen Mount Etna syns i bakgrunden. Det rosa bandet som syns lägre ner på himlen kallas för Venusbältet. När det är fullmåne befinner sig månen och solen i opposition på himlen, vilket innebär att månen går upp exakt när solen går ner. Månens fascykel tar ungefär 29,5 dagar.",
-    "entusiast": "Denna sammansatta bild fångar ett ögonblick i närheten av Nicosia på Sicilien där flera atmosfäriska och astronomiska fenomen sammanfaller. Den visar månens uppgång i opposition till solen, ett geometriskt tillstånd under fullmånefasen där Månen och Solen är positionerade på motsatta sidor om Jorden. Den totala synkroniseringen av himlens färgförändringar inkluderar den rosa skymningsbågen känd som Venusbältet, skapad av tillbakaspritt solljus. I bildens nedre och mellersta skikt reflekterar låga moln antitwilight-effektens färger, medan vulkanisk aska och gas från Mount Etna skymtas i bakgrunden. Den synodiska månfascykeln, det vill säga tiden från en fullmåne till nästa, varar i genomsnitt ungefär 29,5 dygn, vilket skiljer sig från den sideriska omloppstiden på cirka 27 dygn då Månen kretsar i förhållande till bakgrundsstjärnorna."
+    "barn": "Titta på den stora, runda månen som kikar upp bakom det rykande berget! Berget är en vulkan på Sicilien som heter Etna, och den sprutar just nu ut ett stort moln av aska och rök.\n\nNär månen är helt rund kallas den för fullmåne. Den lyser upp natten precis som en jättestor nattlampa i ditt rum. Ser du att himlen är alldeles rosa och lila längst ner? Det beror på att solen precis har gått ner på andra sidan jorden och målar himlen innan det blir mörkt.",
+    "nyborjare": "Den här bilden visar en fullmåne som stiger upp över horisonten bakom vulkanen Etna på Sicilien, samtidigt som ett utbrott kastar upp aska och rök i atmosfären. Eftersom fullmånen inträffade i september kallas den ofta för skördemåne. Förr i tiden gav dess starka sken välkommet extra ljus åt bönderna under den bråda skördetiden.\n\nVid fullmåne står solen och månen rakt mitt emot varandra på himlen, vilket kallas opposition. När solen går ner i väster stiger månen därför upp i öster. Det mjuka rosa bandet som syns nära horisonten kallas Venus bälte. Det uppstår när det sista rodnande solljuset från den nedgångna solen reflekteras och sprids tillbaka i atmosfären, precis ovanför jordens egen mörka skugga som sakta stiger upp över himlen.",
+    "entusiast": "I denna kompositbild fångas september månads skördemåne när den stiger i opposition bakom den aktiva stratovulkanen Etna på Sicilien. I bakgrunden syns eruptiva plymer av aska och vulkaniska gaser som stiger upp i skymningshimlen.\n\nVid fullmåne befinner sig månen och solen i opposition med en elongation på 180 grader. Månens synodiska omloppstid, alltså tiden det tar att fullborda en hel fascykel från fullmåne till fullmåne, är cirka 29,5 dygn. Detta skiljer sig från den sideriska omloppstiden på 27,3 dygn, vilket är tiden det tar för månen att rotera ett varv runt jorden i förhållande till fixstjärnorna. Skillnaden uppstår eftersom jorden samtidigt rör sig framåt i sin bana kring solen, vilket gör att månen måste färdas ytterligare en bit för att återigen hamna i linje med jorden och solen.\n\nDet karakteristiska rosa bandet längs horisonten kallas Venus bälte, eller antitwilight. Detta atmosfäriska fenomen orsakas av bakåtspridning av rödaktigt solljus i den övre troposfären, beläget direkt ovanför jordens blågrå skugga på himlavalvet. Kring höstdagjämningen bildar ekliptikan dessutom en flack vinkel mot horisonten vid månuppgången på norra halvklotet, vilket gör att månen stiger med ovanligt liten tidsförskjutning mellan på varandra följande kvällar."
   }
 }

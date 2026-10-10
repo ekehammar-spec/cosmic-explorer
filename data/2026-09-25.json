@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-25",
   "title": "Globular Cluster Omega Centauri",
   "title_sv": "Stjärnhopen Omega Centauri",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAgX/xAAgEAABBAEFAQEAAAAAAAAAAAABAAIDEQQFISIxYUFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AhgLNJ/EwnTmmi0kzvtUugSxMkAfsfVYOTl4DoBTm0VznigNt/wBVpr8kD4uNX4o6YckpWfqYhyHRmwUIQamy3SCibSriXFCEH//Z",
   "quiz": [
     {
-      "q": "Vad är Omega Centauri för något?",
+      "q": "Vad är en klotformig stjärnhop som Omega Centauri för något?",
       "options": [
-        "En ensam supermassiv stjärna",
-        "En klotformig stjärnhop med miljoner stjärnor",
-        "Ett stort moln av enbart gas och stoft"
-      ],
-      "correct": 1,
-      "fact": "Omega Centauri är en klotformig stjärnhop som rymmer cirka 10 miljoner stjärnor tätt packade tillsammans."
-    },
-    {
-      "q": "Varför skiljer sig Omega Centauri från många andra stjärnhopar?",
-      "options": [
-        "Den saknar helt stjärnor med gulaktig färg",
-        "Den har stjärnor med olika åldrar och kemisk sammansättning",
-        "Den ligger i centrum av Vintergatan"
-      ],
-      "correct": 1,
-      "fact": "Medan de flesta stjärnhopar består av stjärnor med samma ålder, uppvisar Omega Centauri olika stjärnpopulationer med spridda åldrar, vilket tyder på att det kan vara kärnan av en liten slukad galax."
-    },
-    {
-      "q": "Vad har Hubbleteleskopet funnit bevis för nära mitten av stjärnhopen?",
-      "options": [
-        "Ett gigantiskt svart hål",
-        "En nyfödd planet",
-        "En ring av asteroider"
+        "En kompakt samling av miljontals gamla stjärnor som hålls ihop av gravitationen",
+        "En nyfödd stjärna omgiven av ett tjockt moln av lysande gas och stoft",
+        "Ett jättelikt svart hål som slukar alla stjärnor i sin närhet"
       ],
       "correct": 0,
-      "fact": "En två decier lång utforskning med Hubble-teleskopet har avslöjat bevis för ett massivt svart hål nära centrum av Omega Centauri."
+      "fact": "Klotformiga stjärnhopar är mycket täta ansamlingar av gamla stjärnor som kretsar kring en galax centrum."
+    },
+    {
+      "q": "Varför tror forskare att Omega Centauri kan vara resterna av en dvärggalax?",
+      "options": [
+        "Den har en helt annan färg än alla andra kända stjärnhopar",
+        "Den innehåller stjärnor med olika åldrar och kemisk sammansättning",
+        "Den snurrar baklänges jämfört med resten av Vintergatan"
+      ],
+      "correct": 1,
+      "fact": "Till skillnad från vanliga stjärnhopar, som bildas samtidigt, har Omega Centauri stjärnor med en spridning av åldrar och kemiska sammansättningar, vilket tyder på att det är kärnan av en uppslukad galax."
+    },
+    {
+      "q": "Vilken färg har de dominerande jättestjärnorna i Omega Centauri?",
+      "options": [
+        "Intensivt blå",
+        "Klart vita",
+        "Gulaktiga"
+      ],
+      "correct": 2,
+      "fact": "Stjärnhopens röda jättestjärnor ger den ett tydligt gulaktigt sken i teleskopbilder."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en gigantisk boll fylld med miljoner lysande discokulor som trängs på ett litet utrymme. Det är precis vad Omega Centauri är! Det är en jättestor samling av stjärnor som sitter ihop i en klotform. Vissa av stjärnorna lyser i vackert gult och ser ut som små glödlampor ute i rymden. De flesta stjärnor i en sådan grupp brukar vara lika gamla, men här finns både äldre och yngre stjärnor huller om buller.",
-    "nyborjare": "Bilden visar Omega Centauri, som är den största och ljusstarkaste klotformiga stjärnhopen i vår galax Vintergatan. En klotformig stjärnhop är ett tätt packat gäng av gamla stjärnor som hålls samman av gravitationen. Den här hopen innehåller omkring 10 miljoner stjärnor på ett ganska litet utrymme. Till skillnad från vanliga stjärnhopar, där alla stjärnor brukar ha samma ålder, har Omega Centauri stjärnor med olika åldrar och kemiska ämnen. Det gör att forskare tror att den kan vara kärnan från en liten galax som en gång i tiden har smält samman med Vintergatan. Med hjälp av Hubbleteleskopet har man också hittat spår av ett massivt svart hål i dess mitt.",
-    "entusiast": "Omega Centauri, katalogiserad som NGC 5139, är den mest magnifika av de omkring 200 kända klotformiga stjärnhopar som kretsar i Vintergatans galaktiska halo. Belägen på ett avstånd av 15 000 ljusår rymmer denna gigantiska struktur ungefär 10 miljoner stjärnor som är betydligt äldre än solen, sammanpackade i en volym med en diameter på cirka 150 ljusår. Den skiljer sig fundamentalt från typiska stjärnhopar genom att uppvisa multipla stjärnpopulationer med distinkta åldrar och kemiska sammansättningar, vilket starkt stöder teorin om att Omega Centauri är restkärnan av en dvärggalax som absorberats av Vintergatan. Teleskopiska observationer visar tydligt dess röda jättestjärnor med karakteristiska gulaktiga nyanser. Dessutom har två decennier av observationer med Hubble-teleskopet givit starka bevis för närvaron av ett massivt svart hål centralt i hopen."
+    "barn": "Tänk dig en jättestor boll fylld av tio miljoner gnistrande diamanter på natthimmeln. Det är precis vad Omega Centauri är, en enorm boll av stjärnor som sitter tätt ihopklämda på samma ställe. De flesta stjärnorna där är mycket äldre än vår egen sol och lyser tillsammans i ett vackert, varmt sken. Det är som ett gigantiskt glittrande fyrverkeri som har frusit fast ute i rymden.",
+    "nyborjare": "Omega Centauri är den största och ljusstarkaste klotformiga stjärnhop som kretsar i utkanten av vår galax, Vintergatan. Den rymmer omkring tio miljoner stjärnor som är mycket äldre än solen, samlade på ett ganska litet utrymme. Till skillnad från vanliga stjärnhopar, vars stjärnor bildades samtidigt, har denna mystiska hop stjärnor av olika åldrar. Forskare tror därför att det kan vara den kvarvarande kärnan från en liten dvärggalax som en gång i tiden slukades av Vintergatan.",
+    "entusiast": "Med en diameter på cirka 150 ljusår rymmer den massiva stjärnhopen Omega Centauri, även känd som NGC 5139, ungefär tio miljoner stjärnor på ett avstånd av 15 000 ljusår från jorden. Den utmärker sig i Vintergatans galaktiska halo genom att uppvisa flera skilda stjärnpopulationer med varierande åldrar och kemiska sammansättningar, vilket starkt stöder hypotesen om att den är den tidiga kärnresten av en dvärggalax som smält samman med vår egen galax. Teleskopobservationer under två decennier har dessutom funnit bevis för ett massivt svart hål i dess centrala delar, och dess röda jättestjärnor ger hopen dess karakteristiska gulaktiga nyans."
   }
 }

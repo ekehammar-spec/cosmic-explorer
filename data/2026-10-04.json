@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-10-04",
   "title": "Supernumerary Rainbows over New Jersey",
   "title_sv": "Övertaliga regnbågar över New Jersey",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABYDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBQIDBv/EACUQAAIBBAICAAcAAAAAAAAAAAECAAMEERIhMQUiEzJBYXGR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEC/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECEQMSEyFR/9oADAMBAAIRAxEAPwCu+CveSIzboVBbbIEx12YAZ5jtWkKKrTK5IGT+YxTS9A4ltaLkse4TeoVhxkmEsmEePo73ak/KvscxqsS1RiSMk5M53wN3dPZ4RW1pcbHpufr/ACNV/MC1qql1bVUyOXIGuftEp5e1PRnMlYWDMV6WEXHmLEIrKFbbv3wB+4Qvmj6Yxn//2Q==",
   "quiz": [
     {
-      "q": "Vad hände strax efter att orkanen Florence hade passerat New Jersey år 2018?",
+      "q": "Vad är det för fysikaliskt fenomen som skapar de extra, tätt sittande ränderna på insidan av regnbågen?",
       "options": [
-        "Solen sken upp och en ovanlig samling regnbågar dök upp",
-        "En total solförmörkelse inträffade mitt på dagen",
-        "Ett kraftigt norrsken syntes på himlen"
+        "Ljusets våginterferens när det lämnar dropparna",
+        "Reflektion mot svävande iskristaller i atmosfären",
+        "Polarisering orsakad av molekyler i ozonskiktet"
       ],
       "correct": 0,
-      "fact": "Efter att orkanen Florence dragit förbi kom solen fram i motsatt riktning och skapade en ovanlig syn med flera regnbågar."
+      "fact": "De övertaliga banden uppstår när ljusvågor tar något olika vägar genom regndropparna och samverkar eller släcker ut varandra genom interferens."
     },
     {
-      "q": "Hur skapas de sällsynta regnbågarna som syns på bilden?",
+      "q": "Vilket villkor måste regndropparna uppfylla för att dessa övertaliga bågar ska bildas?",
       "options": [
-        "När vattendropparna har exakt samma storlek och ljuset interfererar",
-        "När regndropparna fryser till is innan de når marken",
-        "När solljuset studsar mot moln av vulkanisk aska"
-      ],
-      "correct": 0,
-      "fact": "Övertaliga regnbågar uppstår när fallande vattendroppar är nästan lika stora och mindre än en millimeter, vilket gör att ljusvågorna interfererar med varandra."
-    },
-    {
-      "q": "Vad ansågs upptäckten av dessa speciella regnbågar vara bevis på i början av 1800-talet?",
-      "options": [
-        "Att regndroppar är helt kvadratiska",
-        "Att ljus har en vågnatur",
-        "Att rymden är oändlig"
+        "De måste frysa till små runda hagelkorn under sitt fall",
+        "De måste ha nästan identisk storlek och vara under en millimeter",
+        "De måste passera genom ett kraftigt statiskt elektriskt fält"
       ],
       "correct": 1,
-      "fact": "Eftersom dessa regnbågar bara kan förklaras med vågfysik, var deras existens tidiga bevis för att ljus fungerar som vågor."
+      "fact": "Dropparna måste vara mycket jämna i storlek för att interferensmönstret ska bli synligt, annars smetas färgbanden ut till ett diffust ljus."
+    },
+    {
+      "q": "Vad i fysikens historia bidrog observationer av övertaliga regnbågar till att bevisa under tidigt 1800-tal?",
+      "options": [
+        "Att ljushastigheten är konstant i alla referensramar",
+        "Att vitt solljus i själva verket består av fotoner",
+        "Att ljus beter sig som vågor och inte enbart som partiklar"
+      ],
+      "correct": 2,
+      "fact": "Klassisk stråloptik kunde inte förklara de extra banden, vilket gjorde fenomenet till ett viktigt tidigt bevis för ljusets vågnatur."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar på himlen efter ett regnväder och ser en vanlig regnbåge. Men på den här bilden är det inte bara en båge, utan flera stycken som ligger tätt tillsammans som extra belysning! Det blir så här magiskt när regndrottarna är precis lika stora. Det är lite som när man kastar en liten sten i en vattenpöl och ringarna på vattnet krockar med varandra. Barnet och pappan som såg detta blev jätteglada när färgerna dök upp och försvann om vartannat.",
-    "nyborjare": "Efter att resterna av orkanen Florence hade dragit förbi New Jersey år 2018 inträffade ett ovanligt väderfenomen. När solen tittade fram i ena riktningen dök en hel samling av regnbågar upp i motsatt riktning. Fotografen och hans dotter kunde se minst fem stycken samtidigt i en enda bild. Dessa kallas övertaliga regnbågar och bildas endast under speciella förhållanden när alla fallande vattendroppar är nästan exakt lika stora och mindre än en millimeter i diameter. Ljuset reflekteras inte bara inuti dropparna utan skapar också vågmönster genom så kallad interferens, vilket liknar krusningar på en vattendam.",
-    "entusiast": "Denna bild fångar ett fascinerande optiskt fenomen som observerades över New Jersey efter orkanen Florence 2018. Det som visas är ett system av övertaliga regnbågar, vilka uppstår när solljus interagerar med regndroppar som har en mycket enhetlig storlek under en millimeter i diameter. Utöver den vanliga ljusreflektionen och refraktionen sker här en våginterferens – ett fenomen som kan liknas vid vågkrusningar på vatten. Under tidigt 1800-tal utgjorde observerandet av dessa extra bågar viktiga tidiga bevis för ljusets vågnatur, eftersom den klassiska geometriska optiken inte räcker till för att förklara dem. Bilden visar minst fem distinkta bågar som tonar fram och tillbaka under en halvtimme."
+    "barn": "Ibland kan en regnbåge få extra färgband på insidan, precis som om någon målat flera små regnbågar tätt intill varandra!\n\nDet händer när regndropparna i luften är pyttesmå och nästan exakt lika stora. När solens ljus studsar inuti dropparna krockar ljusstrålarna med varandra. Tänk dig vad som händer när du kastar två stenar i en sjö samtidigt: ringarna på vattnet krockar och skapar nya mönster. Precis så krockar ljuset och trollar fram de här sällsynta extraränderna.",
+    "nyborjare": "En vanlig regnbåge uppstår när solljus bryts och reflekteras inuti regndroppar, vilket delar upp det vita ljuset i ett spektrum av färger. På den här bilden syns dock något betydligt mer ovanligt: flera svagare, tätt liggande bågar på insidan av huvudregnbågen. Dessa kallas för övertaliga regnbågar.\n\nFenomenet kräver att regndropparna är anmärkningsvärt jämna i storlek och typiskt sett mindre än en millimeter i diameter. Till skillnad från den vanliga regnbågen kan dessa extra bågar inte förklaras med enkel stråloptik. Istället uppstår de genom interferens, en vågeffekt där ljusvågor antingen förstärker eller släcker ut varandra beroende på hur de möts, vilket bildar det upprepade mönstret.",
+    "entusiast": "Klassisk geometrisk optik enligt Descartes och Newtons strålmodell räcker för att härleda primära och sekundära regnbågar, men faller helt kort när det gäller övertaliga regnbågar. Dessa inre bågar är ett rent vågoptiskt fenomen som matematiskt beskrivs genom Airy-teori och mer rigoröst via Mie-spridning.\n\nNär en plan vågfront av solljus träffar en regndroppe tar ljuset något olika geometriska vägar genom vattnet. Efter intern reflektion uppstår en fasskillnad mellan strålar som lämnar droppen i nästan samma vinkel. Den resulterande fasförskjutningen leder till konstruktiv och destruktiv interferens, vilket genererar en serie intensitetsmaxima och intensitetsminima på insidan av regnbågens primära vinkel.\n\nFör att mönstret ska vara observerbart med blotta ögat krävs en extremt monodispers droppstorleksfördelning där partiklarna typiskt understiger 1 millimeter i diameter. Om dropparna har varierande radier förskjuts interferensvinklarna för varje enskild droppstorlek, vilket resulterar i att mönstret smetas ut. Under tidigt 1800-tal analyserade fysikern Thomas Young detta fenomen, vilket utgjorde ett avgörande empiriskt bevis för ljusets vågnatur gentemot Newtons korpuskulärteori."
   }
 }

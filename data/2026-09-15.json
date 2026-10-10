@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-15",
   "title": "A Daytime Eclipse: Moon Occults Venus",
-  "title_sv": "En solförmörkelse på dagen: Månen döljer Venus",
+  "title_sv": "En solförmörkelse i dagsljus: Månen döljer Venus",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAJBAAAgICAQEJAAAAAAAAAAAAAQIAAxEhMQQSIjJBQlFhcYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgUA/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBEv/aAAwDAQACEQMRAD8A4QE0Vd8SVpk7OBHK60HoJ+zKe6nZgVq7ozxIakjaVErisH9lHoyTkmLTQstSrywE2rsRfCM/JiQb32YQeGFroHqNbME9S3lEu0c55MsMZoPT/9k=",
   "quiz": [
     {
-      "q": "Vilken planet döljer sig bakom månen på den här bilden?",
+      "q": "Vad är Venus för typ av himlakropp?",
       "options": [
-        "Mars",
-        "Venus",
-        "Jupiter"
-      ],
-      "correct": 1,
-      "fact": "Det var planeten Venus som plötsligt dök upp bakom månen under denna ovanliga händelse på dagen."
-    },
-    {
-      "q": "Både månen och Venus visar en speciell fas på bilden. Vilken?",
-      "options": [
-        "Fullfas",
-        "Halvfas",
-        "Skära"
+        "En gasjätte som Jupiter",
+        "En stjärna som lyser med eget ljus",
+        "En stenig planet nära solen"
       ],
       "correct": 2,
-      "fact": "Båda objekten fångades i en skärfas där månen visade en tunn skära och Venus en lite fylligare skära."
+      "fact": "Venus är den andra planeten från solen och är en stenig planet med ett tjockt, reflekterande molntäcke som gör den mycket ljusstark på himlen."
     },
     {
-      "q": "Varför såg Venus ljusare ut än den mörka månens yta?",
+      "q": "Varför kan både månen och Venus visa upp en mån- eller skärvfas?",
       "options": [
-        "Eftersom Venus moln reflekterar ljus bättre och planeten är närmare solen",
-        "Eftersom Venus har en egen inbyggd ljuskälla",
-        "Eftersom månen är gjord av svart kol"
+        "Eftersom de lyses upp av solen från en viss vinkel",
+        "För att jorden kastar sin skugga på dem samtidigt",
+        "Därför att de roterar så snabbt kring sin egen axel"
       ],
       "correct": 0,
-      "fact": "Venus sken starkare eftersom dess moln är mycket reflekterande och för att den befinner sig närmare solen än månen."
+      "fact": "Precis som månen uppvisar faser när den kretsar kring jorden, visar inre planeter som Venus olika faser beroende på deras position i förhållande till solen och jorden."
+    },
+    {
+      "q": "Vad kallas det när månen passerar framför och döljer en mer avlägsen planet?",
+      "options": [
+        "En planetarisk förmörkelse",
+        "En okkultation",
+        "En himlakroppsblockad"
+      ],
+      "correct": 1,
+      "fact": "När en himlakropp skymmer en annan från observatörens perspektiv kallas det för en okkultation."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att titta upp på himlen mitt på dagen när det plötsligt dyker upp en liten månskära bakom molnen. Men det är inte allt! Plötsligt tittar en ljus prick fram alldeles intill. Det är planeten Venus som gömt sig bakom månen. Precis som månen kan se ut som en bananskära i mörkret, så ser även Venus ut som en liten skära eftersom solen lyser på den från sidan.",
-    "nyborjare": "Den här bilden visar en ovanlig händelse på daghimlen ovanför Frankrike, där månen passerar framför och tillfälligt döljer planeten Venus, vilket kallas en ockultation. Både månen och Venus fångades i en så kallad skärfas. Månen visade en mycket tunn skära där bara tio procent belystes av solen, medan Venus visade en fylligare skära med tjugofem procents belysning. Venus ser extra ljus ut eftersom dess moln reflekterar solljuset mycket starkare än månens mörka yta. Sådana här händelser i dagsljus är sällsynta och synliga från endast en liten del av jorden.",
-    "entusiast": "Denna enskilda exponering fångar en månockultation av Venus i dagsljus, observerad nära Cessy i Frankrike. Händelsen inträffade när månen, vars skiva endast var belyst till omkring tio procent av solen, passerade framför Venus. Den ljusa pricken som oväntat dök upp är den inre planeten Venus, som här uppvisar en fas på ungefär tjugofem procents illumination. Venus höga skenbar magnitud i förhållande till den mörka månranden förklaras av dess höka albedo från täta molnlagers reflektionsförmåga samt dess närhet till solen relativt jorden. Ockultationer av planeter av denna typ är endast synliga från ungefär tio procent av jordens yta, och i det här fallet inträffade merparten av detta område under dagtid, vilket ställde höga krav på observationstekniken."
+    "barn": "Tänk dig att du bygger ett tittskåp och håller en liten kula framför en stor lampa. Det är ungefär vad som händer på himlen när månen smyger sig framför planeten Venus mitt på dagen! Även om det är ljust ute kan man ibland se hur månen sakta täcker över planeten. Det ser ut som två små skimrande bananer som tittar fram bakom molnen.",
+    "nyborjare": "Det här astronomiska fenomenet visar hur månen passerar framför och tillfälligt döljer planeten Venus mitt på dagen. Händelsen kallas för en okkultation. Både månen och Venus uppvisar här en så kallad fas, vilket betyder att solen endast belyser en del av deras ytor sett från jorden. Eftersom Venus moln är mycket reflekterande och planeten befinner sig nära solen kan den lysa starkt, trots att bara en liten del av dess skiva är belyst av solljuset.",
+    "entusiast": "Bilden fångar en okkultation där månen passerar framför planeten Venus under dagtid. Denna typ av händelse är endast synlig från en begränsad del av jorden, i detta fall cirka 10 procent av planetens yta. I den enskilda exponeringen uppvisar både månen och Venus tydliga faser. Månens skära är tunn med endast omkring 10 procent belysning, medan Venus visar en mer fullständig fas med ungefär 25 procents belysning. Venus till synes höga ljusstyrka i förhållande till sin belysta yta beror på dess korta avstånd till solen samt den höga albedon hos dess tjocka svavelsyramoln, vilka reflekterar solljuset effektivare än den mörka och karga månloytan."
   }
 }

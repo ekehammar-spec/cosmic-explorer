@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-23",
   "title": "A New Lunar Crater: McGetchin",
   "title_sv": "En ny månkrater: McGetchin",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwUH/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFIjFBURQysUJhgZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMBYCG3XKn6h0qSWzGOTkYkfNE2YOvLKQpG4Hc03cP8ASWti004jixGSzHYAZ+aBDkiZUXlOptz9qHkhePGsadXmnixsOF3tis8ameTW25YjWO23ilXiCATsFXBBIYnt+6CuzupllUKF9w69Kdr21t7myFtdTAHAblwdI8n+1z6J2Q5U79j4rRa/laMIsrAjC/gCg1ZZ4bG1aK1JQHPtNL7s7ygasEnqalJOy6c7nbVv3oZjrJ7eKD//2Q==",
   "quiz": [
     {
-      "q": "Vad var det som orsakade att den nya kratern McGetchin bildades på månen under våren 2024?",
+      "q": "Hur ofta förväntas en krater i denna storlek bildas på Månen?",
       "options": [
-        "Ett vulkanutbrott",
-        "En komet eller asteroid",
-        "En rymdfarkost som kraschade"
-      ],
-      "correct": 1,
-      "fact": "En komet eller asteroid stor som en knölval kraschade in i månen någon gång mellan april och maj 2024 och bildade den nya kratern."
-    },
-    {
-      "q": "Hur stor är den nybildade kratern på månens yta?",
-      "options": [
-        "Ungefär lika stor som två fotbollsplaner",
-        "Bara lika stor som en vanlig bil",
-        "Lika stor som en hel stad"
+        "Ungefär en gång var 132:e år",
+        "En gång i veckan året om",
+        "Varje årtusende"
       ],
       "correct": 0,
-      "fact": "Nedslaget skapade en krater som är två fotbollsplaner bred, vilket är ovanligt stort för händelser som inträffar med så glesa mellanrum."
+      "fact": "Nedslag av kometfragment eller asteroider som är runt 10 till 20 meter stora är sällsynta och inträffar i genomsnitt bara en gång vart 132:e år på månen."
     },
     {
-      "q": "Vilken rymdfarkost tog bilderna som avslöjade kratern före och efter nedslaget?",
+      "q": "Vad kallas det lösa stoftet som täcker månens yta?",
       "options": [
-        "Rymdteleskopet Hubble",
-        "Mars Perseverance",
-        "Lunar Reconnaissance Orbiter (LRO)"
+        "Kosmisk lera",
+        "Regolit",
+        "Meteoritstoft"
       ],
-      "correct": 2,
-      "fact": "Lunar Reconnaissance Orbiter (LRO) övervakar månen varje månad och lyckades fånga före- och efterbilder av händelsen."
+      "correct": 1,
+      "fact": "Regolit kallas det lösa lager av stoft och brutet stenmaterial som täcker månens yta och som puffas upp vid kraftiga nedslag."
+    },
+    {
+      "q": "Varför saknar Månen en skyddande atmosfär som Jorden?",
+      "options": [
+        "Månen har för svag tyngdkraft för att hålla kvar en atmosfär",
+        "Månen ligger för nära Solen",
+        "Månen roterar för snabbt kring sin axel"
+      ],
+      "correct": 0,
+      "fact": "Eftersom Månen är mycket mindre än Jorden har den en svagare gravitation, vilket gör att den inte kan behålla ett hölje av gaser omkring sig."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en jättestor stenboll från rymden, lika stor som en hel val, plötsligt kraschar rakt in i månen! Mellan april och maj 2024 small det till och skapade ett jättestort hål, en krater, som är lika bred som två fotbollsplaner efter varandra. En rymdkamera som cirkulerar runt månen fotograferade platsen före och efter. Det är ganska skönt att vi har vår jordatmosfär som skyddar oss här hemma!",
-    "nyborjare": "Mellan april och maj 2024 inträffade en ovanlig händelse på månen då en komet eller asteroid med en storlek jämförbar med en knölval, ungefär 10 till 20 meter, slog ner i ytan. Den resulterande kratern har fått namnet McGetchin efter en månexpert från Apollotiden och mäter hela två fotbollsplaner i bredd. Händelser av denna skala förväntas endast ske ungefär en gång vart 132:a år. Forskare kunde upptäcka nedslaget genom att jämföra äldre och nyare bilder från rymdsonden Lunar Reconnaissance Orbiter (LRO), som övervakar månen varje månad.",
-    "entusiast": "En sällsynt och geologiskt signifikant händelse ägde rum på månens yta mellan april och maj 2024, då en impaktor i form av en komet eller asteroid med en diameter på 10–20 meter kolliderade med månen. Nedslaget resulterade i kratern McGetchin, uppkallad efter en lunar-forskare från Apollo-eran, med en diameter motsvarande två fotbollsplaner. Statistiskt sett förväntas dylika impakter endast inträffa en gång vart 132:a år. Före- och efterbilder tagna av Lunar Reconnaissance Orbiter (LRO) möjliggjorde upptäckten. Uppföljande termisk bildtagning avslöjade en stor kall fläck som omger den varma kratern. Ytinpakter puffar upp det lösa regolitmaterialet vilket minskar dess densitet och försämrar dess värmehållande förmåga. Detta påverkade ett område väsentligt större än den synliga kratern, vilket ger nya insikter om ytpåverkan och månens ytutveckling."
+    "barn": "Tänk dig att en stor rymdsten stor som en hel val kraschar rakt in i månen. Då blir det ett jättestort hål som är lika brett som två fotbollsplaner efter varandra. Det är precis vad som har hänt! Hålet kallas för McGetchin. Månen har ingen luft och ingen vind som skyddar den, så rymdstenar kan flyga rakt igenom och slå ner med full kraft.",
+    "nyborjare": "En sällsynt händelse har inträffat på månen där en komet eller asteroid med en storlek som en knölval har kolliderat med ytan. Kollisionen har skapat en ny nedslagskrater som fått namnet McGetchin, efter en känd månforskare. Kratern är enorm, ungefär lika bred som två fotbollsplaner. Forskare kunde upptäcka kratern genom att jämföra högupplösta bilder tagna före och efter händelsen av rymdsonden Lunar Reconnaissance Orbiter. Eftersom månen saknar en skyddande atmosfär träffas den ofta av mindre rymdstenar, men kratrar av just den här ansenliga storleken hör till ovanligheterna och förväntas bara bildas ungefär en gång vart 132:e år.",
+    "entusiast": "En nynedkommen krater vid namn McGetchin har dokumenterats på månens yta efter en kollision med en impaktor som uppskattas till 10 till 20 meter i diameter, motsvarande storleken på en knölval. Händelsen ägde rum någon gång mellan april och maj 2024 och kunde identifieras tack vare före- och efterbilder tagna av Lunar Reconnaissance Orbiter, som övervakar månen i omloppsbana. Den resulterande kratern mäter två fotbollsplaner i diameter, en storleksklass som statistiskt sett enbart förväntas en gång per 132 år. Termisk avbildning efter nedslaget visade en stor kall fläck som omger den varma kratern. Detta beror på att impaktpulsen puffade upp månens lösa regolit, vilket sänkte dess densitet och försämrade dess värmebehållande förmåga. Det påverkade området sträcker sig långt utanför den synliga kraterkanten, vilket ger forskarna värdefulla insikter om hur ytimpakter formar regolitlager och bidrar till månens geologiska utveckling samt påminner oss om jordens skyddande atmosfär."
   }
 }

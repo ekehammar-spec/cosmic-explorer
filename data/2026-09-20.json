@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-20",
   "title": "Analemma over the Callanish Stones",
   "title_sv": "Analemma över Callanish Stones",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgD/xAAnEAABBAEDAgYDAAAAAAAAAAABAgMEEQAFEiETkSIxMkFRsWGBof/EABgBAQADAQAAAAAAAAAAAAAAAAUAAQID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECBBEhEv/aAAwDAQACEQMRAD8AjQg5oNE4zbh37YSnTzXpxYO1iItnM7D8Y7cg7fNODqi8+WTC9ZaRNEUKK00Pk8DGaGdNYjKceebKUgElJvg3Xej2yGVNdkJSiRJkOJSbAK/yD9gYFqkhlmIltnqb1EWorJ4F8f3BndlN+UhBVlBaXK4kSaLhutuWjqAA87bq++LHdGcCz4D2yVamPvNhcd07kI2Kbvmrv9jOVqr9+J95B9x1SPsZ2jckuYYlXi+7h//Z",
   "quiz": [
     {
-      "q": "Vilken form har solens rörelsemönster på himlen om man fotograferar den vid samma tid varje dag under ett helt år?",
+      "q": "Vilken form får solen om man fotograferar den på samma klockslag varje dag under ett helt år?",
       "options": [
-        "En cilikrtsform",
+        "En perfekt cirkel",
         "En åtta",
-        "En rak linje"
+        "En rät linje fram och tillbaka"
       ],
       "correct": 1,
-      "fact": "Solens årliga rörelsemönster bildar en åtta på himlen, vilket kallas ett analemma."
+      "fact": "När man fotograferar solen vid samma tidpunkt under ett år bildar dess position en åtta. Detta beror på att jorden lutade axel i kombination med att jordens bana runt solen är elliptisk."
     },
     {
-      "q": "Vad heter de gamla stenarna som syns i förgrunden av bilden och som byggdes under bronsåldern?",
+      "q": "Vad är det huvudsakliga skapandet bakom solens åttaliknande mönster på himlen?",
       "options": [
-        "Callanish Stones",
-        "Stonehenge",
-        "Pyramiderna"
+        "Jordens axelstigning och elliptiska omloppsbana",
+        "Månens dragningskraft och tidvattenkrafter",
+        "Solen egen rotation kring sin axel"
       ],
       "correct": 0,
-      "fact": "Stenarna heter Callanish Stones och är en stencirkel i Skottland som byggdes omkring 2700 före Kristus."
+      "fact": "Det är kombinationen av jordens axellutning och att jordens bana runt solen inte är helt cirkelrund, utan elliptisk, som skapar analemmans karakteristiska form."
     },
     {
-      "q": "Vilka två faktorer är de yttersta orsakerna till att solens årliga mönster på himlen får sin speciella form?",
+      "q": "När på året befinner sig solen längst ner i en analemma på norra halvklotet?",
       "options": [
-        "Månens faser och jordens rotation",
-        "Solen lutning och jordens storlek",
-        "Jordaxelns lutning och formen på jordens omloppsbana"
+        "Vid vårdagjämningen",
+        "Vid sommarsolståndet",
+        "Vid vintersolståndet"
       ],
       "correct": 2,
-      "fact": "Det är kombinationen av jordaxelns lutning och att jordens bana runt solen är elliptisk som skapar åttans form."
+      "fact": "Vid vintersolståndet står solen som lägst på himlen, vilket gör att den syns längst ner i figuren. Vid sommarsolståndet syns den istället i toppen."
     }
   ],
   "levels": {
-    "barn": "Tänk dig om du skulle ta en bild på solen exakt samma tid varje dag under ett helt år. Om man lägger ihop alla bilderna till en enda bild, så flyttar solen på sig och bildar faktiskt formen av en siffra åtta på himlen. Bilden är tagen i Skottland vid en gammal stencirkel som kallas Callanish Stones. Stenarna är jättegamla och byggdes redan under bronsåldern för ungefär fem tusen år sedan. Det är nästan som magi!",
-    "nyborjare": "Den här bilden visar ett så kallat analemma, vilket är ett sammansatt fotografi som visar solens exakta position på himlen tagen från samma plats vid samma tid varje dag under ett helt år. Solens mönster formar en stor åtta på himlen. I förgrunden syns de historiska Callanish Stones, en stencirkel byggd i Skottland omkring 2700 före Kristus under bronsåldern. Det är fortfarande okänt om stenarnas placering har någon astronomisk betydelse. Den speciella åttformade kurvan beror på två saker: att jordaxeln lutar och att jordens omloppsbana runt solen inte är helt cirkelrund utan elliptisk.",
-    "entusiast": "Bilden visar ett analemma komponerat av exponeringar tagna vid middagstid under ett års tid nära byn Callanish på Yttre Hebriderna i Skottland. I förgrunden avbildas Callanish Stones, en megalitisk stencirkel uppförd kring 2700 f.Kr. under bronsåldern, vars eventuella astronomiska signifikans förblir okänd. Det fysikaliska ursprunget till analemmans karakteristiska åttformade kurva är en kombination av jordaxelns axellutning och banans ellipticitet i rörelsen kring solen. Vid solstånden befinner sig solen i extrempunkterna högst upp eller längst ner i kurvan, vilket i detta fall speglar december-solståndet då solen är närmare botten. Dagjämningarna motsvarar punkter i mitten av analemman, där dagen och natten är lika långa över hela planeten, vilket ofta markerar ett årstidsskifte."
+    "barn": "Tänk dig att du står på samma ställe varje dag och tittar på solen vid exakt samma klockslag. Om du kunde klistra ihop alla bilderna till en enda skulle solen bilda formen av en siffra åtta på himlen. Det är lite som att solen ritar en magisk dans över himlavalvet under ett helt år. Här står den bakom gamla stenar som är byggda för tusentals sedan.",
+    "nyborjare": "Bilden visar ett så kallat analemma, vilket är ett mönster som bildas om man fotograferar solen vid samma tid varje dag under ett helt år. Mönstret får en distinkt åttaliknande form. Detta beror på två saker: att jorden lutar lite grann på sin axel när den roterar, och att jordens bana runt solen inte är helt cirkelrund utan elliptisk, vilket gör att jorden rör sig olika snabbt under året. I förgrunden syns Callanish Stones, en urgammal stencirkel i Skottland från bronsåldern.",
+    "entusiast": "Ett analemma är den kurva som spåras av solens skenbara position på himlen sedd från en specifik plats på jorden vid samma klockslag varje dag under ett solår. Den åttaliknande figuren orsakas av två primära faktorer i jordens mekanik: jordaxelns lutning på cirka 23,4 grader samt banans excentricitet, det vill säga att jordens omloppsbana runt solen är eliptisk snarare än cirkulär. Vid solstånden når solen extrempunkterna i toppen eller botten av analemman, medan dagjämningarna motsvarar mittpunkterna på kurvan. I bildens förgrund syns Callanish Stones, ett megalitmonument uppfört omkring 2700 före Kristus, vars eventuella astronomiska signifikans fortsätter att fascinera forskare."
   }
 }

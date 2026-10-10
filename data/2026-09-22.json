@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-22",
   "title": "Chance Triple Alignment: Plane, Space Station, Sun",
-  "title_sv": "Sällsynt trippelkollision: Flygplan, rymdstation och solen",
+  "title_sv": "Trippel linjering: Flygplan, rymdstation och solen",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcCBQABBP/EACkQAAICAgEDAgUFAAAAAAAAAAECAwQAEQUSITFBUgYTFCIyUWGBkcH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB4RAQABBAIDAAAAAAAAAAAAAAEAAgMRIQVRBBIT/9oADAMBAAIRAxEAPwBdKMIq5iKSQANk9gMs+KkgqcjE/IQsa8Up6nVdjqHjZ9QPOhi66sGYaTLDQfDXJTIG+mZQfHUQP9zlvcRcojc9eRF92tj+xjZqNDarpNBIksbjYZTsHNzVldCrKCCNEEeckHIXCrZOv423QxQcZVa5cjhSUROx0rH3emNHhqXyeKiqT14AEHSVX7kb9+/6+cVNOdq9mKZfyjYMP4xtcdcitVo5omDI42MbyHtrqDxwR7lhVqx1IBDWhiijBJCoNDvhWHbvreRSQayMkoyTtcs2UuZ//9k=",
   "quiz": [
     {
-      "q": "Vilket av de mörka föremålen framför solen i bilden dök upp helt oväntat?",
+      "q": "Vad är solfläckar för något på solens yta?",
       "options": [
-        "Solfläckarna",
-        "Flygplanet",
-        "Rymdstationen"
-      ],
-      "correct": 1,
-      "fact": "Flygplanet dök upp av en slump precis när bilden skulle tas och skapade en egen minisolförmörkelse."
-    },
-    {
-      "q": "Vad är det som gör att solfläckar framstår som mörka på solen?",
-      "options": [
-        "Koncentrerade magnetfält",
-        "Skuggor från planeter",
-        "Moln av rymdstoft"
+        "Mörka områden orsakade av koncentrerade magnetfält",
+        "Skuggor från planeter som passerar framför solen",
+        "Kallare områden som bildas när solen roterar kring sin axel"
       ],
       "correct": 0,
-      "fact": "Solfläckar är små mörka regioner som orsakas av koncentrerade magnetfält på solens yta."
+      "fact": "Solfläckar är mörka regioner på solens yta som uppstår på grund av starka och koncentrerade magnetfält som dämpar värmet."
     },
     {
-      "q": "Hur lång tid i förväg planerades passagen för rymdstationen (ISS) framför solen?",
+      "q": "Vilken roll spelar Internationella rymdstationen (ISS) när den kretsar kring jorden?",
       "options": [
-        "In alls, den fastnade av en slump",
-        "Med flera månaders marginal",
-        "Med noggrann subsekundstajming"
+        "Den fungerar som en rymdbas för studier av solens magnetfält",
+        "Den är en bemannad forskningsstation i omloppsbana runt jorden",
+        "Den är en fast satellit som alltid befinner sig ovanför samma plats"
+      ],
+      "correct": 1,
+      "fact": "Den Internationella rymdstationen är en bemannad forskningsstation som kretsar runt jorden på låg omloppsbana och kan observeras när den passerar framför ljusa himlakroppar."
+    },
+    {
+      "q": "Hur kan ett flygplan skapa en miniatyrform av en solförmörkelse när det passerar framför solen?",
+      "options": [
+        "Genom att reflektera solljuset från sina vingar",
+        "Genom att släppa ut vattenånga som blockerar ljuset",
+        "Genom att skymma en liten del av solskivan med sin kropp"
       ],
       "correct": 2,
-      "fact": "Bilden på den internationella rymdstationen (ISS) planerades med noggrann subsekundstajming för att fånga den ikoniska strukturen."
+      "fact": "När ett flygplan befinner sig i synlinjen mellan en observatör och solen skapar det en silhuett genom att blockera en del av solens ljus, vilket liknar en mini-solförmörkelse."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar på en stor, ljus boll på himlen, som är solen. Ibland kan man få syn på små prickar framför den. På den här bilden har en fotograf varit jätteduktig och lyckats få med tre coola saker samtidigt. Först syns solfläckar, som är som fläckar på den glödande bollen. Sedan syns en rymdstation som susar fram i rymden. Och så flög det förbi ett helt vanligt flygplan precis i samma sekund. Det är ungefär som att kasta tre bollar i luften och få dem att hamna på rad exakt samtidigt.",
-    "nyborjare": "Den här bilden visar en mycket sällsynt och slumpmässig händelse där tre skilda föremål hamnar på rad framför solen. Fotografen hade noggrant planerat att fånga den internationella rymdstationen, förkortad ISS, när den passerade framför solskivan med exakt subsekundstajming. På bilden syns också solfläckar, vilket är mörka områden på solen som orsakas av koncentrerade magnetfält och brukar vara synliga under flera veckor. Helt oväntat flög dessutom ett flygplan förbi just i samma ögonblick och skapade en miniatyrmörkbländning, en så kallad partiell solförmörkelse. Fotografen beräknar att sannolikheten för att fånga både en rymdstation och ett flygplan framför solen på samma bild från den platsen i Tjeckien är omkring trettio miljoner mot ett.",
-    "entusiast": "Den presenterade bilden fångar en exceptionell och statistiskt osannolik konjunktion framför solskivan, tagen i juni från Prasek i Tjeckien. Kompositionen demonstrerar en slående juxtaposition av solfenomen, mänsklig rymdinfrastruktur och atmosfärisk flygtrafik. Solfläckarna, vilka utgör de mindre mörka regionerna med koncentrerade magnetfält på solens fotosfär, är ett förväntat och långlivat inslag som kan spåras över veckor. Därtill krävdes avancerad beräkning och subsekundstajming för att fånga den internationella rymdstationen (ISS), den lilla mörka strukturen till medelvänster, under dess snabba transit över solskivan. Det mest anmärkningsvärda momentet är dock inkluderingen av ett slumpmässigt förbipasserande flygplan som skapade en mikrominiatyriserad partiell solförmörkelse under exponeringen. Enligt fotografens uppskattningar är sannolikheten för en slumpmässig solbild som inrymmer både en rymdstations- och en flygplanssilhuett från denna specifika geografiska position ungefär trettio miljoner till ett."
+    "barn": "Tänk dig att du tittar upp på den stora, varma solen på himlen. Plötsligt flyger det förbi ett flygplan precis samtidigt som en stor rymdstation långt ut i rymden passerar förbi. Det blir som en jättestor tittut-lek! Flygplanet är nära oss i luften, medan rymdstationen är jättelångt bort bland stjärnorna. Det är nästan som om tre olika världar träffas på samma bild på samma gång.",
+    "nyborjare": "Den här bilden visar en otroligt sällsynt händelse där tre helt olika företag har radat upp sig framför solen. Vi ser solens yta med dess solfläckar, som är mörka områden skapade av starka magnetfält. Långt ute i rymden kretsar Den internationella rymdstationen, förkortad ISS, som är en bemannad forskningsstation i omloppsbana runt jorden. Helt nära oss i jordens atmosfär råkar ett vanligt passagerarflygplan flyga förbi. Chansen att få alla dessa tre element i exakt samma bild är extremt liten.",
+    "entusiast": "Bilden fångar en exceptionellt sällsynt geometrisk linjering av tre distinkta objekt framför solskivan. För det första observeras solfläckar, vilka är relativt kalla, mörka områden på fotosfären som orsakas av intensiv magnetisk aktivitet som hämmar konvektionen. För det andra syns den Internationella rymdstationen (ISS), en avancerad forskningsplattform i låg omloppsbana runt jorden som kräver subsekundsplanering för att fångas under en soltransit. Slutligen skapar ett slumpmässigt förbipasserande flygplan en miniatyrliknande solförmörkelse i förgrunden. Sannolikheten för att en observatör från en specifik plats på jorden av en händelse ska få både rymdstationen och ett flygplan i samma solbild har av experter uppskattats till omkring trettio miljoner till ett."
   }
 }

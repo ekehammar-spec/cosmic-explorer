@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-14",
   "title": "Where Your Elements Came From",
   "title_sv": "Var dina grundämnen kommer ifrån",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgb/xAAmEAACAgECBgEFAAAAAAAAAAABAgADEQQxEhMUIUFhcSNCUYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACETFB/9oADAMBAAIRAxEAPwDiFr5DUW9mVu5BXOP15jmsVgCtVPfi2q/G3mbosr5NSkAt59RzFPtCj1iUF75V1rlOLHsYKtGmOAN68RVmnb6tj8K4GQEHbMuyg9fAiNS2aX+P7Gq/ImqGpijcQ3Eo6uw7nMITOHaqDHV2epi3Uu6FTjBhCJsMl//Z",
   "quiz": [
     {
-      "q": "Varifrån kommer nästan allt väte i människokroppen och allt vatten?",
+      "q": "Var någonstans i universum har nästan allt väte i våra kroppar bildats?",
       "options": [
-        "Från supernovor",
-        "Från Big Bang",
-        "Från kolliderande neutronstjärnor"
+        "I stora stjärnors inre",
+        "Under Big Bang",
+        "Vid kolliderande neutronstjärnor"
       ],
       "correct": 1,
-      "fact": "Vätet i din kropp och i allt vatten skapades ursprungligen under Big Bang, vilket gör det till universums äldsta beståndsdel."
+      "fact": "Vätet i våra kroppar och i allt vatten skapades under universums födelse för nästan 14 miljarder år sedan."
     },
     {
-      "q": "Hur har guldet i dina smycken troligen bildats?",
+      "q": "Vilken process inuti stjärnor skapar grundämnen som kol och syre?",
       "options": [
-        "Genom kollisioner mellan neutronstjärnor",
-        "Inuti vanliga stjärnor som vår sol",
-        "Direkt från gasmoln i rymden"
+        "Kärnfusion",
+        "Supernovautbrott",
+        "Gravitationsvågor"
       ],
       "correct": 0,
-      "fact": "Guldet i våra smycken skapades sannolikt när neutronstjärnor kolliderade med varandra i rymden."
+      "fact": "Stjärnor fungerar som jättelika fabriker där lättare ämnen slås samman till tyngre ämnen genom kärnfusion i deras inre."
     },
     {
-      "q": "Vilken process inuti stjärnor skapade kolet och syret som finns i våra kroppar?",
+      "q": "Varifrån kommer sannolikt det guld som vi gör smycken av?",
       "options": [
-        "Kärnklyvning",
-        "Gravitationskollaps",
-        "Kärnfusion"
+        "Från solens yttre atmosfär",
+        "Från kolliderande neutronstjärnor",
+        "Från den tidiga jordens vulkaner"
       ],
-      "correct": 2,
-      "fact": "Kolet och syret i din kropp har bildats genom kärnfusion djupt inne i stjärnornas inre."
+      "correct": 1,
+      "fact": "Tunga grundämnen som guld bildas i de extrema miljöer som uppstår när neutronstjärnor kolliderar med varandra."
     }
   ],
   "levels": {
-    "barn": "Visste du att du är gjord av stjärnstoft? Vätet i din kropp skapades i universums jättebörjan, Big Bang. Men kol och syre som du också består av har tillverkats inuti glödheta stjärnor långt ut i rymden. Och mycket av järnet i ditt blod kommer faktiskt från jättelika stjärnexplosioner för längesen. Det betyder att du bär på en bit av hela rymden inuti dig när du springer runt och leker.",
-    "nyborjare": "Människokroppen och allt omkring oss är uppbyggt av grundämnen som har sitt ursprung på olika platser i kosmos. Vätet, som finns i allt vatten och i kroppens molekyler, bildades under Big Bang för nästan 14 miljarder år sedan och har inga andra nämnvärda källor. Andra ämnen som kol och syre har skapats genom kärnfusion, en process där atomer slås ihop i stjärnornas heta inre. Även tyngre ämnen som järn har spridits av supernovor, som är våldsamma explosioner när gamla stjärnor dör. Till och med guldet i våra smycken har en dramatisk historia och kommer sannolikt från krockande neutronstjärnor.",
-    "entusiast": "Det periodiska systemet fungerar som en karta över nukleosyntesen och visar mänsklighetens nuvarande förståelse för var universums grundämnen har bildats. Det ursprungliga vätet härstammar uteslutande från Big Bangs nukleosyntes. Stjärnornas stellerära evolution bidrar med ämnen som kol och syre genom nukleär fusion i deras kärnor. Tyngre metaller, däribland mycket av det järn som finns i biologiska organismer, har syntetiserats i supernovor från långt borta liggande stjärnor. Ännu sällsyntare och tyngre element, såsom guld, tros ha bildats under extrema förhållanden vid sammansmältningar av neutronstjärnor, vilka kan observeras som korta gammablixtar eller gravitationsvågssignaler. Samtidigt pågår fortfarande intensiv observationell och computationell forskning kring ursprunget för vissa grundämnen, exempelvis koppar och fosfor, vars exakta skapelseplatser är otillräckligt kända."
+    "barn": "Visste du att du är gjord av stjärnstoft? Nästan allt i din kropp har rest långt ute i rymden innan det blev en del av dig. Vätet i ditt vatten skapades när universum föddes för jättelänge sedan. Det kol och syre som finns i dina muskler har tillverkats inuti glödheta stjärnor. En del av järnet i ditt blod sprängdes ut i rymden när gamla stjärnor exploderade. Du är faktiskt ett äkta rymdbarn.",
+    "nyborjare": "Att titta på det periodiska systemet genom ett astronomiskt perspektiv är som att läsa historien om vårt kosmiska ursprung. Nästan allt väte i universum har funnits sedan Big Bang. Tyngre grundämnen som kol och syre har bildats genom kärnfusion, den process där stjärnor sammansmälter lättare atomkärnor till tyngre under enormt tryck och värme. Även om livet på jorden mestadels består av dessa lätta ämnen, är vi också beroende av små mängder sällsynta ämnen som fosfor och koppar för att fungera. Järn och andra tyngre metaller har spritts ut i rymden genom våldsamma supernovor och kosmiska krascher.",
+    "entusiast": "Det periodiska systemet rymmer en kosmisk berättelse om nukleosyntes, som kartlägger ursprunget till varje atom i våra kroppar. Urartade processer från universums barndom, såsom Big Bang-nukleosyntesen, lämnade efter sig nästan allt väte som i dag utgör bränslet för stjärnornas utveckling och molekylvattnet i våra kroppar. Stjärnornas livscykler tar över därefter; stjärnfusion i huvudseriens stjärnor och jättegrenen syntetiserar element upp till järntoppen, inklusive det kol och syre som är livets byggstenar. Mycket av det järn vi finner i universum härstammar från typ Ia-supernovor och kärnkollapser i massiva stjärnor. Ännu mer exotiska händelser, som sammansmältningar av neutronstjärnor detekterade genom gravitationsvågor och kortvariga gammablixtar, tros vara huvudkällan till de riktigt tunga grundämnena såsom guld och platina. Medan vissa elementarprocesser är välförstådda, fortsätter forskare att med observationer och beräkningar undersöka de exakta astrofysiska platserna för bildandet av spårämnen som koppar och fosfor."
   }
 }

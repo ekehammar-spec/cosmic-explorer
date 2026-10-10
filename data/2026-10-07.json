@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-10-07",
   "title": "Supernova Remnant Pa 30",
   "title_sv": "Supernovaresten Pa 30",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYBAwQAAv/EACMQAAIBBAICAgMAAAAAAAAAAAECAwAREiEEQTFRE2EiQtH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAAID/8QAGxEAAgIDAQAAAAAAAAAAAAAAAhEAAQMSMSH/2gAMAwEAAhEDEQA/AEZYyxVQLH17q+PjymNlEbEnrofde+BGzzKQQLb0bUwjhyy8YyRriFsNf2qEVtVNgCky5FpuPLGqhxi+VrdmtEkbPGkgkDO+zrx9VvfKWJ4p8rKNavuhKFRkuKsQe2xpA32GTHrydwZvjcEjXk68CjyStILRyKAx6OqV7lY7k2zqyHkSKcQ5AP3aggduohl1pXDHJtxy5aQNbQ/LzQg5SyMVxa+7E1DyvJILsW9bqJY3WJJMWVHJCk/taoIqBnt5P//Z",
   "quiz": [
     {
-      "q": "Astronomer har kunnat datera den här rymdexplosionen tack vare historiska anteckningar. Ungefär hur länge lyste stjärnan på himlen år 1181?",
+      "q": "Vad är det för fenomen som syns stråla utåt som ett kosmiskt fyrverkeri i rymden?",
       "options": [
-        "185 dagar",
-        "Ett helt år",
-        "Bara några timmar"
+        "Resterna av en stjärna som exploderat och slungats ut i rymden",
+        "En svärm av kometer som just har slitits sönder av ett svart hål",
+        "Het gas som virvlar inåt för att bilda en ny planet i ett planetsystem"
       ],
       "correct": 0,
-      "fact": "Kinesiska, japanska och arabiska astronomer observerade en gäststjärna som lyste på himlen i 185 dagar under året 1181."
+      "fact": "Bilden visar en supernovarest, det vill säga ett expanderande skal av glödande gas som kastades ut när en stjärna detonerade."
     },
     {
-      "q": "Vad tror forskare låg bakom den ovanliga explosionen som skapade nebulosan Pa 30?",
+      "q": "Explosionen tros ha orsakats av vita dvärgar som krockade. Vad är egentligen en vit dvärg?",
       "options": [
-        "En ensam stjärna som svalnade",
-        "Kollisionen eller sammansmältningen mellan två vita dvärgar",
-        "En jättelik komet som splittrades"
+        "Ett nyfött gasmoln som ännu inte hettats upp tillräckligt för kärnfusion",
+        "Den täta och heta kärnan som blir kvar när en medeltung stjärna dör",
+        "En liten och sval planet som vandrar ensam genom den interstellära rymden"
       ],
       "correct": 1,
-      "fact": "Den ovanliga typen av supernovagravitation tros orsakas av att två täta vita dvärgar smälter samman."
+      "fact": "När en solliknande stjärna har förbrukat sitt kärnbränsle kollapsar dess inre till en mycket kompakt och het vit dvärg."
     },
     {
-      "q": "Vad kallas de pärlliknande knutarna som sitter längs nebulosans strålar?",
+      "q": "Historiska astronomer såg explosionen som en ny stjärna år 1181 i ungefär ett halvår. Varför slutade den att synas?",
       "options": [
-        "Galaxkärnor",
-        "Svart hål",
-        "De är 4 ljusdagar i diameter"
+        "Stjärnan drogs snabbt in bakom en tät och ogenomtränglig stoftvägg",
+        "Den rörde sig med enorm hastighet bort till en annan galax",
+        "Explosionens hetta och energi avtog allt eftersom gasmolnet spreds ut"
       ],
       "correct": 2,
-      "fact": "När man tittar nära på trådarna ser man att de pärlliknande knutarna är hela 4 ljusdagar i diameter."
+      "fact": "En supernova frigör enorma mängder ljus under de första månaderna, men ljusstyrkan avtar kraftigt när resterna expanderar och kyls ned."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättestort fyrverkeri ute i rymden som slår ut åt alla håll! Det här färgglada molnet är spår efter en stjärnexplosion som skedde för väldigt länge sedan. Det ser ut som magiskt glitter, eller som när man tänder ett stjärnbloss på nyårsafton. Forskarna försöker fortfarande lösa mysteriet med hur den här häftiga rymdbilden kunde bildas.",
-    "nyborjare": "Bilden visar nebulosan Pa 30, vilket är resterna efter en gammal supernovautbrott, alltså när en döende stjärna exploderar i ett mäktigt ljusfenomen. Historiska anteckningar från år 1181 av kinesiska, japanska och arabiska astronomer berättar om en gäststjärna på himlen. Forskare tror att explosionen orsakades av att två vita dvärgar, som är mycket täta och kompakt stjärnrester, smälte samman. I mitten finns en extremt het stjärna med starka vindar.",
-    "entusiast": "Denna bild av nebulosan Pa 30 fångades med Gemini North Telescope i Hawaii och gestaltar resterna efter en historisk supernova som klassificeras som en sällsynt Type Iax-explosion. Utbrottet knyts till observationer från år 1181 då astronomer noterade en gäststjärna under 185 dagar. Fysiken bakom Pa 30 är unik eftersom den tros ha uppstått genom sammansmältningen av två vita dvärgstjärnor. Den mystiska centralstjärnan är extremt varm och genererar en kraftfull stjärnvind som troligen skapar de radiella filamenten, där de fascinerande pärlliknande knutarna mäter hela 4 ljusdagar i diameter och fortsätter gäcka forskarvärlden."
+    "barn": "Det här ser ut som ett gigantiskt nyårsfyrverkeri i rymden! Men i själva verket är det resterna av en exploderad stjärna, något som kallas för en supernova.\n\nFör över 800 år sedan krockade två gamla stjärnor med varandra och small som en jättelik ballong. Den heta gasen kastades ut åt alla håll och bildade långa, glittrande strålar. I mitten finns fortfarande en supervarm stjärna kvar som blåser på gasen ungefär som en kosmisk hårtork.",
+    "nyborjare": "Nebulosan Pa 30 liknar ett glödande fyrverkeri, men den är i själva verket en supernovarest – det utspridda materialet efter en väldig stjärnexplosion. År 1181 noterade astronomer i bland annat Kina och Japan en ny, starkt lysande \"gäststjärna\" på himlen. Den var synlig för blotta ögat i ett halvår innan den sakta slocknade.\n\nForskarna tror att explosionen startade när två vita dvärgar, kompakta rester av gamla stjärnor, smälte samman. Det var en ovanlig explosion som lämnade kvar en mystisk, extremt het stjärna i mitten. Från denna stjärna blåser våldsamma vindar som formar nebulosans långa trådar. Varje liten knut längs trådarna är enorm: hela fyra ljusdagar bred, vilket är flera gånger större än vårt eget solsystem.",
+    "entusiast": "Den spektakulära nebulosan Pa 30 är den optiska motsvarigheten till den historiska supernovan SN 1181, som observerades av kinesiska, japanska och arabiska astronomer för över 840 år sedan. Den klassas som en sällsynt typ Iax-supernova, en termonukleär explosion som till skillnad från klassiska typ Ia-händelser inte förstörde hela stjärnsystemet.\n\nForskarna menar att explosionen initierades vid en sammanslagning av två vita dvärgar. I centrum av resterna finns en anmärkningsvärd överlevare: en extremt het centralstjärna vars yttemperatur och snabba rotation driver massiva stjärnvindar på tusentals kilometer i sekunden. Det är dessa vindar som tros forma de nålliknande radiella filamenten, vilka fångats i detalj här av Gemini North-teleskopet på Hawaii.\n\nLängs filamenten syns pärlband av täta gasknutar med en diameter på runt fyra ljusdagar – långt större än avståndet från solen till Neptunus. Pa 30 erbjuder en unik möjlighet att studera nukleosyntes och mekanismerna bakom ofullständiga vita dvärg-kollisioner."
   }
 }

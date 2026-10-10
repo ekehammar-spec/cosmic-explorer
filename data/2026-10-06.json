@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-06",
   "title": "A Complete Auroral Oval from SMILE",
   "title_sv": "En komplett norrskensoval från SMILE",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQABAgMEBv/EACcQAAEDAwIEBwAAAAAAAAAAAAEAAgMEESEFYRIiMlETFTFBgaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERJB/9oADAMBAAIRAxEAPwChrSfdWMBuM/STAAw3B2ynabFaeE2v0KeUucOESs8W3QcfF0NmifTylkjS0jBBR6leycCTi4XnqB77Ja3C2ahE4HPGQ0nuD6Iptp4xKhZqOcBwpAqsGykCE4KYX088oWzV5hFpgjJ5pXAgbBDKesip2dJe/fAWSqqZKuUySO/AOyHhutGdpTh//9k=",
   "quiz": [
     {
-      "q": "Varför är det omöjligt att se en komplett norrskensoval från marken?",
+      "q": "Varför är det omöjligt att se en komplett norrskensoval direkt från marken?",
       "options": [
-        "Eftersom den bara lyser på natten",
-        "Eftersom den bildar en för stor cirkel runt jordens magnetiska pol",
-        "Eftersom molnen alltid är i vägen"
+        "Cirkeln som norrskenet bildar är för stor för att rymmas i synfältet.",
+        "Atmosfären blockerar allt ultraviolett ljus som norrskenet sänder ut.",
+        "Jordens magnetfält är för svagt nära ekvatorn för att skapa ljus."
       ],
-      "correct": 1,
-      "fact": "Norrskensovalen bildar en så stor cirkel runt den magnetiska polen att den är omöjlig att överblicka från jordytan, vilket kräver rymdfarkoster högt ovanför jorden för att synas i sin helhet."
+      "correct": 0,
+      "fact": "Norrskensovalen bildar en så stor cirkel runt jordens magnetiska pol att den sträcker sig över ett enormt område som inte går att överblicka från marken."
     },
     {
-      "q": "Vilken typ av ljus använde rymdfarkosten SMILE för att fånga ett norrskensfenomen som inträffade under dagen?",
+      "q": "Vilken typ av ljus, som är osynligt för det mänskliga ögat, användes för att fånga norrskenet i dagsljus i videon?",
       "options": [
         "Infrarött ljus",
         "Ultraviolett ljus",
-        "Röntgenljus"
+        "Röntgenstrålning"
       ],
       "correct": 1,
-      "fact": "SMILE använde ultraviolett ljus för att kunna upptäcka och visa ett norrsken som inträffade under dagtid, vilket annars är mycket svårt."
+      "fact": "Genom att observera i ultraviolett ljus blir det möjligt att studera norrskenet även när solen lyser upp himlen under dagen."
     },
     {
-      "q": "Vad är ett av målen med SMILE-uppdraget när det gäller solen och jorden?",
+      "q": "Vad är ett av huvudsyftena med rymdfarkosten SMILE och dess studier av norrskenet?",
       "options": [
-        "Att mäta solens exakta temperatur",
-        "Att undersöka hur solvinden interagerar med jordens magnetosfär",
-        "Att räkna antalet stjärnor i Vintergatan"
+        "Att mäta exakt hur snabbt jorden roterar kring sin egen axel",
+        "Att kartlägga stjärnornas avstånd till jorden med extrem noggrannhet",
+        "Att förstå hur solvinden interagerar med jordens magnetosfär"
       ],
-      "correct": 1,
-      "fact": "Ett huvudmål med SMILE är att bättre förstå hur solvinden interagerar med jordens magnetosfär för att skydda oss mot solstormar."
+      "correct": 2,
+      "fact": "Genom att studera hur solvinden samspelar med jordens magnetosfär kan vi bättre skydda både astronauter, rymdfarkoster och elnät på jorden mot kraftiga solstormar."
     }
   ],
   "levels": {
-    "barn": "Har du någonsin sett ett vackert norrsken på natthimlen? Från jorden ser det ut som gröna eller rosa band. Men om man tittar från rymden bildar ljuset faktiskt en stor ring, som ett glödande bälte runt jorden! En speciell rymdkamera har filmat hur detta norrskensbälte rör sig och ändrar form på bara en timme, nästan som när en bläckfisk slingrar sig i vattnet.",
-    "nyborjare": "Ett norrsken bildar egentligen en komplett oval runt jordens magnetiska pol. Det är dock omöjligt att se denna fullständiga cirkel från marken eftersom den är alldeles för stor. För att kunna studera den krävs rymdfarkoster som befinner sig högt ovanför jorden. I ett videoprojekt från ESA och CAS har den robotiserade rymdfarkosten SMILE fångat en hel norrskensoval med hjälp av ultraviolett ljus, vilket till och med gjorde det möjligt att se ett norrsken under dagtid. Tidssatsningen visar hur otroligt rörliga och föränderliga norrsken är under loppet av en timme. De avlägsna stjärnorna i bakgrunden ser ut att röra sig, men det beror på att farkostens kamera flyttar sig i sin bana runt jorden. Forskarna vill använda dessa observationer för att förstå hur solen påverkar jorden.",
-    "entusiast": "Att observera en hel auroral oval har historiskt varit en utmaning eftersom jordens krökning och avståndet till de geomagnetiska polerna begränsar markbaserade observationer. Genom att använda rymdbaserade instrument, som i ESA och CAS samarbete med rymdfarkosten SMILE, kan astronomer studera hela ovalen i ultraviolett ljus. Detta gör det möjligt att dokumentera auroror även i dagsljus och få en dynamisk bild av deras turbulens under korta tidsperioder, såsom det timslånga förloppet i SMILE:s data. De fasta stjärnorna i bildens utkanter uppvisar skenbar rörelse enbart på grund av farkostens omloppsbana och kamerans orientering. Det vetenskapliga målet med SMILE sträcker sig bortom vackra vyer; genom att studera samspelet mellan solvinden och jordens magnetosfär hoppas forskare förbättra skyddet för astronauter, satelliter och markbundna elnät mot potentiellt skadliga solstormar."
+    "barn": "Tänk dig att jorden har en osynlig sköld omkring sig som skyddar oss mot rymdens faror. När osynlig vind från solen krockar med den skölden börjar det glöda på himlen. Det kallas för norrsken! Från jorden kan vi bara se en liten bit i taget, ungefär som när man står mitt i en jättestor karusell. Men rymdfarkoster högt upp kan se hela den glödande ringen på samma gång.",
+    "nyborjare": "Ett norrsken uppstår när laddade partiklar från solen träffar jordens magnetfält, det vill säga den skyddande magnetiska bubbla som omger vår planet. Från marken kan vi bara se fläckar av detta ljus eftersom norrskenet bildar en jättelik cirkel, en så kallad oval, runt magnetpolen. Genom att använda rymdfarkoster som kretsar långt ute i rymden kan forskare fånga hela denna oval på bild, till och med i ultraviolett ljus under dagtid. Detta hjälper oss att förstå rymdvädrets dynamik.",
+    "entusiast": "Bilden visar en komplett norrskensoval fångad av det gemensamma rymduppdraget SMILE från ESA och CAS. Eftersom en norrskensoval spänner över så enorma geografiska breddgrader runt jordens magnetiska poler är den omöjlig att observera i sin helhet från marken. Genom att använda instrument som är känsliga för ultraviolett strålning kan farkosten avbilda fenomenet även i dagsljus, vilket avslöjar den turbulens och höga variabilitet som prägelss av växelverkan mellan solvindens plasma och jordens magnetosfär. De punktformade ljuskällorna i periferin är stjärnor vars uppenbara rörelse enbart beror på att farkostens observationsvinkel förändras under dess omloppsbana. Ett av uppdragets primära vetenskapliga mål är att kartlägga energiöverföringen vid magnetopausen för att bättre kunna skydda viktig infrastruktur som satelliter och markbundna elnät mot potentiellt skadliga solstormar."
   }
 }

@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-10-09",
   "title": "Stickney Crater",
-  "title_sv": "Steniga kratern Stickney på marsmånen Phobos",
+  "title_sv": "Stickneykratern",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQP/xAAoEAACAQMDAgUFAAAAAAAAAAABAgMABBEFITESEwYUUXHBIzJBQmH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRQf/aAAwDAQACEQMRAD8AxdN06zjkCGJW2P1HGST8U2exDcFZokmh3woGKUt5cCMksfeqCCK1voGiKguOWHI9KPNZTrOE32LAzs620fbLfaw2H8zXPUdEtJLcXFmwhJODGWyM/Aqgfw40quILgbfrIMUlJFNa2rwv09PoB+aytllQ5pCULr5dWdMdeMDPFN2ebdyoYk5yGooq2g02aHnp7YgF9yORSksrXAw52Jyfc0UUNseEsR//2Q==",
   "quiz": [
     {
-      "q": "Vilken planet kretsar den lilla månen Phobos kring?",
+      "q": "Stickneykratern ligger på Phobos. Vilken planet kretsar denna lilla måne runt?",
       "options": [
-        "Jupiter",
         "Mars",
-        "Saturnus"
-      ],
-      "correct": 1,
-      "fact": "Phobos är den största månen till den röda planeten Mars och upptäcktes år 1877."
-    },
-    {
-      "q": "Varför är kratern Stickney så otroligt speciell för sin måne?",
-      "options": [
-        "Den är nästan lika stor som hela månen själv",
-        "Den är fylld med flytande vatten",
-        "Den lyser i mörkret på natten"
+        "Jupiter",
+        "Venus"
       ],
       "correct": 0,
-      "fact": "Stickney är över 9 kilometer bred, vilket är nästan hälften av diametern på den lilla månen Phobos."
+      "fact": "Phobos är den största av planeten Mars två små månar, och den kretsar mycket nära sin planet."
     },
     {
-      "q": "Vad har forskare sett inuti kraterns väggar som tyder på att material rör på sig?",
+      "q": "Stickneykratern är över nio kilometer bred, vilket är nästan halva månens storlek. Vad hände troligen när den bildades?",
       "options": [
-        "Rinnande floder av lava",
-        "Gröna växter",
-        "Ljusa stråk av löst material som har glidit nedåt"
+        "En jättelik vulkan fick ett våldsamt utbrott",
+        "En rymdsten krockade och var nära att spräcka hela månen",
+        "Två månar smälte samman i en långsam kollision"
+      ],
+      "correct": 1,
+      "fact": "Nedslaget från rymdstenen var så kraftigt att hela Phobos var nära att splittras i spillror vid krocken."
+    },
+    {
+      "q": "Hur fungerar tyngdkraften på ytan av den lilla månen Phobos?",
+      "options": [
+        "Den är ungefär dubbelt så stark som på vår måne",
+        "Den är lika stark som på jorden eftersom Phobos är så kompakt",
+        "Den är extremt svag och mindre än en tusendel av jordens tyngdkraft"
       ],
       "correct": 2,
-      "fact": "Trots den mycket svaga dragningskraften visar stråk inne i kratern att löst material har glidit nedför väggarna över tid."
+      "fact": "Eftersom Phobos är så liten och lätt är dess gravitation mindre än en tusendel av jordens gravitation."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor studsboll som har fått ett enormt märke efter att ha blivit träffad av en rymdsten. Bilden visar månen Phobos som snurrar runt planeten Mars. Den stora gropen heter Stickney och den är så himla stor att månen nästan hade kunnat gå sönder när stenen kraschade in i den! Eftersom månen är så liten är det nästan ingen dragningskraft alls, så om du hoppade där skulle du flyga iväg som en superhjälte.",
-    "nyborjare": "Den här bilden visar månen Phobos, som är en av den röda planeten Mars två månar. Den stora nedslagskratern som dominerar landskapet heter Stickney och är uppkallad efter astronomen Asaph Halls fru, Chloe Angeline Stickney Hall. Med en diameter på över 9 kilometer är kratern nästan hälften så stor som månen i sig. Det våldsamma slag som skapade kratern var nära att slå sönder den lilla månen i bitar. Bilden är tagen i förbättrad färg av kameran HiRISE ombord på rymdfarkosten Mars Reconnaissance Orbiter. Man kan se ljusa områden nära kraterns kant som kan vara nyligen frilagd yta, samt mystiska spår och räfflor längs ytan.",
-    "entusiast": "Bilden är en enhanced-color-tagning utförd av HiRISE-kameran (High Resolution Imaging Science Experiment) ombord på Mars Reconnaissance Orbiter (MRO) i mars 2008, då farkosten passerade inom ungefär 6 000 kilometer från den marsianska månen Phobos. Motivet fokuserar på Stickney-kratern, vilken mäter över 9 kilometer i diameter – ett kolossalt mått i relation till Phobos egna dimensioner och en indikation på att impakten som genererade kratern sannolikt var nära att katastrofalt fragmentera den astroidliknande månen. Trots en ytgravitation som understiger en tusendel av jordens, avslöjar ytan tecken på massrörelse i form av stråk av löst material som glidit ner längs kraterns innerväggar. De ljusblåaktiga regionerna nära kanten tolkas som relativt färskt exponerat regolit. Ursprunget till de märkliga räfflorna och spåren över ytan debatteras fortfarande inom vetenskapen, där teorier antingen kopplar dem till tidvattenkrafter från det nära omloppsbanan eller till själva impaktenergin."
+    "barn": "Det här är en jättestor grop som kallas Stickneykratern. Den finns på Phobos, en liten måne som snurrar runt planeten Mars.\n\nPhobos ser nästan ut som en knölig rymdpotatis! En gång för länge sedan krockade en enorm rymdsten med månen i full fart. Smällen var så kraftig att månen nästan gick sönder i tusen bitar. På Phobos väger du nästan ingenting. Om du hoppade till där, skulle du sväva rakt ut i rymden!",
+    "nyborjare": "På bilden syns Stickneykratern på Phobos, den större av planeten Mars två månar. Kratern mäter över nio kilometer tvärs över, vilket är nästan hälften så stort som hela månen. När en rymdsten kraschade här och skapade kratern var smällen så kraftig att Phobos nästan slogs i spillror.\n\nTrots att månens gravitation är mindre än en tusendel av jordens dragningskraft syns ränder längs kraterns sluttningar. Det visar att löst grus och damm sakta har glidit nedför väggarna genom årmiljonerna. Längs ytan löper också mystiska fåror, som forskare tror kan bero på sprickor från nedslaget eller tidvattenkrafter från närbelägna Mars som sakta sliter i den lilla månen.",
+    "entusiast": "Denna bild i förstärkta färger fångades av den högupplösta kameran HiRISE ombord på rymdsonden Mars Reconnaissance Orbiter (MRO) i mars 2008, på ett avstånd av cirka 6 000 kilometer. I blickfånget finns den väldiga nedslagskratern Stickney på Phobos, uppkallad efter Chloe Angeline Stickney Hall, maka till astronomen Asaph Hall som upptäckte Mars månar år 1877.\n\nStickney mäter drygt nio kilometer i diameter, en ansenlig storlek med tanke på att hela Phobos bara är cirka 27 kilometer på längden. Den kinetiska energin från nedslaget beräknas ha legat precis på gränsen för att fullständigt disruptera och pulverisera månen. De ljusblå nyanserna kring kraterranden markerar troligen geologiskt färskt material som inte hunnit mörkna av rymdvittring, den process där kosmisk strålning och solvind förändrar ytans egenskaper.\n\nTrots en extremt låg ytacceleration – under en tusendel av jordens g – avslöjar väggarna tydliga spår av massrörelser och ras. De långsträckta fårorna som sträcker sig över Phobos yta har länge debatterats. De ledande teorierna kopplar dem antingen till djupa sprickbildningar från Stickney-nedslaget eller till grava tidvattenpåkänningar orsakade av att Phobos kretsar innanför den synkrona banradien och sakta spiralerar in mot Mars."
   }
 }

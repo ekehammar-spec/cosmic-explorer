@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-11",
   "title": "M83: The Southern Pinwheel",
-  "title_sv": "M83: Den södra pinwheelen",
+  "title_sv": "M83: Södra pinwheelgalaxen",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgADAQIH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIAAwURBCExEhNBUTJCgf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAwDAQACEQMRAD8A5/zLEpM/AkoqHcL7MX6GxpVWmnQXYj6xalEalB6YBZcDwZURGl1tqaXRlRgkn9g+uoWqwEhjFJyjZHMWW299OlVR8wMEZxmEFJB2m2SvB8ZkSi46/u0iSVXb3kwzUbJ439yd5yN2JxK+ZB//2Q==",
   "quiz": [
     {
-      "q": "Vilken välkänd form har galaxen M83 som syns på bilden?",
+      "q": "Vad kallas den typ av galax som M83 representerar, med sina stjärnspäckade armar som slingrar sig ut från ett centralt område?",
       "options": [
-        "En spiralform",
-        "En helt rund boll",
-        "En lång rak linje"
-      ],
-      "correct": 0,
-      "fact": "M83 är en vacker spiralgalax vars framträdande spiralarmar har gett den smeknamnet Den södra pinwheelen."
-    },
-    {
-      "q": "Varför kallas M83 ibland för Tusenrubingalaxen?",
-      "options": [
-        "För att den glittrar av äkta diamanter",
-        "På grund av rödfärgade stjärnbildande områden",
-        "För att den är röd i mitten och grön på kanten"
+        "En elliptisk galax",
+        "En spiralgalax",
+        "En oregelbunden galax"
       ],
       "correct": 1,
-      "fact": "Galaxens spiralarmar är prickade av rödaktiga områden där nya stjärnor föds, vilket har lett till smeknamnet Tusenrubingalaxen."
+      "fact": "M83 är en klassisk spiralgalax, vilket kännetecknas av de vackra, svepande armar som är fyllda av unga, blå stjärnor och mörka stoftstråk."
     },
     {
-      "q": "Hur stor är M83 jämfört med vår egen galax Vintergatan?",
+      "q": "Varför har M83 ibland fått smeknamnet \"Tusenrubingalaxen\"?",
       "options": [
-        "Den är mycket större än Vintergatan",
-        "Den är exakt lika stor som Vintergatan",
-        "Den är mindre än Vintergatan"
+        "På grund av sina rödfärgade områden där nya stjärnor föds",
+        "Eftersom den innehåller exakt tusen röda jättestjärnor",
+        "Därför att galaxen reflekterar ljuset från närliggande rubinröda planeter"
       ],
-      "correct": 2,
-      "fact": "M83 är bara 40 000 ljusår tvärs över, vilket gör den mindre än vår egen galax Vintergatan."
+      "correct": 0,
+      "fact": "De rödlätta områdena är lysande gasmoln där nya stjärnor bildas, vilket har givit den det gnistrande smeknamnet."
+    },
+    {
+      "q": "Vad döljer sig i den mycket ljusstarka kärnan hos M83, som syns tydligt i röntgenstrålning?",
+      "options": [
+        "En enorm samling av supernovor som håller på att explodera samtidigt",
+        "En koncentration av neutronstjärnor och svarta hål",
+        "Ett moln av flytande vatten och flytande kväve"
+      ],
+      "correct": 1,
+      "fact": "M83 har en intensiv stjärnbildning i sitt centrum, vilket har lämnat efter sig en stor mängd kompakta rester som neutronstjärnor och svarta hål."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor snurra av glittrande ljus ute i rymden! Den här vackra galaxen kallas för en spiralgalax eftersom den ser ut som ett jättestort fyrverkerihjul eller en karusell som snurrar runt långt borta. Mellan de lysande armarna finns mörka stråk av rymddamm. Hela galaxen är full av nyfödda stjärnor som lyser som små röda rubiner i mörkret.",
-    "nyborjare": "M83, även känd som Den södra pinwheelen, är en ljusstark spiralgalax som ligger omkring tolv miljoner ljusår bort nära stjärnbilden Vattenhydran. Ett ljusår är den sträcka som ljuset färdas på ett år. Galaxen har tydliga spiralarmar som markeras av mörka dammstråk och blå stjärnhopar. Eftersom den är prickad av röda områden där stjärnor bildas kallas den ibland för Tusenrubingalaxen. Den är mindre än vår egen galax Vintergatan och mäter 40 000 ljusår i diameter.",
-    "entusiast": "M83 är en praktfull spiralgalax belägen cirka tolv miljoner ljusår bort i närheten av den sydöstra spetsen av stjärnbilden Hydra. Med en diameter på endast 40 000 ljusår är den mindre än Vintergatan. Galaxen kännetecknas av prominenta spiralarmar definierade av mörka stoftband, unga blå stjärnhopar och rödfärgade H II-regioner, det vill säga stjärnbildningsområden som givit upphov till smeknamnet Tusenrubingalaxen. M83 ingår i en galaxgrupp som även rymmer den aktiva galaxen Centaurus A. Galaxens kärna är särskilt intressant ur ett astrofysiskt perspektiv eftersom den är stark i röntgenenergi, vilket avslöjar en hög koncentration av neutronstjärnor och svarta hål som blivit kvar efter en intensiv period av stjärnbildning."
+    "barn": "Tänk dig en jättestor, snurrande karusell ute i rymden, fast gjord av miljarder skinande stjärnor! Det är galaxen M83. Den ser ut som ett glittrande fyrverkeri som aldrig slutar snurra. Runt omkring i den stora stjärnhjulet finns det rosa moln som ser ut som små godisbitar, och där föds det helt nya stjärnor hela tiden. Den är som en magisk snurra långt, långt borta i mörkret.",
+    "nyborjare": "M83 är en vacker spiralgalax som ligger cirka tolv miljoner ljusår från oss i stjärnbilden Vattenslangen. Ett ljusår är den sträcka som ljuset hinners på ett helt år, vilket betyder att ljuset vi ser från M83 startade sin resa långt innan moderna människor fanns på jorden. Galaxen kallas ibland för Södra pinwheelgalaxen eftersom dess spiralarmar påminner om en leksaksnurra. Den är lite mindre än vår egen galax Vintergatan och rymmer en hel del spännande rymdfenomen, som lysande gasmoln och stjärnhopar.",
+    "entusiast": "M83 är en aktiv och ljusstark spiralgalax belägen cirka tolv miljoner ljusår bort i riktning mot stjärnbilden Hydra. Med en diameter på ungefär 40 000 ljusår är den mer kompakt än Vintergatan men kompenserar för detta med en intensiv stjärnbildningsaktivitet. Galaxens distinkta spiralarmar domineras av blå stjärnhopar och mörka stoftstråk, medan de rödlätta H II-regionerna vittnar om omfattande födelseprocesser av massiva stjärnor. Dess kärna uppvisar ett högt flöde av röntgenstrålning, vilket avslöjar en anmärkningsvärd population av neutronstjärnor och stjärnmassa svarta hål, spår efter tidigare skurar av intensiv stjärnbildning. M83 ingår i en galaxgrupp som även ränknar den aktiva galaxen Centaurus A till sin familj."
   }
 }

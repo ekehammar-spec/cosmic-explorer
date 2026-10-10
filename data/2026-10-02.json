@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-02",
   "title": "The Complete Sharpless Catalog: 313 Nebulas",
-  "title_sv": "Det kompletta Sharpless-katalogen: 313 nebulosor",
+  "title_sv": "Sharpless-katalogen: 313 nebulosor",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABkDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgABAwb/xAAiEAACAgEDBAMAAAAAAAAAAAABAgARIRIxQQMjUmFRU4H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhUf/aAAwDAQACEQMRAD8A8eF1WRgCJWoBbutyOISoKYsYwN7kFUPkbjfiNZqLgwE1FdS7Xcejp+SzgwUYtTMofXCss4QYDIJGblZIWzgHjiaVJWwpVfUVAgkXVccGQgYk2N/dRV1PGYyhaAcNj9l3PkSgVXT/2Q==",
   "quiz": [
     {
-      "q": "Hur lång tid tog det för astrofotografen Bing Xin att samla in alla bilder till detta gigantiska projekt?",
+      "q": "Vad är egentligen en nebulosa av typen H II-region, som utgör huvuddelen av Sharpless-katalogen?",
       "options": [
-        "Ungefär 80 timmar",
-        "Ungefär 800 timmar",
-        "Ungefär 8 000 timmar"
+        "Ett moln av joniserad vätgas som lyser upp av heta, unga stjärnor",
+        "En döende stjärna som har exploderat i en våldsam supernova",
+        "Ett kompakt klotformigt stjärnhop längst ut i galaxens utkant"
       ],
-      "correct": 1,
-      "fact": "Varje enskilt objekt krävde mellan 2 till 6 timmars exponeringstid, vilket gjorde att hela katalogen tog cirka 800 timmar att fullfölja."
+      "correct": 0,
+      "fact": "H II-regioner är enorma interstellära moln av gas där ultraviolett ljus från nyfödda, massiva stjärnor river loss elektroner från väteatomerna, vilket får gasen att glöda."
     },
     {
-      "q": "Vilket av följande välkända himlaobjekt ingår inte i Sharpless-katalogen?",
+      "q": "Sharpless-katalogen innehåller även planetariska nebulosor. Hur bildas en sådan?",
       "options": [
-        "Örnen-nebulosan",
-        "Andromedagalaxen",
-        "Orionnebulosan"
+        "När jätteplaneter kolliderar och frigör stora mängder gas",
+        "När en solliknande stjärna stöter bort sina yttre lagren mot slutet av sitt liv",
+        "Genom att kometer samlas i tätt packade moln runt en stjärna"
       ],
       "correct": 1,
-      "fact": "Andromedagalaxen är en hel galax och inte en nebulosa i Vintergatan. Både Örnen-nebulosan och Orionnebulosan finns med i katalogen som Sh2-49 respektive Sh2-281."
+      "fact": "Planetariska nebulosor har ingenting med planeter att göra. Namnet kommer av att de i äldre, svagare teleskop kunde se runda ut som planeter, men de är egentligen glödande gas skal från åldrande stjärnor."
     },
     {
-      "q": "Sharpless-katalogen är mest känd för att innehålla regioner av joniserat väte, men vad mer kan man hitta i den?",
+      "q": "Vad är en supernovarest, som till exempel Spaghetti-nebulosan i katalogen?",
       "options": [
-        "Bara kometer och asteroider",
-        "Svart hål i centrum",
-        "Planetariska nebulosor och supernovarester"
+        "Resterna efter en stjärna som svalnat och blivit en vit dvärg",
+        "Ett moln av gas och stoft som ännu inte har samlats till en stjärna",
+        "De utkastade resterna av en massiv stjärnexplosion som expanderar i rymden"
       ],
       "correct": 2,
-      "fact": "Trots att katalogen fokuserar på H II-regioner innehåller den även andra typer av objekt, som den planetariska Medusanebulosan och supernovaresten Spaghettinebulosan."
+      "fact": "När tunga stjärnor får slut på bränsle exploderar de som supernovor. Explosionen slungar ut stjärnans material i rymden i enorma hastigheter, och det är denna expanderande chockvåg som bildar en supernovarest."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du målar ett jättestort konstverk, men i stället för papper använder du natthimlen. Astrofotografen Bing Xin har tagit bilder på 313 moln i rymden, som kallas nebulosor. Det är gigantiska moln av gas och stoft där nya stjärnor tänds. För att få med alla detaljer har fotografen rest till mörka platser i Kina och samlat ljus under väldigt många timmar. Vissa av molnen ser ut som kända figurer, som ett hjärta eller en örn, precis som molnen vi tittar på en sommardag!",
-    "nyborjare": "Den här storslagna bilden visar hela Sharpless-katalogen, som rymmer 313 himmelsobjekt. Fotografen Bing Xin har rest under mörka himlar i östra Kina och Inre Mongoliet för att fota dem alla. Katalogen består främst av så kallade H II-regioner, vilket är stora moln av joniserat väte som glöder av energirikt ljus från heta stjärnor. Men den rymmer mer än så; här finns också planetariska nebulosor, som Medusanebulosan, och supernovarester som Spaghettinebulosan, vilka är rester efter döende och exploderande stjärnor. Med hjälp av specialfilter som fångar upp ljus från väte och syre, samt vanliga färgfilter, tog det mellan två och sex timmar per objekt. Totalt tog det omkring 800 timmar att färdigställa detta fantastiska porträtt av rymden.",
-    "entusiast": "Bilden presenterar den kompletta Sharpless-katalogen av H II-regioner, ursprungligen sammanställd av astronomen Stewart Sharpless, här i ett enormt astrofotografiskt verk av Bing Xin. Arbetet krävde observationer under de mörka natthimlarna i östra Kina och Inre Mongoliet. För att fånga in de svaga signalerna användes smalbandiga filter som isolerar emissionslinjer från joniserat väte och syre, kombinerade med traditionella RGB-filter för att återge naturliga färgtoner. Med en exponeringstid på 2 till 6 timmar per objekt summerar projektet till svindlande 800 timmars total integrationstid. Även om katalogen primärt fokuserar på områden där stjärnbildning sker kring unga, massiva stjärnor, rymmer den även andra utvecklingsstadier av stjärnors livscykel. Bland de 313 objekten finner vi klassiska favoriter som Örnnebulosan (Sh2-49), Hjärtnebulosan (Sh2-190) och Orionnebulosan (Sh2-281). Katalogen bjuder också på utvecklade faser, däribland den planetariska nebulosan Sh2-274 (Medusanebulosan) samt supernovaresten Sh2-240 (Spaghettinebulosan), vilket visar på den enorma bredden av ioniserad gas och plasma som existerar i vår galaktiska närhet."
+    "barn": "Tänk dig att du tittar in i ett jättelikt rum fullt av färgglada godis moln och glittrande lampor ute i rymden. Den här bilden visar massor av nebulosor, som är enorma moln av gas och rymdstoft. Vissa ser ut som hjärtat, andra som örnar eller slingrande spagetti. Det är som ett jättestort fotoalbum över rymdens vackraste och fluffigaste moln där nya stjärnor föds.",
+    "nyborjare": "Den här bilden samlar hela Sharpless-katalogen, vilket innebär över 300 rymdobjekt. Huvuddelen utgörs av H II-regioner. Det är gigantiska moln av vätgas som lyser upp av det intensiva ljuset från unga och mycket varma stjärnor. Men katalogen rymmer mer än så. Här finns också planetariska nebulosor, som är vackra skal av gas som kastas ut från döende stjärnor, samt supernovarester som är resterna efter våldsamma stjärnexplosioner. Att fånga alla dessa svaga objekt kräver långa exponeringstider och känsliga filter för att lyfta fram detaljerna.",
+    "entusiast": "Sharpless-katalogen är en heltäckande sammanställning av H II-regioner, alltså områden med joniserad vätgas där stjärnbildning pågår eller nyligen har ägt rum. Även om fokus ligger på dessa områden inkluderar samlingen andra typer av emissionsnebulosor, däribland planetariska nebulosor som Sh2-274 och supernovarester som Sh2-240. För att fotografera ett helt sådant här bibliotek av kosmiska strukturer används ofta smalbandiga filter som isolerar specifikt ljus från ämnen som joniserat väte och syre. Det blockerar effektivt störande ljusföroreningar och framhäver de svaga filamenten. Varje enskild nebulosa kräver timmar av exponering för att avslöja de intrikata gasstrukturer som har formats av stjärnvindar och strålning under miljontals år."
   }
 }

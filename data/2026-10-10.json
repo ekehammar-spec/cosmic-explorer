@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-10-10",
   "title": "Lunar Farside",
   "title_sv": "Månens baksida",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAwUC/8QAKxAAAQMDAgQEBwAAAAAAAAAAAQIDBAARIQVREiIxQRMUkdFCUmFxgaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFDQtEOoXff4kxkm2OqzsKamYbMdNmGUISPlT/asixhF09hhIwEW/Pc0Qw2gN2uU2FgKAB+CzJ5HmkOA9yM+tKmtaQYCg40SphRtnqk7U7k2B4bcQ64oaZGEqI404L+IkhP37UERJfmoLLiVXBTf3HrVvjBJ5hzDvvSZo+rGCS07dTCjfHVJ3FMaHmZICmHELTb4VZ96AtMpsIOM3ya5lSgxGceWeRtJUBue37rMeebj3LjiUJ+pzWLq2qmbZpu4ZTv1VQf/2Q==",
   "quiz": [
     {
-      "q": "Varför ser vi nästan alltid samma sida av månen från jorden?",
+      "q": "Varför kan vi från jorden aldrig se den här sidan av månen?",
       "options": [
-        "Månen roterar inte alls kring sin egen axel",
-        "Månen snurrar i samma takt som den kretsar kring jorden",
-        "Månens baksida är alltid mörklagd av solen"
+        "Månen roterar runt sin egen axel i samma takt som den kretsar runt jorden.",
+        "Månens baksida är permanent vänd bort från solen och därför helt mörklagd.",
+        "Jordens starka magnetfält böjer av ljuset så att baksidan förblir osynlig."
       ],
-      "correct": 1,
-      "fact": "Månen är tidlåst i en synkron rotation, vilket betyder att den roterar kring sin egen axel i exakt samma takt som den kretsar kring jorden."
+      "correct": 0,
+      "fact": "Månen har bunden rotation runt jorden, vilket gör att den alltid visar samma sida mot oss."
     },
     {
-      "q": "Vad är en tydlig skillnad mellan månens framsida och baksida?",
+      "q": "Vad är den främsta geologiska orsaken till att månens baksida nästan helt saknar mörka månhav?",
       "options": [
-        "Baksidan har färre kratrar än framsidan",
-        "Framsidan har fler släta, mörka slätter som kallas maria",
-        "Baksidan är helt täckt av flytande hav av lava"
+        "Meteoritregn har krossat den mörka lavan till ljust stoft under årmiljarderna.",
+        "Baksidans skorpa är tjockare, vilket hindrade lava från det inre att nå ytan.",
+        "Solvinden har under miljarder år blekt bergarterna på baksidan till en ljus färg."
       ],
       "correct": 1,
-      "fact": "Månens framsida är täckt av slät och mörk vulkanisk lava, medan baksidan har en mycket råare och mer kraterdrabbad yta."
+      "fact": "Den tjockare jordskorpan på baksidan gjorde att forntida magma sällan kunde tränga upp och bilda vidsträckta lavaslätter."
     },
     {
-      "q": "Hur skapades det skarpa fotot av månens baksida?",
+      "q": "Vilken rymdsond lyckades för allra första gången fotografera månens baksida år 1959?",
       "options": [
-        "Genom ett enda foto taget från ett teleskop på jorden",
-        "Genom att sätta ihop över 15 000 bilder från en rymdsond i omloppsbana",
-        "Genom att astronauter fotograferade ytan under landningar"
+        "Apollo 8",
+        "Mariner 2",
+        "Luna 3"
       ],
-      "correct": 1,
-      "fact": "Bilden är ett mosaikfoto skapat av över 15 000 bilder som samlades in av rymdsonden Lunar Reconnaissance Orbiter mellan november 2009 och februari 2011."
+      "correct": 2,
+      "fact": "Sovjetiska Luna 3 tog de historiska första bilderna av baksidan i oktober 1959 och visade dess kraterrika terräng."
     }
   ],
   "levels": {
-    "barn": "Visste du att månen är lite lat och alltid gömmer samma sida för oss när vi tittar upp från jorden? Det är som om en kompis snurrar runt runt, men hela tiden tittar på dig med samma ansikte. Men med rymdkameror har vi kunnat spana in månens hemliga baksida. Den ser helt annorlunda ut än dens framsida. Istället för att vara slät är baksidan full av grova stötmärken och kratrar. Det ser ut som en gammal måne med massor av plåster över hela sig.",
-    "nyborjare": "Från jorden ser vi alltid samma sida av månen eftersom den är tidlåst i en så kallad synkron rotation. Det betyder att månens snurr kring sin egen axel tar lika lång tid som dess varv runt jorden. Men med rymdfarkoster i omloppsbana kan vi utforska månens baksida. Denna bild är ett mosaikfoto skapat av mer än 15 000 bilder tagna av rymdsonden Lunar Reconnaissance Orbiter. Till skillnad från framsidan, som har stora, släta och mörka ytor av stelnad lava som kallas maria, är baksidan väldigt gropig och täckt av kratrar. Forskare tror att detta beror på att jordskorpan på baksidan är tjockare, vilket gjorde det svårare för smält lava att rinna ut och bilda släta ytor.",
-    "entusiast": "Denna detaljerade bild är en global mosaik centrerad på månens baksida, hopsatt av över 15 000 enskilda bilder förvärvade mellan november 2009 och februari 2011 av wide angle-kameran ombord på Lunar Reconnaissance Orbiter. De högupplösta versionerna av detta material avslöjar topografiska detaljer ner till en skala på 100 meter per pixel. Eftersom månen uppvisar en synkron rotation på grund av tidvattenkrafter från jorden har den historiskt varit känd enbart genom rymdsondsmissioner. Det mest slående draget är kontrasten mellan baksidans brutna, hårt kraterdrabbade topografi och framsidans omfattande utbredning av basaltiska, mörka maria. Den mest sannolika vetenskapliga förklaringen till denna dikotomi är en asymmetri i månens skorptjocklek; baksidans skorpa är signifikant tjockare, vilket mekaniskt har hindrat inre magmatiska flöden från att nå ytan och bilda de låglänta vulkaniska slätter som präglar den earth-facing sidan."
+    "barn": "Tänk dig att du dansar runt en kompis och hela tiden tittar kompisen rakt i ögonen. Då ser kompisen bara din framsida, aldrig din rygg! Precis så gör månen när den snurrar runt jorden. Den här bilden visar månens baksida, som vi aldrig kan se från marken. Den är full av runda gropar som kallas kratrar. Kratrarna blev till när rymdstenar kraschade in i månen för jättelänge sedan. Här finns nästan inga mörka fläckar som på framsidan, utan mest ljusa och steniga kullar.",
+    "nyborjare": "Från jorden ser vi alltid samma sida av månen på grund av ett fenomen som kallas bunden rotation, vilket innebär att månen roterar ett varv runt sin egen axel på exakt samma tid som den kretsar runt jorden. Därför fick mänskligheten vänta ända tills rymdåldern innan vi för första gången fick se baksidan. Till astronomernas förvåning ser månens baksida helt annorlunda ut än den bekanta framsidan. Framsidan är täckt av stora, mörka slätter av stelnad lava som kallas månhav, medan baksidan nästan helt domineras av en ljus och kraftigt ärrad yta full av nedslagskratrar. Forskarna tror att detta beror på att månens skorpa är betydligt tjockare på baksidan, vilket gjorde det svårt för smält magma från månens inre att tränga upp till ytan vid meteoritnedslag.",
+    "entusiast": "Månens baksida uppvisar en markant geologisk dikotomi jämfört med den jordvända framsidan. Denna skarpa mosaik är sammansatt av över 15 000 bilder tagna med vidvinkelkameran på NASA:s rymdsond Lunar Reconnaissance Orbiter (LRO) mellan 2009 och 2011, med en detaljrikedom på 100 meter per pixel. Medan framsidan präglas av vidsträckta, mörka basaltiska månhav, eller maria, består baksidan nästan uteslutande av ett anortositrikt och extremt kratermättat högland. Den rådande vetenskapliga förklaringen till denna asymmetri är att baksidans skorpa är betydligt tjockare än framsidans, något som bekräftats av gravitometriska mätningar från NASA:s GRAIL-sonder. När massiva impaktorer slog ner under solsystemets tidiga bombardemang lyckades de sällan penetrera baksidans tjocka litosfär tillräckligt djupt för att inducera den massiva flodvulkanism som fyllde framsidans sänkor med järnrik basalt. Orsaken till denna asymmetriska skorptillväxt är föremål för aktiv forskning, med teorier som spänner från termiska effekter orsakade av den heta unga jorden till en långsam kollision med en mindre följeslagarmåne. Eftersom månen befinner sig i synkron rotation vänder den alltid samma sida mot jorden. Detta gör baksidan helt avskärmad från jordens elektromagnetiska brus, vilket gör den till solsystemets mest optimala observationsplats för framtida lågfrekvent radioastronomi."
   }
 }

@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-10-05",
   "title": "M104: The Sombrero Galaxy's Tidal Streams",
   "title_sv": "M104: Sombrerogalaxens tidvattenströmmar",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAQL/xAAgEAACAwACAgMBAAAAAAAAAAABAgADEQUhBBIUMVGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Agaq2boCPeNxVlvYUzOP6s0gHJXcVZSq7ZhAB6lRK38eyNvoFI+4jZWUsw5+yl5jyal31I2TlxNhJA/kpHNLFWBEa+ZcgxWwQhAW8i17G1iYVgiosCYQhX//Z",
   "quiz": [
     {
-      "q": "Varför har Sombrerogalaxen fått sitt namn?",
+      "q": "Vad är det mörka bandet som syns tvärs över Sombrerogalaxen?",
       "options": [
-        "Den roterar precis som en snurra",
-        "Den liknar en hatt på kortare exponeringar",
-        "Den upptäcktes av en hattmakare"
-      ],
-      "correct": 1,
-      "fact": "M104 kallas Sombrerogalaxen eftersom den på kortare exponeringar ser ut som en hatt, med ett mörkt stoftband som cirklar runt mitten."
-    },
-    {
-      "q": "Vad avslöjar längre exponeringar av Sombrerogalaxen?",
-      "options": [
-        "En hårig historia med en ljus, dimmig gloria och strukturer som en diagonal ring",
-        "Att galaxen håller på att lösas upp helt i tomma intet",
-        "Att den omges av gigantiska moln av flytande vatten"
+        "Ett tätt band av rymdstoft och gas som skymmer stjärnljuset bakom",
+        "En gigantisk skugga som kastas av ett supermassivt svart hål i centrum",
+        "Ett tomt område i rymden där inga stjärnor någonsin har kunnat bildas"
       ],
       "correct": 0,
-      "fact": "En mycket längre exponering visar en hårig historia med en ljus och dimmig gloria som sträcker sig långt förbi det centrala stoftbandet, samt spännande strukturer som en diagonal ring."
+      "fact": "Det mörka brättet består av interstellärt stoft i galaxens skiva som absorberar ljuset från den lysande centrala utbuktningen."
     },
     {
-      "q": "Vad tyder galaxens strukturer och tidvattenströmmar på?",
+      "q": "Vad avslöjar de svaga ringarna och stjärnströmmarna i galaxens utkant?",
       "options": [
-        "Att galaxen har varit helt stilla sedan universums födelse",
-        "Att galaxen har en mycket våldsam historia med kollisioner och sammanslagningar av mindre galaxer",
-        "Att den snart kommer att krocka med Vintergatan"
+        "Att galaxen roterar så fort att den håller på att lösas upp",
+        "Att galaxen tidigare har krockat med och slukat mindre galaxer",
+        "Att en kraftig chockvåg från en närliggande supernova nyligen passerat"
       ],
       "correct": 1,
-      "fact": "Dessa strukturer och tidvattenströmmar ger färska bevis för att M104 har haft en våldsam historia som är resultatet av kollisioner och sammanslagningar av mindre galaxer."
+      "fact": "Tidvattenströmmar bildas när en större galaxs gravitation sliter sönder och absorberar mindre satellitgalaxer."
+    },
+    {
+      "q": "Ungefär hur lång tid tar det för ljuset från Sombrerogalaxen att nå oss på jorden?",
+      "options": [
+        "Cirka 300 000 år",
+        "Cirka 3 miljoner år",
+        "Cirka 30 miljoner år"
+      ],
+      "correct": 2,
+      "fact": "Sombrerogalaxen ligger omkring 30 miljoner ljusår bort, vilket innebär att ljuset färdats i 30 miljoner år."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor hatt som svävar ute i rymden! Den här galaxen heter Sombrerogalaxen eftersom den ser ut som en mexikansk hatt. Mitt i hatten finns en mörk ring av stoft som ser ut som ett skärp. Men om man tittar ännu noggrannare visar det sig att galaxen har en fluffig päls runt sig. Det är stjärnor som har hamnat där efter att galaxen krockat med andra mindre galaxer för länge sedan. Ljuset från hatten tar trettio miljoner år på sig att nå oss!",
-    "nyborjare": "M104, mer känd som Sombrerogalaxen, är ett fascinerande astronomiskt objekt. På vanliga bilder liknar den en hatt tack vare sitt framträdande och mörka stoftband som cirklar kring galaxens skiva. Men när astronomer tar bilder med lång exponering, vilket innebär att kameran samlar in ljus under en längre tid, träder nya detaljer fram. Då uppenbarar sig en stor, dimmig gloria av stjärnor som sträcker sig långt utanför själva skivan. Där syns även strukturer som en diagonal ring och så kallade tidvattenströmmar. Dessa avslöjar att galaxen har en våldsam historia bakom sig, skapad av kollisioner och sammanslagningar med mindre galaxer. Galaxen ligger cirka 30 miljoner ljusår bort och spänner över 150 000 ljusår.",
-    "entusiast": "Messier 104, allmänt känd som Sombrerogalaxen, är en storslagen skivgalax som uppvisar komplexa morfologiska särdrag när den observeras med djupa exponeringar. Bilden, tagen under sju dagar i mitten av 2026 från Namibia, illustrerar hur kortare exponeringar enbart fångar det karaktäristiska och mörka stoftbandet som omger den centrala skivan. En djupare examination avslöjar dock en vidsträckt, diffus stjärnhalo som sträcker sig långt förbi skivans gränser och rymmer många oresolvade stjärnor. Mest anmärkningsvärt är närvaron av finstrukturer som en diagonal ring och distinkta tidvattenströmmar. Dessa kinematiska spår och stjärnströmmar utgör starka bevis för en turbulent dynamisk historia, där M104 med säkerhet är resultatet av tidigare akrektioner, kollisioner och sammanslagningar av mindre galaxer. Med en skenbar och fysisk storlek på omkring 150 000 ljusår i diameter, tar det ljuset ungefär 30 miljoner år att nå fram till oss från detta avlägsna system."
+    "barn": "Titta på den här galaxen! Den kallas Sombrerogalaxen eftersom den ser ut precis som en gigantisk mexikansk hatt som svävar ute i rymden. Runt hattens kant finns ett mörkt band av stoft. När astronomer tar en bild med extra lång exponering ser man ett luddigt sken och svaga slingor av stjärnor runtomkring. Det beror på att hatten har krockat med mindre galaxer och ätit upp dem, ungefär som när en stor snöboll rullar över och sväljer små snöbollar.",
+    "nyborjare": "M104 kallas ofta Sombrerogalaxen tack vare sin karakteristiska form som liknar en bredbrättad hatt. Det mörka bandet tvärs över mitten utgörs av rymdstoft som absorberar ljuset från galaxens stjärntäta centrum. När galaxen fotograferas med en mycket djup exponering framträder en enorm och oväntat rörig stjärnhalo, vilket är en sfärisk svärm av stjärnor som omsluter galaxskivan. I denna halo syns svaga ringar och tidvattenströmmar. Dessa strukturer är tydliga spår efter tidigare krockar där Sombrerogalaxen har slitit isär och absorberat mindre dvärggalaxer. Ljuset från M104 har färdats i ungefär 30 miljoner år för att nå våra teleskop.",
+    "entusiast": "Sombrerogalaxen, katalogiserad som M104, är ett spektakulärt objekt som uppvisar drag av både spiralgalaxer och elliptiska jättegalaxer. Det mest framträdande särdraget i visuellt ljus är den massiva stoftskivan som skär genom den ljusstarka centrala utbuktningen. Mycket djupa exponeringar avslöjar emellertid en betydligt mer dynamisk och våldsam historia. Galaxens vidsträckta halo sträcker sig över cirka 150 000 ljusår och döljer komplexa tidvattenströmmar samt en diagonal ringstruktur bestående av oseparerade stjärnor. Dessa formationer utgör observationella bevis för hierarkisk galaxbildning och galaktisk kannibalism, där M104 har gravitationellt stört och ackreterat mindre satellitsystem. På ett avstånd av omkring 30 miljoner ljusår ger M104 värdefulla insikter i hur storskaliga stjärnhalor och stjärnströmmar utvecklas genom upprepade sammanslagningar över kosmisk tid."
   }
 }

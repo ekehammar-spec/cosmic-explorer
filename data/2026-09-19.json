@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-19",
   "title": "A Zodiacal Night",
-  "title_sv": "En stämningsfull natt med zodiakljus",
+  "title_sv": "Zodiakalt ljus i natten",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAAiEAABBAICAQUAAAAAAAAAAAABAAIDBBESMUEFIkJRYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Axhac9pkcZJRFbqOdrIXRnjJGR+K146rVtOLYbML3gZ1DhlLSW5iVqWqtYoyMlI1K53VnYJLTwipnXR+pxz2UvX7QhQPFmy1uosSgfG5Q2ecuGZ5CMj3FCFB//9k=",
   "quiz": [
     {
-      "q": "Vad kallas det svaga, pyramidformade ljusband som sträcker sig upp längs himlen på bilden?",
+      "q": "Vad är det zodiakala ljuset som ibland kallas för falsk gryning?",
       "options": [
-        "Vintergatan",
-        "Zodiakljus",
-        "Norrsken"
-      ],
-      "correct": 1,
-      "fact": "Zodiakljuset är ett svagt sken som orsakas av solljus som reflekteras mot interplanetärt rymddamm."
-    },
-    {
-      "q": "Vilken planet beskrivs som synlig nära den östra horisonten inuti det svaga ljusbandet?",
-      "options": [
-        "Mars",
-        "Jupiter",
-        "Saturnus"
-      ],
-      "correct": 1,
-      "fact": "Den ljusa planeten Jupiter syns nedsänkt i det svaga zodiakljuset nära den östra horisonten."
-    },
-    {
-      "q": "Enligt nyliga upptäckter från rymdsonders observationer, varifrån tros det mesta av det damm som skapar zodiakljuset komma?",
-      "options": [
-        "Planeten Mars",
-        "Asteroidbältet",
-        "Kometer från Oorts moln"
+        "Solljus som reflekteras mot stoftpartiklar i solsystemets planetplan",
+        "Ett svagt norrsken som uppstår nära ekvatorn vid solstormar",
+        "Ljus från avlägsna galaxer som samlas i Vintergatans mitt"
       ],
       "correct": 0,
-      "fact": "Mätningar från NASA:s rymdfarkost Juno tyder på att planeten Mars själv är källan till det damm som sprider solljuset."
+      "fact": "Det zodiakala ljuset skapas när solljus reflekteras av små dammkorn och partiklar som rör sig i samma plan som planeterna kring solen."
+    },
+    {
+      "q": "Vilken planet anses enligt nya rymdmätningar vara den troliga källan till det interplanetariska stoft som orsakar detta ljus?",
+      "options": [
+        "Saturnus",
+        "Mars",
+        "Venus"
+      ],
+      "correct": 1,
+      "fact": "Mätningar från NASA-rymdfarkosten Juno tyder på att Mars är källan till det stoft som sprider solljuset och skapar det zodiakala ljuset på jorden."
+    },
+    {
+      "q": "Vad kallas den astronomiska händelse som inträffar strax före solen går upp och efter att det zodiakala ljuset syns?",
+      "options": [
+        "Astronomisk skymning",
+        "Meteorskur",
+        "Astronomisk gryning"
+      ],
+      "correct": 2,
+      "fact": "Det zodiakala ljuset syns ofta tydligt just innan den astronomiska gryningen börjar och natthimlen börjar ljusna av solen."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du spiller mjöl på ett mörkt bord, ungefär så ser det ut på den här bilden! Det svaga ljusbandet som sträcker sig över himlen kallas för zodiakljus. Det är faktiskt miljarder små, små dammkorn som svävar i rymden och speglar solens strålar. På bilden syns också några planeter som lyser klart, och om du tittar riktigt noga kan du till och med få syn på ett stjärnfall som swischar förbi i natten.",
-    "nyborjare": "Den här stämningsfulla natthimlen är fotograferad från ett mörkt och avlägset stjärnobsidarium i Ladakh i Indien, på hela 4 500 meters höjd över havet. Det som fångar ögat är det spökaktiga, pyramidformade ljuset som reser sig från horisonten, det så kallade zodiakljuset. Ljuset uppstår när solljus studsar på rymddamm. Inuti detta ljusband syns den ljusa planeten Jupiter. Om man följer ljusbandet högre upp mot himlen hittar man även den gulaktiga planeten Mars och en öppen stjärnhop som kallas M44.",
-    "entusiast": "Bilden fångar ett sällsynt och stämningsfullt skådespel vid Hanle Dark Sky Reserve i Ladakh, Indien, beläget på omkring 4 500 meters höjd. Strax före den astronomiska gryningen träder zodiakljuset – även känt som den falska gryningen – fram tydligt mot den mörka natthimlen. Detta diffusa, konformade band skapas av att interplanetärt rymddamm backar och sprider solljus. Enligt nyliga serendipitära detektioner gjorda av NASA:s rymdsond Juno härstammar detta damm sannolikt från planeten Mars själv. I kompositionen syns även en meteor strecka över himlen, planeten Jupiter nedsänkt i glöden nära den östra horisonten, samt den öppna stjärnhopen M44 och den gulaktiga planeten Mars högre upp längs zodiakbandet mot zenit."
+    "barn": "Tänk dig att det ligger ett glittrande dammstråk utspritt som en jättelik bana rakt över stjärnhimlen. Det här är inte stjärnor, utan ett moln av små, små stendelar och rymddamm som speglar solens strålar. Det ser ut som en falsk soluppgång fast det fortfarande är mitt i natten! Ungefär som när ett solstråle letar sig in genom ett dammigt fönsterrum hemma, fast i jättestort format ute i rymden.",
+    "nyborjare": "På den här stämningsfulla natthimlen syns ett svagt, konformat sken som sträcker sig uppåt från horisonten. Fenomenet kallas zodiakalt ljus eller falsk gryning. Det orsakas av att solljus studsar på miljarder små dammkorn som svävar i rymden runt solen, i samma skiva där planeterna kretsar. Bilden är tagen från en mycket mörk och högt belägen plats i Indien, på hela 4 500 meters höjd. Där uppe är luften tunn och fri från stadsljus, vilket gör det lättare att upptäcka svaga himlafenomen tillsammans med planeter som Jupiter och Mars.",
+    "entusiast": "Denna djuphimmelsbild fångar det zodiakala ljuset som reser sig i öster strax före den astronomiska gryningen. Bilden togs från Hanle Dark Sky Reserve i Ladakh, beläget på 4 500 meters höjd i Himalaya, vilket erbjuder en exceptionell miljö för astronomiska observationer tack vare minimal ljusförorening och den tunna atmosfären. Det diffusa, pyramidformade bandet utgörs av solljus som backscatteras av interplanetärt stoft i ekliptikans plan. Bland de mer intressanta upptäckterna på senare tid är att data från NASA:s Juno-sarkofag tyder på att Mars kan vara den primära källan till detta stoft, vilket ger ny insikt i solsystemets dynamik. I samma bildfält kan man skönja planeter som Jupiter och Mars, stjärnhopen M44 samt svaga spår av meteorer som skär genom den mörka natthimlen."
   }
 }

@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-09-27",
   "title": "Andromeda Before Photoshop",
-  "title_sv": "Andromeda innan Photoshop",
+  "title_sv": "Andromedagalaxen före bildbehandling",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQMABAYCBf/EACYQAAEDAgQGAwAAAAAAAAAAAAEAAgMRMQQSIUEFEyIyUWEzQnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxjRU3oNyi41R7RTe5/VZweCdiXgVoCUFaKF8rqMBKY+Hl6P0K97iAwnDoGwQPEkuXqIsCs/LKZH6n2UEayp1srD8Y5jMsfT7CUbJUm6Ac4l+Z7cw8Eriwp5up9Qms+UoP//Z",
   "quiz": [
     {
-      "q": "Vad visar denna bild av Andromedagalaxen mest av allt?",
+      "q": "Hur långt bort ligger Andromedagalaxen från oss i Vintergatan?",
       "options": [
-        "En helt perfekt vy tagen från ett rymdteleskop",
-        "En råstackad bild med spår från flygplan och satelliter",
-        "En digital fantasi skapad helt från början i Photoshop"
+        "Cirka 25 000 ljusår bort",
+        "Cirka 2,5 miljoner ljusår bort",
+        "Cirka 250 miljoner ljusår bort"
       ],
       "correct": 1,
-      "fact": "Bilden är en sammanfogning av 223 exponeringar tagna från en trädgård och visar tydliga brister som flygplansspår, satelliter och kosmiska strålar."
+      "fact": "Andromedagalaxen är vår närmaste stora spiralgalax och ligger på ett avstånd av ungefär 2,5 miljoner ljusår."
     },
     {
-      "q": "Varför bearbetar astronomer bilder med programvara som DeepSkyStacker?",
+      "q": "Vad kommer att hända med Vintergatan och Andromedagalaxen i framtiden?",
       "options": [
-        "För att ta bort stökiga markbundna artefakter och se galaxen bättre",
-        "För att lägga till planeter som inte finns i verkligheten",
-        "För att göra galaxen mycket större än den faktiskt är"
-      ],
-      "correct": 0,
-      "fact": "Allt arbete görs för att minimera jordbundna artefakter som inte har med den avlägsna galaxen att göra, och därmed bättre återskapa hur den faktiskt ser ut."
-    },
-    {
-      "q": "Hur togs bilderna som bygger upp denna astronomiska vy?",
-      "options": [
-        "Med en mobilkamera genom ett fönster på en skyskrapa",
-        "Genom en lång exponering på 300 sekunder per bild",
-        "Genom att filma himlen med en vanlig videokamera i en sekund"
+        "De rör sig bort från varandra på grund av universums expansion",
+        "De dras mot varandra och kommer att smälta samman till en galax",
+        "Andromedagalaxen kommer att passera oss utan att påverkas av gravitationen"
       ],
       "correct": 1,
-      "fact": "Bilden är ett resultat av 223 bilder där varje enskild bild är en exponering på 300 sekunder, tagen från ett trädgårdsobservatorium i Portugal under 2019."
+      "fact": "Gravitationen drar galaxerna mot varandra med hög hastighet, och om cirka 4 till 5 miljarder år väntas de kollidera och bilda en jättelik elliptisk galax."
+    },
+    {
+      "q": "Vilken typ av galax är Andromedagalaxen (M31)?",
+      "options": [
+        "En oregelbunden galax utan tydlig kärna",
+        "En jättelik klotformad stjärnhop",
+        "En spiralgalax med armar av stjärnor och stoft"
+      ],
+      "correct": 2,
+      "fact": "Precis som vår egen Vintergatan är Andromeda en majestätisk spiralgalax som rymmer uppskattningsvis en biljon stjärnor."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du försöker ta ett foto av ett tänt ljus långt borta, men så springer en mygga framför kameran och ett flygplan dundrar förbi på himlen! Det är ungefär så det är att fota rymden från jorden. På den här bilden ser vi spår efter både flygplan och satelliter som råkade komma med. Det är som att kameran har fått lite fnatt, men astronomer rensar bort allt skräp för att visa hur galaxen egentligen ser ut.",
-    "nyborjare": "När astrofotografer vill fånga svaga objekt som Vintergatans närmaste stora granngalax, Andromedagalaxen, krävs det långa exponeringar. Den här bilden är ett så kallat 'stackat' resultat, vilket innebär att man lägger flera bilder ovanpå varandra för att samla in tillräckligt med ljus. Eftersom bilderna tas från jorden genom en fullpackad himmel får man med oönskade element som ljusa flygplansspår, satellitspår och pixelfel. Istället för att lura betraktaren med digitala fantasier används speciell mjukvara som Astro Pixel Processor och PixInsight för att minimera dessa jordbundna artefakter och återskapa galaxens verkliga utseende.",
-    "entusiast": "Denna bild illustrerar den mödosamma processen bakom modern amatörastrofotografi innan slutlig kalibrering och skärpning äger rum. Originalet är en stack av 223 individuella exponeringar om 300 sekunder vardera, insamlade under 2019 från ett trädgårdsobservatorium i Portugal. Den råa stacken avslöjar de typiska utmaningarna med markbaserad observation: parallella flygplansspår, långa kontinuerliga satellitspår, korta kosmiska stråk och defekta pixlar från kamerasensorn. Istället för att använda Adobe Photoshop har astronomer använt specialiserade programvarupaket som Astro Pixel Processor, DeepSkyStacker och PixInsight. Syftet är inte att skapa en digital illusion av Messier 31, utan att vetenskapligt eliminera artefakter som härstammar från jordens atmosfär och närmiljö, för att på så sätt närma sig galaxens sanna morfologi."
+    "barn": "Här ser du vår närmaste stora granne i rymden: Andromedagalaxen! En galax är som en jättestor virvel av miljarder stjärnor, planeter och rymdgrus.\n\nNär astronomer fotograferar rymden blir bilderna inte alltid perfekta direkt. Flygplan flyger förbi och lämnar ljusa ränder, och satelliter drar vita streck över himlen. Det är som när någon råkar gå förbi precis när du tar ett foto med mobilen. Med datorns hjälp kan man städa bort alla streck så att den vackra galaxen syns ordentligt.",
+    "nyborjare": "Andromedagalaxen, även känd som M31, är Vintergatans närmaste stora granngalax och ligger ungefär 2,5 miljoner ljusår bort. Den här bilden visar hur galaxen ser ut innan bildbehandlingen har städat upp alla störningar.\n\nFör att fånga det svaga ljuset från avlägsna galaxer krävs lång exponeringstid, vilket innebär att kameran samlar in ljus under många minuter. Under den tiden hinner mycket störa bilden. De raka, ljusa linjerna som skär genom rymden är spår från flygplan och satelliter som passerar i jordens atmosfär och omloppsbana. Dessutom syns små prickar och streck från kosmisk strålning och trasiga kamerapixlar. Genom att lägga ihop hundratals bilder digitalt kan astronomer filtrera bort dessa jordiska störningar och visa galaxens verkliga prakt.",
+    "entusiast": "Andromedagalaxen (Messier 31) är det mest avlägsna objekt som det mänskliga ögat kan skönja utan teleskop under en mörk himmel. Denna sammansatta exponering från 2019 består av 223 delbilder på 300 sekunder vardera, vilket ger en total exponeringstid på över 18 timmar. Bilden illustrerar rådatans utmaningar inom modern astrofotografering från markbaserade observatorier.\n\nI råstacken syns tydliga spår av vår allt mer trafikerade närmiljö: parallella navigationsljus från flygplan och utdragna banor från satelliter i låg omloppsbana kring jorden. Utöver dessa artificiella störningar innehåller sensordatan spår av kosmisk strålning som träffat kiselchippet, termiskt brus samt heta och döda pixlar.\n\nFör att återskapa M31:s faktiska struktur används specialiserad programvara för bildbehandling, såsom Astro Pixel Processor och PixInsight. Genom statistiska metoder, exempelvis sigma-clipping under bildstackningen, kan avvikande pixlar från satellitspår och sensorartefakter effektivt uteslutas. Resultatet förvränger inte verkligheten utan befriar snarare signalen från jordbunden kontamination. Kvar blir en ren representation av galaxens stjärnbefolkning, stoftband och satellitgalaxerna M32 och NGC 205."
   }
 }

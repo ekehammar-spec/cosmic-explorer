@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-18",
   "title": "Messier 33: The Triangulum Galaxy",
-  "title_sv": "Messier 33: Triangelgalaxen",
+  "title_sv": "Triangelgalaxen M33",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYBAgQF/8QAJBAAAgICAQMEAwAAAAAAAAAAAQIAEQMEEgUhQRMxUXEyYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRIRIxYf/aAAwDAQACEQMRAD8ASETkwHvDjUciwh4jzcjWdF/JQ33GjpmtrbeHuba6q/abeCKt0KD4yhIlYzdT6UqFvTAP1F7Nj4N2BHyDIt6ElxdMGDX7+Zt097LrmkY0fFzNlUDGpAAMECYIMDdX5oi9xVk35nIzuHyMVNg9xB5BxKV5RT/JUQmWXp//2Q==",
   "quiz": [
     {
-      "q": "Hur kan man bäst beskriva formen på denna galax sett från jorden?",
+      "q": "Vilken typ av astronomiskt objekt är Messier 33?",
       "options": [
-        "En perfekt boll av miljarder stjärnor",
-        "En spiral som ses rakt framifrån",
-        "En långsträckt och rak streckgalax"
+        "En stor spiralgalax",
+        "En klotformig stjärnhop",
+        "En planetariska nebulosa"
+      ],
+      "correct": 0,
+      "fact": "Messier 33, även känd som Triangelgalaxen, är en magnifik spiralgalax med utsträckta armar fulla av stjärnor och gas."
+    },
+    {
+      "q": "Hur stor är Triangelgalaxen i diameter ungefär?",
+      "options": [
+        "5 000 ljusår",
+        "50 000 ljusår",
+        "5 miljoner ljusår"
       ],
       "correct": 1,
-      "fact": "Bilden visar en storslagen spiralgalax som vetter rakt mot oss, vilket gör att dess vackra armar syns tydligt."
+      "fact": "Galaxen har en diameter på över 50 000 ljusår, vilket gör den till den tredje största medlemmen i den Lokala galaxgruppen."
     },
     {
-      "q": "Vilken färg har de stjärnhopar och områden där nya stjärnor föds i galaxen?",
+      "q": "Vilken roll spelar galaxer som Messier 33 för astronomerna?",
       "options": [
-        "Blå stjärnhopar och rosa stjärnbildande områden",
-        "Helt gröna stjärnor och gula moln",
-        "Endast röda jättestjärnor utan färger"
+        "De fungerar som kosmiska måttstockar för att mäta avstånd i universum",
+        "De skapar svarta hål som driver universums expansion",
+        "De fungerar som naturliga linser som förstorar ljuset bakom dem"
       ],
       "correct": 0,
-      "fact": "Teleskopbilden visar blå stjärnhopar och rosafärgade områden där nya stjärnor bildas längs de löst virrande spiralarmarna."
-    },
-    {
-      "q": "Vilken roll spelar galaxens variabla stjärnor inom astronomin?",
-      "options": [
-        "De används för att mäta avstånd i universum",
-        "De visar hur galaxen kommer att explodera imorgon",
-        "De fungerar som radioantenner för rymdfarkoster"
-      ],
-      "correct": 0,
-      "fact": "Genom att mäta variabla stjärnor i denna närliggande spiralgalax kan astronomer använda den som en kosmisk måttstock för att förstå universums avståndsskala."
+      "fact": "Tack vare variabla stjärnor vars ljusstyrka varierar på ett förutsägbart sätt kan astronomer använda galaxen som en kosmisk måttstock för att mäta kosmiska avstånd."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor snurra ute i rymden som är gjord av miljarder glittrande stjärnor. Det är en galax som kallas Triangelgalaxen. Den ser ut som ett gigantiskt fyrverkeri eller en virvelvind av ljus. Armarna på snurran är fulla av blå och rosa moln där det föds helt nya stjärnor. Om du kunde titta ut från den här galaxen skulle du se andra stora galaxer lysa vackert på stjärnhimlen precis som hus i en stad.",
-    "nyborjare": "Denna skarpa teleskopbild visar Messier 33, populärt kallad Triangelgalaxen eller Pinwheel-galaxen. Den är en magnifik spiralgalax som ligger i stjärnbild Triangelns område. Med en diameter på över 50 000 ljusår är detta den tredje största galaxen i den Lokala galaxgruppen, som är vårt lokala gäng av galaxer, strax efter Andromedagalaxen och vår egen Vintergata. På avståndet av cirka 3 miljoner ljusår från oss tros den vara en satellitgalax till den större Andromedagalaxen. Bilden fångar dess karaktäristiska blå stjärnhopar och rosa stjärnbildningsregioner, inklusive det enorma området NGC 604.",
-    "entusiast": "Messier 33, även känd som Triangelgalaxen, är en Sc-spiralgalax i konstellationen Triangulum med en skenbar diameter på över 50 000 ljusår. Den utgör den tredje medlemmen i den Lokala gruppen sett till massa och storlek, efter Messier 31 och Vintergatan. Dynamiskt sett interagerar M33 troligen gravitationsmässigt med Andromedagalaxen (M31), fungerande som en massiv satellit i ett komplext system där ömsesidiga vyer av galaktiska skivor vore spektakulära. Den optiska bilden framhäver dess löst lindade spiralarmar, rikliga populationer av blå stjärnhopar samt H II-regioner, däribland den massiva emissionsnebulosan NGC 604 belägen ungefär vid klockan fem från galaxens centrum. Eftersom M33 ligger tillräckligt nära för att dess population av variabla stjärnor (såsom Cepheider) ska kunna mätas noggrant, fungerar den som en fundamental kosmisk måttstock för att kalibrera den extragalaktiska avståndsskalan i universum."
+    "barn": "Tänk dig en jättestor snurra ute i rymden som är gjord av miljarder glittrande stjärnor. Det är en galax! Den här kallas för Triangelgalaxen och den är så stor att ljuset behöver färdas i tiotusentals år för att hinna tvärs över den. Den snurrar långsamt i mörkret tillsammans med vår egen galax Vintergatan som ett jättestort fyrverkeri som aldrig slår ut.",
+    "nyborjare": "Messier 33, populärt kallad Triangelgalaxen, är en av våra närmaste grannar i rymden. Den är en spiralgalax, vilket betyder att den har vackra armar som slingrar sig ut från ett ljust centrum, fulla av unga blå stjärnor och rosa moln där nya stjärnor föds. Galaxen ligger cirka 3 miljoner ljusår bort från oss och är den tredje största i vår lokala grupp av galaxer efter Andromedagalaxen och vår egen Vintergata.",
+    "entusiast": "Messier 33 är en klassisk Sc-spiralgalax i konstellationen Triangeln och utgör en hörnsten i den Lokala gruppen. Med en diameter på över 50 000 ljusår tros M33 vara en satellitgalax till den större Andromedagalaxen M31, med vilken den kan ha nära dynamiska interaktioner. Dess rika population av H II-regioner, däribland det vidsträckta stjärnbildningsområdet NGC 604, samt välstuderade cepheider och variabla stjärnor har gjort M33 till en ovärderlig kosmisk måttstock för att kalibrera den extragalaktiska avståndsskalan."
   }
 }

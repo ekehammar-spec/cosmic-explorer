@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-09-29",
   "title": "Sh2-188: The Shrimp Nebula",
   "title_sv": "Sh2-188: Räknebulosan",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAgEDBv/EACQQAAIBAwQBBQEAAAAAAAAAAAECAAMRIQQFEjFBMlFhgZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIABAX/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDERIh/9oADAMBAAIRAxEAPwDk9r2upr3JBCUl9Tt0IxbatEpPCqzn2tCaDrQ2Wkq+Rm3kmLjquIaxyYrZozjxxK69bBNRp0TAvjzBMX6h1aoHGP7BuI+YSpaW/BklYvt4pjteoqdm5zbSrMoNj3JyBzYAyBqukiq3vn8k5CYLYxKfUImz/9k=",
   "quiz": [
     {
-      "q": "Vad liknar den främsta kanten på denna nebulosa, som bildas när gas komprimeras?",
+      "q": "Vad för typ av astronomiskt objekt är Sh2-188 i grunden?",
       "options": [
-        "Ett flygplan som bryter ljudvallen",
-        "En båt som plöjer igenom vatten",
-        "Ett tåg som kör på räls"
+        "En rest efter en våldsam supernovaexplosion från en massiv stjärna",
+        "En planetarisk nebulosa skapad av en döende, medelstor stjärna",
+        "En enorm stoftpelare där nya stjärnor och planetsystem föds"
       ],
       "correct": 1,
-      "fact": "Nebulosans vita dvärgstjärna rör sig så snabbt genom rymden att den bildar en bogvåg, vilket liknar en båt som plöjer igenom vatten."
+      "fact": "Trots namnet har planetariska nebulosor inget med planeter att göra. De bildas när stjärnor liknande vår sol gör sig av med sina yttre gasskikt i slutet av sina liv."
     },
     {
-      "q": "Hur stor är nebulosan på natthimlen jämfört med månen?",
+      "q": "Nebulosan har en starkt asymmetrisk bågform i stället för en rund bubbla. Vad är orsaken till detta?",
       "options": [
-        "Den är dubbelt så stor som månen",
-        "Den är lika stor som månen",
-        "Den spänner över ungefär halva månens diameter"
-      ],
-      "correct": 2,
-      "fact": "Sh2-188 är en av de större planetariska nebulosorna på natthimlen till sin vinkelstorlek och spänner över ungefär halva månens diameter."
-    },
-    {
-      "q": "Vad är det för föremål som finns i kärnan av denna nebulosa?",
-      "options": [
-        "En vit dvärg som är en rest av en solliknande stjärna",
-        "Ett gigantiskt svart hål",
-        "En ung stjärna som just har föds"
+        "Stjärnresten i centrum rör sig ovanligt snabbt genom rymdens gas",
+        "Ett dolt svart hål drar i gasen med sin enorma gravitation",
+        "Kraftig kosmisk strålning från galaxens centrum blåser bort gasen"
       ],
       "correct": 0,
-      "fact": "I mitten finns en vit dvärg, vilket är en rest från den solliknande stjärna som kastade av sig sin yttre atmosfär."
+      "fact": "När den heta stjärnresten plöjer genom den interstellära gasen i hög hastighet bildas en bogchock, precis som vågen framför fören på en snabb båt."
+    },
+    {
+      "q": "Vad finns kvar i nebulosans mittpunkt när de yttre gaslagren har kastats ut?",
+      "options": [
+        "Ett supermassivt svart hål som suger i sig resterna",
+        "En roterande neutronstjärna med starka radiopulser",
+        "En vit dvärg som sakta svalnar under miljarder år"
+      ],
+      "correct": 2,
+      "fact": "Kärnan som blir kvar från en sollik stjärna kallas vit dvärg. Den är extremt kompakt, het och lyser med sitt kvarvarande värmeförråd."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en stjärna har sprutat ut moln av färg ut i rymden! Den här nebulosan ser ut som ett jättestort moln av gas. Stjärnan i mitten rör sig superfort genom rymden, ungefär som en snabb båt som kör fort på sjön och skapar svallvågor framför sig. Det gör att gasen längst fram pressas ihop och börjar lysa extra mycket.",
-    "nyborjare": "Bilden visar Sh2-188, som brukar kallas Räcknebulosan. Det är en planetarisk nebulosa, vilket är ett moln av gas som kastats ut från en döende stjärna som liknar vår sol. Kvar i mitten finns en så kallad vit dvärg, som är stjärnans hopknutna och utbrända rest. Den här vita dvärgen färdas ovanligt snabbt genom rymden, vilket skapar en tydlig bogvåg upp till vänster, ungefär som när en båt plöjer igenom vatten.",
-    "entusiast": "Sh2-188 är en stor planetarisk nebulosa på stjärnhimlen med en vinkelstorlek som motsvarar ungefär halva månens diameter. Det som gör objektet unikt och vetenskapligt intressant är dess höga egenrörelse genom det interstellära mediet. Den centrala vita dvärgen – restprodukten efter en solliknande stjärna som gjort sig av med sina yttre höljen – rör sig med så hög hastighet att det uppstår en tydlig bogvåg (bow shock), mest framträdande upp till vänster. Denna våg bildas när nebulosans expansion möter och komprimerar gasen i färdriktningen, vilket gör att den lyser starkare i det ljus som emitteras. Det presenterade färgbilden är tagen av ett amatørteleskop i Krakow i Polen, där observationer i väte-, svavel- och syrgaslinjer digitalt har bearbetats för att efterlikna nebulosans naturliga färger."
+    "barn": "Här ser vi något som kallas Räknebulosan! Den ser ut som en lysande liten räka i rymden. Nebulosan skapades av en stjärna som blev gammal och puffade ut sina yttersta gasmoln.\n\nNu åker den lilla stjärnkärnan fram genom rymden i en väldig fart. Tänk dig en båt som kör fort genom vattnet och gör en stor bågvåg framför sig! Samma sak händer här med gasen, och det gör att framkanten lyser extra starkt och rött.",
+    "nyborjare": "Sh2-188, även kallad Räknebulosan, är en så kallad planetarisk nebulosa belägen i stjärnbilden Cassiopeia. Trots sitt historiska namn har den inget med planeter att göra. Den består i stället av gas som stötts bort från en döende stjärna av samma typ som vår egen sol.\n\nDe flesta planetariska nebulosor expanderar till runda eller symmetriska ringar, men Sh2-188 är annorlunda. Den kompakta vita dvärgen i mitten rör sig extremt snabbt genom det tunna gasmoln som fyller rymden mellan stjärnorna. Denna framfart komprimerar gasen framför sig och skapar en kraftig chockvåg, en bogchock. Det är denna heta, sammanpressade gas som lyser allra starkast i bildens övre vänstra del.",
+    "entusiast": "Sh2-188 är en anmärkningsvärd planetarisk nebulosa i Cassiopeia som spänner över en vinkelstorlek motsvarande ungefär halva fullmånens diameter. Den katalogiserades ursprungligen av Stewart Sharpless som en emissionsnebulosa, men dess sanna natur är en stjärnhöljeutkastning från en åldrande intermediär stjärna.\n\nDet mest framträdande draget hos Sh2-188 är dess extrema asymmetri. Den centrala vita dvärgen uppvisar en hög egenrörelse genom det interstellära mediet (ISM). Denna överljudsrörelse genererar en utpräglad bogchock där stjärnvinden möter och komprimerar ISM. På grund av kompressionen och chockupphettningen ökar densiteten och rekombinationsstrålningen markant på den framåtriktade flanken.\n\nDenna smalbandsbild separerar emissionen från joniserat väte (H-alfa), svavel ([S II]) och dubbeljoniserat syre ([O III]). Syreemissionen avslöjar de mest högenergetiska chockfronterna nära stjärnan, medan det utsträckta filamentära nätverket domineras av väte och svavel. Sh2-188 fungerar som ett utmärkt laboratorium för att studera hydrodynamiska instabiliteter och växelverkan mellan stjärnvindar och det omgivande interstellära mediet."
   }
 }

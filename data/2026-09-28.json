@@ -1,7 +1,9 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-09-28",
   "title": "Cosmic Latte: The Average Color of the Universe",
-  "title_sv": "Cosmic Latte: Universums genomsnittliga färg",
+  "title_sv": "Kosmisk latte: Universums genomsnittliga färg",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=1600&h=1600&fit=clip",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=480&h=480&fit=clip",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAIBAwf/xAAgEAADAAIABwEAAAAAAAAAAAAAAQIDERMhUVNhkaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6KCKhutrJSXRaChpPeSn65GS1g18Ou7fz8MzDVJvJT8PQFgAAAAP/9k=",
   "quiz": [
     {
-      "q": "Om man blandar allt ljus från alla stjärnor i universum till en enda färg, vilken nyans blir det?",
+      "q": "Varför skiftar universums genomsnittliga färg långsamt mot rödare nyanser över tid?",
       "options": [
-        "En klarblå färg som himlen",
-        "En ljus beige färg",
-        "Ett mörkt och mystiskt svart"
+        "Kosmiskt stoft mellan galaxerna absorberar med tiden alltmer blått ljus.",
+        "Massiva blå stjärnor dör ut snabbt medan svalare röda stjärnor lyser vidare i miljarder år.",
+        "Universums expansion sträcker ut allt synligt stjärnljus till mikrovågor."
       ],
       "correct": 1,
-      "fact": "Astronomer har räknat ut att den genomsnittliga färgen i universum är en ljus beige nyans, med färgkoden #FFF8E7."
+      "fact": "Stora och heta blå stjärnor förbrukar sitt bränsle på bara några miljoner år, medan svalare röda stjärnor lever i tiotals miljarder år och sätter en allt rödare prägel på kosmos."
     },
     {
-      "q": "Vad hände med universums färg under de senaste 10 miljarder åren?",
+      "q": "Vilken färg har stjärnor med den allra högsta yttemperaturen?",
       "options": [
-        "Den har blivit mycket mindre blå",
-        "Den har blivit helt gröna",
-        "Den har inte förändrats alls"
+        "Blå",
+        "Gul",
+        "Röd"
       ],
       "correct": 0,
-      "fact": "Universums färg har blivit mycket mindre blå eftersom rödare stjärnor har blivit vanligare."
+      "fact": "En stjärnas färg bestäms av dess yttemperatur. De hetaste stjärnorna strålar ut mest energi vid korta våglängder och ser därför blåvita ut, medan svalare stjärnor lyser rött."
     },
     {
-      "q": "Vad heter det vinnande namnet som röstades fram på den genomsnittliga färgen?",
+      "q": "Vad kallas den vetenskapliga metod där man delar upp stjärnljus i våglängder för att analysera dess sammansättning?",
       "options": [
-        "Galactic Gold",
-        "Space Beige",
-        "Cosmic Latte"
+        "Astrometri",
+        "Fotometri",
+        "Spektroskopi"
       ],
       "correct": 2,
-      "fact": "I en tävling om att namnge färgen vann bidraget cosmic latte, bland andra förslag som skyvory och univeige."
+      "fact": "Med hjälp av spektroskopi sprider astronomer upp ljuset till ett spektrum för att mäta stjärnors temperatur, kemiska grundämnen och rörelse."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du har en jättestor målarfärgspott och häller i färg från varenda stjärna i hela rymden. Om man blandar allt ljus tillsammans, vilken färg tror du att det blir? Det blir faktiskt en ljus beige färg! Det är lite som om rymden själv har färgen av kaffe med massor av mjölk i. Forskare har räknat ut detta genom att titta på ljuset från hundratusentals galaxer.",
-    "nyborjare": "Vad händer om man blandar ljuset från alla stjärnor i universum till en enda färg? Astronomer ställde sig denna kluriga fråga när de ville undersöka vilka stjärnor som är vanligaste i närliggande galaxer. Genom att analysera ljuset från ungefär 200 000 galaxer från en stor undersökning som kallas 2dF Galaxy Redshift Survey, kunde de räkna ut ett genomsnitt. Svaret blev en beige nyans som har färgkoden #FFF8E7 i datorer. Efter en tävling fick denna genomsnittsfärg det passande namnet cosmic latte.",
-    "entusiast": "Genom att kompilera och beräkna det utsända ljuset från en av de största analyserade galaxproverna någonsin – de 200 000 galaxerna i 2dF Galaxy Redshift Survey – kunde astronomer bestämma universums sammansatta färg. Den resulterande kosmiska spektralmixen uppvisar emission över hela det elektromagnetiska spektrumet, men har en enda villkorligt uppfattad kompositfärg motsvarande nyansen av beige med datorkoden #FFF8E7. Analysen visar dessutom att denna färg har blivit avsevärt mindre blå under de senaste 10 miljarder åren, vilket indikerar att äldre och rödare stjärnor gradvis har blivit mer dominerande. Efter en namntävling med bidrag som skyvory och univeige, blev det vinnande namnet på denna universella genomsnittston cosmic latte."
+    "barn": "Tänk dig att du tar alla stjärnor och galaxer i hela rymden och mixar ihop dem i en gigantisk blender. Vilken färg skulle den rymdsoppan få?\n\nForskare har räknat ut att om man blandar allt stjärnljus tillsammans blir färgen ljust beige – ungefär som kaffe med massor av mjölk! Därför döpte man färgen till kosmisk latte. Förr i tiden var rymden lite blåare, men eftersom gamla röda stjärnor lever väldigt länge har universum med tiden blivit mer varmt och beige.",
+    "nyborjare": "Om man skulle smeta ut allt ljus från hela himlavalvet till en enda jämn nyans, vilken färg skulle universum ha? För att svara på detta analyserade astronomer ljuset från fler än 200 000 galaxer och skapade ett genomsnittligt spektrum, vilket är fördelningen av alla ljusets våglängder.\n\nResultatet är en mjukt beige ton som har fått namnet kosmisk latte. Denna färg är dock inte konstant över tid. För tio miljarder år sedan var universum betydligt blåare eftersom det då bildades mängder av unga, heta stjärnor som lyste starkt i blått.\n\nI takt med att stjärnbildningen minskat dör de kortlivade blå stjärnorna ut. De svalare och mycket mer långlivade röda stjärnorna lever däremot vidare, vilket långsamt förskjuter universums medelfärg mot varmare toner.",
+    "entusiast": "Frågan om universums färg uppstod ur en seriös astrofysisk kartläggning för att kartlägga stjärnpopulationer och stjärnbildningshistoria i det lokala universum. Forskare sammanställde spektroskopiska data från 2dF Galaxy Redshift Survey, en mätning av över 200 000 galaxer, för att ta fram ett representativt kosmiskt spektrum.\n\nGenom att väga samman ljusflödet över det optiska bandet beräknades hur det mänskliga ögat, anpassat till neutralt dagsljus, skulle uppfatta denna totala blandning. Slutresultatet blev en specifik beige nyans, med färgkoden #FFF8E7, som döptes till kosmisk latte.\n\nDet kosmiska spektret speglar universums stjärnutveckling. För omkring tio miljarder år sedan dominerades ljuset av massiva O- och B-stjärnor med yttemperaturer på tiotusentals kelvin, vilket gav kosmos en blå-turkos prägel. Eftersom den universella stjärnbildningstakten därefter har sjunkit drastiskt, hinner heta stjärnor explodera som supernovor utan att ersättas i samma takt. Ljuset domineras nu alltmer av lågmassiva, svalare K- och M-dvärgar som brinner i hundratals miljarder år. Universums medelfärg förskjuts därmed oundvikligen vidare mot det röda spektrumet."
   }
 }

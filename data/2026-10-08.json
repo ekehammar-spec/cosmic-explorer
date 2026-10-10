@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.8-flash",
   "date": "2026-10-08",
   "title": "The Saturn System Smörgåsbord",
   "title_sv": "Saturnussystemets smörgåsbord",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEFAgMH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAAECAxEEBRIGIVEiIzFCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AObyk5PLeSAbKFU5+85KKX1WW/wCa9NdY48aptT7Rai+5j66pSWcP4Zd7j1AtXttekpoVPHCbT8eChJAABQAAH//2Q==",
   "quiz": [
     {
-      "q": "Varför kunde astrofotografen få så otroligt skärpa på bilden av Saturnus?",
+      "q": "Vilken av Saturnus månar är näst störst i hela solsystemet och har en tät atmosfär med sjöar av flytande kolväten?",
       "options": [
-        "Solen var exakt bakom planeten",
-        "Luften i atmosfären var ovanligt stilla den natten",
-        "Ett jätteteleskop skickades ut i rymden"
+        "Enceladus",
+        "Titan",
+        "Mimas"
       ],
       "correct": 1,
-      "fact": "Bilden togs under en natt med exceptionellt bra väderförhållanden i atmosfären ovanför Storbritannien, vilket kallas bra seeing."
+      "fact": "Titan är solsystemets näst största måne och den enda månen med en tät atmosfär och stabila vätskesjöar på ytan."
     },
     {
-      "q": "Vilken smart teknik användes för att minska effekten av jordens rörliga luft?",
+      "q": "Vad består Saturnus vidsträckta ringsystem huvudsakligen av?",
       "options": [
-        "Lucky imaging med tusentals korta exponeringar",
-        "Ett specialfilter som stänger ute månsken",
-        "Man målade över molnen digitalt i efterhand"
+        "Vattenis och gruspartiklar",
+        "Glödande gas och plasma",
+        "Fast metalliskt järn"
       ],
       "correct": 0,
-      "fact": "Genom tekniken lucky imaging tas tusentals korta bilder i snabb takt, och enbart de skarpaste bilderna väljs ut och läggs ihop."
+      "fact": "Ringarna består till mer än 90 procent av fruset vatten i form av partiklar från små dammkorn upp till husstora isblock."
     },
     {
-      "q": "Saturnus befann sig i så kallad opposition den 4 oktober. Vad betyder det?",
+      "q": "Vad innebär det i astronomin när en yttre planet som Saturnus befinner sig i opposition?",
       "options": [
-        "Att Saturnus är helt skymd bakom månen",
-        "Att jorden passerar rakt mellan Saturnus och solen",
-        "Att planeten står helt stilla på stjärnhimlen"
+        "Planeten passerar rakt bakom solen sett från jorden",
+        "Planeten rör sig tillfälligt baklänges i förhållande till stjärnorna",
+        "Jorden befinner sig precis i linje mellan planeten och solen"
       ],
-      "correct": 1,
-      "fact": "Opposition innebär att jorden passerar emellan planeten och solen, vilket gör att Saturnus kommer nära och blir fullt upplyst."
+      "correct": 2,
+      "fact": "Vid opposition står jorden mitt emellan solen och planeten, vilket gör att planeten är fullt belyst och synlig hela natten."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du bygger en jättehäftig karusell med ringar runt sig. Det är planeten Saturnus! På den här bilden ser den ut som om den har dukats upp på ett gigantiskt matbord med månar och ringar. För att få bilden så här tydlig har fotografen tagit tusentals blixtsnabba kort, precis som när man försöker fånga en studsande hund på bild utan att det blir suddigt.",
-    "nyborjare": "Den här fantastiska bilden av Saturnussystemet visar planeten med sina ringar och månar i otrolig detalj. Att få en så skarp bild från jorden är svårt eftersom jordens atmosfär, det vill säga luften runt oss, rör på sig och böjer ljuset. Detta kallas för seeing på fackspråk. Fotografen använde en smart metod som kallas lucky imaging, vilket betyder att tusentals bilder med kort exponeringstid togs snabbt efter varandra. Därefter lades de skarpaste bilderna ihop. Bilden togs i samband med Saturnus opposition, då jorden passerar mellan planeten och solen.",
-    "entusiast": "Saturnussystemet framträder här med enastående skärpa tack vare exceptionella atmosfäriska förhållanden ovanför Storbritannien. När ljus färdas genom jordens atmosfär bryts det av luftfickor med olika temperaturer och densiteter, ett fenomen som astronomer kallar seeing och som orsakar turbulens i bilderna. För att kringgå detta använde astrofotografen Tom Williams tekniken lucky imaging. Metoden bygger på att höghastighetskameror fångar tusentals korta exponeringar, varpå de bilder som minst drabbats av turbulens adderas för att maximera upplösningen. Resultatet är en detaljrik vy som blottlägger strukturer som månen Titan, Enceladus isiga ränder samt ringarnas luckor och ekerliknande formationer. Bildtillfället sammanföll med Saturnus opposition den 4 oktober, då jorden befann sig direkt mellan planeten och solen, vilket optimerade både avstånd och belysning för observation."
+    "barn": "Titta på Saturnus, rymdens ståtligaste planet! Runt magen bär den gigantiska ringar som ser ut som en skimrande rockring gjord av is och grus. Saturnus är en enorm gasjätte som faktiskt är så lätt att den skulle kunna flyta i ett jättelikt badkar. Runt planeten svävar många spännande månar, som den lilla isbollen Enceladus och jätten Titan. När jorden hamnar rakt mellan solen och Saturnus lyser hela planetsystemet extra starkt på natthimlen.",
+    "nyborjare": "Saturnus är solsystemets näst största planet och känns lättast igen på sitt spektakulära ringsystem. Ringarna sträcker sig tiotusentals mil ut i rymden men är på sina ställen bara tiotals meter tunna. De består huvudsakligen av miljarder bitar av ren vattenis. Runt planeten kretsar ett stort hov av månar, däribland Titan med sin täta atmosfär och metansjöar, samt Enceladus som döljer ett hav under ett tjockt istäcke. Den här skarpa vyn möjliggörs när Saturnus står i opposition, vilket inträffar när jorden passerar rakt mellan solen och planeten. Då är Saturnus fullt upplyst från vårt perspektiv och lyser som klarast för observatörer på jorden.",
+    "entusiast": "Saturnussystemet uppvisar en fascinerande dynamik och mångfald. Gasjätten består till största delen av väte och helium med atmosfäriska band och stormsystem dolda under ett disigt skikt. Dess ringsystem hålls extremt tunt av gravitationella mekanismer. Mörka glipor, som Cassinidelningen, och tillfälliga radiella strukturer kallade ekrar uppstår genom banresonanser med herdemånar samt elektrostatiska interaktioner med planetens magnetosfär. Månsystemet bjuder också på unika miljöer: Titan har ett aktivt kretslopp baserat på metan, medan Enceladus har kryovulkaniska gejsrar vid sydpolen som drivs av tidvattenkrafter. Vid opposition står Saturnus 180 grader från solen på himlen, vilket minimerar fasvinkeln. Det ger upphov till Seeligereffekten, där ringpartiklarnas mikroskopiska skuggor döljs bakom partiklarna själva, vilket tillfälligt ökar ringsystemets totala ljusstyrka markant."
   }
 }

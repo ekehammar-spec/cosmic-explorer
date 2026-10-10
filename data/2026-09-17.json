@@ -1,4 +1,6 @@
 {
+  "v": 2,
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-09-17",
   "title": "A Treasure Chest in the Carina Nebula",
   "title_sv": "En skattkista i Carinanebulosan",
@@ -13,39 +15,39 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAJRAAAgAGAgEEAwAAAAAAAAAAAQIAAwQREiEFQTETIlFhFaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIDIQQREhP/2gAMAwEAAhEDEQA/AOblTGZFuga36jZTvZ9at1e8S4kS2rUR1yQDIr0fiH/NUVIkgTZCYMouWHgwPYPTKb7NRDV52ult/UEWcghWlS9xMO8bdQQta9kl9+dMp4iYrLNmeMRaN35NgiS0Om9uJ/sKKRplPTT5RU5ML3+R1GYTAjhDMACeT533BvGMl0tKHN4oJuN+SnyziSfcRsfcEKKj02LFnIudY7NoIcPmFZNapks2n//Z",
   "quiz": [
     {
-      "q": "Hur långt bort från jorden ligger den omtalade Carinanebulosan?",
+      "q": "Ungefär hur långt bort från jorden ligger Carinanebulosan?",
       "options": [
-        "Ungefär 750 ljusår",
-        "Ungefär 7 500 ljusår",
-        "Ungefär 5 miljoner ljusår"
-      ],
-      "correct": 1,
-      "fact": "Nebulosan befinner sig i vår egen galax på ett avstånd av ungefär 7 500 ljusår."
-    },
-    {
-      "q": "Vad är det som formar pelaren av stoft och gas i rymden?",
-      "options": [
-        "Kraftiga stjärnvindar och strålning från grannstjärnor",
-        "Ett jättelikt svart hål i mitten av galaxen",
-        "Kometregn som passerar genom molnet"
+        "7 500 ljusår",
+        "75 000 ljusår",
+        "750 000 ljusår"
       ],
       "correct": 0,
-      "fact": "Pelaren formas av kraftiga stjärnvindar och strålning från närliggande stjärnor, till exempel det mäktiga stjärnsystemet Eta Carinae."
+      "fact": "Carinanebulosan befinner sig cirka 7 500 ljusår bort, vilket är i vårt eget galaktiska kvarter i Vintergatan."
     },
     {
-      "q": "Hur gammal tror astronomer att stjärnhopen inuti pelaren är?",
+      "q": "Vad är det som formar pelarna av gas och stoft i en nebulosa?",
       "options": [
-        "Cirka 1,3 miljarder år",
-        "Cirka 4,5 miljarder år",
-        "Cirka 1,3 miljoner år"
+        "Kraftfull stjärnvind och strålning från närliggande stjärnor",
+        "Svart hål i centrum som suger åt sig materia",
+        "Kraftiga magnetfält som drar ihop gasen som en dammsugare"
       ],
-      "correct": 2,
-      "fact": "Stjärnhopen inuti pelaren uppskattas vara mycket ung i astronomiska sammanshang, endast omkring 1,3 miljoner år gammal."
+      "correct": 0,
+      "fact": "Stora mängder gas och stoft formas av energirik strålning och starka stjärnvindar från närliggande massiva stjärnor."
+    },
+    {
+      "q": "Hur beter sig riktigt massiva stjärnor jämfört med mindre stjärnor?",
+      "options": [
+        "De lever mycket längre eftersom de har mer bränsle",
+        "De lyser starkare men lever betydligt kortare tid",
+        "De lyser svagare eftersom deras massa dämpar ljuset"
+      ],
+      "correct": 1,
+      "fact": "Massiva stjärnor förbrukar sitt bränsle i en rasande takt vilket gör att de skiner starkast men också dör mycket snabbare."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en magisk skattkista i rymden som är full av glittrande stjärnor i stället för guldpengar. Denna skattkista är egentligen ett jättelikt moln av rymddamm och gas som kallas för en nebulosa. Inuti molnet gömmer det sig massor av nyfödda stjärnor. Starka vindar från andra stjärnor blåser på molnet så att det ser ut som att locket till kistan har öppnat sig. Det är precis som en hemlig skatt som väntar på att bli upptäckt i mörkret.",
-    "nyborjare": "Den här stämningsfulla bilden visar en gigantisk pelare av stoft och gas belägen i Carinanebulosan, ungefär 7 500 ljusår bort i vår egen galax. Bilden är tagen med NASA:s kraftfulla James Webb-rymdteleskop som kan se igenom kosmiskt damm. Pelaren har formats av kraftfulla stjärnvindar och strålning från närliggande stjärnor. Stjärnbildningen inne i pelaren gräver ut dess övre del, vilket liknar det öppna locket på en skattkista. Inuti finns ett tätt kluster av omkring 70 unga stjärnor som bara är cirka 1,3 miljoner år gamla. Bland dem finns en massiv stjärna som väger ungefär 19 gånger mer än vår sol.",
-    "entusiast": "Den här detaljrika bilden, fångad med NASA:s James Webb-rymdteleskop, avbildar en stoftpelare i Carinanebulosan på ett avstånd av ungefär 7 500 ljusår. Pelaren är uppbyggd av interstellär gas och stoft och skulpteras av energirika stjärnvindar och hård strålning från omgivande massiva stjärnor, i synnerhet det närliggande stjärnsystemet Eta Carinae vars luminositet överstiger fem miljoner solar. Den aktiva stjärnbildningen inuti strukturen eroderar dess topp och skapar den karakteristiska öppna locket-effekten. Astronomerna uppskattar att det kompakta stjärnklustret i pelaren har en ålder på endast omkring 1,3 miljoner år. Bland dessa unga stjärnor finns en särskilt massiv individ som mäter ungefär 19 solmassor. Eftersom mer massiva stjärnor är sällsyntare, lyser intensivare och utvecklas betydligt snabbare än sina mindre massiva motsvarigheter, utgör de de mest lysande skatterna i detta kosmiska kluster."
+    "barn": "Titta på den här häftiga rymdbilden som liknar en magisk skattkista full av glittrande stjärnor. Det är en stor pelare gjord av rymddamm och gas som ligger långt borta i vår galax. Inne i den här molniga pelaren föds helt nya stjärnor som formar som ett öppet lock på skattkistan. Det är rymdteleskopet James Webb som har tagit den fantastiska bilden med sina superskarpa ögon.",
+    "nyborjare": "Denna fascinerande bild visar en dammpelare i Carinanebulosan, ett enormt moln av gas och stoft där nya stjärnor bildas. Området ligger ungefär 7 500 ljusår bort i vår egen galax, Vintergatan. Ett ljusår är den sträcka som ljuset hinner färdas på ett helt år. Bilden är tagen med NASA:s James Webb-teleskop, som kan se genom det tjocka rymddammet med hjälp av infrarött ljus. Pelaren formas av starka stjärnvindar och strålning från närliggande jättestjärnor, vilket gröper ur materialet och skapar en form som liknar en öppen skattkista fylld med unga stjärnor.",
+    "entusiast": "Den här detaljrika bilden, fångad av NASA:s James Webb Space Telescope, visar en distinkt stoftpelare i Carinanebulosan belägen cirka 7 500 ljusår från jorden. Strukturen formas av fotoevaporation och kraftfulla stjärnvindar från närliggande massiva stjärnor, däribland det extrema stjärnsystemet Eta Carinae som överträffar solen i ljusstyrka med en faktor på över fem miljoner. Inuti pelaren pågår aktiv stjärnbildning som har gröpt ur toppen likt ett öppet lock på en kista. Den inneslutna, kompakta stjärnhopen beräknas vara blott 1,3 miljoner år gammal och rymmer ungefär 70 stjärnor. Bland dessa återfinns en massiv primär stjärna på omkring 19 solmassor. Observationer som denna illustrerar hur massiva stjärnor, trots sin korta livslängd och snabba evolution, drastiskt omformar sin omgivning genom joniserande strålning och mekanisk feedback från stjärnvindar."
   }
 }
