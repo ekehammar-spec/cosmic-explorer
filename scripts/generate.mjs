@@ -1,5 +1,11 @@
-// Morgonjobbet: läser NASA:s APOD-flöde, låter Gemini skriva trivia och
-// nivåtexter på svenska, och sparar allt som färdiga filer i data/.
+// Morgonjobbet: väljer dagens bild bland NASA:s egna bilder, låter Gemini skriva
+// trivia och nivåtexter, och sparar allt som färdiga filer i data/.
+//
+// Dagens bild väljs i den här ordningen, och bara bilder som NASA självt står bakom tas med:
+//   1. NASA:s "Astronomy Picture of the Day", de dagar bilden är NASA:s egen
+//   2. NASA:s "Image of the Day", när den visar rymden och inte människor eller evenemang
+//   3. en bild ur NASA:s bildarkiv som appen inte har visat förut
+// Bilder av privata fotografer hoppas över, och sådana som redan sparats byts ut.
 // Sajten läser bara de filerna, så inga nycklar hamnar någonsin hos besökaren.
 //
 // Källan är NASA:s RSS-flöde (kräver ingen nyckel). Det gamla APOD-API:et
@@ -24,6 +30,12 @@ const GEMINI_KEY = process.env.GEMINI_API_KEY;
 // den inte ingår i gratisnivån) hoppas över resten av körningen.
 const MODELS = (process.env.GEMINI_MODEL || "gemini-3.8-flash,gemini-3.5-flash-lite").split(",").map(m => m.trim()).filter(Boolean);
 const VERSION = 4; // höj för att låta jobbet skriva om befintliga dagar
+const IOTD_FEED = process.env.IOTD_FEED || "https://www.nasa.gov/feeds/iotd-feed/";
+const LIBRARY = "https://images-api.nasa.gov";
+const DAYS_BACK = Number(process.env.DAYS_BACK ?? 30);   // så här många dagar bakåt ska alltid ha en bild
+const FILL_MAX = Number(process.env.FILL_MAX ?? 40);     // högst så här många nya eller utbytta dagar per körning
+const SKIP_FILE = path.join(DATA, "skip.json");          // bilder som prövats och valts bort, så de inte prövas igen
+const UA = { "user-agent": "cosmic-explorer (github actions)" };
 
 if (!GEMINI_KEY) {
   console.error("GEMINI_API_KEY saknas.");
@@ -44,6 +56,8 @@ const raw = (xml, name) => {
   return m[1].replace(/^\s*<!\[CDATA\[([\s\S]*?)\]\]>\s*$/, "$1").trim();
 };
 const text = (xml, name) => decode(decode(raw(xml, name)).replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
+
+const strip = html => decode(decode(html).replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
 
 function sized(url, size) {
   // NASA:s bildtjänst kan leverera valfri storlek via ?w=&h=
@@ -78,6 +92,70 @@ async function fetchFeed() {
   return items.filter(i => i.title && i.explanation.length > 80);
 }
 
+/* ---------- Vems är bilden? ---------- */
+// Sant bara när NASA (eller ett NASA-center) står som upphov och inget tyder på att någon annan äger rätten.
+function nasaOwned(credit) {
+  const c = String(credit || "");
+  if (!/\b(NASA|JPL|GSFC|STScI|Caltech)\b/i.test(c)) return false;
+  return !/©|\(c\)|copyright|\bCC[ -]?BY|creative commons|licen[sc]e|courtesy of (?!NASA)|panorama\s*:|processing\s*(by|:)|processed by/i.test(c);
+}
+// En sparad dag får ligga kvar om den kommer från en av de nya källorna, eller om dess upphov är NASA:s.
+const keepDay = d => Boolean(d && !d.sample && (d.src === "iotd" || d.src === "library" || nasaOwned(d.credit)));
+async function readDay(date) {
+  try { return JSON.parse(await readFile(fileFor(date), "utf8")); } catch (e) { return null; }
+}
+
+/* ---------- NASA Image of the Day ---------- */
+// Rubriker som nästan alltid betyder människor, evenemang eller teknik på marken.
+const NOT_SPACE = /\b(attends?|visits?|ceremony|sworn|medal|tour|game|grand prix|unveils?|opens?|paint|plaque|patch(es)?|crew (at|visits)|returns? to earth|welcomed|launch(es|ed)?|launch pad|rollout|hangar|engine|tank|wind tunnel|heat test|comes together|install(s|ed|ation)?|processing|training|employees?|team)\b/i;
+async function fetchIotd() {
+  const res = await fetch(IOTD_FEED, { headers: UA });
+  if (!res.ok) throw new Error(`Image of the Day svarade ${res.status}`);
+  const xml = await res.text();
+  const items = [];
+  for (const part of xml.split(/<item[\s>]/).slice(1)) {
+    const item = part.split("</item>")[0];
+    const published = new Date(text(item, "pubDate"));
+    const image = decode((item.match(/<enclosure[^>]*\burl="([^"]+)"/) || [])[1] || "");
+    const title = text(item, "title"), explanation = text(item, "description");
+    if (isNaN(published) || !/^https:\/\/\S+\.(jpe?g|png|webp)(\?|$)/i.test(image) || explanation.length < 80) continue;
+    if (NOT_SPACE.test(title)) continue;
+    const link = decode(raw(item, "link"));
+    const by = (explanation.match(/(?:image|photo) credit:?\s*\(?([^)]{3,120})\)?\s*$/i) || [])[1];
+    items.push({ src: "iotd", id: link || image, date: published.toISOString().slice(0, 10), title, explanation, credit: by || "NASA", link, url: image + "?w=1600", thumb: image + "?w=480", hdurl: image });
+  }
+  return items;
+}
+
+/* ---------- NASA:s bildarkiv ---------- */
+// Ämnen som jobbet går runt bland, ett per dag, så att bilderna varierar.
+const TOPICS = ["hubble nebula", "saturn cassini", "galaxy hubble", "mars surface", "jupiter", "supernova remnant", "moon lunar reconnaissance orbiter",
+  "star cluster hubble", "sun solar dynamics observatory", "spitzer nebula", "pluto new horizons", "chandra galaxy", "titan cassini", "comet",
+  "webb telescope", "mercury messenger", "neptune voyager", "europa", "enceladus", "galaxy cluster", "mars orbiter crater", "star forming region"];
+const CENTERS = ["JPL", "GSFC", "STScI"];   // forskningscentren. Huvudkontorets bilder är mest människor och evenemang.
+const NOT_PHOTO = /illustration|artist|concept|rendering|diagram|graphic|infographic|logo|poster|animation|chart|schematic|spectrum|spectra|\bplot\b|\bgraph\b|simulation|model of|engineers?|technicians?|clean ?room|\bteam\b|launch|rollout|testing|assembly|spacecraft (is|was|being)|press conference|briefing/i;
+async function libraryCandidates(topic, center, page) {
+  const url = `${LIBRARY}/search?q=${encodeURIComponent(topic)}&media_type=image&center=${center}&page_size=60&page=${page}`;
+  const res = await fetch(url, { headers: UA });
+  if (!res.ok) throw new Error(`bildarkivet svarade ${res.status}`);
+  const body = await res.json();
+  return (body.collection?.items || []).map(it => it.data?.[0]).filter(Boolean).map(d => ({
+    src: "library", id: d.nasa_id, title: String(d.title || "").trim(), explanation: strip(String(d.description || "")),
+    credit: String(d.secondary_creator || d.photographer || "").trim() || "NASA/" + (d.center || center),
+    link: "https://images.nasa.gov/details/" + encodeURIComponent(d.nasa_id)
+  })).filter(c => c.id && c.title && c.explanation.length > 200 && nasaOwned(c.credit) && !NOT_PHOTO.test(c.title + " " + c.explanation.slice(0, 400)));
+}
+// Arkivet har inte alla storlekar av varje bild, så vi frågar vilka som finns.
+async function libraryAsset(c) {
+  const res = await fetch(`${LIBRARY}/asset/${encodeURIComponent(c.id)}`, { headers: UA });
+  if (!res.ok) throw new Error(`bildens filer svarade ${res.status}`);
+  const files = ((await res.json()).collection?.items || []).map(i => String(i.href || "").replace(/^http:/, "https:")).filter(h => /\.(jpe?g|png)$/i.test(h));
+  const pick = (...sizes) => { for (const s of sizes) { const f = files.find(h => h.includes("~" + s + ".")); if (f) return f; } };
+  const url = pick("large", "medium", "orig"), thumb = pick("small", "medium", "thumb") || url, hdurl = pick("orig", "large") || url;
+  if (!url) throw new Error("ingen användbar bildfil");
+  return { ...c, url: encodeURI(url), thumb: encodeURI(thumb), hdurl: encodeURI(hdurl) };
+}
+
 /* ---------- Gemini ---------- */
 const QUIZ = {
   type: "ARRAY",
@@ -98,8 +176,9 @@ const TERMS = {
 };
 const SCHEMA = {
   type: "OBJECT",
-  required: ["title_sv", "quiz", "levels", "terms", "en"],
+  required: ["fits", "title_sv", "quiz", "levels", "terms", "en"],
   properties: {
+    fits: { type: "BOOLEAN" },
     title_sv: { type: "STRING" },
     quiz: QUIZ,
     levels: LEVELS,
@@ -124,12 +203,13 @@ const EARTH_SCHEMA = {
 };
 
 function promptFor(apod) {
-  return `Du är en svensk vetenskapsjournalist som skriver innehåll till en rymdapp. Underlaget är NASA:s "Astronomy Picture of the Day".
+  return `Du är en svensk vetenskapsjournalist som skriver innehåll till en rymdapp. Underlaget är en bild från NASA med NASA:s egen beskrivning.
 
 Titel: ${apod.title}
-NASA:s beskrivning: ${apod.explanation}
+NASA:s beskrivning: ${apod.explanation.slice(0, 6000)}
 
 Skriv:
+0. fits: true om själva bilden visar rymden, ett himlakroppsobjekt, en planets eller månes yta, eller jorden sedd från rymden. false om bilden främst visar människor, ett evenemang, byggnader, utrustning eller raketer på marken, eller om den är en illustration, ett diagram eller en konstnärs tolkning.
 1. title_sv: bildens titel på naturlig svenska. Använd vedertagna svenska namn (t.ex. Vintergatan, Andromedagalaxen, Orionnebulosan). Behåll katalogbeteckningar som M83 och NGC 1234. Översätt eller behåll engelska egennamn, men blanda aldrig engelska ord med svensk böjning.
 2. quiz: exakt 3 roliga och lärorika flervalsfrågor.
    - Varje fråga ska lära ut astronomi, fysik eller rymdfart: vad objektet är, hur det fungerar, hur stort eller avlägset det är, hur det bildades.
@@ -284,8 +364,9 @@ async function needs(date) {
   return Boolean(old.sample) || (old.v || 1) < VERSION; // exempeldagar och äldre versioner skrivs om
 }
 
-async function buildDay(apod) {
+async function buildDay(apod, mustFit = false) {
   const { content, model } = await askGemini(promptFor(apod));
+  if (mustFit && content.fits === false) { const e = new Error("bilden visar inte rymden"); e.unfit = true; throw e; }
   const day = {
     v: VERSION,
     model,
@@ -298,15 +379,16 @@ async function buildDay(apod) {
     hdurl: apod.hdurl,
     link: apod.link,
     credit: apod.credit || "NASA",
-    w: apod.w, h: apod.h,
-    ...(await preview(apod.thumb)),
+    src: apod.src || "apod", id: apod.id,
+    w: apod.w, h: apod.h, lqip: apod.lqip,
+    ...(apod.lqip ? {} : await preview(apod.thumb)),
     quiz: content.quiz,
     levels: content.levels,
     terms: cleanTerms(content.terms),
     en: english(content, true)
   };
   await writeFile(fileFor(day.date), JSON.stringify(day, null, 2));
-  console.log(`Sparade ${day.date}: ${day.title} (${model})`);
+  console.log(`Sparade ${day.date}: ${day.title} (${model}, källa: ${day.src})`);
 }
 
 async function writeIndex() {
@@ -314,6 +396,7 @@ async function writeIndex() {
   const list = [];
   for (const f of files) {
     const d = JSON.parse(await readFile(path.join(DATA, f), "utf8"));
+    if (!keepDay(d)) continue;   // privata fotografers bilder som inte hunnit bytas ut visas inte
     list.push({ date: d.date, media_type: d.media_type, title: d.title_sv || d.title, thumb: d.thumb || d.url });
   }
   list.sort((a, b) => b.date.localeCompare(a.date));
@@ -321,7 +404,6 @@ async function writeIndex() {
 }
 
 /* ---------- Jordbilden ---------- */
-const strip = html => decode(decode(html).replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
 async function fetchEarth() {
   const res = await fetch(EARTH_FEED, { headers: { "user-agent": "cosmic-explorer (github actions)" } });
   if (!res.ok) throw new Error(`Jordflödet svarade ${res.status}`);
@@ -377,16 +459,77 @@ async function writeEarthIndex() {
 
 await mkdir(DATA, { recursive: true });
 await mkdir(EARTH, { recursive: true });
-const items = await fetchFeed();
-console.log(`Flödet innehåller ${items.length} bilder.`);
-if (!items.length) { console.error("Hittade inga bilder i NASA:s flöde."); process.exit(1); }
-
 let failed = 0;
+const pause = () => wait(Number(process.env.PAUSE_MS ?? 13000));
+
+// 1. Astronomy Picture of the Day, bara de dagar bilden är NASA:s egen.
+let items = [];
+try { items = await fetchFeed(); console.log(`Flödet innehåller ${items.length} bilder.`); }
+catch (e) { console.error("APOD-flödet hoppades över: " + e.message); }
 for (const item of items) {
+  if (!nasaOwned(item.credit)) { console.log(`APOD ${item.date} hoppas över, upphov: ${item.credit || "saknas"}`); continue; }
   if (!(await needs(item.date))) continue;
-  try { await buildDay(item); await wait(Number(process.env.PAUSE_MS ?? 13000)); }
+  try { await buildDay({ ...item, src: "apod", id: item.link }); await pause(); }
   catch (e) { failed++; console.error(`Kunde inte skapa ${item.date}: ${e.message}`); }
 }
+
+// 2 och 3. Fyll de dagar som saknar bild, eller som har en privat fotografs bild, med NASA:s egna.
+try {
+  const skip = new Set(existsSync(SKIP_FILE) ? JSON.parse(await readFile(SKIP_FILE, "utf8")) : []);
+  const used = new Set();
+  for (const f of (await readdir(DATA)).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))) {
+    const d = JSON.parse(await readFile(path.join(DATA, f), "utf8"));
+    if (keepDay(d) && d.id) used.add(d.id);
+  }
+  let iotd = [];
+  try { iotd = await fetchIotd(); console.log(`Image of the Day: ${iotd.length} möjliga bilder.`); }
+  catch (e) { console.error("Image of the Day hoppades över: " + e.message); }
+
+  const dayMs = 864e5, today = new Date().toISOString().slice(0, 10);
+  const dates = Array.from({ length: DAYS_BACK }, (_, i) => new Date(Date.parse(today) - i * dayMs).toISOString().slice(0, 10));
+  const free = c => !used.has(c.id) && !skip.has(c.id);
+  // Prövar en kandidat: bilden måste gå att hämta och vara stor nog, och Gemini måste hålla med om att den visar rymden.
+  async function tryCandidate(date, cand) {
+    const c = cand.src === "library" ? await libraryAsset(cand) : cand;
+    const p = await preview(c.thumb);
+    if (!p.w) throw new Error("bilden gick inte att hämta");
+    await buildDay({ ...c, ...p, date }, true);
+    used.add(c.id);
+  }
+  let made = 0;
+  for (const date of dates) {
+    if (made >= FILL_MAX) break;
+    if (keepDay(await readDay(date))) continue;
+    const n = Math.round(Date.parse(date) / dayMs);
+    let done = false, tries = 0;
+    // Image of the Day: samma dag i första hand, annars en färsk som blivit över de senaste sex dagarna.
+    const fresh = iotd.filter(c => free(c) && c.date <= date && Date.parse(date) - Date.parse(c.date) <= 6 * dayMs)
+      .sort((a, b) => b.date.localeCompare(a.date));
+    for (const cand of fresh) {
+      if (done || tries >= 2) break;
+      tries++;
+      try { await tryCandidate(date, cand); done = true; }
+      catch (e) { console.warn(`${date}: ${cand.title} valdes bort (${e.message})`); if (e.unfit) skip.add(cand.id); }
+      await pause();
+    }
+    // Arkivet: dagens ämne först, sedan nästa, tills en bild håller.
+    for (let t = 0; t < TOPICS.length && !done && tries < 6; t++) {
+      const topic = TOPICS[(n + t) % TOPICS.length], center = CENTERS[(n + t) % CENTERS.length];
+      let pool = [];
+      try { pool = (await libraryCandidates(topic, center, 1 + (Math.floor(n / TOPICS.length) % 2))).filter(free); }
+      catch (e) { console.warn(`${date}: arkivsökningen "${topic}" misslyckades (${e.message})`); continue; }
+      for (const cand of pool.slice(0, 3)) {
+        if (done || tries >= 6) break;
+        tries++;
+        try { await tryCandidate(date, cand); done = true; }
+        catch (e) { console.warn(`${date}: ${cand.title} valdes bort (${e.message})`); if (e.unfit) skip.add(cand.id); }
+        await pause();
+      }
+    }
+    if (done) made++; else { failed++; console.error(`Hittade ingen NASA-bild för ${date}.`); }
+  }
+  await writeFile(SKIP_FILE, JSON.stringify([...skip], null, 1));
+} catch (e) { failed++; console.error("Påfyllningen avbröts: " + e.message); }
 await writeIndex();
 
 // Jordbilderna: fel här stoppar inte resten, eftersom flödets form kan ändras.
