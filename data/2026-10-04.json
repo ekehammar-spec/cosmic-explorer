@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-04",
+  "title": "Supernumerary Rainbows over New Jersey",
+  "title_sv": "Övertaliga regnbågar över New Jersey",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1362&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+  "credit": "John Entwistle",
+  "w": 341,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABYDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBQIDBv/EACUQAAIBBAICAAcAAAAAAAAAAAECAAMEERIhMQUiEzJBYXGR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEC/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECEQMSEyFR/9oADAMBAAIRAxEAPwCu+CveSIzboVBbbIEx12YAZ5jtWkKKrTK5IGT+YxTS9A4ltaLkse4TeoVhxkmEsmEePo73ak/KvscxqsS1RiSMk5M53wN3dPZ4RW1pcbHpufr/ACNV/MC1qql1bVUyOXIGuftEp5e1PRnMlYWDMV6WEXHmLEIrKFbbv3wB+4Qvmj6Yxn//2Q==",
+  "quiz": [
+    {
+      "q": "Vad hände strax efter att orkanen Florence hade passerat New Jersey år 2018?",
+      "options": [
+        "Solen sken upp och en ovanlig samling regnbågar dök upp",
+        "En total solförmörkelse inträffade mitt på dagen",
+        "Ett kraftigt norrsken syntes på himlen"
+      ],
+      "correct": 0,
+      "fact": "Efter att orkanen Florence dragit förbi kom solen fram i motsatt riktning och skapade en ovanlig syn med flera regnbågar."
+    },
+    {
+      "q": "Hur skapas de sällsynta regnbågarna som syns på bilden?",
+      "options": [
+        "När vattendropparna har exakt samma storlek och ljuset interfererar",
+        "När regndropparna fryser till is innan de når marken",
+        "När solljuset studsar mot moln av vulkanisk aska"
+      ],
+      "correct": 0,
+      "fact": "Övertaliga regnbågar uppstår när fallande vattendroppar är nästan lika stora och mindre än en millimeter, vilket gör att ljusvågorna interfererar med varandra."
+    },
+    {
+      "q": "Vad ansågs upptäckten av dessa speciella regnbågar vara bevis på i början av 1800-talet?",
+      "options": [
+        "Att regndroppar är helt kvadratiska",
+        "Att ljus har en vågnatur",
+        "Att rymden är oändlig"
+      ],
+      "correct": 1,
+      "fact": "Eftersom dessa regnbågar bara kan förklaras med vågfysik, var deras existens tidiga bevis för att ljus fungerar som vågor."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du tittar på himlen efter ett regnväder och ser en vanlig regnbåge. Men på den här bilden är det inte bara en båge, utan flera stycken som ligger tätt tillsammans som extra belysning! Det blir så här magiskt när regndrottarna är precis lika stora. Det är lite som när man kastar en liten sten i en vattenpöl och ringarna på vattnet krockar med varandra. Barnet och pappan som såg detta blev jätteglada när färgerna dök upp och försvann om vartannat.",
+    "nyborjare": "Efter att resterna av orkanen Florence hade dragit förbi New Jersey år 2018 inträffade ett ovanligt väderfenomen. När solen tittade fram i ena riktningen dök en hel samling av regnbågar upp i motsatt riktning. Fotografen och hans dotter kunde se minst fem stycken samtidigt i en enda bild. Dessa kallas övertaliga regnbågar och bildas endast under speciella förhållanden när alla fallande vattendroppar är nästan exakt lika stora och mindre än en millimeter i diameter. Ljuset reflekteras inte bara inuti dropparna utan skapar också vågmönster genom så kallad interferens, vilket liknar krusningar på en vattendam.",
+    "entusiast": "Denna bild fångar ett fascinerande optiskt fenomen som observerades över New Jersey efter orkanen Florence 2018. Det som visas är ett system av övertaliga regnbågar, vilka uppstår när solljus interagerar med regndroppar som har en mycket enhetlig storlek under en millimeter i diameter. Utöver den vanliga ljusreflektionen och refraktionen sker här en våginterferens – ett fenomen som kan liknas vid vågkrusningar på vatten. Under tidigt 1800-tal utgjorde observerandet av dessa extra bågar viktiga tidiga bevis för ljusets vågnatur, eftersom den klassiska geometriska optiken inte räcker till för att förklara dem. Bilden visar minst fem distinkta bågar som tonar fram och tillbaka under en halvtimme."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-08",
+  "title": "The Saturn System Smörgåsbord",
+  "title_sv": "Saturnussystemets smörgåsbord",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=2296&h=1500&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
+  "credit": "Tom Williams",
+  "w": 480,
+  "h": 314,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEFAgMH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAAECAxEEBRIGIVEiIzFCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AObyk5PLeSAbKFU5+85KKX1WW/wCa9NdY48aptT7Rai+5j66pSWcP4Zd7j1AtXttekpoVPHCbT8eChJAABQAAH//2Q==",
+  "quiz": [
+    {
+      "q": "Varför kunde astrofotografen få så otroligt skärpa på bilden av Saturnus?",
+      "options": [
+        "Solen var exakt bakom planeten",
+        "Luften i atmosfären var ovanligt stilla den natten",
+        "Ett jätteteleskop skickades ut i rymden"
+      ],
+      "correct": 1,
+      "fact": "Bilden togs under en natt med exceptionellt bra väderförhållanden i atmosfären ovanför Storbritannien, vilket kallas bra seeing."
+    },
+    {
+      "q": "Vilken smart teknik användes för att minska effekten av jordens rörliga luft?",
+      "options": [
+        "Lucky imaging med tusentals korta exponeringar",
+        "Ett specialfilter som stänger ute månsken",
+        "Man målade över molnen digitalt i efterhand"
+      ],
+      "correct": 0,
+      "fact": "Genom tekniken lucky imaging tas tusentals korta bilder i snabb takt, och enbart de skarpaste bilderna väljs ut och läggs ihop."
+    },
+    {
+      "q": "Saturnus befann sig i så kallad opposition den 4 oktober. Vad betyder det?",
+      "options": [
+        "Att Saturnus är helt skymd bakom månen",
+        "Att jorden passerar rakt mellan Saturnus och solen",
+        "Att planeten står helt stilla på stjärnhimlen"
+      ],
+      "correct": 1,
+      "fact": "Opposition innebär att jorden passerar emellan planeten och solen, vilket gör att Saturnus kommer nära och blir fullt upplyst."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du bygger en jättehäftig karusell med ringar runt sig. Det är planeten Saturnus! På den här bilden ser den ut som om den har dukats upp på ett gigantiskt matbord med månar och ringar. För att få bilden så här tydlig har fotografen tagit tusentals blixtsnabba kort, precis som när man försöker fånga en studsande hund på bild utan att det blir suddigt.",
+    "nyborjare": "Den här fantastiska bilden av Saturnussystemet visar planeten med sina ringar och månar i otrolig detalj. Att få en så skarp bild från jorden är svårt eftersom jordens atmosfär, det vill säga luften runt oss, rör på sig och böjer ljuset. Detta kallas för seeing på fackspråk. Fotografen använde en smart metod som kallas lucky imaging, vilket betyder att tusentals bilder med kort exponeringstid togs snabbt efter varandra. Därefter lades de skarpaste bilderna ihop. Bilden togs i samband med Saturnus opposition, då jorden passerar mellan planeten och solen.",
+    "entusiast": "Saturnussystemet framträder här med enastående skärpa tack vare exceptionella atmosfäriska förhållanden ovanför Storbritannien. När ljus färdas genom jordens atmosfär bryts det av luftfickor med olika temperaturer och densiteter, ett fenomen som astronomer kallar seeing och som orsakar turbulens i bilderna. För att kringgå detta använde astrofotografen Tom Williams tekniken lucky imaging. Metoden bygger på att höghastighetskameror fångar tusentals korta exponeringar, varpå de bilder som minst drabbats av turbulens adderas för att maximera upplösningen. Resultatet är en detaljrik vy som blottlägger strukturer som månen Titan, Enceladus isiga ränder samt ringarnas luckor och ekerliknande formationer. Bildtillfället sammanföll med Saturnus opposition den 4 oktober, då jorden befann sig direkt mellan planeten och solen, vilket optimerade både avstånd och belysning för observation."
+  }
+}

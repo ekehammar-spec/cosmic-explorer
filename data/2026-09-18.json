@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-18",
+  "title": "Messier 33: The Triangulum Galaxy",
+  "title_sv": "Messier 33: Triangelgalaxen",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=2996&h=2504&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+  "credit": "George Chatzifrantzis",
+  "w": 480,
+  "h": 401,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYBAgQF/8QAJBAAAgICAQMEAwAAAAAAAAAAAQIAEQMEEgUhQRMxUXEyYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRIRIxYf/aAAwDAQACEQMRAD8ASETkwHvDjUciwh4jzcjWdF/JQ33GjpmtrbeHuba6q/abeCKt0KD4yhIlYzdT6UqFvTAP1F7Nj4N2BHyDIt6ElxdMGDX7+Zt097LrmkY0fFzNlUDGpAAMECYIMDdX5oi9xVk35nIzuHyMVNg9xB5BxKV5RT/JUQmWXp//2Q==",
+  "quiz": [
+    {
+      "q": "Hur kan man bäst beskriva formen på denna galax sett från jorden?",
+      "options": [
+        "En perfekt boll av miljarder stjärnor",
+        "En spiral som ses rakt framifrån",
+        "En långsträckt och rak streckgalax"
+      ],
+      "correct": 1,
+      "fact": "Bilden visar en storslagen spiralgalax som vetter rakt mot oss, vilket gör att dess vackra armar syns tydligt."
+    },
+    {
+      "q": "Vilken färg har de stjärnhopar och områden där nya stjärnor föds i galaxen?",
+      "options": [
+        "Blå stjärnhopar och rosa stjärnbildande områden",
+        "Helt gröna stjärnor och gula moln",
+        "Endast röda jättestjärnor utan färger"
+      ],
+      "correct": 0,
+      "fact": "Teleskopbilden visar blå stjärnhopar och rosafärgade områden där nya stjärnor bildas längs de löst virrande spiralarmarna."
+    },
+    {
+      "q": "Vilken roll spelar galaxens variabla stjärnor inom astronomin?",
+      "options": [
+        "De används för att mäta avstånd i universum",
+        "De visar hur galaxen kommer att explodera imorgon",
+        "De fungerar som radioantenner för rymdfarkoster"
+      ],
+      "correct": 0,
+      "fact": "Genom att mäta variabla stjärnor i denna närliggande spiralgalax kan astronomer använda den som en kosmisk måttstock för att förstå universums avståndsskala."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en jättestor snurra ute i rymden som är gjord av miljarder glittrande stjärnor. Det är en galax som kallas Triangelgalaxen. Den ser ut som ett gigantiskt fyrverkeri eller en virvelvind av ljus. Armarna på snurran är fulla av blå och rosa moln där det föds helt nya stjärnor. Om du kunde titta ut från den här galaxen skulle du se andra stora galaxer lysa vackert på stjärnhimlen precis som hus i en stad.",
+    "nyborjare": "Denna skarpa teleskopbild visar Messier 33, populärt kallad Triangelgalaxen eller Pinwheel-galaxen. Den är en magnifik spiralgalax som ligger i stjärnbild Triangelns område. Med en diameter på över 50 000 ljusår är detta den tredje största galaxen i den Lokala galaxgruppen, som är vårt lokala gäng av galaxer, strax efter Andromedagalaxen och vår egen Vintergata. På avståndet av cirka 3 miljoner ljusår från oss tros den vara en satellitgalax till den större Andromedagalaxen. Bilden fångar dess karaktäristiska blå stjärnhopar och rosa stjärnbildningsregioner, inklusive det enorma området NGC 604.",
+    "entusiast": "Messier 33, även känd som Triangelgalaxen, är en Sc-spiralgalax i konstellationen Triangulum med en skenbar diameter på över 50 000 ljusår. Den utgör den tredje medlemmen i den Lokala gruppen sett till massa och storlek, efter Messier 31 och Vintergatan. Dynamiskt sett interagerar M33 troligen gravitationsmässigt med Andromedagalaxen (M31), fungerande som en massiv satellit i ett komplext system där ömsesidiga vyer av galaktiska skivor vore spektakulära. Den optiska bilden framhäver dess löst lindade spiralarmar, rikliga populationer av blå stjärnhopar samt H II-regioner, däribland den massiva emissionsnebulosan NGC 604 belägen ungefär vid klockan fem från galaxens centrum. Eftersom M33 ligger tillräckligt nära för att dess population av variabla stjärnor (såsom Cepheider) ska kunna mätas noggrant, fungerar den som en fundamental kosmisk måttstock för att kalibrera den extragalaktiska avståndsskalan i universum."
+  }
+}

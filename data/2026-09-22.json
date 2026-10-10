@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-22",
+  "title": "Chance Triple Alignment: Plane, Space Station, Sun",
+  "title_sv": "Sällsynt trippelkollision: Flygplan, rymdstation och solen",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1500&h=1500&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
+  "credit": "Petr Horalek / Inst. Physics Opava",
+  "w": 480,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcCBQABBP/EACkQAAICAgEDAgUFAAAAAAAAAAECAwQAEQUSITFBUgYTFCIyUWGBkcH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB4RAQABBAIDAAAAAAAAAAAAAAEAAgMRIQVRBBIT/9oADAMBAAIRAxEAPwBdKMIq5iKSQANk9gMs+KkgqcjE/IQsa8Up6nVdjqHjZ9QPOhi66sGYaTLDQfDXJTIG+mZQfHUQP9zlvcRcojc9eRF92tj+xjZqNDarpNBIksbjYZTsHNzVldCrKCCNEEeckHIXCrZOv423QxQcZVa5cjhSUROx0rH3emNHhqXyeKiqT14AEHSVX7kb9+/6+cVNOdq9mKZfyjYMP4xtcdcitVo5omDI42MbyHtrqDxwR7lhVqx1IBDWhiijBJCoNDvhWHbvreRSQayMkoyTtcs2UuZ//9k=",
+  "quiz": [
+    {
+      "q": "Vilket av de mörka föremålen framför solen i bilden dök upp helt oväntat?",
+      "options": [
+        "Solfläckarna",
+        "Flygplanet",
+        "Rymdstationen"
+      ],
+      "correct": 1,
+      "fact": "Flygplanet dök upp av en slump precis när bilden skulle tas och skapade en egen minisolförmörkelse."
+    },
+    {
+      "q": "Vad är det som gör att solfläckar framstår som mörka på solen?",
+      "options": [
+        "Koncentrerade magnetfält",
+        "Skuggor från planeter",
+        "Moln av rymdstoft"
+      ],
+      "correct": 0,
+      "fact": "Solfläckar är små mörka regioner som orsakas av koncentrerade magnetfält på solens yta."
+    },
+    {
+      "q": "Hur lång tid i förväg planerades passagen för rymdstationen (ISS) framför solen?",
+      "options": [
+        "In alls, den fastnade av en slump",
+        "Med flera månaders marginal",
+        "Med noggrann subsekundstajming"
+      ],
+      "correct": 2,
+      "fact": "Bilden på den internationella rymdstationen (ISS) planerades med noggrann subsekundstajming för att fånga den ikoniska strukturen."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du tittar på en stor, ljus boll på himlen, som är solen. Ibland kan man få syn på små prickar framför den. På den här bilden har en fotograf varit jätteduktig och lyckats få med tre coola saker samtidigt. Först syns solfläckar, som är som fläckar på den glödande bollen. Sedan syns en rymdstation som susar fram i rymden. Och så flög det förbi ett helt vanligt flygplan precis i samma sekund. Det är ungefär som att kasta tre bollar i luften och få dem att hamna på rad exakt samtidigt.",
+    "nyborjare": "Den här bilden visar en mycket sällsynt och slumpmässig händelse där tre skilda föremål hamnar på rad framför solen. Fotografen hade noggrant planerat att fånga den internationella rymdstationen, förkortad ISS, när den passerade framför solskivan med exakt subsekundstajming. På bilden syns också solfläckar, vilket är mörka områden på solen som orsakas av koncentrerade magnetfält och brukar vara synliga under flera veckor. Helt oväntat flög dessutom ett flygplan förbi just i samma ögonblick och skapade en miniatyrmörkbländning, en så kallad partiell solförmörkelse. Fotografen beräknar att sannolikheten för att fånga både en rymdstation och ett flygplan framför solen på samma bild från den platsen i Tjeckien är omkring trettio miljoner mot ett.",
+    "entusiast": "Den presenterade bilden fångar en exceptionell och statistiskt osannolik konjunktion framför solskivan, tagen i juni från Prasek i Tjeckien. Kompositionen demonstrerar en slående juxtaposition av solfenomen, mänsklig rymdinfrastruktur och atmosfärisk flygtrafik. Solfläckarna, vilka utgör de mindre mörka regionerna med koncentrerade magnetfält på solens fotosfär, är ett förväntat och långlivat inslag som kan spåras över veckor. Därtill krävdes avancerad beräkning och subsekundstajming för att fånga den internationella rymdstationen (ISS), den lilla mörka strukturen till medelvänster, under dess snabba transit över solskivan. Det mest anmärkningsvärda momentet är dock inkluderingen av ett slumpmässigt förbipasserande flygplan som skapade en mikrominiatyriserad partiell solförmörkelse under exponeringen. Enligt fotografens uppskattningar är sannolikheten för en slumpmässig solbild som inrymmer både en rymdstations- och en flygplanssilhuett från denna specifika geografiska position ungefär trettio miljoner till ett."
+  }
+}

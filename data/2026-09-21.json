@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-21",
+  "title": "Cocoon Nebula Wide Field",
+  "title_sv": "Kokongnebulosan vidvinkel",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=3000&h=2000&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+  "credit": "Piotr Czerski",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQG/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIAAxEEEiFREzFhIv/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABkRAQEAAwEAAAAAAAAAAAAAAAABAhIhEf/aAAwDAQACEQMRAD8A5cKbrQm4BRzn1GWhQqgY+4kLWjuEU7SeATJNbVPZTZtBPomZ3reXUpVRi3UHwOMjb13GU6O+y3xIDknA+yur0r6O7x2j9DPAj5wbdIZ23HngzTqbDYyluSUBzCEUWq16iylA1bsG7zFWWvdYXsYloQhF5R//2Q==",
+  "quiz": [
+    {
+      "q": "Vilket känt astronomiskt objekt liknar den här nebulosan på grund av sitt utseende med en ljusstark huvuddel och en lång svans?",
+      "options": [
+        "En supernova",
+        "En komet",
+        "En galax"
+      ],
+      "correct": 1,
+      "fact": "Nebulosans ljusa huvud och långa stoftsvans gör att hela komplexet påminner om en komet."
+    },
+    {
+      "q": "Vad döljer sig inuti de långa, mörka stoftfilamenten som bildar svansen i synligt ljus?",
+      "options": [
+        "Svarta hål",
+        "Planeter",
+        "Stjärnor i processen att bildas"
+      ],
+      "correct": 2,
+      "fact": "De mörka och dammiga filamenten i svansen döljer stjärnor som just nu håller på att födas."
+    },
+    {
+      "q": "Ungefär hur lång är den mörka, dammiga stjärtsvansen i ljusår?",
+      "options": [
+        "Nästan 100 ljusår",
+        "Cirka 10 ljusår",
+        "Ovanligt nog 2 500 ljusår"
+      ],
+      "correct": 0,
+      "fact": "Den centrala delen spänner över ungefär 10 ljusår, medan den mörka svansen sträcker sig över nästan 100 ljusår."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en jättestor kosmisk fjäril som ligger i sin kokong ute bland stjärnorna. Den här nebulosan ser faktiskt lite ut som en skimrande komet med ett lysande huvud och en jättelång svans gjord av rymddamm. Svansen är så stor att den spänner över nästan 100 ljusår. Det är som en magisk gosig filt av gas och stoft långt borta i stjärnbilden Svanen.",
+    "nyborjare": "Den här stjärnfyllda bilden visar Kokongnebulosan, ett kompakt stjärnbildande område i stjärnbilden Svanen. En nebulosa är ett enormt moln av gas och rymddamm i rymden. Det som gör det här objektet så fascinerande är att det liknar en komet med ett ljust huvud och en lång, mörk svans av stoftfilament. Den centrala, ljusstarka delen drivs av en närliggande ljus stjärna som hjälper till att rensa ut en kavitet i gasen. Hela detta komplex befinner sig på ett avstånd av ungefär 2 500 ljusår från jorden.",
+    "entusiast": "Bilden fångar det komplexa stjärnbildningsområdet IC 5146, mer känt som Kokongnebulosan, beläget i stjärnbilden Svanen. Området spänner över över två grader på himlen och uppvisar en spektakulär kombination av emissions- och reflektionsnebulositet i den ljusa huvuddelen, samt ett omfattande system av mörka stoftmoln som sträcker sig ut som en svans. Den centrala huvuddelen spänner över cirka 10 ljusår medan de mörka filamenten i svansen sträcker sig nästan 100 ljusår bort, belägna på ett avstånd av omkring 2 500 ljusår. En het, ljusstark stjärna nära centrum tros tillhandahålla den energi som exciterar gasen och rensar ur en central kavitet. De mörka filamenten i den optiska bilden är av stor vetenskaplig vikt eftersom de döljer unga stjärnor i processen att bildas. Bilden har fångats i juli månad från Death Valley i Kalifornien."
+  }
+}

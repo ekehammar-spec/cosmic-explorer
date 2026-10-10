@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-24",
+  "title": "The Ghosts of Five Supernovas",
+  "title_sv": "Fem supernovors spöken",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=2000&h=1255&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+  "credit": "Stephane Vetter, Yann Sainty",
+  "w": 480,
+  "h": 301,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAUBBv/EACIQAAIBBAICAwEAAAAAAAAAAAECAwAEESESMQVBEyJRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQEBAAMBAQAAAAAAAAAAAAABAAIRQRIj/9oADAMBAAIRAxEAPwDxqxQ/GV5ZbGTUjDxhOFyO8keqdFBlQQNGuvGAREOWSd5pN2jyKlThgYSHipLrutGz8gLWI8lDH1+j9p3j/Gkh5JOZboBO91G7tLe3SWGRj83a+/7Ta7NiuBPWFTZRtvJPearxNxvU0G1n7DNFFS5VT6T7Sd0aVlPE4Oxqs66JLFztiaKKMHl//9k=",
+  "quiz": [
+    {
+      "q": "Vad är det som lyser rött och blått i form av tunna trådar och gasskal på bilden?",
+      "options": [
+        "Gas från gigantiska stoftmoln som värms upp av solen",
+        "Resster från gamla stjärnexplosioner som kallas supernovor",
+        "Stora moln av rök från vulkaner ute i rymden"
+      ],
+      "correct": 1,
+      "fact": "När tunga stjärnor exploderar som supernovor bildas gasskal och filamentstrukturer som lyser upp i rött för vätgas och blått för syre."
+    },
+    {
+      "q": "Hur stor del av himlen täcker detta fantastiska fotografi?",
+      "options": [
+        "Lika stor yta som tusen fullmånar tillsammans",
+        "Bara en liten fläck som är mindre än en ensam fullmåne",
+        "Precis hela natthimlen från horisont till horisont"
+      ],
+      "correct": 0,
+      "fact": "Bilden visar ett enormt område på himlen i stjärnbilden Kusken, motsvarande ytan av tusen fullmånar."
+    },
+    {
+      "q": "Hur fångades denna bild av rymden upp?",
+      "options": [
+        "Genom att ta en snabb bild med en vanlig mobilkamera",
+        "Genom att en astronaut tittade ut genom fönstret på rymdstationen",
+        "Genom ungefär 200 timmars observationer vid ett observatorium"
+      ],
+      "correct": 2,
+      "fact": "Bilden krävde omkring 200 timmars observationer för att få fram alla svaga detaljer, insamlad vid Oukaïmeden-observatoriet i Marocko."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att gigantiska stjärnor har smällt som rymdens häftigaste fyrverkerier för tusentals år sedan. Kvar efter smällarna finns lysande moln av gas som ser ut som spindelväv eller trådar i rött och blått. Bilden visar faktiskt resterna av fem sådana explosioner på samma gång. Det är precis som att titta på fem gamla spöken efter stjärnor som har exploderat. Området på himlen är så jättestort att det rymmer tusen fullmånar bredvid varandra",
+    "nyborjare": "Denna extraordinära bild fångades vid Oukaïmeden-observatoriet i Marocko efter omkring 200 timmars observationer. Den visar ett enormt område på stjärnhimlen i stjärnbilden Kusken, vilket motsvarar en yta lika stor som tusen fullmånar. Över fältet syns fem spökliknande supernovarester. En supernova är en kraftfull och ljusstark explosion som sker när en stjärna dör. När explosionen expanderar ut i rymden skapar den växande skal av chockad gas. Dessa syns som röda strukturer av väte och blå trådar av syre. Explosionerna har skett oberoende av varandra på olika avstånd upp till tusentals ljusår från jorden.",
+    "entusiast": "Denna djupgående observation, tagen vid Oukaïmeden-observatoriet i Marocko under ungefär 200 timmars exponering, avbildar ett gigantiskt himmelsfält i stjärnbilden Kusken som täcker en yta motsvarande tusen fullmånar. Fältet domineras av fem separata supernovarester: G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 som är den kända Spaghettinebulosan eller Sh2-240, samt G178.2−4.2. Dessutom syns den öppna stjärnhopen M37 och Grottnebulosan. Varje rest har bildats genom att en stjärnexplosion expanderat ut i det interstellära mediet, vilket genererat växande skal av chockad gas. Emissionen framträder i rött för väte och blått för syre. Dessa oberoende stellära explosioner befinner sig på skilda avstånd upp till flera tusen ljusår bort med en uppskattad ålder på upp till tiotusentals år. Tidiga människor kan mycket väl ha bevittnat dessa primära utbrott som starka nya stjärnor som gradvis bleknade under loppet av veckor eller månader."
+  }
+}

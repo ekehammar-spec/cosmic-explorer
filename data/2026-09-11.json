@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-11",
+  "title": "M83: The Southern Pinwheel",
+  "title_sv": "M83: Den södra pinwheelen",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=3828&h=3798&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
+  "credit": "Aldo Zanetti",
+  "w": 480,
+  "h": 476,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgADAQIH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIAAwURBCExEhNBUTJCgf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAwDAQACEQMRAD8A5/zLEpM/AkoqHcL7MX6GxpVWmnQXYj6xalEalB6YBZcDwZURGl1tqaXRlRgkn9g+uoWqwEhjFJyjZHMWW299OlVR8wMEZxmEFJB2m2SvB8ZkSi46/u0iSVXb3kwzUbJ439yd5yN2JxK+ZB//2Q==",
+  "quiz": [
+    {
+      "q": "Vilken välkänd form har galaxen M83 som syns på bilden?",
+      "options": [
+        "En spiralform",
+        "En helt rund boll",
+        "En lång rak linje"
+      ],
+      "correct": 0,
+      "fact": "M83 är en vacker spiralgalax vars framträdande spiralarmar har gett den smeknamnet Den södra pinwheelen."
+    },
+    {
+      "q": "Varför kallas M83 ibland för Tusenrubingalaxen?",
+      "options": [
+        "För att den glittrar av äkta diamanter",
+        "På grund av rödfärgade stjärnbildande områden",
+        "För att den är röd i mitten och grön på kanten"
+      ],
+      "correct": 1,
+      "fact": "Galaxens spiralarmar är prickade av rödaktiga områden där nya stjärnor föds, vilket har lett till smeknamnet Tusenrubingalaxen."
+    },
+    {
+      "q": "Hur stor är M83 jämfört med vår egen galax Vintergatan?",
+      "options": [
+        "Den är mycket större än Vintergatan",
+        "Den är exakt lika stor som Vintergatan",
+        "Den är mindre än Vintergatan"
+      ],
+      "correct": 2,
+      "fact": "M83 är bara 40 000 ljusår tvärs över, vilket gör den mindre än vår egen galax Vintergatan."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en stor snurra av glittrande ljus ute i rymden! Den här vackra galaxen kallas för en spiralgalax eftersom den ser ut som ett jättestort fyrverkerihjul eller en karusell som snurrar runt långt borta. Mellan de lysande armarna finns mörka stråk av rymddamm. Hela galaxen är full av nyfödda stjärnor som lyser som små röda rubiner i mörkret.",
+    "nyborjare": "M83, även känd som Den södra pinwheelen, är en ljusstark spiralgalax som ligger omkring tolv miljoner ljusår bort nära stjärnbilden Vattenhydran. Ett ljusår är den sträcka som ljuset färdas på ett år. Galaxen har tydliga spiralarmar som markeras av mörka dammstråk och blå stjärnhopar. Eftersom den är prickad av röda områden där stjärnor bildas kallas den ibland för Tusenrubingalaxen. Den är mindre än vår egen galax Vintergatan och mäter 40 000 ljusår i diameter.",
+    "entusiast": "M83 är en praktfull spiralgalax belägen cirka tolv miljoner ljusår bort i närheten av den sydöstra spetsen av stjärnbilden Hydra. Med en diameter på endast 40 000 ljusår är den mindre än Vintergatan. Galaxen kännetecknas av prominenta spiralarmar definierade av mörka stoftband, unga blå stjärnhopar och rödfärgade H II-regioner, det vill säga stjärnbildningsområden som givit upphov till smeknamnet Tusenrubingalaxen. M83 ingår i en galaxgrupp som även rymmer den aktiva galaxen Centaurus A. Galaxens kärna är särskilt intressant ur ett astrofysiskt perspektiv eftersom den är stark i röntgenenergi, vilket avslöjar en hög koncentration av neutronstjärnor och svarta hål som blivit kvar efter en intensiv period av stjärnbildning."
+  }
+}

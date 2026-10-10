@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-27",
+  "title": "Andromeda Before Photoshop",
+  "title_sv": "Andromeda innan Photoshop",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=4298&h=3394&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+  "credit": "Kees Scherer",
+  "w": 480,
+  "h": 379,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQMABAYCBf/EACYQAAEDAgQGAwAAAAAAAAAAAAEAAgMRMQQSIUEFEyIyUWEzQnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxjRU3oNyi41R7RTe5/VZweCdiXgVoCUFaKF8rqMBKY+Hl6P0K97iAwnDoGwQPEkuXqIsCs/LKZH6n2UEayp1srD8Y5jMsfT7CUbJUm6Ac4l+Z7cw8Eriwp5up9Qms+UoP//Z",
+  "quiz": [
+    {
+      "q": "Vad visar denna bild av Andromedagalaxen mest av allt?",
+      "options": [
+        "En helt perfekt vy tagen från ett rymdteleskop",
+        "En råstackad bild med spår från flygplan och satelliter",
+        "En digital fantasi skapad helt från början i Photoshop"
+      ],
+      "correct": 1,
+      "fact": "Bilden är en sammanfogning av 223 exponeringar tagna från en trädgård och visar tydliga brister som flygplansspår, satelliter och kosmiska strålar."
+    },
+    {
+      "q": "Varför bearbetar astronomer bilder med programvara som DeepSkyStacker?",
+      "options": [
+        "För att ta bort stökiga markbundna artefakter och se galaxen bättre",
+        "För att lägga till planeter som inte finns i verkligheten",
+        "För att göra galaxen mycket större än den faktiskt är"
+      ],
+      "correct": 0,
+      "fact": "Allt arbete görs för att minimera jordbundna artefakter som inte har med den avlägsna galaxen att göra, och därmed bättre återskapa hur den faktiskt ser ut."
+    },
+    {
+      "q": "Hur togs bilderna som bygger upp denna astronomiska vy?",
+      "options": [
+        "Med en mobilkamera genom ett fönster på en skyskrapa",
+        "Genom en lång exponering på 300 sekunder per bild",
+        "Genom att filma himlen med en vanlig videokamera i en sekund"
+      ],
+      "correct": 1,
+      "fact": "Bilden är ett resultat av 223 bilder där varje enskild bild är en exponering på 300 sekunder, tagen från ett trädgårdsobservatorium i Portugal under 2019."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du försöker ta ett foto av ett tänt ljus långt borta, men så springer en mygga framför kameran och ett flygplan dundrar förbi på himlen! Det är ungefär så det är att fota rymden från jorden. På den här bilden ser vi spår efter både flygplan och satelliter som råkade komma med. Det är som att kameran har fått lite fnatt, men astronomer rensar bort allt skräp för att visa hur galaxen egentligen ser ut.",
+    "nyborjare": "När astrofotografer vill fånga svaga objekt som Vintergatans närmaste stora granngalax, Andromedagalaxen, krävs det långa exponeringar. Den här bilden är ett så kallat 'stackat' resultat, vilket innebär att man lägger flera bilder ovanpå varandra för att samla in tillräckligt med ljus. Eftersom bilderna tas från jorden genom en fullpackad himmel får man med oönskade element som ljusa flygplansspår, satellitspår och pixelfel. Istället för att lura betraktaren med digitala fantasier används speciell mjukvara som Astro Pixel Processor och PixInsight för att minimera dessa jordbundna artefakter och återskapa galaxens verkliga utseende.",
+    "entusiast": "Denna bild illustrerar den mödosamma processen bakom modern amatörastrofotografi innan slutlig kalibrering och skärpning äger rum. Originalet är en stack av 223 individuella exponeringar om 300 sekunder vardera, insamlade under 2019 från ett trädgårdsobservatorium i Portugal. Den råa stacken avslöjar de typiska utmaningarna med markbaserad observation: parallella flygplansspår, långa kontinuerliga satellitspår, korta kosmiska stråk och defekta pixlar från kamerasensorn. Istället för att använda Adobe Photoshop har astronomer använt specialiserade programvarupaket som Astro Pixel Processor, DeepSkyStacker och PixInsight. Syftet är inte att skapa en digital illusion av Messier 31, utan att vetenskapligt eliminera artefakter som härstammar från jordens atmosfär och närmiljö, för att på så sätt närma sig galaxens sanna morfologi."
+  }
+}

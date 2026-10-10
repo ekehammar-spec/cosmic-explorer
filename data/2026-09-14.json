@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-14",
+  "title": "Where Your Elements Came From",
+  "title_sv": "Var dina grundämnen kommer ifrån",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=6000&h=4000&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+  "credit": "NASA GSFC 's SVS",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgb/xAAmEAACAgECBgEFAAAAAAAAAAABAgADEQQxEhMUIUFhcSNCUYHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACETFB/9oADAMBAAIRAxEAPwDiFr5DUW9mVu5BXOP15jmsVgCtVPfi2q/G3mbosr5NSkAt59RzFPtCj1iUF75V1rlOLHsYKtGmOAN68RVmnb6tj8K4GQEHbMuyg9fAiNS2aX+P7Gq/ImqGpijcQ3Eo6uw7nMITOHaqDHV2epi3Uu6FTjBhCJsMl//Z",
+  "quiz": [
+    {
+      "q": "Varifrån kommer nästan allt väte i människokroppen och allt vatten?",
+      "options": [
+        "Från supernovor",
+        "Från Big Bang",
+        "Från kolliderande neutronstjärnor"
+      ],
+      "correct": 1,
+      "fact": "Vätet i din kropp och i allt vatten skapades ursprungligen under Big Bang, vilket gör det till universums äldsta beståndsdel."
+    },
+    {
+      "q": "Hur har guldet i dina smycken troligen bildats?",
+      "options": [
+        "Genom kollisioner mellan neutronstjärnor",
+        "Inuti vanliga stjärnor som vår sol",
+        "Direkt från gasmoln i rymden"
+      ],
+      "correct": 0,
+      "fact": "Guldet i våra smycken skapades sannolikt när neutronstjärnor kolliderade med varandra i rymden."
+    },
+    {
+      "q": "Vilken process inuti stjärnor skapade kolet och syret som finns i våra kroppar?",
+      "options": [
+        "Kärnklyvning",
+        "Gravitationskollaps",
+        "Kärnfusion"
+      ],
+      "correct": 2,
+      "fact": "Kolet och syret i din kropp har bildats genom kärnfusion djupt inne i stjärnornas inre."
+    }
+  ],
+  "levels": {
+    "barn": "Visste du att du är gjord av stjärnstoft? Vätet i din kropp skapades i universums jättebörjan, Big Bang. Men kol och syre som du också består av har tillverkats inuti glödheta stjärnor långt ut i rymden. Och mycket av järnet i ditt blod kommer faktiskt från jättelika stjärnexplosioner för längesen. Det betyder att du bär på en bit av hela rymden inuti dig när du springer runt och leker.",
+    "nyborjare": "Människokroppen och allt omkring oss är uppbyggt av grundämnen som har sitt ursprung på olika platser i kosmos. Vätet, som finns i allt vatten och i kroppens molekyler, bildades under Big Bang för nästan 14 miljarder år sedan och har inga andra nämnvärda källor. Andra ämnen som kol och syre har skapats genom kärnfusion, en process där atomer slås ihop i stjärnornas heta inre. Även tyngre ämnen som järn har spridits av supernovor, som är våldsamma explosioner när gamla stjärnor dör. Till och med guldet i våra smycken har en dramatisk historia och kommer sannolikt från krockande neutronstjärnor.",
+    "entusiast": "Det periodiska systemet fungerar som en karta över nukleosyntesen och visar mänsklighetens nuvarande förståelse för var universums grundämnen har bildats. Det ursprungliga vätet härstammar uteslutande från Big Bangs nukleosyntes. Stjärnornas stellerära evolution bidrar med ämnen som kol och syre genom nukleär fusion i deras kärnor. Tyngre metaller, däribland mycket av det järn som finns i biologiska organismer, har syntetiserats i supernovor från långt borta liggande stjärnor. Ännu sällsyntare och tyngre element, såsom guld, tros ha bildats under extrema förhållanden vid sammansmältningar av neutronstjärnor, vilka kan observeras som korta gammablixtar eller gravitationsvågssignaler. Samtidigt pågår fortfarande intensiv observationell och computationell forskning kring ursprunget för vissa grundämnen, exempelvis koppar och fosfor, vars exakta skapelseplatser är otillräckligt kända."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-03",
+  "title": "Selfie at Vera Rubin Ridge",
+  "title_sv": "Selfie vid Vera Rubin Ridge",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1600&h=800&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+  "credit": "Image Credit: NASA, JPL-Caltech, MSSS - Panorama: Andrew Bodrov",
+  "w": 480,
+  "h": 240,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAABQMEBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERMhMRIicQUyQlHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ANh0ADijr2/toVfpOq6j2r+1D6retqm1jyFA7yOfFCaZZcAkDkDgk1C1SQ5BeRTIpKFCwz9irBjBGRuKBs5JDhpO1QMBcY3pe2lwwX4tt4NNMf/Z",
+  "quiz": [
+    {
+      "q": "Vilken planet kör den här roboten på?",
+      "options": [
+        "Månen",
+        "Mars",
+        "Venus"
+      ],
+      "correct": 1,
+      "fact": "Robotbilen Curiosity befinner sig på Mars yta där den undersöker landskapet och tar selfies."
+    },
+    {
+      "q": "Hur lång är en så kallad sol, det vill säga ett dygn på Mars, jämfört med ett jorddygn?",
+      "options": [
+        "Ungefär lika långt som på jorden",
+        "Exakt hälften så långt som på jorden",
+        "Cirka 40 minuter längre än ett jorddygn"
+      ],
+      "correct": 2,
+      "fact": "En sol är ett marssolardygnsom är ungefär 40 minuter längre än ett vanligt jorddygn."
+    },
+    {
+      "q": "Hur har den här bilden skapats eftersom roboten saknar en vanlig selfiepinne med kamera?",
+      "options": [
+        "Genom att foga samman 61 olika exponeringar och redigera bort den mekaniska armen",
+        "Genom att en annan robot tog ett foto på håll",
+        "Genom att använda en drönare som flög ovanför roverbilen"
+      ],
+      "correct": 0,
+      "fact": "Bilden är ett mosaikpanorama som kombinerar 61 exponeringar tagna med robotens egen MAHLI-kamera, vars arm har redigerats bort i efterhand."
+    }
+  ],
+  "levels": {
+    "barn": "Titta på den häftiga robotbilen! Den kör runt på den röda planeten Mars och har tagit en selfie av sig själv, precis som man gör med en mobiltelefon fast mycket krångligare. Roboten är stor som en bil och har en lång arm med en kamera på. Armen har tagit många bilder som sedan har satts ihop till en enda stor bild. Roboten fick till och med gömma sin arm så att den inte syntes på fotot. Visst är den lik en liten rymdutforskare?",
+    "nyborjare": "Denna bild visar robotbilen Curiosity som tar en så kallad selfie på Mars yta vid den södra kanten av Vera Rubin Ridge. Curiosity utforskar planeten och mäter sin tid i sol, vilket är ett marsianskt dygn som är ungefär fyrtio minuter längre än ett dygn på jorden. Bilden är ett avancerat panorama som är sammansatt av hela 61 olika exponeringar tagna med robotens kamera som kallas MAHLI. För att få bilden att se ut som att den tagits utifrån har armen som bar kameran redigerats bort i efterhand.",
+    "entusiast": "På sol 1943 av sin expedition på Mars yta, den 23 januari 2018, fångade roverbilen Curiosity denna detaljerade selfie vid södra kanten av Vera Rubin Ridge. Scenen är konstruerad som ett interaktivt 360-graders panorama som kombinerar 61 separata exponeringar tagna med fordonets Mars Hand Lens Imager, förkortat MAHLI. De bildrutor som fångade kamerans bärarm har metodiskt redigerats bort, medan det utökade bakgrundsmaterialet kompletterats med bilder tagna av Mastcam på sol 1903. Längst upp på masten skymtar även ChemCam-instrumentet som blockerar vyn mot det avlägsna, fem kilometer höga berget Mount Sharp. Den totala höjdvinsten från Gale-kraterns botten markerar en imponerande milstolpe i robotens vetenskapliga klättring längs bergets sluttningar."
+  }
+}

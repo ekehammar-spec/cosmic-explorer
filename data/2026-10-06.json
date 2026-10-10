@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-06",
+  "title": "A Complete Auroral Oval from SMILE",
+  "title_sv": "En komplett norrskensoval från SMILE",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=512&h=512&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
+  "credit": "ESA, CAS, SMILE, UVI",
+  "w": 480,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQABAgMEBv/EACcQAAEDAwIEBwAAAAAAAAAAAAEAAgMEESEFYRIiMlETFTFBgaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERJB/9oADAMBAAIRAxEAPwChrSfdWMBuM/STAAw3B2ynabFaeE2v0KeUucOESs8W3QcfF0NmifTylkjS0jBBR6leycCTi4XnqB77Ja3C2ahE4HPGQ0nuD6Iptp4xKhZqOcBwpAqsGykCE4KYX088oWzV5hFpgjJ5pXAgbBDKesip2dJe/fAWSqqZKuUySO/AOyHhutGdpTh//9k=",
+  "quiz": [
+    {
+      "q": "Varför är det omöjligt att se en komplett norrskensoval från marken?",
+      "options": [
+        "Eftersom den bara lyser på natten",
+        "Eftersom den bildar en för stor cirkel runt jordens magnetiska pol",
+        "Eftersom molnen alltid är i vägen"
+      ],
+      "correct": 1,
+      "fact": "Norrskensovalen bildar en så stor cirkel runt den magnetiska polen att den är omöjlig att överblicka från jordytan, vilket kräver rymdfarkoster högt ovanför jorden för att synas i sin helhet."
+    },
+    {
+      "q": "Vilken typ av ljus använde rymdfarkosten SMILE för att fånga ett norrskensfenomen som inträffade under dagen?",
+      "options": [
+        "Infrarött ljus",
+        "Ultraviolett ljus",
+        "Röntgenljus"
+      ],
+      "correct": 1,
+      "fact": "SMILE använde ultraviolett ljus för att kunna upptäcka och visa ett norrsken som inträffade under dagtid, vilket annars är mycket svårt."
+    },
+    {
+      "q": "Vad är ett av målen med SMILE-uppdraget när det gäller solen och jorden?",
+      "options": [
+        "Att mäta solens exakta temperatur",
+        "Att undersöka hur solvinden interagerar med jordens magnetosfär",
+        "Att räkna antalet stjärnor i Vintergatan"
+      ],
+      "correct": 1,
+      "fact": "Ett huvudmål med SMILE är att bättre förstå hur solvinden interagerar med jordens magnetosfär för att skydda oss mot solstormar."
+    }
+  ],
+  "levels": {
+    "barn": "Har du någonsin sett ett vackert norrsken på natthimlen? Från jorden ser det ut som gröna eller rosa band. Men om man tittar från rymden bildar ljuset faktiskt en stor ring, som ett glödande bälte runt jorden! En speciell rymdkamera har filmat hur detta norrskensbälte rör sig och ändrar form på bara en timme, nästan som när en bläckfisk slingrar sig i vattnet.",
+    "nyborjare": "Ett norrsken bildar egentligen en komplett oval runt jordens magnetiska pol. Det är dock omöjligt att se denna fullständiga cirkel från marken eftersom den är alldeles för stor. För att kunna studera den krävs rymdfarkoster som befinner sig högt ovanför jorden. I ett videoprojekt från ESA och CAS har den robotiserade rymdfarkosten SMILE fångat en hel norrskensoval med hjälp av ultraviolett ljus, vilket till och med gjorde det möjligt att se ett norrsken under dagtid. Tidssatsningen visar hur otroligt rörliga och föränderliga norrsken är under loppet av en timme. De avlägsna stjärnorna i bakgrunden ser ut att röra sig, men det beror på att farkostens kamera flyttar sig i sin bana runt jorden. Forskarna vill använda dessa observationer för att förstå hur solen påverkar jorden.",
+    "entusiast": "Att observera en hel auroral oval har historiskt varit en utmaning eftersom jordens krökning och avståndet till de geomagnetiska polerna begränsar markbaserade observationer. Genom att använda rymdbaserade instrument, som i ESA och CAS samarbete med rymdfarkosten SMILE, kan astronomer studera hela ovalen i ultraviolett ljus. Detta gör det möjligt att dokumentera auroror även i dagsljus och få en dynamisk bild av deras turbulens under korta tidsperioder, såsom det timslånga förloppet i SMILE:s data. De fasta stjärnorna i bildens utkanter uppvisar skenbar rörelse enbart på grund av farkostens omloppsbana och kamerans orientering. Det vetenskapliga målet med SMILE sträcker sig bortom vackra vyer; genom att studera samspelet mellan solvinden och jordens magnetosfär hoppas forskare förbättra skyddet för astronauter, satelliter och markbundna elnät mot potentiellt skadliga solstormar."
+  }
+}

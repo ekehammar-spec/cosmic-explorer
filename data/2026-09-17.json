@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-17",
+  "title": "A Treasure Chest in the Carina Nebula",
+  "title_sv": "En skattkista i Carinanebulosan",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg?w=8200&h=11220&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
+  "credit": "ESA / Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç",
+  "w": 351,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABcDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAJRAAAgAGAgEEAwAAAAAAAAAAAQIAAwQREiEFQTETIlFhFaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIDIQQREhP/2gAMAwEAAhEDEQA/AOblTGZFuga36jZTvZ9at1e8S4kS2rUR1yQDIr0fiH/NUVIkgTZCYMouWHgwPYPTKb7NRDV52ult/UEWcghWlS9xMO8bdQQta9kl9+dMp4iYrLNmeMRaN35NgiS0Om9uJ/sKKRplPTT5RU5ML3+R1GYTAjhDMACeT533BvGMl0tKHN4oJuN+SnyziSfcRsfcEKKj02LFnIudY7NoIcPmFZNapks2n//Z",
+  "quiz": [
+    {
+      "q": "Hur långt bort från jorden ligger den omtalade Carinanebulosan?",
+      "options": [
+        "Ungefär 750 ljusår",
+        "Ungefär 7 500 ljusår",
+        "Ungefär 5 miljoner ljusår"
+      ],
+      "correct": 1,
+      "fact": "Nebulosan befinner sig i vår egen galax på ett avstånd av ungefär 7 500 ljusår."
+    },
+    {
+      "q": "Vad är det som formar pelaren av stoft och gas i rymden?",
+      "options": [
+        "Kraftiga stjärnvindar och strålning från grannstjärnor",
+        "Ett jättelikt svart hål i mitten av galaxen",
+        "Kometregn som passerar genom molnet"
+      ],
+      "correct": 0,
+      "fact": "Pelaren formas av kraftiga stjärnvindar och strålning från närliggande stjärnor, till exempel det mäktiga stjärnsystemet Eta Carinae."
+    },
+    {
+      "q": "Hur gammal tror astronomer att stjärnhopen inuti pelaren är?",
+      "options": [
+        "Cirka 1,3 miljarder år",
+        "Cirka 4,5 miljarder år",
+        "Cirka 1,3 miljoner år"
+      ],
+      "correct": 2,
+      "fact": "Stjärnhopen inuti pelaren uppskattas vara mycket ung i astronomiska sammanshang, endast omkring 1,3 miljoner år gammal."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en magisk skattkista i rymden som är full av glittrande stjärnor i stället för guldpengar. Denna skattkista är egentligen ett jättelikt moln av rymddamm och gas som kallas för en nebulosa. Inuti molnet gömmer det sig massor av nyfödda stjärnor. Starka vindar från andra stjärnor blåser på molnet så att det ser ut som att locket till kistan har öppnat sig. Det är precis som en hemlig skatt som väntar på att bli upptäckt i mörkret.",
+    "nyborjare": "Den här stämningsfulla bilden visar en gigantisk pelare av stoft och gas belägen i Carinanebulosan, ungefär 7 500 ljusår bort i vår egen galax. Bilden är tagen med NASA:s kraftfulla James Webb-rymdteleskop som kan se igenom kosmiskt damm. Pelaren har formats av kraftfulla stjärnvindar och strålning från närliggande stjärnor. Stjärnbildningen inne i pelaren gräver ut dess övre del, vilket liknar det öppna locket på en skattkista. Inuti finns ett tätt kluster av omkring 70 unga stjärnor som bara är cirka 1,3 miljoner år gamla. Bland dem finns en massiv stjärna som väger ungefär 19 gånger mer än vår sol.",
+    "entusiast": "Den här detaljrika bilden, fångad med NASA:s James Webb-rymdteleskop, avbildar en stoftpelare i Carinanebulosan på ett avstånd av ungefär 7 500 ljusår. Pelaren är uppbyggd av interstellär gas och stoft och skulpteras av energirika stjärnvindar och hård strålning från omgivande massiva stjärnor, i synnerhet det närliggande stjärnsystemet Eta Carinae vars luminositet överstiger fem miljoner solar. Den aktiva stjärnbildningen inuti strukturen eroderar dess topp och skapar den karakteristiska öppna locket-effekten. Astronomerna uppskattar att det kompakta stjärnklustret i pelaren har en ålder på endast omkring 1,3 miljoner år. Bland dessa unga stjärnor finns en särskilt massiv individ som mäter ungefär 19 solmassor. Eftersom mer massiva stjärnor är sällsyntare, lyser intensivare och utvecklas betydligt snabbare än sina mindre massiva motsvarigheter, utgör de de mest lysande skatterna i detta kosmiska kluster."
+  }
+}

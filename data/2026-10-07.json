@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-07",
+  "title": "Supernova Remnant Pa 30",
+  "title_sv": "Supernovaresten Pa 30",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=3233&h=3429&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+  "credit": "International Gemini Observatory / NOIRLab / NSF / AURA. Acknowledgment: PI: T. Cunningham ( Center for Astrophysics - Harvard & Smithsonian ). Image Processing: J. Miller & M. Rodriguez ( Internation",
+  "w": 452,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYBAwQAAv/EACMQAAIBBAICAgMAAAAAAAAAAAECAwAREiEEQTFRE2EiQtH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAAID/8QAGxEAAgIDAQAAAAAAAAAAAAAAAhEAAQMSMSH/2gAMAwEAAhEDEQA/AEZYyxVQLH17q+PjymNlEbEnrofde+BGzzKQQLb0bUwjhyy8YyRriFsNf2qEVtVNgCky5FpuPLGqhxi+VrdmtEkbPGkgkDO+zrx9VvfKWJ4p8rKNavuhKFRkuKsQe2xpA32GTHrydwZvjcEjXk68CjyStILRyKAx6OqV7lY7k2zqyHkSKcQ5AP3aggduohl1pXDHJtxy5aQNbQ/LzQg5SyMVxa+7E1DyvJILsW9bqJY3WJJMWVHJCk/taoIqBnt5P//Z",
+  "quiz": [
+    {
+      "q": "Astronomer har kunnat datera den här rymdexplosionen tack vare historiska anteckningar. Ungefär hur länge lyste stjärnan på himlen år 1181?",
+      "options": [
+        "185 dagar",
+        "Ett helt år",
+        "Bara några timmar"
+      ],
+      "correct": 0,
+      "fact": "Kinesiska, japanska och arabiska astronomer observerade en gäststjärna som lyste på himlen i 185 dagar under året 1181."
+    },
+    {
+      "q": "Vad tror forskare låg bakom den ovanliga explosionen som skapade nebulosan Pa 30?",
+      "options": [
+        "En ensam stjärna som svalnade",
+        "Kollisionen eller sammansmältningen mellan två vita dvärgar",
+        "En jättelik komet som splittrades"
+      ],
+      "correct": 1,
+      "fact": "Den ovanliga typen av supernovagravitation tros orsakas av att två täta vita dvärgar smälter samman."
+    },
+    {
+      "q": "Vad kallas de pärlliknande knutarna som sitter längs nebulosans strålar?",
+      "options": [
+        "Galaxkärnor",
+        "Svart hål",
+        "De är 4 ljusdagar i diameter"
+      ],
+      "correct": 2,
+      "fact": "När man tittar nära på trådarna ser man att de pärlliknande knutarna är hela 4 ljusdagar i diameter."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig ett jättestort fyrverkeri ute i rymden som slår ut åt alla håll! Det här färgglada molnet är spår efter en stjärnexplosion som skedde för väldigt länge sedan. Det ser ut som magiskt glitter, eller som när man tänder ett stjärnbloss på nyårsafton. Forskarna försöker fortfarande lösa mysteriet med hur den här häftiga rymdbilden kunde bildas.",
+    "nyborjare": "Bilden visar nebulosan Pa 30, vilket är resterna efter en gammal supernovautbrott, alltså när en döende stjärna exploderar i ett mäktigt ljusfenomen. Historiska anteckningar från år 1181 av kinesiska, japanska och arabiska astronomer berättar om en gäststjärna på himlen. Forskare tror att explosionen orsakades av att två vita dvärgar, som är mycket täta och kompakt stjärnrester, smälte samman. I mitten finns en extremt het stjärna med starka vindar.",
+    "entusiast": "Denna bild av nebulosan Pa 30 fångades med Gemini North Telescope i Hawaii och gestaltar resterna efter en historisk supernova som klassificeras som en sällsynt Type Iax-explosion. Utbrottet knyts till observationer från år 1181 då astronomer noterade en gäststjärna under 185 dagar. Fysiken bakom Pa 30 är unik eftersom den tros ha uppstått genom sammansmältningen av två vita dvärgstjärnor. Den mystiska centralstjärnan är extremt varm och genererar en kraftfull stjärnvind som troligen skapar de radiella filamenten, där de fascinerande pärlliknande knutarna mäter hela 4 ljusdagar i diameter och fortsätter gäcka forskarvärlden."
+  }
+}

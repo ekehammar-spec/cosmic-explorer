@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-23",
+  "title": "A New Lunar Crater: McGetchin",
+  "title_sv": "En ny månkrater: McGetchin",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg?w=925&h=925&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
+  "credit": "NASA/GSFC/Intuitive Machines",
+  "w": 480,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwUH/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQREiEFIjFBURQysUJhgZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMBYCG3XKn6h0qSWzGOTkYkfNE2YOvLKQpG4Hc03cP8ASWti004jixGSzHYAZ+aBDkiZUXlOptz9qHkhePGsadXmnixsOF3tis8ameTW25YjWO23ilXiCATsFXBBIYnt+6CuzupllUKF9w69Kdr21t7myFtdTAHAblwdI8n+1z6J2Q5U79j4rRa/laMIsrAjC/gCg1ZZ4bG1aK1JQHPtNL7s7ygasEnqalJOy6c7nbVv3oZjrJ7eKD//2Q==",
+  "quiz": [
+    {
+      "q": "Vad var det som orsakade att den nya kratern McGetchin bildades på månen under våren 2024?",
+      "options": [
+        "Ett vulkanutbrott",
+        "En komet eller asteroid",
+        "En rymdfarkost som kraschade"
+      ],
+      "correct": 1,
+      "fact": "En komet eller asteroid stor som en knölval kraschade in i månen någon gång mellan april och maj 2024 och bildade den nya kratern."
+    },
+    {
+      "q": "Hur stor är den nybildade kratern på månens yta?",
+      "options": [
+        "Ungefär lika stor som två fotbollsplaner",
+        "Bara lika stor som en vanlig bil",
+        "Lika stor som en hel stad"
+      ],
+      "correct": 0,
+      "fact": "Nedslaget skapade en krater som är två fotbollsplaner bred, vilket är ovanligt stort för händelser som inträffar med så glesa mellanrum."
+    },
+    {
+      "q": "Vilken rymdfarkost tog bilderna som avslöjade kratern före och efter nedslaget?",
+      "options": [
+        "Rymdteleskopet Hubble",
+        "Mars Perseverance",
+        "Lunar Reconnaissance Orbiter (LRO)"
+      ],
+      "correct": 2,
+      "fact": "Lunar Reconnaissance Orbiter (LRO) övervakar månen varje månad och lyckades fånga före- och efterbilder av händelsen."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att en jättestor stenboll från rymden, lika stor som en hel val, plötsligt kraschar rakt in i månen! Mellan april och maj 2024 small det till och skapade ett jättestort hål, en krater, som är lika bred som två fotbollsplaner efter varandra. En rymdkamera som cirkulerar runt månen fotograferade platsen före och efter. Det är ganska skönt att vi har vår jordatmosfär som skyddar oss här hemma!",
+    "nyborjare": "Mellan april och maj 2024 inträffade en ovanlig händelse på månen då en komet eller asteroid med en storlek jämförbar med en knölval, ungefär 10 till 20 meter, slog ner i ytan. Den resulterande kratern har fått namnet McGetchin efter en månexpert från Apollotiden och mäter hela två fotbollsplaner i bredd. Händelser av denna skala förväntas endast ske ungefär en gång vart 132:a år. Forskare kunde upptäcka nedslaget genom att jämföra äldre och nyare bilder från rymdsonden Lunar Reconnaissance Orbiter (LRO), som övervakar månen varje månad.",
+    "entusiast": "En sällsynt och geologiskt signifikant händelse ägde rum på månens yta mellan april och maj 2024, då en impaktor i form av en komet eller asteroid med en diameter på 10–20 meter kolliderade med månen. Nedslaget resulterade i kratern McGetchin, uppkallad efter en lunar-forskare från Apollo-eran, med en diameter motsvarande två fotbollsplaner. Statistiskt sett förväntas dylika impakter endast inträffa en gång vart 132:a år. Före- och efterbilder tagna av Lunar Reconnaissance Orbiter (LRO) möjliggjorde upptäckten. Uppföljande termisk bildtagning avslöjade en stor kall fläck som omger den varma kratern. Ytinpakter puffar upp det lösa regolitmaterialet vilket minskar dess densitet och försämrar dess värmehållande förmåga. Detta påverkade ett område väsentligt större än den synliga kratern, vilket ger nya insikter om ytpåverkan och månens ytutveckling."
+  }
+}

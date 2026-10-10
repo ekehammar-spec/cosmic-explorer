@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-19",
+  "title": "A Zodiacal Night",
+  "title_sv": "En stämningsfull natt med zodiakljus",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=2060&h=1393&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+  "credit": "Neelam and Ajay Talwar ( TWAN )",
+  "w": 480,
+  "h": 324,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAAiEAABBAICAQUAAAAAAAAAAAABAAIDBBESMUEFIkJRYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Axhac9pkcZJRFbqOdrIXRnjJGR+K146rVtOLYbML3gZ1DhlLSW5iVqWqtYoyMlI1K53VnYJLTwipnXR+pxz2UvX7QhQPFmy1uosSgfG5Q2ecuGZ5CMj3FCFB//9k=",
+  "quiz": [
+    {
+      "q": "Vad kallas det svaga, pyramidformade ljusband som sträcker sig upp längs himlen på bilden?",
+      "options": [
+        "Vintergatan",
+        "Zodiakljus",
+        "Norrsken"
+      ],
+      "correct": 1,
+      "fact": "Zodiakljuset är ett svagt sken som orsakas av solljus som reflekteras mot interplanetärt rymddamm."
+    },
+    {
+      "q": "Vilken planet beskrivs som synlig nära den östra horisonten inuti det svaga ljusbandet?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturnus"
+      ],
+      "correct": 1,
+      "fact": "Den ljusa planeten Jupiter syns nedsänkt i det svaga zodiakljuset nära den östra horisonten."
+    },
+    {
+      "q": "Enligt nyliga upptäckter från rymdsonders observationer, varifrån tros det mesta av det damm som skapar zodiakljuset komma?",
+      "options": [
+        "Planeten Mars",
+        "Asteroidbältet",
+        "Kometer från Oorts moln"
+      ],
+      "correct": 0,
+      "fact": "Mätningar från NASA:s rymdfarkost Juno tyder på att planeten Mars själv är källan till det damm som sprider solljuset."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du spiller mjöl på ett mörkt bord, ungefär så ser det ut på den här bilden! Det svaga ljusbandet som sträcker sig över himlen kallas för zodiakljus. Det är faktiskt miljarder små, små dammkorn som svävar i rymden och speglar solens strålar. På bilden syns också några planeter som lyser klart, och om du tittar riktigt noga kan du till och med få syn på ett stjärnfall som swischar förbi i natten.",
+    "nyborjare": "Den här stämningsfulla natthimlen är fotograferad från ett mörkt och avlägset stjärnobsidarium i Ladakh i Indien, på hela 4 500 meters höjd över havet. Det som fångar ögat är det spökaktiga, pyramidformade ljuset som reser sig från horisonten, det så kallade zodiakljuset. Ljuset uppstår när solljus studsar på rymddamm. Inuti detta ljusband syns den ljusa planeten Jupiter. Om man följer ljusbandet högre upp mot himlen hittar man även den gulaktiga planeten Mars och en öppen stjärnhop som kallas M44.",
+    "entusiast": "Bilden fångar ett sällsynt och stämningsfullt skådespel vid Hanle Dark Sky Reserve i Ladakh, Indien, beläget på omkring 4 500 meters höjd. Strax före den astronomiska gryningen träder zodiakljuset – även känt som den falska gryningen – fram tydligt mot den mörka natthimlen. Detta diffusa, konformade band skapas av att interplanetärt rymddamm backar och sprider solljus. Enligt nyliga serendipitära detektioner gjorda av NASA:s rymdsond Juno härstammar detta damm sannolikt från planeten Mars själv. I kompositionen syns även en meteor strecka över himlen, planeten Jupiter nedsänkt i glöden nära den östra horisonten, samt den öppna stjärnhopen M44 och den gulaktiga planeten Mars högre upp längs zodiakbandet mot zenit."
+  }
+}

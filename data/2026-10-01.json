@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-01",
+  "title": "Harvest Moon with Erupting Mount Etna",
+  "title_sv": "Skördemåne med utbrytande Mount Etna",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg?w=1600&h=1067&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
+  "credit": "Dario Giannobile",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACUQAAEEAQIFBQAAAAAAAAAAAAEAAgMRBBIhBTFhcZETIzJRUv/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EABoRAAMBAAMAAAAAAAAAAAAAAAABEQIDEiH/2gAMAwEAAhEDEQA/AMZ8Rvp2B4Uo4sYeZZ2OdBGbcGjn07KjBxrFLPea9tbVWq/CQzuJwSgta2TSDfxoLLGd2Qt0+NZvZEnimS/NyTK/YAaWN/LRyCnuCoSGF1kG+p2SrwANqKpkURHa6aRZj2aTojIG9UmW5euFz3xNJDgB2QhJoyvolJKXk7AD6pYE226HhCEWPJ//2Q==",
+  "quiz": [
+    {
+      "q": "Vad händer på himlen samtidigt som en fullmåne går upp?",
+      "options": [
+        "Solen går ner",
+        "En solförmörkelse inträffar",
+        "Nordskenet tänds"
+      ],
+      "correct": 0,
+      "fact": "Under en fullmåne är Månen och Solen i opposition på himlen, vilket betyder att månen stiger upp precis när solen går ner."
+    },
+    {
+      "q": "Hur lång tid tar det ungefär för Månen att fullfölja en hel fascykel från fullmåne till fullmåne?",
+      "options": [
+        "24 timmar",
+        "29,5 dagar",
+        "365 dagar"
+      ],
+      "correct": 1,
+      "fact": "Månfascykeln tar ungefär 29,5 dagar att slutföra, även om själva omloppsbanan runt jorden tar ungefär 27 dagar."
+    },
+    {
+      "q": "Vad kallas den rosa färgbandet som ibland syns lågt på himlen i skymningen?",
+      "options": [
+        "Vintergatan",
+        "Ozonlagret",
+        "Venusbältet"
+      ],
+      "correct": 2,
+      "fact": "Det rosa bandet som syns lägre ner på himlen kallas för Venusbältet och orsakas av solljus som sprids i atmosfären."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du tittar upp på kvällshimlen och ser en jättestor, lysande boll. Det är fullmånen som klättrar uppåt samtidigt som solen gömmer sig. Bakom månen puffar en vulkan som heter Etna ut aska och rök, precis som när man blåser ut ett ljus på en tårta och det ryker lite efteråt. Himlen skiftar i vackra färger som rosa och orange, ungefär som när godis smälter i munnen.",
+    "nyborjare": "Den här färgglada bilden är ett så kallat kompositfoto, vilket betyder att flera fotografier har satts ihop till ett. Den visar hur fullmånen stiger upp i Sicilien samtidigt som himlen mörknar. Lägre moln reflekterar färgerna från skymningen, medan aska och gas från vulkanen Mount Etna syns i bakgrunden. Det rosa bandet som syns lägre ner på himlen kallas för Venusbältet. När det är fullmåne befinner sig månen och solen i opposition på himlen, vilket innebär att månen går upp exakt när solen går ner. Månens fascykel tar ungefär 29,5 dagar.",
+    "entusiast": "Denna sammansatta bild fångar ett ögonblick i närheten av Nicosia på Sicilien där flera atmosfäriska och astronomiska fenomen sammanfaller. Den visar månens uppgång i opposition till solen, ett geometriskt tillstånd under fullmånefasen där Månen och Solen är positionerade på motsatta sidor om Jorden. Den totala synkroniseringen av himlens färgförändringar inkluderar den rosa skymningsbågen känd som Venusbältet, skapad av tillbakaspritt solljus. I bildens nedre och mellersta skikt reflekterar låga moln antitwilight-effektens färger, medan vulkanisk aska och gas från Mount Etna skymtas i bakgrunden. Den synodiska månfascykeln, det vill säga tiden från en fullmåne till nästa, varar i genomsnitt ungefär 29,5 dygn, vilket skiljer sig från den sideriska omloppstiden på cirka 27 dygn då Månen kretsar i förhållande till bakgrundsstjärnorna."
+  }
+}

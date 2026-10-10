@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-12",
+  "title": "Apollo 11: Catching Some Sun",
+  "title_sv": "Apollo 11: Fångar lite sol",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
+  "thumb": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
+  "hdurl": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/",
+  "credit": "Image Credit: Apollo 11, NASA (Image scanned by Kipp Teague)",
+  "w": 2349,
+  "h": 2361,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUCAwYH/8QAKBAAAgEDAgUEAwEAAAAAAAAAAQIDAAQREiEFMUFRYRQigbFScZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/AMzY2SLHmQDJAP8AaE4lCsbe0U3teEzQEL6g6c506andcDkuSMzhfOnNJbB81nktl9KXlBDNunMZH1QrhQgK79z57VoOI2ccNvbxsXZY0xqzgaiT06bYpKts0oOgkKvfvRb6TnHQlxGpDS5XwR9CrmKhCAyhsY3/ANpY0jKigaNZ/EH7pcOH6JGkkkLTA9XLADzvWoxuC0UOmQRzhuQWQjJ/RpMwVXZQ95bknPsTWD8jerwjLtHqkGOo5fAom2uzGxU6AQerY271if/Z",
+  "quiz": [
+    {
+      "q": "Vilken historisk händelse dokumenteras på denna bild från månen den 20 juli 1969?",
+      "options": [
+        "Den första månlandningen med Apollo 11",
+        "Upptäckten av vatten på månens yta",
+        "Den första rymdpromenaden i omloppsbana"
+      ],
+      "correct": 0,
+      "fact": "Bilden togs av Neil Armstrong under Apollo 11-missionen, då han blev den första människan att gå på månens yta."
+    },
+    {
+      "q": "Vad är det för utrustning som astronauten Buzz Aldrin rullar ut på ytan?",
+      "options": [
+        "En solpanel för att driva landaren",
+        "Ett experiment för att fånga upp solvind",
+        "En stor svensk flagga"
+      ],
+      "correct": 1,
+      "fact": "Utrustningen kallas Solar Wind Composition Experiment och användes för att fånga partiklar från solvinden."
+    },
+    {
+      "q": "Förutom vetenskapliga mätinstrument, vad mer tog astronauterna med sig tillbaka till jorden?",
+      "options": [
+        "Rymdgrus och meteoriter från rymden",
+        "22 kilo stenar och jord från månen",
+        "En bit av landarens motor"
+      ],
+      "correct": 2,
+      "fact": "Astronauterna samlade in och tog med sig 22 kilogram månstenar och prover av månens jord tillbaka för analys i jordbundna laboratorier."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att vara i en enorm sandlåda mitt i natten, men att det lyser en jättestark lampa på dig. Det är precis så det såg ut för rymdfararna Buzz och Neil när de landade på månen. Månen har ingen luft som skyddar mot solen, så solen skiner superklart medan skuggorna blir kolsvarta. Buzz rullar ut ett glänsande skynke som ser ut som ett jättestort folieark för att fånga upp små osynliga bitar som flyger iväg från solen.",
+    "nyborjare": "Den här bilden, tagen den 20 juli 1969 av Apollo 11-astronauten Neil Armstrong, visar landningsfarkosten Eagle och Buzz Aldrin på månens yta. Starkt solljus och skarpa, mörka skuggor präglar landskapet eftersom månen saknar atmosfär som sprider ut ljuset. Buzz Aldrin håller på att rulla ut en lång foliebit som tillhör ett experiment kallat Solar Wind Composition Experiment. Denna folie exponerades mot solen för att fånga upp laddade partiklar som strömmar ut från solen i den så kallade solvinden. Folien togs sedan med tillbaka till jorden tillsammans med 22 kilo månstenar och jordprover.",
+    "entusiast": "Fotot fångar en ikonisk stund under Apollo 11-missionen den 20 juli 1969 där månlandaren Eagle och månlandarpiloten Buzz Aldrin syns i det karga mållandskapet. Det starka, ofiltrerade solljuset kastar skarpa, mörka skuggor på regolitens yta på grund av avsaknaden av en ljusspridande atmosfär. Aldrin ses här engagera sig i Solar Wind Composition Experiment, där en metallfolie exponeras för den utströmmande strömmen av laddade partiklar från solens korona. Detta instrument, liksom de 22 kilogram månar och regolit som samlades in, transporterades tillbaka till jorden för grundliga laboratorieanalyser för att förstå solens sammansättning och månens geologi. Denna typ av experiment ger oss direkt insikt i solvindens elementära och isotopiska sammansättning."
+  }
+}

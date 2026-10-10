@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-29",
+  "title": "Sh2-188: The Shrimp Nebula",
+  "title_sv": "Sh2-188: Räknebulosan",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=2048&h=2560&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
+  "credit": "Pawel Piechnik",
+  "w": 384,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAgEDBv/EACQQAAIBAwQBBQEAAAAAAAAAAAECAAMRIQQFEjFBMlFhgZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIABAX/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDERIh/9oADAMBAAIRAxEAPwDk9r2upr3JBCUl9Tt0IxbatEpPCqzn2tCaDrQ2Wkq+Rm3kmLjquIaxyYrZozjxxK69bBNRp0TAvjzBMX6h1aoHGP7BuI+YSpaW/BklYvt4pjteoqdm5zbSrMoNj3JyBzYAyBqukiq3vn8k5CYLYxKfUImz/9k=",
+  "quiz": [
+    {
+      "q": "Vad liknar den främsta kanten på denna nebulosa, som bildas när gas komprimeras?",
+      "options": [
+        "Ett flygplan som bryter ljudvallen",
+        "En båt som plöjer igenom vatten",
+        "Ett tåg som kör på räls"
+      ],
+      "correct": 1,
+      "fact": "Nebulosans vita dvärgstjärna rör sig så snabbt genom rymden att den bildar en bogvåg, vilket liknar en båt som plöjer igenom vatten."
+    },
+    {
+      "q": "Hur stor är nebulosan på natthimlen jämfört med månen?",
+      "options": [
+        "Den är dubbelt så stor som månen",
+        "Den är lika stor som månen",
+        "Den spänner över ungefär halva månens diameter"
+      ],
+      "correct": 2,
+      "fact": "Sh2-188 är en av de större planetariska nebulosorna på natthimlen till sin vinkelstorlek och spänner över ungefär halva månens diameter."
+    },
+    {
+      "q": "Vad är det för föremål som finns i kärnan av denna nebulosa?",
+      "options": [
+        "En vit dvärg som är en rest av en solliknande stjärna",
+        "Ett gigantiskt svart hål",
+        "En ung stjärna som just har föds"
+      ],
+      "correct": 0,
+      "fact": "I mitten finns en vit dvärg, vilket är en rest från den solliknande stjärna som kastade av sig sin yttre atmosfär."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att en stjärna har sprutat ut moln av färg ut i rymden! Den här nebulosan ser ut som ett jättestort moln av gas. Stjärnan i mitten rör sig superfort genom rymden, ungefär som en snabb båt som kör fort på sjön och skapar svallvågor framför sig. Det gör att gasen längst fram pressas ihop och börjar lysa extra mycket.",
+    "nyborjare": "Bilden visar Sh2-188, som brukar kallas Räcknebulosan. Det är en planetarisk nebulosa, vilket är ett moln av gas som kastats ut från en döende stjärna som liknar vår sol. Kvar i mitten finns en så kallad vit dvärg, som är stjärnans hopknutna och utbrända rest. Den här vita dvärgen färdas ovanligt snabbt genom rymden, vilket skapar en tydlig bogvåg upp till vänster, ungefär som när en båt plöjer igenom vatten.",
+    "entusiast": "Sh2-188 är en stor planetarisk nebulosa på stjärnhimlen med en vinkelstorlek som motsvarar ungefär halva månens diameter. Det som gör objektet unikt och vetenskapligt intressant är dess höga egenrörelse genom det interstellära mediet. Den centrala vita dvärgen – restprodukten efter en solliknande stjärna som gjort sig av med sina yttre höljen – rör sig med så hög hastighet att det uppstår en tydlig bogvåg (bow shock), mest framträdande upp till vänster. Denna våg bildas när nebulosans expansion möter och komprimerar gasen i färdriktningen, vilket gör att den lyser starkare i det ljus som emitteras. Det presenterade färgbilden är tagen av ett amatørteleskop i Krakow i Polen, där observationer i väte-, svavel- och syrgaslinjer digitalt har bearbetats för att efterlikna nebulosans naturliga färger."
+  }
+}

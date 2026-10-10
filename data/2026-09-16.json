@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-16",
+  "title": "Webb's View of M64",
+  "title_sv": "Webbs vy av M64",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=3853&h=4070&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
+  "credit": "NASA, CSA, ESA, F. Belfiore (ESO), J. Lee (STScI), A. Leroy (OSU), and D. Thilker (JHU); Processing : G. Kober (NASA/Catholic University)",
+  "w": 454,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAjEAABAwQCAQUAAAAAAAAAAAABAAIDBBESISIxBRRBUZKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECERIxA//aAAwDAQACEQMRAD8AwsbbkaVOnic8i0cf0CWpI8nBarw/jmTHm4MaBckm1gtT1WRidmRnQubG7izWjxCQmbiQrU2LXTObpjtC/v8ACh1Ml5NdIitpyV6xrWA1KQ0Kx6q0PB9g7sLPRS4opqOPaalV0I9HHBmrqbtxaeP6pUjrm67klyQCdp4S228s/9k=",
+  "quiz": [
+    {
+      "q": "Vad kallas galaxen M64 ofta för på grund av sitt mörka stoftband?",
+      "options": [
+        "Svartögongalaxen",
+        "Sombrerogalaxen",
+        "Malströmgalaxen"
+      ],
+      "correct": 0,
+      "fact": "M64 kallas ofta för Black Eye Galaxy, eller Svartögongalaxen, eftersom det mörka stoftbandet blockerar ljuset framför dess ljusa kärna."
+    },
+    {
+      "q": "Vilket rymdteleskop har använts för att se det infraröda ljuset från stoftet i M64?",
+      "options": [
+        "Spitzer-teleskopet",
+        "James Webb-teleskopet",
+        "Chandra X-ray Observatory"
+      ],
+      "correct": 1,
+      "fact": "Det är Webb-teleskopets instrument MIRI som kan se det infraröda ljuset och visar stoftet i rött när det värms upp av nyfödda stjärnor."
+    },
+    {
+      "q": "Vad tros vara den troliga orsaken till att gasen i M64 roterar åt olika håll i de inre och yttre delarna?",
+      "options": [
+        "En explosion i galaxens centrum",
+        "Att två galaxer har krockat och slagits samman",
+        "Starka magnetfält från svarta hål"
+      ],
+      "correct": 1,
+      "fact": "M64 har troligen bildats genom en sammanslagning med en mindre galax tidigare i historien, vilket skapade de motroterande gasregionerna."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en jättestor snurra i rymden som är gjord av miljarder stjärnor. Det här är galaxen M64, som ser ut som om den har fått ett svart blåira runt sitt lysande öga! Det svarta är egentligen moln av stoft och damm som flyter omkring och skymmer ljuset bakom. Rymdteleskopet James Webb kan titta rakt igenom detta damm med sitt infraröda ljus och se hur helt nya stjärnor tänds där inne som små glödlampor.",
+    "nyborjare": "Bilden visar Messier 64, ofta kallad Svartögongalaxen på grund av sitt distinkta och mörka stoftband som delvis döljer dess ljusa kärna. Medan rymdteleskopet Hubble tidigare har visat mörka områden, har rymdteleskopet James Webb använt sitt instrument MIRI för att upptäcka hur det infraröda ljuset från omgivande nyfödda stjärnor absorberas och sänds ut på nytt av stoftet. Det visar sig att gasen i galaxens inre och yttre delar rör sig i motsatta riktningar mot varandra. Denna motrörelse pressar ihop gasen och skapar nya områden där stjärnor kan bildas. Forskare tror att denna märkliga rörelse beror på att galaxen en gång i tiden har krockat med och slagit ihop sig med en mindre galax.",
+    "entusiast": "Messier 64 är en spiralgalax vars dynamiska struktur har gett astronomers nya insikter i galaktisk evolution. Genom att kombinera observationer från Hubble och James Webb avslöjas detaljer som tidigare varit dolda. Webbs Mid-InfraRed Instrument (MIRI) detekterar det infraröda spektrumet och visar galaxens stoft i rött, uppvärmt av omgivande unga stjärnor som är inbäddade i rosa stjärnbildande regioner. En av M64s mest fascinerande egenskaper är dess motroterande gasregioner, där de inre och yttre strömmarna rör sig i skilda riktningar och komprimerar gasen i möteszonerna, vilket driver på stjärnbildningen. Denna märkliga dynamik är starka bevis för en tidigare galaktisk merger med en mindre galax, vilket motbevisar den äldre teorin om att spiralgalaxer har haft helt fridfulla utvecklingshistorier. Genom att studera M64s stoftsammansättning och rörelsemönster kan astronomer nu få en djupare förståelse för hur galaxers strukturer påverkas av forntida kollisioner."
+  }
+}

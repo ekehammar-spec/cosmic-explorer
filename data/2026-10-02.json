@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-02",
+  "title": "The Complete Sharpless Catalog: 313 Nebulas",
+  "title_sv": "Det kompletta Sharpless-katalogen: 313 nebulosor",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=4455&h=5592&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
+  "credit": "Bing Xin",
+  "w": 382,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABkDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgABAwb/xAAiEAACAgEDBAMAAAAAAAAAAAABAgARIRIxQQMjUmFRU4H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhUf/aAAwDAQACEQMRAD8A8eF1WRgCJWoBbutyOISoKYsYwN7kFUPkbjfiNZqLgwE1FdS7Xcejp+SzgwUYtTMofXCss4QYDIJGblZIWzgHjiaVJWwpVfUVAgkXVccGQgYk2N/dRV1PGYyhaAcNj9l3PkSgVXT/2Q==",
+  "quiz": [
+    {
+      "q": "Hur lång tid tog det för astrofotografen Bing Xin att samla in alla bilder till detta gigantiska projekt?",
+      "options": [
+        "Ungefär 80 timmar",
+        "Ungefär 800 timmar",
+        "Ungefär 8 000 timmar"
+      ],
+      "correct": 1,
+      "fact": "Varje enskilt objekt krävde mellan 2 till 6 timmars exponeringstid, vilket gjorde att hela katalogen tog cirka 800 timmar att fullfölja."
+    },
+    {
+      "q": "Vilket av följande välkända himlaobjekt ingår inte i Sharpless-katalogen?",
+      "options": [
+        "Örnen-nebulosan",
+        "Andromedagalaxen",
+        "Orionnebulosan"
+      ],
+      "correct": 1,
+      "fact": "Andromedagalaxen är en hel galax och inte en nebulosa i Vintergatan. Både Örnen-nebulosan och Orionnebulosan finns med i katalogen som Sh2-49 respektive Sh2-281."
+    },
+    {
+      "q": "Sharpless-katalogen är mest känd för att innehålla regioner av joniserat väte, men vad mer kan man hitta i den?",
+      "options": [
+        "Bara kometer och asteroider",
+        "Svart hål i centrum",
+        "Planetariska nebulosor och supernovarester"
+      ],
+      "correct": 2,
+      "fact": "Trots att katalogen fokuserar på H II-regioner innehåller den även andra typer av objekt, som den planetariska Medusanebulosan och supernovaresten Spaghettinebulosan."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du målar ett jättestort konstverk, men i stället för papper använder du natthimlen. Astrofotografen Bing Xin har tagit bilder på 313 moln i rymden, som kallas nebulosor. Det är gigantiska moln av gas och stoft där nya stjärnor tänds. För att få med alla detaljer har fotografen rest till mörka platser i Kina och samlat ljus under väldigt många timmar. Vissa av molnen ser ut som kända figurer, som ett hjärta eller en örn, precis som molnen vi tittar på en sommardag!",
+    "nyborjare": "Den här storslagna bilden visar hela Sharpless-katalogen, som rymmer 313 himmelsobjekt. Fotografen Bing Xin har rest under mörka himlar i östra Kina och Inre Mongoliet för att fota dem alla. Katalogen består främst av så kallade H II-regioner, vilket är stora moln av joniserat väte som glöder av energirikt ljus från heta stjärnor. Men den rymmer mer än så; här finns också planetariska nebulosor, som Medusanebulosan, och supernovarester som Spaghettinebulosan, vilka är rester efter döende och exploderande stjärnor. Med hjälp av specialfilter som fångar upp ljus från väte och syre, samt vanliga färgfilter, tog det mellan två och sex timmar per objekt. Totalt tog det omkring 800 timmar att färdigställa detta fantastiska porträtt av rymden.",
+    "entusiast": "Bilden presenterar den kompletta Sharpless-katalogen av H II-regioner, ursprungligen sammanställd av astronomen Stewart Sharpless, här i ett enormt astrofotografiskt verk av Bing Xin. Arbetet krävde observationer under de mörka natthimlarna i östra Kina och Inre Mongoliet. För att fånga in de svaga signalerna användes smalbandiga filter som isolerar emissionslinjer från joniserat väte och syre, kombinerade med traditionella RGB-filter för att återge naturliga färgtoner. Med en exponeringstid på 2 till 6 timmar per objekt summerar projektet till svindlande 800 timmars total integrationstid. Även om katalogen primärt fokuserar på områden där stjärnbildning sker kring unga, massiva stjärnor, rymmer den även andra utvecklingsstadier av stjärnors livscykel. Bland de 313 objekten finner vi klassiska favoriter som Örnnebulosan (Sh2-49), Hjärtnebulosan (Sh2-190) och Orionnebulosan (Sh2-281). Katalogen bjuder också på utvecklade faser, däribland den planetariska nebulosan Sh2-274 (Medusanebulosan) samt supernovaresten Sh2-240 (Spaghettinebulosan), vilket visar på den enorma bredden av ioniserad gas och plasma som existerar i vår galaktiska närhet."
+  }
+}

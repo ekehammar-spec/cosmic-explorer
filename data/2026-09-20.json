@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-20",
+  "title": "Analemma over the Callanish Stones",
+  "title_sv": "Analemma över Callanish Stones",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=1280&h=1477&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+  "credit": "Giuseppe Petricca",
+  "w": 416,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgD/xAAnEAABBAEDAgYDAAAAAAAAAAABAgMEEQAFEiETkSIxMkFRsWGBof/EABgBAQADAQAAAAAAAAAAAAAAAAUAAQID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECBBEhEv/aAAwDAQACEQMRAD8AjQg5oNE4zbh37YSnTzXpxYO1iItnM7D8Y7cg7fNODqi8+WTC9ZaRNEUKK00Pk8DGaGdNYjKceebKUgElJvg3Xej2yGVNdkJSiRJkOJSbAK/yD9gYFqkhlmIltnqb1EWorJ4F8f3BndlN+UhBVlBaXK4kSaLhutuWjqAA87bq++LHdGcCz4D2yVamPvNhcd07kI2Kbvmrv9jOVqr9+J95B9x1SPsZ2jckuYYlXi+7h//Z",
+  "quiz": [
+    {
+      "q": "Vilken form har solens rörelsemönster på himlen om man fotograferar den vid samma tid varje dag under ett helt år?",
+      "options": [
+        "En cilikrtsform",
+        "En åtta",
+        "En rak linje"
+      ],
+      "correct": 1,
+      "fact": "Solens årliga rörelsemönster bildar en åtta på himlen, vilket kallas ett analemma."
+    },
+    {
+      "q": "Vad heter de gamla stenarna som syns i förgrunden av bilden och som byggdes under bronsåldern?",
+      "options": [
+        "Callanish Stones",
+        "Stonehenge",
+        "Pyramiderna"
+      ],
+      "correct": 0,
+      "fact": "Stenarna heter Callanish Stones och är en stencirkel i Skottland som byggdes omkring 2700 före Kristus."
+    },
+    {
+      "q": "Vilka två faktorer är de yttersta orsakerna till att solens årliga mönster på himlen får sin speciella form?",
+      "options": [
+        "Månens faser och jordens rotation",
+        "Solen lutning och jordens storlek",
+        "Jordaxelns lutning och formen på jordens omloppsbana"
+      ],
+      "correct": 2,
+      "fact": "Det är kombinationen av jordaxelns lutning och att jordens bana runt solen är elliptisk som skapar åttans form."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig om du skulle ta en bild på solen exakt samma tid varje dag under ett helt år. Om man lägger ihop alla bilderna till en enda bild, så flyttar solen på sig och bildar faktiskt formen av en siffra åtta på himlen. Bilden är tagen i Skottland vid en gammal stencirkel som kallas Callanish Stones. Stenarna är jättegamla och byggdes redan under bronsåldern för ungefär fem tusen år sedan. Det är nästan som magi!",
+    "nyborjare": "Den här bilden visar ett så kallat analemma, vilket är ett sammansatt fotografi som visar solens exakta position på himlen tagen från samma plats vid samma tid varje dag under ett helt år. Solens mönster formar en stor åtta på himlen. I förgrunden syns de historiska Callanish Stones, en stencirkel byggd i Skottland omkring 2700 före Kristus under bronsåldern. Det är fortfarande okänt om stenarnas placering har någon astronomisk betydelse. Den speciella åttformade kurvan beror på två saker: att jordaxeln lutar och att jordens omloppsbana runt solen inte är helt cirkelrund utan elliptisk.",
+    "entusiast": "Bilden visar ett analemma komponerat av exponeringar tagna vid middagstid under ett års tid nära byn Callanish på Yttre Hebriderna i Skottland. I förgrunden avbildas Callanish Stones, en megalitisk stencirkel uppförd kring 2700 f.Kr. under bronsåldern, vars eventuella astronomiska signifikans förblir okänd. Det fysikaliska ursprunget till analemmans karakteristiska åttformade kurva är en kombination av jordaxelns axellutning och banans ellipticitet i rörelsen kring solen. Vid solstånden befinner sig solen i extrempunkterna högst upp eller längst ner i kurvan, vilket i detta fall speglar december-solståndet då solen är närmare botten. Dagjämningarna motsvarar punkter i mitten av analemman, där dagen och natten är lika långa över hela planeten, vilket ofta markerar ett årstidsskifte."
+  }
+}

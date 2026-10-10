@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-28",
+  "title": "Cosmic Latte: The Average Color of the Universe",
+  "title_sv": "Cosmic Latte: Universums genomsnittliga färg",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=960&h=640&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/",
+  "credit": "Karl Glazebrook & Ivan Baldry ( JHU )",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAIBAwf/xAAgEAADAAIABwEAAAAAAAAAAAAAAQIDERMhUVNhkaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6KCKhutrJSXRaChpPeSn65GS1g18Ou7fz8MzDVJvJT8PQFgAAAAP/9k=",
+  "quiz": [
+    {
+      "q": "Om man blandar allt ljus från alla stjärnor i universum till en enda färg, vilken nyans blir det?",
+      "options": [
+        "En klarblå färg som himlen",
+        "En ljus beige färg",
+        "Ett mörkt och mystiskt svart"
+      ],
+      "correct": 1,
+      "fact": "Astronomer har räknat ut att den genomsnittliga färgen i universum är en ljus beige nyans, med färgkoden #FFF8E7."
+    },
+    {
+      "q": "Vad hände med universums färg under de senaste 10 miljarder åren?",
+      "options": [
+        "Den har blivit mycket mindre blå",
+        "Den har blivit helt gröna",
+        "Den har inte förändrats alls"
+      ],
+      "correct": 0,
+      "fact": "Universums färg har blivit mycket mindre blå eftersom rödare stjärnor har blivit vanligare."
+    },
+    {
+      "q": "Vad heter det vinnande namnet som röstades fram på den genomsnittliga färgen?",
+      "options": [
+        "Galactic Gold",
+        "Space Beige",
+        "Cosmic Latte"
+      ],
+      "correct": 2,
+      "fact": "I en tävling om att namnge färgen vann bidraget cosmic latte, bland andra förslag som skyvory och univeige."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du har en jättestor målarfärgspott och häller i färg från varenda stjärna i hela rymden. Om man blandar allt ljus tillsammans, vilken färg tror du att det blir? Det blir faktiskt en ljus beige färg! Det är lite som om rymden själv har färgen av kaffe med massor av mjölk i. Forskare har räknat ut detta genom att titta på ljuset från hundratusentals galaxer.",
+    "nyborjare": "Vad händer om man blandar ljuset från alla stjärnor i universum till en enda färg? Astronomer ställde sig denna kluriga fråga när de ville undersöka vilka stjärnor som är vanligaste i närliggande galaxer. Genom att analysera ljuset från ungefär 200 000 galaxer från en stor undersökning som kallas 2dF Galaxy Redshift Survey, kunde de räkna ut ett genomsnitt. Svaret blev en beige nyans som har färgkoden #FFF8E7 i datorer. Efter en tävling fick denna genomsnittsfärg det passande namnet cosmic latte.",
+    "entusiast": "Genom att kompilera och beräkna det utsända ljuset från en av de största analyserade galaxproverna någonsin – de 200 000 galaxerna i 2dF Galaxy Redshift Survey – kunde astronomer bestämma universums sammansatta färg. Den resulterande kosmiska spektralmixen uppvisar emission över hela det elektromagnetiska spektrumet, men har en enda villkorligt uppfattad kompositfärg motsvarande nyansen av beige med datorkoden #FFF8E7. Analysen visar dessutom att denna färg har blivit avsevärt mindre blå under de senaste 10 miljarder åren, vilket indikerar att äldre och rödare stjärnor gradvis har blivit mer dominerande. Efter en namntävling med bidrag som skyvory och univeige, blev det vinnande namnet på denna universella genomsnittston cosmic latte."
+  }
+}

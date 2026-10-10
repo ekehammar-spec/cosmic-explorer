@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-26",
+  "title": "Mirrored Meteor and Milky Way",
+  "title_sv": "Speglad meteor och Vintergatan",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=2000&h=1334&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+  "credit": "Jeff Dai ( TWAN )",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBAgMEBv/EACAQAAICAwABBQAAAAAAAAAAAAECAAMEESESMTJBUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDlMSkEgR/ZgqlFJbRDAnUQYObQSPJwh+m5Nw5Fltq3m0+ae0qeARVRkYoViAItvp0DyMb8u5sxTpBS+hr5Ew5JXvYqEAMuHYehI/IQkF2vt2D5nY7uQ11jb25MIQP/2Q==",
+  "quiz": [
+    {
+      "q": "Vad är det för färgglatt streck som syns på himlen i bilden?",
+      "options": [
+        "Ett norrsken",
+        "Ett meteorstreak från Perseiderna",
+        "En satellit som reflekterar solljus"
+      ],
+      "correct": 1,
+      "fact": "Strecket är ett stjärnfall, närmare bestämt en Perseid-meteor som svepte över natthimlen den 15 augusti."
+    },
+    {
+      "q": "Vad är det stora runda föremålet i bildens förgrund?",
+      "options": [
+        "En stor parabolantenn för radiovågor",
+        "Ett spegelsystem för ett teleskop",
+        "En solpanel för rymdforskning"
+      ],
+      "correct": 1,
+      "fact": "Föremålet är den 23 meter stora spegeln på teleskopet LST-1, uppbyggt av 198 hexagonala spegelsegment."
+    },
+    {
+      "q": "Vilken typ av ljusblixtar är teleskopet LST-1 primärt designat för att upptäcka?",
+      "options": [
+        "Synliga ljusblixtar från högenergetiska gammastrålar",
+        "Radiovågor från avlägsna planeter",
+        "Infraröd strålning från unga stjärnor"
+      ],
+      "correct": 0,
+      "fact": "LST-1 är byggt för att upptäcka extremt korta atmosfäriska ljusblixtar som varar ungefär en miljarddels sekund, utlösta av kosmiska gammastrålar."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att natthimlen är ett svart tivolitält fullt med glittrande diamanter. Ibland svischar en stjärna förbi i ett färgglatt streck, precis som när man drar ett sprakande stjärnbloss i luften! Det kallas för ett stjärnfall. Framför stjärnorna står en stor, silvrig jätteskål som ser ut som en jättestor parabol. Den är egentligen en spegel som samlar upp ljus från rymden, och den speglar till och med det lysande stjärnfallet så det syns dubbelt.",
+    "nyborjare": "Den här bilden fångar ett vackert ögonblick över Kanarieöarna. På himlen syns ett lysande spår efter en meteor från meteorsvärmen Perseiderna. Bredvid sträcker Vintergatans stjärnor och mörka stoftmoln ut sig. I förgrunden står en imponerande konstruktion: en 23 meter stor spegel som hör till teleskopet LST-1. Teleskopet tillhör observatoriet Cherenkov Telescope Array. Dess uppgift är att fånga upp extremt korta ljusblixtar i atmosfären, vilka uppstår när högenergetisk gammastrålning från avlägsna galaxer träffar jorden. Den här speciella natten speglade dessutom några av spegelns segment den färgstarka meteoren.",
+    "entusiast": "Fotografiet, taget vid Observatorio del Roque de los Muchachos på La Palma, visar en Perseid-meteor den 15 augusti mot bakgrund av Vintergatans centrala regioner och dess distinkta interstellära stoftmoln. I förgrunden dominerar den 23 meter i diameter stora primärspegeln till Large-Sized Telescope (LST-1), som är det första färdigställda teleskopet på norra halvklotet för det innovativa Cherenkov Telescope Array Observatory (CTAO). LST-1 består av 198 hexagonala spegelsegment och en högeffektiv, pixeliserad kamera. Dess primära vetenskapliga mål är att detektera Cherenkov-strålning – de mycket svaga, korta atmosfäriska ljusblixtar som varar omkring en nanosekund och som genereras när extremt energirika gammastrålar från extragalaktiska källor, såsom aktiva galaxkärnor och gammablixtar, interagerar med jordens atmosfär. Som en fascinerande slump reflekterade LST-1:s individuella spegelsegment denna natt även det atmosfäriska spåret efter den förbipasserande meteoren."
+  }
+}

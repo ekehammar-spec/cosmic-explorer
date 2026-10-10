@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-13",
+  "title": "Comet NEOWISE Rising Over the Adriatic Sea",
+  "title_sv": "Kometen NEOWISE stiger över Adriatiska havet",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Comet_snapshot.png?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Comet_snapshot.png?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Comet_snapshot.png?w=1080&h=1350&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
+  "credit": "Paolo Girotti",
+  "w": 384,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQb/xAAjEAACAAUCBwAAAAAAAAAAAAAAAQIDERIUIVEiMkJSYXGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABkRAQEAAwEAAAAAAAAAAAAAAAARAiEiUf/aAAwDAQACEQMRAD8A4WhlB1gOA0VGE0MoOsMtFRFTEdeeD6Lik29UJNy5vcCnzolVar0QmXq3KhwrRpMLZXkmZMzdBkTN0PZcv//Z",
+  "quiz": [
+    {
+      "q": "Vad kan man kalla kometen NEOWISE med tanke på att den kom in i solsystemets inre delar?",
+      "options": [
+        "En rymdresenär från yttre rymden",
+        "En inkräktare i inre solsystemet",
+        "En fastfrusen måne"
+      ],
+      "correct": 1,
+      "fact": "I underlaget kallas kometen för en inkräktare i det inre solsystemet som blev synlig för blotta ögat."
+    },
+    {
+      "q": "Vilken typ av moln syntes i förgrunden när kometen steg upp över havet?",
+      "options": [
+        "Nattlysande moln",
+        "Tjocka regnmoln",
+        "Vardagliga stormmoln"
+      ],
+      "correct": 0,
+      "fact": "Kometen fångades när den steg upp genom ett förgrundslandskap av vackra, undulerande och nattlysande moln."
+    },
+    {
+      "q": "Hur skapades den dramatiska videon som bilden kommer ifrån?",
+      "options": [
+        "Genom en enda lång exponering",
+        "Genom en tecknad animation",
+        "Genom att kombinera över 240 bilder"
+      ],
+      "correct": 2,
+      "fact": "Videon är en så kallad timelapse som bygger på över 240 bilder tagna under en halvtimmes tid."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en stor snöboll av is och grus som flyger långt borta i rymden! Den här kometen heter NEOWISE. När den kom nära solen började isen smälta och bildade en lång svans som glittrade på himlen. Fotografen fick gå upp jättetidigt på morgonen för att se den stiga upp som en magisk glödande prick över det mörka havet. Det ser ut som en glittrande raket som har flugit hela vägen från stjärnorna.",
+    "nyborjare": "Bilden visar den berömda kometen C/2020 F3, mer känd som kometen NEOWISE, när den stiger upp före gryningen över Adriatiska havet i Italien. Kometen var en av de få som under det här seklet blivit synliga för blotta ögat utan teleskop. Det är en tidsresa i form av en timelapse-video skapad av över 240 bilder under trettio minuter. Runt kometen syns sällsynta nattlysande moln och i bakgrunden gnistrar avlägsna stjärnor.",
+    "entusiast": "Denna händelse fångar kometen C/2020 F3 (NEOWISE) den 8 juli 2020, en av århundradets mest spektakulära kometer för det nakna ögat. Kometen är en inkräktare i det inre solsystemet med en fast kärna som mäter ungefär fem kilometer i diameter. Från denna kärna emanerar både jon- och stoftsvansar som förblev oväntat ljusstarka i över en månad. Kompositionen är en tidsförskjuten video bestående av drygt 240 sammansatta exponeringar tagna under 30 minuter. Kometen stiger genom ett skikt av vågiga, lysande nattmoln mot en bakgrund av avlägsna fiksstjärnor, vilket illustrerar dynamiken hos solsystemets mindre himlakroppar."
+  }
+}
