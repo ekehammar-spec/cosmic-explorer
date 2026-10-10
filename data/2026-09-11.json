@@ -2,134 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-11",
-  "title": "M83: The Southern Pinwheel",
-  "title_sv": "M83: Södra pinwheelgalaxen",
+  "title": "Sun Emits a Mid-Level Flare on Dec. 4, 2014",
+  "title_sv": "Solen sänder ut en medelstark solstorm den 4 december 2014",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg?w=3828&h=3798&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-  "credit": "Aldo Zanetti",
-  "w": 480,
-  "h": 476,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgADAQIH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIAAwURBCExEhNBUTJCgf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAwDAQACEQMRAD8A5/zLEpM/AkoqHcL7MX6GxpVWmnQXYj6xalEalB6YBZcDwZURGl1tqaXRlRgkn9g+uoWqwEhjFJyjZHMWW299OlVR8wMEZxmEFJB2m2SvB8ZkSi46/u0iSVXb3kwzUbJ439yd5yN2JxK+ZB//2Q==",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000879/GSFC_20171208_Archive_e000879~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000879/GSFC_20171208_Archive_e000879~thumb.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000879/GSFC_20171208_Archive_e000879~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000879",
+  "credit": "NASA/GSFC",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000879",
+  "w": 673,
+  "h": 579,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQIGAAED/8QAKBAAAgEDAgUDBQAAAAAAAAAAAQIDAAQRBRITISIxUQZBYRQyM3HB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAGhEBAQADAQEAAAAAAAAAAAAAAQACESEiMf/aAAwDAQACEQMRAD8Ap8UxjnDADkftYZFLaO9iJp5LuNiQvRsGBuzR80gjmTYOTAFmbB/dOaZ6fu9TtpJbVF4SnmWbBJHioDdpOXa8dHuozbQiLMZORk5HuahNKr6CySDrD9LAZ5Y96lFp2+/W0SQNkYWV2wCvx/K16it49Mtorbil3A3OfJNE4zbqrv3YBxjtS9tqN7FAIreaQAHIKnG2i3qcP5CuTjPbNIKfICSZ7iGP6iSRhw+Y3N3PgUVqeqyX83ElJBxg/NZqjMH4YJ2L2FFGqPXWnPNOF//Z",
   "quiz": [
     {
-      "q": "Vad är det som ger spiralgalaxer som M83 deras vackra färgskiftningar med blå armar och rödaktiga områden?",
+      "q": "Vad är en solstorm för något?",
       "options": [
-        "Solen och andra gula stjärnor i mitten",
-        "Unga blå stjärnor och röda gasmoln",
-        "Reflekterande isringar runt galaxens kärna"
-      ],
-      "correct": 1,
-      "fact": "De blå områdena består av nyfödda, varma stjärnor, medan de rödaktiga fläckarna är lysande gasmoln där nya stjärnor bildas."
-    },
-    {
-      "q": "Ungefär hur lång tid tar det för ljuset att färdas från M83 till jorden?",
-      "options": [
-        "12 miljoner år",
-        "40 000 år",
-        "150 miljarder år"
+        "En plötslig och kraftfull energiexplosion från solens yta",
+        "Ett moln av snö och is som faller genom rymden",
+        "När solen tillfälligt slutar skina i flera timmar"
       ],
       "correct": 0,
-      "fact": "M83 ligger omkring 12 miljoner ljusår bort, vilket betyder att ljuset vi ser i våra teleskop lämnade galaxen för 12 miljoner år sedan."
+      "fact": "En solstorm är en enorm urladdning av magnetisk energi som slungar ut strålning och laddade partiklar ut i rymden."
     },
     {
-      "q": "Vad är det som gör att galaxens kärna lyser så starkt i röntgenstrålning?",
+      "q": "Varför ser solens yta så olika ut i olika bilder?",
       "options": [
-        "En enorm samling av supernovorester som svarta hål och neutronstjärnor",
-        "Kraftiga vulkanutbrott på planeter nära centrum",
-        "Att galaxen roterar snabbare än ljusets hastighet"
+        "Solen byter färg helt beroende på vilken veckodag det är",
+        "Olika våglängder av ljus används för att visa olika temperaturer och strukturer",
+        "Bilderna målas alltid för hand av forskare på jorden"
       ],
-      "correct": 2,
-      "fact": "Kärnan visar en hög koncentration av neutronstjärnor och svarta hål som bildats i en intensiv period av stjärnbildning."
+      "correct": 1,
+      "fact": "Genom att avbilda solen i skilda våglängder, som ultraviolett ljus, kan forskare studera gaser med olika temperaturer."
+    },
+    {
+      "q": "Vilken roll spelar solen i vårt solsystem?",
+      "options": [
+        "Den fungerar som en planet som kretsar kring jorden",
+        "Den är en medelstor stjärna som håller alla planeter i bana med sin gravitation",
+        "Den skapar inget eget ljus utan speglar bara ljuset från andra stjärnor"
+      ],
+      "correct": 1,
+      "fact": "Solen är stjärnan i centrum av vårt solsystem och dess enorma dragningskraft håller alla planeter, asteroider och kometer på plats."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en enorm fyrverkerisnurra som snurrar långt ute i rymden. Den här galaxen är som en stor stjärnhop full av glittrande lampor. I mitten lyser den extra starkt, och runt omkring slingrar sig armar som är fulla av blå stjärnor och röda gasmoln. Det är som ett gigantiskt konstverk gjort av stjärnor som ligger tolv miljoner ljusår bort från oss.",
-    "nyborjare": "M83, som också kallas Södra pinwheelgalaxen, är en vacker spiralgalax belägen cirka tolv miljoner ljusår från jorden i stjärnbilden Vattenslangen. Galaxen har en diameter på 40 000 ljusår, vilket gör den mindre än vår egen Vintergatan. Dess framträdande spiralarmar är fyllda med mörka stoftstråk, blå stjärnhopar och röda områden där nya stjärnor föds. På grund av dessa röda regioner kallas den ibland för Tusenrubingalaxen. I dess ljusstarka kärna finns en stor mängd svarta hål och neutronstjärnor som bildats efter intensiva perioder av stjärnbildning.",
-    "entusiast": "M83 är en praktfull spiralgalax av typen SAB(s)c, belägen i utkanten av stjärnbilden Vattenslangen på ett avstånd av ungefär 12 miljoner ljusår. Med en fysisk storlek på cirka 40 000 ljusår i diameter är den betydligt kompaktare än Vintergatan. Galaxens morfologi domineras av framträdande spiralarmar markerade av stoftband, unga OB-associationer och H II-regioner, vilka givit upphov till smeknamnet Tusenrubingalaxen tack vare de intensivt lysande stjärnbildningsområdena. Kinematiskt och dynamiskt är M83 en del av en galaxgrupp som även innefattar den aktiva galaxen Centaurus A. Kärnområdet uppvisar en exceptionell röntgenluminositet, vilket avslöjar en hög population av kompakta objekt såsom neutronstjärnor och svarta hål, rester efter en våldsam och storskalig stjärnbildningsburst."
+    "barn": "Tänk dig att sola sig en varm sommardag, men att solen plötsligt nyser iväg en jättestor gnista ut i rymden! På den här bilden ser vi just en sådan häftig solstorm som sprutar eld och energi. Det är som ett jättelikt glödande fyrverkeri som brinner långt bort i rymden, långt bortom molnen.",
+    "nyborjare": "Solen är en aktiv stjärna och ibland sker kraftfulla utbrott på dess yta som kallas solstormar. När magnetfält i solens atmosfär omstruktureras frigörs enorma mängder energi. Forskare studerar dessa fenomen med hjälp av rymdteleskop som fångar upp osynligt ljus, till exempel extremt ultraviolett ljus. Genom att blanda olika våglängder av detta ljus, här representerat i skimrande blågröna och gyllene toner, kan astronomer se detaljer som annars skulle vara dolda för våra ögon.",
+    "entusiast": "Solens yttre atmosfär, koronan, är källan till storslagna plasmaurladdningar och flare-utbrott. Händelser som denna M-klass-flare drivs av magnetisk rekonconnection i solens korona, där magnetfält linjerar om sig och omvandlar magnetisk energi till kinetisk energi, värme och strålning. Observationer görs ofta av specialiserade observatorier i rymden som Solar Dynamics Observatory. Genom att kombinera specifika våglängder som 131 och 171 Ångström kan solfysiker kartlägga extremt het plasma med temperaturer på flera miljoner kelvin, vilket ger avgörande insikter i solens dynamiska cykler och rymdvädrets påverkan på jorden."
   },
   "terms": [
     {
-      "term": "spiralgalax",
-      "explanation": "En typ av stjärnsystem som kännetecknas av en platt, roterande skiva med ljusstarka armar som snurrar ut från en central kärna."
+      "term": "solstorm",
+      "explanation": "Ett kraftfullt utbrott av energi och laddade partiklar som kastas ut från en stjärnas yta."
     },
     {
-      "term": "ljusår",
-      "explanation": "Det avstånd som en ljusstråle färdas på ett helt jordår, vilket motsvarar ungefär 9,46 biljoner kilometer."
+      "term": "koronan",
+      "explanation": "Den yttersta och mycket heta delen av en stjärnas atmosfär som sträcker sig ut i rymden."
     },
     {
-      "term": "Vintergatan",
-      "explanation": "Vår egen hemgalax där solsystemet är beläget, innehållande hundratals miljarder stjärnor."
+      "term": "våglängder",
+      "explanation": "Måttet på avståndet mellan upprepade punkter i en vågrörelse, vilket avgör vilken typ av ljus det handlar om."
     },
     {
-      "term": "svarta hål",
-      "explanation": "Himlakroppar med en så enorm gravitation att ingenting, inte ens ljuset, kan undkomma deras närhet."
-    },
-    {
-      "term": "neutronstjärnor",
-      "explanation": "Extremt täta restprodukter efter att tunga stjärnor har exploderat i en supernova."
+      "term": "plasma",
+      "explanation": "Ett tillstånd av materia där atomerna har delats upp i laddade partiklar på grund av extrem hetta."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a huge fireworks pinwheel spinning far out in space. This galaxy is like a giant star cluster full of sparkling lights. In the middle it shines extra bright, and all around it wrap arms full of blue stars and red gas clouds. It is like a gigantic work of art made of stars located twelve million light-years away from us.",
-      "nyborjare": "M83, also known as the Southern Pinwheel Galaxy, is a beautiful spiral galaxy located about twelve million light-years from Earth in the constellation Hydra. The galaxy has a diameter of 40,000 light-years, making it smaller than our own Milky Way. Its prominent spiral arms are filled with dark dust lanes, blue star clusters, and red regions where new stars are born. Due to these red regions, it is sometimes called the Thousand-Ruby Galaxy. In its bright core lies a large number of black holes and neutron stars formed after intense periods of star formation.",
-      "entusiast": "M83 is a magnificent SAB(s)c spiral galaxy situated near the southeastern tip of the constellation Hydra at a distance of approximately 12 million light-years. With a physical size of about 40,000 light-years across, it is significantly more compact than the Milky Way. The morphology of the galaxy is dominated by prominent spiral arms traced by dust lanes, young OB associations, and H II regions, which have earned it the nickname the Thousand-Ruby Galaxy due to its intensely glowing star-forming regions. Kinematically, M83 is a member of a galaxy group that includes the active galaxy Centaurus A. The core region exhibits an exceptional X-ray luminosity, revealing a high population of compact objects such as neutron stars and black holes, remnants of a violent and large-scale star formation burst."
+      "barn": "Imagine feeling the warm sun on a summer day, but suddenly the sun sneezes a huge glowing spark far out into space! In this picture, we see just such an exciting solar flare spraying light and energy. It looks like a giant glowing firework burning high up in the sky, far beyond the clouds.",
+      "nyborjare": "The sun is an active star, and sometimes powerful eruptions occur on its surface known as solar flares. When magnetic fields in the solar atmosphere twist and reconnect, massive amounts of energy are released. Researchers study these phenomena using space telescopes that capture invisible light, such as extreme ultraviolet light. By blending different wavelengths of this light, shown here in teal and gold tones, astronomers can reveal details that would otherwise remain hidden from our eyes.",
+      "entusiast": "The sun's outer atmosphere, the corona, is the source of magnificent plasma ejections and flare events. Phenomena like this M-class flare are driven by magnetic reconnection in the solar corona, where magnetic field lines snap and realign, converting magnetic energy into kinetic energy, intense heat, and radiation. Observations are frequently conducted by specialized orbital observatories like the Solar Dynamics Observatory. By combining specific wavelengths such as 131 and 171 Angstroms, solar physicists can map extremely hot plasma reaching millions of kelvins, providing vital insights into solar dynamics and space weather."
     },
     "terms": [
       {
-        "term": "spiral galaxy",
-        "explanation": "A type of stellar system characterized by a flat, rotating disk with bright arms winding out from a central core."
+        "term": "solar flare",
+        "explanation": "A sudden and intense burst of radiation and energy erupting from the surface of a star."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance that a beam of light travels in one Earth year, corresponding to roughly 9.46 trillion kilometers."
+        "term": "corona",
+        "explanation": "The outermost layer of a star's atmosphere, consisting of extremely hot gas extending into space."
       },
       {
-        "term": "Milky Way",
-        "explanation": "Our own home galaxy where the solar system is located, containing hundreds of billions of stars."
+        "term": "wavelengths",
+        "explanation": "The physical measurement between peaks in a wave of light, determining its specific type or color."
       },
       {
-        "term": "black holes",
-        "explanation": "Celestial bodies with gravity so immense that nothing, not even light, can escape their vicinity."
-      },
-      {
-        "term": "neutron stars",
-        "explanation": "Extremely dense remnants left behind after massive stars explode in a supernova."
+        "term": "plasma",
+        "explanation": "A state of matter where atoms are stripped of their electrons due to extremely high temperatures."
       }
     ],
     "quiz": [
       {
-        "q": "What gives spiral galaxies like M83 their beautiful color variations with blue arms and reddish areas?",
+        "q": "What is a solar flare?",
         "options": [
-          "The Sun and other yellow stars in the center",
-          "Young blue stars and glowing red gas clouds",
-          "Reflective ice rings surrounding the galactic core"
-        ],
-        "correct": 1,
-        "fact": "The blue regions consist of newly formed, hot stars, while the reddish spots are glowing gas clouds where new stars are being born."
-      },
-      {
-        "q": "Approximately how long does it take for light to travel from M83 to Earth?",
-        "options": [
-          "12 million years",
-          "40,000 years",
-          "150 billion years"
+          "A sudden and powerful flash of energy and radiation from the sun's surface",
+          "A cloud of ice and snow falling through space",
+          "When the sun temporarily stops shining for several hours"
         ],
         "correct": 0,
-        "fact": "M83 lies about 12 million light-years away, meaning the light we see in our telescopes left the galaxy 12 million years ago."
+        "fact": "A solar flare is a massive release of magnetic energy that flings radiation and charged particles out into space."
       },
       {
-        "q": "What causes the core of the galaxy to shine so brightly in X-ray energies?",
+        "q": "Why do images of the sun often look different in color?",
         "options": [
-          "A massive collection of supernova remnants like black holes and neutron stars",
-          "Powerful volcanic eruptions on planets near the center",
-          "The galaxy rotating faster than the speed of light"
+          "The sun changes its physical color depending on the day of the week",
+          "Different wavelengths of light are used to highlight specific temperatures and structures",
+          "The images are always hand-painted by researchers on Earth"
         ],
-        "correct": 2,
-        "fact": "The core shows a high concentration of neutron stars and black holes left from an intense burst of star formation."
+        "correct": 1,
+        "fact": "By capturing the sun in distinct wavelengths, such as ultraviolet light, scientists can study gases at various temperatures."
+      },
+      {
+        "q": "What role does the sun play in our solar system?",
+        "options": [
+          "It acts as a planet orbiting around the Earth",
+          "It is a star at the center that holds all planets in orbit with its gravity",
+          "It produces no light of its own and merely reflects light from distant stars"
+        ],
+        "correct": 1,
+        "fact": "The sun is the star at the center of our solar system, and its massive gravitational pull keeps all planets, asteroids, and comets in place."
       }
     ]
   }

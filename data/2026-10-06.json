@@ -2,134 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-06",
-  "title": "A Complete Auroral Oval from SMILE",
-  "title_sv": "En komplett norrskensoval från SMILE",
+  "title": "Godzilla Nebula Imaged by Spitzer",
+  "title_sv": "Godzillanebulosan fångad av Spitzer",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm-1.jpeg?w=512&h=512&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
-  "credit": "ESA, CAS, SMILE, UVI",
-  "w": 480,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQABAgMEBv/EACcQAAEDAwIEBwAAAAAAAAAAAAEAAgMEESEFYRIiMlETFTFBgaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERJB/9oADAMBAAIRAxEAPwChrSfdWMBuM/STAAw3B2ynabFaeE2v0KeUucOESs8W3QcfF0NmifTylkjS0jBBR6leycCTi4XnqB77Ja3C2ahE4HPGQ0nuD6Iptp4xKhZqOcBwpAqsGykCE4KYX088oWzV5hFpgjJ5pXAgbBDKesip2dJe/fAWSqqZKuUySO/AOyHhutGdpTh//9k=",
+  "url": "https://images-assets.nasa.gov/image/PIA24579/PIA24579~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA24579/PIA24579~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA24579/PIA24579~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA24579",
+  "credit": "NASA/JPL-Caltech",
+  "src": "library",
+  "id": "PIA24579",
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQMEBv/EACUQAAICAQMDBAMAAAAAAAAAAAECAxEABBIhMUFRBQYTYSIy8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIRITESQf/aAAwDAQACEQMRAD8A5eWFg5B6DItET2xlXGogjUJXxgix3575BdODKNxITocbNZWyRvYZJo5IwpcBd5IFkZmkQqaNGvHOL6wRqHVLKgjazdThrqbFkWc2W/oaezpPb2jbV7yk8ahTyhYf3XL+oRRxatoWNuP2o4BoNQdLOs0fBU3Z5zUZ2nkZxwzGyT5xExSrOdBV5c8KzRxIv5C/rzhcwFkbQDfGKlGMPysCVvaT95hnj3WwByicCuH/2Q==",
   "quiz": [
     {
-      "q": "Varför är det omöjligt att se en komplett norrskensoval direkt från marken?",
+      "q": "Vad är egentligen en nebulosa?",
       "options": [
-        "Jordens atmosfär är för tjock för att släppa igenom norrskenets ljus",
-        "Norrskensovalen bildar en så stor cirkel runt jordens magnetiska pol att den inte ryms i synfältet",
-        "Norrsken syns enbart under natten vilket försvårar översikten"
-      ],
-      "correct": 1,
-      "fact": "En norrskensoval sträcker sig i en enorm ring runt den magnetiska polen, vilket gör att en observatör på marken bara kan se en liten bit av den i taget."
-    },
-    {
-      "q": "Vad är det huvudsakliga vetenskapliga målet med rymdfarkosten SMILE?",
-      "options": [
-        "Att kartlägga alla stjärnor i Vintergatan med extrem noggrannhet",
-        "Att mäta avståndet mellan jorden och solen i realtid",
-        "Att förstå hur solvinden interagerar med jordens magnetosfär"
-      ],
-      "correct": 2,
-      "fact": "Genom att studera hur solvinden samspelar med magnetosfären kan forskare bättre skydda både astronauter, rymdfarkoster och elnät på jorden mot kraftiga solstormar."
-    },
-    {
-      "q": "Varför kan rymdfarkosten SMILE fånga bilder av norrsken även under dagen?",
-      "options": [
-        "Därför att instrumentet använder ultraviolett ljus som inte drunknar i solens vanliga strålning",
-        "Eftersom farkosten har en inbyggd skärm som blockerar allt solljus",
-        "Genom att konstgjort färga om bilderna i efterhand för att efterlikna natt"
+        "Ett jättelikt moln av gas och stoft i rymden",
+        "En döende stjärna som har exploderat",
+        "En liten planet som kretsar kring en främmande sol"
       ],
       "correct": 0,
-      "fact": "Genom att observera i ultraviolett ljus kan forskare urskilja norrskenets svaga glöd även när solen lyser upp jordens atmosfär."
+      "fact": "Nebulosor är enorma skyar av gas och rymdstoft som ofta fungerar som födelseplatser för nya stjärnor."
+    },
+    {
+      "q": "Varför används infrarött ljus för att titta på vissa delar av rymden?",
+      "options": [
+        "Det färdas mycket snabbare än vanligt synligt ljus",
+        "Det kan tränga igenom tjocka stoftmoln som döljer stjärnor",
+        "Det visar exakt hur gamla de omgivande stjärnorna är"
+      ],
+      "correct": 1,
+      "fact": "Infrarött ljus har längre våglängder än det synliga ljuset och kan därför passera genom kosmiskt stoft som annars blockerar sikten."
+    },
+    {
+      "q": "Vad händer när massiva stjärnor får slut på bränsle och dör i en supernova?",
+      "options": [
+        "De drar in alla planeter i en absolut tystnad",
+        "De bildar gigantiska svarta hål som slukar hela galaxer",
+        "De exploderar och formar om sin omgivning samt startar ny stjärnbildning"
+      ],
+      "correct": 2,
+      "fact": "När tunga stjärnor exploderar som supernovor sprider de grundämnen i rymden och trycker ihop gas som sätter fart på bildandet av nya stjärnor."
     }
   ],
   "levels": {
-    "barn": "Har du någonsin sett ett norrsken dansa på natthimlen? Det ser ut som magiska färgband som rör sig. Men om man tittar från rymden bildar norrskenet en stor ring runt hela jorden, som en lysande krans! Det är precis som en glorifierad rockring av ljus som snurrar högt uppe i luften. Rymdfarkoster kan fota hela denna ring på en gång, till och med när solen skiner.",
-    "nyborjare": "Ett norrsken är ett vackert ljusfenomen som uppstår när laddade partiklar från solen träffar jordens atmosfär. Från marken kan vi bara se små delar av detta skådespel i taget. För att se hela bilden krävs rymdfarkoster som kretsar högt ovanför oss. Genom att använda ultraviolett ljus kan forskare till och med upptäcka norrsken mitt på dagen. Instrumenten visar hur rörliga och föränderliga dessa ljusfenomen faktiskt är under en timmes tid. Detta hjälper forskare att förstå hur jorden skyddas av sin magnetosfär, vilket är det osynliga magnetfält som omger vår planet. Solvinden, som är en ständig ström av partiklar från solen, kan nämligen orsaka kraftiga solstormar som kan störa både teknik och elnät.",
-    "entusiast": "Att observera en hel norrskensoval är en utmaning från marken eftersom den bildar en oerhört stor cirkel runt jordens magnetiska pol. Med hjälp av specialiserade rymdfarkoster som SMILE, ett samarbetsprojekt mellan ESA och CAS, öppnas nya möjligheter att studera dessa fenomen i detalj. Genom att fokusera på ultraviolett ljus kan instrumenten fånga dagtidsaurorer som annars skulle drunknas i solens synliga strålning. Tidssekvenser som spänner över en timme avslöjar norrskenets dynamiska och turbulenta natur i övre atmosfären. Det yttersta målet för dessa mätningar är att öka förståelsen för hur solens solvind interagerar med jordens magnetosfär. Kunskapen är kritisk för att kunna skydda satelliter, rymdfarkoster och markbundna elnät mot de potentiellt förödande effekterna av framtida solstormar."
+    "barn": "Tänk dig ett jättestort moln av färggrann rymdgas och glittrande stoft som svävar långt borta i Vintergatan. Med lite fantasi kan man se mönster som liknar ett rymdmonster, nästan som en gigantisk Godzilla! Det här molnet är egentligen en enorm barnkammare där nya, glödande stjärnor föds ur gas och damm. Det är som ett hemligt lekland i rymden där kosmiska underverk skapas.",
+    "nyborjare": "Den här bilden visar en nebulosa, vilket är ett enormt moln av gas och stoft som befinner sig i vår galax, Vintergatan. Området har fått smeknamnet Godzillanebulosan eftersom formerna i gasen kan likna ett monster. Eftersom molnet är så tätt är det svårt att se rakt igenom det med vanligt ljus. Därför har man använt ett rymdteleskop som känner av infrarött ljus. Infrarött ljus är en typ av osynlig strålning med längre våglängder som kan tränga igenom det täta dammet. Olika färger i bilden representerar olika temperaturer och ämnen, där varmt stoft som värmts upp av stjärnor eller supernovaexplosioner lyser i rött.",
+    "entusiast": "Bilden är fångad av det nu pensionerade Spitzer-teleskopet som en del av GLIMPSE-undersökningen. Den visar en komplex region av interstellärt medium i stjärnbilden Skytten, belägen i Vintergatans galaktiska plan. Regionen innehåller lysande gasmoln och det aktiva området W33 på ett avstånd av omkring 7 800 ljusår från jorden. Med hjälp av infraröd astronomi kan man blicka bortom de täta stoftmoln som helt skymmer sikten i det optiska våglängdsintervallet. Olika våglängder har tilldelats specifika färger: stjärnor syns i blått och cyan på grund av kortare infraröda våglängder, medan kolväten och organiska molekyler framträder i grönt. Det röda ljuset avslöjar varmt stoft som har värmts upp av strålning från massiva stjärnor eller chockvågor från supernovor. När tunga stjärnor avslutar sina liv och exploderar som supernovor omformar de den omgivande miljön, komprimerar material och driver på cykeln för nästa generation av stjärnbildning."
   },
   "terms": [
     {
-      "term": "norrsken",
-      "explanation": "Ett färgstarkt ljusspel på himlen som bildas när laddade partiklar från rymden krockar med gaser i jordens atmosfär."
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och rymdstoft som ofta fungerar som en födelseplats för nya stjärnor."
     },
     {
-      "term": "atmosfär",
-      "explanation": "Det tjocka lager av gaser som hålls kvar runt en planet av dess egen tyngdkraft."
+      "term": "Vintergatan",
+      "explanation": "Den gigantiska galax där vårt solsystem och miljarder andra stjärnor befinner sig."
     },
     {
-      "term": "magnetosfär",
-      "explanation": "Det område i rymden som domineras av en planets magnetfält och skyddar mot strålning från solen."
+      "term": "supernova",
+      "explanation": "Den våldsamma och kraftfulla explosion som inträffar när en mycket tung stjärna dör."
     },
     {
-      "term": "solvind",
-      "explanation": "En kontinuerlig ström av laddade partiklar som flödar ut i rymden från solens yttersta lagring."
-    },
-    {
-      "term": "solstorm",
-      "explanation": "Ett kraftigt utbrott av energi och partiklar från solen som kan störa kommunikationer och elnät på jorden."
+      "term": "ljusår",
+      "explanation": "Det enorma avstånd som ljuset hinner färdas under ett helt jordår."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Have you ever seen an aurora dancing in the night sky? It looks like magical colorful ribbons moving around. But if you look from space, the aurora forms a huge ring all around the Earth, like a glowing crown! It is just like a giant hula hoop of light spinning high up in the air. Spacecraft can take pictures of this entire ring at once, even when the sun is shining.",
-      "nyborjare": "An aurora is a beautiful light phenomenon that occurs when charged particles from the sun collide with Earth's atmosphere. From the ground, we can only see small parts of this spectacle at a time. To see the big picture, spacecraft orbiting high above us are required. By using ultraviolet light, researchers can even detect auroras in the middle of the day. The instruments show how mobile and variable these light displays actually are over the course of an hour. This helps scientists understand how Earth is protected by its magnetosphere, which is the invisible magnetic field surrounding our planet. The solar wind, which is a constant stream of particles from the sun, can cause powerful solar storms that might disrupt both technology and power grids.",
-      "entusiast": "Observing an entire auroral oval is a challenge from the ground because it forms an extremely large circle around the Earth's magnetic pole. Using specialized spacecraft like SMILE, a joint project between ESA and CAS, new possibilities emerge to study these phenomena in detail. By focusing on ultraviolet light, the instruments can capture daytime auroras that would otherwise be drowned out by the sun's visible radiation. Time-lapse sequences spanning about an hour reveal the dynamic and turbulent nature of the aurora in the upper atmosphere. The ultimate goal of these measurements is to increase understanding of how the sun's solar wind interacts with Earth's magnetosphere. This knowledge is critical to protect satellites, spacecraft, and ground-based electrical grids against the potentially devastating effects of future solar storms."
+      "barn": "Imagine a huge cloud of colorful space gas and glittering dust floating far away in the Milky Way. With a little imagination, you can see patterns that look like a space monster, almost like a giant Godzilla! This cloud is actually a huge nursery where new, glowing stars are born from gas and dust. It is like a secret playground in space where cosmic wonders are created.",
+      "nyborjare": "This image shows a nebula, which is a massive cloud of gas and dust located within our galaxy, the Milky Way. The region has earned the nickname the Godzilla Nebula because the shapes in the gas resemble a monster. Because the cloud is so dense, it is difficult to see through it using regular light. Therefore, a space telescope sensitive to infrared light was used. Infrared light is a type of invisible radiation with longer wavelengths that can penetrate dense dust. Different colors in the image represent different temperatures and elements, with warm dust heated by stars or supernova explosions glowing in red.",
+      "entusiast": "The image was captured by the now-retired Spitzer Space Telescope as part of the GLIMPSE survey. It reveals a complex region of the interstellar medium in the constellation Sagittarius, situated along the galactic plane of the Milky Way. The region contains glowing gas clouds and the active star-forming region W33 at a distance of about 7,800 light-years from Earth. By utilizing infrared astronomy, we can peer beyond the dense dust clouds that completely obscure visibility in the optical wavelength range. Different wavelengths are assigned specific colors: stars appear blue and cyan due to shorter infrared wavelengths, while hydrocarbons and organic molecules appear green. Red light reveals warm dust heated by radiation from massive stars or shockwaves from supernovae. When heavy stars end their lives and explode as supernovae, they reshape the surrounding environment, compress material, and drive the cycle of subsequent star formation."
     },
     "terms": [
       {
-        "term": "aurora",
-        "explanation": "A colorful light display in the sky created when charged particles from space collide with gases in a planet's atmosphere."
+        "term": "nebula",
+        "explanation": "A massive cloud of gas and dust in space that often acts as a nursery for new stars."
       },
       {
-        "term": "atmosphere",
-        "explanation": "The thick layer of gases held surrounding a planet by its own gravity."
+        "term": "Milky Way",
+        "explanation": "The gigantic barred spiral galaxy that contains our solar system and billions of other stars."
       },
       {
-        "term": "magnetosphere",
-        "explanation": "The region surrounding a planet dominated by its magnetic field, protecting it from solar radiation."
+        "term": "supernova",
+        "explanation": "The powerful and luminous explosion of a massive star at the end of its life."
       },
       {
-        "term": "solar wind",
-        "explanation": "A continuous stream of charged particles flowing outward into space from the sun's outer layers."
-      },
-      {
-        "term": "solar storm",
-        "explanation": "A violent outburst of energy and particles from the sun capable of disrupting communications and power grids on Earth."
+        "term": "light-year",
+        "explanation": "The immense distance that a beam of light travels through a vacuum in one Earth year."
       }
     ],
     "quiz": [
       {
-        "q": "Why is it impossible to see a complete auroral oval directly from the ground?",
+        "q": "What is a nebula actually?",
         "options": [
-          "Earth's atmosphere is too thick to let the aurora's light pass through",
-          "The auroral oval forms such a large circle around the magnetic pole that it does not fit in the field of view",
-          "Auroras only occur during the night which makes observation difficult"
-        ],
-        "correct": 1,
-        "fact": "An auroral oval stretches in a huge ring around the magnetic pole, meaning an observer on the ground can only see a small fraction of it at a time."
-      },
-      {
-        "q": "What is the main scientific goal of the SMILE spacecraft?",
-        "options": [
-          "To map every star in the Milky Way with extreme precision",
-          "To measure the distance between the Earth and the Sun in real time",
-          "To understand how the solar wind interacts with Earth's magnetosphere"
-        ],
-        "correct": 2,
-        "fact": "By studying how the solar wind interacts with the magnetosphere, researchers can better protect astronauts, spacecraft, and ground-based electrical grids from severe solar storms."
-      },
-      {
-        "q": "Why can the SMILE spacecraft capture images of auroras even during the day?",
-        "options": [
-          "Because the instrument uses ultraviolet light that is not drowned out by normal sunlight",
-          "Because the spacecraft has a built-in screen that blocks all sunlight",
-          "By artificially recoloring the images afterward to mimic nighttime conditions"
+          "A giant cloud of gas and dust in space",
+          "A dying star that has collapsed completely",
+          "A small planet orbiting a distant sun"
         ],
         "correct": 0,
-        "fact": "By observing in ultraviolet light, researchers can distinguish the faint glow of the aurora even when the sun is illuminating Earth's atmosphere."
+        "fact": "Nebulae are massive clouds of interstellar gas and dust that often serve as nurseries where new stars are born."
+      },
+      {
+        "q": "Why is infrared light used to peer into certain regions of space?",
+        "options": [
+          "It travels much faster than ordinary visible light",
+          "It can penetrate dense dust clouds that obscure stars",
+          "It shows the exact age of the surrounding stars"
+        ],
+        "correct": 1,
+        "fact": "Infrared light has longer wavelengths than visible light, allowing it to pass through cosmic dust that normally blocks our view."
+      },
+      {
+        "q": "What happens when massive stars run out of fuel and die in a supernova?",
+        "options": [
+          "They pull in all nearby planets into absolute silence",
+          "They form giant black holes that swallow entire galaxies",
+          "They explode, reshaping their surroundings and triggering new star birth"
+        ],
+        "correct": 2,
+        "fact": "When heavy stars explode as supernovae, they disperse elements and compress surrounding material to ignite the birth of new stars."
       }
     ]
   }

@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-20",
-  "title": "Analemma over the Callanish Stones",
-  "title_sv": "Analemma över Callanish Stones",
+  "title": "Triton",
+  "title_sv": "Triton",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg?w=1280&h=1477&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
-  "credit": "Giuseppe Petricca",
-  "w": 416,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgD/xAAnEAABBAEDAgYDAAAAAAAAAAABAgMEEQAFEiETkSIxMkFRsWGBof/EABgBAQADAQAAAAAAAAAAAAAAAAUAAQID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECBBEhEv/aAAwDAQACEQMRAD8AjQg5oNE4zbh37YSnTzXpxYO1iItnM7D8Y7cg7fNODqi8+WTC9ZaRNEUKK00Pk8DGaGdNYjKceebKUgElJvg3Xej2yGVNdkJSiRJkOJSbAK/yD9gYFqkhlmIltnqb1EWorJ4F8f3BndlN+UhBVlBaXK4kSaLhutuWjqAA87bq++LHdGcCz4D2yVamPvNhcd07kI2Kbvmrv9jOVqr9+J95B9x1SPsZ2jckuYYlXi+7h//Z",
+  "url": "https://images-assets.nasa.gov/image/PIA02208/PIA02208~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA02208/PIA02208~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA02208/PIA02208~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA02208",
+  "credit": "NASA/JPL",
+  "src": "library",
+  "id": "PIA02208",
+  "w": 640,
+  "h": 528,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EACcQAAIBAwQABQUAAAAAAAAAAAECEQADIQQSMUEFEzJCUXGRstHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AF3rV0qTuCOxkmeuqIlgou83CzZEv8f3dP1JBU7pjsfNFdgybh6YoCuw2wG4MTHdA1NubZJZhgk5+1UHEFQc5zU7XMSWHXtM80HSXUMkGc0VkI4OIxS9R6l+tEuk+Sc+0/iaDBlgkjEiFqb4gFKm4BA256xVPl0nOWqT4mSVMknH7oP/2Q==",
   "quiz": [
     {
-      "q": "Vilken form får solens position på himlen om man fotograferar den vid samma klockslag varje dag under ett helt år?",
+      "q": "Vilken planet tillhör Neptunus största måne Triton?",
       "options": [
-        "En cirkel",
-        "En åtta",
-        "En rät linje"
+        "Saturnus",
+        "Neptunus",
+        "Uranus"
       ],
       "correct": 1,
-      "fact": "Kombinationen av jordaxelns lutning och banans elliptiska form gör att solen rör sig i en åttaliknande figur som kallas analemma."
+      "fact": "Triton är den största månen som kretsar kring gasjätten Neptunus i det yttre solsystemet."
     },
     {
-      "q": "Vad beror solens skiftande höjd på himlen under året på?",
+      "q": "Vad är unikt med Tritons bana runt sin planet?",
       "options": [
-        "Att jordaxeln lutar",
-        "Att solen rör sig närmare jorden",
-        "Att jordens rotation saktar in"
+        "Den rör sig i motsatt riktning mot planetens rotation",
+        "Den står helt stilla ovanför samma punkt",
+        "Den byter plats med Neptunus andra månar varje år"
       ],
       "correct": 0,
-      "fact": "Det är jordaxelns lutning i förhållande till banan runt solen som gör att solljuset träffar jorden i olika vinklar under året."
+      "fact": "Triton har en retrograd bana, vilket innebär att den kretsar åt motsatt håll jämfört med hur Neptunus roterar."
     },
     {
-      "q": "Vilken roll spelar jordbanans form för bildandet av ett analemma?",
+      "q": "Varför har ytan på Triton så få nedslagskratrar?",
       "options": [
-        "Banans form gör att figuren blir helt rund",
-        "Banans elliptiska form bidrar till åttans asymmetri",
-        "Banans form saknar helt betydelse"
+        "Månen har en tjock atmosfär som bränner upp alla meteorer",
+        "Ytan är ständigt aktiv och förnyas av vulkanisk verksamhet",
+        "Den ligger i skuggan av Neptunus ringar"
       ],
       "correct": 1,
-      "fact": "Att jordens bana inte är helt cirkulär utan elliptisk gör att farten varierar, vilket påverkar solens position i sidled och skapar åttans form."
+      "fact": "Triton har en ung yta som hålls slät genom aktivitet som liknar vulkanism, där flytande kväve och is bryter igenom."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tar ett foto av solen varje dag vid samma tid. Om du klistrar ihop alla bilderna ser du att solen bildar en magisk åtta på himlen. Det är precis som att rita en osynlig racerbana i luften! Den här snygga åttan beror på att jorden lutar lite grann när den snurrar runt solen. Nedanför på marken står gamla mystiska stenar som har stått där i tusentals år.",
-    "nyborjare": "Om du går ut och fotograferar solen exakt samma klockslag varje dag under ett helt år bildar den en åttaliknande figur på himlen. Detta kallas för ett analemma. Den fascinerande formen orsakas av två saker: att jorden lutar i sin axel och att jordbanan runt solen är elliptisk och inte helt cirkulär. Vid vintersolståndet hamnar solen längst ner på denna osynliga åtta eftersom dagen är som kortast. I förgrunden syns Callanish Stones, en gammal stencirkel från bronsåldern i Skottland som byggdes för omkring 4 700 år sedan.",
-    "entusiast": "Fenomenet som avbildas är ett analemma, vilket är den komplexa kurva som solen beskriver på himlen om dess position registreras vid samma tidpunkt varje dag under ett solår. Kurvans utmärkande åttarmade form är en direkt konsekvens av två astronomiska faktorer: jordaxelns ca 23,5 graders lutning mot ekliptikan samt eccentriciteten i jordens omloppsbana, det vill säga banans elliptiska natur. Vid solstånd når solen sina yttersta extremer i de översta eller nedersta looparna, medan dagjämningar inträffar nära mittpunkterna. Bilden är sammansatt av exponeringar tagna vid middagstid nära byn Callanish i yttre Hebriderna i Skottland. Kompositionen ramas in av Callanish Stones, en megalitisk stencirkel uppförd under bronsåldern omkring 2700 före Kristus, vars eventuella ursprungliga astronomiska betydelse fortfarande debatteras av forskare."
+    "barn": "Tänk dig en stor isboll långt ut i rymden som lyser svagt i mörkret. Det här är en bild av Neptunus största måne Triton. Den är så kall att all luft nästan har fryst till is på marken. Rymdsonden Voyager 2 flög hela vägen dit för länge sedan och tog bilden när solen sken på månen från sidan så att alla höga berg och kratrar kastade långa skuggor precis som när solen går ner hemma.",
+    "nyborjare": "Den här bilden visar en närbild av Neptunus största måne Triton, tagen av rymdsonden Voyager 2. Triton är en fascinerande värld som befinner sig i det yttre solsystemet. Eftersom solen står lågt vid horisonten på månen faller långa skuggor över det isiga landskapet. Detta gör att forskarna kan se höjdskillnader, berg och dalar mycket tydligt. Månen är känd för att ha en extremt kall temperatur och gejsrar som skjuter ut kvävegas i rymden.",
+    "entusiast": "Bilden är tagen av rymdsonden Voyager 2 på under 80 000 kilometers avstånd och visar en region på norra halvklotet av Neptunus största måne Triton. Med en retrograd bana som tyder på att månen ursprungligen fångats in från Kuiperbältet uppvisar Triton en komplex geologi präglad av kryovulkanism. Solens låga infallsvinkel accentuerar topografin och avslöjar branta sluttningar och flacka slätter av kväve- och vattenis. Observationerna revolutionerade vår förståelse för de yttre delarna av solsystemet."
   },
   "terms": [
     {
-      "term": "analemma",
-      "explanation": "En kurva som visar solens skenbara position på himlen vid samma klockslag under ett år."
+      "term": "måne",
+      "explanation": "En naturlig himlakropp som kretsar i en bana runt en planet eller dvärgplanet."
     },
     {
-      "term": "elliptisk",
-      "explanation": "En oval eller sammantryckt form som liknar en utdragen cirkel."
+      "term": "rymdfarkost",
+      "explanation": "Ett farkost som skickas ut i rymden för att utforska andra världar och samla in data."
     },
     {
-      "term": "solstånd",
-      "explanation": "De två tillfällen på året då jorden lutar som mest mot eller från solen."
+      "term": "solsystem",
+      "explanation": "Ett system som består av en stjärna och alla himlakroppar som kretsar kring den."
     },
     {
-      "term": "bronsåldern",
-      "explanation": "En historisk tidsperiod då människor började tillverka föremål av metallen brons."
+      "term": "halvklot",
+      "explanation": "Ett av de två lika stora delar som en sfärisk kropp delas in i genom dess ekvator."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine taking a photo of the Sun at the exact same time every single day. If you glue all those pictures together, the Sun forms a magical figure-eight in the sky. It is just like drawing an invisible race track in the air! This cool shape happens because the Earth tilts a little bit as it spins around the Sun. Down on the ground, old mysterious stones stand quietly, having been there for thousands of years.",
-      "nyborjare": "If you go outside and photograph the Sun at the exact same time every day for a year, it traces a figure-eight pattern in the sky. This is called an analemma. The fascinating shape is caused by two main factors: the tilt of the Earth's axis and the fact that Earth's orbit is elliptical rather than a perfect circle. During the winter solstice, the Sun appears near the bottom of this loop because the day is shortest. In the foreground are the Callanish Stones, an ancient megalithic circle in Scotland built during the Bronze Age about 4 700 years ago.",
-      "entusiast": "The depicted phenomenon is an analemma, representing the curved path traced by the Sun across the sky when observed at the same mean solar time throughout a tropical year. The characteristic figure-eight shape is a direct consequence of two primary astronomical factors: the obliquity of the Earth's axis tilted at approximately 23.5 degrees, and the eccentricity of the Earth's elliptical orbit around the Sun. Solstices correspond to the extreme upper and lower apexes of the loop, while equinoxes occur near the midpoints. The composite photograph was compiled from exposures captured at local noon near the village of Callanish in the Outer Hebrides of Scotland. Framing the celestial mechanics are the Callanish Stones, a stone circle erected during the Bronze Age around 2700 BC, whose potential intentional astronomical alignments remain a subject of discussion."
+      "barn": "Imagine a giant ball of ice far out in space glowing faintly in the dark. This is a picture of Neptune's largest moon Triton. It is so cold that almost all air has frozen to ice on the ground. The spacecraft Voyager 2 flew all the way there long ago and took the picture when the sun was shining on the moon from the side, making all the high mountains and craters cast long shadows just like when the sun sets at home.",
+      "nyborjare": "This image shows a close-up of Neptune's largest moon Triton, captured by the Voyager 2 spacecraft. Triton is a fascinating world located in the outer solar system. Because the sun is low on the moon's horizon, long shadows fall across the icy landscape. This allows scientists to see differences in elevation, mountains, and valleys very clearly. The moon is known for having an extremely cold temperature and geysers that shoot nitrogen gas into space.",
+      "entusiast": "Taken by the Voyager 2 spacecraft at a distance of less than 80,000 kilometers, this image shows a region in the northern hemisphere of Neptune's largest moon Triton. Featuring a retrograde orbit suggesting it was originally captured from the Kuiper belt, Triton exhibits complex geology marked by cryovolcanism. The low solar elevation angle accentuates the topography, revealing steep slopes and smooth plains composed of nitrogen and water ice. These observations revolutionized our understanding of the outer solar system."
     },
     "terms": [
       {
-        "term": "analemma",
-        "explanation": "A curve representing the changing position of the Sun in the sky throughout the year."
+        "term": "moon",
+        "explanation": "A natural celestial body that orbits around a planet or dwarf planet."
       },
       {
-        "term": "elliptical",
-        "explanation": "A rounded shape resembling a flattened circle or an oval."
+        "term": "spacecraft",
+        "explanation": "A vehicle sent into space to explore other worlds and gather data."
       },
       {
-        "term": "solstice",
-        "explanation": "One of the two times of the year when the Earth's axis is tilted most toward or away from the Sun."
+        "term": "solar system",
+        "explanation": "A system consisting of a star and all the celestial bodies that orbit around it."
       },
       {
-        "term": "Bronze Age",
-        "explanation": "A historical period characterized by the first widespread use of metal tools."
+        "term": "hemisphere",
+        "explanation": "One of the two equal halves into which a spherical body is divided by its equator."
       }
     ],
     "quiz": [
       {
-        "q": "What shape does the Sun's position trace in the sky if photographed at the exact same time every day throughout a year?",
+        "q": "Which planet does Triton, the largest moon shown here, orbit?",
         "options": [
-          "A circle",
-          "A figure-eight",
-          "A straight line"
+          "Saturn",
+          "Neptune",
+          "Uranus"
         ],
         "correct": 1,
-        "fact": "The combination of the Earth's axial tilt and the ellipticity of its orbit causes the Sun to trace an analemma figure-eight."
+        "fact": "Triton is the largest moon orbiting the gas giant Neptune in the outer solar system."
       },
       {
-        "q": "What causes the changing height of the Sun in the sky throughout the year?",
+        "q": "What is unique about Triton's orbit around its planet?",
         "options": [
-          "The tilt of the Earth's axis",
-          "The Sun moving closer to Earth",
-          "The slowing of Earth's rotation"
+          "It moves in the opposite direction of the planet's rotation",
+          "It stays completely stationary above a single point",
+          "It swaps places with Neptune's other moons every year"
         ],
         "correct": 0,
-        "fact": "It is the axial tilt of the Earth relative to its orbital plane that changes the angle of sunlight throughout the year."
+        "fact": "Triton has a retrograde orbit, meaning it revolves in the opposite direction to how Neptune rotates."
       },
       {
-        "q": "What role does the shape of Earth's orbit play in forming an analemma?",
+        "q": "Why does the surface of Triton have relatively few impact craters?",
         "options": [
-          "The orbital shape makes the figure perfectly round",
-          "The elliptical shape contributes to the asymmetry of the figure",
-          "The orbital shape has no effect at all"
+          "The moon has a thick atmosphere that burns up all meteors",
+          "The surface is constantly active and renewed by volcanic activity",
+          "It remains hidden in the shadow of Neptune's rings"
         ],
         "correct": 1,
-        "fact": "Because Earth's orbit is elliptical rather than circular, orbital speed varies, which affects the horizontal position of the Sun and creates the loop."
+        "fact": "Triton has a young surface kept smooth by activity similar to volcanism, where liquid nitrogen and ice erupt through."
       }
     ]
   }

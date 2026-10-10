@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-13",
-  "title": "Comet NEOWISE Rising Over the Adriatic Sea",
-  "title_sv": "Kometen NEOWISE stiger upp över Adriatiska havet",
+  "title": "Superbubble in the Large Magellanic Cloud",
+  "title_sv": "Superbubbla i Stora magellanska molnet",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Comet_snapshot.png?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Comet_snapshot.png?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Comet_snapshot.png?w=1080&h=1350&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
-  "credit": "Paolo Girotti",
-  "w": 384,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQb/xAAjEAACAAUCBwAAAAAAAAAAAAAAAQIDERIUIVEiMkJSYXGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABkRAQEAAwEAAAAAAAAAAAAAAAARAiEiUf/aAAwDAQACEQMRAD8A4WhlB1gOA0VGE0MoOsMtFRFTEdeeD6Lik29UJNy5vcCnzolVar0QmXq3KhwrRpMLZXkmZMzdBkTN0PZcv//Z",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg",
+  "link": "https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/",
+  "w": 480,
+  "h": 659,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABcDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQCBQEDBv/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUSITFhcRMiQVEGFJH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAaEQEBAAIDAAAAAAAAAAAAAAABABEhAjFR/9oADAMBAAIRAxEAPwDmNPW3JIuUyDjBFNT2+mfvrHHIykAMS3Qn6pBfa+1jwR8GnrC19XV4gjx8Hed7Y3D6qzyzQ1ghCIzbukm4kyHOCPgUU/8Ak9yHaJG2EAZCLnC9u9FHJwybKpa23KjpIHL8hB1HmtUkUsVyUIKyLxwc+MVm2uGikyrbTyM9jVrexQ2+lRTLPFKz5AwehJ/tIZIaluHeR/cxPc0VO4lgcD0lfcMZZz145480VDt3PV//2Q==",
   "quiz": [
     {
-      "q": "Vad är huvudsakligen uppbyggnaden av kärnan i en komet som NEOWISE?",
+      "q": "Vad är en nebulosa som denna till största delen uppbyggd av?",
       "options": [
-        "Is, stoft och frusna gaser",
-        "Enbart kompakt järn och nickel",
-        "Glödande plasma och flytande lava"
+        "Glödande vätgas och stoft",
+        "Flytande metaller och kristaller",
+        "Kompakt berggrund och sten"
       ],
       "correct": 0,
-      "fact": "Kometkärnor brukar kallas för smutsiga snöbollar eftersom de består av en blandning av is, sten och frysta gaser."
+      "fact": "Nebulosor består till största delen av gas, främst väte, samt fina stoftkorn som lyser upp när de exciteras av närliggande stjärnors strålning."
     },
     {
-      "q": "Varför utvecklar kometer vanligtvis en svans när de närmar sig solen?",
+      "q": "Hur bildas vanligtvis de gigantiska hål eller bubblor som kan uppstå inuti stora stjärnmoln?",
       "options": [
-        "Solen suger upp stoft direkt från kometens yta genom stark gravitation",
-        "Solvinden och solvärmen får isen att förångas och släppa ifrån sig gas och stoft",
-        "Kometen kolliderar med andra asteroider och skapar ett stoftmoln omkring sig"
+        "Genom att kometer kolliderar och skapar kratrar",
+        "Starka vindar från massiva stjärnor blåser bort material",
+        "Magnetfält drar ihop gasen till tomma klot"
       ],
       "correct": 1,
-      "fact": "När kometen kommer närmare solen värms den upp, vilket gör att isen förångas och drar med sig stoft ut i rymden."
+      "fact": "Massiva stjärnor avger enorma stjärnvindar och strålning som trycker undan omgivande gas och skapar stora bubblor eller hål i nebulosan."
     },
     {
-      "q": "Hur stor brukar den fasta kärnan i en typisk komet som denna vara?",
+      "q": "Vad kännetecknar stjärnorna som har kortast livslängd i universum?",
       "options": [
-        "Ungefär lika stor som hela jorden",
-        "Bara några kilometer i diameter",
-        "Lika stor som en genomsnittlig fotbollsplan"
+        "De är väldigt små och brinner mycket långsamt",
+        "De är extremt tunga och förbrukar sitt bränsle snabbt",
+        "De saknar helt egen kärnfusion och lyser bara reflekterat ljus"
       ],
-      "correct": 2,
-      "fact": "Trots att kometernas svansar kan sträcka sig miljontals kilometer ut i rymden är själva kärnan förvånansvärt liten, ofta bara några få kilometer bred."
+      "correct": 1,
+      "fact": "De mest massiva stjärnorna har så intensiv förbränning i sina kärnor att de gör slut på sitt bränsle på några miljoner år, vilket är mycket snabbt i rymden."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor snöboll som rymmer ut i rymden och har åkt jättelångt. När den kommer närmare solen börjar den smälta och spruta ut gnistrande stoft och gas, precis som när man springer med ett lysande bloss i mörkret. Den här kometen kallas NEOWISE och den lyste så starkt att man kunde se den med egna ögon tidigt på morgonen innan solen gick upp.",
-    "nyborjare": "Kometen NEOWISE är en fascinerande besökare från det inre solsystemet som dök upp på himlen för några år sedan. Denna himlakropp blev känd som en av seklets mest spektakulkares synliga kometer för blotta ögat. En komet består av en stenig kärna av is och stoft. När den närmar sig solen värms den upp och bildar en lysande svans som sveper genom rymden framför avlägsna stjärnor.",
-    "entusiast": "Komst C/2020 F3 (NEOWISE) klassificeras som en av de mest framträdande kometerna på norra halvklotet under det senaste århundradet. Dess kärna uppskattas till cirka fem kilometer i diameter och den uppvisade en oväntat långvarig ljusstyrka som varade i över en månad. Bilden fångar kometen när den stiger över Adriatiska havet, inramad av vågiga och ljusstarka nattlysande moln som bildas i mesosfären. Jon- och stoftsvansarna drivs ut från kärnan till följd av solvindens och solvärmens växelverkan med kometmaterialet under dess periheliepassage."
+    "barn": "Tänk dig ett jättestort moln av lysande godisregn och glittrande stoft ute i rymden. Mitt i detta färggranna moln finns en stor, mörk grop som ser ut som ett jättelikt bubbelgum som har spruckit. Denna bubbla har bildats av heta stjärnor som har blåst undan gasen omkring sig med starka vindar. Det är som att blåsa jättestora såpbubblor fast med osynlig vind från skinande solar långt borta i universum.",
+    "nyborjare": "Denna färgglada bild visar en komplex nebulosa, vilket är ett enormt moln av gas och stoft i rymden där nya stjärnor föds. Området fylls av glödande vätgas, mörka dammstråk och stjärnor i olika åldrar. En av de mest utmärkande delarna är en stor och mörk öppning som kallas en superbubbla. Denna har formats av strålning och kraftfulla vindar från unga och massiva stjärnor som har blåst rent i mitten av molnet och skapat ett gigantiskt tomrum.",
+    "entusiast": "Bilden ifrån Hubble-teleskopet visar regionen N44 i Stora magellanska molnet, en oregelbunden dvärggalax som kretsar runt vår egen galax. Här ser vi en komplex emissionsnebulosa dominerad av joniserat väte som exciteras till att glöda av det intensiva ultravioletta ljuset från heta OB-stjärnor. Det mest framträdande inslaget är den enorma superbubblan med en storlek på flera hundra ljusår. Denna struktur har eroderats fram genom en kombination av stjärnvindar från tiotals massiva stjärnor och chockvågor från tidigare supernovor. Stjärnornas samlade mekaniska energi har skapat ett jättelikt hål i det omgivande interstellära mediumet, vilket ger oss en unik inblick i hur stjärnors livscykler formar sina hemgalaxer."
   },
   "terms": [
     {
-      "term": "komet",
-      "explanation": "En liten himlakropp bestående av is och stoft som bildar en svans när den närmar sig solen."
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och rymdstoft som fungerar som födelseplats för nya stjärnor."
     },
     {
-      "term": "solsystem",
-      "explanation": "Ett stjärnsystem som består av en sol och alla planeter, asteroider och kometer som kretsar kring den."
+      "term": "superbubbla",
+      "explanation": "Ett jättelikt tomrum i rymden som skapats av stjärnvindar och supernovaexplosioner från flera massiva stjärnor."
     },
     {
-      "term": "kärna",
-      "explanation": "Den fasta och centrala delen av en himlakropp."
+      "term": "joniserat",
+      "explanation": "Atomer eller molekyler som har förlorat eller tagit upp elektroner och därför blivit elektriskt laddade."
     },
     {
-      "term": "solvind",
-      "explanation": "En ström av laddade partiklar som ständigt flödar ut från solens yttersta atmosfär."
+      "term": "interstellära",
+      "explanation": "Det rum och den materia som finns beläget i tomrummet mellan stjärnorna i en galax."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant snowball traveling from deep space and coming close to our Sun. When it gets warm, it starts to melt and sprays out glowing dust and gas, just like a sparkling firework in the dark. This comet is called NEOWISE, and it shone so brightly that people could see it early in the morning before the sun came up.",
-      "nyborjare": "Comet NEOWISE is a fascinating visitor from the inner solar system that graced our skies a few years ago. This celestial body became known as one of the most spectacular comets visible to the unaided eye in decades. A comet consists of a frozen nucleus made of ice and dust. As it approaches the Sun, it warms up and forms a glowing tail that sweeps through space against a background of distant stars.",
-      "entusiast": "Comet C/2020 F3 (NEOWISE) is classified as one of the most prominent comets in the northern hemisphere during recent times. Its nucleus spans roughly five kilometers across and maintained an unexpectedly high brightness for over a month. The image captures the comet rising over the Adriatic Sea, framed by undulating noctilucent clouds in the upper atmosphere. Both the ion and dust tails emanate from the nucleus due to the interaction between solar wind and vaporized cometary material during its closest approach to the Sun."
+      "barn": "Imagine a giant cloud of glowing candy and sparkling dust out in space. Right in the middle of this colorful cloud, there is a big, dark gap that looks like a giant bubble gum that has popped. This bubble was formed by hot stars blowing away the gas around them with strong winds. It is like blowing huge soap bubbles, but using invisible wind from shining suns far away in the universe.",
+      "nyborjare": "This colorful image displays a complex nebula, which is a massive cloud of gas and dust in space where new stars are born. The region is filled with glowing hydrogen gas, dark lanes of dust, and stars of different ages. One of the most distinctive features is a large, dark opening called a superbubbla. This has been shaped by radiation and powerful winds from young, massive stars that have cleared out the center of the cloud to create a gigantic void.",
+      "entusiast": "Captured by the Hubble Space Telescope, this image shows the N44 region in the Large Magellanic Cloud, an irregular dwarf galaxy orbiting our own. Here we observe a complex emission nebula dominated by ionized hydrogen excited to glow by the intense ultraviolet light of hot OB stars. The most prominent feature is the enormous superbubbla spanning hundreds of light-years across. This structure was carved out by a combination of stellar winds from dozens of massive stars and shockwaves from past supernovae, providing a unique look into how stellar feedback shapes galactic ecosystems."
     },
     "terms": [
       {
-        "term": "comet",
-        "explanation": "A small icy celestial body that releases gas and dust to form a tail when approaching the Sun."
+        "term": "nebula",
+        "explanation": "A giant cloud of gas and space dust in the universe that serves as a birthplace for new stars."
       },
       {
-        "term": "solar system",
-        "explanation": "The gravitational system comprising the Sun and the objects that orbit it."
+        "term": "superbubbla",
+        "explanation": "A gigantic cavity in space created by powerful stellar winds and supernova explosions from multiple massive stars."
       },
       {
-        "term": "nucleus",
-        "explanation": "The solid and central part of a celestial body."
+        "term": "ionized",
+        "explanation": "Atoms or molecules that have lost or gained electrons and therefore carry an electric charge."
       },
       {
-        "term": "solar wind",
-        "explanation": "A continuous stream of charged particles released from the upper atmosphere of the Sun."
+        "term": "interstellar",
+        "explanation": "The physical space and matter that exists located between the star systems within a galaxy."
       }
     ],
     "quiz": [
       {
-        "q": "What is the core of a typical comet like NEOWISE primarily composed of?",
+        "q": "What is a nebula like this one primarily built up of?",
         "options": [
-          "Ice, dust, and frozen gases",
-          "Compact iron and nickel exclusively",
-          "Glowing plasma and liquid lava"
+          "Glowing hydrogen gas and cosmic dust",
+          "Liquid metals and solid crystals",
+          "Compact bedrock and planetary stone"
         ],
         "correct": 0,
-        "fact": "Comet nuclei are often referred to as dirty snowballs because they consist of a mixture of ice, rock, and frozen gases."
+        "fact": "Nebulae consist mostly of gas, predominantly hydrogen, along with fine dust grains that glow when excited by the radiation of nearby stars."
       },
       {
-        "q": "Why do comets typically develop a tail as they approach the Sun?",
+        "q": "How do the giant holes or cavities typically form inside large stellar clouds?",
         "options": [
-          "The Sun pulls dust directly from the comet's surface using strong gravity",
-          "Solar wind and heat vaporize the ice, releasing gas and dust into space",
-          "The comet collides with other asteroids, creating a surrounding dust cloud"
+          "Through comets colliding and leaving massive craters",
+          "Strong stellar winds blowing away surrounding material",
+          "Magnetic fields pulling the gas into hollow spheres"
         ],
         "correct": 1,
-        "fact": "As a comet gets closer to the Sun, it warms up, causing the ice to vaporize and drag dust out into space."
+        "fact": "Massive stars emit tremendous stellar winds and radiation that push away the surrounding gas and carve out large bubbles or cavities in the nebula."
       },
       {
-        "q": "How large is the solid nucleus of a typical comet like this one?",
+        "q": "What characterizes the stars with the shortest lifespans in the universe?",
         "options": [
-          "About the size of planet Earth",
-          "Only a few kilometers in diameter",
-          "Roughly the size of a standard football field"
+          "They are very small and burn fuel extremely slowly",
+          "They are extremely massive and consume their fuel rapidly",
+          "They lack nuclear fusion entirely and only shine with reflected light"
         ],
-        "correct": 2,
-        "fact": "Although the tails of comets can stretch for millions of kilometers, the actual nucleus is surprisingly small, often just a few kilometers wide."
+        "correct": 1,
+        "fact": "The most massive stars have such intense core fusion that they exhaust their fuel in just a few million years, which is very fast on a cosmic scale."
       }
     ]
   }

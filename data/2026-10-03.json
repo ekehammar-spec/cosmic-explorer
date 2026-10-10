@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-03",
-  "title": "Selfie at Vera Rubin Ridge",
-  "title_sv": "Självporträtt vid Vera Rubin Ridge",
+  "title": "Graben on the Moon",
+  "title_sv": "Graben på månen",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg?w=1600&h=800&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-  "credit": "NASA, JPL-Caltech, MSSS - Panorama: Andrew Bodrov",
-  "w": 480,
-  "h": 240,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAABQMEBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwAEERMhMRIicQUyQlHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ANh0ADijr2/toVfpOq6j2r+1D6retqm1jyFA7yOfFCaZZcAkDkDgk1C1SQ5BeRTIpKFCwz9irBjBGRuKBs5JDhpO1QMBcY3pe2lwwX4tt4NNMf/Z",
+  "url": "https://images-assets.nasa.gov/image/PIA23237/PIA23237~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA23237/PIA23237~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA23237/PIA23237~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA23237",
+  "credit": "NASA",
+  "src": "library",
+  "id": "PIA23237",
+  "w": 640,
+  "h": 517,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAApEAABAwMDAgUFAAAAAAAAAAABAgMRAAQhEhMxUXEGIkFhgQUUMjPB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AF7lq048XblIWtRkT1ij91CLUpYSEFQyfahXG1reyPKDInj5raG1K1I9JEk+ueP5QaYUVk9RI7U2s7zRYuM418T0oK2ZzpBk5J7mujIaQrJkzBHvQTX1zxGh1RZsUjSk/s4HwKa2F4LmxZeSkify71B1W2pKfCLRSSDvIEjpJoH6FKbahJhZ4McChVHaV5cLHMma7pJ+wKpztgzS9OXUE0H/2Q==",
   "quiz": [
     {
-      "q": "Vad kallas ett dygn på planeten Mars?",
+      "q": "Vad är en graben för något?",
       "options": [
-        "Sol",
-        "Orbit",
-        "Nova"
+        "En djup vulkankrater bildad av ett asteroidnedslag",
+        "En sänka som bildas när en yta dras isär och spricker",
+        "En lång bergskedja som pressats upp av inre tryck"
+      ],
+      "correct": 1,
+      "fact": "En graben bildas när jordskorpan eller månytan dras isär av krafter i underlaget, vilket gör att en mittsektion sjunker ner mellan två förkastningar."
+    },
+    {
+      "q": "Varför uppstår tektoniska spänningar som kan skapa dalar på en kropp som månen, vilken saknar flytande vatten och platttektonik som jorden?",
+      "options": [
+        "När månen svalnar och drar ihop sig krymper ytan",
+        "När solen värmer upp månen smälter ytskiktet",
+        "När jorden drar i månen med tidvattenkrafter spricker hela skorpan"
       ],
       "correct": 0,
-      "fact": "Ett dygn på Mars kallas för en sol och är ungefär 40 minuter längre än ett jorddygn."
+      "fact": "När månen svalnar krymper den långsamt, vilket skapar enorma tryck- och dragspänningar i det stelnade skalet som då spricker upp."
     },
     {
-      "q": "Hur långt upp på Mount Sharp har rovern Curiosity tagit sig från Gale-kraterns golv?",
+      "q": "Vilken typ av rymdfarkost tog högupplösta bilder av dessa måndalar?",
       "options": [
-        "100 meter",
-        "1 kilometer",
-        "10 kilometer"
+        "En landare som rullade runt på ytan",
+        "En rymdteleskop som kretsar kring solen",
+        "En bansonder som kretsar runt månen"
       ],
-      "correct": 1,
-      "fact": "Curiosity har tagit sig en total höjdskillnad på 1 kilometer under sin färd uppför sluttningen av Mount Sharp."
-    },
-    {
-      "q": "Vilket instrument på rovers mast har blockerat bort det avlägsna toppmötet på Mount Sharp i bilden?",
-      "options": [
-        "Mastcam",
-        "ChemCam",
-        "MAHLI"
-      ],
-      "correct": 1,
-      "fact": "Det laseravfyrande ChemCam-huset sitter längst upp på masten och skymmer berget i bakgrunden."
+      "correct": 2,
+      "fact": "Bansonder (kretsande rymdfarkoster) som Lunar Reconnaissance Orbiter fotograferar månytan från låg omloppsbana för att kartlägga geologin i detalj."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att ha en egen jätterobot på en annan planet! Den här häftiga maskinen kör runt på Mars och tar bilder av sig själv, nästan som när man tar en selfie med en mobiltelefon. Robotens långa arm håller i en kamera för att fota alla stenar och sandiga backar. Den ser ut som en liten bil och rullar fram över den röda marken för att utforska rymden åt oss. Visst är det spännande med rymdrobotar!",
-    "nyborjare": "På den röda planeten Mars kör en bilstor rymdrobot omkring för att utforska landskapet. En marsrover styrs från jorden och är utrustad med avancerade kameror och vetenskapliga instrument för att studera stenar och miljö. I det här fallet har rovern tagit ett så kallat självporträtt genom att fota sig själv med en kamera på sin långa arm. Eftersom armen har redigerats bort i efterhand ser det ut som om bilden är tagen av en flygande fotograf. Bilden visar hur maskinen står vid en stenig ås och har Mount Sharp i bakgrunden.",
-    "entusiast": "Curiosity rover har dokumenterat sin resa vid södra kanten av Vera Rubin Ridge genom att komponera ett imponerande panorama. Bilden är ett mosaikverk sammansatt av 61 exponeringar tagna med Mars Hand Lens Imager, en närbildskamera fäst på robotens robotarm. Själva armen har maskerats bort digitalt, medan den utökade bakgrunden härstammar från Mastcam. Längst upp på masten sitter ChemCam-huset vars laserutrustning blockerar sikten mot det fem kilometer höga Mount Sharp i fjärran. Under sin expedition har rovern mäktat med en total stigning på en kilometer från Gale-kraterns botten och uppför bergets sluttningar, vilket ger värdefulla geologiska insikter om Mars förflutna."
+    "barn": "Tänk dig att du har en stor chokladboll som legat i kylen så att den blivit hård. Om du försöker dra den lite åt olika håll så spricker chokladen och det blir djupa dalar i den. Ungefär så har det hänt på månen när den har svalnat och krympt. Då bildas det sprickor i marken som kallas för graben. Det ser ut som stora diken eller raviner mitt på den grå månytan.",
+    "nyborjare": "Bilden visar en spännande geologisk formation på månen som kallas för en graben. Det är en sorts gravsänka eller dike som bildas när månytan utsätts för spänningar och dras isär. När ytlagret spricker sjunker marken ner mellan två parallella branter. Sådana strukturer kan uppstå när en himlakropp svalnar och sakta krymper, vilket gör att det stelnade skalet inte längre passar runt den inre volymen. Denna bild är tagen av en omloppsbana runt månen som noggrant kartlägger dess yta.",
+    "entusiast": "Denna högupplösta vy visar en klassisk graben nära Mare Frigoris, fotograferad av NASA:s Lunar Reconnaissance Orbiter. Fenomenet illustrerar extensionell tektonik i en miljö som saknar aktiv platttektonik liknande jordens. När månen svalnar termiskt och volymen minskar, utsätts den stelnade litosfären för mekaniska dragspänningar. Detta resulterar i normala förkastningar där centralblocket sjunker ner och bildar en linjär sänka flankerad av branta stup. Analysen av dessa graben ger forskarna ovärderlig information om månens termiska historia, inre sammansättning och den mekaniska egenskapen hos dess övre skikt."
   },
   "terms": [
     {
-      "term": "marsrover",
-      "explanation": "Ett rälslöst och motordrivet fordon som är byggt för att rulla omkring och utforska ytan på den röda planeten."
+      "term": "graben",
+      "explanation": "En långsträckt sänka i marken som bildas när jordskorpan dras isär och mittpartiet sjunker ner mellan två förkastningar."
     },
     {
-      "term": "Gale-kratern",
-      "explanation": "En stor nedslagskrater på Mars där rymdfarkosten landade för att påbörja sin vetenskapliga resa."
+      "term": "litosfären",
+      "explanation": "Det yttersta, stela och fasta skiktet på en planet eller måne som omfattar skorpan och den övre manteln."
     },
     {
-      "term": "Mount Sharp",
-      "explanation": "Ett högt berg beläget i mitten av nedslagskratern som fordonet mödosamt har kört uppför."
+      "term": "förkastningar",
+      "explanation": "Brutna zoner i berggrunden där stora markblock har förflyttats i förhållande till varandra på grund av geologiska krafter."
     },
     {
-      "term": "panorama",
-      "explanation": "En bred bild eller vy som visar en omgivning i ett helt varv eller över ett mycket stort synfält."
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som en rymdfarkost följer runt en himlakropp på grund av gravitationskraften."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine having your very own giant robot on another planet! This cool machine drives around on Mars taking pictures of itself, almost like taking a selfie with a phone. The robot's long arm holds a camera to snap photos of all the rocks and sandy hills. It looks like a small car rolling across the red ground to explore space for us. Space robots are truly amazing!",
-      "nyborjare": "On the red planet Mars, a car-sized robotic vehicle drives around to explore the landscape. A marsrover is controlled from Earth and equipped with advanced cameras and scientific instruments to study rocks and the environment. In this case, the rover has captured a self-portrait by photographing itself using a camera mounted on its long mechanical arm. Because the arm has been edited out afterwards, it looks as though the picture was taken by a flying photographer. The image shows the machine standing near a rocky ridge with Mount Sharp visible in the background.",
-      "entusiast": "The Curiosity rover has documented its journey at the southern rim of Vera Rubin Ridge by composing an impressive panorama. The image is a mosaic built from 61 exposures taken by the Mars Hand Lens Imager, a close-up camera attached to the robotic arm. The arm itself has been digitally edited out, while the extended background originates from the Mastcam. Atop the mast sits the ChemCam housing, whose laser hardware blocks the view of the five-kilometer-high Mount Sharp in the distance. Throughout its expedition, the rover achieved a total elevation gain of one kilometer from the floor of Gale Crater up the mountain slopes, yielding valuable geological insights."
+      "barn": "Imagine you have a piece of candy that has been in the fridge and become hard. If you try to pull it slightly, the candy cracks and deep ditches appear in it. Something similar happened on the Moon when it cooled down and shrank. This creates cracks in the ground called graben. They look like large ditches or ravines right across the grey lunar surface.",
+      "nyborjare": "The image shows a fascinating geological formation on the Moon known as a graben. This is a type of trench that forms when the lunar surface experiences stress and is pulled apart. When the brittle crust fractures, the ground drops down between two parallel cliffs. Such structures can develop when a celestial body cools and slowly shrinks, causing the solidified shell to crack. This picture was captured by an orbiter closely mapping the Moon.",
+      "entusiast": "This high-resolution view highlights a classic graben near Mare Frigoris, imaged by NASA's Lunar Reconnaissance Orbiter. The feature demonstrates extensional tectonics in an environment lacking Earth-like plate tectonics. As the Moon undergoes thermal cooling and volumetric contraction, its rigid lithosphere experiences mechanical tensile stresses. This results in normal faulting where the central block drops down to form a linear depression flanked by steep cliffs. Analyzing these graben provides scientists with vital clues regarding the lunar thermal history and the mechanical properties of its crust."
     },
     "terms": [
       {
-        "term": "marsrover",
-        "explanation": "A motorized vehicle built to drive around and explore the surface of the red planet."
+        "term": "graben",
+        "explanation": "A depressed block of land bordered by parallel faults created when the crust is pulled apart."
       },
       {
-        "term": "Gale Crater",
-        "explanation": "A large impact crater on Mars where the spacecraft landed to begin its scientific journey."
+        "term": "lithosphere",
+        "explanation": "The rigid outer shell of a planet or moon, consisting of the crust and the upper mantle."
       },
       {
-        "term": "Mount Sharp",
-        "explanation": "A tall mountain located in the center of the impact crater that the vehicle has been climbing."
+        "term": "faults",
+        "explanation": "Fractures in the rock of a planetary crust where significant movement has taken place."
       },
       {
-        "term": "panorama",
-        "explanation": "A wide image or view showing a surrounding area across a very large field of vision."
+        "term": "orbiter",
+        "explanation": "A spacecraft designed to travel in a recurring path around a celestial body."
       }
     ],
     "quiz": [
       {
-        "q": "What is a solar day on the planet Mars called?",
+        "q": "What is a graben?",
         "options": [
-          "Sol",
-          "Orbit",
-          "Nova"
+          "A deep volcanic crater formed by an asteroid impact",
+          "A depressed block of land bordered by parallel faults formed when the surface pulls apart",
+          "A tall mountain range pushed up by internal pressure"
+        ],
+        "correct": 1,
+        "fact": "A graben is formed when tectonic forces pull the crust apart, causing a central block of rock to drop down between two faults."
+      },
+      {
+        "q": "Why do tectonic stresses that create valleys occur on a body like the Moon, which lacks flowing water and plate tectonics like Earth?",
+        "options": [
+          "As the Moon cools and contracts, the surface shrinks and cracks",
+          "When the Sun heats up the Moon, the surface layer melts",
+          "When Earth pulls on the Moon with tidal forces, the entire crust shatters"
         ],
         "correct": 0,
-        "fact": "A Martian solar day is called a sol and is about 40 minutes longer than an Earth day."
+        "fact": "As the Moon cools over billions of years, it contracts slightly, creating massive stress in its brittle outer shell that leads to cracking."
       },
       {
-        "q": "How much total elevation has the Curiosity rover gained from the floor of Gale Crater up Mount Sharp?",
+        "q": "What type of spacecraft captured high-resolution images of these lunar valleys?",
         "options": [
-          "100 meters",
-          "1 kilometer",
-          "10 kilometers"
+          "A surface rover driving across the landscape",
+          "A space telescope orbiting the Sun",
+          "An orbiter circling the Moon"
         ],
-        "correct": 1,
-        "fact": "Curiosity marked a total elevation gain of 1 kilometer in its trek up the slope of Mount Sharp."
-      },
-      {
-        "q": "Which instrument housing on top of the rover's mast blocks out the distant peak of Mount Sharp?",
-        "options": [
-          "Mastcam",
-          "ChemCam",
-          "MAHLI"
-        ],
-        "correct": 1,
-        "fact": "The laser-firing ChemCam housing sits at the top of the mast and blocks the view of the distant mountain peak."
+        "correct": 2,
+        "fact": "Orbiters such as the Lunar Reconnaissance Orbiter take detailed photographs of the lunar surface from a low altitude to map its geology."
       }
     ]
   }

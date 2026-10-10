@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-18",
-  "title": "Messier 33: The Triangulum Galaxy",
-  "title_sv": "Triangelgalaxen (M33)",
+  "title": "Wild 2 Close Look",
+  "title_sv": "Närbild av kometen Wild 2",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=2996&h=2504&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
-  "credit": "George Chatzifrantzis",
-  "w": 480,
-  "h": 401,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYBAgQF/8QAJBAAAgICAQMEAwAAAAAAAAAAAQIAEQMEEgUhQRMxUXEyYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAbEQACAwADAAAAAAAAAAAAAAAAAQIRIRIxYf/aAAwDAQACEQMRAD8ASETkwHvDjUciwh4jzcjWdF/JQ33GjpmtrbeHuba6q/abeCKt0KD4yhIlYzdT6UqFvTAP1F7Nj4N2BHyDIt6ElxdMGDX7+Zt097LrmkY0fFzNlUDGpAAMECYIMDdX5oi9xVk35nIzuHyMVNg9xB5BxKV5RT/JUQmWXp//2Q==",
+  "url": "https://images-assets.nasa.gov/image/PIA06285/PIA06285~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA06285/PIA06285~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA06285/PIA06285~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA06285",
+  "credit": "NASA/JPL-Caltech",
+  "src": "library",
+  "id": "PIA06285",
+  "w": 632,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYBA//EACoQAAIBAwIEBAcAAAAAAAAAAAECAwAEEQYSBSFBcRQxUWETFSIygaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ADdFZ2CqCzE4AHmar7DQl3NbLLdSiFnXKoBkjuazQHCkvOItdyPjwxG1fUkHmaSJRtDArjl2oDK70fJDdiNJyIyu4My5x3x/anLu1ls7l4Jhh0PPByD7ilfiEjRgyIoLDlg9MnGaP9XwrDxfavP6Bk9fzQdNJ6j+RXDK6ZhlYbmXzWlFruC4s0lgkEqyDkwOcg0GVR8C1M3DrPws6u8atmPb09RQWV/dLBb4dS5cgYHm7E8lFR+sRsukDujTsAXC9MdP3WXmqGlIaGE/FH2O5zs7D196n5ppJ5Wllcu7HJY9aD//2Q==",
   "quiz": [
     {
-      "q": "Vilken typ av astronomiskt objekt är Messier 33?",
+      "q": "Vad är huvudsakligen en komet uppbyggd av?",
       "options": [
-        "En stor galax med spiralarmar",
-        "En sfärisk hop av miljarder gamla stjärnor",
-        "Ett gasmoln där nya stjärnor föds"
+        "Is, stoft och frysta gaser",
+        "Fast järn och nickel",
+        "Komprimerad vätgas"
       ],
       "correct": 0,
-      "fact": "Messier 33 är en spiralgalax, vilket innebär att den har svepande armar av stjärnor och gas som snurrar kring ett ljust centrum."
+      "fact": "Kometer kallas ibland för smutsiga snöbollar eftersom de består av en kärna av is, sten och frusna gaser."
     },
     {
-      "q": "Var ligger Triangelgalaxen i relation till oss?",
+      "q": "Varför utvecklar kometer en svans när de närmar sig solen?",
       "options": [
-        "Den ligger i utkanten av Vintergatan",
-        "Den är den näst största galaxen i Vintergatan",
-        "Den tillhör den Lokala galaxgruppen nära oss"
-      ],
-      "correct": 2,
-      "fact": "Triangelgalaxen är en av medlemmarna i den Lokala gruppen, där även vår egen galax Vintergatan och Andromedagalaxen ingår."
-    },
-    {
-      "q": "Vad avslöjar de blå och rosa områdena i galaxens spiralarmar?",
-      "options": [
-        "Platser där stjärnor bildas och lyser upp gasen",
-        "Spår av mörk materia som drar till sig ljus",
-        "Rester efter gamla stjärnexplosioner"
+        "Värmen gör att isen förångas och drar med sig stoft",
+        "Friktionen mot rymdens gaser skapar ett eldande spår",
+        "Solen suger åt sig material från kometens yta med gravitation"
       ],
       "correct": 0,
-      "fact": "De rosa områdena är jättelika gasmoln där strålning från nyfödda, heta stjärnor får gasen att glöda."
+      "fact": "När en komet kommer närmare solen värms den upp så att isen övergår till gas och bildar en lysande svans."
+    },
+    {
+      "q": "Från vilken del av solsystemet kommer de flesta kometer ursprungligen?",
+      "options": [
+        "Områden långt bort som Oorts moln eller Kuiperbältet",
+        "Asteroidbältet mellan Mars och Jupiter",
+        "Området innanför Merkurius bana"
+      ],
+      "correct": 0,
+      "fact": "Många kometer har sina banor i solsystemets yttersta kanter där det är tillräckligt kallt för att isen ska bevara sig."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor snurra ute i rymden som är gjord av miljarder gnistrande stjärnor. Den här stjärnsnurran kallas för Triangelgalaxen. Den är så enorm att det skulle ta ljuset flera tusen år att åka från ena kanten till den andra. I armarna på snurran finns det rosa moln där helt nya stjärnor tänds, nästan som små rymdfyrverkerier som aldrig tar slut.",
-    "nyborjare": "Messier 33, populärt känd som Triangelgalaxen eller Pinwheelgalaxen, är en storslagen spiralgalax. Den befinner sig cirka tre miljoner ljusår från vår egen galax Vintergatan. Med en diameter på över 50 000 ljusår är den den tredje största medlemmen i den Lokala gruppen av galaxer, efter Andromedagalaxen och Vintergatan. I dess utsträckta spiralarmar syns blå stjärnhopar och rosa stjärnbildande regioner tydligt. Forskare använder variabla stjärnor i galaxen som kosmiska måttstockar för att mäta avstånd i universum.",
-    "entusiast": "Messier 33 är en magnifik ansiktsvänd spiralgalax av typen Sc i stjärnbilden Triangeln, med en diameter överstigande 50 000 ljusår. Som den tredje största galaxen i den Lokala gruppen utgör den ett fascinerande studieobjekt, där dess dynamiska interaktion med den större Andromedagalaxen (M31) tros göra den till en satellitgalax till denna. Teleskopbilder avslöjar distinkta blå stjärnhopar och vidsträckta H II-regioner, däribland den enorma NGC 604 som är en av de ljusaste kända stjärnbildningszonerna i den Lokala gruppen. Dess population av cepheider och andra variabla stjärnor har varit avgörande för att kalibrera den extragalaktiska avståndsskalan."
+    "barn": "Tänk dig en jättestor, flygande snöboll som rör sig långt ute i rymden. Den här bilden visar en komet som heter Wild 2 på väldigt nära håll. Den ser lite knölig och gropig ut, som en potatis täckt av damm och is! När en sådan klump kommer närmare solen börjar isen smälta och spruta ut gas och stenar i rymden.",
+    "nyborjare": "Den här bilden visar kometen Wild 2, en himlakropp som mestadels består av is, sten och frusna gaser. Kometer brukar liknas vid smutsiga snöbollar som färdas i långsträckta banor runt solen. När rymdsonden Stardust flög förbi kometen passagerade den tillräckligt nära för att ta denna skarpa närbild. Ytan är fylld av kratrar och sprickor som visar hur aktiv kometen är när solens värme når den.",
+    "entusiast": "Bilden är tagen vid en fasvinkel på 11,4 grader och visar detaljer på kometen Wild 2. Kometer är uråldriga lämningar från solsystemets bildande för omkring 4,6 miljarder år sedan. Att studera dem ger forskare ovärderlig information om det tidiga solsystemets kemiska sammansättning. Kärnan på Wild 2 har en oregelbunden form med tydliga dalar, åsar och nedslagskratrar, vilket tyder på en komplex geologisk historia präglad av tidigare utbrott och sublimering av flyktiga ämnen."
   },
   "terms": [
     {
-      "term": "spiralgalax",
-      "explanation": "En roterande stjärnansamling som kännetecknas av lysande armar som ringlar ut från ett centralt klot."
+      "term": "komet",
+      "explanation": "En mindre himlakropp av is och stoft som kretsar kring solen och bildar en svans när den värms upp."
     },
     {
-      "term": "ljusår",
-      "explanation": "Det avstånd som en ljusstråle färdas på ett helt jordår i rymdens vakuum."
+      "term": "rymdsond",
+      "explanation": "Ett obemannat farkost som skickas ut i rymden för att undersöka planeter, kometer eller andra objekt på nära håll."
     },
     {
-      "term": "Lokala gruppen",
-      "explanation": "Den samling av ett dussintal galaxer som Vintergatan, Andromeda och deras mindre följare tillhör."
+      "term": "fasvinkel",
+      "explanation": "Vinkeln mellan ljuskällan, det observerade objektet och betraktaren, vilket påverkar hur skuggor och ljus faller."
     },
     {
-      "term": "satellitgalax",
-      "explanation": "En mindre galax som binds fast av gravitationen och kretsar kring en betydligt större galax."
+      "term": "sublimering",
+      "explanation": "Processen där ett ämne går direkt från fast form till gasform utan att passera flytande tillstånd."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a huge pinwheel spinning out in space made of billions of twinkling stars. This stellar pinwheel is called the Triangulum Galaxy. It is so enormous that it takes light thousands of years to travel from one side to the other. In its sweeping arms, there are glowing pink clouds where brand new stars are being born, almost like tiny space fireworks that never end.",
-      "nyborjare": "Messier 33, popularly known as the Triangulum Galaxy, is a magnificent face-on spiral galaxy. It is located about three million light-years away from our own Milky Way. With a diameter of over 50,000 light-years, it is the third largest member of the Local Group of galaxies, trailing behind the Andromeda Galaxy and the Milky Way. Within its loosely wound spiral arms, blue star clusters and pink star-forming regions are clearly visible. Scientists use variable stars within this galaxy as cosmic yardsticks to measure distances across the universe.",
-      "entusiast": "Messier 33 is a magnificent Sc-type spiral galaxy in the constellation Triangulum, spanning over 50,000 light-years in diameter. As the third largest galaxy in the Local Group, it serves as a fascinating laboratory, dynamically linked as a suspected satellite of the massive Andromeda Galaxy. Telescopic observations reveal distinct blue star associations and sprawling H II regions, most notably NGC 604 which ranks among the most luminous star-forming complexes nearby. Its population of standard candles, such as variable stars, has played a crucial role in establishing the cosmic distance scale."
+      "barn": "Imagine a giant flying snowball moving far out in space. This picture shows a comet named Wild 2 from up close. It looks a bit bumpy and lumpy, like a potato covered in dust and ice! When a clump like this gets closer to the sun, the ice starts to melt and sprays gas and rocks into space.",
+      "nyborjare": "This image reveals comet Wild 2, a celestial body consisting mostly of ice, rock, and frozen gases. Comets are often compared to dirty snowballs traveling along elongated orbits around the sun. When the spacecraft Stardust flew past the comet, it got close enough to capture this sharp close-up view. The surface is filled with craters and fractures showing how active the comet is when solar heat reaches it.",
+      "entusiast": "Captured at an 11.4-degree phase angle, this image details the surface of comet Wild 2. Comets are primordial remnants from the formation of the solar system about 4.6 billion years ago. Studying them provides researchers with invaluable information regarding the early solar system's chemical composition. The nucleus of Wild 2 features an irregular shape with distinct valleys, ridges, and impact craters, indicating a complex geological history shaped by past outbursts and the sublimation of volatile materials."
     },
     "terms": [
       {
-        "term": "spiral galaxy",
-        "explanation": "A rotating stellar system characterized by sweeping arms of stars and gas curving outward from a central bulge."
+        "term": "comet",
+        "explanation": "A small celestial body made of ice and dust that orbits the sun and develops a tail when heated."
       },
       {
-        "term": "light-year",
-        "explanation": "The enormous distance that a beam of light travels through the vacuum of space in a single Earth year."
+        "term": "spacecraft",
+        "explanation": "An uncrewed vehicle sent into space to explore planets, comets, or other objects at close range."
       },
       {
-        "term": "Local Group",
-        "explanation": "The gravitational cluster of dozens of galaxies that includes the Milky Way and Andromeda."
+        "term": "phase angle",
+        "explanation": "The angle between the light source, the observed object, and the observer, affecting how shadows and light appear."
       },
       {
-        "term": "satellite galaxy",
-        "explanation": "A smaller stellar system bound by gravity to orbit around a significantly larger parent galaxy."
+        "term": "sublimation",
+        "explanation": "The process where a substance transitions directly from a solid to a gas without becoming a liquid."
       }
     ],
     "quiz": [
       {
-        "q": "What type of astronomical object is Messier 33?",
+        "q": "What is a comet primarily composed of?",
         "options": [
-          "A large spiral galaxy with sweeping arms",
-          "A spherical cluster of ancient stars",
-          "A vast gas cloud where stars are born"
+          "Ice, dust, and frozen gases",
+          "Solid iron and nickel",
+          "Compressed hydrogen gas"
         ],
         "correct": 0,
-        "fact": "Messier 33 is a spiral galaxy featuring arms of stars and gas rotating around a bright central core."
+        "fact": "Comets are often called dirty snowballs because their nuclei consist of ice, rock, and frozen gases."
       },
       {
-        "q": "Where is the Triangulum Galaxy located relative to us?",
+        "q": "Why do comets develop a tail as they approach the sun?",
         "options": [
-          "It is located in the outskirts of the Milky Way",
-          "It is the second largest galaxy in the Milky Way",
-          "It belongs to the Local Group of galaxies near us"
-        ],
-        "correct": 2,
-        "fact": "The Triangulum Galaxy is a member of the Local Group, which also includes our Milky Way and the Andromeda Galaxy."
-      },
-      {
-        "q": "What do the blue and pink regions in the galaxy's spiral arms reveal?",
-        "options": [
-          "Places where stars form and illuminate the gas",
-          "Traces of dark matter pulling in starlight",
-          "Remnants left behind by ancient star explosions"
+          "Solar heat vaporizes ice, releasing gas and dust",
+          "Friction against space gases creates a fiery trail",
+          "The sun's gravity pulls material away from the surface"
         ],
         "correct": 0,
-        "fact": "The pink regions are giant gas clouds where radiation from newborn, hot stars causes the surrounding gas to glow."
+        "fact": "As a comet gets closer to the sun, it warms up, causing ice to turn into gas and form a glowing tail."
+      },
+      {
+        "q": "Where do most comets originate from?",
+        "options": [
+          "Distant regions like the Oort cloud or Kuiper belt",
+          "The asteroid belt between Mars and Jupiter",
+          "The region inside Mercury's orbit"
+        ],
+        "correct": 0,
+        "fact": "Many comets orbit in the outermost edges of the solar system where it is cold enough for ice to survive."
       }
     ]
   }

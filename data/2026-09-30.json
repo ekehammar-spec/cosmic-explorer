@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-30",
-  "title": "Arp 78: Peculiar Galaxy in Aries",
-  "title_sv": "Arp 78: Speciell galax i Väduren",
+  "title": "The United States Flag Stands On The Surface Of Mars",
+  "title_sv": "Den amerikanska flaggan står på Mars yta",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg?w=1772&h=1182&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
-  "credit": "Robert Eder",
-  "w": 480,
-  "h": 320,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgAEBv/EACAQAAICAgICAwAAAAAAAAAAAAERAAMCIQQSQVEFImH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4mzM2poLQUArKlWPJm7hX48bk42ZVC0DYxMDH1RHZuPsNnWvE0fJ8jG+454pn0EJggIlAQ79ylAQH2D3pxWkZFoD8EpQP//Z",
+  "url": "https://images-assets.nasa.gov/image/PIA00388/PIA00388~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA00388/PIA00388~thumb.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA00388/PIA00388~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA00388",
+  "credit": "NASA/JPL",
+  "src": "library",
+  "id": "PIA00388",
+  "w": 508,
+  "h": 434,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQH/8QAKBAAAgECBQQBBQEAAAAAAAAAAQIDBBEABQYSIRQxQWFxEyJRgbHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AG0Z5UEEjKqoj1/mM0+qWg+16B0kPAV3sb/FsD6fVUsVKUFKjFOQTIbfzArMtWT1KDfSUzKTZbqSR7BvfAMY1RMG2yUYUn8v2+cV1Wp3SMxtShi113JJwPPkYE7oXpOc3pImHDKym/7474CzVFR0zSJUxGJWKLsJDXINz8W4wEihqmLRGMpITtZGB3L+sZZcuquqELSKrDuTxt/OOm6bp4kyWmkCAvKgZ3PJY+ycXZ1RU1Xl0i1EKuFFxfxgEyXTQqqjqeql6aQbrxKGJ98nAyso4MqzOCnkjNVTlS+1wUv48E4dsgAOU0qnsCVHwDYYD64RVzbLmCgN9Nhf0CLf3Af/2Q==",
   "quiz": [
     {
-      "q": "Vad är ett ljusår för något?",
+      "q": "Vilken typ av himlakropp är Mars yta känd för att likna?",
       "options": [
-        "Den tid det tar för ljuset att färdas på ett år",
-        "Den sträcka som ljuset tillryggalägger på ett år",
-        "Ett mått på hur mycket ljus en stjärna sänder ut"
+        "En het gasjätte utan fast mark",
+        "En kall, stenig öken med vulkaner och dalar",
+        "En frusen isplanet täckt av flytande hav"
       ],
       "correct": 1,
-      "fact": "Ett ljusår är en sträcka, nämligen den väg som ljuspartiklar hinner färdas under ett helt jordår i rymdens tomrum."
+      "fact": "Mars är en stenig planet med en torr yta präglad av vulkaner, nedslagskratrar och dalar."
     },
     {
-      "q": "Vad driver vanligtvis fram bildandet av spiralarmar med kraftiga stjärnhopar i galaxer?",
+      "q": "Vad orsakar de mörka, klippiga ränderna och de ljusa, dykliknande områdena på Mars?",
       "options": [
-        "Gravitationella tidvattenkrafter från närliggande galaxer",
-        "Våldsamma utbrott från supermassiva svarta hål i kärnan",
-        "Kollisioner med snabbrörliga intergalaktiska gasmoln"
+        "Vulkanutbrott som sprider lava över kontinenterna",
+        "Vind som flyttar sand och stoft samt material från nedslag",
+        "Flytande vatten som rinner nerför sluttningar under sommaren"
       ],
-      "correct": 0,
-      "fact": "När galaxer dras till varandra skapar gravitationen tidvattenkrafter som trycker ihop gas och sätter igång stjärnbildning."
+      "correct": 1,
+      "fact": "Vinden spelar en stor roll på Mars genom att flytta runt stoft och sand, medan mörkare material ofta blottas vid nedslagskratrar."
     },
     {
-      "q": "Vilken form har galaxer som NGC 770 som ofta fungerar som mindre följeslagare till större spiralgalaxer?",
+      "q": "Varför är det viktigt att studera seismometrar på en planet som Mars?",
       "options": [
-        "Oregelbunden form utan fast struktur",
-        "Perfekt cirkulär skivform",
-        "Elliptisk form med mjukt och diffust utseende"
+        "För att mäta planetens magnetfält och strålning",
+        "För att upptäcka skalv och lära sig mer om planetens inre",
+        "För att beräkna den exakta avståndet till solen"
       ],
-      "correct": 2,
-      "fact": "Mindre kompanjonger till stora spiralgalaxer har ofta en rundare, elliptisk form som påminner om en utdragen boll."
+      "correct": 1,
+      "fact": "Seismometrar registrerar vibrationer i marken, vilket hjälper forskare att förstå hur planetens inre är uppbyggt."
     }
   ],
   "levels": {
-    "barn": "Långt ut i rymden finns det gigantiska samlingar av stjärnor som kallas galaxer. En av dem ser ut som ett snurrade snäckskal med en extra lång arm som har sträckts ut. Det är som att galaxen har gjort en virvelvind av miljarder skinande solar och glittrande stjärnhopar. Runt omkring den svävar en mindre kompisgalax som drar i den med osynliga händer, vilket gör att stjärnorna formas till spännande mönster i det svarta mörkret.",
-    "nyborjare": "Bland stjärnbilderna på natthimlen hittar vi galaxen Arp 78, som även bär beteckningen NGC 772. Den befinner sig ungefär 100 miljoner ljusår bort och är en väldig samling stjärnor som mäter hela 200 000 ljusår i diameter. Det som gör den extra intressant är dess enorma och kraftigt utvecklade spiralarm. Denna utstickande struktur har formats av gravitationskrafter från en mindre följeslagare som kretsar i närheten, den kompakta galaxen NGC 770. Tillsammans bildar de ett fascinerande par i universum.",
-    "entusiast": "Arp 78, katalogiserad som NGC 772, utgör ett slående exempel på en märklig spiralgalax belägen i stjärnbilden Väduren. Med en uppskattad diameter på omkring 200 000 ljusår och belägen på ett avstånd av 100 miljoner ljusår uppvisar systemet en gravitationsmässigt påverkad morfologi. Dess mest framträdande drag är den asymmetriska, överutvecklade yttre spiralarmen, vilken präglas av intensiva stjärnbildningszoner fyllda med unga, blå stjärnhopar och svepande stoftband. Denna storslagna struktur tros vara resultatet av tidvattenkrafter från växelverkan med dess ljusstarka följeslagare, den elliptiska dvärggalaxen NGC 770 som syns strax nedanför. Djupa teleskopiska exponeringar avslöjar även svaga stjärnströmmar som vittnar om galaxens dynamiska historia av gravitationella möten."
+    "barn": "Tänk dig att du åker på upptäcktsfärd till en helt öde planet långt borta. På den här bilden ser vi marken på den röda planeten Mars. Det ser ut som en öken med sand och stenar precis som på jorden, men här finns inga träd eller djur. En modig robot har landat där för att titta runt och skicka spännande bilder tillbaka till oss. Det är som att titta in i en helt främmande värld!",
+    "nyborjare": "Den här bilden visar det torra och steniga landskapet på den röda planeten Mars. Marken är täckt av stoft och sand som formas av vinden i sanddynsliknande formationer. Vi ser också spår efter nedslagskratrar där steniga massor har kastats ut runt kanterna. Det här fotografiet togs av en rymdsond som landade på planeten för att undersöka dess miljö på plats. Genom att studera marken, vindarna och bergarterna kan vi lära oss mer om hur solsystemets planeter har bildats och förändrats.",
+    "entusiast": "Bilden är tagen från ytan på Mars och visar ett typiskt ökenlandskap med låga kullar och en kraterkant i fonden. De mörka, linjära strukturerna utgörs sannolikt av ejektamaterial från nedslaget som bildat kratern, medan de ljusare fälten är ackumuleringar av eolisk sand och fint stoft som transporterats av marsvindarna. Platsen för landningen är avrullad med instrument som seismometrar för att mäta markrörelser och geofysiska data, vilket ger insikter i planetens inre struktur och geologiska aktivitet. Sådana observationer är avgörande för att förstå den aerologiska historien och klimatets utveckling."
   },
   "terms": [
     {
-      "term": "ljusår",
-      "explanation": "Det enorma avstånd som en ljusstråle färdas på ett helt jordår."
+      "term": "krater",
+      "explanation": "En stor sänka i marken som bildas när en meteorit slår ner med hög hastighet."
     },
     {
-      "term": "spiralarm",
-      "explanation": "En svängd struktur i en galax där gas och unga stjärnor samlas."
+      "term": "seismometer",
+      "explanation": "Ett instrument som känner av och mäter rörelser och vibrationer i marken."
     },
     {
-      "term": "elliptisk",
-      "explanation": "En form som liknar en lätt hoptryckt och utdragen cirkel."
+      "term": "ejektamaterial",
+      "explanation": "Lös massa som kastas ut från en plats när en stor meteorit slår ner."
     },
     {
-      "term": "morfologi",
-      "explanation": "Läran om ett objekts yttre form och strukturella uppbyggnad."
+      "term": "stoft",
+      "explanation": "Mycket små och fina partiklar av fast material som lätt sprids med vinden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Far out in space, there are giant collections of stars called galaxies. One of them looks like a swirling spiral shell with an extra long arm stretched out wide. It is as if the galaxy has made a giant whirlpool of billions of shining suns and glittering star clusters. Floating nearby is a smaller companion galaxy pulling on it with invisible hands, creating exciting patterns in the dark night.",
-      "nyborjare": "Among the constellations in the night sky lies the galaxy Arp 78, also designated as NGC 772. Located roughly 100 million light-years away, it is a vast island of stars measuring a staggering 200,000 light-years across. What makes it particularly interesting is its unusually prominent and overdeveloped spiral arm. This striking structure has been pumped up by gravitational forces from a smaller companion orbiting nearby, the compact galaxy NGC 770. Together they form a fascinating pair in the universe.",
-      "entusiast": "Arp 78, cataloged as NGC 772, presents a striking example of a peculiar spiral galaxy located within the constellation Aries. With an estimated diameter of about 200,000 light-years and situated at a distance of 100 million light-years, the system displays a heavily disturbed morphology. Its most prominent feature is the asymmetric, overdeveloped outer spiral arm, highlighted by sweeping dust lanes and rich populations of young blue star clusters. This grand design structure is widely considered the result of gravitational tidal interactions with its bright companion, the elliptical dwarf galaxy NGC 770 positioned directly below. Deep telescopic exposures further reveal faint stellar streams that bear witness to the complex dynamical history of these interacting systems."
+      "barn": "Imagine going on an adventure to a completely deserted planet far away. In this picture, we see the ground on the red planet Mars. It looks like a desert with sand and rocks just like on Earth, but there are no trees or animals here. A brave robot has landed there to look around and send exciting pictures back to us. It is like looking into a completely foreign world!",
+      "nyborjare": "This image shows the dry and rocky landscape on the red planet Mars. The ground is covered with dust and sand shaped by the wind into dune-like formations. We can also see traces of impact craters where rocky debris has been thrown out around the edges. This photograph was taken by a spacecraft that landed on the planet to investigate its environment on site. By studying the ground, winds, and rocks, we can learn more about how the planets in our solar system formed and changed.",
+      "entusiast": "The image is captured from the surface of Mars and displays a typical desert landscape featuring low hills and a crater rim in the background. The dark, linear structures likely consist of ejecta material from the impact that formed the crater, while the lighter areas represent accumulations of eolian sand and fine dust transported by Martian winds. The landing site is equipped with instruments such as seismometers to measure ground motion and geophysical data, providing insights into the planet's internal structure and geological activity."
     },
     "terms": [
       {
-        "term": "light-year",
-        "explanation": "The enormous distance that a beam of light travels in one Earth year."
+        "term": "crater",
+        "explanation": "A large bowl-shaped depression formed on a surface when a high-speed meteoroid impacts."
       },
       {
-        "term": "spiral arm",
-        "explanation": "A curved structure within a galaxy where gas and young stars congregate."
+        "term": "seismometer",
+        "explanation": "An instrument used to detect and measure ground motions and vibrations."
       },
       {
-        "term": "elliptical",
-        "explanation": "A rounded shape that resembles a slightly flattened and stretched circle."
+        "term": "dust",
+        "explanation": "Very small and fine particles of solid matter that are easily carried by the wind."
       },
       {
-        "term": "morphology",
-        "explanation": "The study of the physical form and structural layout of an astronomical object."
+        "term": "wind",
+        "explanation": "The movement of air across a planet's surface that can shape landscapes over time."
       }
     ],
     "quiz": [
       {
-        "q": "What is a light-year?",
+        "q": "What type of celestial body is the surface of Mars known to resemble?",
         "options": [
-          "The time it takes for light to travel during one year",
-          "The distance that light travels in the span of one year",
-          "A measure of how much light a star emits"
+          "A hot gas giant without any solid ground",
+          "A cold, rocky desert with volcanoes and valleys",
+          "A frozen ice planet covered by liquid oceans"
         ],
         "correct": 1,
-        "fact": "A light-year is a unit of distance, representing how far light particles can travel through the vacuum of space in a single Earth year."
+        "fact": "Mars is a rocky planet with a dry surface marked by volcanoes, impact craters, and valleys."
       },
       {
-        "q": "What typically drives the formation of pronounced spiral arms with active star clusters in galaxies?",
+        "q": "What causes the dark, rocky stripes and the light, dune-like areas on Mars?",
         "options": [
-          "Gravitational tidal interactions with neighboring galaxies",
-          "Violent outbursts from supermassive black holes at the core",
-          "Collisions with fast-moving intergalactic gas clouds"
+          "Volcanic eruptions spreading lava across the continents",
+          "Wind moving sand and dust along with impact debris",
+          "Liquid water flowing down slopes during the summer"
         ],
-        "correct": 0,
-        "fact": "When galaxies pass close to one another, gravity creates tidal forces that compress gas and trigger widespread star formation."
+        "correct": 1,
+        "fact": "Wind plays a major role on Mars by shifting dust and sand, while darker material is often exposed around impact craters."
       },
       {
-        "q": "What shape do smaller companion galaxies like NGC 770 often display when orbiting larger spirals?",
+        "q": "Why is it important to study seismometers on a planet like Mars?",
         "options": [
-          "An irregular shape lacking any fixed structure",
-          "A perfectly circular disc shape",
-          "An elliptical shape with a smooth and diffuse appearance"
+          "To measure the planet's magnetic field and radiation levels",
+          "To detect marsquakes and learn more about the planet's interior",
+          "To calculate the exact distance from the planet to the sun"
         ],
-        "correct": 2,
-        "fact": "Smaller companions to large spiral galaxies frequently feature a rounded, elliptical shape resembling a stretched-out sphere."
+        "correct": 1,
+        "fact": "Seismometers record vibrations in the ground, helping scientists understand how the interior of the planet is structured."
       }
     ]
   }

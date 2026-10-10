@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-15",
-  "title": "A Daytime Eclipse: Moon Occults Venus",
-  "title_sv": "En daglig solförmörkelse: Månen döljer Venus",
+  "title": "Dust and Water in Sagittarius A*",
+  "title_sv": "Stoft och vatten vid Sagittarius A*",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/",
-  "credit": "Arnaud Mariat",
-  "w": 426,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAJBAAAgICAQEJAAAAAAAAAAAAAQIAAxEhMQQSIjJBQlFhcYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgUA/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBEv/aAAwDAQACEQMRAD8A4QE0Vd8SVpk7OBHK60HoJ+zKe6nZgVq7ozxIakjaVErisH9lHoyTkmLTQstSrywE2rsRfCM/JiQb32YQeGFroHqNbME9S3lEu0c55MsMZoPT/9k=",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png",
+  "link": "https://www.nasa.gov/image-detail/55459350878-2e1468b664-o/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/55459350878-2e1468b664-o/",
+  "w": 480,
+  "h": 348,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQAGBP/EACIQAAIBAwQDAQEAAAAAAAAAAAECAAMEERMhMUESImEF4f/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIDESEx/9oADAMBAAIRAxEAPwAu1uSz4I5ONxGKNJaoOipdlHR3MzlmnsyuSFU+Xlnia78Spa29FaauCFJHOSJWTZ1ris04L220lVdypAJHeYS9J+mwG39skTQ/p1RrgIuV+jr5BrsAbq3Bgg2OeNawvzC+2QBgLhRzELCpoXDuAKYwPu3cpRPwNfWzte4p3Ckhieg38h9YirkAkjHcpTUsZS7E/9k=",
   "quiz": [
     {
-      "q": "Vad kallas det när månen passerar framför en planet eller stjärna och tillfälligt döljer den?",
+      "q": "Vad är ett supermassivt svarta hål för något?",
       "options": [
-        "Okultation",
-        "Transit",
-        "Konjunktion"
-      ],
-      "correct": 0,
-      "fact": "En okultation sker när ett himlakropp passerar framför en annan och skymmer den från observatörens synhåll."
-    },
-    {
-      "q": "Varför kan månen visa en skära precis som Venus, trots att månen är en måne och Venus är en planet?",
-      "options": [
-        "Båda lyser med eget sken beroende på vulkanisk aktivitet",
-        "Båda belyses av solen och vi ser dem från en vinkel där delar är skuggade",
-        "Båda roterar så snabbt att hälften av dem ständigt är i mörker"
+        "En jättelik döende stjärna som lyser mycket svagt",
+        "Ett extremt tungt objekt i en galax mitt vars gravitation fångar allt",
+        "Ett moln av gas som snurrar runt i rymden med enorm fart"
       ],
       "correct": 1,
-      "fact": "Både månen och Venus uppvisar olika faser eftersom solljuset träffar dem från skiftande vinklar i förhållande till jorden."
+      "fact": "Ett supermassivt svarta hål har en så oerhört stark dragningskraft att inte ens ljuset kan smita därifrån."
     },
     {
-      "q": "Varför ser Venus ofta mycket ljusare ut än den mörka ytan på en månskära som syns i dagsljus?",
+      "q": "Hur långt bort ungefär ligger Vintergatans centrum från jorden?",
       "options": [
-        "Venus ligger mycket närmare solen och har moln som reflekterar ljus effektivt",
-        "Venus är tillverkad av metaller som fungerar som speglar i rymden",
-        "Venus skapar eget ljus genom friktion i sin atmosfär"
+        "Omkring 26 000 ljusår",
+        "Cirka 4,2 ljusår",
+        "Ungefär 2,5 miljoner ljusår"
       ],
       "correct": 0,
-      "fact": "Venus befinner sig närmare solen och dess tjocka molnlager reflekterar solljuset mycket bättre än månens mörka yta."
+      "fact": "Centrum av vår galax ligger ungefär 26 000 ljusår bort, vilket är en enorm sträcka även i rymdmått."
+    },
+    {
+      "q": "Vad är rymdstoft för någonting?",
+      "options": [
+        "Damm från planeters ytor som blåst ut i rymden",
+        "Små korn av fasta ämnen som flyter runt mellan stjärnorna",
+        "Aska efter stjärnor som brunnit färdigt för länge sedan"
+      ],
+      "correct": 1,
+      "fact": "Rymdstoft består av pyttesmå korn av bland annat kol, kisel och järn som svävar fritt i rymdens tomrum."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att månen leker kurragömma på himlen mitt på dagen. Ibland smyger den sig precis framför en lysande planet som heter Venus och gömmer den en stund. Både månen och Venus kan se ut som tunna, mysiga bananer eller skäror eftersom solen bara lyser på dem från sidan. Venus är en stor boll i rymden med moln som blänker i solljuset, nästan som en blinkande lykta fastän det är ljust ute.",
-    "nyborjare": "Det här händer när månen passerar framför en mer avlägsen himlakropp i solsystemet, vilket kallas för en okultation. Händelsen inträffar i dagsljus, vilket gör det extra svårt att upptäcka de svaga detaljerna på himlen. Både månen och Venus visar upp en så kallad fas, likt månens olika skepnader under en månad. Venus syns som en ljusstark prick eftersom dess atmosfär består av tjocka moln som reflekterar solljuset mycket starkare än månens mörka mark.",
-    "entusiast": "En okultation av Venus är ett astronomiskt skådespel som enbart kan observeras från en begränsad del av jorden, eftersom månens skugga och bana kräver exakta geometriska positioner. Vid denna händelse uppenbarar sig både månen och Venus i en crescentfas. Månen uppvisar en tunn skära där endast tio procent av dess yta är belyst av solen, medan Venus visar en mer framträdande belysning på ungefär tjugofem procent. Venus höga albedo beror på dess reflekterande svavelsyramoln, vilket gör att den lyser starkare än den mörka månytan trots att den befinner sig betydligt längre bort i rymden."
+    "barn": "Tänk dig en jättestor gungbräda som drar till sig allting i närheten. Mitt i vår stora galax Vintergatan finns ett monsterhål som kallas ett svart hål. Det är så tungt att det drar till sig stjärnor och gas. Men forskare har upptäckt att det faktiskt finns både damm och flytande vatten ganska nära detta tunga hål. Det är lite som att hitta en mysig vattenpool mitt i en vulkan.",
+    "nyborjare": "I centrum av vår galax Vintergatan ligger ett supermassivt svarta hål som kallas Sagittarius A*. Forskare som har använt James Webb-teleskopet har gjort en överraskande upptäckt. De har funnit att både rymdstoft och vatten kan bildas och överleva förvånansvärt nära detta kraftfulla svarta hål. Det är en fascinerande miljö där strålningen är extrem, vilket gör det till en stor gåta hur sådana molekyler kan finnas kvar där.",
+    "entusiast": "Bilden och dess upptäckter kretsar kring Sagittarius A*, det supermassiva svarta hålet i kärnan av vår galax på ett avstånd av omkring 26 000 ljusår. Med hjälp av det infraröda rymdteleskopet James Webb har astronomer kunnat studera de kaotiska områdena i galaxens centrum på ett helt nytt sätt. Att upptäcka komplexa ämnen som vatten och rymdstoft i en region som drabbas av intensiv strålning och stark tidvattenkraft utmanar tidigare modeller. Det visar att molekyler kan överleva och till och med bildas i astrofysiska miljöer som tidigare ansågs vara alldeles för fientliga."
   },
   "terms": [
     {
-      "term": "okultation",
-      "explanation": "När en himlakropp skyms av en annan som passerar framför den."
+      "term": "Vintergatan",
+      "explanation": "Den gigantiska samling av hundratals miljarder stjärnor där vårt solsystem har sin hemvist."
     },
     {
-      "term": "crescentfas",
-      "explanation": "När en planet eller måne ser ut som en skära på grund av solens vinkel."
+      "term": "svarta hål",
+      "explanation": "Ett kosmiskt objekt med så extremt stark gravitation att ingenting, inte ens ljus, kan ta sig därifrån."
     },
     {
-      "term": "atmosfär",
-      "explanation": "Det lager av gaser som omger en planet eller måne."
+      "term": "rymdstoft",
+      "explanation": "Mikroskopiska fasta partiklar av grundämnen som flyter omkring i det interstellära rummet."
     },
     {
-      "term": "albedo",
-      "explanation": "Ett mått på hur mycket ljus en yta reflekterar tillbaka ut i rymden."
+      "term": "James Webb-teleskopet",
+      "explanation": "Ett avancerat rymdteleskop som observerar universum främst i infrarött ljus."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine the Moon playing hide-and-seek in the daytime sky. Sometimes it sneaks right in front of a bright planet called Venus and hides it for a while. Both the Moon and Venus can look like thin, cozy bananas or crescents because the Sun only shines on them from the side. Venus is a big ball in space with clouds that sparkle in the sunlight, almost like a blinking lantern even though it is daytime.",
-      "nyborjare": "This event happens when the Moon passes in front of a more distant celestial body in the solar system, known as an occultation. The phenomenon occurs in broad daylight, making it especially difficult to spot these faint details in the sky. Both the Moon and Venus display a so-called phase, similar to the Moon's changing shapes throughout a month. Venus appears as a bright dot because its atmosphere consists of thick clouds that reflect sunlight much more strongly than the dark lunar ground.",
-      "entusiast": "An occultation of Venus is an astronomical spectacle that can only be observed from a limited portion of the Earth, as the Moon's orbital path requires precise geometric alignment. During this event, both the Moon and Venus reveal a crescent phase. The Moon displays a thin sliver with only ten percent of its disk illuminated by the Sun, while Venus shows a more prominent illumination of about twenty-five percent. The high albedo of Venus stems from its highly reflective sulfuric acid clouds, allowing it to outshine the dark lunar terrain despite being situated significantly further away in space."
+      "barn": "Imagine a giant invisible magnet pulling everything toward it. Right in the middle of our galaxy, the Milky Way, there is a super-heavy black hole. It is extremely massive and pulls in gas and stars. But scientists have discovered that there is actually dust and water quite close to this heavy hole. It is a bit like finding a tiny puddle right next to a roaring campfire.",
+      "nyborjare": "At the center of our Milky Way galaxy lies a supermassive black hole known as Sagittarius A*. Researchers using the James Webb Space Telescope have made a surprising discovery. They found that both cosmic dust and water can form and survive surprisingly close to this powerful black hole. It is a fascinating environment with extreme radiation, making it a great mystery how such molecules can persist there.",
+      "entusiast": "The discovery centers around Sagittarius A*, the supermassive black hole at the heart of our galaxy located about 26,000 light-years away. Utilizing the infrared capabilities of the James Webb Space Telescope, astronomers have probed the chaotic regions of the galactic core in unprecedented detail. Finding complex substances like water and cosmic dust in a region battered by intense radiation and strong tidal forces challenges previous theoretical models. It demonstrates that molecules can survive and even form in astrophysical environments previously thought far too hostile."
     },
     "terms": [
       {
-        "term": "occultation",
-        "explanation": "When a celestial body is hidden by another object passing in front of it."
+        "term": "Milky Way",
+        "explanation": "The gigantic barred spiral galaxy that contains our solar system and billions of stars."
       },
       {
-        "term": "crescent phase",
-        "explanation": "When a planet or moon appears shaped like a curved sliver due to the Sun's angle."
+        "term": "black hole",
+        "explanation": "A region of spacetime exhibiting gravitational acceleration so strong that nothing can escape from it."
       },
       {
-        "term": "atmosphere",
-        "explanation": "The layer of gases surrounding a planet or moon."
+        "term": "cosmic dust",
+        "explanation": "Tiny solid particles composed of heavy elements drifting through interstellar space."
       },
       {
-        "term": "albedo",
-        "explanation": "A measure of how much light a surface reflects back into space."
+        "term": "James Webb Space Telescope",
+        "explanation": "A space telescope optimized for infrared astronomy to peer deep into the universe."
       }
     ],
     "quiz": [
       {
-        "q": "What is it called when the Moon passes in front of a planet or star and temporarily hides it?",
+        "q": "What is a supermassive black hole?",
         "options": [
-          "Occultation",
-          "Transit",
-          "Conjunction"
-        ],
-        "correct": 0,
-        "fact": "An occultation occurs when one celestial body passes in front of another, obscuring it from the observer's view."
-      },
-      {
-        "q": "Why can the Moon show a crescent shape just like Venus, even though one is a moon and the other a planet?",
-        "options": [
-          "Both shine with their own light due to volcanic activity",
-          "Both are illuminated by the Sun and we view them from an angle where parts are shadowed",
-          "Both rotate so quickly that half of them is constantly in darkness"
+          "A giant dying star that shines very faintly",
+          "An extremely heavy object in a galaxy's center whose gravity traps everything",
+          "A cloud of gas spinning rapidly through space"
         ],
         "correct": 1,
-        "fact": "Both the Moon and Venus exhibit different phases because sunlight strikes them from varying angles relative to Earth."
+        "fact": "A supermassive black hole has gravitational pull so immense that not even light can escape from it."
       },
       {
-        "q": "Why does Venus often appear much brighter than the dark surface of a daytime lunar crescent?",
+        "q": "Roughly how far is the center of the Milky Way from Earth?",
         "options": [
-          "Venus is closer to the Sun and has clouds that reflect light efficiently",
-          "Venus is made of metals that act like mirrors in space",
-          "Venus creates its own light through atmospheric friction"
+          "About 26,000 light-years",
+          "Approximately 4.2 light-years",
+          "Around 2.5 million light-years"
         ],
         "correct": 0,
-        "fact": "Venus is closer to the Sun and its thick cloud layers reflect sunlight much better than the dark lunar surface."
+        "fact": "The center of our galaxy lies about 26,000 light-years away, which is an immense distance even in cosmic terms."
+      },
+      {
+        "q": "What is cosmic dust made of?",
+        "options": [
+          "Debris blown off planetary surfaces into space",
+          "Tiny grains of solid matter floating between the stars",
+          "Ash from stars that burned out long ago"
+        ],
+        "correct": 1,
+        "fact": "Cosmic dust consists of tiny grains of elements like carbon, silicon, and iron drifting freely in the void of space."
       }
     ]
   }

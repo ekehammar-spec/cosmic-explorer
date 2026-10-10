@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-07",
-  "title": "Supernova Remnant Pa 30",
-  "title_sv": "Supernovarest Pa 30",
+  "title": "Artemis II Crew Moon Photo Annotations",
+  "title_sv": "Artemis II-besättningens månanteckningar",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=3233&h=3429&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
-  "credit": "International Gemini Observatory / NOIRLab / NSF / AURA. Acknowledgment: PI: T. Cunningham ( Center for Astrophysics - Harvard & Smithsonian ). Image Processing: J. Miller & M. Rodriguez ( Internation",
-  "w": 452,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYBAwQAAv/EACMQAAIBBAICAgMAAAAAAAAAAAECAwAREiEEQTFRE2EiQtH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAAID/8QAGxEAAgIDAQAAAAAAAAAAAAAAAhEAAQMSMSH/2gAMAwEAAhEDEQA/AEZYyxVQLH17q+PjymNlEbEnrofde+BGzzKQQLb0bUwjhyy8YyRriFsNf2qEVtVNgCky5FpuPLGqhxi+VrdmtEkbPGkgkDO+zrx9VvfKWJ4p8rKNavuhKFRkuKsQe2xpA32GTHrydwZvjcEjXk68CjyStILRyKAx6OqV7lY7k2zqyHkSKcQ5AP3aggduohl1pXDHJtxy5aQNbQ/LzQg5SyMVxa+7E1DyvJILsW9bqJY3WJJMWVHJCk/taoIqBnt5P//Z",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg",
+  "link": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+  "w": 480,
+  "h": 319,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECB//EACMQAAICAQMDBQAAAAAAAAAAAAECABESAyExIkFhM0JSYpH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A52+rqZt1tyfcYD6uOWbUPsZClsxvuZrZtFQORdwB1nr1H/ZBqvkOt+flMGqrvKFphZAgaY4u9cWdjMZHtsPERAl+BKGJIHmIgf/Z",
   "quiz": [
     {
-      "q": "Vad är en nebulosa som denna främst uppbyggd av?",
+      "q": "Vad orsakar en solförmörkelse när solen till synes blockeras från jorden sett?",
       "options": [
-        "Fast sten och metall som har slitits loss från planeter",
-        "Glödande gas och stoft som slungats ut i rymden",
-        "Flytande vatten och andra ämnen i fryst tillstånd"
-      ],
-      "correct": 1,
-      "fact": "Nebulosor som denna skapas när material från en stjärna sprids ut i rymden efter dramatiska händelser."
-    },
-    {
-      "q": "Vilken händelse ger upphov till en supernovarest?",
-      "options": [
-        "En massiv stjärnexplosion i slutet av en stjärnas liv",
-        "När två asteroider kolliderar i ett solsystem",
-        "När en planet fångas in av en stjärnas starka dragningskraft"
+        "När månen passerar exakt framför solskivan",
+        "När jorden hamnar i skuggan av en asteroid",
+        "När solen tillfälligt slutar att avge ljus"
       ],
       "correct": 0,
-      "fact": "En supernova är en av de våldsammaste händelserna i universum och lämnar efter sig vackra moln av gas."
+      "fact": "En solförmörkelse inträffar när månen befinner sig i en rak linje mellan jorden och solen och därmed kastar sin skugga på vår planet."
     },
     {
-      "q": "Vad kallas restprodukten när två vita dvärgar slås samman?",
+      "q": "Vad kallas det när månen befinner sig längst bort från jorden i sin omloppsbana?",
       "options": [
-        "Ett svart hål",
-        "En neutronstjärna",
-        "En typ av supernovarest"
+        "Aphelium",
+        "Apogeum",
+        "Perigeum"
       ],
-      "correct": 2,
-      "fact": "Sammanslagningen av två vita dvärgar kan leda till en ovanlig typ av supernovaexplosion som bildar en nebulosa."
+      "correct": 1,
+      "fact": "Månens omloppsbana är elliptisk, vilket gör att avståndet till jorden varierar. Punkten längst bort kallas apogeum och punkten närmast kallas perigeum."
+    },
+    {
+      "q": "Hur lång tid tar det ungefär för månen att ett varv runt jorden?",
+      "options": [
+        "Ett dygn",
+        "En månad",
+        "Ett år"
+      ],
+      "correct": 1,
+      "fact": "Månen kretsar kring jorden och ett helt varv tar ungefär tjugosju och en halv dag, vilket har givit upphov till tideräkningen med månader."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att ett stort tomtebloss har sprakat till långt ut i rymden. Det här färgglada molnet är som resterna efter en jättestor raket som exploderade för länge sedan. Forskare tror att det bildades när två döda stjärnor krockade med varandra och flög i bitar. Nu lyser resterna vackert i mörkret likt en glittrande blomma av gas.",
-    "nyborjare": "Bilden visar en nebulosa som är resterna efter en stjärnexplosion, en så kallad supernovarest. För mycket länge sedan observerade astronomer på jorden en gäststjärna som plötsligt dök upp på natthimmeln. Forskare tror i dag att detta ljus kom från en ovanlig typ av supernova som orsakades av att två vita dvärgar smälte samman. Den heta stjärnan i mitten av molnet blåser ut starka vindar som formar de trådlika strukturerna vi ser.",
-    "entusiast": "Det här objektet är nebulosan Pa 30, en sällsynt supernovarest som kopplats till den historiska gäststjärnan SN 1181 som beskrevs av kinesiska, japanska och arabiska astronomer. Explosionen klassificeras som en Type Iax-supernova, vilket tros ha initierats av en sammanslagning av två vita dvärgar. Den extrema centralstjärnan driver en kraftfull stjärnvind som skapar de radiella filamenten, vars pärlliknande knutar mäter fyra ljusdagar i diameter. Detta unika system fortsätter att ge forskare insikter i stjärnors slutstadier efter nästan nio sekler."
+    "barn": "Tänk dig att månen spelar tittut med solen där uppe i rymden. När månen smyger sig precis framför solen blir det alldeles mörkt mitt på dagen, som när man blundar hårt med ögonen. Det är precis som att göra en skugga på väggen med handen, fast i jättestort format uppe bland stjärnorna.",
+    "nyborjare": "En solförmörkelse är ett fascinerande astronomiskt fenomen som uppstår när månen passerar mellan solen och jorden. Från jorden sett skymmer månen då solens ljus helt eller delvis. För att detta ska ske krävs att solen, månen och jorden står i nästan helt rak linje med varandra, vilket endast inträffar vid vissa månfastor.",
+    "entusiast": "Under rymdfärder som Artemis II studeras solens korona och himlakropparnas rörelser noggrant. En total solförmörkelse erbjuder unika tillfällen att observera solens yttersta atmosfär, som annars döljs av solskivans starka ljus. Månens elliptiska bana innebär att dess skenbara storlek på himlen varierar, vilket avgör om en solförmörkelse blir total eller ringformad beroende på det exakta avståndet till jorden."
   },
   "terms": [
     {
-      "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och stoft som svävar ute i rymden mellan stjärnorna."
+      "term": "solförmörkelse",
+      "explanation": "När månen skymmer solen helt eller delvis sett från jorden."
     },
     {
-      "term": "supernova",
-      "explanation": "En oerhört kraftfull och ljusstark explosion som inträffar när vissa stjärnor dör."
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som en himlakropp följer runt en annan på grund av gravitationen."
     },
     {
-      "term": "vit dvärg",
-      "explanation": "Den mycket tunga och kompakta rest som blir kvar när en stjärna som solen har brunnit ut."
+      "term": "korona",
+      "explanation": "Den yttersta delen av en stjärnas atmosfär som sträcker sig ut i rymden."
     },
     {
-      "term": "ljusdag",
-      "explanation": "Det enorma avstånd som ljuset hinner färdas på tjugofyra timmar."
+      "term": "elliptisk",
+      "explanation": "En form som liknar en lätt ihoptryckt cirkel eller en oval."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant sparkler bursting far out in space. This colorful cloud is like the remains of a huge firework that exploded a long time ago. Scientists believe it formed when two dead stars crashed into each other and flew apart. Now, the glowing remnants shine brightly in the dark like a glittering flower made of gas.",
-      "nyborjare": "The image shows a nebula that is the remnant of a stellar explosion, known as a supernova remnant. Long ago, astronomers on Earth observed a guest star that suddenly appeared in the night sky. Researchers today believe this light came from an unusual type of supernova caused by the merger of two white dwarfs. The hot star at the center of the cloud blows out strong winds that shape the threadlike structures we see.",
-      "entusiast": "This object is nebula Pa 30, a rare supernova remnant linked to the historical guest star SN 1181 recorded by Chinese, Japanese, and Arabic astronomers. The explosion is classified as a Type Iax supernova, thought to be initiated by the merger of two white dwarfs. The extreme central star drives a powerful stellar wind creating the radial filaments, whose pearl-like knots measure four light-days in diameter. This unique system continues to provide researchers with insights into stellar end-stages after nearly nine centuries."
+      "barn": "Imagine the Moon playing a game of peekaboo with the Sun way out in space. When the Moon slips right in front of the Sun, it gets dark in the middle of the day, just like closing your eyes tightly. It is like making a shadow on the wall with your hand, but on a giant scale among the stars.",
+      "nyborjare": "A solar eclipse is a fascinating astronomical phenomenon that occurs when the Moon passes between the Sun and Earth. From our planet's perspective, the Moon obscures the light of the Sun either partially or completely. For this alignment to happen, the Sun, Moon, and Earth must form a nearly straight line during a specific lunar phase.",
+      "entusiast": "During space missions such as Artemis II, crew members and instruments study celestial mechanics and the Sun's outer atmosphere. A total solar eclipse provides rare opportunities to observe the solar corona, which is normally hidden by the intense glare of the photosphere. The elliptical nature of the lunar orbit means the apparent size of the Moon varies, determining whether an eclipse is total or annular based on the precise distance from Earth."
     },
     "terms": [
       {
-        "term": "nebula",
-        "explanation": "A massive cloud of gas and dust floating in the space between stars."
+        "term": "eclipse",
+        "explanation": "An obscuring of the light from one celestial body by the passage of another between it and the observer."
       },
       {
-        "term": "supernova",
-        "explanation": "An incredibly powerful and luminous explosion that occurs when certain stars die."
+        "term": "orbit",
+        "explanation": "The curved path of a celestial object or spacecraft around a star, planet, or moon."
       },
       {
-        "term": "white dwarf",
-        "explanation": "The very dense and compact remnant left behind when a star like the Sun burns out."
+        "term": "corona",
+        "explanation": "The outermost region of a star's atmosphere consisting of plasma."
       },
       {
-        "term": "light-day",
-        "explanation": "The enormous distance that light travels in twenty-four hours."
+        "term": "elliptical",
+        "explanation": "Having the elongated shape of an oval or a flattened circle."
       }
     ],
     "quiz": [
       {
-        "q": "What is a nebula like this primarily composed of?",
+        "q": "What causes a solar eclipse when viewed from a planetary perspective?",
         "options": [
-          "Solid rock and metal torn away from planets",
-          "Glowing gas and dust hurled out into space",
-          "Frozen water and other compounds in solid form"
-        ],
-        "correct": 1,
-        "fact": "Nebulae like this are created when material from a star is expelled into space after dramatic events."
-      },
-      {
-        "q": "What event gives rise to a supernova remnant?",
-        "options": [
-          "A massive stellar explosion at the end of a star's life",
-          "When two asteroids collide within a solar system",
-          "When a planet is captured by a star's strong gravitational pull"
+          "When the Moon passes directly in front of the solar disk",
+          "When an asteroid casts a shadow across the star",
+          "When the Sun temporarily ceases its nuclear fusion"
         ],
         "correct": 0,
-        "fact": "A supernova is one of the most violent events in the universe, leaving behind beautiful clouds of gas."
+        "fact": "A solar eclipse occurs when the Moon moves between the Sun and Earth, blocking all or part of the Sun's light."
       },
       {
-        "q": "What is formed when two white dwarfs merge?",
+        "q": "What is the term for the point in the Moon's orbit when it is farthest from Earth?",
         "options": [
-          "A black hole",
-          "A neutron star",
-          "A type of supernova remnant"
+          "Aphelion",
+          "Apogee",
+          "Perigee"
         ],
-        "correct": 2,
-        "fact": "The merger of two white dwarfs can trigger an unusual type of supernova explosion that forms a nebula."
+        "correct": 1,
+        "fact": "Because the lunar orbit is elliptical, the point of maximum distance from Earth is called apogee."
+      },
+      {
+        "q": "Approximately how long does it take for the Moon to complete one full orbit around Earth?",
+        "options": [
+          "One day",
+          "One month",
+          "One year"
+        ],
+        "correct": 1,
+        "fact": "The Moon revolves around Earth in roughly twenty-seven and a half days, which historically inspired the concept of a calendar month."
       }
     ]
   }

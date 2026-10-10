@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-02",
-  "title": "The Complete Sharpless Catalog: 313 Nebulas",
-  "title_sv": "Det kompletta Sharpless-katalogen: 313 nebulosor",
+  "title": "Hubble Captures Vivid Auroras in Jupiter’s Atmosphere",
+  "title_sv": "Hubble fångar levande norrsken i Jupiters atmosfär",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/sharpless_catalog.png?w=4455&h=5592&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
-  "credit": "Bing Xin",
-  "w": 382,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABkDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgABAwb/xAAiEAACAgEDBAMAAAAAAAAAAAABAgARIRIxQQMjUmFRU4H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhUf/aAAwDAQACEQMRAD8A8eF1WRgCJWoBbutyOISoKYsYwN7kFUPkbjfiNZqLgwE1FdS7Xcejp+SzgwUYtTMofXCss4QYDIJGblZIWzgHjiaVJWwpVfUVAgkXVccGQgYk2N/dRV1PGYyhaAcNj9l3PkSgVXT/2Q==",
+  "url": "https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o",
+  "credit": "NASA/GSFC",
+  "src": "library",
+  "id": "hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o",
+  "w": 640,
+  "h": 637,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgIFBwT/xAAnEAACAgIBAwIHAQAAAAAAAAABAgMEABEhBhJBBSIkMTJRUmGhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhESIUH/2gAMAwEAAhEDEQA/AM4jRpHCICzH5AZf+nego47rYkPIOkOuMj03WRi0rozc6GsaVki7dmKfX6GZb8vk0V2FL/TkLe6kJY+Ppc7GHLNeWrKY5lKsP7mqyCEg/D3Njg+0awv1RUSSkZlikVozsFvt5yd9MNcJXdM2ihMQZVIOxvHFSxZXRWWPX+DMpileGQPGdMMv6nUZRQJkOx5GVrsDkfy3bSrzJ37/ABVeMKdV3nWi0UjKWlPaAP7nBP1MvYREjMf3wMP27ctyYyTNs+B4GQqjuwo/J//Z",
   "quiz": [
     {
-      "q": "Vad är en H II-region för något?",
+      "q": "Vad orsakar de vackra norrskenen som syns vid Jupiters poler?",
       "options": [
-        "Ett moln av joniserat väte som lyser upp av heta, unga stjärnor",
-        "Ett döende stjärnsystem som sänder ut röntgenstrålning",
-        "Ett supermassivt svart hål i centrum av en galax"
+        "Laddade partiklar från rymden som krockar med gasatomer",
+        "Reflekterat solljus från solsystemets månar",
+        "Vulkanutbrott på planetens isiga yta"
       ],
       "correct": 0,
-      "fact": "H II-regioner är stora interstellära moln av gas där ultraviolett ljus från nyfödda stjärnor joniserar vätet och får det att glöda."
+      "fact": "Norrsken uppstår när högenergetiska partiklar färdas längs magnetfältet och krockar med gas i atmosfären, vilket skapar ett färgstarkt sken."
     },
     {
-      "q": "Hur bildas en planetarisk nebulosa?",
+      "q": "Vilken roll spelar solvinden när det gäller norrsken på planeter?",
       "options": [
-        "När två tunga neutronstjärnor krockar med varandra i rymden",
-        "När en stjärna som solen stöter bort sina yttre lagren mot slutet av sitt liv",
-        "När interstellärt stoft dras samman av gravitationen för att bilda planeter"
+        "Den kyler ner atmosfären så att gasen börjar lysa",
+        "Den för med sig en ström av laddade partiklar från solen",
+        "Den skyddar planeten helt från all skadlig strålning"
       ],
       "correct": 1,
-      "fact": "En planetarisk nebulosa har inget med planeter att göra, utan uppstår när en solliknande stjärna kastar av sig sina yttre gaslager."
+      "fact": "Solvinden är en ständig ström av laddade partiklar som kastas ut från solen och driver på aktiviteten i planeternas magnetosfärer."
     },
     {
-      "q": "Vad är ursprunget till en supernovarest?",
+      "q": "Varför är Jupiter en särskilt intressant planet för astronomer som studerar stormar och väder?",
       "options": [
-        "Resterna efter en stjärna som exploderat i en våldsam supernova",
-        "Ett moln av gas som har blivit nedkylt till absoluta nollpunkten",
-        "Stjärnvindar från en ung och mycket massiv stjärna"
+        "Den har en fast yta med flytande hav av vatten",
+        "Den är den minsta planeten och roterar väldigt långsamt",
+        "Den är solsystemets största planet och känd för färgglada stormar"
       ],
-      "correct": 0,
-      "fact": "Supernovarester är de expanderande moln av materia och gas som kastas ut i rymden när en massiv stjärna exploderar."
+      "correct": 2,
+      "fact": "Jupiter är solsystemets största planet och domineras av gas samt våldsamma, färgstarka stormar som den Stora röda fläcken."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att rymden är som en stor sagobok fylld med färgglada moln av gas. I dag får vi titta på ett jättestort album som visar över trehundra sådana moln. Vissa ser ut som fladdermöss, andra som stora hjärtan eller spindelnät. De lyser i mörkret eftersom det bor nyfödda, sprudlande stjärnor inuti dem som fungerar som glödlampor. Det har tagit massor av timmar att fånga alla dessa magiska bilder med ett jättestort teleskop.",
-    "nyborjare": "Att fotografera rymdens alla gömställen kräver ett enormt tålamod och särskild utrustning. Den här bilden visar det kompletta Sharpless-katalogen, vilket är en samling av 313 olika nebulosor spridda över natthimlen. En nebulosa är ett enormt moln av gas och stoft i rymden där nya stjärnor ofta föds. Bland objekten finns både lysande H II-regioner, som är moln av joniserat väte som får sin energi från unga stjärnor, och mer sällsynta fenomen som planetariska nebulosor och supernovarester, vilka är lämningar efter döende eller exploderade stjärnor.",
-    "entusiast": "Att samla in hela Sharpless-katalogen av H II-regioner och andra nebulösa objekt är en herkulisk bedrift inom astrofotografin som kräver runt 800 timmars exponeringstid. Katalogen omfattar 313 distinkta objekt, där varje enskild komponent krävt mellan två och sex timmars arbete med smalbandssilter för att isolera emissioner från joniserat väte och syre, tillsammans med RGB-data. Utöver de klassiska stjärnbildande områdena som upplyses av O- och B-stjärnor, innehåller samlingen även mer avancerade evolutionsstadier av stjärnors livscykler. Hit hör planetariska nebulosor såsom Medusanebulosan, som är resterna av expanderande skal från avsvalnade jättestjärnor, samt supernovarester likt Spaghettinebulosan, där stoft och gas accelereras av shockvågor från historiska stjärnexplosioner."
+    "barn": "Tänk dig att solsystemets största planet bjuder på en jättefest med fyrverkerier! Det är inte vanliga raketer utan ett magiskt sken som kallas norrsken. Det händer när osynliga partiklar från rymden dundrar in i planetens luft och krockar med gas. Rymdteleskopet Hubble har tagit superfina bilder av detta färgglada ljus.",
+    "nyborjare": "Astronomer använder teleskop för att studera fantastiska ljusfenomen på polerna hos solsystemets största planet, Jupiter. Planeten är känd för sina färgglada stormar, men nu har forskare riktat in sig på dess vackra norrsken. Ett norrsken bildas när högenergetiska partiklar rusar in i en atmosfär nära de magnetiska polerna och krockar med gasatomer. Forskningen hjälper till att förstå hur dessa ljusfenomen reagerar på solvinden, som är en ström av laddade partiklar från solen. Detta tajmar perfekt med rymdsonden Juno som mäter solvindens egenskaper på plats.",
+    "entusiast": "Med hjälp av Hubble-teleskopets ultravioletta instrument har forskare fångat extremt dramatiska och aktiva norrsken i Jupiters atmosfär. Dessa spektakulära sken uppstår när högenergetiska partiklar från solsystemet accelereras in i planetens övre atmosfär nära dess magnetiska poler och kolliderar med gasatomer. Observationerna genomförs i ett samordnat program med rymdsonden Juno, som färdas genom solvinden för att mäta dess egenskaper direkt. Solvinden är en ständig ström av laddade partiklar som kastas ut från solen, och mätningarna visar hur Jupiters magnetosfär reagerar på skiftande förhållanden i denna ström."
   },
   "terms": [
     {
-      "term": "nebulosa",
-      "explanation": "Ett gigantiskt moln av gas och stoft som svävar fritt ute i rymden."
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en planet och hålls på plats av tyngdkraften."
     },
     {
-      "term": "joniserat",
-      "explanation": "Atomer som har förlorat eller tagit upp elektroner och därmed fått en elektrisk laddning."
+      "term": "norrsken",
+      "explanation": "Ett färgstarkt ljusspel på natthimlen som skapas när laddade partiklar krockar med gas i luften."
     },
     {
-      "term": "stjärnvindar",
-      "explanation": "Strömmar av laddade partiklar som ständigt blåser ut från en stjärnas yta."
+      "term": "solvind",
+      "explanation": "En kontinuerlig ström av laddade partiklar som slungas ut i rymden från solens yttre lager."
     },
     {
-      "term": "astronomi",
-      "explanation": "Vetenskapen som studerar universum och allt som finns bortom jorden."
+      "term": "rymdsond",
+      "explanation": "Ett obemannat rymdfarkost som skickas ut för att utforska himlakroppar eller den omgivande rymden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine space is like a huge storybook filled with colorful gas clouds. Today we get to look at a giant album showing over three hundred such clouds. Some look like bats, others like giant hearts or spiderwebs. They glow in the dark because newborn, energetic stars live inside them acting like lightbulbs. It took countless hours to capture all these magical images using a huge telescope.",
-      "nyborjare": "Photographing all of space's hidden corners requires immense patience and specialized equipment. This image displays the complete Sharpless Catalog, which is a collection of 313 different nebulas scattered across the night sky. A nebula is a massive cloud of gas and dust in space where new stars are often born. Among the objects are glowing H II regions, which are clouds of ionized hydrogen energized by young stars, as well as rarer phenomena like planetary nebulas and supernova remnants, representing the remains of dying or exploded stars.",
-      "entusiast": "Compiling the entire Sharpless Catalog of H II regions and other nebular objects is a monumental feat in astrophotography requiring around 800 hours of exposure time. The catalog encompasses 313 distinct objects, with each individual component demanding between two and six hours of work using narrowband filters to isolate emissions from ionized hydrogen and oxygen, combined with RGB data. Beyond classical star-forming regions illuminated by O and B stars, the collection also contains more advanced evolutionary stages of stellar lifecycles. These include planetary nebulas such as the Medusa Nebula, which are the remnants of expanding shells from evolved giant stars, as well as supernova remnants like the Spaghetti Nebula, where dust and gas are accelerated by shockwaves from historical stellar explosions."
+      "barn": "Imagine that the biggest planet in our solar system is throwing a giant fireworks party! It is not real rockets, but a magical glow called an aurora. This happens when invisible particles from space crash right into the planet's air and bump into gas. The Hubble Space Telescope has taken super cool pictures of this colorful light show.",
+      "nyborjare": "Astronomers use telescopes to study stunning light shows on the poles of the largest planet in the solar system, Jupiter. The planet is well known for its colorful storms, but researchers have now focused on its beautiful auroras. An aurora is created when high-energy particles rush into an atmosphere near the magnetic poles and collide with gas atoms. This research helps us understand how these light displays respond to the solar wind, which is a stream of charged particles from the sun. This perfectly times with the Juno spacecraft measuring the properties of the solar wind on site.",
+      "entusiast": "Using the ultraviolet capabilities of the Hubble Space Telescope, researchers have captured extremely dramatic and active auroras in Jupiter's atmosphere. These spectacular glows occur when high-energy particles are accelerated into the planet's upper atmosphere near its magnetic poles, colliding with gas atoms. The observations are part of a coordinated program alongside the Juno spacecraft, which travels through the solar wind to measure its properties directly. The solar wind is a constant stream of charged particles ejected by the sun, and these combined measurements reveal how Jupiter's magnetosphere reacts to changing conditions in this stream."
     },
     "terms": [
       {
-        "term": "nebula",
-        "explanation": "A giant cloud of gas and dust floating freely out in space."
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet and held in place by gravity."
       },
       {
-        "term": "ionized",
-        "explanation": "Atoms that have lost or gained electrons and thereby acquired an electrical charge."
+        "term": "auroras",
+        "explanation": "Colorful light displays in the sky caused by charged particles colliding with atmospheric gas."
       },
       {
-        "term": "telescope",
-        "explanation": "An optical instrument used to observe distant objects in the universe."
+        "term": "solar wind",
+        "explanation": "A continuous stream of charged particles ejected outward into space from the sun."
       },
       {
-        "term": "astrophotography",
-        "explanation": "The specialized practice of photographing celestial objects and night sky events."
+        "term": "spacecraft",
+        "explanation": "An unmanned vehicle sent into outer space to explore celestial bodies or deep space."
       }
     ],
     "quiz": [
       {
-        "q": "What is an H II region?",
+        "q": "What causes the beautiful auroras visible at Jupiter's poles?",
         "options": [
-          "A cloud of ionized hydrogen lit up by hot, young stars",
-          "A dying star system emitting powerful X-rays",
-          "A supermassive black hole at the center of a galaxy"
+          "Charged particles from space colliding with gas atoms",
+          "Reflected sunlight shining off the planet's icy moons",
+          "Volcanic eruptions on the solid surface of the planet"
         ],
         "correct": 0,
-        "fact": "H II regions are vast interstellar gas clouds where ultraviolet light from newborn stars ionizes the hydrogen and makes it glow."
+        "fact": "Auroras occur when high-energy particles travel along magnetic fields and collide with gas in the atmosphere, creating a colorful glow."
       },
       {
-        "q": "How is a planetary nebula formed?",
+        "q": "What role does the solar wind play regarding planetary auroras?",
         "options": [
-          "When two heavy neutron stars collide with each other in space",
-          "When a star like the Sun sheds its outer layers near the end of its life",
-          "When interstellar dust is pulled together by gravity to form planets"
+          "It cools the atmosphere so that the gas begins to glow",
+          "It carries a stream of charged particles originating from the sun",
+          "It completely shields the planet from all incoming space radiation"
         ],
         "correct": 1,
-        "fact": "A planetary nebula has nothing to do with planets; rather, it occurs when a sun-like star ejects its outer gas layers."
+        "fact": "The solar wind is a steady stream of charged particles ejected from the sun that drives activity within planetary magnetospheres."
       },
       {
-        "q": "What is the origin of a supernova remnant?",
+        "q": "Why is Jupiter a particularly interesting planet for astronomers studying storms and weather?",
         "options": [
-          "The debris left behind after a star explodes in a violent supernova",
-          "A gas cloud cooled down close to absolute zero",
-          "Stellar winds blowing from a young and massive star"
+          "It has a solid surface featuring large oceans of liquid water",
+          "It is the smallest planet in the system and rotates very slowly",
+          "It is the largest planet in the solar system and famous for colorful storms"
         ],
-        "correct": 0,
-        "fact": "Supernova remnants are the expanding clouds of matter and gas cast out into space when a massive star explodes."
+        "correct": 2,
+        "fact": "Jupiter is the largest planet in the solar system and is dominated by gas as well as violent, colorful storms like the Great Red Spot."
       }
     ]
   }

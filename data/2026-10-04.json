@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-04",
-  "title": "Supernumerary Rainbows over New Jersey",
-  "title_sv": "Extraregnbågar över New Jersey",
+  "title": "Space Station View of Earth at Night",
+  "title_sv": "Rymdstationens vy över jorden på natten",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1362&h=1920&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
-  "credit": "John Entwistle",
-  "w": 341,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABYDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBQIDBv/EACUQAAIBBAICAAcAAAAAAAAAAAECAAMEERIhMQUiEzJBYXGR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAAEC/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECEQMSEyFR/9oADAMBAAIRAxEAPwCu+CveSIzboVBbbIEx12YAZ5jtWkKKrTK5IGT+YxTS9A4ltaLkse4TeoVhxkmEsmEePo73ak/KvscxqsS1RiSMk5M53wN3dPZ4RW1pcbHpufr/ACNV/MC1qql1bVUyOXIGuftEp5e1PRnMlYWDMV6WEXHmLEIrKFbbv3wB+4Qvmj6Yxn//2Q==",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/55534901810-95d2f06788-o.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/55534901810-95d2f06788-o.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/55534901810-95d2f06788-o.jpg",
+  "link": "https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMG/8QAJxAAAgIBAwIFBQAAAAAAAAAAAQIDEQAEEjEhYQUTQVGCIkJigZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAQEAAwAAAAAAAAAAAAAAAAARARJB/9oADAMBAAIRAxEAPwDgolfzRIhWNgdw9srIjK3W1Ym9tURmSSut03PN+uMHVtKFWXaav6iTeSK20S00gDuLUgMrUt/kfbnMpmEcAjMIMjG1kN2V46Dvjobw8wLud1K9SkNkMflx/MTl120kaWNYL++9zn5Hj9Vl17lKUUA+mTuqiAMMMCNxo98rfbDDA//Z",
   "quiz": [
     {
-      "q": "Vad är det som orsakar de extra färgbanden som syns på insidan av en extraregnbåge?",
+      "q": "Hur kan städer lysa upp så starkt att de syns tydligt från rymden på natten?",
       "options": [
-        "Att ljuset reflekteras två gånger inuti samma vattendroppe",
-        "Ljuset fungerar som vågor som interfererar med varandra",
-        "Solljuset delas upp av iskristaller högt upp i atmosfären"
+        "Genom att samla och reflektera solljus under dagen",
+        "Tack vare miljontals elektriska ljuskällor i gator och byggnader",
+        "Genom naturlig bioluminescens från miljontals träd"
       ],
       "correct": 1,
-      "fact": "När vattendropparna är mycket jämna i storlek uppstår våginterferens, vilket skapar de extra färgbanden som bara kan förklaras med ljusets vågnatur."
+      "fact": "Städernas nattbelysning består av mänskligt skapat elektriskt ljus från gatlyktor, hem och byggnader, vilket gör att befolkade områden syns som lysande mönster i mörkret."
     },
     {
-      "q": "Vilken storlek måste vattendropparna i luften ha för att dessa särskilda regnbågar ska kunna bildas?",
+      "q": "På vilken ungefärlig höjd över jordytan kretsar den internationella rymdstationen ISS?",
       "options": [
-        "Knappt en millimeter eller mindre i diameter",
-        "Precis lika stora som vanliga hagelkorn",
-        "Minst fem centimeter stora för att fånga tillräckligt med ljus"
+        "Cirka 40 mil",
+        "Cirka 400 mil",
+        "Cirka 4 000 mil"
       ],
       "correct": 0,
-      "fact": "För att interferenseffekten ska uppstå och synas tydligt krävs det att de fallande vattendropparna är mycket små, vanligtvis mindre än en millimeter."
+      "fact": "Internationella rymdstationen befinner sig i låg omloppsbana på omkring 400 kilometers höjd, vilket motsvarar ungefär 250 engelska mil."
     },
     {
-      "q": "Var på himlen uppträder vanligtvis dessa sällsynta regnbågar i förhållande till solen?",
+      "q": "Varför ser jorden mörk ut mellan de lysande fläckarna på natten?",
       "options": [
-        "Rakt upp i zenit direkt ovanför betraktaren",
-        "I exakt samma riktning som solen skiner från",
-        "I motsatt riktning jämfört med var solen befinner sig"
+        "För att rymden suger upp allt ljus",
+        "För att haven och skogarna saknar storskalig elektrisk belysning",
+        "För att moln alltid täcker resten av planeten"
       ],
-      "correct": 2,
-      "fact": "Precis som vanliga regnbågar bildas dessa fenomen på himlen i den riktning som är vänd bort från solen när ljuset bryts och reflekteras i regndropparna."
+      "correct": 1,
+      "fact": "Hav, skogar och glest befolkade områden saknar den kraftiga artificiella belysning som finns i städer, vilket gör att de framstår som mörka områden från rymden."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att det har regnat färdigt och solen tittar fram igen. Ibland kan man vara så lycklig att man får se en färggrann båge på himlen. Men om alla regndroppar är precis lika stora kan det hända något magiskt. Då trollas det fram flera extra bågar på insidan som liknar ringar på vattnet när man kastar en liten sten i en spegelblank sjö.",
-    "nyborjare": "Efter ett oväder kan det hända att solen bryter igenom och skapar en regnbåge på himlen. Under speciella förhållanden kan man få se extraregnbågar, vilket är ett sällsynt och vackert fenomen. Det uppstår när fallande vattendroppar har nästan exakt samma storlek och är mindre än en millimeter breda. Solljuset reflekteras då inte bara inuti dropparna utan börjar också interferera, vilket är en vågeffekt som liknar krusningar på en damm när man kastar i en sten. Detta gör att flera extra färgbanden rullas upp på himlen.",
-    "entusiast": "När regnresterna efter en orkan drar förbi kan himlen bjuda på spektakulära optiska fenomen. Vid gynnsamma förhållanden uppenbarar sig extraregnbågar, vilket kräver att de fallande vattendropparna är monodispersa i storlek med en diameter som underskrider en millimeter. När solljuset passerar dessa droppar sker inte enbart en geometrisk reflektion och refraktion, utan en ljusvågskollision som kallas interferens. Fenomenet kan liknas vid vågryatmer på en vattenyta och kan enbart förklaras genom att betrakta ljus som vågor snarare än enbart partiklar. Under tidigt 1800-tal ansågs just dessa regnbågar utgöra tidiga experimentella bevis för ljusets vågnatur."
+    "barn": "Tänk dig att du tittar ner på jorden från ett jättestort rymdskepp mitt i natten. Städerna ser ut som glittrande diamanter och lysande spindelnät av lampor mot den mörka marken. Det är precis som när man flyger med ett flygplan och ser alla hus ljusa upp i mörkret, fast här är man så högt upp att man kan se hela länder på samma gång.",
+    "nyborjare": "Denna vy visar USA nattetid sett från den internationella rymdstationen. De starkt lysande klustren av ljus avslöjar var de stora städerna ligger, med New York i centrum som en av de ljusstarkaste punkterna. När rymdstationen färdas i sin omloppsbana runt jorden färdas den i enorm hastighet och passerar dag och natt flera gånger om dygnet, vilket ger astronauterna unika vyer över vår upplysta planet.",
+    "entusiast": "Bilden är tagen från den internationella rymdstationen som kretsar i en låg omloppsbana ungefär 400 kilometer upp i termosfären. De lysande klustren illustrerar mänsklig aktivitet, energiförbrukning och urbaniseringens utbredning över den nordamerikanska kontinenten. Från detta perspektiv kan forskare studera ljusföroreningar och energianvändning på stor skala, samtidigt som stationens bana ger ett ständigt skiftande perspektiv på jorden som ett sammanlänkat system."
   },
   "terms": [
     {
-      "term": "interferens",
-      "explanation": "När två eller flera vågor möts och antingen förstärker varandra eller släcker ut varandra."
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som ett föremål följer i rymden kring en planet på grund av gravitationskraften."
     },
     {
-      "term": "vågnatur",
-      "explanation": "Egenskapen hos ljus eller andra storheter att bete sig som rörliga vågor snarare än fasta partiklar."
+      "term": "termosfären",
+      "explanation": "Ett högt luftlager i atmosfären där temperaturerna stiger kraftigt och där satelliter brukar kretsa."
     },
     {
-      "term": "reflekteras",
-      "explanation": "När ljus eller andra strålar studsar tillbaka från en yta istället för att absorberas."
+      "term": "urbanisering",
+      "explanation": "Processen där människor i ökad utsträckning flyttar från landsbygden till städerna."
     },
     {
-      "term": "atmosfären",
-      "explanation": "Det tjocka lager av gaser och luft som omger vår planet och håller kvar luften vi andas."
+      "term": "ljusföroreningar",
+      "explanation": "Oönskat eller överflödigt artificiellt ljus som sprids i natthimlen och stör sikten."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine that a rainstorm has just passed and the Sun comes out again. Sometimes you are lucky enough to see a colorful bow across the sky. But if all the raindrops are nearly the exact same size, something magical can happen. Extra glowing arches pop up on the inside, looking just like ripples spreading on a pond when you toss a little stone into the water.",
-      "nyborjare": "After a storm clears, the Sun can break through and create a rainbow across the sky. Under special conditions, people can witness supernumerary rainbows, which are a rare and beautiful sight. This phenomenon happens when falling water droplets are almost identical in size and measure less than a millimeter across. Sunlight then not only reflects inside the droplets but also begins to interfere, which is a wave phenomenon similar to ripples on a pond when a stone is thrown in. This creates several extra bands of color.",
-      "entusiast": "When storm remnants pass through an area, the sky can reveal spectacular optical phenomena. Under favorable conditions, supernumerary rainbows appear, which require falling water droplets to be nearly uniform in size with a diameter under a millimeter. As sunlight passes through these droplets, it undergoes not only geometric reflection and refraction, but also wave interference. This phenomenon behaves similarly to ripples on a water surface and can only be explained by treating light as waves rather than simple particles. In the early 1800s, the existence of these distinct rainbows served as early evidence of light's wave nature."
+      "barn": "Imagine looking down at Earth from a giant spaceship in the middle of the night. The cities look like glittering diamonds and glowing spiderwebs of lights against the dark ground. It is just like looking out of an airplane window at houses shining in the dark, except you are so high up that you can see entire countries at once.",
+      "nyborjare": "This view shows the United States at night as seen from the International Space Station. The brightly glowing clusters of light reveal where major cities are located, with New York in the center shining as one of the brightest spots. As the space station travels in its orbit around Earth, it moves at tremendous speed, giving astronauts unique views of our illuminated planet.",
+      "entusiast": "The image was captured from the International Space Station operating in low Earth orbit within the thermosphere, roughly 250 miles high. The luminous clusters illustrate human activity, energy consumption, and the extent of urbanization across the North American continent. From this perspective, researchers can study light pollution and energy use on a macro scale while the station's trajectory provides a continuously shifting perspective of Earth."
     },
     "terms": [
       {
-        "term": "interference",
-        "explanation": "When two or more waves meet and combine to either reinforce or cancel each other out."
+        "term": "orbit",
+        "explanation": "The curved path that an object follows in space around a planet due to gravity."
       },
       {
-        "term": "droplets",
-        "explanation": "Very small and tiny drops of liquid water falling or floating through the air."
+        "term": "thermosphere",
+        "explanation": "A high atmospheric layer where temperatures increase significantly and satellites often travel."
       },
       {
-        "term": "reflects",
-        "explanation": "When light or other forms of radiation bounce back off a surface instead of passing through."
+        "term": "urbanization",
+        "explanation": "The process where an increasing share of a population shifts from rural areas to cities."
       },
       {
-        "term": "atmosphere",
-        "explanation": "The thick layer of gases surrounding our planet that protects life and holds the air we breathe."
+        "term": "light pollution",
+        "explanation": "Excessive or obtrusive artificial light directed upward that brightens the night sky."
       }
     ],
     "quiz": [
       {
-        "q": "What causes the extra color bands that appear on the inner side of a supernumerary rainbow?",
+        "q": "How can cities shine brightly enough to be clearly seen from space at night?",
         "options": [
-          "Light reflecting twice inside the exact same water droplet",
-          "Light waves interfering with each other like ripples on water",
-          "Sunlight being split apart by high-altitude ice crystals"
+          "By collecting and reflecting sunlight during the day",
+          "Thanks to millions of electric light sources in streets and buildings",
+          "Through natural bioluminescence from millions of trees"
         ],
         "correct": 1,
-        "fact": "When water droplets are very uniform in size, wave interference occurs, creating extra color bands that can only be explained by the wave nature of light."
+        "fact": "Urban nighttime illumination comes from human-made electric light from streetlamps, homes, and buildings, making populated areas visible as glowing patterns in the dark."
       },
       {
-        "q": "What size must the falling water droplets be in order for these specific unusual rainbows to form?",
+        "q": "At what approximate altitude above Earth's surface does the International Space Station orbit?",
         "options": [
-          "Roughly a millimeter across or even smaller",
-          "Exactly the same size as standard hailstones",
-          "At least five centimeters wide to catch enough light"
+          "About 250 miles",
+          "About 2,500 miles",
+          "About 25,000 miles"
         ],
         "correct": 0,
-        "fact": "For the interference effect to take place and become visible, the falling water droplets must be very small, typically measuring less than a millimeter."
+        "fact": "The International Space Station operates in a low Earth orbit at an altitude of roughly 250 miles, which is about 400 kilometers."
       },
       {
-        "q": "Where in the sky do these rare rainbows typically appear relative to the position of the Sun?",
+        "q": "Why does Earth look dark between the glowing patches at night?",
         "options": [
-          "Directly overhead in the highest point of the zenith",
-          "In the exact same direction where the Sun is shining",
-          "In the opposite direction compared to where the Sun is located"
+          "Because space absorbs all incoming light",
+          "Because oceans and forests lack large-scale electric lighting",
+          "Because clouds always cover the rest of the planet"
         ],
-        "correct": 2,
-        "fact": "Just like standard rainbows, these atmospheric displays form in the part of the sky facing away from the Sun as light refracts and reflects inside raindrops."
+        "correct": 1,
+        "fact": "Oceans, forests, and sparsely populated regions lack the intense artificial lighting found in cities, making them appear as dark zones from space."
       }
     ]
   }

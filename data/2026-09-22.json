@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-22",
-  "title": "Chance Triple Alignment: Plane, Space Station, Sun",
-  "title_sv": "Trippelpassage: Flygplan, rymdstation och sol",
+  "title": "Indonesia's Anak Krakatau",
+  "title_sv": "Anak Krakatau i Indonesien",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg?w=1500&h=1500&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
-  "credit": "Petr Horalek / Inst. Physics Opava",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg",
+  "link": "https://www.nasa.gov/image-detail/krakatau-oli-20260905-lrg/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/krakatau-oli-20260905-lrg/",
   "w": 480,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwcCBQABBP/EACkQAAICAgEDAgUFAAAAAAAAAAECAwQAEQUSITFBUgYTFCIyUWGBkcH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EAB4RAQABBAIDAAAAAAAAAAAAAAEAAgMRIQVRBBIT/9oADAMBAAIRAxEAPwBdKMIq5iKSQANk9gMs+KkgqcjE/IQsa8Up6nVdjqHjZ9QPOhi66sGYaTLDQfDXJTIG+mZQfHUQP9zlvcRcojc9eRF92tj+xjZqNDarpNBIksbjYZTsHNzVldCrKCCNEEeckHIXCrZOv423QxQcZVa5cjhSUROx0rH3emNHhqXyeKiqT14AEHSVX7kb9+/6+cVNOdq9mKZfyjYMP4xtcdcitVo5omDI42MbyHtrqDxwR7lhVqx1IBDWhiijBJCoNDvhWHbvreRSQayMkoyTtcs2UuZ//9k=",
+  "h": 466,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgQAAQUD/8QAIxAAAgIBBAICAwAAAAAAAAAAAQIAAxEEEiFBBVETFSIxUv/EABgBAQADAQAAAAAAAAAAAAAAAAQAAQIF/8QAGxEBAQEBAAMBAAAAAAAAAAAAAQIAEQMTITH/2gAMAwEAAhEDEQA/AM0AqOnXrmc3qBB3MMeu499N5FjxSvB/sCGnhvIblDUYz3vEPN3L+bVRNGx03U2ArkAHkiOXXZNjtYHJJ/Je/UrVaZ6LWR1KuP2DFWHGOossv64nrrxiG0b/AC+uufAuapRxhOIKazUik1/PYU9FsxcDEvM5/aXq5/DWzkghuQYG0GFmSWUy90Tpv//Z",
   "quiz": [
     {
-      "q": "Hur fort rör sig den internationella rymdstationen i sin bana runt jorden?",
+      "q": "Vad är det som gör att vulkaner som Anak Krakatau kan bildas på jorden?",
       "options": [
-        "Ungefär 8 kilometer i sekundén",
-        "Omkring 30 kilometer i timmen",
-        "Runt 300 kilometer i sekunden"
+        "Jordens inre är varmt och rör om i berggrunden genom tektoniska plattor.",
+        "Solen värmer upp havsvattnet så att det trycks upp genom jordskorpan.",
+        "Meteoriter slår ner och skapar djupa hål där magman väller ut."
       ],
       "correct": 0,
-      "fact": "Rymdstationen färdas i en oerhörd hastighet och kretsar kring vår planet på ungefär 90 minuter."
+      "fact": "Jordens jordskorpa är uppdelad i plattor som rör sig, vilket skapar vulkaner och jordbävningar där de krockar eller dras isär."
     },
     {
-      "q": "Vad är det som orsakar solfläckar på solens yta?",
+      "q": "Vad är det för typ av utbrott som vulkaner som ligger ute till havs ofta uppvisar?",
       "options": [
-        "Skuggor från planeter som passerar framför",
-        "Koncentrerade och starka magnetfält",
-        "Kall rymdstoft som faller mot ytan"
+        "Enbart iskristaller som bildar höga moln.",
+        "Aska, gaser och glödande lava som väller ut.",
+        "Stora mängder flytande guld och andra ädelmetaller."
       ],
       "correct": 1,
-      "fact": "Solfläckar är mörkare områden som uppstår på grund av kraftiga magnetfält som dämpar värmetransporten."
+      "fact": "Vulkanutbrott sprider ofta ut stora mängder het aska, vulkaniska gaser och trögflytande lava i sin omgivning."
     },
     {
-      "q": "Vilken roll spelar solen för vårt solsystem?",
+      "q": "Hur kan satelliter i rymden hjälpa till att studera vulkanutbrott på jorden?",
       "options": [
-        "Den är en fast planet av sten och metall",
-        "Den är en stjärna som sänder ut ljus och värme",
-        "Den är en stor måne som kretsar kring jorden"
+        "De kan spruta vatten på vulkanen för att kyla ner den.",
+        "De kan mäta hur mycket syre som finns i luften.",
+        "De kan ta bilder och mäta gaser uppifrån utan att forskarna behöver riskera sina liv."
       ],
-      "correct": 1,
-      "fact": "Solen är en jättelik stjärna i centrum av vårt solsystem som drivs av fusion i sitt inre."
+      "correct": 2,
+      "fact": "Satelliter med speciella kameror kan observera jordens yta på långt avstånd och upptäcka vulkanaska och gasutsläpp direkt från rymden."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att titta rakt in i en jättestor lysande boll på himlen och plötsligt få syn på både en liten rymdstation och ett flygplan som flyger förbi samtidigt. Det blir som en jättehäftig skuggteater där allt hamnar på exakt samma linje precis som när du blundar med ena ögat och ställer en myra framför en lampa.",
-    "nyborjare": "Det här ovanliga fotografiet fångar en extremt sällsynt händelse där tre helt skilda föremål radas upp framför solskivan. Till vänster syns den internationella rymdstationen, en farkost som kretsar runt jorden på hög höjd. Bredvid den finns mörkare solfläckar som orsakas av koncentrerade magnetfält på stjärnans yta. Längst fram korsar ett vanligt flygplan synfältet och skapar en miniatyrform av en solförmörkelse. Sannolikheten för att en slumpmässig bild ska innehålla både en rymdstation och ett flygplan på samma gång är oerhört liten.",
-    "entusiast": "Att fånga en trippelpassage av det här slaget kräver extremt exakt planering med subsekunds precision. Den internationella rymdstationen färdas i låg omloppsbana med en hastighet på omkring 28 000 kilometer i timmen, vilket gör att dess transit framför solskivan endast tar en bråkdel av en sekund. Samtidigt bidrar solfläckar, som är områden med intensiv magnetisk aktivitet på solens fotosfär, till visst brus i bilden. Att ett civilt flygplan dessutom råkar passera i exakt samma synlinje från fotografens position i Tjeckien uppskattas av forskare ha en sannolikhet på ungefär 30 miljoner till ett. Resultatet blir en sällsynt visuell överlagring av himmelska strukturer och atmosfäriska farkoster."
+    "barn": "Tänk dig att jorden är som en jättestor bulle i ugnen där det bubblar inuti! Ibland spricker skalet upp och då sprutar det ut varm aska och rök högt upp i luften. Det ser ut som när man skakar en flaska med läsk och korken flyger av. Satelliter långt ute i rymden kan titta ner på jorden och se när sådana här vulkaner har ett häftigt utbrott.",
+    "nyborjare": "Jorden är en levande planet med en varm kärna som driver rörelser i jordskorpan. När tektoniska plattor rör sig bildas vulkaner där glödande magma kan pressas upp till ytan. På den här bilden ser vi vulkanen Anak Krakatau som har ett utbrott där den skickar upp aska och vulkaniska gaser i luften. För att hålla koll på sådana här händelser använder forskare satelliter utrustade med avancerade instrument som kan fotografera jorden från rymden.",
+    "entusiast": "Den här satellitbilden fångar ett dynamiskt geologiskt skeende på jordens yta där vulkanen Anak Krakatau visar upp intensiv aktivitet. Vulkanism är ett direkt resultat av den interna värmeöverföringen i jordens mantel och platttektoniken vid konvergerande eller divergerande zoner. Genom att använda sensorer ombord på rymdbaserade plattformar, såsom instrumentet OLI på Landsat 8, kan forskare registrera spektraldata i flera våglängdsband. Detta gör det möjligt att analysera spridningen av vulkanaska, svaveldioxid och termiska anomalier med hög upplösning, vilket är avgörande för både geologisk forskning och tidig varning vid naturkatastrofer."
   },
   "terms": [
     {
-      "term": "rymdstation",
-      "explanation": "En stor bemannad farkost som kretsar kring jorden för forskning och observationer."
+      "term": "magma",
+      "explanation": "Glödande, smält bergarter som finns långt nere under jordens hårda yta."
     },
     {
-      "term": "solfläck",
-      "explanation": "Ett mörkare område på en stjärnas yta med kraftig magnetisk aktivitet och lägre temperatur."
+      "term": "vulkan",
+      "explanation": "En öppning i jordskorpan där het smälta och gaser kan tränga ut från djupet."
     },
     {
-      "term": "solförmörkelse",
-      "explanation": "När månen eller ett annat föremål hamnar framför stjärnan och skymmer dess ljus."
+      "term": "satellit",
+      "explanation": "Ett föremål som cirkulerar runt en himlakropp i rymden för att samla in information."
     },
     {
-      "term": "omloppsbana",
-      "explanation": "Den krökta bana som en himlakropp eller farkost följer på grund av gravitationen."
+      "term": "aska",
+      "explanation": "Fina partiklar av krossat berg och mineral som sprids i luften vid ett utbrott."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine looking straight at a huge glowing ball in the sky and suddenly spotting both a tiny space station and an airplane flying past at the same time. It creates a cool shadow puppet show where everything lines up perfectly, just like holding your toy up in front of a lamp.",
-      "nyborjare": "This unusual photograph captures an extremely rare event where three completely separate objects line up in front of the solar disk. To the left is the International Space Station, a spacecraft orbiting Earth at high altitude. Next to it are darker sunspots caused by concentrated magnetic fields on the star's surface. Right in front, a regular airplane crosses the field of view, creating a miniature version of a solar eclipse. The probability of any random image containing both a space station and an airplane at the same time is remarkably low.",
-      "entusiast": "Capturing a triple alignment of this nature requires extremely precise planning with sub-second timing. The International Space Station travels in a low Earth orbit at a speed of about 28,000 kilometers per hour, making its transit across the solar disk last only a fraction of a second. Meanwhile, sunspots, which are regions of intense magnetic activity on the solar photosphere, add complex features to the star's disk. The fact that a commercial airplane happened to cross the exact same line of sight from the photographer's position in the Czech Republic is estimated to have a probability of roughly 30 million to one. The result is a rare visual overlay of celestial structures and atmospheric craft."
+      "barn": "Imagine that the Earth is like a giant loaf of bread baking in an oven with bubbles inside! Sometimes the crust cracks open and hot ash and smoke shoot high up into the air. It looks a bit like shaking a soda bottle and watching the cap pop off. Satellites far out in space can look down at the Earth and see when these amazing volcanoes erupt.",
+      "nyborjare": "Earth is a living planet with a warm core that drives movements in its outer shell. When tectonic plates shift, volcanoes form where glowing magma can push its way up to the surface. In this image, we see the volcano Anak Krakatau erupting and sending ash and volcanic gases high into the air. To keep track of such events, scientists use satellites equipped with advanced instruments that can photograph the Earth from space.",
+      "entusiast": "This satellite image captures a dynamic geological process on Earth's surface as the volcano Anak Krakatau exhibits intense activity. Volcanism is a direct result of internal heat transfer within Earth's mantle and plate tectonics at active boundaries. By utilizing spaceborne sensors, such as the OLI instrument aboard Landsat 8, researchers can record spectral data across multiple wavelength bands. This enables detailed analysis of volcanic ash dispersion, sulfur dioxide emissions, and thermal anomalies with high spatial resolution, which is vital for both geological research and natural disaster monitoring."
     },
     "terms": [
       {
-        "term": "space station",
-        "explanation": "A large crewed spacecraft that orbits Earth for research and observation."
+        "term": "magma",
+        "explanation": "Molten and semi-molten rock located deep beneath the hard surface of a planet."
       },
       {
-        "term": "sunspot",
-        "explanation": "A darker region on a star's surface featuring strong magnetic activity and lower temperatures."
+        "term": "volcano",
+        "explanation": "An opening in a planet's crust that allows hot melted rock and gases to escape."
       },
       {
-        "term": "solar eclipse",
-        "explanation": "When an object passes directly in front of a star and blocks its light."
+        "term": "satellite",
+        "explanation": "An object that orbits a celestial body in space to gather information."
       },
       {
-        "term": "orbit",
-        "explanation": "The curved path that a celestial body or spacecraft follows due to gravity."
+        "term": "ash",
+        "explanation": "Fine particles of pulverized rock and minerals blown into the air during an eruption."
       }
     ],
     "quiz": [
       {
-        "q": "How fast does the International Space Station travel in its orbit around Earth?",
+        "q": "What causes volcanoes like Anak Krakatau to form on Earth?",
         "options": [
-          "About 8 kilometers per second",
-          "Around 30 kilometers per hour",
-          "About 300 kilometers per second"
+          "Earth's interior is hot and moves the crust through tectonic plates.",
+          "The Sun heats up ocean water until it bursts through the crust.",
+          "Meteorites strike the surface and create deep holes where magma pours out."
         ],
         "correct": 0,
-        "fact": "The space station travels at an immense speed, circling our planet once every 90 minutes."
+        "fact": "Earth's crust is divided into moving plates that create volcanoes and earthquakes where they collide or pull apart."
       },
       {
-        "q": "What causes sunspots on the surface of the Sun?",
+        "q": "What is typically released during volcanic eruptions in island or coastal regions?",
         "options": [
-          "Shadows from passing planets",
-          "Concentrated and strong magnetic fields",
-          "Cold space dust falling onto the surface"
+          "Only frozen ice crystals forming high clouds.",
+          "Ash, gases, and glowing lava pouring out.",
+          "Large amounts of liquid gold and precious metals."
         ],
         "correct": 1,
-        "fact": "Sunspots are darker regions that appear due to powerful magnetic fields suppressing heat transport."
+        "fact": "Volcanic eruptions frequently expel large quantities of hot ash, volcanic gases, and molten rock into the surrounding environment."
       },
       {
-        "q": "What role does the Sun play in our solar system?",
+        "q": "How can satellites in space assist scientists in studying volcanic eruptions on Earth?",
         "options": [
-          "It is a solid planet made of rock and metal",
-          "It is a star that emits light and heat",
-          "It is a large moon orbiting Earth"
+          "They can spray water on the volcano to cool it down.",
+          "They can measure the exact amount of oxygen in the air.",
+          "They can capture images and measure gases from above without endangering researchers."
         ],
-        "correct": 1,
-        "fact": "The Sun is a gigantic star at the center of our solar system powered by nuclear fusion in its core."
+        "correct": 2,
+        "fact": "Satellites carrying specialized cameras can observe Earth's surface from a distance and detect volcanic ash and gas emissions directly from space."
       }
     ]
   }

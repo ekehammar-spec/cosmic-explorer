@@ -2,134 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-27",
-  "title": "Andromeda Before Photoshop",
-  "title_sv": "Andromedagalaxen före Photoshop",
+  "title": "Ice Around Phoenix Lander Continues to Lessen in Spring",
+  "title_sv": "Is runt Phoenix-landaren minskar under våren",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg?w=4298&h=3394&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
-  "credit": "Kees Scherer",
-  "w": 480,
-  "h": 379,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQMABAYCBf/EACYQAAEDAgQGAwAAAAAAAAAAAAEAAgMRMQQSIUEFEyIyUWEzQnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxjRU3oNyi41R7RTe5/VZweCdiXgVoCUFaKF8rqMBKY+Hl6P0K97iAwnDoGwQPEkuXqIsCs/LKZH6n2UEayp1srD8Y5jMsfT7CUbJUm6Ac4l+Z7cw8Eriwp5up9Qms+UoP//Z",
+  "url": "https://images-assets.nasa.gov/image/PIA12853/PIA12853~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12853/PIA12853~thumb.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA12853/PIA12853~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA12853",
+  "credit": "NASA/JPL-Caltech/University of Arizona",
+  "src": "library",
+  "id": "PIA12853",
+  "w": 1020,
+  "h": 442,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAOACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQIDBAb/xAAgEAEAAgEEAgMAAAAAAAAAAAABAhEAAyExQRJxEyJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDnpEJacT5dOLG6+rb7cjdXGuedt8tCcQSrJlSUF56/MGrqMwikToorAuwPjRuX65wWY40J07OKt1eRB//Z",
   "quiz": [
     {
-      "q": "Vad är Andromedagalaxen för typ av astronomiskt objekt?",
+      "q": "Vad består den vita isen av som finns på marken i marsarktiken?",
       "options": [
-        "En stor galax som innehåller hundratals miljarder stjärnor",
-        "Ett glödande moln av gas inuti vårt eget solsystem",
-        "Ett supermassivt svart hål i Vintergatans mitt"
-      ],
-      "correct": 0,
-      "fact": "Andromedagalaxen är en enorm spiralgalax och vår närmaste stora granne i universum."
-    },
-    {
-      "q": "Vilken typ av galax är Andromedagalaxen (även känd som M31)?",
-      "options": [
-        "En oregelbunden galax utan tydlig form",
-        "En spiralgalax med armar som snurrar kring ett centrum",
-        "En klotformig dvärggalax"
+        "Endast frusen koldioxid",
+        "En blandning av vattenis och koldioxidis",
+        "Ren kväveis"
       ],
       "correct": 1,
-      "fact": "Andromedagalaxen är en klassisk spiralgalax som liknar vår egen Vintergata med svepande stjärnarmar."
+      "fact": "Vid mars poler finns det stora mängder vattenis under ytan, som delvis täcks av koldioxidis under den kalla vintern."
     },
     {
-      "q": "Ungefär hur lång tid tar det för ljuset att färdas från Andromedagalaxen till jorden?",
+      "q": "Varför förändras landskapet på Mars under våren och sommaren?",
       "options": [
-        "Cirka 8 minuter",
-        "Runt 4 år",
-        "Flera miljoner år"
+        "Temperaturen stiger och isen avdunstar eller sublimerar",
+        "Kraftiga vulkanutbrott smälter isen",
+        "Vattenströmmar rinner från bergen"
       ],
-      "correct": 2,
-      "fact": "Andromedagalaxen ligger ungefär 2,5 miljoner ljusår bort, vilket betyder att ljuset vi ser i dag lämnade galaxen långt innan den moderna människan fanns."
+      "correct": 0,
+      "fact": "När våren kommer till Mars stiger temperaturen, vilket gör att den frusna isen på marken försvinner ut i atmosfären i form av gas."
+    },
+    {
+      "q": "Vad kallas den typ av robotfordon som undersöker Mars yta på plats?",
+      "options": [
+        "Sond",
+        "Rover",
+        "Satellit"
+      ],
+      "correct": 1,
+      "fact": "En rover är ett motordrivet fordon som är byggt för att rulla runt på en främmande planet för att studera marken och miljön."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor snurra i rymden som är gjord av miljarder glittrande stjärnor. Det är Andromedagalaxen, och den är vår närmaste stora granne i rymden. Fast den ligger jättelångt borta! Ljuset från stjärnorna måste resa i miljoner år för att nå fram till våra ögon på jorden. Det är som ett gigantiskt fyrverkeri som lyser långt, långt borta i mörkret.",
-    "nyborjare": "Andromedagalaxen, eller M31 som den också kallas, är vår närmaste stora galaxgranne. En galax är en enorm samling av stjärnor, gas och stoft som hålls ihop av gravitationen. För att kunna urskilja detaljer i en så avlägsen struktur använder astronomer ofta långa exponeringar, vilket innebär att kameran samlar in ljus under en längre tid. Bilden visar hur galaxen ser ut genom jordens atmosfär, där stjärnljuset ibland störs av förbipasserande satelliter och flygplan.",
-    "entusiast": "Andromedagalaxen (M31) är en storslagen spiralgalax av Hubbletyp Sb, belägen på ett avstånd av ungefär 2,5 miljoner ljusår. Den utgör tillsammans med Vintergatan och Triangelgalaxen de mest framträdande medlemmarna i den lokala galaxhopen. M31 har en massa som är i storleksordningen en biljon solmassor och hyser ett komplext system av satellitgalaxer. När astronomer avbildar objekt som M31 från markbaserade observatorier ackumuleras brus från atmosfärisk turbulens, satellitspår och kosmisk strålning. Genom att stacka hundratals exponeringar och använda avancerad mjukvara kan man subtrahera dessa artefakter och närma sig galaxens sanna morfologi."
+    "barn": "Tänk dig att du har en stor glassglass som sakta smälter i solen när det blir varmt ute. På planeten Mars händer ungefär samma sak med isen på marken när våren kommer. Runt roboten som kallas rover smälter och försvinner den vita isen lite i taget eftersom solen värmer upp marken. Det är som att se naturen vakna till liv och ändra utseende efter den kalla vintern.",
+    "nyborjare": "När våren anländer till den norra hemisfären på Mars förändras landskapet dramatiskt. På dessa bilder, tagna av en förbipasserande rymdsond i omloppsbana, kan man följa hur ytisar gradvis försvinner. Fenomenet beror på att solens strålar värmer upp marken efter den mörka och kalla vintern. Vattenis och koldioxidis som har legat på ytan övergår direkt till gasform i den tunna atmosfären genom en process som kallas sublimering. En rover som står på plats kan mäta dessa förändringar och hjälpa forskarna att förstå planetens klimatscykler.",
+    "entusiast": "Dessa observationer dokumenterar den dynamiska säsongscykeln av ytvolatiler i marsarktiken. Under den norra marsvåren leder ökad solinstrålning till att säsongsbunden koldioxidis och permanent grundis sublimerar. Processen sker direkt från fast fas till gasfas på grund av det låga atmosfärstrycket, som i genomsnitt ligger på endast omkring 600 pascal. Genom att studera dessa förändringar med högupplöst optisk kamerautrustning i omloppsbana kan forskare modellera vattenångans flöde mellan ytan och atmosfären. Observationerna kompletterar data från markbaserade farkoster som Phoenix-landaren, vilket ger en heltäckande bild av planetens hydrologiska cykel och dess klimatologiska historia."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationen och innehåller miljarder stjärnor, gas och mörk materia."
+      "term": "rover",
+      "explanation": "Ett obemannat och motordrivet fordon som kör runt på en annan himlakropp för att utforska ytan."
     },
     {
-      "term": "spiralgalax",
-      "explanation": "En galaxform med utsträckta, roterande armar av stjärnor och gas som slingrar sig ut från ett ljust centrum."
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en planet och hålls kvar av dess dragningskraft."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den dragningskraft som massiva objekt utövar på varandra i universum."
+      "term": "sublimering",
+      "explanation": "När ett ämne går direkt från fast till gasform utan att passera flytande form."
     },
     {
-      "term": "exponering",
-      "explanation": "Den tid under vilken en kameras sensor samlar in ljus för att skapa en bild."
-    },
-    {
-      "term": "kosmisk strålning",
-      "explanation": "Henergirika partiklar som rör sig genom rymden med enorm hastighet."
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som en himlakropp eller rymdfarkost följer runt en annan på grund av gravitationen."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant pinwheel out in space made of billions of twinkling stars. That is the Andromeda galaxy, and it is our closest big neighbor in space. Even though it is a neighbor, it is super far away! The light from its stars has to travel for millions of years just to reach our eyes here on Earth. It is like a gigantic faraway firework glowing in the dark.",
-      "nyborjare": "The Andromeda galaxy, also known as M31, is our closest major galactic neighbor. A galaxy is a massive collection of stars, gas, and dust held together by gravity. To capture details in such a distant structure, astronomers often use long exposures, meaning the camera gathers light over an extended period. This image shows how the galaxy appears through Earth's atmosphere, where starlight is sometimes disrupted by passing satellites and airplanes.",
-      "entusiast": "The Andromeda galaxy (M31) is a magnificent Hubble type Sb spiral galaxy located at a distance of roughly 2.5 million light-years. Along with the Milky Way and the Triangelum galaxy, it is one of the most prominent members of the Local Group. M31 has a mass on the order of a trillion solar masses and hosts a complex system of satellite galaxies. When astronomers image objects like M31 from ground-based observatories, noise from atmospheric turbulence, satellite trails, and cosmic rays is accumulated. By stacking hundreds of exposures and employing advanced software, these artifacts can be subtracted to better reveal the true morphology of the galaxy."
+      "barn": "Imagine having a big ice block that slowly shrinks outside when the weather gets warm. On the planet Mars, something very similar happens to the ice on the ground when spring arrives. Around the robotic vehicle called a rover, the white ice slowly disappears bit by bit as the sun warms up the soil. It is like watching nature change its appearance after the long and cold winter.",
+      "nyborjare": "When spring arrives in the northern hemisphere of Mars, the landscape changes dramatically. In these images, captured by an orbiting spacecraft, you can track how surface ices gradually recede. This phenomenon occurs because the sun's rays heat up the ground after the dark and freezing winter. Water ice and carbon dioxide ice that accumulated on the surface turn directly into gas in the thin atmosphere through a process called sublimation. A rover stationed on the surface can measure these shifts and help scientists understand the planet's climate cycles.",
+      "entusiast": "These observations document the dynamic seasonal cycle of surface volatiles in the Martian arctic. During the northern Martian spring, increased solar irradiance drives the sublimation of seasonal carbon dioxide and shallow ground ice. This phase transition occurs directly from solid to gas due to the low atmospheric pressure, which averages only about 600 pascals. By tracking these changes with high-resolution orbital optical imaging instruments, researchers can model the flux of water vapor between the regolith and the atmosphere. These observations complement data gathered by stationary surface landers, providing a comprehensive view of the planet's hydrological cycle and its climatic history."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system of stars, gas, and dark matter held together by gravitational forces."
+        "term": "rover",
+        "explanation": "An unmanned robotic vehicle designed to move across the surface of a celestial body for scientific exploration."
       },
       {
-        "term": "spiral galaxy",
-        "explanation": "A galaxy shape featuring prominent, rotating arms of stars and gas winding out from a bright center."
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet and retained by its gravity."
       },
       {
-        "term": "gravity",
-        "explanation": "The invisible force of attraction that massive objects exert on one another across space."
+        "term": "sublimation",
+        "explanation": "The transition of a substance directly from the solid to the gas state without passing through the liquid state."
       },
       {
-        "term": "exposure",
-        "explanation": "The duration during which a camera sensor collects light to form an image."
-      },
-      {
-        "term": "cosmic rays",
-        "explanation": "High-energy particles traveling through space at nearly the speed of light."
+        "term": "orbit",
+        "explanation": "The curved trajectory of a celestial body or spacecraft around another body due to gravity."
       }
     ],
     "quiz": [
       {
-        "q": "What type of astronomical object is the Andromeda galaxy?",
+        "q": "What is the white ice on the ground in the Martian arctic primarily composed of?",
         "options": [
-          "A large galaxy containing hundreds of billions of stars",
-          "A glowing gas cloud inside our own solar system",
-          "A supermassive black hole at the center of the Milky Way"
-        ],
-        "correct": 0,
-        "fact": "The Andromeda galaxy is a massive spiral galaxy and our closest major galactic neighbor in the universe."
-      },
-      {
-        "q": "What morphological classification does the Andromeda galaxy (also known as M31) belong to?",
-        "options": [
-          "An irregular galaxy with no distinct shape",
-          "A spiral galaxy with arms rotating around a central core",
-          "A globular dwarf galaxy"
+          "Only frozen carbon dioxide",
+          "A mixture of water ice and carbon dioxide ice",
+          "Pure liquid nitrogen"
         ],
         "correct": 1,
-        "fact": "The Andromeda galaxy is a classic spiral galaxy resembling our own Milky Way with sweeping stellar arms."
+        "fact": "The polar regions of Mars contain vast amounts of subsurface water ice, which is partially covered by carbon dioxide ice during the bitter winter."
       },
       {
-        "q": "Roughly how long does it take for light to travel from the Andromeda galaxy to Earth?",
+        "q": "Why does the landscape on Mars change during the spring and summer seasons?",
         "options": [
-          "About 8 minutes",
-          "Around 4 years",
-          "Several million years"
+          "Rising temperatures cause surface ice to vaporize or sublimate",
+          "Powerful volcanic eruptions melt the ice",
+          "Liquid water streams flow from nearby mountains"
         ],
-        "correct": 2,
-        "fact": "The Andromeda galaxy is located approximately 2.5 million light-years away, meaning the light we see today left the galaxy long before modern humans existed."
+        "correct": 0,
+        "fact": "As spring arrives on Mars, temperatures rise, causing the frozen ice on the ground to disappear directly into the thin atmosphere as gas."
+      },
+      {
+        "q": "What is the term for a motorized robotic vehicle designed to explore the surface of a planet?",
+        "options": [
+          "Space probe",
+          "Rover",
+          "Orbiter"
+        ],
+        "correct": 1,
+        "fact": "A rover is a motorized vehicle built to drive across an alien landscape to study the ground and environment."
       }
     ]
   }

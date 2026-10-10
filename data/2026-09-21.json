@@ -2,134 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-21",
-  "title": "Cocoon Nebula Wide Field",
-  "title_sv": "Kokongnebulosan",
+  "title": "Hubble Space Telescope Wide Field Planetary Camera 2 Observations of Neptune",
+  "title_sv": "Neptunus och Triton",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=3000&h=2000&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
-  "credit": "Piotr Czerski",
-  "w": 480,
-  "h": 320,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQG/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIAAxEEEiFREzFhIv/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABkRAQEAAwEAAAAAAAAAAAAAAAABAhIhEf/aAAwDAQACEQMRAD8A5cKbrQm4BRzn1GWhQqgY+4kLWjuEU7SeATJNbVPZTZtBPomZ3reXUpVRi3UHwOMjb13GU6O+y3xIDknA+yur0r6O7x2j9DPAj5wbdIZ23HngzTqbDYyluSUBzCEUWq16iylA1bsG7zFWWvdYXsYloQhF5R//2Q==",
+  "url": "https://images-assets.nasa.gov/image/PIA01287/PIA01287~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA01287/PIA01287~thumb.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA01287/PIA01287~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA01287",
+  "credit": "NASA/JPL/STScI",
+  "src": "library",
+  "id": "PIA01287",
+  "w": 510,
+  "h": 259,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwQCBv/EACIQAAICAgEEAwEAAAAAAAAAAAECAwUAETESEyEyBhUigf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAEEAwEAAAAAAAAAAAAAAAABERNhAxIhMf/aAAwDAQACEQMRAD8A4apqprSZljIRU9mOJcUs9UUMhDxv4DAa84lBcCrmfuIWifW9cg4/yO9S1EcUKFY0PUWbknK5rZi+SSialpZLUuwftxodb1sk5i5qJaqZFdg6P6tx/MooLz6oukiF4mPV+eQcO/uTbToVQpFHvQPJJxxrCSSK/h//2Q==",
   "quiz": [
     {
-      "q": "Vad är en nebulosa för något?",
+      "q": "Vilken färg har Neptunus främst, och vad beror den på?",
       "options": [
-        "Ett moln av gas och stoft i rymden",
-        "En döende stjärna som har kollapsat",
-        "En typ av avlägsen spiralgalax"
+        "Blå, på grund av metangas i atmosfären",
+        "Röd, på grund av rost och järnoxid",
+        "Vit, på grund av tjocka moln av vattenis"
       ],
       "correct": 0,
-      "fact": "Nebulosor är jättelika moln av gas och rymdstoft som ofta fungerar som födelseplatser för nya stjärnor."
+      "fact": "Atmosfären på Neptunus innehåller metan som effektivt absorberar det röda ljuset från solen och reflekterar det blå, vilket ger planeten dess karakteristiska färg."
     },
     {
-      "q": "Varför liknar den här nebulosan en komet på bilden?",
+      "q": "Vad är Triton för typ av himlakropp?",
       "options": [
-        "Den rör sig lika snabbt genom solsystemet",
-        "Den har ett ljust huvud och en lång stoftsvans",
-        "Den består mestadels av is och fryst koldioxid"
+        "En ringformad dammskiva av ispartiklar",
+        "En stor måne som kretsar kring Neptunus",
+        "En mindre asteroid som passerar i solsystemets utkant"
       ],
       "correct": 1,
-      "fact": "Liksom en komet har detta komplex ett ljust huvud och en lång, utsträckt svans av interstellärt stoft."
+      "fact": "Triton är Neptunus största måne och är känd för sina aktiva gejsrar som sprutar ut kvävegas i rymden."
     },
     {
-      "q": "Vad är det som gör att stjärnformata regioner som denna lyser upp?",
+      "q": "Hur långt bort från solen ligger gasjätten Neptunus ungefär?",
       "options": [
-        "Reflekterat ljus och gas som exciteras av unga, varma stjärnor",
-        "Kraftfulla blixtar från gigantiska svarta hål i mitten",
-        "Elektriska urladdningar mellan kosmiska stoftmoln"
+        "Cirka 150 miljoner kilometer",
+        "Cirka 778 miljoner kilometer",
+        "Cirka 4,5 miljarder kilometer"
       ],
       "correct": 2,
-      "fact": "Nebulosor lyser antingen genom att reflektera stjärnljus eller genom att gasen exciteras av ultraviolett strålning från närliggande, heta stjärnor."
+      "fact": "Neptunus är den yttersta kända planeten i vårt solsystem och befinner sig på ett enormt avstånd av ungefär 4,5 miljarder kilometer från solen."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättestort moln av färgad rök som svävar långt ut i rymden. Det här molnet ser lite ut som en glittrande komet med ett ljust huvud och en jättelång svans gjord av rymddamm. Inne i molnet gömmer det sig massor av nyfödda stjärnor som växer upp och leker kurragömma bakom den mörka gasen. Det är som ett gigantiskt fyrverkeri som har stannat upp i tiden.",
-    "nyborjare": "På denna bild syns Kokongnebulosan, som är ett kompakt område där nya stjärnor bildas. Hela komplexet liknar en komet eftersom det har ett ljust huvud och en lång svans av interstellärt stoft som sträcker sig ut i rymden. Det centrala huvudet mäter omkring tio ljusår i diameter, medan den mörka stoftsvansen är nästan hundra ljusår lång. Båda delarna befinner sig cirka 2 500 ljusår bort i stjärnbilden Svanen. En stark stjärna nära centrum ger nebulosan dess energi och rensar upp en hålighet i gasen, samtidigt som mörka filament av stoft döljer nya stjärnor som just nu håller på att födas.",
-    "entusiast": "Kokongnebulosan, katalogiserad som IC 5146, utgör ett fascinerande stjärnbildningsområde beläget cirka 2 500 ljusår från jorden i stjärnbilden Svanen. Det visuella komplexet sträcker sig över två grader på stjärnhimlen och uppvisar en kometliknande morfologi med ett emissions- och reflektionshuvud i sydost samt en omfattande svans av interstellära stoftmoln åt nordväst. Själva huvudet har en utsträckning på ungefär tio ljusår, medan den mörka, stoftrika svansen mäter nästan hundra ljusår. En energirik stjärna i nebulosans centrala del exciterar gasen och har skapat en stor hålighet i det omgivande molnet genom stjärnvindar och strålningstryck. De långa, mörka filamenten i svansen utgör tunga moln av kall gas och stoft som är optiskt ogenomskinliga men döljer aktiva protostjärnor i tidiga utvecklingsstadier, vilka kan studeras i andra våglängder som infrarött ljus."
+    "barn": "Tänk dig en jättestor, vacker blå kula som svävar ensam i den mörka rymden! Den färgglada bollen är planeten Neptunus, som ligger så långt bort från solen att det är svinkallt där. Långt därute blåser rymdens kraftigaste vindar. Intill Neptunus svävar dess största måne som heter Triton. Den ser ut som en liten glittrande prick och har faktiskt vulkaner som sprutar upp gas istället för glödande lava.",
+    "nyborjare": "Neptunus är den åttonde och yttersta planeten i vårt solsystem. Det är en isjätte som till största delen består av tunga gaser och flytande ämnen runt en stenig kärna. Den vackra blå nyansen kommer från metangas i atmosfären som absorberar rött ljus. Bredvid planeten syns dess största måne, Triton. Triton är en fascinerande värld med extrem kyla och gejsrar som sprutar kväve. Eftersom avståndet från solen är så enormt tar det Neptunus hela 165 jordår att göra ett enda varv runt solen.",
+    "entusiast": "Denna vy fångar isjätten Neptunus tillsammans med dess största måne Triton. Neptunus atmosfär domineras av väte, helium och metan, där den sistnämnda beståndsdelen ger planeten dess slående cyanblå färg genom selektiv absorption av rött ljus. Vindarna på Neptunus är de kraftigaste i solsystemet och når överstödda överljudshastigheter på grund av interna värmekällor. Triton, som kretsar i en retrograd bana, tros vara en infångad dvärgplanet från Kuiperbältet. Månens märkliga geologiska aktivitet med kvävegejsrar och kryovulkanism drivs av tidvattenkrafter och soluppvärmning, vilket gör systemet till ett av de mest dynamiska i solsystemets yttre regioner."
   },
   "terms": [
     {
-      "term": "nebulosa",
-      "explanation": "Ett vidsträckt moln av gas och rymdstoft som finns ute i galaxerna."
+      "term": "isjätte",
+      "explanation": "En planet som till stora delar bygger på tyngre grundämnen som syre, kol, kväve och svavel."
     },
     {
-      "term": "ljusår",
-      "explanation": "Det avstånd som en ljusstråle färdas på ett helt jordår."
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en himlakropp och hålls kvar på plats av dess tyngdkraft."
     },
     {
-      "term": "interstellärt",
-      "explanation": "Det utrymme och den materia som existerar i rymden mellan stjärnorna."
+      "term": "kväve",
+      "explanation": "Ett vanligt grundämne i gasform som utgör den största delen av jordens luftsammansättning."
     },
     {
-      "term": "emissionsnebulosa",
-      "explanation": "Ett moln av upphettad gas som själv sänder ut synligt ljus."
-    },
-    {
-      "term": "filament",
-      "explanation": "Långa, trådliknande strukturer av gas eller stoft."
+      "term": "retrograd",
+      "explanation": "En rörelseriktning hos en himlakropp som sker åt motsatt håll jämfört med värdplanentens rotation."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a huge cloud of colorful smoke floating far out in space. This cloud looks a bit like a sparkling comet with a bright head and a very long tail made of space dust. Inside the cloud, lots of newborn stars are hiding, playing hide and seek behind the dark gas. It is like a giant firework that has paused in time.",
-      "nyborjare": "This image features the Cocoon Nebula, which is a compact region where new stars are born. The entire complex resembles a comet because it has a bright head and a long tail of interstellar dust stretching out into space. The central head spans about ten light-years across, while the dark dust tail is nearly one hundred light-years long. Both parts are located about 2,500 light-years away in the constellation Cygnus. A bright star near the center powers the nebula and clears out a cavity in the gas, while dark filaments of dust hide newborn stars currently in the process of forming.",
-      "entusiast": "The Cocoon Nebula, cataloged as IC 5146, represents a fascinating star-forming region located approximately 2,500 light-years from Earth in the constellation Cygnus. Spanning over two degrees on the sky, the visual complex displays a comet-like morphology with an emission and reflection head to the lower right, accompanied by an extensive tail of interstellar dust clouds stretching to the left. The central head measures roughly ten light-years in diameter, while the dark, dusty tail spans nearly one hundred light-years. An energetic star near the center supplies power and has cleared out a cavity within the surrounding molecular cloud via stellar winds and radiation pressure. The long, dark filaments in the tail consist of cold gas and dust that remain optically opaque in visible light while concealing active protostars in early stages of formation."
+      "barn": "Imagine a huge, beautiful blue ball floating all alone in the dark space! This colorful sphere is the planet Neptune, located so far away from the sun that it is freezing cold there. Out there, the strongest winds in space blow constantly. Right next to Neptune, its largest moon named Triton is hovering. It looks like a tiny twinkling dot and actually has volcanoes that spew out gas instead of glowing lava.",
+      "nyborjare": "Neptune is the eighth and outermost planet in our solar system. It is an ice giant mostly composed of heavier gases and fluid substances surrounding a rocky core. The striking blue hue comes from methane gas in the atmosphere which absorbs red light. Next to the planet, its largest moon Triton is visible. Triton is a fascinating world with extreme cold and geysers spraying nitrogen. Because the distance from the sun is so immense, it takes Neptune a full 165 Earth years to complete a single orbit around the sun.",
+      "entusiast": "This view captures the ice giant Neptune along with its largest moon Triton. Neptunian atmosphere is dominated by hydrogen, helium, and methane, with the latter constituent giving the planet its striking cyan-blue color through selective absorption of red light. Winds on Neptune are the strongest in the solar system, reaching supersonic speeds driven by internal heat sources. Triton, orbiting in a retrograde path, is believed to be a captured dwarf planet from the Kuiper belt. The moon's strange geological activity featuring nitrogen geysers and cryovolcanism is powered by tidal forces and solar heating, making the system one of the most dynamic in the outer regions of the solar system."
     },
     "terms": [
       {
-        "term": "nebula",
-        "explanation": "A vast cloud of gas and cosmic dust found out in space."
+        "term": "ice giant",
+        "explanation": "A planet consisting mostly of heavier elements like oxygen, carbon, nitrogen, and sulfur."
       },
       {
-        "term": "light-year",
-        "explanation": "The distance that a beam of light travels in one Earth year."
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a celestial body and held in place by its gravity."
       },
       {
-        "term": "interstellar",
-        "explanation": "The physical space and matter that exist between the stars."
+        "term": "nitrogen",
+        "explanation": "A common chemical element in gaseous form making up the majority of Earth's air composition."
       },
       {
-        "term": "emission",
-        "explanation": "The process where heated gas radiates its own visible light."
-      },
-      {
-        "term": "filament",
-        "explanation": "Long, thread-like structures composed of gas or cosmic dust."
+        "term": "retrograde",
+        "explanation": "A motion direction of a celestial body occurring opposite to the host planet's rotation."
       }
     ],
     "quiz": [
       {
-        "q": "What is a nebula?",
+        "q": "What color is Neptune primarily, and what causes it?",
         "options": [
-          "A vast cloud of gas and dust in space",
-          "A dying star that has completely collapsed",
-          "A distant type of swirling spiral galaxy"
+          "Blue, because of methane gas in the atmosphere",
+          "Red, because of rust and iron oxide",
+          "White, due to thick clouds of water ice"
         ],
         "correct": 0,
-        "fact": "Nebulae are gigantic clouds of gas and interstellar dust that frequently serve as nurseries for newborn stars."
+        "fact": "The atmosphere of Neptune contains methane which efficiently absorbs red light from the sun and reflects blue, giving the planet its characteristic color."
       },
       {
-        "q": "Why does this particular nebula resemble a comet in the image?",
+        "q": "What kind of celestial body is Triton?",
         "options": [
-          "It travels through the solar system at extreme speeds",
-          "It features a bright head and a long tail of dust",
-          "It is primarily composed of ice and frozen carbon dioxide"
+          "A ring-shaped dust disk of ice particles",
+          "A large moon orbiting Neptune",
+          "A smaller asteroid passing through the outer solar system"
         ],
         "correct": 1,
-        "fact": "Much like a comet, this complex showcases a luminous head paired with a long, extended tail of interstellar dust."
+        "fact": "Triton is the largest moon of Neptune and is known for its active geysers that spray nitrogen gas into space."
       },
       {
-        "q": "What causes star-forming regions like this one to light up?",
+        "q": "Roughly how far away from the sun is the gas giant Neptune?",
         "options": [
-          "Reflected light and gas excited by young, hot stars",
-          "Powerful lightning strikes generated by giant black holes",
-          "Electrical discharges moving between cosmic dust clouds"
+          "About 150 million kilometers",
+          "About 778 million kilometers",
+          "About 4.5 billion kilometers"
         ],
         "correct": 2,
-        "fact": "Nebulae shine either by reflecting starlight or because their gas is excited by ultraviolet radiation from nearby hot stars."
+        "fact": "Neptune is the furthest known planet in our solar system, located at a massive distance of roughly 4.5 billion kilometers from the sun."
       }
     ]
   }

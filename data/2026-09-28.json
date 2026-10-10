@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-28",
-  "title": "Cosmic Latte: The Average Color of the Universe",
-  "title_sv": "Kosmisk latte: Universums genomsnittliga färg",
+  "title": "NASA's Chandra Finds Unusual Objects in Pinwheel Galaxy",
+  "title_sv": "NASA:s Chandra upptäcker ovanliga objekt i Pinwheelgalaxen",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg?w=960&h=640&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/",
-  "credit": "Karl Glazebrook & Ivan Baldry ( JHU )",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg",
+  "link": "https://www.nasa.gov/image-detail/m101-lg/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/m101-lg/",
   "w": 480,
-  "h": 320,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAIBAwf/xAAgEAADAAIABwEAAAAAAAAAAAAAAQIDERMhUVNhkaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6KCKhutrJSXRaChpPeSn65GS1g18Ou7fz8MzDVJvJT8PQFgAAAAP/9k=",
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgUBAwYH/8QAIBAAAgICAgMBAQAAAAAAAAAAAQIAEQMxBAUSIWEUIv/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAhExEkH/2gAMAwEAAhEDEQA/AObyxcJOPzOroSKUBaNkj38j3quv/UmPxNljVXr7LS+suZ9CEoQLr1BM1HfdTm6ylyLaaqxYmbyqFcjUMTWo1ThGMr5f3dfIz4PLbjUAzJZsEC6imEMjLomVNZ0FWD7n9i3IDYHcubtnY3rVRJnbyyEjUAuff2DcG1xDVaf/2Q==",
   "quiz": [
     {
-      "q": "Vad händer med universums genomsnittliga färg över miljarder år?",
+      "q": "Vad är en galax som Pinwheelgalaxen huvudsakligen uppbyggd av?",
       "options": [
-        "Den blir allt blåare",
-        "Den blir allt rödare",
-        "Den förblir helt oförändrad"
+        "Enbart fasta planeter och asteroider i stora moln",
+        "Miljarder stjärnor, gas, stoft och mörk materia",
+        "Ett enda gigantiskt flytande hav av plasma"
       ],
       "correct": 1,
-      "fact": "Universums färg har blivit mindre blå och mer beige eftersom äldre, rödare stjärnor blir vanligare."
+      "fact": "En galax är ett enormt stjärnsystem som hålls samman av gravitation och innehåller allt från glödande stjärnor till enorma mängder gas och osynlig mörk materia."
     },
     {
-      "q": "Hur kom forskarna fram till universums genomsnittliga färg?",
+      "q": "Vilken typ av ljus är det som NASA:s teleskop Chandra är specialiserat på att fånga upp?",
       "options": [
-        "Genom att räkna ihop ljuset från hundratusentals galaxer",
-        "Genom att mäta temperaturen i det tomma rymdmörkret",
-        "Genom att analysera månens yta med specialkameror"
-      ],
-      "correct": 0,
-      "fact": "Astronomer räknade ut genomsnittsljuset från omkring 200 000 galaxer i ett stort kartläggningsprojekt."
-    },
-    {
-      "q": "Vilket roligt smeknamn fick den vinnande färgen i omröstningen?",
-      "options": [
-        "Galaxy gold",
-        "Cosmic latte",
-        "Nebula beige"
+        "Infrarött ljus som visar kalla gasmoln",
+        "Röntgent ljus från extremt heta processer",
+        "Synligt ljus som liknar det mänskliga ögat ser"
       ],
       "correct": 1,
-      "fact": "Vinnarnamnet blev cosmic latte efter en tävling där andra förslag var skyvory och univeige."
+      "fact": "Chandra är ett rymdteleskop som studerar röntgenstrålning, vilket gör det möjligt att upptäcka högenergiska händelser och extremt heta objekt i universum."
+    },
+    {
+      "q": "Varför söker astronomer efter ovanliga och okända typer av objekt i rymden?",
+      "options": [
+        "För att bevisa att universum är helt statiskt och oföränderligt",
+        "För att förstå fysikens lagar under extrema förhållanden",
+        "För att hitta nya platser att bygga rymdstationer på"
+      ],
+      "correct": 1,
+      "fact": "Genom att studera ovanliga kosmiska fenomen kan forskare testa fysikens gränser och lära sig mer om hur universum fungerar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du blandar alla färger på alla stjärnor i hela universum i en stor skål. Om man rör om ordentligt blir det till slut en ljusbrun färg som liknar kaffe med mycket mjölk. Forskare har räknat ut att om universum hade en enda färg så skulle den se ut så här.",
-    "nyborjare": "Forskare har länge ställt sig den udda frågan: vilken färg har egentligen universum? För att ta reda på detta har astronomer räknat samman ljuset från omkring 200 000 galaxer i ett enormt forskningsprojekt. Resultatet visar att det samlade ljuset från alla stjärnor bildar en beige nyans som påminner om latte. Detta färgspektrum har förändrats under de senaste tio miljarder åren eftersom äldre, rödare stjärnor blir vanligare medan blå stjärnor dör ut.",
-    "entusiast": "Genom att analysera data från 2D F Galaxy Redshift Survey har astronomer kunnat beräkna det genomsnittliga spektrumet för ljuset som emitteras av en stor population galaxer. Det resulterande kosmiska spektrumet visar att även om det finns emission i hela det elektromagnetiska spektrumet, så uppfattas den sammanlagda kulören som en ljus beige nyans med datorkoden FFF8E7. Denna färg har gradvis blivit mindre blå och rört sig mot rött under de senaste tio miljarder åren. Detta beror på att massiva, blå stjärnor har hunnit brinna ut, vilket gör att mindre massiva, rödare stjärnor dominerar det synliga ljuset."
+    "barn": "Tänk dig en jättestor snurra av stjärnor långt ut i rymden, som en glittrande karusell. I den här galaxen har rymdforskare hittat några väldigt knasiga och ovanliga saker som de aldrig har sett förut. Det är lite som att hitta en helt ny sorts godis i godispåsen som man inte visste fanns! Med hjälp av ett superkänsligt teleskop kan forskarna kika på sådant som lyser i osynligt ljus och lösa rymdens spännande mysterier.",
+    "nyborjare": "Pinwheelgalaxen är ett storslaget stjärnsystem som liknar en vidsträckt snurra fylld av stjärnor, gas och stoft. Forskare som använder NASA:s Chandra X-ray Observatory har upptäckt en helt ny klass av objekt här som beter sig på ett sätt som man aldrig har sett tidigare. Chandra är ett rymdteleskop som fångar upp röntgenstrålning, en typ av ljus med mycket hög energi som sänds ut av extremt heta fenomen i universum. Genom att studera dessa märkliga objekt kan astronomerna lära sig mer om de våldsamma och dynamiska processer som pågår i galaxernas inre.",
+    "entusiast": "I denna observation av Pinwheelgalaxen har NASA:s Chandra X-ray Observatory identifierat en ny klass av röntgenkällor som uppvisar unika och hittills okända beteenden. Galaxen, som är ett storslaget spiralgalaxsystem, utgör ett perfekt laboratorium för att studera högatsenergifysik. Chandra observerar himlen i röntgenvåglängder, vilket är avgörande eftersom många av universums mest dramatiska processer, såsom ackretionsskivor kring svarta hål eller unga neutronstjärnor, strålar starkt i röntgen. Upptäckten av denna nya population av objekt utmanar våra nuvarande modeller för stjärnors slutstadier och kompaktobjektens fysik i externa galaxer."
   },
   "terms": [
     {
       "term": "galax",
-      "explanation": "Ett enormt stjärnsystem som samlar miljarder stjärnor, gas och stoft som hålls ihop av tyngdkraften."
+      "explanation": "Ett enormt system av miljarder stjärnor, gas och stoft som hålls samman av ömsesidig gravitation."
     },
     {
-      "term": "spektrum",
-      "explanation": "En uppdelning av ljus i olika våglängder eller färger, ungefär som när solljus delas upp i en regnbåge."
+      "term": "röntgenstrålning",
+      "explanation": "En typ av elektromagnetisk strålning med mycket hög energi som sänds ut från extremt heta kosmiska källor."
     },
     {
-      "term": "emission",
-      "explanation": "Utsändning av strålning eller ljus från ett ämne när dess partiklar tappar energi."
+      "term": "röntgenteleskop",
+      "explanation": "Ett instrument i rymden som är konstruerat för att detektera och avbilda högenergisk strålning från universum."
     },
     {
-      "term": "astronom",
-      "explanation": "En forskare som studerar universum, stjärnor, planeter och andra himlakroppar."
+      "term": "spiralgalax",
+      "explanation": "En galaxstyp med en platt roterande skiva som har vackra armar av stjärnor som sveper ut från kärnan."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine mixing the colors of every single star in the entire universe together in a giant bowl. If you stirred it all up, it would end up looking like a light brown shade similar to coffee with a lot of milk. Scientists have calculated that if the universe had just one single color, it would look like this.",
-      "nyborjare": "Scientists have long asked a whimsical question: what color is the universe? To find out, astronomers calculated the combined light from about 200,000 galaxies in a massive research project. The result shows that the composite light from all stars forms a beige shade resembling a latte. This color spectrum has changed over the past ten billion years because older, redder stars are becoming more prevalent while blue stars fade away.",
-      "entusiast": "By analyzing data from the 2D F Galaxy Redshift Survey, astronomers were able to compute the average spectrum of light emitted by a large sample of galaxies. The resulting cosmic spectrum shows that although there is emission across the entire electromagnetic spectrum, the perceived composite color is a light beige shade represented by the computer code FFF8E7. This color has gradually become less blue and shifted toward red over the past ten billion years. This occurs because massive blue stars burn through their fuel quickly, leaving lower-mass, redder stars to dominate the visible light."
+      "barn": "Imagine a huge spinning wheel of stars far out in space, looking like a glittering carousel. In this galaxy, space researchers have found some very strange and unusual things that they have never seen before. It is a bit like finding a brand new kind of candy in your bag that you did not know existed! With the help of a super-sensitive telescope, scientists can look at things that glow in invisible light and solve exciting mysteries of space.",
+      "nyborjare": "The Pinwheel Galaxy is a magnificent stellar system that resembles a sprawling pinwheel filled with stars, gas, and dust. Researchers using NASA's Chandra X-ray Observatory have discovered an entirely new class of objects here that behave in ways never witnessed before. Chandra is a space telescope designed to capture X-rays, a type of high-energy light emitted by extremely hot phenomena in the universe. By studying these peculiar objects, astronomers can learn more about the violent and dynamic processes occurring within galaxies.",
+      "entusiast": "In this observation of the Pinwheel Galaxy, NASA's Chandra X-ray Observatory has identified a new class of X-ray sources exhibiting unique and previously unknown behaviors. The galaxy, which is a magnificent spiral system, serves as an ideal laboratory for studying high-energy astrophysics. Chandra observes the sky in X-ray wavelengths, which is crucial because many of the universe's most dramatic processes, such as accretion disks around black holes or young neutron stars, radiate strongly in X-rays. The discovery of this new population of objects challenges our current models of stellar evolution and compact object physics in external galaxies."
     },
     "terms": [
       {
         "term": "galaxy",
-        "explanation": "A massive system held together by gravity that contains billions of stars, gas, and dust."
+        "explanation": "A massive system of billions of stars, gas, and dust held together by mutual gravity."
       },
       {
-        "term": "spectrum",
-        "explanation": "The distribution of light into different wavelengths or colors, much like a rainbow."
+        "term": "X-ray radiation",
+        "explanation": "A type of electromagnetic radiation with very high energy emitted from extremely hot cosmic sources."
       },
       {
-        "term": "emission",
-        "explanation": "The release of radiation or light from matter as its particles lose energy."
+        "term": "space telescope",
+        "explanation": "An instrument stationed above Earth's atmosphere designed to detect and image radiation from the universe."
       },
       {
-        "term": "astronomer",
-        "explanation": "A scientist who studies the universe, stars, planets, and other celestial bodies."
+        "term": "spiral galaxy",
+        "explanation": "A galaxy type featuring a flat rotating disk with striking arms of stars sweeping out from the core."
       }
     ],
     "quiz": [
       {
-        "q": "What happens to the average color of the universe over billions of years?",
+        "q": "What is a galaxy like the Pinwheel Galaxy mainly composed of?",
         "options": [
-          "It is becoming increasingly blue",
-          "It is becoming increasingly red",
-          "It remains completely unchanged"
+          "Only solid planets and asteroids in large clouds",
+          "Billions of stars, gas, dust, and dark matter",
+          "A single giant liquid ocean of plasma"
         ],
         "correct": 1,
-        "fact": "The color of the universe has become less blue and more beige as older, redder stars become more common."
+        "fact": "A galaxy is a massive star system held together by gravity, containing everything from glowing stars to vast amounts of gas and invisible dark matter."
       },
       {
-        "q": "How did researchers determine the average color of the universe?",
+        "q": "What type of light is NASA's Chandra telescope specialized in capturing?",
         "options": [
-          "By averaging the light emitted by hundreds of thousands of galaxies",
-          "By measuring the temperature in the dark void of deep space",
-          "By analyzing the surface of the Moon with specialized cameras"
-        ],
-        "correct": 0,
-        "fact": "Astronomers computationally averaged the light from approximately 200,000 galaxies in a major survey."
-      },
-      {
-        "q": "What fun nickname won the contest to name the final color?",
-        "options": [
-          "Galaxy gold",
-          "Cosmic latte",
-          "Nebula beige"
+          "Infrared light showing cold gas clouds",
+          "X-ray light from extremely hot processes",
+          "Visible light similar to what the human eye sees"
         ],
         "correct": 1,
-        "fact": "The winning name became cosmic latte after a contest where other notable entries included skyvory and univeige."
+        "fact": "Chandra is a space telescope that studies X-ray radiation, making it possible to detect high-energy events and extremely hot objects in the universe."
+      },
+      {
+        "q": "Why do astronomers search for unusual and unknown types of objects in space?",
+        "options": [
+          "To prove that the universe is entirely static and unchanging",
+          "To understand the laws of physics under extreme conditions",
+          "To find new places to build space stations"
+        ],
+        "correct": 1,
+        "fact": "By studying unusual cosmic phenomena, researchers can test the limits of physics and learn more about how the universe works."
       }
     ]
   }

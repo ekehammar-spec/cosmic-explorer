@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-26",
-  "title": "Mirrored Meteor and Milky Way",
-  "title_sv": "Speglad meteor och Vintergatan",
+  "title": "Pathfinder Landing Site Observed by Mars Orbiter Camera - Big",
+  "title_sv": "Mars Pathfinder-landningsplatsen observerad av Mars Orbiter Camera",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=2000&h=1334&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
-  "credit": "Jeff Dai ( TWAN )",
-  "w": 480,
-  "h": 320,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBAgMEBv/EACAQAAICAwABBQAAAAAAAAAAAAECAAMEESESMTJBUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDlMSkEgR/ZgqlFJbRDAnUQYObQSPJwh+m5Nw5Fltq3m0+ae0qeARVRkYoViAItvp0DyMb8u5sxTpBS+hr5Ew5JXvYqEAMuHYehI/IQkF2vt2D5nY7uQ11jb25MIQP/2Q==",
+  "url": "https://images-assets.nasa.gov/image/PIA01438/PIA01438~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA01438/PIA01438~thumb.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA01438/PIA01438~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA01438",
+  "credit": "NASA/JPL/MSSS",
+  "src": "library",
+  "id": "PIA01438",
+  "w": 394,
+  "h": 395,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQAAgUG/8QAJRAAAgIBAwMEAwAAAAAAAAAAAQIDEQAEEiEFUXETIjFBUoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwA0sm1DlYyXu2AHjnJW+aqsD3G8Hq5DGbrjsMzSLiaMyenuo92FD+4ehWYzaoMx3Cj2OPdLnMsLoxJKNQ8YKw3FGfUZeWZl484jqmsEEHjij9Zrheb+CDg9Tp49SCZAQ35KfnzimXHKahuTtFZqdEiYRs73Td8ZPSdMhstI/wBncQAf0MYBRRtQBfGCt1//2Q==",
   "quiz": [
     {
-      "q": "Vad är det för astronomiskt fenomen som skapar ett färggrant streck över natthimlen i den här bilden?",
+      "q": "Vad kallas den typ av farkost som rullar omkring på Mars yta för att undersöka marken på nära håll?",
       "options": [
-        "En supernovaexplosion i en avlägsen galax",
-        "En meteor som brinner upp i jordens atmosfär",
-        "En solvind som träffar jordens magnetfält"
+        "Marslandare",
+        "Marsrover",
+        "Marssond"
       ],
       "correct": 1,
-      "fact": "Meteorer uppstår när små rymdstenar faller mot jorden med enorm fart och hettas upp när de bromsas av luften."
+      "fact": "En marsrover är ett hjulförsett fordon som är byggt för att köra på en annan planet och utföra vetenskapliga mätningar."
     },
     {
-      "q": "Vad är Vintergatan för något?",
+      "q": "Hur kommunicerar oftast rymdfarkoster som kretsar kring Mars med jorden?",
       "options": [
-        "En gigantisk samling av hundratals miljarder stjärnor",
-        "Ett moln av gas som lyser tack vare närliggande solar",
-        "En planet som kretsar mycket nära vårt solsystem"
+        "Genom radiosignaler som färdas med ljusets hastighet",
+        "Med hjälp av laserstrålar som reflekteras i månen",
+        "Genom kablar som dragits hela vägen genom rymden"
       ],
       "correct": 0,
-      "fact": "Vintergatan är vår egen galax, en stor skiva bestående av stjärnor, gas och stoft där solen bara är en av alla stjärnor."
+      "fact": "Radiosignaler är en form av elektromagnetisk strålning som färdas genom rymdens vakuum med samma hastighet som ljuset."
     },
     {
-      "q": "Varför bygger forskare jättelika teleskop med speglar som består av massor av mindre sexkantiga delar?",
+      "q": "Varför är det viktigt att studera landningsplatser och gamla ytor på Mars?",
       "options": [
-        "För att spegeln ska bli billigare att frakta ut i rymden",
-        "För att lättare kunna spegla bort det störande solljuset",
-        "För att kunna bygga en enorm yta som samlar in mycket ljus"
+        "För att planeten håller på att flytta sig närmare solen",
+        "För att förstå planetens geologiska historia och om det funnits vatten där",
+        "För att göra plats för framtida rymdhotell"
       ],
-      "correct": 2,
-      "fact": "Genom att sätta ihop många mindre spegelsegment kan man skapa en jättestor ljusinsamlande yta som är omöjlig att tillverka som en enda hel enhet."
+      "correct": 1,
+      "fact": "Genom att undersöka stenar och kratrar på Mars kan forskare lära sig mer om hur planeten bildades och utvecklades."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att titta upp på natthimlen och få se ett färggrant stjärnfall susa förbi precis bredvid Vintergatan. Mitt i bilden står ett jättestort teleskop med en jättelik spegel som blänker i mörkret. Det är som att rymden själv speglar sig i en jättestor silversked. Stjärnfallet kommer från en sten som ramlar in i luften och brinner upp, och teleskopet är byggt för att fånga upp blixtsnabba ljusglimtar från kosmos.",
-    "nyborjare": "På den här bilden syns ett färggrant streck efter en perseidmeteor som far fram över himlen, vackert inramad av vår egen galax Vintergatan. Längst ner står ett avancerat instrument kallat Cherenkov-teleskop. Det har en stor spegel som består av hela 198 mindre, sexkantiga delar. Teleskopet är skapat för att upptäcka extremt korta och svaga ljusglimtar i atmosfären. Sådana blixtar uppstår när högenergetiska gammastrålar från avlägsna galaxer träffar jorden. Den här natten speglades dessutom meteorens ljus i några av teleskopets spegelsegment.",
-    "entusiast": "Den spektakulära bilden fångar en perseidmeteor som streckar över himlen vid Observatorio del Roque de los Muchachos på La Palma. I förgrunden syns LST-1, som är prototypen för det första Large-Sized Telescope inom det innovativa Cherenkov Telescope Array Observatory. Teleskopet är utrustat med en 23 meter bred reflektor sammansatt av 198 sexkantiga spegelsegment och en högeffektiv, pixeliserad kamera. Dess primära syfte är att detektera Cherenkov-strålning – svaga och extremt korta atmosfäriska ljusblixtar som varar i storleksordningen en nanosekund. Dessa orsakas av högenergetiska gammastrålar från extragalaktiska källor som aktiva galaxkärnor och gammablixtar. Som en slumpfaktorns skönhet fångades även meteorsekvensens reflektion direkt i LST-1 spegelyta under denna observation."
+    "barn": "Tänk dig att du bygger en liten leksaksbil och skickar den till en helt annan planet full av röd sand och stora stenar. Det är precis vad forskare har gjort på Mars. Den här bilden visar platsen där en sådan modig liten bil landade för länge sedan. Från rymden kan kameror titta ner och spana på de spår som bilarna lämnar efter sig i den röda sanden, ungefär som när du cyklar i leran.",
+    "nyborjare": "Att utforska Mars kräver avancerad teknik och planering. Genom att skicka farkoster som kretsar i bana runt planeten kan forskare fotografera ytan med imponerande skärpa. Denna bild visar området kring en historisk landningsplats där en tidig marsrover tog sig ner på ytan. För att kunna urskilja alla detaljer på de tagna bilderna krävs ibland tredimensionella glasögon som skapar djupseende. På så sätt kan geologer studera landskapets former, som sluttningar och steniga sluttningar, utan att behöva vara på plats.",
+    "entusiast": "Mars Global Surveyor spelade en avgörande roll för vår moderna förståelse av den röda planeten. Genom att använda sin ombordkamera kunde farkosten på sin 256:e omloppsbana fokusera på landningsområdet för Mars Pathfinder. För att analysera topografin i regionen har stereoskopiska bilder med tredimensionella effekter använts, vilket gör det möjligt att identifiera små höjdskillnader och ytstrukturer. Den här typen av högupplöst fjärranalys är helt nödvändig för att kartlägga potentiella landningszoner och förstå de fluviala processer som en gång formade planetens terräng."
   },
   "terms": [
     {
-      "term": "meteor",
-      "explanation": "En lysande rymdsten som hettas upp när den faller genom jordens atmosfär."
+      "term": "marsrover",
+      "explanation": "Ett motordrivet fordon avsett för att köra runt och utforska en annan planets yta."
     },
     {
-      "term": "galax",
-      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationen i rymden."
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som en himlakropp eller en rymdfarkost följer på grund av gravitationen."
     },
     {
-      "term": "spegel",
-      "explanation": "En reflekterande yta som används för att samla in och rikta ljus i ett teleskop."
+      "term": "topografi",
+      "explanation": "Beskrivning eller kartering av ytformer och landskap på en planet."
     },
     {
-      "term": "atmosfär",
-      "explanation": "Det lager av gaser som omger en planet och skyddar ytan."
+      "term": "fjärranalys",
+      "explanation": "Metoden att samla in information om ett föremål eller område på avstånd med hjälp av sensorer."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine looking up at the night sky and seeing a colorful shooting star race past right next to the Milky Way. In the middle of the picture stands a huge telescope with a giant mirror that shines in the dark. It is like space itself is mirroring in a giant silver spoon. The shooting star comes from a rock that falls into the air and burns up, and the telescope is built to catch lightning-fast flashes of light from the cosmos.",
-      "nyborjare": "This image captures a colorful streak from a Perseid meteor cutting across the sky, beautifully framed by our galaxy, the Milky Way. At the bottom stands an advanced instrument called a Cherenkov telescope. It features a large reflector made up of 198 smaller, hexagonal segments. The telescope is designed to detect extremely short and faint flashes of light in the atmosphere. Such flashes occur when high-energy gamma rays from distant galaxies strike Earth. On this particular night, the meteor's light was also reflected in some of the telescope's mirror segments.",
-      "entusiast": "This spectacular image captures a Perseid meteor streaking across the night sky at the Observatorio del Roque de los Muchachos on La Palma. In the foreground is LST-1, the prototype for the first Large-Sized Telescope of the innovative Cherenkov Telescope Array Observatory. The telescope features a 23-meter diameter reflector composed of 198 hexagonal mirror segments and a high-efficiency pixelized camera. Its primary purpose is to detect Cherenkov radiation, which are extremely brief atmospheric light flashes lasting about a billionth of a second. These are triggered by high-energy gamma rays from cosmic sources such as distant active galaxies and gamma-ray bursts. By serendipity, individual mirror segments of LST-1 also reflected the atmospheric flash of the bright meteor during this observation."
+      "barn": "Imagine building a tiny toy car and sending it all the way to a completely different planet covered in red sand and big rocks. That is exactly what scientists did on Mars. This picture shows the area where a brave little vehicle landed a long time ago. High-flying cameras in space can look down and spot the tracks left behind in the dusty soil, much like riding your bicycle through a muddy patch.",
+      "nyborjare": "Exploring Mars requires advanced technology and careful planning. By sending spacecraft to orbit the planet, scientists can photograph the surface with remarkable clarity. This image highlights the vicinity of a historic landing site where an early rover touched down. To properly distinguish surface features in the data, specialized three-dimensional viewing methods are sometimes used to create depth perception. This allows geologists to study landscape shapes, slopes, and rocky terrain from afar.",
+      "entusiast": "Mars Global Surveyor played a pivotal role in modern planetary science. During its 256th orbit, the onboard camera successfully targeted the region of the Mars Pathfinder landing site. Analyzing this terrain often involves stereoscopic imaging techniques to generate three-dimensional models, making it possible to identify subtle elevation changes and local geology. High-resolution remote sensing of this nature remains essential for mapping landing zones and deciphering the planet's evolutionary history."
     },
     "terms": [
       {
-        "term": "meteor",
-        "explanation": "A glowing space rock that heats up as it plunges through Earth's atmosphere."
+        "term": "rover",
+        "explanation": "A motorized vehicle designed to travel across the surface of a celestial body."
       },
       {
-        "term": "galaxy",
-        "explanation": "A massive system of stars held together by gravitational forces in space."
+        "term": "orbit",
+        "explanation": "The curved path that a celestial body or spacecraft takes around another object due to gravity."
       },
       {
-        "term": "mirror",
-        "explanation": "A reflective surface used to gather and focus light inside a telescope."
+        "term": "terrain",
+        "explanation": "A stretch of land viewed with regard to its physical features and configuration."
       },
       {
-        "term": "atmosphere",
-        "explanation": "The layer of gases surrounding a planet and retained by gravity."
+        "term": "remote sensing",
+        "explanation": "The scanning of the earth or a planet by satellite or high-flying aircraft to obtain information."
       }
     ],
     "quiz": [
       {
-        "q": "What kind of astronomical phenomenon creates a colorful streak across the night sky in this image?",
+        "q": "What is the term for a wheeled vehicle designed to move across the surface of a planet to conduct science?",
         "options": [
-          "A supernova explosion in a distant galaxy",
-          "A meteor burning up in Earth's atmosphere",
-          "A solar wind hitting Earth's magnetic field"
+          "Mars lander",
+          "Mars rover",
+          "Mars probe"
         ],
         "correct": 1,
-        "fact": "Meteors occur when small space rocks enter Earth at high speed and heat up as they are slowed down by the air."
+        "fact": "A Mars rover is a robotic vehicle built to traverse alien terrain and perform scientific measurements directly on the ground."
       },
       {
-        "q": "What is the Milky Way?",
+        "q": "How do spacecraft orbiting Mars typically communicate back to Earth?",
         "options": [
-          "A gigantic collection of hundreds of billions of stars",
-          "A cloud of gas glowing due to nearby suns",
-          "A planet orbiting very close to our solar system"
+          "Through radio signals travelling at the speed of light",
+          "By using laser beams bounced off the Moon",
+          "Via cables laid across interplanetary space"
         ],
         "correct": 0,
-        "fact": "The Milky Way is our home galaxy, a large disk consisting of stars, gas, and dust where the Sun is just one of many stars."
+        "fact": "Radio signals are a type of electromagnetic radiation that travels through the vacuum of space at the speed of light."
       },
       {
-        "q": "Why do scientists build giant telescopes with mirrors made of many smaller hexagonal pieces?",
+        "q": "Why is studying landing sites and ancient surfaces on Mars important for scientists?",
         "options": [
-          "To make the mirror cheaper to transport into space",
-          "To more easily reflect away unwanted sunlight",
-          "To create a huge surface area that collects a lot of light"
+          "To predict when the planet will shift closer to the Sun",
+          "To understand the geological history and past presence of water",
+          "To clear space for future orbital tourist stations"
         ],
-        "correct": 2,
-        "fact": "By assembling many smaller mirror segments, scientists can build a massive light-gathering surface that is impossible to manufacture as a single piece."
+        "correct": 1,
+        "fact": "By examining rocks and craters on Mars, scientists can piece together how the planet formed and evolved over billions of years."
       }
     ]
   }

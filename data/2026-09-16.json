@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-16",
-  "title": "Webb's View of M64",
-  "title_sv": "Webbs bild av M64",
+  "title": "NASA's Chandra Spots Galactic Gem",
+  "title_sv": "Chandra upptäcker galaktisk ädelsten",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=3853&h=4070&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
-  "credit": "NASA, CSA, ESA, F. Belfiore (ESO), J. Lee (STScI), A. Leroy (OSU), and D. Thilker (JHU); Processing : G. Kober (NASA/Catholic University)",
-  "w": 454,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAjEAABAwQCAQUAAAAAAAAAAAABAAIDBBESISIxBRRBUZKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECERIxA//aAAwDAQACEQMRAD8AwsbbkaVOnic8i0cf0CWpI8nBarw/jmTHm4MaBckm1gtT1WRidmRnQubG7izWjxCQmbiQrU2LXTObpjtC/v8ACh1Ml5NdIitpyV6xrWA1KQ0Kx6q0PB9g7sLPRS4opqOPaalV0I9HHBmrqbtxaeP6pUjrm67klyQCdp4S228s/9k=",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg",
+  "link": "https://www.nasa.gov/image-detail/galaxies-iizw096/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/galaxies-iizw096/",
+  "w": 480,
+  "h": 352,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCBAMGB//EACQQAAEEAQIHAQEAAAAAAAAAAAEAAgMEESExBQYSEyJBYRRx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERAiH/2gAMAwEAAhEDEQA/AOd+0/4Ty7JxKl+mFweQ4tMYGqQu6c+OcfU+5Vty0rzJe86KAuDXkag/MIrXOb6VXoJ4JzFY6utnjh24A2VUAZGTotg5rv179/u1onR4GHZOSSPaQH+76qFmVFMaV91es+vhvbe4OLiNWn4hCQqSTukflyxEY3QhSf/Z",
   "quiz": [
     {
-      "q": "Vad är det som har gett galaxen M64 smeknamnet Black Eye Galaxy?",
+      "q": "Vad är det som gör galaxer unika enligt astronomer?",
       "options": [
-        "Ett jättelikt svart hål i galaxens mitt",
-        "Ett mörkt band av stoft som blockerar ljuset",
-        "En ring av döende stjärnor runt kärnan"
+        "Att de alla har exakt samma form och storlek",
+        "Att de har olika egenskaper som storlek och form",
+        "Att de endast består av en enda jättestor stjärna"
       ],
       "correct": 1,
-      "fact": "Det mörka bandet av stoft framför galaxens ljusa kärna skapar ett utseende som för tankarna till ett svart öga."
+      "fact": "Precis som ädelstenar har galaxer en enorm variation i utseende, form och storlek vilket gör dem distinkta."
     },
     {
-      "q": "Vad händer i de regioner av M64 där de inre och yttre gasmassorna rör sig åt skilda håll?",
+      "q": "Vilken typ av teleskop används ofta för att upptäcka energirika processer i rymden, till exempel röntgenstrålning från galaxer?",
       "options": [
-        "Gasen kolliderar och trycks ihop vilket ökar bildandet av nya stjärnor",
-        "Stjärnorna slits sönder av de starka tidvattenkrafterna",
-        "Galaxen roterar snabbare och snabbare tills den splittras"
+        "Röntgenteleskop",
+        "Vanliga kikare",
+        "Radioteleskop för marken"
       ],
       "correct": 0,
-      "fact": "När gasströmmar med olika rörelser möts och pressas samman skapas perfekta förutsättningar för att nya stjärnor ska födas."
+      "fact": "Röntgenteleskop i rymden, som Chandra, kan registrera högenergisk strålning som jordens atmosfär blockerar."
     },
     {
-      "q": "Varför tror astronomer att M64 en gång i tiden har krockat med en annan galax?",
+      "q": "Vad är en galax mest lik när man studerar dess stora samling av stjärnor och kosmiska struktur?",
       "options": [
-        "Eftersom den saknar en central kärna",
-        "Eftersom gasen i de yttre delarna roterar åt motsatt håll mot resten av galaxen",
-        "Eftersom den rör sig mycket snabbare än andra galaxer i universum"
+        "En ensam sten",
+        "En kosmisk ädelsten",
+        "Ett tomt tomrum"
       ],
       "correct": 1,
-      "fact": "Att gasen i de yttre regionerna roterar åt motsatt håll tyder på en historisk sammanslagning med en mindre galax."
+      "fact": "Galaxer liknas ofta vid kosmiska ädelstenar på grund av deras skönhet och stora variation."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor snurra ute i rymden som är gjord av miljarder stjärnor. Det här är galaxen M64. Den ser lite mystisk ut eftersom den har ett mörkt band tvärs över sig, ungefär som om den har fått enblått öga i ett busstreck. Med speciella teleskop kan vi se att det mörka bandet är moln av stoft och gas där helt nya stjärnor tänds hela tiden. Det är som ett jättelikt fyrverkeri som lyser långt borta i mörkret.",
-    "nyborjare": "Messier 64, eller M64, är en vacker spiralgalax som befinner sig ute i rymden. Galaxen kallas ibland för den svarta ögongalaxen på grund av ett framträdande och mörkt stoftband som delvis döljer dess ljusa kärna. När rymdteleskop tittar på galaxen i infrarött ljus avslöjas hur stoftet absorberar och återutsänder ljus från nyfödda stjärnor. Forskarna har upptäckt att gasen i galaxens inre och yttre delar rör sig åt skilda håll. Denna märkliga rörelse tyder på att galaxen tidigare har slagits samman med en mindre galax, vilket har lett till intensiv stjärnbildning där gasströmmarna möts.",
-    "entusiast": "Messier 64 är en närbelägen spiralgalax som länge har studerats för att förstå hur galaktiska interaktioner formar stjärnbildningen. En unik egenskap hos M64 är dess motroterande gassystem, där de inre och yttre gasregionerna rör sig i motsatta riktningar. Denna dynamik är starka bevis för att spiralgalaxer kan uppleva sammanslagningar, vilket tidigare ansågs vara mindre vanligt för denna typ av galaxer. Vid mötet mellan de motroterande gasströmmarna sker en kompression som driver på bildandet av nya stjärnor i rosa stjärnbildande regioner. Avancerade instrument som Webb-teleskopets MIRI registrerar det infraröda ljuset från stoftet när det värms upp av omgivande unga stjärnor, vilket ger forskarna detaljerad information om galaxens sammansättning, struktur och evolutionära historia."
+    "barn": "Tänk dig att rymden är som en stor skattkista full av glittrande skatter. Galaxer är som kosmiska ädelstenar som lyser vackert i mörkret. Precis som ädelstenar har olika färger och former, ser galaxerna olika ut. Vissa är runda som bollar och andra är platta som pannkakor. Teleskopet Chandra hjälper oss att titta på dessa fantastiska rymdjuveler på långt avstånd.",
+    "nyborjare": "Galaxer kan liknas vid kosmiska ädelstenar, där var och en har unika egenskaper som storlek och form som gör dem lätta att skilja åt. Ett teleskop samlar in ljus och andra typer av strålning från universum för att vi ska kunna studera dem. Genom att använda olika rymdteleskop, inklusive Chandra X-ray Observatory som upptäcker röntgenstrålning, kan astronomer sätta ihop gallerier som visar upp den enorma variationen av galaxer i rymden.",
+    "entusiast": "Galaxer uppvisar en enorm variation i morfologi och struktur, vilket gör dem till universums verkliga ädelstenar. Genom att kombinera observationer från Chandra X-ray Observatory, som studerar högenergiska processer genom röntgenastronomi, med data från andra teleskop som observerar i optiska och infraröda våglängder, kan astronomer kartlägga galaxernas stjärnpopulationer, gas och supermassiva svarta hål. Denna mångfald speglar den komplexa kosmiska evolutionen under miljarder år."
   },
   "terms": [
     {
-      "term": "spiralgalax",
-      "explanation": "En stjärnsamling formad som en platt skiva med roterande armar som sträcker sig ut från en ljus central kärna."
+      "term": "galax",
+      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitation och innehåller miljarder stjärnor, gas och stoft."
     },
     {
-      "term": "infrarött ljus",
-      "explanation": "Osynlig värmestrålning med längre våglängder än det ljus som det mänskliga ögat kan uppfatta."
+      "term": "teleskop",
+      "explanation": "Ett optiskt eller elektroniskt instrument som samlar in ljus eller strålning för att observera avlägsna himlakroppar."
     },
     {
-      "term": "stjärnbildning",
-      "explanation": "Processen där stora moln av gas och stoft dras samman av gravitationen för att bilda nya stjärnor."
+      "term": "röntgenstrålning",
+      "explanation": "En typ av osynlig högenergisk elektromagnetisk strålning som används för att studera heta och våldsamma processer."
     },
     {
-      "term": "stoft",
-      "explanation": "Små fasta partiklar av tunga grundämnen som flyter runt i rymden mellan stjärnorna."
+      "term": "astronom",
+      "explanation": "En vetenskapsperson som studerar universum, himlakroppar och fysikaliska fenomen bortom jorden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant spinning pinwheel out in space made of billions of stars. This is the galaxy M64. It looks a bit mysterious because it has a dark band right across it, almost like it got a black eye during play. With special telescopes, we can see that this dark band is made of dust and gas clouds where brand new stars are being born all the time. It is like a giant cosmic fireworks show shining far away in the dark.",
-      "nyborjare": "Messier 64, or M64, is a spiral galaxy located out in space. The galaxy is often called the Black Eye Galaxy because of a prominent dark dust band that partially hides its bright core. When space telescopes view the galaxy in infrared light, they reveal how the dust absorbs and re-emits light from newborn stars. Researchers have discovered that the gas in the inner and outer parts of the galaxy moves in opposite directions. This strange motion suggests that the galaxy previously collided and merged with a smaller galaxy, which has led to intense star formation where the gas currents meet.",
-      "entusiast": "Messier 64 is a nearby spiral galaxy that has long been studied to understand how galactic interactions shape stellar birth. A unique feature of M64 is its counter-rotating gas system, where the inner and outer gas regions move in opposite directions. This dynamics provides key evidence that spiral galaxies can experience mergers, a history once thought uncommon for such systems. Where the opposing gas currents meet, compression drives increased star formation within pink star-forming regions. Advanced instruments like the Webb telescope's MIRI record the infrared light from dust as it is heated by surrounding young stars, giving researchers detailed insight into the galaxy's composition, structure, and evolutionary history."
+      "barn": "Imagine that space is like a huge treasure chest full of sparkling treasures. Galaxies are like cosmic gems shining brightly in the dark. Just like gems come in different colors and shapes, galaxies look different too. Some are round like balls and others are flat like pancakes. The Chandra telescope helps us look at these amazing space jewels from far away.",
+      "nyborjare": "Galaxies can be compared to cosmic gems, each featuring unique characteristics such as size and shape that make them distinct. A telescope collects light and other types of radiation from the universe so we can study them. By using different space telescopes, including the Chandra X-ray Observatory which detects X-rays, astronomers can display the incredible variety of galaxies in space.",
+      "entusiast": "Galaxies exhibit a vast morphological and structural variety, making them the true gems of the universe. By combining observations from the Chandra X-ray Observatory, which studies high-energy processes through X-ray astronomy, with data from other telescopes observing across optical and infrared wavelengths, astronomers can map stellar populations, gas, and supermassive black holes. This diversity reflects complex cosmic evolution over billions of years."
     },
     "terms": [
       {
-        "term": "spiral galaxy",
-        "explanation": "A stellar system shaped like a flat disk with curving arms extending outward from a bright central core."
+        "term": "galaxy",
+        "explanation": "A massive system of stars, gas, and dust held together by gravity."
       },
       {
-        "term": "infrared light",
-        "explanation": "Invisible thermal radiation with longer wavelengths than the light that the human eye can perceive."
+        "term": "telescope",
+        "explanation": "An instrument used to gather light or radiation to observe distant celestial objects."
       },
       {
-        "term": "star formation",
-        "explanation": "The process by which massive clouds of gas and dust collapse under gravity to create new stars."
+        "term": "radiation",
+        "explanation": "Energy transmitted in the form of waves or particles through space or a medium."
       },
       {
-        "term": "dust",
-        "explanation": "Tiny solid particles composed of heavy elements drifting through the interstellar space between stars."
+        "term": "astronomer",
+        "explanation": "A scientist who studies the universe, celestial bodies, and physical phenomena beyond Earth."
       }
     ],
     "quiz": [
       {
-        "q": "What gave the galaxy M64 the moniker Black Eye Galaxy?",
+        "q": "What makes galaxies unique according to astronomers?",
         "options": [
-          "A supermassive black hole at its exact center",
-          "A dark band of dust partially blocking its bright core",
-          "A surrounding ring of dying red giant stars"
+          "That they all have the exact same shape and size",
+          "That they possess various characteristics like size and shape",
+          "That they consist of only one single giant star"
         ],
         "correct": 1,
-        "fact": "The dark band of dust obscuring part of the bright core creates an appearance reminiscent of a black eye."
+        "fact": "Just like gems, galaxies feature a tremendous variety in appearance, shape, and size making them distinct."
       },
       {
-        "q": "What happens in the regions of M64 where the inner and outer gas currents meet?",
+        "q": "Which type of telescope is often used to detect high-energy processes in space, such as X-rays from galaxies?",
         "options": [
-          "The gas is compressed and triggers increased star formation",
-          "The gas streams collide and instantly evaporate into space",
-          "The rotation of the entire galaxy halts completely"
+          "X-ray telescope",
+          "Regular binoculars",
+          "Ground-based radio telescope"
         ],
         "correct": 0,
-        "fact": "When opposing gas currents meet and compress, it creates ideal conditions for new stars to form."
+        "fact": "Space-based X-ray telescopes like Chandra can detect high-energy radiation that Earth's atmosphere blocks."
       },
       {
-        "q": "Why do astronomers believe that M64 experienced a merger in its past?",
+        "q": "What is a galaxy most similar to when studying its vast collection of stars and cosmic structure?",
         "options": [
-          "Because it lacks any recognizable spiral arms",
-          "Because the outer gas region counter-rotates relative to the inner region",
-          "Because it moves at extreme speeds away from the Milky Way"
+          "A single rock",
+          "A cosmic gem",
+          "An empty void"
         ],
         "correct": 1,
-        "fact": "The opposing motion of the outer gas compared to the inner gas strongly indicates a historical merger with a smaller galaxy."
+        "fact": "Galaxies are often compared to cosmic gems because of their beauty and wide variety."
       }
     ]
   }

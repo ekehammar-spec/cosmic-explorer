@@ -2,134 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-24",
-  "title": "The Ghosts of Five Supernovas",
-  "title_sv": "Spökresterna av fem supernovor",
+  "title": "Ares Valles",
+  "title_sv": "Ares Valles",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg?w=2000&h=1255&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
-  "credit": "Stephane Vetter, Yann Sainty",
-  "w": 480,
-  "h": 301,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAUBBv/EACIQAAIBBAICAwEAAAAAAAAAAAECAwAEESESMQVBEyJRkf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQEBAAMBAQAAAAAAAAAAAAABAAIRQRIj/9oADAMBAAIRAxEAPwDxqxQ/GV5ZbGTUjDxhOFyO8keqdFBlQQNGuvGAREOWSd5pN2jyKlThgYSHipLrutGz8gLWI8lDH1+j9p3j/Gkh5JOZboBO91G7tLe3SWGRj83a+/7Ta7NiuBPWFTZRtvJPearxNxvU0G1n7DNFFS5VT6T7Sd0aVlPE4Oxqs66JLFztiaKKMHl//9k=",
+  "url": "https://images-assets.nasa.gov/image/PIA04026/PIA04026~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA04026/PIA04026~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA04026/PIA04026~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA04026",
+  "credit": "NASA/JPL/Arizona State University",
+  "src": "library",
+  "id": "PIA04026",
+  "w": 261,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAA0DASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYDBP/EACgQAAECBQIEBwAAAAAAAAAAAAECBAADBQYREqEUITFBEyJCYZHB4f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDhtMpFIlJ7lajvDDh6GqUagPNnbEDW4ghk3TjAKNR9+cY3W6MkMwD1C/qAYo0pHBNMYBS2AwO5IETt+YS9aSwOQlZ+T+QvS3PhIlg+lIET15OOIq6D10yUjcwH/9k=",
   "quiz": [
     {
-      "q": "Vad är det som bildar de vackra, molnliknande strukturerna av lysande gas som syns på bilden?",
+      "q": "Vad är Ares Valles på planeten Mars för något?",
       "options": [
-        "Kraftiga solvindar från närliggande stjärnor",
-        "Rester av gas och stoft från uråldriga stjärnexplosioner",
-        "Gasmoln som dras in från interstellära rymden av svarta hål"
-      ],
-      "correct": 1,
-      "fact": "När tunga stjärnor får slut på bränsle exploderar de som supernovor och slungar ut sina yttre lager i rymden, vilket skapar vidsträckta gasmoln som kallas supernovarester."
-    },
-    {
-      "q": "Varför har vissa gasfilament på bilden en röd färg medan andra lyser i blått?",
-      "options": [
-        "De röda områdena består av joniserat väte och de blå av upphettat syre",
-        "Färgerna beror enbart på kamerans digitala filter som skapades under efterbearbetningen",
-        "Det röda ljuset kommer från kalla stoftmoln och det blå från unga, nyfödda stjärnor"
+        "En djup dal skapad av urgamla jättefloder",
+        "Ett gigantiskt vulkaniskt kraterfält",
+        "En kilometerhög bergskedja av is"
       ],
       "correct": 0,
-      "fact": "Chockvågorna från supernovorna värmer upp den omgivande gasen, där glödande väte lyser rött och tunnare syrestråk avger ett blått sken."
+      "fact": "Ares Valles är en utflodskanal som en gång i tiden karvades ut av enorma översvämningar av grundvatten."
     },
     {
-      "q": "Hur kan man veta att de fem supernovaresterna på bilden inte hänger ihop i en enda händelse?",
+      "q": "Var tog det eroderade materialet vägen när floderna flödade genom Ares Valles?",
       "options": [
-        "De roterar runt olika galaktiska centrum i Vintergatan",
-        "De befinner sig på helt olika avstånd och har olika ålder",
-        "De har helt olika kemisk sammansättning av tunga grundämnen"
+        "Det sögs upp i Mars tunna atmosfär",
+        "Det avsattes som sediment i de norra lågländerna",
+        "Det flödade ut i Mars enda världshav"
       ],
       "correct": 1,
-      "fact": "Explosionerna har skett oberoende av varandra vid skilda tidpunkter, och resterna ligger utspridda på olika avstånd upp till tusentals ljusår från jorden."
+      "fact": "Materialet som slets loss av floderna fördes med strömmen och avsattes som sediment i Mars norra lågländer."
+    },
+    {
+      "q": "Vad kännetecknar Mars ekvatoriella regioner där dessa kanaler finns?",
+      "options": [
+        "De täcks av permanenta glaciärer året om",
+        "De saknar helt spår av tidigare flytande vatten",
+        "De innehåller flera hundra kilometer långa kanaler"
+      ],
+      "correct": 2,
+      "fact": "De martianska kanalerna förekommer i flera regioner inom ekvatoriella Mars och är hundratals kilometer långa."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att gigantiska fyrverkerier exploderade ute i rymden för väldigt länge sedan. Det som syns på bilden är spåren efter fem jättestora stjärnor som har smällt som bomber. När de exploderade slungades glödande gas ut i rymden och bildade jättelika moln. Vissa delar lyser röda som glödande kol och andra blå som bubblor i mörkret. Det är som magiska moln som sakta flyter omkring i rymden.",
-    "nyborjare": "Det här rymdporträttet visar resterna efter fem jättelika stjärnexplosioner, så kallade supernovor, som har inträffat oberoende av varandra i stjärnbilden Kusken. När en massiv stjärna dör och exploderar slungas dess materia ut i rymden med enorm kraft. Denna process skapar en växande chockvåg som pressar ihop och hettar upp den omgivande gasen i den interstellära rymden. På bilden framträder detta som känsliga trådliknande strukturer, där vätegas lyser rött och syre lyser i blått. Spridda över ett enormt område visar dessa spöklika gasmoln upp resterna av kosmiska katastrofer som inträffade för tiotusentals år sedan.",
-    "entusiast": "Med ungefär två timmars exponeringstid per natt under omkring två hundra timmars observationer har Oukaïmeden-observatoriet i Marocko fångat detta enorma himlarna i stjärnbilden Kusken, som täcker en yta motsvarande tusen fullmånar. Fältet rymmer fem distinkta supernovarester katalogiserade som G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0-1.7 med nebulosan Sh2-240, samt G178.2-4.2. Dessa expanderande skal av gas och stoft har bildats av oberoende stellarexplosioner på olika avstånd upp till flera tusen ljusår från jorden och med åldrar på tiotusentals år. Chockvågorna excitera omgivande gas och genererar de filamentära strukturer vi ser i vätens röda emissionslinjer och syrets blåaktiga zoner. Historiskt sett kan tidiga människor ha bevittnat några av dessa ursprungliga explosioner som mycket ljusstarka gäster på natthimlen."
+    "barn": "Tänk dig en jättestor vattenrutschkana på en annan planet! På Mars finns det väldiga dalar som kallas Ares Valles. För väldigt längesen rann det otroligt mycket vatten där, som bildade jättelika floder. Vattnet kom djupt nerifrån marken och spolade bort massor av sten och sand. Det är lite som när en pöl rinner ut på gräset, fast i jättestor rymdskala!",
+    "nyborjare": "Ares Valles på Mars är en så kallad utflodskanal, vilket är ett spår efter uråldriga, katastrofala översvämningar. Dessa floder orsakades troligen av gigantiska utbrott av grundvatten vid kanalernas början. Vattnet eroderade bort ytan och transporterade bort stora mängder material som senare samlades som sediment i de norra lågländerna. Fenomenet liknar de översvämningar som skapade Channeled Scablands i delstaten Washington under jordens senaste istid, fast de martianska kanalerna är betydligt större och sträcker sig över hundratals kilometer.",
+    "entusiast": "Denna bild från NASA Mars Odyssey visar en del av Ares Valles, en storskalig utflodskanal belägen i Mars ekvatoriella regioner. Kanalerna bildades genom massiva hydrauliska urladdningar av grundvatten, vilket ledde till episoder av katastrofal översvämning som eroderade marsytan. Det bortförda materialet transporterades nedför och deponerades som sediment i de norra lågländerna. Morfologiskt liknar dessa formationer Channeled Scablands i nordvästra USA, som skapades under Missoulautbrotten under den senaste istiden, men på Mars är flödena mångdubbelt större. Landningsplatsen för Mars Pathfinder ligger flera hundra kilometer nedströms, vilket indikerar att liknande geologiska ytförhållanden råder där."
   },
   "terms": [
     {
-      "term": "supernova",
-      "explanation": "En oerhört kraftfull och ljusstark explosion som markerar slutet på en massiv stjärnas livscykel."
+      "term": "sediment",
+      "explanation": "Fast material som har transporterats och lagrats på marken eller på botten av ett vattendrag."
     },
     {
-      "term": "stjärnbild",
-      "explanation": "Ett avgränsat område på stjärnhimlen som innehåller ett igenkännbart mönster av stjärnor."
+      "term": "grundvatten",
+      "explanation": "Vatten som samlas och rör sig under markytan i jordlagren och berggrunden."
     },
     {
-      "term": "chockvåg",
-      "explanation": "En tryckvåg som rör sig snabbare än ljudet och komprimerar det omgivande mediet med enorm kraft."
+      "term": "eroderade",
+      "explanation": "När vind, vatten eller is bryter ner och nöter bort berg och jord från ytan."
     },
     {
-      "term": "nebulosa",
-      "explanation": "Ett jättelikt moln av gas och rymdstoft som finns utspritt mellan stjärnorna i en galax."
-    },
-    {
-      "term": "ljusår",
-      "explanation": "Det avstånd som en ljusstråle färdas på ett helt jordår i tomt utrymme."
+      "term": "utflodskanal",
+      "explanation": "En bred och långsträckt fördjupning i landskapet som bildats av häftiga vattenflöden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine giant fireworks exploding out in space a very long time ago. What you see in the image are the traces left behind after five huge stars went boom like giant bombs. When they exploded, glowing gas was hurled out into space to form enormous clouds. Some parts glow red like glowing embers and others blue like bubbles in the dark. It is like magical clouds slowly floating around in space.",
-      "nyborjare": "This space portrait reveals the remains of five giant star explosions, known as supernovae, which occurred independently of each other in the constellation of Auriga. When a massive star dies and explodes, its material is hurled out into space with immense force. This process creates a growing shock wave that compresses and heats up the surrounding gas in the interstellar medium. In the image, this appears as delicate filamentary structures, where hydrogen gas glows red and oxygen glows in blue. Spread across a vast area, these ghostly gas clouds showcase the remnants of cosmic catastrophes that happened tens of thousands of years ago.",
-      "entusiast": "Using approximately two hundred hours of observations captured with about two hours per night at Oukaïmeden Observatory in Morocco, this extraordinary image covers a patch of the sky in the constellation of Auriga equivalent to one thousand full moons. The field hosts five distinct supernova remnants cataloged as G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0-1.7 featuring the Spaghetti Nebula Sh2-240, and G178.2-4.2. These expanding shells of gas and dust were formed by independent stellar explosions at various distances up to several thousand light-years from Earth with estimated ages up to tens of thousands of years. Shock waves excite the surrounding gas, generating the filamentary structures seen in hydrogen's red emission lines and oxygen's bluish zones. Historically, early humans may have witnessed some of these original explosions as bright new guest stars fading over months."
+      "barn": "Imagine a gigantic water slide on another planet! On Mars, there are huge valleys called Ares Valles. A very long time ago, an incredible amount of water rushed through there, creating giant rivers. The water burst up from deep underground and washed away lots of rock and sand. It is a bit like when a puddle rushes across the grass, but on a massive space scale!",
+      "nyborjare": "Ares Valles on Mars is an outflow channel, which is a remnant of ancient and catastrophic floods. These floods were most likely caused by massive discharges of groundwater rushing out at the channel heads. The rushing water eroded the surface, carrying away huge amounts of material that later settled as sediment in the northern lowlands. This geological process is similar to the floods that created the Channeled Scablands in Washington State during Earth's last ice age, although the Martian channels are hundreds of kilometers long.",
+      "entusiast": "This image from NASA Mars Odyssey covers a portion of Ares Valles, a major outflow channel located within the equatorial regions of Mars. The channels were formed through massive hydraulic discharges of subsurface groundwater, resulting in catastrophic floods that extensively eroded the Martian terrain. The eroded material was transported downstream and deposited as sediment in the northern lowlands. Morphologically, these features share similarities with the Channeled Scablands in the northwestern United States formed during the Pleistocene ice ages, but on a significantly larger scale. The Mars Pathfinder landing site is situated several hundred kilometers downstream, suggesting comparable surface characteristics."
     },
     "terms": [
       {
-        "term": "supernova",
-        "explanation": "An extremely powerful and luminous stellar explosion marking the final stage of a massive star's life cycle."
+        "term": "sediment",
+        "explanation": "Solid material that has been transported and deposited on the ground or at the bottom of a liquid."
       },
       {
-        "term": "constellation",
-        "explanation": "A defined region of the celestial sphere containing a recognizable pattern of stars."
+        "term": "groundwater",
+        "explanation": "Water that is held underground in the soil and in pores and crevices in rock."
       },
       {
-        "term": "shock wave",
-        "explanation": "A type of propagating disturbance that moves faster than the local speed of sound in a medium."
+        "term": "eroded",
+        "explanation": "When natural forces like wind, water, or ice wear away rock and soil from the surface."
       },
       {
-        "term": "nebula",
-        "explanation": "A giant cloud of dust and gas found in the vast spaces between stars in a galaxy."
-      },
-      {
-        "term": "light-year",
-        "explanation": "The distance that a beam of light travels through empty space in one Earth year."
+        "term": "outflow",
+        "explanation": "The movement of a large volume of water or other fluid flowing out from a specific source."
       }
     ],
     "quiz": [
       {
-        "q": "What forms the beautiful, cloud-like structures of glowing gas visible in the image?",
+        "q": "What is Ares Valles on the planet Mars?",
         "options": [
-          "Powerful stellar winds originating from nearby massive stars",
-          "Remnants of gas and dust expelled by ancient stellar explosions",
-          "Gas clouds drawn inward from interstellar space by black holes"
-        ],
-        "correct": 1,
-        "fact": "When massive stars run out of fuel, they explode as supernovae, hurling their outer layers into space to create vast expanding gas clouds known as supernova remnants."
-      },
-      {
-        "q": "Why do some gas filaments in the image glow red while others shine in blue?",
-        "options": [
-          "The red areas consist of ionized hydrogen and the blue of heated oxygen",
-          "The colors are exclusively caused by digital camera filters used during processing",
-          "The red light comes from cold dust clouds and the blue from young newborn stars"
+          "A deep valley carved by ancient catastrophic floods",
+          "A gigantic field of volcanic craters",
+          "A kilometer-high mountain range made of ice"
         ],
         "correct": 0,
-        "fact": "Shock waves from the supernovae heat the surrounding gas, where glowing hydrogen emits red light and thinner oxygen filaments create a blue glow."
+        "fact": "Ares Valles is an outflow channel that was carved into the surface of Mars by ancient floods of groundwater."
       },
       {
-        "q": "How do astronomers know that the five supernova remnants in the field are independent events?",
+        "q": "Where did the eroded material go as floods rushed through Ares Valles?",
         "options": [
-          "They orbit entirely different galactic centers within the Milky Way",
-          "They reside at various distances and possess different estimated ages",
-          "They display completely different chemical compositions of heavy elements"
+          "It evaporated into the thin Martian atmosphere",
+          "It was deposited as sediment in the northern lowlands",
+          "It flowed out into the only global ocean on Mars"
         ],
         "correct": 1,
-        "fact": "The explosions occurred independently at different times, with the remnants scattered across varying distances up to thousands of light-years from Earth."
+        "fact": "The material eroded away by these floods was transported downstream and deposited as sediment in the northern lowlands."
+      },
+      {
+        "q": "What characterizes the equatorial regions of Mars where these channels are found?",
+        "options": [
+          "They are covered by permanent glaciers all year round",
+          "They completely lack any signs of past liquid water",
+          "They feature channels that are hundreds of kilometers long"
+        ],
+        "correct": 2,
+        "fact": "The Martian channels occur in a number of regions within equatorial Mars and are hundreds of kilometers long."
       }
     ]
   }

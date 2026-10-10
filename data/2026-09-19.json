@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-19",
-  "title": "A Zodiacal Night",
-  "title_sv": "Zodiakalljus i natthimlen",
+  "title": "Comets WISE -- A Family Portrait",
+  "title_sv": "Kometer från WISE – ett familjeporträtt",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg?w=2060&h=1393&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
-  "credit": "Neelam and Ajay Talwar ( TWAN )",
-  "w": 480,
-  "h": 324,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAAiEAABBAICAQUAAAAAAAAAAAABAAIDBBESMUEFIkJRYaH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Axhac9pkcZJRFbqOdrIXRnjJGR+K146rVtOLYbML3gZ1DhlLSW5iVqWqtYoyMlI1K53VnYJLTwipnXR+pxz2UvX7QhQPFmy1uosSgfG5Q2ecuGZ5CMj3FCFB//9k=",
+  "url": "https://images-assets.nasa.gov/image/PIA13457/PIA13457~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA13457/PIA13457~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA13457/PIA13457~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA13457",
+  "credit": "NASA/JPL-Caltech/UCLA",
+  "src": "library",
+  "id": "PIA13457",
+  "w": 640,
+  "h": 512,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAgABAwb/xAAiEAACAwABBAIDAAAAAAAAAAABAgARITFBYXGhAxKRsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFR/9oADAMBAAIRAxEAPwDhgdqzveFr3fczBLfJz6iNKLJk6M6hvv8AmWrMGHPm4GYNVfqMVn8hTGYIV7qItdEc51iIH2OCUqjcEbGUyFDR58xKBnPSShQwTVALXBJpf//Z",
   "quiz": [
     {
-      "q": "Vad är zodiakalljus för något?",
+      "q": "Vad är en komet huvudsakligen uppbyggd av?",
       "options": [
-        "Solljus som reflekteras av interplanetärt rymddamm",
-        "Ett norrsken som uppstår nära planeternas banor",
-        "Ljuset från en avlägsen galax långt bort i kosmos"
+        "Is, stoft och fruset gas",
+        "Fast järn och nickel",
+        "Komprimerad vätgas"
       ],
       "correct": 0,
-      "fact": "Zodiakalljus är svagt solljus som sprids åt sidorna av enorma mängder små dammkorn i solsystemet."
+      "fact": "Kometer kallas ibland för smutsiga snöbollar eftersom de till största delen består av is, damm och frusna gaser som släpper ifrån sig en svans när de närmar sig solen."
     },
     {
-      "q": "Varför ser man ofta zodiakalljuset bäst nära horisonten?",
+      "q": "Varför studeras himlakroppar i infrarött ljus av teleskop i rymden?",
       "options": [
-        "För att dammet är tjockast längst ut i Oorts moln",
-        "För att ljuset följer planeternas banplan där dammet samlas",
-        "För att jordens atmosfär förstorar stjärnljuset just där"
+        "Infrarött ljus tränger lättare igenom moln av kosmisk gas och stoft",
+        "Det är den enda typen av ljus som stjärnor skickar ut",
+        "Atmosfären reflekterar allt infrarött ljus så att det inte når marken"
       ],
-      "correct": 1,
-      "fact": "Dammet som orsakar zodiakalljuset ligger samlat i ekliptikan, vilket gör att det lyser starkast längs zodiaken."
+      "correct": 0,
+      "fact": "Infrarött ljus är värmestrålning som kan avslöja kalla objekt i rymden eftersom strålningen obehindrat passerar genom täta moln av rymddamm."
     },
     {
-      "q": "Vilken planet har av forskare kopplats samman som en trolig källa till dammet som skapar zodiakalljuset?",
+      "q": "Var i solsystemet har de flesta kometer sitt ursprung?",
       "options": [
-        "Saturnus",
-        "Venus",
-        "Mars"
+        "I Oorts moln eller Kuiperbältet långt bort",
+        "Mellan planeterna Mars och Jupiter",
+        "I omloppsbana runt månen"
       ],
-      "correct": 2,
-      "fact": "Mätningar från rymdfarkoster visar att damm från Mars kan vara en huvudkälla till detta kosmiska dammlager."
+      "correct": 0,
+      "fact": "De flesta kometer kommer från solsystemets yttersta utkanter, antingen från det isiga Kuiperbältet eller det mycket avlägsna Oorts moln."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att solen lyser på ett jättestort moln av osynligt rymddamm som flyger runt i rymden. När solstrålarna träffar dammet börjar det glimma svagt som en mystisk strimma på natthimlen. Det ser nästan ut som en spöklik ljuskägla som pekar uppåt från horisonten precis innan solen går upp. Mitt i detta vackra ljus kan man ibland få syn på stora planeter som lyser som klara färgade prickar bland alla blänkande stjärnor.",
-    "nyborjare": "På en mörk natthimmel långt från stadens ljus kan man ibland ana ett svagt, pyramidformat sken som sträcker sig upp från horisonten strax före gryningen. Detta fenomen kallas zodiakalljus och orsakas av att solljus studsar mot miljarder små dammkorn som svävar i rymden. Dessa partiklar ligger utspridda i solsystemets plan, där planeter som Mars och Jupiter rör sig. Ljuset är så svagt att det krävs en riktigt mörk plats på jorden, gärna på hög höjd med klar luft, för att man ska kunna upptäcka det.",
-    "entusiast": "Zodiakalljus framträder som en svagt lysande kägla längs ekliptikan och orsakas av solljus som backscatters av interplanetärt stoft. Stoftpartiklarna, vars ursprung länge har debatterats, har i modern tid genom mätningar från bland annat rymdfarkosten Juno starkt sammankopplats med Mars som primär källa. När man blickar in i detta band kan man finna både ljusstarka planeter som Jupiter och öppna stjärnhopar som M44. För att få syn på detta diffusa sken krävs exceptionellt mörka observationsplatser, till exempel högt belägna platser som Hanle Dark Sky Reserve där ljusföroreningar är minimala och förhållandena för astrofotografi är optimala."
+    "barn": "Tänk dig glittrande isbollar som susar fram i den svarta rymden som lysande spökbollar. När de närmar sig den varma solen börjar isen smälta och bildar långa, vackra svansar av damm och gas som glittrar i mörkret. Det är precis som när du andas ut varm dimma i den kalla vinternuften, fast i jättestor skala långt bort bland stjärnorna.",
+    "nyborjare": "Den här bilden visar en samling kometer som har upptäckts från rymden. Kometer är himlakroppar bestående av is, stoft och sten som kretsar kring solen. När de kommer nära solen värms de upp och skapar en lysande svans av gas och partiklar som pekar bort från solen. Genom att använda infrarött ljus, vilket är en typ av värmestrålning som våra ögon inte kan se, kan rymdteleskop upptäcka dessa kalla och mörka objekt som annars skulle vara mycket svåra att hitta i det svarta universum.",
+    "entusiast": "Bilden är ett resultat av rymdteleskopet WISE, Wide-field Infrared Survey Explorer, vars uppdrag var att kartlägga hela himlavalvet i det infraröda spektrumet under sin ettåriga mission. Inom ramen för NEOWISE-delen av uppdraget har forskare kunnat upptäcka ett stort antal nya astronomiska objekt, däribland ett tjugotal kometer. Genom att observera himlen vid våglängder runt 3 till 25 mikrometer kan instrumenten urskilja värmesignaturer från asteroider och kometer som reflekterar eller emitterar termisk strålning. Dessa observationer ger ovärderlig information om solsystemets ursprung och sammansättning, eftersom kometkärnorna utgör orörda restprodukter från den tid då solsystemet bildades för över 4,5 miljarder sedan."
   },
   "terms": [
     {
-      "term": "zodiakalljus",
-      "explanation": "Ett svagt, diffust sken på natthimlen orsakat av solljus som reflekteras av rymddamm i solsystemet."
+      "term": "infrarött ljus",
+      "explanation": "Osynlig värmestrålning med längre våglängd än det synliga ljuset som används för att studera kalla himlakroppar."
     },
     {
-      "term": "ekliptikan",
-      "explanation": "Den tänkta linje på himlen som solen och planeterna rör sig längs under året."
+      "term": "komet",
+      "explanation": "En liten himlakropp av is och stoft som utvecklar en lysande svans när den närmar sig solen."
     },
     {
-      "term": "astrofotografi",
-      "explanation": "Fotografering av astronomiska objekt och himlakroppar med hjälp av specialutrustning."
+      "term": "astronomisk",
+      "explanation": "Relaterat till vetenskapen om universum och rymdens alla objekt och fenomen."
     },
     {
-      "term": "stjärnhop",
-      "explanation": "En samling stjärnor som hålls samman av sina inbördes gravitationskrafter."
+      "term": "solsystem",
+      "explanation": "Solen och alla de himlakroppar som rör sig i omloppsbana kring den, inklusive planeter och kometer."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine that the sun is shining on a giant cloud of invisible space dust floating around in space. When the sunbeams hit the dust, it starts to gleam faintly like a mysterious streak in the night sky. It almost looks like a spooky cone of light pointing up from the horizon just before the sun rises. Right in the middle of this beautiful glow, you can sometimes catch sight of large planets shining like bright colored dots among all the twinkling stars.",
-      "nyborjare": "In a dark night sky far from city lights, one can sometimes glimpse a faint, pyramid-shaped glow stretching up from the horizon just before dawn. This phenomenon is called zodiacal light and is caused by sunlight bouncing off billions of tiny dust grains floating in space. These particles are scattered across the plane of the solar system, where planets like Mars and Jupiter move. The light is so faint that it requires a truly dark location on earth, preferably at high altitude with clear air, to be detected.",
-      "entusiast": "Zodiacal light appears as a faintly glowing cone along the ecliptic and is caused by sunlight backscattered by interplanetary dust. The dust particles, whose origin has long been debated, have in modern times through measurements from spacecraft such as Juno been strongly linked to Mars as a primary source. When gazing into this band, one can find both bright planets like Jupiter and open star clusters like M44. To spot this diffuse glow requires exceptionally dark observation sites, such as high-altitude locations like the Hanle Dark Sky Reserve where light pollution is minimal and conditions for astrophotography are optimal."
+      "barn": "Imagine sparkling balls of ice zooming through the black space like glowing snowballs. When they get close to the warm sun, the ice starts to melt and creates long, beautiful tails of dust and gas that sparkle in the dark. It is just like when you breathe out warm mist in the cold winter air, but on a giant scale far away among the stars.",
+      "nyborjare": "This image shows a collection of comets discovered from space. Comets are celestial bodies made of ice, dust, and rock that orbit the sun. When they get close to the sun, they heat up and create a glowing tail of gas and particles pointing away from the sun. By using infrared light, which is a type of heat radiation that our eyes cannot see, space telescopes can detect these cold and dark objects that would otherwise be very difficult to find in the dark universe.",
+      "entusiast": "The image is the result of the space telescope WISE, Wide-field Infrared Survey Explorer, whose mission was to map the entire celestial sphere in the infrared spectrum during its one-year mission. As part of the NEOWISE portion of the mission, researchers have been able to discover a large number of new astronomical objects, including around twenty comets. By observing the sky at wavelengths around 3 to 25 micrometers, the instruments can distinguish thermal signatures from asteroids and comets that reflect or emit thermal radiation. These observations provide invaluable information about the origin and composition of the solar system, as comet nuclei represent pristine remnants from the time when the solar system formed over 4.5 billion years ago."
     },
     "terms": [
       {
-        "term": "zodiacal light",
-        "explanation": "A faint, diffuse glow in the night sky caused by sunlight reflected off space dust in the solar system."
+        "term": "infrared",
+        "explanation": "Invisible thermal radiation with longer wavelengths than visible light used to study cold celestial bodies."
       },
       {
-        "term": "ecliptic",
-        "explanation": "The apparent path that the sun and planets take across the sky throughout the year."
+        "term": "comet",
+        "explanation": "A small celestial body of ice and dust that develops a glowing tail when approaching the sun."
       },
       {
-        "term": "astrophotography",
-        "explanation": "The photography of astronomical objects and celestial bodies using specialized equipment."
+        "term": "astronomical",
+        "explanation": "Relating to the scientific study of the universe and all objects and phenomena in space."
       },
       {
-        "term": "star cluster",
-        "explanation": "A collection of stars held together by their mutual gravitational forces."
+        "term": "solar system",
+        "explanation": "The sun and all the celestial bodies that orbit around it, including planets and comets."
       }
     ],
     "quiz": [
       {
-        "q": "What is zodiacal light?",
+        "q": "What is a comet primarily made of?",
         "options": [
-          "Sunlight reflected by interplanetary space dust",
-          "An aurora occurring near the planetary orbits",
-          "Light from a distant galaxy far away in the cosmos"
+          "Ice, dust, and frozen gases",
+          "Solid iron and nickel",
+          "Compressed hydrogen gas"
         ],
         "correct": 0,
-        "fact": "Zodiacal light is faint sunlight scattered sideways by enormous amounts of tiny dust grains in the solar system."
+        "fact": "Comets are often described as dirty snowballs because they consist mainly of ice, dust, and frozen gases that release a tail when approaching the sun."
       },
       {
-        "q": "Why is zodiacal light often seen best near the horizon?",
+        "q": "Why do telescopes in space study astronomical bodies in infrared light?",
         "options": [
-          "Because dust is thickest at the edge of the Oort cloud",
-          "Because the light follows the orbital plane where dust gathers",
-          "Because earth's atmosphere magnifies starlight right there"
+          "Infrared light penetrates cosmic dust clouds more easily",
+          "It is the only type of light stars emit",
+          "The atmosphere reflects all infrared light away from the surface"
         ],
-        "correct": 1,
-        "fact": "The dust causing zodiacal light is gathered in the ecliptic plane, making it glow brightest along the zodiac."
+        "correct": 0,
+        "fact": "Infrared light is thermal radiation that can reveal cold objects in space because the radiation passes unimpeded through dense clouds of cosmic dust."
       },
       {
-        "q": "Which planet has been linked by researchers as a likely source of the dust creating the zodiacal light?",
+        "q": "Where in the solar system do most comets originate?",
         "options": [
-          "Saturn",
-          "Venus",
-          "Mars"
+          "The distant Oort cloud or Kuiper belt",
+          "Between the planets Mars and Jupiter",
+          "In orbit around the moon"
         ],
-        "correct": 2,
-        "fact": "Measurements from spacecraft show that dust from Mars may be a primary source for this cosmic dust layer."
+        "correct": 0,
+        "fact": "Most comets originate from the outermost edges of the solar system, either from the icy Kuiper belt or the very distant Oort cloud."
       }
     ]
   }

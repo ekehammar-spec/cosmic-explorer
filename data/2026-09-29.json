@@ -2,134 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-29",
-  "title": "Sh2-188: The Shrimp Nebula",
-  "title_sv": "Sh2-188: Räknebulosan",
+  "title": "NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+  "title_sv": "Hubble-teleskopet blickar mot galaxhop MACS J0417",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=2048&h=2560&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
-  "credit": "Pawel Piechnik",
-  "w": 384,
-  "h": 480,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUAAgEDBv/EACQQAAIBAwQBBQEAAAAAAAAAAAECAAMRIQQFEjFBMlFhgZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIABAX/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDERIh/9oADAMBAAIRAxEAPwDk9r2upr3JBCUl9Tt0IxbatEpPCqzn2tCaDrQ2Wkq+Rm3kmLjquIaxyYrZozjxxK69bBNRp0TAvjzBMX6h1aoHGP7BuI+YSpaW/BklYvt4pjteoqdm5zbSrMoNj3JyBzYAyBqukiq3vn8k5CYLYxKfUImz/9k=",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg",
+  "link": "https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/",
+  "w": 479,
+  "h": 289,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBBAb/xAAdEAACAgMAAwAAAAAAAAAAAAAAAQIRAyExQVGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8Jty9UVGDlFyS0ukbuzox5p4YZMeqnGmn9MjnaozyU3uyWFEaAELa4SAB//Z",
   "quiz": [
     {
-      "q": "Vad är en planetarisk nebulosa för något?",
+      "q": "Vad är en galaxhop?",
       "options": [
-        "Ett moln av gas och stoft som kastas ut från en döende stjärna",
-        "En nyfödd planet som omges av tjocka moln av metangas",
-        "Resterna efter två stora planeter som har krockat i rymden"
+        "En ensam stjärna med flera tunga planeter som kretsar kring den",
+        "En gigantisk samling av många galaxer som hålls ihop av gravitation",
+        "Ett moln av gas och stoft där nya stjärnor föds i rasande takt"
+      ],
+      "correct": 1,
+      "fact": "Galaxhopar är några av universums största strukturer och binder samman tiotals till tusentals galaxer med hjälp av ömsesidig dragningskraft."
+    },
+    {
+      "q": "Varför använder astronomer supernovor när de mäter universums expansion?",
+      "options": [
+        "De exploderande stjärnorna har en känd ljusstyrka som gör det möjligt att beräkna avstånd",
+        "De markerar exakt var universums yttersta kant befinner sig",
+        "De skapar svarta hål som suger till sig ljus från omgivande galaxer"
       ],
       "correct": 0,
-      "fact": "En planetarisk nebulosa har ingenting med planeter att göra, utan är de yttre lagren av gas som en stjärna lik vår sol stöter bort när den börjar bli gammal."
+      "fact": "Eftersom vissa typer av supernovor exploderar med en förutsägbar styrka kan astronomerna använda dem som standardljuskällor för att mäta avstånd i rymden."
     },
     {
-      "q": "Vad blir kvar i mitten av en stjärna när den har bildat en nebulosa?",
+      "q": "Hur kan en galaxhop fungera som ett förstoringsglas för ljus bakom den?",
       "options": [
-        "Ett supermassivt svart hål",
-        "En kompakt vit dvärg",
-        "En snabbt snurrande pulsar"
+        "Genom att samla ihop rymddamm som reflekterar ljuset likt en spegel",
+        "Genom att dess enorma massa böjer av ljuset från mer avlägsna objekt",
+        "Genom att skapa en intensiv strålning som lyser upp mörka områden"
       ],
-      "correct": 1,
-      "fact": "När stjärnan har skjutit ifrån sig sitt yttre skal återstår den heta och täta kärnan, som kallas för en vit dvärg."
-    },
-    {
-      "q": "Vad orsakar den bågformade chockvågen framför vissa snabbrörliga nebulosor?",
-      "options": [
-        "När stjärnvinden krockar med en förbipasserande planet",
-        "När den glödande gasen trycks ihop i färdriktningen genom rymden",
-        "När stjärnan accelererar på grund av en nära explosion"
-      ],
-      "correct": 1,
-      "fact": "När nebulosan rör sig snabbt genom den tunna gasen i rymden bildas en tryckvåg framför den, ungefär som när en båt plöjer genom vatten."
+      "correct": 2,
+      "fact": "Enligt Einsteins relativitetsteori kan extremt tunga objekt, som galaxhopar, böja rumtiden och därmed fungera som gravitationslinser som förstorar bakomliggande ljus."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor lysande ballong av färgstark gas som svävar ute i rymden. Det är resterna av en stjärna som har levt färdigt och skickat ut sina fluffiga kläder i universum. Den här stjärnan kör så himla fort genom rymden att den bildar en våg framför sig, precis som när en snabb motorbåt kör på sjön och skapar skumvatten.",
-    "nyborjare": "Sh2-188 är en planetarisk nebulosa, vilket är ett enormt moln av glödande gas som en åldrande stjärna har kastat ut i rymden. Trots sitt missvisande namn har den ingenting med planeter att göra. I mitten finns kärnan av stjärnan kvar som en vit dvärg. Den här nebulosan drar fram ovanligt snabbt genom den interstellära rymden, vilket gör att gasen pressas ihop framför den. Det skapar en tydlig chockvåg som liknar svallvågen efter en båt som plöjer genom vatten.",
-    "entusiast": "Sh2-188 utmärker sig genom sin ovanligt höga egenrörelse i det interstellära mediet. Den runda gasformationen, som spänner över en vinkelstorlek som motsvarar ungefär halva månens diameter på natthimlen, uppvisar en tydlig bogchock i sitt norra hörn. Denna asymmetriska kompression av vätgas, svavel och syre uppstår på grund av den höga hastigheten hos den kvarvarande vita dvärgen, som utgör den gravitationsmässigt kollapsade resten av en solliknande stjärna. Genom att studera dessa vågfrontsstrukturer kan astronomer få värdefull information om den omgivande galaktiska miljöns densitet och dynamiska tryckförhållanden."
+    "barn": "Tänk dig att rymden är som ett jättestort mörkt hav och att galaxhopar är enorma öar av stjärnor som flyter tillsammans i gäng. Hubble-teleskopet är som en magisk kikare som svävar högt upp över jorden där molnen inte är i vägen. Med den kan astronomer titta på avlägsna ljusglimtar från stjärnor som exploderar, ungefär som superfyrverkerier som smäller långt borta i mörkret.",
+    "nyborjare": "Den här bilden visar galaxhopen MACS J0417, fotograferad av Hubble-teleskopet som kretsar i sin bana runt jorden. En galaxhop är en enorm samling av tiotals eller till och med tusentals galaxer som hålls samman av gravitationen. I sådana här hopar kan forskare ibland upptäcka supernovor, vilket är gigantiska stjärnexplosioner. Genom att studera hur ljuset från dessa explosioner förändras och återkommer kan forskarna förstå mer om hur snabbt universum expanderar.",
+    "entusiast": "Bilden från Hubble-teleskopet av galaxhopen MACS J0417 illustrerar hur massiva strukturer kan fungera som gravitationslinser. Galaxhopen utgör en enorm massa som böjer rymdtidens krökning, vilket förstorar och ibland skapar flera bilder av bakomliggande objekt, till exempel supernova Athena. Genom att mäta tidsfördröjningen mellan de återkommande bilderna av samma supernova kan astronomer beräkna en oberoende Hubble-konstant, vilket är avgörande för att mäta universums expansionshastighet med hög precision och förstå mörk energis roll."
   },
   "terms": [
     {
-      "term": "nebulosa",
-      "explanation": "Ett gigantiskt moln av gas och rymdstoft som ofta lyser vackert i olika färger."
+      "term": "galaxhop",
+      "explanation": "En enorm samling av galaxer som hålls samman genom ömsesidig gravitation."
     },
     {
-      "term": "vit dvärg",
-      "explanation": "Resterna av en medelstor stjärna som har brunnit ut och blivit extremt kompakt och tät."
+      "term": "supernova",
+      "explanation": "Den våldsamma explosionen av en döende stjärna som tillfälligt lyser upp oerhört starkt."
     },
     {
-      "term": "interstellär",
-      "explanation": "Det tomrum och den materia som finns belägen ute i rymden mellan stjärnorna."
+      "term": "gravitation",
+      "explanation": "Den dragningskraft som massiva objekt utövar på varandra i universum."
     },
     {
-      "term": "chockvåg",
-      "explanation": "En häftig tryckvåg som bildas när något rör sig snabbare än ljudet eller pressar undan materia."
-    },
-    {
-      "term": "vatten",
-      "explanation": "En vanlig kemisk förening i flytande form som täcker stora delar av jorden."
+      "term": "gravitationslins",
+      "explanation": "När ett tungt objekts massa böjer av ljuset från en mer avlägsen bakomliggande källa."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant, glowing balloon made of colorful gas floating far out in space. It is what is left of a star that has finished its life and puffed its fluffy layers out into the universe. This star is traveling super fast through space, creating a wave in front of it just like a fast motorboat making white water on a lake.",
-      "nyborjare": "Sh2-188 is a planetary nebula, which is a huge cloud of glowing gas cast off by an aging star. Despite its misleading name, it has nothing to do with planets. At its center lies the leftover core of the star, known as a white dwarf. This nebula is moving unusually fast through interstellar space, causing gas to compress along its leading edge and creating a distinct shock wave similar to a boat plowing through water.",
-      "entusiast": "Sh2-188 stands out due to its remarkably high proper motion through the interstellar medium. The gaseous shell, spanning an angular size roughly half the diameter of the Moon, exhibits a prominent bow shock on its upper edge. This asymmetric compression of hydrogen, sulfur, and oxygen is driven by the high velocity of the surviving white dwarf core, which represents the degenerate remnant of a sun-like star. Analyzing these shock front structures provides astronomers with crucial insights into the density and dynamic pressure of the surrounding galactic environment."
+      "barn": "Imagine space is like a huge dark ocean, and galaxy clusters are enormous islands of stars floating together in groups. The Hubble telescope is like a magic spyglass floating high above Earth where clouds cannot get in the way. With it, astronomers can look at distant flashes of light from stars that explode, much like giant fireworks going off far away in the dark.",
+      "nyborjare": "This image shows the galaxy cluster MACS J0417, captured by the Hubble Space Telescope orbiting Earth. A galaxy cluster is a massive collection of dozens or even thousands of galaxies held together by gravity. Within such clusters, researchers can sometimes spot supernovae, which are gigantic stellar explosions. By studying how the light from these explosions changes and reappears, scientists can better understand how fast the universe is expanding.",
+      "entusiast": "The Hubble Space Telescope image of galaxy cluster MACS J0417 illustrates how massive structures can act as gravitational lenses. The cluster represents an immense mass that warps spacetime, magnifying and sometimes creating multiple images of background objects such as supernova Athena. By measuring the time delay between the reappearing images of the same supernova, astronomers can calculate an independent Hubble constant, which is crucial for measuring the expansion rate of the universe with high precision."
     },
     "terms": [
       {
-        "term": "nebula",
-        "explanation": "A giant cloud of gas and dust in outer space that often glows brightly."
+        "term": "galaxy cluster",
+        "explanation": "A massive collection of galaxies held together by mutual gravitational attraction."
       },
       {
-        "term": "white dwarf",
-        "explanation": "The dense, collapsed core left behind after a medium-sized star has exhausted its nuclear fuel."
+        "term": "supernova",
+        "explanation": "The violent explosion of a dying star that temporarily shines extremely brightly."
       },
       {
-        "term": "interstellar",
-        "explanation": "Pertaining to the vast spaces and matter located between the stars."
+        "term": "gravity",
+        "explanation": "The natural force of attraction that exists between all physical bodies with mass."
       },
       {
-        "term": "shock wave",
-        "explanation": "A sharp pressure disturbance that propagates rapidly through a medium."
-      },
-      {
-        "term": "water",
-        "explanation": "A transparent and odorless liquid compound that is essential for known life."
+        "term": "gravitational lens",
+        "explanation": "The bending of light from a distant source caused by the mass of a foreground object."
       }
     ],
     "quiz": [
       {
-        "q": "What is a planetary nebula?",
+        "q": "What is a galaxy cluster?",
         "options": [
-          "A cloud of gas and dust ejected from a dying star",
-          "A newborn planet surrounded by thick clouds of methane gas",
-          "The remnants of two large planets that collided in space"
+          "A single star surrounded by several massive planets in orbit",
+          "A giant collection of many galaxies bound together by gravity",
+          "A cloud of gas and dust where new stars form at a rapid pace"
+        ],
+        "correct": 1,
+        "fact": "Galaxy clusters are among the largest structures in the universe, binding together tens to thousands of galaxies through mutual gravitational pull."
+      },
+      {
+        "q": "Why do astronomers use supernovae when measuring the expansion of the universe?",
+        "options": [
+          "These exploding stars have a known brightness that allows distance calculations",
+          "They mark the exact location of the edge of the universe",
+          "They create black holes that suck in light from surrounding galaxies"
         ],
         "correct": 0,
-        "fact": "A planetary nebula has nothing to do with planets, but is instead the outer layers of gas shed by a sun-like star at the end of its life."
+        "fact": "Because certain types of supernovae explode with a predictable luminosity, astronomers can use them as standard candles to measure distances in space."
       },
       {
-        "q": "What remains at the center of a star after it forms a planetary nebula?",
+        "q": "How can a galaxy cluster act as a magnifying glass for light behind it?",
         "options": [
-          "A supermassive black hole",
-          "A compact white dwarf",
-          "A rapidly spinning pulsar"
+          "By gathering space dust that reflects light like a mirror",
+          "By creating an intense radiation that illuminates dark areas",
+          "By bending the light from more distant objects using its immense mass"
         ],
-        "correct": 1,
-        "fact": "Once the star has shed its outer envelope, the hot and dense stellar core remains behind as a white dwarf."
-      },
-      {
-        "q": "What causes the bow-shaped shock wave in front of certain fast-moving nebulas?",
-        "options": [
-          "Stellar winds colliding with a passing planet",
-          "Glowing gas being compressed in the direction of travel through space",
-          "A nearby stellar explosion accelerating the gas"
-        ],
-        "correct": 1,
-        "fact": "As the nebula moves swiftly through the thin gas of space, a pressure wave builds up ahead of it, similar to a boat plowing through water."
+        "correct": 2,
+        "fact": "According to Einstein's theory of relativity, extremely massive objects like galaxy clusters warp spacetime, thereby acting as gravitational lenses that magnify background light."
       }
     ]
   }

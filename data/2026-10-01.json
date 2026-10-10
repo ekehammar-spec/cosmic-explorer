@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-01",
-  "title": "Harvest Moon with Erupting Mount Etna",
-  "title_sv": "Skördemåne med vulkanutbrott vid Etna",
+  "title": "Hubble Spots Chaotic Secret in Galaxy",
+  "title_sv": "Hubble upptäcker en kaotisk hemlighet i galax",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg?w=1600&h=1067&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
-  "credit": "Dario Giannobile",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg",
+  "link": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/",
   "w": 480,
-  "h": 320,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACUQAAEEAQIFBQAAAAAAAAAAAAEAAgMRBBIhBTFhcZETIzJRUv/EABYBAQEBAAAAAAAAAAAAAAAAAAIEA//EABoRAAMBAAMAAAAAAAAAAAAAAAABEQIDEiH/2gAMAwEAAhEDEQA/AMZ8Rvp2B4Uo4sYeZZ2OdBGbcGjn07KjBxrFLPea9tbVWq/CQzuJwSgta2TSDfxoLLGd2Qt0+NZvZEnimS/NyTK/YAaWN/LRyCnuCoSGF1kG+p2SrwANqKpkURHa6aRZj2aTojIG9UmW5euFz3xNJDgB2QhJoyvolJKXk7AD6pYE226HhCEWPJ//2Q==",
+  "h": 487,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgQFAAECA//EACIQAAEDBAICAwAAAAAAAAAAAAEAAgQDBRESIUETYTFRkf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAEAETFB/9oADAMBAAIRAxEAPwADTH6pLKZI9rzit2cBhKrXaPO0OIUrUFKG+oeAVuTCNGns5Lq0JscFuuAEXvEkE6N6TZlzao29QE/A5KZ26UIxBwAB9opDrsjsB4KyRc3OGrDqPSMK8vt2bWyGHk9BC5Zy45OSpL6znA4yT2oVQl2VA9bSnC//2Q==",
   "quiz": [
     {
-      "q": "Varför stiger fullmånen upp i horisonten just som solen går ner?",
+      "q": "Vad är en spiralgalax mest känd för att ha?",
       "options": [
-        "Eftersom solen drar med sig månen i sin bana",
-        "Eftersom månen och solen står på motsatta sidor om jorden",
-        "Eftersom jordens rotation saktar ner på kvällen"
-      ],
-      "correct": 1,
-      "fact": "Vid en fullmåne befinner sig jorden rakt emellan solen och månen, vilket gör att de står i opposition på himlen."
-    },
-    {
-      "q": "Ungefär hur lång tid tar det för månen att fullfölja en hel fascykel från fullmåne till fullmåne?",
-      "options": [
-        "27 dygn",
-        "29,5 dygn",
-        "31 dygn"
-      ],
-      "correct": 1,
-      "fact": "Fascykeln tar cirka 29,5 dygn eftersom jorden samtidigt rör sig runt solen, vilket gör att månen behöver lite extra tid för att nå samma position igen."
-    },
-    {
-      "q": "Vad kallas det rosa färgband som ibland syns lågt på himlen under gryning eller skymning?",
-      "options": [
-        "Venusbältet",
-        "Atmosfärens gloria",
-        "Skymningsskivan"
+        "En kompakt kärna omgiven av roterande armar med stjärnor",
+        "En helt sfärisk form fylld med enbart gamla röda stjärnor",
+        "Ett glest nätverk av svarta hål utan synliga stjärnor"
       ],
       "correct": 0,
-      "fact": "Venusbältet är ett rosa eller skärt band av spritt solljus som syns på motsatt sida av himlen i förhållande till solen under solnedgång eller soluppgång."
+      "fact": "Spiralgalaxer kännetecknas av sina platta, roterande skivor som innehåller stjärnor, gas och stoft arrangerade i distinkta spiralarmar."
+    },
+    {
+      "q": "Varför kan en till synes fridfull galax i stället dölja en kaotisk inre miljö?",
+      "options": [
+        "På grund av att mörk materia ständigt trycker ihop galaxen",
+        "Eftersom intensiva stjärnbildningar och svarta hål skapar stor aktivitet",
+        "Därför att galaxen roterar så snabbt att stjärnorna kolliderar dagligen"
+      ],
+      "correct": 1,
+      "fact": "Bakom en lugn yta kan det pågå massiv nybildning av stjärnor och våldsamma processer kring supermassiva svarta hål i galaxens mitt."
+    },
+    {
+      "q": "Vad är det som till största delen lyser upp spiralarmarna i en galax som denna?",
+      "options": [
+        "Reflekterande planeter som kretar i banor kring galaxens kant",
+        "Miljarder unga, varma stjärnor och lysande gasmoln",
+        "Kraftfulla laserliknande strålar från galaxens centrala tomrum"
+      ],
+      "correct": 1,
+      "fact": "Det är de unga, massiva och heta stjärnorna tillsammans med upphettade gasmoln som gör spiralarmarna så ljusstarka och framträdande."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att månen lyser stor och rund på kvällshimlen samtidigt som solen tittar bort och går ner i horisonten. På den här färggranna bilden ser det ut som att månen stiger upp precis bakom ett stort berg som sprutar glödande aska och rök. Det är som ett jättestort fyrverkeri i rymden där månen är en lysande boll och berget är en vulkan som spottar eld.",
-    "nyborjare": "När det är fullmåne befinner sig solen och månen i opposition, vilket betyder att de står på helt motsatta sidor om jorden. Det gör att månen går upp i öster precis när solen går ner i väster. Den här bilden visar en måne som stiger upp över Sicilien, där vulkanen Etna kastar ut aska och gas i bakgrunden. Lågt på himlen syns också det vackra Venusbältet, ett rosa färgband som skapas av solljus som reflekteras i den lägre atmosfären.",
-    "entusiast": "Denna sammansatta bild fångar det exakta ögonblicket för en fullmåne i opposition, där solens och månens ekliptikala longituder skiljer sig med 180 grader. Månens synodiska månad, det vill säga tiden mellan två identiska månfascykler, är i genomsnitt cirka 29,5 dygn på grund av jordens rörelse kring solen, även om det sideromiska kretsloppet endast tar ungefär 27 dygn. Kompositionen förenar himlavalvets mekanik med jordbunden geologi genom att inkludera vulkanisk aktivitet från Etna samt det karakteristiska rosa Venusbältet, en arised-effekt av backscattered solljus i troposfären känt som antisolskenet."
+    "barn": "Den här vackra spiralgalaxen ser ut som ett gigantiskt snurrade fyrverkeri ute i rymden. Fast den ser lugn och snäll ut på bilden, gömmer den faktiskt en vild och spännande hemlighet där inne i mitten. Det är lite som ett rum fyllt med leksaker som har rört till det ordentligt när ingen tittar, fast med glödande stjärnor i stället för legobitar.",
+    "nyborjare": "Denna galax kan vid en första anblick upplevas som fridfull och harmonisk med sina vackra spiralarmar. Men under ytan döljer den en kaotisk verklighet med våldsamma processer. Inne i galaxen bildas det ständigt nya stjärnor i rasande takt, och gasmoln kolliderar med varandra. Rymdteleskopet Hubble kan fånga dessa dolda detaljer tack vare sin fantastiska skärpa, vilket visar att rymden ofta är mycket mer dynamisk än vad den först ser ut att vara.",
+    "entusiast": "Den här bilden från NASA och ESA visar en spiralgalax vars till synes rofyllda struktur döljer en dynamisk och turbulent inre miljö. Spiralgalaxer hyser ofta komplexa dynamiska system där gravitationskrafter, stjärnvindar från massiva stjärnor och aktivitet kring ett centralt supermassivt svart hål driver på en intensiv stjärnbildning. Genom att studera dessa galaktiska system kan astronomer förstå hur gasreservoarer omvandlas till stjärnor och hur galaxer utvecklas över miljarder år. Hubble-teleskopets höga upplösning i det ultravioletta och infraröda spektrumet är avgörande för att tränga igenom stoftbanden och avslöja detta dolda kaos."
   },
   "terms": [
     {
-      "term": "opposition",
-      "explanation": "När två himlakroppar befinner sig på motsatta sidor om jorden i förhållande till varandra."
+      "term": "spiralgalax",
+      "explanation": "En typ av stjärnsystem som kännetecknas av en platt skiva med roterande armar som sträcker sig ut från en central kärna."
     },
     {
-      "term": "ekliptikala",
-      "explanation": "Det plan som definieras av jordens bana runt solen."
+      "term": "stjärnbildning",
+      "explanation": "Processen där stora moln av gas och stoft dras samman av gravitationen för att bilda nya stjärnor."
     },
     {
-      "term": "synodiska",
-      "explanation": "Den tid det tar för en himlakropp att återkomma till samma position i förhållande till solen."
+      "term": "gravitationskraft",
+      "explanation": "En fysikalisk dragningskraft som verkar mellan alla objekt med massa och håller ihop himlakroppar."
     },
     {
-      "term": "troposfären",
-      "explanation": "Den lägsta och tätaste delen av jordens atmosfär där det mesta av vädret äger rum."
+      "term": "svart hål",
+      "explanation": "Ett extremt kompakt rymdområde med en gravitation så stark att inte ens ljuset kan ta sig ut."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a big, round moon glowing in the evening sky at the exact same time the sun goes down. In this colorful picture, the moon looks like it is rising right behind a giant mountain that is puffing out smoke and ash. It is like a glowing space show where the moon is a shiny ball and the mountain is a fiery volcano.",
-      "nyborjare": "When there is a full moon, the sun and the moon are in opposition, meaning they sit on opposite sides of Earth. This makes the moon rise in the east just as the sun sets in the west. This image captures a moon rising over Sicily, with Mount Etna erupting ash and gas in the background. Low in the sky, you can also see the Belt of Venus, a pink band of light created by sunlight reflecting off the lower atmosphere.",
-      "entusiast": "This composite image captures the precise geometry of a full moon in opposition, where the celestial bodies align across 180 degrees of longitude relative to Earth. The synodical month averages approximately 29.5 days due to Earth's orbital motion around the sun, even though the sidereal orbit takes only about 27 days. The composition bridges celestial mechanics with terrestrial geology by featuring volcanic ejecta from Mount Etna alongside the Belt of Venus, a distinct backscattered photometric phenomenon observed in the troposphere."
+      "barn": "This beautiful spiral galaxy looks like a giant swirling firework out in space. Even though it looks calm and peaceful in the picture, it actually hides a wild and exciting secret right in the middle. It is a bit like a room full of toys that got totally messy when nobody was looking, but with glowing stars instead of building blocks.",
+      "nyborjare": "This galaxy might at first glance appear serene and harmonious with its lovely spiral arms. Beneath the surface, however, it hides a chaotic reality filled with violent processes. Inside the galaxy, new stars are constantly forming at a rapid pace, and gas clouds collide with one another. The Hubble Space Telescope can capture these hidden details thanks to its incredible sharpness, showing that space is often far more dynamic than it first appears.",
+      "entusiast": "This image from NASA and ESA features a spiral galaxy whose seemingly tranquil structure belies a dynamic and turbulent internal environment. Spiral galaxies frequently host complex systems where gravitational forces, stellar winds from massive stars, and activity surrounding a central supermassive black hole drive intense star formation. By studying these galactic systems, astronomers can understand how gas reservoirs convert into stars and how galaxies evolve over billions of years. The Hubble Telescope's high resolution across ultraviolet and infrared spectra is crucial for piercing dust lanes to reveal this hidden chaos."
     },
     "terms": [
       {
-        "term": "opposition",
-        "explanation": "The astronomical alignment when two bodies are on opposite sides of the sky as viewed from Earth."
+        "term": "spiral galaxy",
+        "explanation": "A type of stellar system characterized by a flat disk with rotating arms extending from a central core."
       },
       {
-        "term": "longitude",
-        "explanation": "The angular distance measured east or west along the celestial equator or Earth's surface."
+        "term": "star formation",
+        "explanation": "The process by which large clouds of gas and dust are compressed by gravity to form new stars."
       },
       {
-        "term": "synodical",
-        "explanation": "Relating to successive conjunctions or phases of a celestial body relative to the sun."
+        "term": "gravitational force",
+        "explanation": "A physical attraction that acts between all objects with mass, holding celestial bodies together."
       },
       {
-        "term": "troposphere",
-        "explanation": "The lowest layer of Earth's atmosphere where most weather phenomena occur."
+        "term": "black hole",
+        "explanation": "An extremely compact region of space with gravity so strong that not even light can escape."
       }
     ],
     "quiz": [
       {
-        "q": "Why does the full moon rise just as the sun sets?",
+        "q": "What is a spiral galaxy most known for possessing?",
         "options": [
-          "Because the sun pulls the moon along in its orbit",
-          "Because the moon and the sun are in opposition on opposite sides of Earth",
-          "Because Earth's rotation slows down in the evening"
-        ],
-        "correct": 1,
-        "fact": "During a full moon, Earth lies directly between the sun and the moon, placing them in opposition in the sky."
-      },
-      {
-        "q": "Approximately how long does it take for the moon to complete a full phase cycle from one full moon to the next?",
-        "options": [
-          "27 days",
-          "29.5 days",
-          "31 days"
-        ],
-        "correct": 1,
-        "fact": "The phase cycle takes about 29.5 days because Earth is simultaneously orbiting the sun, requiring the moon to travel slightly further to reach the same relative phase."
-      },
-      {
-        "q": "What is the name of the pinkish band of light that sometimes appears low in the sky during twilight?",
-        "options": [
-          "The Belt of Venus",
-          "The Atmospheric Halo",
-          "The Twilight Disc"
+          "A compact core surrounded by rotating arms containing stars",
+          "A completely spherical shape filled exclusively with old red stars",
+          "A sparse network of black holes without any visible stars"
         ],
         "correct": 0,
-        "fact": "The Belt of Venus is a pink or peach-colored band visible in the sky opposite the sun during sunrise or sunset."
+        "fact": "Spiral galaxies are characterized by their flat, rotating disks containing stars, gas, and dust arranged in distinct spiral arms."
+      },
+      {
+        "q": "Why might a seemingly peaceful galaxy actually hide a chaotic interior environment?",
+        "options": [
+          "Because dark matter is constantly compressing the galaxy inward",
+          "Due to intense star formation and supermassive black hole activity",
+          "Because the galaxy rotates so fast that stars collide daily"
+        ],
+        "correct": 1,
+        "fact": "Behind a calm exterior, there can be massive star formation and violent processes occurring around the supermassive black holes at the galactic center."
+      },
+      {
+        "q": "What is primarily responsible for illuminating the spiral arms in a galaxy like this?",
+        "options": [
+          "Reflective planets orbiting along the outer edge of the galaxy",
+          "Billions of young, hot stars and glowing gas clouds",
+          "Powerful laser-like beams originating from the central void"
+        ],
+        "correct": 1,
+        "fact": "It is young, massive, hot stars along with heated gas clouds that make the spiral arms so bright and prominent."
       }
     ]
   }

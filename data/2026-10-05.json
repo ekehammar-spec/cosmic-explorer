@@ -2,126 +2,128 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-05",
-  "title": "M104: The Sombrero Galaxy's Tidal Streams",
-  "title_sv": "M104: Sombrerogalaxen",
+  "title": "Star Trails",
+  "title_sv": "Stjärnspår",
   "media_type": "image",
-  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/M104_Vollmer_4222.jpg?w=1600&h=1600&fit=clip",
-  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/M104_Vollmer_4222.jpg?w=480&h=480&fit=clip",
-  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/M104_Vollmer_4222.jpg?w=4222&h=2817&fit=clip&crop=faces%2Cfocalpoint",
-  "link": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
-  "credit": "Engelbert Vollmer",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg",
+  "link": "https://www.nasa.gov/image-detail/iss075e0144232/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/iss075e0144232/",
   "w": 480,
-  "h": 320,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAQL/xAAgEAACAwACAgMBAAAAAAAAAAABAgADEQUhBBIUMVGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Agaq2boCPeNxVlvYUzOP6s0gHJXcVZSq7ZhAB6lRK38eyNvoFI+4jZWUsw5+yl5jyal31I2TlxNhJA/kpHNLFWBEa+ZcgxWwQhAW8i17G1iYVgiosCYQhX//Z",
+  "h": 720,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAQBBQMGB//EACIQAAICAQQCAwEAAAAAAAAAAAECAAMEERIhMQUyIlFxQf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABoRAQADAAMAAAAAAAAAAAAAAAABAhEDMUH/2gAMAwEAAhEDEQA/AObwjFWLbb6KNPskCZ28TlKoZgig8jVu44NghCMtg3qfUH8IMIFuJ8fiJjrkutiUOTpvbaWX7A7iVBrx1sazlTu2c8ajqVWX5C7IJa2wuXOgJPQEi/KZsYccFti/g7l7zWOmbji/pt81y3xYbf4ISkLsSYSWtGP/2Q==",
   "quiz": [
     {
-      "q": "Varför har M104 fått smeknamnet Sombrerogalaxen?",
+      "q": "Varför ser det ut som att stjärnorna drar upp ljusa streck på natthimlen när man tar en lång exponering med en kamera?",
       "options": [
-        "Den snurrar lika snabbt som en hatt som kastas i luften",
-        "Ett mörkt stoftband får den att likna en bredbrättad hatt",
-        "Dess centrala delar har formen av en mexikansk poncho"
+        "Det beror på att stjärnorna rör sig mycket snabbt genom rymden i en bestämd formation.",
+        "Det beror på att jorden snurrar kring sin egen axel medan slutaren hålls öppen.",
+        "Det beror på att jordens atmosfär bryter stjärnljuset i vågor under natten."
       ],
       "correct": 1,
-      "fact": "På kortare exponeringar ser galaxen ut som en hatt på grund av dess karakteristiska utseende med ett mörkt stoftband runt mitten."
+      "fact": "Medan kamerans slutare är öppen under en längre tid roterar jorden, vilket gör att stjärnorna lämnar långa ljusspår på bilden."
     },
     {
-      "q": "Hur lång tid tar det för ljuset att nå oss från Sombrerogalaxen?",
+      "q": "Vad är det som orsakar de gula ljusen som syns i mönstret längst ned på bilden över landmassorna?",
       "options": [
-        "Ungefär 30 miljoner år",
-        "Cirka 150 000 år",
-        "Runt 4,5 miljarder år"
+        "Stora vulkanutbrott som lyser upp molnen underifrån.",
+        "Reflektioner från månen i stora ökenområden.",
+        "Belysning från städer och tätbebyggda områden."
+      ],
+      "correct": 2,
+      "fact": "De gula ljusen kommer från lampor och gatubelysning i tätorter och städer på jorden."
+    },
+    {
+      "q": "Varifrån brukar rymdfarare och satelliter vanligtvis betrakta fenomen som stjärnspår och jordens atmosfär?",
+      "options": [
+        "Från den låga omloppsbana runt jorden där rymdstationen befinner sig.",
+        "Från geostationära omloppsbanor långt ute vid månen.",
+        "Från fasta observatorier som är placerade på ytan av asteroider."
       ],
       "correct": 0,
-      "fact": "Ljus från Sombrerogalaxen färdas i rymden i ungefär 30 miljoner år innan det når våra teleskop på jorden."
-    },
-    {
-      "q": "Vad tyder galaxens tidvattenströmmar och strukturer på?",
-      "options": [
-        "Att den håller på att kollapsa till ett svart hål",
-        "Att den har en våldsam historia med tidigare galaxkollisioner",
-        "Att den snart kommer att slitas itu av galaktisk vind"
-      ],
-      "correct": 1,
-      "fact": "Strukturer som en diagonal ring och stjärnhalor visar att Sombrerogalaxen har slagits samman med mindre galaxer tidigare i historien."
+      "fact": "Bilder av den här typen tas ofta från den internationella rymdstationen som kretsar runt jorden på några hundra kilometers höjd."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor hatt som glittrar ute i rymden! Den här galaxen kallas för Sombrerogalaxen eftersom den ser ut precis som en mexikansk hatt med ett brett brätte. Runt mitten har den ett mörkt bälte av stoft och damm som drar blicken till sig. När forskare tittar riktigt noga upptäcker de att galaxen har varit med om vilda äventyr och krockat med andra galaxer för länge sedan.",
-    "nyborjare": "M104, mer känd som Sombrerogalaxen, är en av rymdens mest fascinerande stjärnsamlingar. Det mest iögonfallande kännetecknet är det mörka stoftband som löper runt galaxens mitt och skapar silhuetten av en hatt. Längre exponeringar av galaxen avslöjar en dimmig halo av äldre stjärnor samt svaga tidvattenströmmar. Dessa strukturer är spår efter att galaxen i sin ungdom har slukat eller krockat med mindre galaxer. Med en storlek på omkring 150 000 ljusår i diameter ligger den på ett avstånd där ljuset behöver färdas i cirka 30 miljoner år för att nå oss.",
-    "entusiast": "Sombrerogalaxen, katalogiserad som M104, är ett praktexempel på en galax med en komplex och dynamisk historia. Dess mest framträdande drag i optiska våglängder är den prominenta stoftskivan som skär genom den ljusstarka centrala bulben. Djupa astronomiska observationer avslöjar dock en vidsträckt och stjärnorrik halo som sträcker sig långt bortom den synliga skivan. Inom denna stjärnhalo finns tydliga spår av dynamiska interaktioner, såsom en diagonal ring och utsträckta tidvattenströmmar. Dessa morfologiska särdrag ger odiskutabla bevis för att M104 har vuxit genom ackretion och multipla mindre galaxkollisioner. Galaxen har en fysisk utsträckning på omkring 150 000 ljusår och befinner sig på ett avstånd av cirka 30 miljoner ljusår från jorden, vilket gör den till ett viktigt studieobjekt för galaktisk evolution."
+    "barn": "Tänk dig att du snurrar runt med en ficklampa i ett mörkt rum och lyser mot väggen. Då flyttar sig ljuspunkten snabbt över väggen. Ungefär så gör jorden när den snurrar runt i rymden! Om en kamera tittar ut mot stjärnorna medan jorden snurrar, hinner stjärnornas ljus måla långa streck över bilden. Längst ner syns också små ljusprickar från städer och fiskebåtar på jorden.",
+    "nyborjare": "När man tar ett fotografi med en lång slutartid från rymden fångas ljuset under en längre stund. Eftersom jorden roterar kring sin egen axel ser det ut som att stjärnorna rör sig över himlen och lämnar efter sig spår av ljus. På bilden syns dessa stjärnspår sväva högt ovanför jordens krökning. Längre ner glimrar gula ljus från städer och blå sken från fiskebåtar som guppar på haven i mörkret.",
+    "entusiast": "Denna långtidsexponerade bild illustrerar tydligt den visuella effekten av jordens rotation sett från rymden. När en kamera ombord på den internationella rymdstationen riktas mot horisonten med öppen slutare under en längre tidsperiod, ritar jordens rotation ut stjärnornas sken som cirkulörare banor eller streck. Ovanför atmosfärens tunna, självlysande skikt framträder rymdens svärta. Längre ned på jordytan urskiljs de gula ljusen från urbana ljuskällor samt de distinkta blå ljusen från fiskeflottor som verkar på haven, vilket skapar en fascinerande kontrast mellan naturliga kosmiska mönster och mänsklig aktivitet."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "En enorm samling av miljarder stjärnor, gas, stoft och mörk materia som hålls samman av gravitation."
+      "term": "rotation",
+      "explanation": "När ett föremål eller en planet snurrar ett varv runt sin egen axel."
     },
     {
-      "term": "stoft",
-      "explanation": "Mikroskopiska korn av tunga grundämnen och kolvittringar som flyter runt i den interstellära rymden."
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en planet och hålls kvar av gravitationskraften."
     },
     {
-      "term": "halo",
-      "explanation": "Ett sfäriskt moln av stjärnor och mörk materia som omger den centrala delen av en galax."
+      "term": "rymdstation",
+      "explanation": "En stor farkost där människor kan bo och arbeta under längre perioder i omloppsbana runt jorden."
     },
     {
-      "term": "ljusår",
-      "explanation": "Det avstånd som en ljusstråle färdas på ett helt jordår i det tomma rymdvakuumet."
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som en himlakropp eller farkost följer runt en annan kropp i rymden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant hat sparkling far out in space! This galaxy is called the Sombrero Galaxy because it looks just like a Mexican hat with a wide brim. Around the middle, it has a dark belt of dust that catches the eye. When scientists look really closely, they discover that the galaxy has been on wild adventures and collided with other galaxies a long time ago.",
-      "nyborjare": "M104, better known as the Sombrero Galaxy, is one of the most fascinating star systems in space. Its most striking feature is the dark dust lane running around the galaxy's center, creating the silhouette of a hat. Longer exposures of the galaxy reveal a hazy halo of older stars as well as faint tidal streams. These structures are traces of the galaxy having swallowed or collided with smaller galaxies in its youth. With a size of about 150,000 light-years across, it lies at a distance where light needs to travel for roughly 30 million years to reach us.",
-      "entusiast": "The Sombrero Galaxy, cataloged as M104, is a prime example of a galaxy with a complex and dynamic history. Its most prominent feature in optical wavelengths is the prominent dust disk cutting through the luminous central bulge. However, deep astronomical observations reveal an extensive and stellar-rich halo extending far beyond the visible disk. Within this stellar halo lie clear traces of dynamic interactions, such as a diagonal ring and extended tidal streams. These morphological features provide undeniable evidence that M104 has grown through accretion and multiple minor galaxy collisions. The galaxy has a physical extent of about 150,000 light-years and is located at a distance of approximately 30 million light-years from Earth, making it a vital object for studying galactic evolution."
+      "barn": "Imagine spinning around with a flashlight in a dark room and shining it against the wall. The spot of light quickly moves across the surface. The Earth does something very similar as it spins around in space! If a camera looks out at the stars while the Earth rotates, the starlight paints long streaks across the image. Down below, you can also see tiny dots of light from cities and fishing boats on Earth.",
+      "nyborjare": "When taking a photograph with a long exposure time from space, light is gathered over an extended period. Because the Earth rotates on its axis, the stars appear to move across the sky, leaving behind glowing trails of light. In the image, these star trails hover high above the curve of the Earth. Further down, yellow lights shimmer from cities alongside the blue glow of fishing boats bobbing on the dark oceans.",
+      "entusiast": "This long-duration image clearly illustrates the visual effect of Earth's rotation as viewed from space. When a camera aboard the International Space Station is directed toward the horizon with an open shutter over an extended period, Earth's rotation traces out the starlight into distinct streaks. Above the thin, luminescent layer of the atmosphere, the blackness of space emerges. Further down on the Earth's surface, the yellow lights of urban centers are distinguishable alongside the characteristic blue lights of fishing fleets operating at sea, creating a fascinating contrast between natural cosmic patterns and human activity."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system of billions of stars, gas, dust, and dark matter held together by gravity."
+        "term": "rotation",
+        "explanation": "The spinning movement of an object or planet around its own central axis."
       },
       {
-        "term": "dust",
-        "explanation": "Microscopic grains of heavy elements and carbon compounds floating around in interstellar space."
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet that is held in place by gravity."
       },
       {
-        "term": "halo",
-        "explanation": "A spherical cloud of stars and dark matter surrounding the central region of a galaxy."
+        "term": "space station",
+        "explanation": "A large spacecraft where humans can live and work for extended periods in orbit around Earth."
       },
       {
-        "term": "light-year",
-        "explanation": "The distance that a beam of light travels in a single Earth year through the vacuum of space."
+        "term": "orbit",
+        "explanation": "The curved path that a celestial body or spacecraft follows around another body in space."
       }
     ],
     "quiz": [
       {
-        "q": "Why has M104 been given the nickname the Sombrero Galaxy?",
+        "q": "Why do stars appear to draw bright streaks across the night sky in a long-exposure photograph?",
         "options": [
-          "It spins as fast as a hat thrown in the air",
-          "A dark dust lane makes it resemble a wide-brimmed hat",
-          "Its central region is shaped like a Mexican poncho"
+          "It happens because the stars are moving at extremely high speeds in a fixed formation.",
+          "It happens because the Earth rotates around its axis while the camera shutter remains open.",
+          "It happens because Earth's atmosphere bends and scatters starlight into waves during the night."
         ],
         "correct": 1,
-        "fact": "On shorter exposures, the galaxy looks like a hat due to its characteristic appearance featuring a dark dust brim around the center."
+        "fact": "While the camera shutter is open for an extended period, the Earth rotates, causing the stars to leave long trails of light on the image."
       },
       {
-        "q": "How long does it take for light to reach us from the Sombrero Galaxy?",
+        "q": "What causes the yellow lights visible in the pattern at the bottom of the image over the landmasses?",
         "options": [
-          "About 30 million years",
-          "Around 150,000 years",
-          "Roughly 4.5 billion years"
+          "Large volcanic eruptions illuminating the clouds from underneath.",
+          "Reflections of the Moon bouncing off vast desert regions.",
+          "Artificial illumination from cities and populated urban areas."
+        ],
+        "correct": 2,
+        "fact": "The yellow lights originate from lamps and streetlights in populated towns and cities on Earth."
+      },
+      {
+        "q": "From where do astronauts and satellites typically observe phenomena like star trails and Earth's atmosphere?",
+        "options": [
+          "From the low orbit around Earth where the space station is located.",
+          "From geostationary orbits far out near the Moon.",
+          "From fixed observatories placed directly on the surface of asteroids."
         ],
         "correct": 0,
-        "fact": "Light from the Sombrero Galaxy travels through space for about 30 million years before reaching our telescopes on Earth."
-      },
-      {
-        "q": "What do the tidal streams and structures of the galaxy indicate?",
-        "options": [
-          "That it is currently collapsing into a supermassive black hole",
-          "That it has a violent past involving past galactic collisions",
-          "That it will soon be torn apart by a fierce galactic wind"
-        ],
-        "correct": 1,
-        "fact": "Structures such as a diagonal ring and stellar halos show that the Sombrero Galaxy has merged with smaller galaxies earlier in its history."
+        "fact": "Images of this kind are often captured from the International Space station as it orbits hundreds of miles above Earth."
       }
     ]
   }
