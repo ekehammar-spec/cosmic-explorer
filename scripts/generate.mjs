@@ -161,6 +161,26 @@ async function libraryAsset(c) {
   return { ...c, url: encodeURI(url), thumb: encodeURI(thumb), hdurl: encodeURI(hdurl) };
 }
 
+/* ---------- Äldre jordbilder ur arkivet ---------- */
+const EARTH_BACK = Number(process.env.EARTH_BACK ?? 14);          // så här många dagar bakåt ska ha en jordbild
+const EARTH_FILL_MAX = Number(process.env.EARTH_FILL_MAX ?? 12);
+const EARTH_TOPICS = ["earth observatory landsat", "earth observatory volcano", "earth observatory glacier", "earth observatory river delta", "earth observatory island",
+  "earth observatory desert", "earth observatory lake", "earth observatory phytoplankton bloom", "earth observatory coast", "earth observatory mountains",
+  "earth observatory sea ice", "earth observatory city", "earth observatory reef", "earth observatory dunes"];
+// Bara bilder där Earth Observatory uttryckligen står som upphov i NASA:s egen text.
+const EO_CREDIT = /(NASA Earth Observatory images? (?:created )?by [^.]{3,160}\.?|(?:Image )?[Cc]redit: (?:Landsat \d\/)?NASA Earth Observatory|Landsat \d\/NASA Earth Observatory)/;
+async function earthCandidates(topic, page) {
+  const res = await fetch(`${LIBRARY}/search?q=${encodeURIComponent(topic)}&media_type=image&center=GSFC&page_size=60&page=${page}`, { headers: UA });
+  if (!res.ok) throw new Error(`bildarkivet svarade ${res.status}`);
+  const body = await res.json();
+  return (body.collection?.items || []).map(it => it.data?.[0]).filter(Boolean).map(d => {
+    const article = strip(String(d.description || "")), credit = (article.match(EO_CREDIT) || [])[0];
+    return { src: "library", archive: true, id: d.nasa_id, title: String(d.title || "").replace(/\s*\[[^\]]*\]\s*$/, "").trim(), rawTitle: String(d.title || ""),
+      article: article.slice(0, 6000), topics: (d.keywords || []).slice(0, 8).join(", "), credit: (credit || "").replace(/^(Image )?[Cc]redit:\s*/, "").replace(/\.$/, ""),
+      source: credit || "", link: "https://images.nasa.gov/details/" + encodeURIComponent(d.nasa_id) };
+  }).filter(c => c.id && c.title && c.credit && c.article.length > 300 && !/\[(annotated|detail|labeled|labelled)\]/i.test(c.rawTitle) && !/©|copyright|courtesy of (?!NASA)/i.test(c.source));
+}
+
 /* ---------- Gemini ---------- */
 const QUIZ = {
   type: "ARRAY",
@@ -220,6 +240,7 @@ Skriv:
    - Varje fråga ska lära ut astronomi, fysik eller rymdfart: vad objektet är, hur det fungerar, hur stort eller avlägset det är, hur det bildades.
    - Fråga aldrig om hur fotot togs eller planerades, vem fotografen är, eller detaljer som bara går att veta om man läst NASA:s text.
    - Spelaren ser bilden men varken titeln eller NASA:s text. Frågorna ska gå att resonera sig fram till, och får inte avslöja varandras svar.
+   - Håll det kort, för frågan ska få plats på en mobilskärm tillsammans med svaren: högst 12 ord i frågan och högst 8 ord i varje alternativ.
    - Varje fråga har exakt 3 alternativ i "options". Alla tre ska vara rimliga, ungefär lika långa och skrivna i samma stil.
    - "correct" är index (0, 1 eller 2) för rätt alternativ. Variera det mellan frågorna.
    - "fact" är en eller två meningar som förklarar varför svaret är rätt.
@@ -251,7 +272,7 @@ function promptEarth(e) {
 Titel: ${e.title}
 Ämnen: ${e.topics}
 Artikel: ${e.article}
-
+${e.archive ? "\nBilden kommer ur arkivet och är inte ny. Skriv i förfluten tid om händelser, och nämn året bilden togs om det framgår av artikeln.\n" : ""}
 Läsaren ska betrakta bilden och förstå vad den visar. Det finns inga frågor och inga poäng.
 
 Skriv:
@@ -459,6 +480,7 @@ async function buildEarth(e) {
   const day = {
     v: VERSION, model, date: e.date, title: e.title, title_sv: content.title_sv, place: content.place_sv || "",
     url: e.url, thumb: e.thumb, hdurl: e.hdurl, link: e.link, credit: e.credit || "NASA Earth Observatory", source: e.source,
+    src: e.src || "eo", id: e.id || e.link, archive: e.archive || undefined, px: e.px,
     ...(await preview(e.thumb)),
     levels: content.levels, terms: cleanTerms(content.terms), en: english(content, false)
   };
@@ -470,7 +492,7 @@ async function writeEarthIndex() {
   const list = [];
   for (const f of files) {
     const d = JSON.parse(await readFile(path.join(EARTH, f), "utf8"));
-    list.push({ date: d.date, title: d.title_sv || d.title, place: d.place, thumb: d.thumb || d.url });
+    list.push({ date: d.date, title: d.title_sv || d.title, place: d.place, thumb: d.thumb || d.url, archive: d.archive });
   }
   list.sort((a, b) => b.date.localeCompare(a.date));
   await writeFile(path.join(EARTH, "index.json"), JSON.stringify(list, null, 1));
@@ -576,5 +598,40 @@ try {
   }
   await writeEarthIndex();
 } catch (err) { console.error("Jordbilderna hoppades över: " + err.message); }
+
+// Earth Observatory publicerar bara vissa vardagar. Övriga dagar fylls med äldre jordbilder ur NASA:s arkiv.
+try {
+  const skip = new Set(existsSync(SKIP_FILE) ? JSON.parse(await readFile(SKIP_FILE, "utf8")) : []);
+  const used = new Set();
+  for (const f of (await readdir(EARTH)).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))) {
+    const d = JSON.parse(await readFile(path.join(EARTH, f), "utf8")); if (d.id) used.add(d.id); used.add(String(d.title).toLowerCase());
+  }
+  const dayMs = 864e5, today = new Date().toISOString().slice(0, 10);
+  let made = 0;
+  for (let i = 0; i < EARTH_BACK && made < EARTH_FILL_MAX; i++) {
+    const date = new Date(Date.parse(today) - i * dayMs).toISOString().slice(0, 10);
+    if (existsSync(earthFile(date))) continue;
+    const n = Math.round(Date.parse(date) / dayMs);
+    let done = false, tries = 0;
+    for (let t = 0; t < EARTH_TOPICS.length && !done && tries < 8; t++) {
+      let pool = [];
+      try { pool = (await earthCandidates(EARTH_TOPICS[(n * 5 + t) % EARTH_TOPICS.length], 1 + (Math.floor(n / EARTH_TOPICS.length) % 2))).filter(c => !used.has(c.id) && !used.has(c.title.toLowerCase()) && !skip.has(c.id)); }
+      catch (e) { console.warn(`Jorden ${date}: arkivsökningen misslyckades (${e.message})`); continue; }
+      for (const cand of pool.slice(0, 4)) {
+        if (done || tries >= 8) break;
+        tries++;
+        try {
+          const c = await libraryAsset(cand), px = await measure(c.url);
+          if (!bigEnough(px)) throw Object.assign(new Error(`för liten, ${px[0]}×${px[1]}`), { unfit: true });
+          await buildEarth({ ...c, px, date }); used.add(c.id); used.add(c.title.toLowerCase()); done = true;
+        } catch (e) { console.warn(`Jorden ${date}: ${cand.title} valdes bort (${e.message})`); if (e.unfit) skip.add(cand.id); }
+        await pause();
+      }
+    }
+    if (done) made++; else console.error(`Hittade ingen jordbild för ${date}.`);
+  }
+  await writeFile(SKIP_FILE, JSON.stringify([...skip], null, 1));
+  await writeEarthIndex();
+} catch (err) { console.error("Påfyllningen av jordbilder hoppades över: " + err.message); }
 
 if (failed) process.exit(1);
