@@ -101,7 +101,7 @@ function nasaOwned(credit) {
 }
 // En sparad dag får ligga kvar om den kommer från en av de nya källorna, eller om dess upphov är NASA:s.
 // Bilder som har synats och valts bort för hand (skärmdumpar med anteckningar och liknande).
-const REJECT = new Set(["https://www.nasa.gov/image-detail/fd07_impact-flashes/", "GSFC_20171208_Archive_e001234"]);
+const REJECT = new Set(["https://www.nasa.gov/image-detail/fd07_impact-flashes/", "GSFC_20171208_Archive_e001234", "southern_ring_nebula"]);
 const MIN_LONG = 1000, MIN_SHORT = 600;   // minsta storlek i bildpunkter för att bilden ska hålla i helskärm
 const bigEnough = px => Array.isArray(px) && Math.max(px[0], px[1]) >= MIN_LONG && Math.min(px[0], px[1]) >= MIN_SHORT;
 const keepDay = d => Boolean(d && !d.sample && !REJECT.has(d.id) &&
@@ -124,7 +124,7 @@ async function fetchIotd() {
     const image = decode((item.match(/<enclosure[^>]*\burl="([^"]+)"/) || [])[1] || "");
     const title = text(item, "title"), explanation = text(item, "description");
     if (isNaN(published) || !/^https:\/\/\S+\.(jpe?g|png|webp)(\?|$)/i.test(image) || explanation.length < 80) continue;
-    if (NOT_SPACE.test(title)) continue;
+    if (NOT_SPACE.test(title) || COMPOSITE.test(title)) continue;
     const link = decode(raw(item, "link"));
     const by = (explanation.match(/(?:image|photo) credit:?\s*\(?([^)]{3,120})\)?\s*$/i) || [])[1];
     items.push({ src: "iotd", id: link || image, date: published.toISOString().slice(0, 10), title, explanation, credit: by || "NASA", link, url: image + "?w=1600", thumb: image + "?w=480", hdurl: image });
@@ -139,6 +139,8 @@ const TOPICS = ["hubble nebula", "saturn cassini", "galaxy hubble", "mars surfac
   "webb telescope", "mercury messenger", "neptune voyager", "europa", "enceladus", "galaxy cluster", "planetary nebula", "star forming region"];
 const CENTERS = ["JPL", "GSFC", "STScI"];   // forskningscentren. Huvudkontorets bilder är mest människor och evenemang.
 const NOT_PHOTO = /illustration|artist|concept|rendering|diagram|graphic|infographic|logo|poster|animation|chart|schematic|spectrum|spectra|\bplot\b|\bgraph\b|simulation|model of|engineers?|technicians?|clean ?room|\bteam\b|launch|rollout|testing|assembly|spacecraft (is|was|being)|press conference|briefing/i;
+// Hopsatta bilder ser trasiga ut i helskärm: jämförelser sida vid sida, kollage, före och efter, bilder med påskrifter.
+const COMPOSITE = /comparison|compared|side[- ]by[- ]side|\bvs\.?\b|versus|montage|collage|mosaic of images|before and after|annotated|labell?ed|\bpanels?\b|\(left\)|\(right\)|images? side/i;
 async function libraryCandidates(topic, center, page) {
   const url = `${LIBRARY}/search?q=${encodeURIComponent(topic)}&media_type=image&center=${center}&page_size=60&page=${page}`;
   const res = await fetch(url, { headers: UA });
@@ -148,7 +150,7 @@ async function libraryCandidates(topic, center, page) {
     src: "library", id: d.nasa_id, title: String(d.title || "").trim(), explanation: strip(String(d.description || "")),
     credit: String(d.secondary_creator || d.photographer || "").trim() || "NASA/" + (d.center || center),
     link: "https://images.nasa.gov/details/" + encodeURIComponent(d.nasa_id)
-  })).filter(c => c.id && c.title && c.explanation.length > 200 && nasaOwned(c.credit) && !NOT_PHOTO.test(c.title + " " + c.explanation.slice(0, 400)));
+  })).filter(c => c.id && c.title && c.explanation.length > 200 && nasaOwned(c.credit) && !NOT_PHOTO.test(c.title + " " + c.explanation.slice(0, 400)) && !COMPOSITE.test(c.title));
 }
 // Arkivet har inte alla storlekar av varje bild, så vi frågar vilka som finns.
 async function libraryAsset(c) {
@@ -437,7 +439,7 @@ async function writeIndex() {
   for (const f of files) {
     const d = JSON.parse(await readFile(path.join(DATA, f), "utf8"));
     if (!keepDay(d)) continue;   // privata fotografers bilder som inte hunnit bytas ut visas inte
-    list.push({ date: d.date, media_type: d.media_type, title: d.title_sv || d.title, thumb: d.thumb || d.url });
+    list.push({ date: d.date, media_type: d.media_type, title: d.title_sv || d.title, title_en: d.title, thumb: d.thumb || d.url });
   }
   list.sort((a, b) => b.date.localeCompare(a.date));
   await writeFile(path.join(DATA, "index.json"), JSON.stringify(list, null, 1));
@@ -492,7 +494,7 @@ async function writeEarthIndex() {
   const list = [];
   for (const f of files) {
     const d = JSON.parse(await readFile(path.join(EARTH, f), "utf8"));
-    list.push({ date: d.date, title: d.title_sv || d.title, place: d.place, thumb: d.thumb || d.url, archive: d.archive });
+    list.push({ date: d.date, title: d.title_sv || d.title, title_en: d.title, place: d.place, place_en: d.en && d.en.place, thumb: d.thumb || d.url, archive: d.archive });
   }
   list.sort((a, b) => b.date.localeCompare(a.date));
   await writeFile(path.join(EARTH, "index.json"), JSON.stringify(list, null, 1));
