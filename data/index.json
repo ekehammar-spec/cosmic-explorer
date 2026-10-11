@@ -3,180 +3,210 @@
   "date": "2026-10-11",
   "media_type": "image",
   "title": "Kosmiskt spegelhus",
+  "title_en": "Cosmic House of Mirrors",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg?w=480"
  },
  {
   "date": "2026-10-10",
   "media_type": "image",
   "title": "Månens baksida",
+  "title_en": "Lunar Farside",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=480&h=480&fit=clip"
  },
  {
   "date": "2026-10-09",
   "media_type": "image",
   "title": "Stickneykratern på Phobos",
+  "title_en": "Stickney Crater",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=480&h=480&fit=clip"
  },
  {
   "date": "2026-10-08",
   "media_type": "image",
   "title": "Nya bilder på Pluto från New Horizons: Det är komplicerat",
+  "title_en": "New Pluto Images from NASA’s New Horizons: It’s Complicated",
   "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000616/GSFC_20171208_Archive_e000616~small.jpg"
  },
  {
   "date": "2026-10-07",
   "media_type": "image",
   "title": "Vad matar monstret i galaxhopen SpARCS1049+56?",
+  "title_en": "What Feeds the Beast in a Galaxy Cluster?",
   "thumb": "https://images-assets.nasa.gov/image/PIA19837/PIA19837~small.jpg"
  },
  {
   "date": "2026-10-06",
   "media_type": "image",
   "title": "Godzillanebulosan fångad av Spitzer",
+  "title_en": "Godzilla Nebula Imaged by Spitzer",
   "thumb": "https://images-assets.nasa.gov/image/PIA24579/PIA24579~small.jpg"
  },
  {
   "date": "2026-10-05",
   "media_type": "image",
   "title": "Stjärnspår",
+  "title_en": "Star Trails",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg?w=480"
  },
  {
   "date": "2026-10-04",
   "media_type": "image",
   "title": "Rymdstationens vy över jorden på natten",
+  "title_en": "Space Station View of Earth at Night",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/55534901810-95d2f06788-o.jpg?w=480"
  },
  {
   "date": "2026-10-03",
   "media_type": "image",
   "title": "Graben på månen",
+  "title_en": "Graben on the Moon",
   "thumb": "https://images-assets.nasa.gov/image/PIA23237/PIA23237~small.jpg"
  },
  {
   "date": "2026-10-02",
   "media_type": "image",
   "title": "Hubble fångar levande norrsken i Jupiters atmosfär",
+  "title_en": "Hubble Captures Vivid Auroras in Jupiter’s Atmosphere",
   "thumb": "https://images-assets.nasa.gov/image/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o~small.jpg"
  },
  {
   "date": "2026-10-01",
   "media_type": "image",
   "title": "Hubble upptäcker en kaotisk hemlighet i galax",
+  "title_en": "Hubble Spots Chaotic Secret in Galaxy",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg?w=480"
  },
  {
   "date": "2026-09-30",
   "media_type": "image",
-  "title": "Södra ringnebulosan: Jämförelse mellan NIRCam och MIRI",
-  "thumb": "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~small.jpg"
+  "title": "Kosmiska klipporna i Carinanebulosan",
+  "title_en": "James Webb Space Telescope NIRCam Image of the “Cosmic Cliffs” in Carina Nebula",
+  "thumb": "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~small.jpg"
  },
  {
   "date": "2026-09-29",
   "media_type": "image",
   "title": "Hubble-teleskopet blickar mot galaxhop MACS J0417",
+  "title_en": "NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=480"
  },
  {
   "date": "2026-09-28",
   "media_type": "image",
   "title": "NASA:s Chandra upptäcker ovanliga objekt i Pinwheelgalaxen",
+  "title_en": "NASA's Chandra Finds Unusual Objects in Pinwheel Galaxy",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg?w=480"
  },
  {
   "date": "2026-09-27",
   "media_type": "image",
   "title": "Iskall besökare från fjärran",
+  "title_en": "Icy Visitor from Beyond",
   "thumb": "https://images-assets.nasa.gov/image/PIA13438/PIA13438~small.jpg"
  },
  {
   "date": "2026-09-26",
   "media_type": "image",
   "title": "Kraftig soleruption av X-klass den 24 april",
+  "title_en": "X-class Flare Erupts from Sun on April 24",
   "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001117/GSFC_20171208_Archive_e001117~small.jpg"
  },
  {
   "date": "2026-09-25",
   "media_type": "image",
   "title": "Bergslager i nedre kullen i Gale-kratern",
+  "title_en": "Rock Layers in Lower Mound in Gale Crater",
   "thumb": "https://images-assets.nasa.gov/image/PIA14297/PIA14297~small.jpg"
  },
  {
   "date": "2026-09-24",
   "media_type": "image",
   "title": "Ares Valles",
+  "title_en": "Ares Valles",
   "thumb": "https://images-assets.nasa.gov/image/PIA04026/PIA04026~small.jpg"
  },
  {
   "date": "2026-09-23",
   "media_type": "image",
   "title": "En ny månkrater: McGetchin",
+  "title_en": "A New Lunar Crater: McGetchin",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg?w=480&h=480&fit=clip"
  },
  {
   "date": "2026-09-22",
   "media_type": "image",
   "title": "Anak Krakatau i Indonesien",
+  "title_en": "Indonesia's Anak Krakatau",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg?w=480"
  },
  {
   "date": "2026-09-21",
   "media_type": "image",
   "title": "Sökandet efter vulkanoider",
+  "title_en": "Searching for Vulcanoids",
   "thumb": "https://images-assets.nasa.gov/image/PIA12038/PIA12038~small.jpg"
  },
  {
   "date": "2026-09-20",
   "media_type": "image",
   "title": "WISE fångar kometen 65P/Gunn",
+  "title_en": "WISE Catches Comet 65P/Gunn",
   "thumb": "https://images-assets.nasa.gov/image/PIA13115/PIA13115~small.jpg"
  },
  {
   "date": "2026-09-19",
   "media_type": "image",
   "title": "Kometer från WISE – ett familjeporträtt",
+  "title_en": "Comets WISE -- A Family Portrait",
   "thumb": "https://images-assets.nasa.gov/image/PIA13457/PIA13457~small.jpg"
  },
  {
   "date": "2026-09-18",
   "media_type": "image",
   "title": "Närbild av kometen Wild 2",
+  "title_en": "Wild 2 Close Look",
   "thumb": "https://images-assets.nasa.gov/image/PIA06285/PIA06285~small.jpg"
  },
  {
   "date": "2026-09-17",
   "media_type": "image",
   "title": "En skattkista i Carinanebulosan",
+  "title_en": "A Treasure Chest in the Carina Nebula",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg?w=480&h=480&fit=clip"
  },
  {
   "date": "2026-09-16",
   "media_type": "image",
   "title": "Chandra upptäcker galaktisk ädelsten",
+  "title_en": "NASA's Chandra Spots Galactic Gem",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg?w=480"
  },
  {
   "date": "2026-09-15",
   "media_type": "image",
   "title": "Stoft och vatten vid Sagittarius A*",
+  "title_en": "Dust and Water in Sagittarius A*",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png?w=480"
  },
  {
   "date": "2026-09-14",
   "media_type": "image",
   "title": "Var dina grundämnen kommer ifrån",
+  "title_en": "Where Your Elements Came From",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=480&h=480&fit=clip"
  },
  {
   "date": "2026-09-13",
   "media_type": "image",
   "title": "Superbubbla i Stora magellanska molnet",
+  "title_en": "Superbubble in the Large Magellanic Cloud",
   "thumb": "https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg?w=480"
  },
  {
   "date": "2026-09-12",
   "media_type": "image",
   "title": "Apollo 11: Solbad på månen",
+  "title_en": "Apollo 11: Catching Some Sun",
   "thumb": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint"
  }
 ]

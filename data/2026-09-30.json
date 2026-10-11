@@ -2,132 +2,132 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-09-30",
-  "title": "James Webb Space Telescope Southern Ring Nebula (NIRCam and MIRI Images Side by Side)",
-  "title_sv": "Södra ringnebulosan: Jämförelse mellan NIRCam och MIRI",
+  "title": "James Webb Space Telescope NIRCam Image of the “Cosmic Cliffs” in Carina Nebula",
+  "title_sv": "Kosmiska klipporna i Carinanebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~orig.png",
-  "link": "https://images.nasa.gov/details/southern_ring_nebula",
+  "url": "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/carina_nebula/carina_nebula~orig.png",
+  "link": "https://images.nasa.gov/details/carina_nebula",
   "credit": "NASA ESA CSA STScI",
   "src": "library",
-  "id": "southern_ring_nebula",
+  "id": "carina_nebula",
   "px": [
     1920,
-    890
+    1111
   ],
   "w": 640,
-  "h": 296,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAPACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAgEDBAb/xAAhEAACAQQCAwEBAAAAAAAAAAABAgQAAwUREjETIUFRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERIWH/2gAMAwEAAhEDEQA/AOPw2GfKXnQXBbVF5Fj8rNk8dexsx497RKn0ynYYfopY3KSMdf8ALYYfjKemH0GoyE5597yuOJA0B3RUyYPGY8TpDKzFEVSzMPZFVZCDcg3zbcq6kbV16YUYc27Cv+W0ffRB6YfQaU6YZbg8OCqNBd71/aaeV1//2Q==",
+  "h": 370,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUG/8QAKRAAAQMCBAMJAAAAAAAAAAAAAQACAwQRBSExQRNRkRIiIzIzcXKhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIDBDEREyH/2gAMAwEAAhEDEQA/AOamwWQU4qIXh8ThcHf2UwYdK4WEZPJ1wL9dVWjrZB4fEIjaCQL5dE/T1LJZnyEHLW2X2hZHHUU9SrjKw4dOS0dhwB5hMvwljI3uqJQLHY7JuGsbwCCwtbqc8ll12KMddgs4Haydbd18lBOpMvzTMSl9VqcjJEjrEjvbIQpUVgYqHuDrBxtbmkR55fgf0IQli6by8P/Z",
   "quiz": [
     {
-      "q": "Vad är Södra ringnebulosan för typ av rymdobjekt?",
+      "q": "Vad är de klippliknande formationerna i rymdbilden gjorda av?",
       "options": [
-        "En planetarisk nebulosa skapad av en döende stjärna",
-        "En ung stjärnbildande nebulosa full av protostjärnor",
-        "Resterna efter en våldsam supernovaexplosion"
-      ],
-      "correct": 0,
-      "fact": "Södra ringnebulosan är en planetarisk nebulosa, vilket innebär att en sollik stjärna har stött bort sina yttre gasskikt i slutet av sitt liv."
-    },
-    {
-      "q": "Vad finns kvar i nebulosans centrum som hettar upp den omgivande gasen?",
-      "options": [
-        "Ett supermassivt svart hål som slukar materia",
-        "En vit dvärg som en gång var en sollik stjärna",
-        "En snabbt roterande neutronstjärna"
+        "Fast berg och steniga asteroider",
+        "Kall gas och kosmiskt stoft",
+        "Frusen koldioxid och vattenis"
       ],
       "correct": 1,
-      "fact": "Den ursprungliga stjärnan har krympt ihop till en het vit dvärg, vars energirika strålning får den utkastade gasen att glöda."
+      "fact": "De kosmiska klipporna består inte av sten utan av enorma moln av gas och rymdstoft."
     },
     {
-      "q": "Varför skiljer sig bilderna till vänster och höger åt så mycket?",
+      "q": "Vad gröper ur och formar gasmolnet till dessa klippor?",
       "options": [
-        "Det vänstra fotot togs flera hundra år före det högra fotot",
-        "Det högra teleskopet använder röntgenstrålning istället för ljus",
-        "De fångar olika våglängder där stoft och gas lyser med olika styrka"
+        "Svarta hål som slukar materia",
+        "Kollisioner mellan två olika galaxer",
+        "Strålning och vindar från unga stjärnor"
       ],
       "correct": 2,
-      "fact": "Vänstra bilden visar nära infrarött ljus med tydliga stjärnor, medan den högra bilden i mellaninfrarött ljus framhäver varmt kosmiskt stoft."
+      "fact": "Intensiv ultraviolett strålning och kraftiga vindar från massiva unga stjärnor blåser bort och skulpterar gasen."
+    },
+    {
+      "q": "Vad föds djupt inne i dessa täta stoftmoln?",
+      "options": [
+        "Nya stjärnor",
+        "Enbart kometer",
+        "Gamla vita dvärgar"
+      ],
+      "correct": 0,
+      "fact": "När gravitationen drar samman gas och stoft i täta fickor tänds fusion och nya stjärnor bildas."
     }
   ],
   "levels": {
-    "barn": "Titta på den här vackra rymdbubblan! I mitten finns en gammal stjärna som har pustat ut sina yttersta lager i rymden, ungefär som när en vattenspridare snurrar i trädgården och kastar vatten åt alla håll. Bilden till vänster visar hur stjärnorna glittrar i nära infrarött ljus. Bilden till höger visar varmt stoft som lyser rött i mellaninfrarött ljus. Tillsammans visar bilderna hur en stjärna som liknar vår egen sol ser ut när den blir riktigt gammal.",
-    "nyborjare": "Det här är Södra ringnebulosan, en planetarisk nebulosa som ligger cirka 2 500 ljusår från jorden. Den bildades när en stjärna i slutet av sitt liv kastade ut sina yttre gasskal i rymden. Kvar i mitten finns resterna av stjärnan i form av en het vit dvärg. Webb-teleskopet har fotograferat nebulosan med två olika instrument. Till vänster syns data från NIRCam i nära infrarött ljus, där stjärnorna lyser klart och gasens fina strukturer framträder med hög skärpa. Till höger syns observationer från MIRI i mellaninfrarött ljus, vilket avslöjar att den vita dvärgen är draperad i ett tjockt lager av stoft och därför lyser oväntat starkt i rött.",
-    "entusiast": "Södra ringnebulosan, även katalogiserad som NGC 3132, är en välstuderad planetarisk nebulosa sedd i en vinkel på ungefär 40 grader. Denna jämförelse belyser kraften i att kombinera data från instrumenten NIRCam och MIRI ombord på James Webb-teleskopet. I NIRCam-bilden till vänster dominerar nära infrarött ljus med kortare våglängder, vilket ger exceptionellt hög upplösning. Här syns en tydlig diffraktionstagg runt den ljusa stjärnan, medan den svagare vita dvärgen skyms intill. I MIRI-bilden till höger detekteras längre våglängder i det mellaninfraröda spektrumet. Tack vare detta framträder den heta vita dvärgen med dramatisk tydlighet eftersom dess omgivande stoftskal lyser upp. Det binära stjärnsystemet i centrum spelar en avgörande roll för nebulosans asymmetriska struktur. Den ljusare stjärnan kretsar nära den vita dvärgen och rör om det utkastade materialet i intrikata, expanderande skal."
+    "barn": "Det här ser ut som magiska berg under en stjärnhimmel, men det är faktiskt ett jättestort moln i rymden som kallas nebulosa. Molnet är fullt av rök och gas, ungefär som ångan i ett varmt badkar. Djupt inne i molnet tänds alldeles nya stjärnor som små glödande lampor. Rymdteleskopet James Webb har fotograferat detta med en speciell kamera som ser infrarött ljus, så att vi kan kika rakt igenom den tjocka röken och se stjärnbebisarna födas.",
+    "nyborjare": "Bilden visar ett stjärnbildande område i Carinanebulosan, ungefär 7 600 ljusår bort från jorden. Det som liknar dramatiska klippor är i själva verket kanten på en enorm hålighet av gas och stoft. Håligheten har karvats ut av intensiv ultraviolett strålning och kraftig stjärnvind från gigantiska, heta stjärnor som ligger precis ovanför bildens kant. Den våldsamma energin eroderar sakta bort molnväggen, samtidigt som den pressar samman gasen. När gasen trycks ihop bildas en ny protostjärna här och var i molnet. Med hjälp av infrarött ljus kan rymdteleskopet James Webb blicka rakt genom stoftet och avslöja hundratals tidigare dolda stjärnor som precis håller på att tändas.",
+    "entusiast": "Detta spektakulära område, känt som de kosmiska klipporna, utgör kanten av stjärnbildningsregionen NGC 3324 i Carinanebulosan på ett avstånd av cirka 7 600 ljusår. Bilden är tagen med instrumentet NIRCam ombord på rymdteleskopet James Webb. Den visar en bubbla i den interstellära materian som skulpterats fram genom fotoevaporation och massiva stjärnvindar från unga, heta O- och B-stjärnor belägna ovanför synfältet. Kanten som liknar bergstoppar når flera ljusår i höjd och består av tät molekylär vätgas och kosmiskt stoft. Den glödande ångan som stiger från klipporna är joniserad gas som strömmar bort från fronten på grund av den intensiva ultravioletta strålningen. JWST:s förmåga att observera i nära infrarött ljus gör det möjligt att tränga igenom det täta stoftet som tidigare dolt processerna för optiska teleskop. Här framträder hundratals nyfödda stjärnor samt aktiva jetstrålar som skjuter ut från unga protostjärnor inbäddade djupt i stoftet. Bilden ger ovärderliga insikter i den korta fasen av stjärnfödsel, vilken ofta bara varar mellan 50 000 och 100 000 år per stjärna."
   },
   "terms": [
     {
-      "term": "planetarisk nebulosa",
-      "explanation": "Ett expanderande skal av glödande gas och stoft som stötts ut av en döende medeltung stjärna."
-    },
-    {
-      "term": "vit dvärg",
-      "explanation": "Den kompakta och heta restkärnan som blir kvar när en solliknande stjärna har slutat förbränna sitt bränsle."
+      "term": "nebulosa",
+      "explanation": "Ett gigantiskt interstellärt moln av gas och rymdstoft där stjärnor ofta bildas."
     },
     {
       "term": "infrarött ljus",
-      "explanation": "Ljus med längre våglängder än synligt ljus som kan tränga igenom kosmiska stoftmoln."
+      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus som kan tränga igenom stoft."
     },
     {
-      "term": "diffraktionstagg",
-      "explanation": "Ett spetsigt ljusmönster kring ljusstarka stjärnor som skapas av teleskopets inre spegelupphängning."
+      "term": "stjärnvind",
+      "explanation": "Ett kontinuerligt flöde av laddade partiklar som slungas ut i rymden från en stjärna."
+    },
+    {
+      "term": "protostjärna",
+      "explanation": "Ett tidigt stadium i en stjärnas utveckling innan stabil kärnfusion har startat i centrum."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this giant, glowing cosmic bubble! At the center, an old star puffed away its outer layers into space, like a garden sprinkler spraying water in all directions. The picture on the left reveals how stars sparkle in near-infrared light. The picture on the right shows warm cosmic dust glowing red in mid-infrared light. Together, these views show what happens when a star like our Sun reaches old age and gently fades away.",
-      "nyborjare": "This is the Southern Ring Nebula, a planetary nebula located about 2,500 light-years away. It was created when a dying star cast off its outer envelopes into space over thousands of years. What remains at the core is a hot white dwarf. The Webb Telescope photographed this nebula using two different instruments. On the left, NIRCam captures near-infrared light where stars shine crisply and gaseous shells show extraordinary detail. On the right, MIRI observes mid-infrared light, revealing that the white dwarf is enveloped in thick cosmic dust that glows brightly in red.",
-      "entusiast": "The Southern Ring Nebula, cataloged as NGC 3132, is an exquisite planetary nebula tilted at roughly a 40-degree angle toward Earth. This side-by-side view demonstrates the distinct capabilities of Webb instruments NIRCam and MIRI. The NIRCam image at left captures shorter wavelengths of near-infrared light, yielding high spatial resolution and showcasing a sharp diffraction spike from the central star. In contrast, the MIRI image at right probes longer mid-infrared wavelengths where cooler illuminated dust dominates. This longer-wavelength view clearly unveils the dying white dwarf star, which is cloaked in dense circumstellar dust. The orbital motion of the central binary companion helps sculpt the ejected shells into an intricate, asymmetrical landscape."
+      "barn": "This looks like magical mountains under a starry night, but it is actually a gigantic cloud in space called a nebula. The cloud is full of dust and gas, just like steam rising in a warm bathroom. Deep inside the cloud, brand new baby stars are lighting up like tiny lanterns. The James Webb Space Telescope took this picture using infrared light, which lets us peek right through the thick dust to watch the stars being born.",
+      "nyborjare": "This image shows a star-forming region in the Carina Nebula, located about 7,600 light-years away from Earth. What look like dramatic, rocky cliffs are actually the edge of an enormous cavity carved out of gas and dust. Powerful ultraviolet radiation and fierce stellar wind from massive, hot stars located just above the image have hollowed out this region. This energetic erosion sculpts the wall of gas while simultaneously compressing parts of the cloud. As pockets of dust collapse under gravity, a protostar can ignite within the dense material. By observing in infrared light, the James Webb Space Telescope peers straight through the obscuring dust to reveal hundreds of previously unseen baby stars.",
+      "entusiast": "Known as the Cosmic Cliffs, this dramatic feature marks the edge of the star-forming region NGC 3324 in the Carina Nebula, situated roughly 7,600 light-years away. Captured by the NIRCam instrument aboard the James Webb Space Telescope, the image reveals a gaseous cavity carved out by photoevaporation and intense stellar wind from massive young stars located above the frame. These towering pillars of molecular gas and dust reach several light-years in height, resisting the blistering ultraviolet radiation that erodes them. The steam-like haze rising from the ridges is hot ionized gas streaming away into the interstellar medium. By observing in near-infrared light, Webb penetrates the dense obscuring dust that previously blocked optical telescopes, unveiling hundreds of newly born stars. Gilded protostellar jets shoot outward from nascent protostars still deeply embedded in their natal cocoons. Because this earliest stage of star formation lasts only 50,000 to 100,000 years for an individual star, these observations offer astronomers crucial empirical data on how massive stellar radiation regulates subsequent star birth."
     },
     "terms": [
       {
-        "term": "planetary nebula",
-        "explanation": "An expanding glowing gas shell ejected by an intermediate-mass star near the end of its life."
+        "term": "nebula",
+        "explanation": "A giant interstellar cloud of dust and gas in space where stars are often born."
       },
       {
-        "term": "white dwarf",
-        "explanation": "The dense, hot core remaining after a dying star has ceased nuclear fusion reactions."
+        "term": "infrared light",
+        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, capable of penetrating obscuring dust."
       },
       {
-        "term": "cosmic dust",
-        "explanation": "Microscopic solid grains floating in space that absorb visible light and re-radiate infrared energy."
+        "term": "stellar wind",
+        "explanation": "A continuous flow of charged particles released from the upper atmosphere of a star."
       },
       {
-        "term": "diffraction spike",
-        "explanation": "Spike-shaped light artifacts appearing around bright stars due to light bending around telescope structures."
+        "term": "protostar",
+        "explanation": "An early stage in the formation of a star before sustained nuclear fusion begins."
       }
     ],
     "quiz": [
       {
-        "q": "What type of celestial object is the Southern Ring Nebula?",
+        "q": "What are the mountain-like cliffs in this space image made of?",
         "options": [
-          "A planetary nebula created by a dying star",
-          "A young stellar nursery filled with protostars",
-          "The remnant of a violent supernova explosion"
-        ],
-        "correct": 0,
-        "fact": "The Southern Ring Nebula is a planetary nebula formed when a Sun-like star expelled its outer layers of gas."
-      },
-      {
-        "q": "What remains at the nebula's center, heating the surrounding gas?",
-        "options": [
-          "A supermassive black hole consuming matter",
-          "A white dwarf that once was a Sun-like star",
-          "A rapidly spinning neutron star"
+          "Solid rock and stony asteroids",
+          "Cold gas and cosmic dust",
+          "Frozen carbon dioxide and water ice"
         ],
         "correct": 1,
-        "fact": "The dying star contracted into a dense, hot white dwarf whose radiation energizes the surrounding gas."
+        "fact": "The cosmic cliffs are made of vast clouds of interstellar gas and dust rather than solid rock."
       },
       {
-        "q": "Why do the left and right images look so remarkably different?",
+        "q": "What carves out and sculpts the gas cloud into cliffs?",
         "options": [
-          "The left photo was taken centuries before the right photo",
-          "The right telescope uses X-rays instead of infrared light",
-          "They capture different wavelengths where dust and gas emit different amounts of light"
+          "Black holes consuming nearby matter",
+          "Collisions between two different galaxies",
+          "Radiation and winds from young stars"
         ],
         "correct": 2,
-        "fact": "The near-infrared camera highlights crisp stars, while the mid-infrared instrument captures the warm glow of cosmic dust."
+        "fact": "Intense ultraviolet radiation and powerful stellar winds from massive young stars push the gas away."
+      },
+      {
+        "q": "What is born deep inside these dense clouds of dust?",
+        "options": [
+          "New stars",
+          "Only comets",
+          "Ancient white dwarfs"
+        ],
+        "correct": 0,
+        "fact": "Gravity pulls the dense gas and dust together until nuclear fusion ignites new stars."
       }
     ]
   }
