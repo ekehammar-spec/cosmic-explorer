@@ -190,7 +190,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .options button.wrong i { background: var(--bad); color: #1c0711; }
 @keyframes pop { 40% { transform: scale(1.03); } }
 @keyframes shake { 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
-.fact { margin-top: 16px; color: var(--muted); }
+.fact { margin-top: 14px; color: var(--muted); }
+/* Frågekortet är tätare, så att fråga och alla svar ryms på skärmen */
+#quiz { padding: 16px 16px 18px; }
+#quiz .options { gap: 7px; margin-top: 12px; }
+#quiz .options button { padding: 10px 13px; gap: 12px; font-size: .95rem; line-height: 1.3; transition: background .2s, border-color .2s, transform .15s, opacity .25s; }
+#quiz .options button.gone { display: none; }
+#quiz .next { margin-top: 14px; }
 .fact strong { color: var(--text); font-weight: 600; }
 .next { margin-top: 18px; padding: 13px 22px; border-radius: 999px; font-weight: 600; background: var(--shift); color: #06080c; }
 .next:hover { background: var(--shift); filter: brightness(1.1); }
@@ -523,7 +529,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
-<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt D</span></footer>
+<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt E</span></footer>
 
 <div id="lightbox" hidden><img alt=""></div>
 
@@ -709,11 +715,21 @@ function renderQuestion() {
   quiz.querySelectorAll(".options button").forEach(b => b.addEventListener("click", e => answer(Number(b.dataset.i), e)));
 }
 
+// Rullar bara om det behövs: så att knappen syns ovanför flikraden, eller så att kortets topp syns igen.
+function keepInView(el, top) {
+  requestAnimationFrame(() => {
+    const r = el.getBoundingClientRect(), floor = innerHeight - 118, how = calm ? "auto" : "smooth";
+    if (top) { if (r.top < 70) scrollBy({ top: r.top - 84, behavior: how }); else if (r.bottom > floor) scrollBy({ top: Math.min(r.bottom - floor, r.top - 84), behavior: how }); }
+    else if (r.bottom > floor) scrollBy({ top: r.bottom - floor, behavior: how });
+  });
+}
 function answer(i, e) {
   const q = day.quiz[current];
   const buttons = $("quiz").querySelectorAll(".options button");
   buttons.forEach(b => b.disabled = true);
   const right = i === q.correct;
+  // De svar som varken valdes eller var rätt plockas bort, så att förklaringen och knappen får plats utan att man behöver scrolla.
+  buttons.forEach((b, n) => { if (n !== i && n !== q.correct) b.classList.add("gone"); });
   buttons[q.correct].classList.add("right");
   if (right) { rightCount++; starBurst(e.clientX, e.clientY); }
   else buttons[i].classList.add("wrong");
@@ -721,8 +737,9 @@ function answer(i, e) {
   $("feedback").innerHTML =
     `<p class="fact"><strong>${right ? "Rätt!" : "Inte riktigt."}</strong> ${esc(tidy(q.fact))}</p>
      <button class="next" id="nextBtn">${last ? "Visa vad bilden föreställer" : "Nästa fråga"}</button>`;
+  keepInView($("nextBtn"));
   $("nextBtn").addEventListener("click", () => {
-    if (!last) { current++; renderQuestion(); return; }
+    if (!last) { current++; renderQuestion(); keepInView($("quiz"), true); return; }
     played[day.date] = rightCount; store.set("cosmic-played", played);
     finish(false);
   });
