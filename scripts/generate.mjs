@@ -104,7 +104,7 @@ function nasaOwned(credit) {
 const REJECT = new Set(["https://www.nasa.gov/image-detail/fd07_impact-flashes/", "GSFC_20171208_Archive_e001234", "southern_ring_nebula"]);
 const MIN_LONG = 1000, MIN_SHORT = 600;   // minsta storlek i bildpunkter för att bilden ska hålla i helskärm
 const bigEnough = px => Array.isArray(px) && Math.max(px[0], px[1]) >= MIN_LONG && Math.min(px[0], px[1]) >= MIN_SHORT;
-const keepDay = d => Boolean(d && !d.sample && !REJECT.has(d.id) &&
+const keepDay = d => Boolean(d && !d.sample && !d.removed && !REJECT.has(d.id) &&
   (((d.src === "iotd" || d.src === "library") && (!d.px || bigEnough(d.px))) || (d.src !== "iotd" && d.src !== "library" && nasaOwned(d.credit))));
 async function readDay(date) {
   try { return JSON.parse(await readFile(fileFor(date), "utf8")); } catch (e) { return null; }
@@ -502,6 +502,46 @@ async function writeEarthIndex() {
 
 await mkdir(DATA, { recursive: true });
 await mkdir(EARTH, { recursive: true });
+// Rättelser från korrektursidan (data/fixes.json): för varje fält den gamla och den nya texten.
+// En rättelse görs bara om fältet fortfarande har den gamla texten, så att en bild som bytts ut inte får fel text.
+async function applyFixes() {
+  const file = path.join(DATA, "fixes.json");
+  if (!existsSync(file)) return;
+  const fixes = JSON.parse(await readFile(file, "utf8"));
+  let done = 0, stale = 0, removed = 0;
+  const gone = [];   // borttagna bilder ska inte väljas igen
+  for (const [kind, dir] of [["space", DATA], ["earth", EARTH]]) {
+    for (const [date, fix] of Object.entries(fixes[kind] || {})) {
+      const target = path.join(dir, date + ".json");
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || !existsSync(target)) continue;
+      const day = JSON.parse(await readFile(target, "utf8"));
+      let changed = false;
+      for (const [field, { from, to }] of Object.entries(fix.set || {})) {
+        const keys = field.split("."), last = keys.pop();
+        if (!/^(title_sv|place|quiz|levels|terms)$/.test(keys[0] || last)) continue;
+        const holder = keys.reduce((o, k) => (o == null ? o : o[k]), day);
+        if (!holder || typeof to !== "string") continue;
+        if (holder[last] === to) continue;
+        if (holder[last] !== from) { stale++; continue; }
+        holder[last] = to; changed = true; done++;
+      }
+      if (fix.remove && !day.removed) {
+        if (day.id) gone.push(day.id);
+        if (kind === "earth") { await unlink(target); removed++; continue; }
+        day.removed = true; changed = true; removed++;
+      }
+      if (changed) await writeFile(target, JSON.stringify(day, null, 2));
+    }
+  }
+  if (gone.length) {
+    const skip = new Set(existsSync(SKIP_FILE) ? JSON.parse(await readFile(SKIP_FILE, "utf8")) : []);
+    gone.forEach(id => skip.add(id));
+    await writeFile(SKIP_FILE, JSON.stringify([...skip], null, 1));
+  }
+  console.log(`Rättelser: ${done} fält ändrade, ${removed} bilder borttagna` + (stale ? `, ${stale} hoppades över eftersom texten redan var en annan` : "") + ".");
+}
+try { await applyFixes(); } catch (e) { console.error("Rättelserna kunde inte läsas: " + e.message); }
+
 let failed = 0;
 const pause = () => wait(Number(process.env.PAUSE_MS ?? 13000));
 
