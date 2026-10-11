@@ -1,115 +1,27 @@
 {
- "made": "2026-10-11T14:10:07.533Z",
+ "made": "2026-10-11T16:45:00Z",
  "space": {
-  "2026-10-10": {
+  "2026-10-09": {
    "set": {
-    "quiz.1.q": {
-     "from": "Vad är den främsta anledningen till att månens baksida har så få mörka 'mån衝hav' (maria) jämfört med framsidan?",
-     "to": "Vad är den främsta anledningen till att månens baksida har så få mörka månhav (maria) jämfört med framsidan?"
-    },
-    "levels.barn": {
-     "from": "Tänk dig att månen leker kurragömma med oss! Den visar alltid samma glada ansikte mot jorden, medan dess rygg är vänd bortåt i rymden. Bilden visar just denna dolda baksida.\n\nPå framsidan ser vi mörka fläckar som ser ut som ögon och mun, men baksidan är nästan helt full av gropar som kallas kratrar. Det ser ut som en gigantisk golfboll som krockat med massor av rymdstenar under flera miljarder år!",
-     "to": "Tänk dig att månen leker kurragömma med oss! Den visar alltid samma glada ansikte mot jorden, medan dess rygg är vänd bortåt i rymden. Bilden visar just denna dolda baksida.\n\nPå framsidan ser vi mörka fläckar som ser ut som ögon och mun, men baksidan är nästan helt full av gropar som kallas kratrar. Det ser ut som en gigantisk golfboll som massor av rymdstenar har krockat med under flera miljarder år!"
-    },
     "levels.entusiast": {
-     "from": "Månens synkrona rotation kring jorden beror på tidvattenkrafter som över årmiljarder har bromsat dess spinn tills rotationsperioden matchar omloppsbanan exakt. Denna mosaik, sammansatt av över 15 000 bilder från Lunar Reconnaissance Orbiter, visar baksidans brutala topografi i hög upplösning.\n\nDen slående asymmetrin mellan hemisfärerna kallas ibland för månens dikotomi. Medan framsidan domineras av mörka mare-basalter som fyllt ut stora nedslagsbassänger, består baksidan nästan uteslutande av ljus, anortositisk höglandsterräng mättad med kratrar. Geofysiska mätningar visar att baksidans jordskorpa är signifikant tjockare än framsidans, möjligen till följd av ojämn avkylning under bildandet eller asymmetrisk värmestrålning från en glödhet ung jord. Den tjocka skorpan fungerade som en barriär som hindrade mantelplymer och basaltisk magma från att nå ytan och dränka kratrarna i lava.",
-     "to": "Månens synkrona rotation kring jorden beror på tidvattenkrafter som över årmiljarder har bromsat dess spinn tills rotationsperioden matchar omloppsbanan exakt. Denna mosaik, sammansatt av tiotusentals bilder från Lunar Reconnaissance Orbiter, visar baksidans brutala topografi i hög upplösning.\n\nDen slående asymmetrin mellan hemisfärerna kallas ibland för månens dikotomi. Medan framsidan domineras av mörka mare-basalter som fyllt ut stora nedslagsbassänger, består baksidan nästan uteslutande av ljus, anortositisk höglandsterräng mättad med kratrar. Geofysiska mätningar visar att baksidans jordskorpa är signifikant tjockare än framsidans, möjligen till följd av ojämn avkylning under bildandet eller asymmetrisk värmestrålning från en glödhet ung jord. Den tjocka skorpan fungerade som en barriär som hindrade mantelplymer och basaltisk magma från att nå ytan och dränka kratrarna i lava."
+     "from": "Den avbildade kratern Stickney på den marsianska månen Phobos upptäcktes tillsammans med månen själv av astronomen Asaph Hall år 1877 och har fått sitt namn efter hans fru Chloe Angeline Stickney fd. Hall. Med en diameter på över nio kilometer upptar kratern en betydande del av månen, vars genomsnittliga diameter endast är omkring tjugo kilometer. HiRISE-kameran ombord på Mars Reconnaissance Orbiter har fångat detaljer i förbifarten, inklusive de ljusblå regionerna nära kraterkanten som indikerar färskt frilagt material samt spår av massrörelser i form av lösa massor som glidit nedför sluttningarna. Ursprunget till månens karaktäristiska fåror förblir ett föremål för vetenskaplig debatt, där teorierna kretsar kring antingen de enorma stötvågorna från kraterbildningen eller mekaniska tidvattenpåkänningar orsakade av månens snäva omloppsbana runt Mars.",
+     "to": "Den avbildade kratern Stickney på den marsianska månen Phobos upptäcktes tillsammans med månen själv av astronomen Asaph Hall år 1877 och har fått sitt namn efter hans fru Chloe Angeline Stickney Hall. Med en diameter på över nio kilometer upptar kratern en betydande del av månen, vars genomsnittliga diameter endast är omkring tjugo kilometer. HiRISE-kameran ombord på Mars Reconnaissance Orbiter har fångat detaljer i förbifarten, inklusive de ljusblå regionerna nära kraterkanten som indikerar färskt frilagt material samt spår av massrörelser i form av lösa massor som glidit nedför sluttningarna. Ursprunget till månens karaktäristiska fåror förblir ett föremål för vetenskaplig debatt, där teorierna kretsar kring antingen de enorma stötvågorna från kraterbildningen eller mekaniska tidvattenpåkänningar orsakade av månens snäva omloppsbana runt Mars."
     }
    }
   },
   "2026-10-08": {
    "set": {
-    "quiz.2.fact": {
-     "from": "Sputnik Planum är namnet på den ljusa, isiga slätten som breder ut sig över landskapet och visar på geologisk aktivitet.",
-     "to": "Sputnik Planitia är namnet på den ljusa isiga slätten som breder ut sig över landskapet och visar på geologisk aktivitet."
-    },
-    "quiz.2.options.0": {
-     "from": "Sputnik Planum",
-     "to": "Sputnik Planitia"
-    },
     "levels.entusiast": {
-     "from": "Denna syntetiska perspektivvy över Plutos ekvatorialområde baseras på högupplösta data nedlänkade från rymdsonden New Horizons efter dess historiska förbiflygning i juli 2015. Bilden simulerar en blick från cirka 1 800 kilometers höjd, där blicken riktas mot nordost över det mörka, kraterfierade Cthulhu Regio mot den slående ljusa och släta isfälten i Sputnik Planum. Terrainet sträcker sig över cirka 1 800 kilometer i bredd. Observationerna från New Horizons avslöjar en komplex geologi präglad av kväve- och vattenis, subglaciala processer och atmosfärisk dis, vilket radikalt har förändrat vår syn på Kuiperbältets objekt.",
-     "to": "Denna syntetiska perspektivvy över Plutos ekvatorialområde baseras på högupplösta data nedlänkade från rymdsonden New Horizons efter dess historiska förbiflygning i juli 2015. Bilden simulerar en blick från cirka 1 800 kilometers höjd, där blicken riktas mot nordost över det mörka, kraterrika Cthulhu Regio mot den slående ljusa och släta isfälten i Sputnik Planitia. Terrainet sträcker sig över cirka 1 800 kilometer i bredd. Observationerna från New Horizons avslöjar en komplex geologi präglad av kväve- och vattenis, glaciologiska processer och atmosfärisk dis, vilket radikalt har förändrat vår syn på Kuiperbältets objekt."
-    },
-    "levels.barn": {
-     "from": "Tänk dig att åka rymdraket långt ut i solsystemet till en liten isplanet som heter Pluto. När man tittar ner på den ser man spännande landskap med både mörka gropar och stora, glänsande slätter av is. Det ser nästan ut som ett jättestort fruset hav. Fast det är så kallt där ute att isen är hård som sten, är Pluto full av överraskningar som forskarna tycker är jättespännande att titta på med rymdkameror.",
-     "to": "Tänk dig att åka rymdraket långt ut i solsystemet till en liten isig dvärgplanet som heter Pluto. När man tittar ner på den ser man spännande landskap med både mörka gropar och stora, glänsande slätter av is. Det ser nästan ut som ett jättestort fruset hav. Fast det är så kallt där ute att isen är hård som sten, är Pluto full av överraskningar som forskarna tycker är jättespännande att titta på med rymdkameror."
+     "from": "Denna syntetiska perspektivvy över Plutos ekvatorialområde baseras på högupplösta data nedlänkade från rymdsonden New Horizons efter dess historiska förbiflygning i juli 2015. Bilden simulerar en blick från cirka 1 800 kilometers höjd, där blicken riktas mot nordost över det mörka, kraterrika Cthulhu Regio mot den slående ljusa och släta isfälten i Sputnik Planitia. Terrainet sträcker sig över cirka 1 800 kilometer i bredd. Observationerna från New Horizons avslöjar en komplex geologi präglad av kväve- och vattenis, glaciologiska processer och atmosfärisk dis, vilket radikalt har förändrat vår syn på Kuiperbältets objekt.",
+     "to": "Denna syntetiska perspektivvy över Plutos ekvatorialområde baseras på högupplösta data nedlänkade från rymdsonden New Horizons efter dess historiska förbiflygning i juli 2015. Bilden simulerar en blick från cirka 1 800 kilometers höjd, där blicken riktas mot nordost över det mörka, kraterrika Cthulhu Regio mot den slående ljusa och släta isfälten i Sputnik Planitia. Terrängen sträcker sig över cirka 1 800 kilometer i bredd. Observationerna från New Horizons avslöjar en komplex geologi präglad av kväve- och vattenis, glaciologiska processer och atmosfärisk dis, vilket radikalt har förändrat vår syn på Kuiperbältets objekt."
     }
    }
   },
-  "2026-10-07": {
+  "2026-10-10": {
    "set": {
-    "quiz.0.fact": {
-     "from": "Eftersom avstånden mellan stjärnor är enorma passerar de oftast förbi varandra utan att krocka, medan gasmolnen däremot kolliderar och tänder nya stjärnor.",
-     "to": "Eftersom avstånden mellan stjärnor är enorma så passerar de oftast förbi varandra utan att krocka, medan gasmolnen däremot kolliderar och tänder nya stjärnor."
-    },
-    "levels.nyborjare": {
-     "from": "Bilden visar SpARCS1049+56, en massiv galaxhop som hålls samman av gravitationen. I mitten av hopen ligger en gigantisk galax, men till skillnad från de flesta centralgalaxer föder den nya stjärnor i en rasande takt. Orsaken är att den krockar med en mindre satellitgalax. Den våldsamma gravitationen sliter sönder den lilla galaxen och drar ut en långsträckt tidvattenarm av gas och stjärnor. I denna svans klumpas gasen ihop och skapar pärlband av nyfödda stjärnor. Detta är mycket ovanligt i centrum av galaxhoper, där gasen oftast är för het för stjärnbildning. Bilden kombinerar infrarött ljus från både rymdteleskopet Hubble och rymdteleskopet Spitzer.",
-     "to": "Bilden visar SpARCS1049+56, en massiv galaxhop som hålls samman av gravitationen. I mitten av hopen ligger en gigantisk centralgalax, men till skillnad från de flesta centralgalaxer föder den nya stjärnor i en rasande takt. Orsaken är att den krockar med en mindre satellitgalax. Den våldsamma gravitationen sliter sönder den lilla galaxen och drar ut en långsträckt tidvattenarm av gas och stjärnor. I denna svans klumpas gasen ihop och skapar pärlband av nyfödda stjärnor. Detta är mycket ovanligt i centrum av galaxhoper där gasen oftast är för het för stjärnbildning. Bilden kombinerar infrarött ljus från både rymdteleskopet Hubble och rymdteleskopet Spitzer."
-    }
-   }
-  },
-  "2026-10-06": {
-   "set": {
-    "quiz.1.fact": {
-     "from": "Infrarött ljus har längre våglängder än det synliga ljuset och kan därför passera genom kosmiskt stoft som annars blockerar sikten.",
-     "to": "Infrarött ljus har längre våglängder än det synliga ljuset och kan därför passera genom kosmiskt stoft, som annars blockerar sikten."
-    },
-    "quiz.2.options.1": {
-     "from": "De bildar gigantiska svarta hål som slukar hela galaxer",
-     "to": "De bildar ett gigantiskt svart hål som slukar hela galaxer"
-    },
-    "levels.barn": {
-     "from": "Tänk dig ett jättestort moln av färggrann rymdgas och glittrande stoft som svävar långt borta i Vintergatan. Med lite fantasi kan man se mönster som liknar ett rymdmonster, nästan som en gigantisk Godzilla! Det här molnet är egentligen en enorm barnkammare där nya, glödande stjärnor föds ur gas och damm. Det är som ett hemligt lekland i rymden där kosmiska underverk skapas.",
-     "to": "Tänk dig ett jättestort moln av färggrann rymdgas och glittrande stoft som svävar långt borta i Vintergatan. Med lite fantasi kan man se mönster som liknar ett rymdmonster, nästan som en gigantisk Godzilla! Det här molnet är egentligen en enorm barnkammare där nya, glödande stjärnor föds ur gas och damm. Det är som ett hemligt lekland där kosmiska underverk skapas."
-    },
     "levels.entusiast": {
-     "from": "Bilden är fångad av det nu pensionerade Spitzer-teleskopet som en del av GLIMPSE-undersökningen. Den visar en komplex region av interstellärt medium i stjärnbilden Skytten, belägen i Vintergatans galaktiska plan. Regionen innehåller lysande gasmoln och det aktiva området W33 på ett avstånd av omkring 7 800 ljusår från jorden. Med hjälp av infraröd astronomi kan man blicka bortom de täta stoftmoln som helt skymmer sikten i det optiska våglängdsintervallet. Olika våglängder har tilldelats specifika färger: stjärnor syns i blått och cyan på grund av kortare infraröda våglängder, medan kolväten och organiska molekyler framträder i grönt. Det röda ljuset avslöjar varmt stoft som har värmts upp av strålning från massiva stjärnor eller chockvågor från supernovor. När tunga stjärnor avslutar sina liv och exploderar som supernovor omformar de den omgivande miljön, komprimerar material och driver på cykeln för nästa generation av stjärnbildning.",
-     "to": "Bilden är fångad av det nu pensionerade Spitzer-teleskopet som en del av GLIMPSE-undersökningen. Den visar en komplex region av interstellärt medium i stjärnbilden Skytten, belägen i Vintergatans galaktiska plan. Regionen innehåller lysande gasmoln och det aktiva området W33 på ett avstånd av omkring 7 800 ljusår från jorden. Med hjälp av infraröd astronomi kan man blicka bortom de täta stoftmoln som helt skymmer sikten i det optiska våglängdsintervallet. Olika våglängder har tilldelats specifika färger: stjärnor syns i blått och cyan på grund av kortare infraröda våglängder, medan kolväten och organiska molekyler framhävs i grönt. Det röda ljuset avslöjar varmt stoft som har värmts upp av strålning från massiva stjärnor eller chockvågor från supernovor. När tunga stjärnor avslutar sina liv och exploderar som supernovor omformar de den omgivande miljön, komprimerar material och driver kretsloppet för nästa generation av stjärnbildning."
-    }
-   }
-  },
-  "2026-10-09": {
-   "set": {
-    "quiz.0.fact": {
-     "from": "Phobos är den största och innersta av Mars två månar.",
-     "to": "Phobos är den största och innersta av Mars båda månar."
-    },
-    "levels.entusiast": {
-     "from": "Den avbildade kratern Stickney på den marsianska månen Phobos upptäcktes tillsammans med månen själv av astronomen Asaph Hall år 1877 och har fått sitt namn efter hans fru Chloe Angeline Stickney Hall. Med en diameter på över nio kilometer upptar kratern en betydande del av månen, vars totala diameter endast är omkring tjugo kilometer. HiRISE-kameran ombord på Mars Reconnaissance Orbiter har fångat detaljer i förbifarten, inklusive de ljusblå regionerna nära kraterkanten som indikerar färskt frilagt material samt spår av massrörelser i form av lösa massor som glidit nedför sluttningarna. Ursprunget till månens karaktäristiska fåror förblir ett föremål för vetenskaplig debatt, där teorierna kretsar kring antingen de enorma stötvågorna från kraterbildningen eller mekaniska tidvattenpåkänningar orsakade av månens snäva omloppsbana runt Mars.",
-     "to": "Den avbildade kratern Stickney på den marsianska månen Phobos upptäcktes tillsammans med månen själv av astronomen Asaph Hall år 1877 och har fått sitt namn efter hans fru Chloe Angeline Stickney fd. Hall. Med en diameter på över nio kilometer upptar kratern en betydande del av månen, vars genomsnittliga diameter endast är omkring tjugo kilometer. HiRISE-kameran ombord på Mars Reconnaissance Orbiter har fångat detaljer i förbifarten, inklusive de ljusblå regionerna nära kraterkanten som indikerar färskt frilagt material samt spår av massrörelser i form av lösa massor som glidit nedför sluttningarna. Ursprunget till månens karaktäristiska fåror förblir ett föremål för vetenskaplig debatt, där teorierna kretsar kring antingen de enorma stötvågorna från kraterbildningen eller mekaniska tidvattenpåkänningar orsakade av månens snäva omloppsbana runt Mars."
-    }
-   }
-  },
-  "2026-10-05": {
-   "set": {
-    "quiz.0.fact": {
-     "from": "Medan kamerans slutare är öppen under en längre tid roterar jorden, vilket gör att stjärnorna lämnar långa ljusspår på bilden.",
-     "to": "Medan kamerans slutare är öppen under en längre tid roterar jorden, vilket gör att stjärnorna lämnar långa ljusspår efter sig på bilden."
-    },
-    "levels.nyborjare": {
-     "from": "När man tar ett fotografi med en lång slutartid från rymden fångas ljuset under en längre stund. Eftersom jorden roterar kring sin egen axel ser det ut som att stjärnorna rör sig över himlen och lämnar efter sig spår av ljus. På bilden syns dessa stjärnspår sväva högt ovanför jordens krökning. Längre ner glimrar gula ljus från städer och blå sken från fiskebåtar som guppar på haven i mörkret.",
-     "to": "När man tar ett fotografi med en lång slutartid från rymden fångas ljuset under en längre tid. Eftersom jorden roterar kring sin egen axel ser det ut som att stjärnorna rör sig över himlen och lämnar efter sig spår av ljus. På bilden syns dessa stjärnspår sväva högt ovanför jordens krökning. Längre ner glimrar gula ljus från städer och blå sken från fiskebåtar som guppar på haven i mörkret."
-    }
-   }
-  },
-  "2026-10-04": {
-   "set": {
-    "quiz.1.fact": {
-     "from": "Internationella rymdstationen befinner sig i låg omloppsbana på omkring 400 kilometers höjd, vilket motsvarar ungefär 250 engelska mil.",
-     "to": "Internationella rymdstationen befinner sig i låg omloppsbana på omkring 400 kilometers höjd."
-    },
-    "levels.entusiast": {
-     "from": "Bilden är tagen från den internationella rymdstationen som kretsar i en låg omloppsbana ungefär 400 kilometer upp i termosfären. De lysande klustren illustrerar mänsklig aktivitet, energiförbrukning och urbaniseringens utbredning över den nordamerikanska kontinenten. Från detta perspektiv kan forskare studera ljusföroreningar och energianvändning på stor skala, samtidigt som stationens bana ger ett ständigt skiftande perspektiv på jorden som ett sammanlänkat system.",
-     "to": "Bilden är tagen från den internationella rymdstationen som kretsar i en låg omloppsbana ungefär 400 kilometer upp i termosfären. De lysande klustren illustrerar mänsklig aktivitet, energiförbrukning och urbaniseringens utbredning över den nordamerikanska kontinenten. Från detta perspektiv kan forskare studera ljusföroreningar och energianvändning i stor skala, samtidigt som stationens bana ger ett ständigt skiftande perspektiv på jorden som ett sammanlänkat system."
-    }
-   }
-  },
-  "2026-10-03": {
-   "set": {
-    "quiz.2.options.1": {
-     "from": "En rymdteleskop som kretsar kring solen",
-     "to": "Ett rymdteleskop som kretsar kring solen"
+     "from": "Månens synkrona rotation kring jorden beror på tidvattenkrafter som över årmiljarder har bromsat dess spinn tills rotationsperioden matchar omloppsbanan exakt. Denna mosaik, sammansatt av tiotusentals bilder från Lunar Reconnaissance Orbiter, visar baksidans brutala topografi i hög upplösning.\n\nDen slående asymmetrin mellan hemisfärerna kallas ibland för månens dikotomi. Medan framsidan domineras av mörka mare-basalter som fyllt ut stora nedslagsbassänger, består baksidan nästan uteslutande av ljus, anortositisk höglandsterräng mättad med kratrar. Geofysiska mätningar visar att baksidans jordskorpa är signifikant tjockare än framsidans, möjligen till följd av ojämn avkylning under bildandet eller asymmetrisk värmestrålning från en glödhet ung jord. Den tjocka skorpan fungerade som en barriär som hindrade mantelplymer och basaltisk magma från att nå ytan och dränka kratrarna i lava.",
+     "to": "Månens synkrona rotation kring jorden beror på tidvattenkrafter som över årmiljarder har bromsat dess spinn tills rotationsperioden matchar omloppsbanan exakt. Denna mosaik, sammansatt av över 15 000 bilder från Lunar Reconnaissance Orbiter, visar baksidans brutala topografi i hög upplösning.\n\nDen slående asymmetrin mellan hemisfärerna kallas ibland för månens dikotomi. Medan framsidan domineras av mörka mare-basalter som fyllt ut stora nedslagsbassänger, består baksidan nästan uteslutande av ljus, anortositisk höglandsterräng mättad med kratrar. Geofysiska mätningar visar att baksidans jordskorpa är signifikant tjockare än framsidans, möjligen till följd av ojämn avkylning under bildandet eller asymmetrisk värmestrålning från en glödhet ung jord. Den tjocka skorpan fungerade som en barriär som hindrade mantelplymer och basaltisk magma från att nå ytan och dränka kratrarna i lava."
     }
    }
   }
