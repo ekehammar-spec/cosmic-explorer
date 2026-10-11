@@ -196,7 +196,10 @@ button { font: inherit; color: inherit; cursor: pointer; }
 #quiz .options { gap: 7px; margin-top: 12px; }
 #quiz .options button { padding: 10px 13px; gap: 12px; font-size: .95rem; line-height: 1.3; transition: background .2s, border-color .2s, transform .15s, opacity .25s; }
 #quiz .options button.gone { display: none; }
-#quiz .next { margin-top: 14px; }
+#quiz .next { display: flex; width: 100%; justify-content: center; align-items: center; gap: 8px; margin-top: 18px; padding: 0 18px; height: 40px; border-radius: 14px;
+  box-shadow: 0 0 0 3px #12131a, 0 0 0 4.5px rgba(182, 163, 255, .5); }
+#quiz .next:focus-visible { outline: none; }
+#quiz .next .arrow { font-size: 1.1em; line-height: 1; }
 .fact strong { color: var(--text); font-weight: 600; }
 .next { margin-top: 18px; padding: 13px 22px; border-radius: 999px; font-weight: 600; background: var(--shift); color: #06080c; }
 .next:hover { background: var(--shift); filter: brightness(1.1); }
@@ -341,6 +344,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .events { display: flex; flex-direction: column; gap: 8px; margin-top: 14px; }
 .event { display: flex; align-items: center; gap: 14px; padding: 10px; border-radius: 16px; background: var(--surface); min-width: 0; }
 .event .when { flex: none; width: 52px; height: 52px; border-radius: 13px; background: var(--surface-hi); display: grid; place-content: center; text-align: center; line-height: 1.05; }
+.event .when svg { width: 26px; height: 26px; color: #c9c3e6; }
 .event .when small { font-size: .58rem; font-weight: 600; letter-spacing: .12em; color: #b6a3ff; }
 .event .when b { font: 600 1.15rem var(--display); font-variant-numeric: tabular-nums; }
 .event .what { min-width: 0; flex: 1; font-weight: 600; font-size: .95rem; line-height: 1.3; }
@@ -511,7 +515,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <div class="eyebrow">Dina uppgifter</div>
       <p>Din samling sparas bara på den här enheten. Appen har inga konton, ingen reklam och samlar inte in något om dig.</p>
     </div>
-    <p class="ver">Version 11 okt H</p>
+    <p class="ver">Version 11 okt I</p>
   </section>
 
   <section id="sky" class="page" hidden>
@@ -561,6 +565,11 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <h3 id="stormHead"></h3>
       <div class="muted" id="stormText" style="font-size:.9rem;margin-top:4px"></div>
     </div>
+    <div class="card" id="nowCard" hidden>
+      <div class="eyebrow">Just nu på jorden</div>
+      <div class="events" id="nowList"></div>
+      <p class="note">Pågående naturhändelser som NASA följer från rymden. Uppgifterna ger en översikt och är ingen officiell varning.</p>
+    </div>
     <div class="card" id="launchCard" hidden>
       <div class="eyebrow">Nästa uppskjutningar</div>
       <div class="events" id="launches"></div>
@@ -595,7 +604,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
-<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt H</span></footer>
+<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt I</span></footer>
 
 <div id="lightbox" hidden><img alt=""></div>
 <div id="placeScrim"></div>
@@ -759,6 +768,8 @@ const EN = {
   "Kommande på himlen": "Coming up in the sky",
   "Meteorregnens toppnätter kan skifta ett dygn mellan åren. Förmörkelsernas tider gäller Stockholm.": "Peak nights for meteor showers can shift by a day from year to year. Eclipse times are for Stockholm, Sweden.",
   "Rymdväder": "Space weather",
+  "Just nu på jorden": "Right now on Earth", "i går": "yesterday",
+  "Pågående naturhändelser som NASA följer från rymden. Uppgifterna ger en översikt och är ingen officiell varning.": "Ongoing natural events that NASA tracks from space. The details give an overview and are not an official warning.",
   "Nästa uppskjutningar": "Upcoming launches",
   "Tider i svensk tid och kan ändras med kort varsel. Källa: The Space Devs.": "Times are in your local time and can change at short notice. Source: The Space Devs.",
   "Stora solförmörkelser": "Major solar eclipses",
@@ -1067,7 +1078,7 @@ function answer(i, e) {
   const last = current === day.quiz.length - 1;
   $("feedback").innerHTML =
     `<p class="fact"><strong>${L(right ? "Rätt!" : "Inte riktigt.")}</strong> ${esc(tidy(q.fact))}</p>
-     <button class="next" id="nextBtn">${L(last ? "Visa vad bilden föreställer" : "Nästa fråga")}</button>`;
+     <button class="next" id="nextBtn"><span>${L(last ? "Visa vad bilden föreställer" : "Nästa fråga")}</span><span class="arrow" aria-hidden="true">→</span></button>`;
   keepInView($("nextBtn"));
   $("nextBtn").addEventListener("click", () => {
     if (!last) { current++; renderQuestion(); keepInView($("quiz"), true); return; }
@@ -1396,6 +1407,29 @@ async function loadLaunches() {
   clipList("launches", 3);
   $("launchCard").hidden = false;
 }
+// Just nu på jorden: pågående naturhändelser ur NASA:s tjänst EONET. Morgonjobbet hämtar och sparar listan en gång om dagen.
+const NOW_ICON = {
+  storm: '<path d="M12 12m-2.6 0a2.6 2.6 0 1 0 5.2 0a2.6 2.6 0 1 0 -5.2 0"/><path d="M12 3.5c4.7 0 8.5 3.8 8.5 8.5"/><path d="M12 20.5c-4.7 0-8.5-3.8-8.5-8.5"/>',
+  fire: '<path d="M12 21c-3.6 0-6-2.5-6-5.8 0-2.6 1.7-4.3 2.9-6 .5 1.4 1.3 2.1 2.1 2.4C10.6 8 11.6 5 14 3c0 3.2 4 5.4 4 10.2C18 18.5 15.6 21 12 21z"/>',
+  volcano: '<path d="M3 20l5.5-9h7L21 20z"/><path d="M9.5 7.5c0-1.5 1.2-1.5 1.2-3M13 7.5c0-1.5 1.5-1.5 1.5-3.5"/>',
+  ice: '<path d="M3 15l4-7 4 3 3-5 7 9"/><path d="M2 19c2.5-1.5 4.5 1.5 7 0s4.5 1.5 7 0 4-1 6 0"/>',
+  other: '<circle cx="12" cy="12" r="8.5"/><path d="M12 8v4.5M12 16h.01"/>'
+};
+async function loadNow() {
+  let now; try { now = await getJson("data/now.json"); } catch (e) { return; }
+  if (!now || !Array.isArray(now.events) || !now.events.length || Date.now() - Date.parse(now.updated) > 3 * 864e5) return;
+  const midnight = new Date(); midnight.setHours(0, 0, 0, 0);
+  $("nowList").innerHTML = now.events.map(ev => {
+    const when = new Date(ev.date), days = Math.round((midnight - new Date(when.getFullYear(), when.getMonth(), when.getDate())) / 864e5);
+    const ago = days <= 0 ? L("i dag") : days === 1 ? L("i går") : when.toLocaleDateString(loc, { day: "numeric", month: "short" }).replace(".", "");
+    const en = lang === "en";
+    return `<div class="event"><div class="when"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${NOW_ICON[ev.kind] || NOW_ICON.other}</svg></div>
+      <div class="what">${esc(en ? ev.title_en : ev.title_sv)}<small>${esc([en ? ev.where_en : ev.where_sv, en ? ev.value_en : ev.value_sv].filter(Boolean).join(" · "))}</small></div>
+      <div class="in">${esc(ago)}</div></div>`;
+  }).join("");
+  clipList("nowList", 4);
+  $("nowCard").hidden = false;
+}
 let skyLoaded = false;
 // Visar de n första raderna i en lista och en knapp för resten.
 const openLists = new Set();
@@ -1428,7 +1462,7 @@ addEventListener("scroll", () => {
 
 function renderSky() {
   renderWorld();
-  if (!skyLoaded) { skyLoaded = true; loadLaunches(); }
+  if (!skyLoaded) { skyLoaded = true; loadLaunches(); loadNow(); }
   const now = new Date(), m = moonAt(now);
   const d = x => x.toLocaleDateString(loc, { day: "numeric", month: "long" });
   $("moonLit").setAttribute("d", moonPath(m));
