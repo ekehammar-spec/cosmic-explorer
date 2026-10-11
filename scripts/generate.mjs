@@ -803,9 +803,18 @@ try {
     const title = String(ev.title || "").trim(), mag = Number(last.magnitudeValue), unit = last.magnitudeUnit;
     if (cat.id === "severeStorms") {
       if (age > 3) continue;   // stormar som inte uppdaterats på flera dygn står ofta kvar som öppna
-      const hit = STORM.find(([e]) => title.startsWith(e + " "));
+      let hit = STORM.find(([e]) => title.startsWith(e + " "));
+      const name = hit ? title.slice(hit[0].length) : "";
+      // Vindstyrkan avgör vad ovädret kallas. Källan behåller ofta ordet orkan även när stormen har mojnat.
+      if (hit && unit === "kts" && mag) {
+        const strong = /Typhoon|Hurricane|Cyclone/.test(hit[0]) && !/^Tropical Cyclone/.test(hit[0]) || hit[0] === "Tropical Cyclone";
+        if (mag < 34) hit = STORM.find(([e]) => e === "Tropical Depression");
+        else if (mag < 64 && strong) hit = STORM.find(([e]) => e === "Tropical Storm");
+        else if (mag < 130 && hit[0] === "Super Typhoon") hit = STORM.find(([e]) => e === "Typhoon");
+      }
+      const titleEn = hit ? hit[0] + name : title;
       const kmh = unit === "kts" && mag ? Math.round(mag * 1.852 / 5) * 5 : 0, where = point ? basin(point[0], point[1]) : ["", ""];
-      out.storm.push({ kind: "storm", date: last.date, rank: kmh, title_sv: hit ? hit[1] + title.slice(hit[0].length) : title, title_en: title,
+      out.storm.push({ kind: "storm", date: last.date, rank: kmh, title_sv: hit ? hit[1] + name : title, title_en: titleEn,
         where_sv: where[0].replace(/^./, c => c.toUpperCase()), where_en: where[1].replace(/^./, c => c.toUpperCase()), value_sv: kmh ? `vindar på ${kmh} km/h` : "", value_en: kmh ? `winds of ${kmh} km/h` : "" });
     } else if (cat.id === "wildfires") {
       if (/prescribed|\bRX\b/i.test(title) || (now - Date.parse(first.date)) / dayMs > 10) continue;   // planerade bränningar och gamla bränder hoppas över
