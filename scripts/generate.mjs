@@ -14,7 +14,7 @@
 // Körs av GitHub Actions (se .github/workflows/daily.yml). Lokalt:
 //   GEMINI_API_KEY=... node scripts/generate.mjs
 
-import { readFile, writeFile, readdir, mkdir } from "node:fs/promises";
+import { readFile, writeFile, readdir, mkdir, unlink } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -101,7 +101,7 @@ function nasaOwned(credit) {
 }
 // En sparad dag får ligga kvar om den kommer från en av de nya källorna, eller om dess upphov är NASA:s.
 // Bilder som har synats och valts bort för hand (skärmdumpar med anteckningar och liknande).
-const REJECT = new Set(["https://www.nasa.gov/image-detail/fd07_impact-flashes/"]);
+const REJECT = new Set(["https://www.nasa.gov/image-detail/fd07_impact-flashes/", "GSFC_20171208_Archive_e001234"]);
 const MIN_LONG = 1000, MIN_SHORT = 600;   // minsta storlek i bildpunkter för att bilden ska hålla i helskärm
 const bigEnough = px => Array.isArray(px) && Math.max(px[0], px[1]) >= MIN_LONG && Math.min(px[0], px[1]) >= MIN_SHORT;
 const keepDay = d => Boolean(d && !d.sample && !REJECT.has(d.id) &&
@@ -178,7 +178,7 @@ async function earthCandidates(topic, page) {
     return { src: "library", archive: true, id: d.nasa_id, title: String(d.title || "").replace(/\s*\[[^\]]*\]\s*$/, "").trim(), rawTitle: String(d.title || ""),
       article: article.slice(0, 6000), topics: (d.keywords || []).slice(0, 8).join(", "), credit: (credit || "").replace(/^(Image )?[Cc]redit:\s*/, "").replace(/\.$/, ""),
       source: credit || "", link: "https://images.nasa.gov/details/" + encodeURIComponent(d.nasa_id) };
-  }).filter(c => c.id && c.title && c.credit && c.article.length > 300 && !/\[(annotated|detail|labeled|labelled)\]/i.test(c.rawTitle) && !/©|copyright|courtesy of (?!NASA)/i.test(c.source));
+  }).filter(c => c.id && c.title && c.credit && c.article.length > 300 && !/\[(annotated|detail|labeled|labelled)\]/i.test(c.rawTitle) && !/©|copyright|courtesy of (?!NASA)/i.test(c.source) && !/\b(image|images|photo|photograph|map|visualization)s? (is |are )?courtesy (?!of NASA|NASA)/i.test(c.article));
 }
 
 /* ---------- Gemini ---------- */
@@ -604,7 +604,9 @@ try {
   const skip = new Set(existsSync(SKIP_FILE) ? JSON.parse(await readFile(SKIP_FILE, "utf8")) : []);
   const used = new Set();
   for (const f of (await readdir(EARTH)).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))) {
-    const d = JSON.parse(await readFile(path.join(EARTH, f), "utf8")); if (d.id) used.add(d.id); used.add(String(d.title).toLowerCase());
+    const d = JSON.parse(await readFile(path.join(EARTH, f), "utf8"));
+    if (REJECT.has(d.id)) { await unlink(path.join(EARTH, f)); skip.add(d.id); console.log(`Jordbild ${d.date} (${d.title}) tas bort och ersätts.`); continue; }
+    if (d.id) used.add(d.id); used.add(String(d.title).toLowerCase());
   }
   const dayMs = 864e5, today = new Date().toISOString().slice(0, 10);
   let made = 0;
