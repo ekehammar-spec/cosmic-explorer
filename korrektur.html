@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Andromeda Arc – korrektur</title>
+<style>
+:root { --bg:#06070b; --card:#12141b; --text:#f2f0ea; --muted:#9b9ba8; --line:rgba(255,255,255,.1); --accent:#6cd3ff; --lilac:#c9c3e6; --good:#72e0c2; --bad:#f29ab8; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 400 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; padding: 0 16px 120px; }
+main { max-width: 760px; margin: 0 auto; }
+h1 { font-size: 1.5rem; margin: 26px 0 6px; }
+.lead { color: var(--muted); margin: 0 0 14px; }
+.lead b { color: var(--text); }
+.bar { position: sticky; top: 0; z-index: 5; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 0 -16px 18px; padding: 10px 16px; background: rgba(6,7,11,.94); border-bottom: 1px solid var(--line); }
+.bar span { color: var(--muted); font-size: .88rem; margin-right: auto; }
+button, .tab { font: 600 .88rem inherit; font-family: inherit; color: var(--text); background: rgba(255,255,255,.06); border: 1px solid var(--line); border-radius: 999px; padding: 8px 15px; cursor: pointer; }
+button.primary { background: linear-gradient(100deg,#b6a3ff,#3fdcff); color: #06080c; border: 0; }
+button[aria-pressed="true"] { color: var(--lilac); border-color: rgba(201,195,230,.4); background: rgba(201,195,230,.09); }
+.day { background: var(--card); border: 1px solid var(--line); border-radius: 20px; padding: 16px 18px 18px; margin-bottom: 14px; }
+.day.done { opacity: .55; }
+.day.removed { border-color: var(--bad); }
+.head { display: flex; gap: 14px; align-items: center; margin-bottom: 10px; }
+.head img { width: 76px; height: 76px; border-radius: 14px; object-fit: cover; background: #000; flex: none; }
+.head div { flex: 1; min-width: 0; }
+.head small { color: var(--muted); display: block; font-size: .8rem; }
+.head b { display: block; font-size: 1.02rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.checks { display: flex; gap: 14px; flex-wrap: wrap; font-size: .86rem; color: var(--muted); margin-top: 4px; }
+.checks label { display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+label.f { display: block; font: 600 .66rem inherit; font-family: inherit; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin: 14px 0 4px; }
+label.f.sub { color: var(--muted); letter-spacing: .06em; text-transform: none; font-size: .76rem; margin-top: 8px; }
+textarea { display: block; width: 100%; font: 400 1rem/1.5 inherit; font-family: inherit; color: var(--text); background: rgba(255,255,255,.04); border: 1px solid var(--line); border-radius: 12px; padding: 9px 12px; resize: none; overflow: hidden; }
+textarea:focus { outline: 2px solid rgba(108,211,255,.5); outline-offset: 1px; }
+textarea.changed { border-color: var(--good); background: rgba(114,224,194,.07); }
+.opt { display: flex; gap: 8px; align-items: flex-start; margin-top: 6px; }
+.opt i { flex: none; width: 26px; height: 26px; margin-top: 8px; border-radius: 50%; display: grid; place-items: center; font: 600 .78rem inherit; font-style: normal; background: rgba(255,255,255,.08); color: var(--muted); }
+.opt.right i { background: var(--good); color: #05130f; }
+.term { display: grid; grid-template-columns: minmax(110px, 30%) 1fr; gap: 8px; margin-top: 6px; }
+h2 { font-size: 1.1rem; margin: 30px 0 12px; }
+.msg { color: var(--muted); padding: 30px 0; }
+a { color: var(--lilac); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Korrektur</h1>
+  <p class="lead">Här är alla svenska texter som finns i appen just nu. <b>Rätta direkt i rutorna.</b> Det du ändrar blir grönt och sparas i den här webbläsaren, så du kan stänga sidan och fortsätta senare. När du är klar trycker du på <b>Ladda ner rättelser</b> och laddar upp filen till GitHub.</p>
+  <div class="bar">
+    <span id="status">Läser in…</span>
+    <button id="hideDone" aria-pressed="false">Dölj klara</button>
+    <button class="primary" id="save">Ladda ner rättelser</button>
+  </div>
+  <div id="list"><p class="msg">Läser in texterna…</p></div>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const KEY = "aa-korrektur";
+let state = {}; try { state = JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) {}
+state.edits = state.edits || {}; state.done = state.done || {}; state.remove = state.remove || {};
+const persist = () => { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {} };
+const orig = {};   // "space/2026-10-11|quiz.0.q" -> ursprunglig text
+const nice = d => new Date(d + "T12:00:00").toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" });
+const get = (o, path) => path.split(".").reduce((a, k) => (a == null ? a : a[k]), o);
+
+function field(id, path, value, cls = "") {
+  const k = id + "|" + path; orig[k] = value ?? "";
+  const now = state.edits[k] !== undefined ? state.edits[k] : orig[k];
+  return `<textarea rows="1" data-k="${esc(k)}" class="${cls} ${now !== orig[k] ? "changed" : ""}">${esc(now)}</textarea>`;
+}
+function card(kind, d) {
+  const id = kind + "/" + d.date, earth = kind === "earth";
+  let h = `<div class="head"><img loading="lazy" src="${esc(d.thumb || d.url)}" alt=""><div><small>${earth ? "Jorden" : "Dagens bild"} · ${nice(d.date)}${d.archive ? " · ur arkivet" : ""}</small><b>${esc(d.title)}</b>
+    <div class="checks"><label><input type="checkbox" data-done="${id}" ${state.done[id] ? "checked" : ""}> Klar</label><label><input type="checkbox" data-remove="${id}" ${state.remove[id] ? "checked" : ""}> Ta bort bilden ur appen</label></div></div></div>`;
+  h += `<label class="f">Titel</label>` + field(id, "title_sv", d.title_sv);
+  if (earth) h += `<label class="f">Plats</label>` + field(id, "place", d.place);
+  (d.quiz || []).forEach((q, i) => {
+    h += `<label class="f">Fråga ${i + 1}</label>` + field(id, `quiz.${i}.q`, q.q);
+    q.options.forEach((o, j) => { h += `<div class="opt ${j === q.correct ? "right" : ""}"><i title="${j === q.correct ? "Rätt svar" : ""}">${"ABC"[j]}</i>${field(id, `quiz.${i}.options.${j}`, o)}</div>`; });
+    h += `<label class="f sub">Förklaring som visas efter svaret</label>` + field(id, `quiz.${i}.fact`, q.fact);
+  });
+  for (const [k, n] of [["barn", earth ? "För unga jordspanare" : "För unga rymdhjältar"], ["nyborjare", "Nybörjare"], ["entusiast", "Djupdykning"]])
+    h += `<label class="f">${n}</label>` + field(id, "levels." + k, (d.levels || {})[k]);
+  if ((d.terms || []).length) {
+    h += `<label class="f">Ordförklaringar</label>`;
+    d.terms.forEach((t, i) => { h += `<div class="term">${field(id, `terms.${i}.term`, t.term)}${field(id, `terms.${i}.explanation`, t.explanation)}</div>`; });
+  }
+  return `<section class="day ${state.done[id] ? "done" : ""} ${state.remove[id] ? "removed" : ""}" data-id="${id}">${h}</section>`;
+}
+const grow = t => { t.style.height = "auto"; t.style.height = t.scrollHeight + 2 + "px"; };
+function count() {
+  const changed = Object.keys(state.edits).filter(k => orig[k] !== undefined && state.edits[k] !== orig[k]).length;
+  const removed = Object.values(state.remove).filter(Boolean).length, all = document.querySelectorAll(".day").length, done = Object.values(state.done).filter(Boolean).length;
+  $("status").textContent = `${done} av ${all} klara · ${changed} ändringar` + (removed ? ` · ${removed} bilder tas bort` : "");
+}
+async function json(p) { const r = await fetch(p, { cache: "no-cache" }); if (!r.ok) throw new Error(p + " " + r.status); return r.json(); }
+(async () => {
+  try {
+    const [idx, eidx] = await Promise.all([json("data/index.json"), json("data/earth/index.json").catch(() => [])]);
+    const days = await Promise.all(idx.map(d => json("data/" + d.date + ".json")));
+    const earth = await Promise.all(eidx.map(d => json("data/earth/" + d.date + ".json")));
+    $("list").innerHTML = `<h2>Dagens bild, ${days.length} bilder</h2>` + days.map(d => card("space", d)).join("") + `<h2>Jorden, ${earth.length} bilder</h2>` + earth.map(d => card("earth", d)).join("");
+    document.querySelectorAll("textarea").forEach(grow);
+    count();
+  } catch (e) {
+    $("list").innerHTML = `<p class="msg">Texterna gick inte att läsa in (${esc(e.message)}). Sidan måste öppnas från appens adress, inte som en nedladdad fil.</p>`;
+    $("status").textContent = "Kunde inte läsa in";
+  }
+})();
+$("list").addEventListener("input", e => {
+  const t = e.target; if (t.tagName !== "TEXTAREA") return;
+  const k = t.dataset.k; grow(t);
+  if (t.value === orig[k]) delete state.edits[k]; else state.edits[k] = t.value;
+  t.classList.toggle("changed", t.value !== orig[k]); persist(); count();
+});
+$("list").addEventListener("change", e => {
+  const t = e.target, sec = t.closest(".day"); if (!sec) return;
+  if (t.dataset.done) { state.done[t.dataset.done] = t.checked; sec.classList.toggle("done", t.checked); }
+  if (t.dataset.remove) { state.remove[t.dataset.remove] = t.checked; sec.classList.toggle("removed", t.checked); }
+  persist(); count(); applyHide();
+});
+function applyHide() {
+  const on = $("hideDone").getAttribute("aria-pressed") === "true";
+  document.querySelectorAll(".day").forEach(s => { s.hidden = on && s.classList.contains("done"); });
+}
+$("hideDone").addEventListener("click", e => { e.target.setAttribute("aria-pressed", String(e.target.getAttribute("aria-pressed") !== "true")); applyHide(); });
+addEventListener("resize", () => document.querySelectorAll("textarea").forEach(grow));
+// Filen innehåller bara det som ändrats: för varje fält den gamla och den nya texten, så att morgonjobbet kan se att det rättar rätt text.
+$("save").addEventListener("click", () => {
+  const out = { made: new Date().toISOString(), space: {}, earth: {} };
+  for (const [k, to] of Object.entries(state.edits)) {
+    if (orig[k] === undefined || to === orig[k]) continue;
+    const [id, path] = k.split("|"), [kind, date] = id.split("/");
+    (out[kind][date] = out[kind][date] || { set: {} }).set[path] = { from: orig[k], to: to.trim() };
+  }
+  for (const [id, on] of Object.entries(state.remove)) if (on) { const [kind, date] = id.split("/"); (out[kind][date] = out[kind][date] || { set: {} }).remove = true; }
+  const n = Object.keys(out.space).length + Object.keys(out.earth).length;
+  if (!n) { alert("Det finns inga ändringar att ladda ner än."); return; }
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([JSON.stringify(out, null, 1)], { type: "application/json" }));
+  a.download = "fixes.json"; document.body.appendChild(a); a.click(); a.remove();
+});
+</script>
+</body>
+</html>
