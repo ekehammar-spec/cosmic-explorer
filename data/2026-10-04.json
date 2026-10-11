@@ -34,7 +34,7 @@
         "Cirka 4 000 mil"
       ],
       "correct": 0,
-      "fact": "Internationella rymdstationen befinner sig i låg omloppsbana på omkring 400 kilometers höjd, vilket motsvarar ungefär 250 engelska mil."
+      "fact": "Internationella rymdstationen befinner sig i låg omloppsbana på omkring 400 kilometers höjd."
     },
     {
       "q": "Varför ser jorden mörk ut mellan de lysande fläckarna på natten?",
@@ -50,7 +50,7 @@
   "levels": {
     "barn": "Tänk dig att du tittar ner på jorden från ett jättestort rymdskepp mitt i natten. Städerna ser ut som glittrande diamanter och lysande spindelnät av lampor mot den mörka marken. Det är precis som när man flyger med ett flygplan och ser alla hus ljusa upp i mörkret, fast här är man så högt upp att man kan se hela länder på samma gång.",
     "nyborjare": "Denna vy visar USA nattetid sett från den internationella rymdstationen. De starkt lysande klustren av ljus avslöjar var de stora städerna ligger, med New York i centrum som en av de ljusstarkaste punkterna. När rymdstationen färdas i sin omloppsbana runt jorden färdas den i enorm hastighet och passerar dag och natt flera gånger om dygnet, vilket ger astronauterna unika vyer över vår upplysta planet.",
-    "entusiast": "Bilden är tagen från den internationella rymdstationen som kretsar i en låg omloppsbana ungefär 400 kilometer upp i termosfären. De lysande klustren illustrerar mänsklig aktivitet, energiförbrukning och urbaniseringens utbredning över den nordamerikanska kontinenten. Från detta perspektiv kan forskare studera ljusföroreningar och energianvändning på stor skala, samtidigt som stationens bana ger ett ständigt skiftande perspektiv på jorden som ett sammanlänkat system."
+    "entusiast": "Bilden är tagen från den internationella rymdstationen som kretsar i en låg omloppsbana ungefär 400 kilometer upp i termosfären. De lysande klustren illustrerar mänsklig aktivitet, energiförbrukning och urbaniseringens utbredning över den nordamerikanska kontinenten. Från detta perspektiv kan forskare studera ljusföroreningar och energianvändning i stor skala, samtidigt som stationens bana ger ett ständigt skiftande perspektiv på jorden som ett sammanlänkat system."
   },
   "terms": [
     {

@@ -34,13 +34,13 @@
         "Det visar exakt hur gamla de omgivande stjärnorna är"
       ],
       "correct": 1,
-      "fact": "Infrarött ljus har längre våglängder än det synliga ljuset och kan därför passera genom kosmiskt stoft som annars blockerar sikten."
+      "fact": "Infrarött ljus har längre våglängder än det synliga ljuset och kan därför passera genom kosmiskt stoft, som annars blockerar sikten."
     },
     {
       "q": "Vad händer när massiva stjärnor får slut på bränsle och dör i en supernova?",
       "options": [
         "De drar in alla planeter i en absolut tystnad",
-        "De bildar gigantiska svarta hål som slukar hela galaxer",
+        "De bildar ett gigantiskt svart hål som slukar hela galaxer",
         "De exploderar och formar om sin omgivning samt startar ny stjärnbildning"
       ],
       "correct": 2,
@@ -48,9 +48,9 @@
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättestort moln av färggrann rymdgas och glittrande stoft som svävar långt borta i Vintergatan. Med lite fantasi kan man se mönster som liknar ett rymdmonster, nästan som en gigantisk Godzilla! Det här molnet är egentligen en enorm barnkammare där nya, glödande stjärnor föds ur gas och damm. Det är som ett hemligt lekland i rymden där kosmiska underverk skapas.",
+    "barn": "Tänk dig ett jättestort moln av färggrann rymdgas och glittrande stoft som svävar långt borta i Vintergatan. Med lite fantasi kan man se mönster som liknar ett rymdmonster, nästan som en gigantisk Godzilla! Det här molnet är egentligen en enorm barnkammare där nya, glödande stjärnor föds ur gas och damm. Det är som ett hemligt lekland där kosmiska underverk skapas.",
     "nyborjare": "Den här bilden visar en nebulosa, vilket är ett enormt moln av gas och stoft som befinner sig i vår galax, Vintergatan. Området har fått smeknamnet Godzillanebulosan eftersom formerna i gasen kan likna ett monster. Eftersom molnet är så tätt är det svårt att se rakt igenom det med vanligt ljus. Därför har man använt ett rymdteleskop som känner av infrarött ljus. Infrarött ljus är en typ av osynlig strålning med längre våglängder som kan tränga igenom det täta dammet. Olika färger i bilden representerar olika temperaturer och ämnen, där varmt stoft som värmts upp av stjärnor eller supernovaexplosioner lyser i rött.",
-    "entusiast": "Bilden är fångad av det nu pensionerade Spitzer-teleskopet som en del av GLIMPSE-undersökningen. Den visar en komplex region av interstellärt medium i stjärnbilden Skytten, belägen i Vintergatans galaktiska plan. Regionen innehåller lysande gasmoln och det aktiva området W33 på ett avstånd av omkring 7 800 ljusår från jorden. Med hjälp av infraröd astronomi kan man blicka bortom de täta stoftmoln som helt skymmer sikten i det optiska våglängdsintervallet. Olika våglängder har tilldelats specifika färger: stjärnor syns i blått och cyan på grund av kortare infraröda våglängder, medan kolväten och organiska molekyler framträder i grönt. Det röda ljuset avslöjar varmt stoft som har värmts upp av strålning från massiva stjärnor eller chockvågor från supernovor. När tunga stjärnor avslutar sina liv och exploderar som supernovor omformar de den omgivande miljön, komprimerar material och driver på cykeln för nästa generation av stjärnbildning."
+    "entusiast": "Bilden är fångad av det nu pensionerade Spitzer-teleskopet som en del av GLIMPSE-undersökningen. Den visar en komplex region av interstellärt medium i stjärnbilden Skytten, belägen i Vintergatans galaktiska plan. Regionen innehåller lysande gasmoln och det aktiva området W33 på ett avstånd av omkring 7 800 ljusår från jorden. Med hjälp av infraröd astronomi kan man blicka bortom de täta stoftmoln som helt skymmer sikten i det optiska våglängdsintervallet. Olika våglängder har tilldelats specifika färger: stjärnor syns i blått och cyan på grund av kortare infraröda våglängder, medan kolväten och organiska molekyler framhävs i grönt. Det röda ljuset avslöjar varmt stoft som har värmts upp av strålning från massiva stjärnor eller chockvågor från supernovor. När tunga stjärnor avslutar sina liv och exploderar som supernovor omformar de den omgivande miljön, komprimerar material och driver kretsloppet för nästa generation av stjärnbildning."
   },
   "terms": [
     {

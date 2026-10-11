@@ -28,7 +28,7 @@
         "Stjärnorna kastas omedelbart ut i tomma intet så att galaxerna töms på ljus."
       ],
       "correct": 0,
-      "fact": "Eftersom avstånden mellan stjärnor är enorma passerar de oftast förbi varandra utan att krocka, medan gasmolnen däremot kolliderar och tänder nya stjärnor."
+      "fact": "Eftersom avstånden mellan stjärnor är enorma så passerar de oftast förbi varandra utan att krocka, medan gasmolnen däremot kolliderar och tänder nya stjärnor."
     },
     {
       "q": "Vad kallas det utdragna band av stjärnor och gas som slitits loss vid en galaxkrock?",
@@ -53,7 +53,7 @@
   ],
   "levels": {
     "barn": "Tänk dig att två gigantiska städer av stjärnor krockar ute i rymden! Här ser vi en jättestor galax som slukar en mindre granne, lite som en kosmisk dammsugare. När de krockar kramas gas och rymdstoft ihop så hårt att massor av nya stjärnor tänds. De nyfödda stjärnorna glimmar på rad som ett vackert pärlband på ett snöre. Vanligtvis brukar så här stora galaxer vara gamla och trötta, men den här har fått fullt med ny energi!",
-    "nyborjare": "Bilden visar SpARCS1049+56, en massiv galaxhop som hålls samman av gravitationen. I mitten av hopen ligger en gigantisk galax, men till skillnad från de flesta centralgalaxer föder den nya stjärnor i en rasande takt. Orsaken är att den krockar med en mindre satellitgalax. Den våldsamma gravitationen sliter sönder den lilla galaxen och drar ut en långsträckt tidvattenarm av gas och stjärnor. I denna svans klumpas gasen ihop och skapar pärlband av nyfödda stjärnor. Detta är mycket ovanligt i centrum av galaxhoper, där gasen oftast är för het för stjärnbildning. Bilden kombinerar infrarött ljus från både rymdteleskopet Hubble och rymdteleskopet Spitzer.",
+    "nyborjare": "Bilden visar SpARCS1049+56, en massiv galaxhop som hålls samman av gravitationen. I mitten av hopen ligger en gigantisk centralgalax, men till skillnad från de flesta centralgalaxer föder den nya stjärnor i en rasande takt. Orsaken är att den krockar med en mindre satellitgalax. Den våldsamma gravitationen sliter sönder den lilla galaxen och drar ut en långsträckt tidvattenarm av gas och stjärnor. I denna svans klumpas gasen ihop och skapar pärlband av nyfödda stjärnor. Detta är mycket ovanligt i centrum av galaxhoper där gasen oftast är för het för stjärnbildning. Bilden kombinerar infrarött ljus från både rymdteleskopet Hubble och rymdteleskopet Spitzer.",
     "entusiast": "Galaxhopen SpARCS1049+56 ger en sällsynt inblick i hur centralgalaxer i hopar kan växa genom våldsamma fusioner. Normalt är centralgalaxer mogna och domineras av gamla stjärnor med ytterst lite pågående stjärnbildning, eftersom intrahopgasen värms upp av aktiva galaxkärnor. Här observerar vi dock en extraordinär stjärnbildningshastighet, driven av en kollision med en gasrik satellitgalax. Gravitationella tidvattenkrafter har slitit ut en massiv tidvattenarm som sträcker sig under centralgalaxen. Längs denna arm syns regelbundna förtätningar som kallas beads on a string, orsakade av gravitationell instabilitet i den komprimerade gasen. Denna vy kombinerar observationer i nära infrarött ljus från rymdteleskopet Hubble vid 1,0 och 1,6 mikrometer med data från rymdteleskopet Spitzer vid 3,6 mikrometer. Medan Hubble fångar detaljerade strukturer i tidvattenarmen kartlägger Spitzer den totala stjärnmassan."
   },
   "terms": [

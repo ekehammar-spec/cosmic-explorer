@@ -40,7 +40,7 @@
       "q": "Vilken typ av rymdfarkost tog högupplösta bilder av dessa måndalar?",
       "options": [
         "En landare som rullade runt på ytan",
-        "En rymdteleskop som kretsar kring solen",
+        "Ett rymdteleskop som kretsar kring solen",
         "En bansonder som kretsar runt månen"
       ],
       "correct": 2,

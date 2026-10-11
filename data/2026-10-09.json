@@ -22,7 +22,7 @@
         "Saturnus"
       ],
       "correct": 0,
-      "fact": "Phobos är den största och innersta av Mars två månar."
+      "fact": "Phobos är den största och innersta av Mars båda månar."
     },
     {
       "q": "Vad hände troligen när jättekratern Stickney bildades?",
@@ -48,7 +48,7 @@
   "levels": {
     "barn": "Tänk dig en stor, grå potatis som svävar ute i rymden. Det är månen Phobos som snurrar runt den röda planeten Mars. På den här månen finns ett jättestort hål som kallas Stickneykratern. Hålet är så enormt stort att det ser ut som att månen nästan har gått i tusen bitar. Om du skulle hoppa på den här lilla månen skulle du kunna skutta iväg nästan hur långt som helst eftersom man väger så väldigt lite där.",
     "nyborjare": "Phobos är en av Mars två månar och den har en yta som liknar en asteroid fylld av kratrar. Den största kratern heter Stickney och mäter över nio kilometer i diameter, vilket är nästan hälften av månens egen storlek. Själva nedslaget som skapade kratern var så enormt kraftigt att det var nära att slå sönder hela den lilla månen. Inne i kratern syns spår av att löst material har glidit nedför väggarna, trots att dragningskraften är extremt svag. Forskarna tror att de mystiska fårorna som går över ytan kan bero på tidvattenkrafter när månen rör sig så nära Mars.",
-    "entusiast": "Den avbildade kratern Stickney på den marsianska månen Phobos upptäcktes tillsammans med månen själv av astronomen Asaph Hall år 1877 och har fått sitt namn efter hans fru Chloe Angeline Stickney Hall. Med en diameter på över nio kilometer upptar kratern en betydande del av månen, vars totala diameter endast är omkring tjugo kilometer. HiRISE-kameran ombord på Mars Reconnaissance Orbiter har fångat detaljer i förbifarten, inklusive de ljusblå regionerna nära kraterkanten som indikerar färskt frilagt material samt spår av massrörelser i form av lösa massor som glidit nedför sluttningarna. Ursprunget till månens karaktäristiska fåror förblir ett föremål för vetenskaplig debatt, där teorierna kretsar kring antingen de enorma stötvågorna från kraterbildningen eller mekaniska tidvattenpåkänningar orsakade av månens snäva omloppsbana runt Mars."
+    "entusiast": "Den avbildade kratern Stickney på den marsianska månen Phobos upptäcktes tillsammans med månen själv av astronomen Asaph Hall år 1877 och har fått sitt namn efter hans fru Chloe Angeline Stickney fd. Hall. Med en diameter på över nio kilometer upptar kratern en betydande del av månen, vars genomsnittliga diameter endast är omkring tjugo kilometer. HiRISE-kameran ombord på Mars Reconnaissance Orbiter har fångat detaljer i förbifarten, inklusive de ljusblå regionerna nära kraterkanten som indikerar färskt frilagt material samt spår av massrörelser i form av lösa massor som glidit nedför sluttningarna. Ursprunget till månens karaktäristiska fåror förblir ett föremål för vetenskaplig debatt, där teorierna kretsar kring antingen de enorma stötvågorna från kraterbildningen eller mekaniska tidvattenpåkänningar orsakade av månens snäva omloppsbana runt Mars."
   },
   "terms": [
     {

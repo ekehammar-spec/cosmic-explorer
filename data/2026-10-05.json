@@ -24,7 +24,7 @@
         "Det beror på att jordens atmosfär bryter stjärnljuset i vågor under natten."
       ],
       "correct": 1,
-      "fact": "Medan kamerans slutare är öppen under en längre tid roterar jorden, vilket gör att stjärnorna lämnar långa ljusspår på bilden."
+      "fact": "Medan kamerans slutare är öppen under en längre tid roterar jorden, vilket gör att stjärnorna lämnar långa ljusspår efter sig på bilden."
     },
     {
       "q": "Vad är det som orsakar de gula ljusen som syns i mönstret längst ned på bilden över landmassorna?",
@@ -49,7 +49,7 @@
   ],
   "levels": {
     "barn": "Tänk dig att du snurrar runt med en ficklampa i ett mörkt rum och lyser mot väggen. Då flyttar sig ljuspunkten snabbt över väggen. Ungefär så gör jorden när den snurrar runt i rymden! Om en kamera tittar ut mot stjärnorna medan jorden snurrar, hinner stjärnornas ljus måla långa streck över bilden. Längst ner syns också små ljusprickar från städer och fiskebåtar på jorden.",
-    "nyborjare": "När man tar ett fotografi med en lång slutartid från rymden fångas ljuset under en längre stund. Eftersom jorden roterar kring sin egen axel ser det ut som att stjärnorna rör sig över himlen och lämnar efter sig spår av ljus. På bilden syns dessa stjärnspår sväva högt ovanför jordens krökning. Längre ner glimrar gula ljus från städer och blå sken från fiskebåtar som guppar på haven i mörkret.",
+    "nyborjare": "När man tar ett fotografi med en lång slutartid från rymden fångas ljuset under en längre tid. Eftersom jorden roterar kring sin egen axel ser det ut som att stjärnorna rör sig över himlen och lämnar efter sig spår av ljus. På bilden syns dessa stjärnspår sväva högt ovanför jordens krökning. Längre ner glimrar gula ljus från städer och blå sken från fiskebåtar som guppar på haven i mörkret.",
     "entusiast": "Denna långtidsexponerade bild illustrerar tydligt den visuella effekten av jordens rotation sett från rymden. När en kamera ombord på den internationella rymdstationen riktas mot horisonten med öppen slutare under en längre tidsperiod, ritar jordens rotation ut stjärnornas sken som cirkulörare banor eller streck. Ovanför atmosfärens tunna, självlysande skikt framträder rymdens svärta. Längre ned på jordytan urskiljs de gula ljusen från urbana ljuskällor samt de distinkta blå ljusen från fiskeflottor som verkar på haven, vilket skapar en fascinerande kontrast mellan naturliga kosmiska mönster och mänsklig aktivitet."
   },
   "terms": [
