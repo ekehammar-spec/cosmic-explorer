@@ -515,7 +515,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <div class="eyebrow">Dina uppgifter</div>
       <p>Din samling sparas bara på den här enheten. Appen har inga konton, ingen reklam och samlar inte in något om dig.</p>
     </div>
-    <p class="ver">Version 11 okt I</p>
+    <p class="ver">Version 11 okt J</p>
   </section>
 
   <section id="sky" class="page" hidden>
@@ -566,12 +566,12 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <div class="muted" id="stormText" style="font-size:.9rem;margin-top:4px"></div>
     </div>
     <div class="card" id="nowCard" hidden>
-      <div class="eyebrow">Just nu på jorden</div>
+      <div class="eyebrow">Aktuellt på jorden</div>
       <div class="events" id="nowList"></div>
       <p class="note">Pågående naturhändelser som NASA följer från rymden. Uppgifterna ger en översikt och är ingen officiell varning.</p>
     </div>
     <div class="card" id="launchCard" hidden>
-      <div class="eyebrow">Nästa uppskjutningar</div>
+      <div class="eyebrow">Kommande uppskjutningar</div>
       <div class="events" id="launches"></div>
       <p class="note">Tider i svensk tid och kan ändras med kort varsel. Källa: The Space Devs.</p>
     </div>
@@ -604,7 +604,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
-<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt I</span></footer>
+<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt J</span></footer>
 
 <div id="lightbox" hidden><img alt=""></div>
 <div id="placeScrim"></div>
@@ -768,9 +768,9 @@ const EN = {
   "Kommande på himlen": "Coming up in the sky",
   "Meteorregnens toppnätter kan skifta ett dygn mellan åren. Förmörkelsernas tider gäller Stockholm.": "Peak nights for meteor showers can shift by a day from year to year. Eclipse times are for Stockholm, Sweden.",
   "Rymdväder": "Space weather",
-  "Just nu på jorden": "Right now on Earth", "i går": "yesterday",
+  "Aktuellt på jorden": "Happening on Earth", "i går": "yesterday",
   "Pågående naturhändelser som NASA följer från rymden. Uppgifterna ger en översikt och är ingen officiell varning.": "Ongoing natural events that NASA tracks from space. The details give an overview and are not an official warning.",
-  "Nästa uppskjutningar": "Upcoming launches",
+  "Kommande uppskjutningar": "Upcoming launches",
   "Tider i svensk tid och kan ändras med kort varsel. Källa: The Space Devs.": "Times are in your local time and can change at short notice. Source: The Space Devs.",
   "Stora solförmörkelser": "Major solar eclipses",
   "Varaktigheten gäller där förmörkelsen är som längst.": "Durations are for where the eclipse lasts longest.",
@@ -1407,7 +1407,7 @@ async function loadLaunches() {
   clipList("launches", 3);
   $("launchCard").hidden = false;
 }
-// Just nu på jorden: pågående naturhändelser ur NASA:s tjänst EONET. Morgonjobbet hämtar och sparar listan en gång om dagen.
+// Aktuellt på jorden: pågående naturhändelser ur NASA:s tjänst EONET. Morgonjobbet hämtar och sparar listan en gång om dagen.
 const NOW_ICON = {
   storm: '<path d="M12 12m-2.6 0a2.6 2.6 0 1 0 5.2 0a2.6 2.6 0 1 0 -5.2 0"/><path d="M12 3.5c4.7 0 8.5 3.8 8.5 8.5"/><path d="M12 20.5c-4.7 0-8.5-3.8-8.5-8.5"/>',
   fire: '<path d="M12 21c-3.6 0-6-2.5-6-5.8 0-2.6 1.7-4.3 2.9-6 .5 1.4 1.3 2.1 2.1 2.4C10.6 8 11.6 5 14 3c0 3.2 4 5.4 4 10.2C18 18.5 15.6 21 12 21z"/>',
