@@ -281,6 +281,37 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .sunfact { margin-top: 2px; padding: 14px 16px; border-radius: 16px; background: rgba(255, 210, 122, .06); border: 1px solid rgba(255, 210, 122, .18); }
 .sunfact p { margin: 6px 0 10px; }
 .sunfact button { font: 600 .82rem var(--body); color: var(--text); background: var(--surface); border: 1px solid var(--hairline); border-radius: 999px; padding: 7px 14px; }
+/* Ort */
+.placebtn { align-self: center; display: inline-flex; align-items: center; gap: 6px; margin: -6px 0 0; padding: 5px 12px 5px 10px; border-radius: 999px; border: 1px solid rgba(201, 195, 230, .3); background: rgba(201, 195, 230, .07); color: #c9c3e6; font: 600 .84rem var(--body); }
+.placebtn svg { width: 13px; height: 13px; }
+.placebtn i { font-style: normal; opacity: .7; }
+#placeScrim { position: fixed; z-index: 20; inset: 0; background: rgba(0, 0, 0, .55); opacity: 0; pointer-events: none; transition: opacity .3s; }
+#placeScrim.open { opacity: 1; pointer-events: auto; }
+#placeSheet { position: fixed; z-index: 21; left: 50%; bottom: 0; width: min(640px, 100%); height: min(78svh, 640px); transform: translate(-50%, 104%); transition: transform .38s var(--ease); visibility: hidden;
+  display: flex; flex-direction: column; padding: 8px 20px calc(env(safe-area-inset-bottom, 0px) + 16px); border-radius: 28px 28px 0 0; background: #12141b; border: 1px solid var(--hairline); border-bottom: 0; }
+#placeSheet.open { transform: translate(-50%, 0); visibility: visible; }
+#placeSheet .grab { align-self: center; width: 44px; height: 22px; padding: 0; background: none; border: 0; position: relative; }
+#placeSheet .grab::after { content: ""; position: absolute; left: 3px; right: 3px; top: 8px; height: 4px; border-radius: 2px; background: rgba(255, 255, 255, .22); }
+#placeSheet h3 { font: 600 1.15rem var(--display); margin: 4px 0 12px; }
+#placeSheet input { width: 100%; font: 400 1rem var(--body); color: var(--text); background: var(--surface); border: 1px solid var(--hairline); border-radius: 14px; padding: 11px 14px; }
+#placeList { flex: 1; overflow-y: auto; margin-top: 6px; -webkit-overflow-scrolling: touch; }
+#placeList small { display: block; font: 600 .64rem var(--body); letter-spacing: .16em; text-transform: uppercase; color: var(--muted); margin: 14px 0 2px; }
+#placeList button { display: flex; justify-content: space-between; width: 100%; text-align: left; font: 500 1rem var(--body); color: var(--text); background: none; border: 0; border-bottom: 1px solid var(--hairline); border-radius: 0; padding: 13px 2px; }
+#placeList button[aria-pressed="true"] { color: #c9c3e6; }
+#placeList button[aria-pressed="true"]::after { content: "✓"; }
+#placeSheet .note { margin: 10px 0 0; font-size: .78rem; color: var(--muted); }
+/* Om-sidan */
+.aboutrow { display: flex; align-items: center; justify-content: space-between; margin-top: 22px; padding: 15px 18px; border-radius: 18px; background: var(--surface); border: 1px solid var(--hairline); color: var(--text); text-decoration: none; font-weight: 600; }
+.aboutrow small { display: block; font-weight: 400; color: var(--muted); font-size: .8rem; }
+.aboutrow i { font-style: normal; color: var(--muted); }
+#about { gap: 10px; }
+#about .back { color: var(--muted); text-decoration: none; font-weight: 600; font-size: .86rem; }
+#about h2 { margin-bottom: 6px; }
+#about .card p { margin: 8px 0 0; font-size: .94rem; color: #d6d4cf; }
+#about .eyebrow { margin-bottom: 2px; }
+.seg.wide { margin: 10px 0 2px; }
+.seg.wide button { flex: 1; }
+.ver { text-align: center; color: var(--muted); font-size: .76rem; margin: 10px 0 0; }
 /* Mellanrubrik med kometlinje */
 #sky { gap: 10px; }
 .sec { display: flex; align-items: center; gap: 14px; margin: 30px 0 10px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
@@ -448,10 +479,44 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <button id="onlyNew" aria-pressed="false">Oupptäckta</button>
     </div>
     <div id="grid"></div>
+    <a class="aboutrow" href="#om"><span>Om Andromeda Arc<small>Språk, källor och hur appen fungerar</small></span><i>›</i></a>
+  </section>
+
+  <section id="about" class="page" hidden>
+    <a class="back" href="#arkiv">‹ Arkiv</a>
+    <h2>Om Andromeda Arc</h2>
+    <div class="card">
+      <div class="eyebrow">Språk</div>
+      <div class="seg wide" id="langSeg"><button data-l="sv" aria-pressed="false">Svenska</button><button data-l="en" aria-pressed="false">English</button></div>
+    </div>
+    <div class="card">
+      <div class="eyebrow">Vad är det här?</div>
+      <p>En ny bild från rymden varje dag, med tre frågor som låter dig gissa vad du ser innan du får veta.</p>
+      <p>Här finns också himlen i natt, planeterna där de står just nu och jorden sedd från rymden.</p>
+    </div>
+    <div class="card">
+      <div class="eyebrow">Bilderna</div>
+      <p>Alla bilder kommer från NASA och är tagna av NASA:s egna teleskop, rymdsonder och satelliter. Upphovet står under varje bild.</p>
+      <p>Andromeda Arc är ett fristående projekt och har ingen koppling till NASA.</p>
+    </div>
+    <div class="card">
+      <div class="eyebrow">Texterna</div>
+      <p>Frågor och förklaringar skrivs av AI utifrån NASA:s egna beskrivningar. Det kan bli fel ibland.</p>
+    </div>
+    <div class="card">
+      <div class="eyebrow">Himlen och solsystemet</div>
+      <p>Månens faser och planeternas lägen räknas ut i appen. Norrskensprognosen kommer från NOAA och uppskjutningarna från The Space Devs. Norrsken och mörker räknas för den ort du väljer på Himlen. Förmörkelsernas tider gäller Stockholm.</p>
+    </div>
+    <div class="card">
+      <div class="eyebrow">Dina uppgifter</div>
+      <p>Din samling sparas bara på den här enheten. Appen har inga konton, ingen reklam och samlar inte in något om dig.</p>
+    </div>
+    <p class="ver">Version 11 okt H</p>
   </section>
 
   <section id="sky" class="page" hidden>
     <h2>Himlen</h2>
+    <button class="placebtn" id="placeBtn" aria-label="Byt ort"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.4"/></svg><span id="placeName"></span><i>›</i></button>
     <p class="skydate" id="skyDate"></p>
     <div class="jump" id="jump">
       <button data-to="sky1" aria-current="true">Himlen i natt</button>
@@ -463,6 +528,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
     <div class="card sum" id="sum">
       <button data-to="moonCard"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="7" opacity=".5"/><path id="sumMoonLit" d="" fill="currentColor"/></svg><span><b id="sumMoon"></b><small id="sumMoonText"></small></span><i>›</i></button>
       <button data-to="aurora" id="sumAurora" hidden><svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" aria-hidden="true"><path d="M10 70 Q30 20 50 55 T90 35"/><path d="M14 90 Q34 50 54 78 T90 62" opacity=".5"/></svg><span><b id="sumAuroraHead"></b><small id="sumAuroraText"></small></span><i>›</i></button>
+      <button data-to="sky1"><svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" aria-hidden="true"><path d="M10 72 H90" opacity=".5"/><path d="M26 72 A24 24 0 0 1 74 72"/><path d="M50 18 V30 M18 40 L27 48 M82 40 L73 48" opacity=".5"/></svg><span><b id="sumDarkHead"></b><small id="sumDarkText"></small></span><i></i></button>
       <button data-to="sky2"><svg viewBox="0 0 100 100" aria-hidden="true"><path d="M12 14 L70 72" stroke="currentColor" stroke-width="8" stroke-linecap="round" opacity=".5"/><path d="M74 54 Q76 70 92 74 Q76 78 74 94 Q72 78 56 74 Q72 70 74 54Z" fill="currentColor"/></svg><span><b id="sumMeteor"></b><small>Nästa meteorregn</small></span><i>›</i></button>
     </div>
     <div class="card moon" id="moonCard">
@@ -529,9 +595,17 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
-<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt E</span></footer>
+<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt H</span></footer>
 
 <div id="lightbox" hidden><img alt=""></div>
+<div id="placeScrim"></div>
+<div id="placeSheet" role="dialog" aria-label="Välj ort">
+  <button class="grab" id="placeClose" aria-label="Stäng"></button>
+  <h3>Var tittar du ifrån?</h3>
+  <input type="search" id="placeSearch" placeholder="Sök ort" aria-label="Sök ort" autocomplete="off">
+  <div id="placeList"></div>
+  <p class="note">Orten sparas bara på den här enheten.</p>
+</div>
 
 
 <script>
@@ -545,15 +619,272 @@ const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 // Putsar text från äldre sparade dagar: dubbla "Image Credit" och ordet rovare (ska vara rover).
 const tidyCredit = c => String(c || "NASA").replace(/^\s*(image\s+)?credits?\s*(&|and)?\s*(copyright)?\s*:\s*/i, "")
-  .replace(/NASA Earth Observatory images? (?:created )?by\s+/i, "NASA Earth Observatory / ").replace(/,?\s+using\b.*$/i, "").replace(/\s+and\s+/g, " och ").trim() || "NASA";
+  .replace(/NASA Earth Observatory images? (?:created )?by\s+/i, "NASA Earth Observatory / ").replace(/,?\s+using\b.*$/i, "").replace(/\s+and\s+/g, lang === "en" ? " and " : " och ").trim() || "NASA";
 // Städar AI-texten: "rovare" blir "rover", och enstaka tecken ur andra skriftsystem som smugit sig in mitt i ord tas bort.
 const tidy = t => String(t).replace(/[\u0400-\u052f\u0590-\u06ff\u0900-\u0dff\u0e00-\u0eff\u1100-\u11ff\u2e80-\u9fff\ua960-\ua97f\uac00-\ud7ff\uf900-\ufaff\uff00-\uffef]+/g, "")
   .replace(/([Rr])ovare(n|ns|)(?![a-zåäö])/g, "$1over$2");
-const niceDate = d => new Date(d + "T12:00:00").toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" });
+const niceDate = d => new Date(d + "T12:00:00").toLocaleDateString(loc, { day: "numeric", month: "long", year: "numeric" });
 const store = {
   get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
 };
+
+
+/* ---------- Språk ---------- */
+// Svenska är grundspråket i koden. Engelska slås upp i tabellen EN, med den svenska texten som nyckel.
+// Appen följer telefonens språk (svenska för svensk telefon, engelska för alla andra) tills man själv väljer på Om-sidan.
+const lang = (() => {
+  const saved = store.get("aa-lang", null);
+  if (saved === "sv" || saved === "en") return saved;
+  return String(navigator.language || "sv").toLowerCase().startsWith("sv") ? "sv" : "en";
+})();
+const loc = lang === "en" ? "en-GB" : "sv-SE";
+document.documentElement.lang = lang;
+const EN = {
+  // Landningen och frågorna
+  "Visa bilden i helskärm": "Show the picture full screen",
+  "Vad är det vi ser?": "What are we looking at?",
+  "En ny bild från rymden varje dag. Svara på tre frågor så får du veta vad den visar.": "A new picture from space every day. Answer three questions to find out what it shows.",
+  "Lär dig mer": "Learn more",
+  "Hur vill du läsa om bilden?": "How would you like to read about it?",
+  "För unga rymdhjältar": "For young space heroes",
+  "För unga jordspanare": "For young Earth spotters",
+  "Nybörjare": "Beginner",
+  "Djupdykning": "Deep dive",
+  "Välj en nivå.": "Choose a level.",
+  "Fortsätt utforska": "Keep exploring",
+  "Jordbilderna är på väg": "Earth pictures are on their way",
+  "Den här dagen finns inte i arkivet än": "This day isn't in the archive yet",
+  "Den första visas här när morgonjobbet har kört.": "The first one will appear here soon.",
+  "Dagens bild från NASA": "Today's picture from NASA",
+  "Bilden gick inte att ladda.": "The picture couldn't be loaded.",
+  "Ur arkivet": "From the archive",
+  "Bild": "Image",
+  "Öppna videon": "Open the video",
+  "Fråga {a} av {b}": "Question {a} of {b}",
+  "Rätt!": "Correct!",
+  "Inte riktigt.": "Not quite.",
+  "Visa vad bilden föreställer": "Show what the picture is",
+  "Nästa fråga": "Next question",
+  "Full pott, du är en riktig rymdhjälte!": "Full marks, you're a true space hero!",
+  "Bra jobbat!": "Well done!",
+  "Nu vet du mer än nyss, och det är det som räknas.": "You know more now than you did a minute ago, and that's what counts.",
+  "I din samling": "In your collection",
+  "Klart": "Done",
+  "{r} av {n} rätt": "{r} of {n} correct",
+  "Du har redan upptäckt den här bilden.": "You've already discovered this picture.",
+  "Bilden ligger nu i din samling.": "The picture is now in your collection.",
+  "Dagens bild": "Today's picture",
+  "Rymdbilden med trivia": "The space picture with questions",
+  "Nästa oupptäckta bild": "Next undiscovered picture",
+  "Månen just nu och kommande händelser": "The Moon right now and what's coming up",
+  "Planeterna där de står i dag": "The planets where they are today",
+  "Hela arkivet": "The whole archive",
+  "{a} av {b} upptäckta": "{a} of {b} discovered",
+  // Flikarna
+  "Huvudmeny": "Main menu",
+  "Dagens": "Today",
+  "Himlen": "Sky",
+  "Solsystemet": "Solar system",
+  "Jorden": "Earth",
+  "Arkiv": "Archive",
+  // Arkivet
+  "Välj arkiv": "Choose archive",
+  "Rymden": "Space",
+  "En ny bild varje dag. De du inte har upptäckt är suddiga tills du har klarat trivian.": "A new picture every day. The ones you haven't discovered stay blurred until you've answered the questions.",
+  "Sök bland bilderna": "Search the pictures",
+  "Oupptäckta": "Undiscovered",
+  "Oupptäckt": "Undiscovered",
+  "1 bild av jorden från rymden.": "1 picture of Earth from space.",
+  "{n} bilder av jorden från rymden.": "{n} pictures of Earth from space.",
+  "Här finns inget att låsa upp, bara att titta.": "Nothing to unlock here, just look.",
+  "Din samling: {a} av {b} bilder upptäckta. De övriga är suddiga tills du har klarat trivian.": "Your collection: {a} of {b} pictures discovered. The rest stay blurred until you've answered the questions.",
+  "Inga bilder matchar.": "No pictures match.",
+  "1 bild": "1 picture",
+  "{n} bilder": "{n} pictures",
+  "Visa äldre": "Show older",
+  // Om-sidan
+  "Om Andromeda Arc": "About Andromeda Arc",
+  "Språk, källor och hur appen fungerar": "Language, sources and how the app works",
+  "‹ Arkiv": "‹ Archive",
+  "Språk": "Language",
+  "Vad är det här?": "What is this?",
+  "En ny bild från rymden varje dag, med tre frågor som låter dig gissa vad du ser innan du får veta.": "A new picture from space every day, with three questions that let you guess what you are looking at before you find out.",
+  "Här finns också himlen i natt, planeterna där de står just nu och jorden sedd från rymden.": "You will also find tonight's sky, the planets where they are right now, and Earth seen from space.",
+  "Bilderna": "The pictures",
+  "Alla bilder kommer från NASA och är tagna av NASA:s egna teleskop, rymdsonder och satelliter. Upphovet står under varje bild.": "Every picture comes from NASA, taken by NASA's own telescopes, spacecraft and satellites. The credit is shown under each one.",
+  "Andromeda Arc är ett fristående projekt och har ingen koppling till NASA.": "Andromeda Arc is an independent project and is not affiliated with NASA.",
+  "Texterna": "The texts",
+  "Frågor och förklaringar skrivs av AI utifrån NASA:s egna beskrivningar. Det kan bli fel ibland.": "Questions and explanations are written by AI from NASA's own descriptions. Mistakes can happen.",
+  "Himlen och solsystemet": "The sky and the solar system",
+  "Månens faser och planeternas lägen räknas ut i appen. Norrskensprognosen kommer från NOAA och uppskjutningarna från The Space Devs. Norrsken och mörker räknas för den ort du väljer på Himlen. Förmörkelsernas tider gäller Stockholm.": "Moon phases and planet positions are calculated in the app. The aurora forecast comes from NOAA and the launches from The Space Devs. Aurora and darkness are worked out for the place you choose on the Sky page. Eclipse times are for Stockholm, Sweden.",
+  // Ort
+  "Byt ort": "Change place", "Välj ort": "Choose place", "Stäng": "Close", "Var tittar du ifrån?": "Where are you watching from?", "Sök ort": "Search place",
+  "Orten sparas bara på den här enheten.": "Your place is stored only on this device.", "Ingen ort matchar.": "No place matches.",
+  "Sverige": "Sweden", "Norden": "Nordic countries", "Europa": "Europe", "Världen": "World",
+  "Solen går inte ner i natt": "The Sun doesn't set tonight", "Midnattssol": "Midnight sun", "Mörkt hela dygnet": "Dark all day", "Solen går inte upp i dag": "The Sun doesn't rise today",
+  "Ljus natt": "Bright night", "Solen går ner {t}, men det blir aldrig riktigt mörkt": "The Sun sets at {t}, but it never gets properly dark",
+  "Mörkt från {t}": "Dark from {t}", "Solen går ner {t}": "The Sun sets at {t}",
+  "Norrsken syns inte i natt": "No aurora to see tonight", "Goda chanser till norrsken i natt": "Good chance of aurora tonight", "Norrsken syns knappast hos dig i natt": "Aurora unlikely where you are tonight",
+  "Natten är för ljus hos dig": "The night is too bright where you are", "Kan synas högt på himlen": "May be visible high in the sky",
+  "Titta lågt mot söder, på en mörk plats": "Look low to the south, from a dark place", "Titta lågt mot norr, på en mörk plats": "Look low to the north, from a dark place",
+  "Aktiviteten är förhöjd, men det syns längre söderut": "Activity is raised, but it shows further south", "Aktiviteten är förhöjd, men det syns längre norrut": "Activity is raised, but it shows further north",
+  "Syns inte hos dig i natt": "Not visible where you are tonight",
+  "För ljust i natt": "Too bright tonight", "Goda chanser": "Good chance", "Möjligt lågt i söder": "Possible low in the south", "Möjligt lågt i norr": "Possible low in the north", "Syns inte här i natt": "Not visible here tonight",
+  "Hos dig blir natten inte mörk nog för att norrsken ska synas.": "Where you are, the night doesn't get dark enough for aurora to show.",
+  "Hos dig kan norrskenet stå högt på himlen om det är klart.": "Where you are, the aurora may stand high in the sky if it is clear.",
+  "Hos dig kan norrsken synas som ett sken nära horisonten i söder.": "Where you are, aurora may show as a glow near the southern horizon.",
+  "Hos dig kan norrsken synas som ett sken nära horisonten i norr.": "Where you are, aurora may show as a glow near the northern horizon.",
+  "Norrskenet når inte så långt norrut som till dig.": "The aurora doesn't reach as far north as you.",
+  "Norrskenet når inte så långt söderut som till dig.": "The aurora doesn't reach as far south as you.",
+  "Dina uppgifter": "Your data",
+  "Din samling sparas bara på den här enheten. Appen har inga konton, ingen reklam och samlar inte in något om dig.": "Your collection is stored only on this device. The app has no accounts, no ads, and collects nothing about you.",
+  "Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning.": "Pictures from NASA. Questions and texts are written by AI from NASA's descriptions.",
+  // Himlen
+  "Himlen i natt": "Tonight",
+  "Kommande": "Coming up",
+  "Ute i världen": "Around the world",
+  "Nästa meteorregn": "Next meteor shower",
+  "Månen i dag": "The Moon today",
+  "Fullmåne": "Full moon",
+  "Nymåne": "New moon",
+  "Tilltagande skära": "Waxing crescent",
+  "Första kvarteret": "First quarter",
+  "Tilltagande måne": "Waxing gibbous",
+  "Avtagande måne": "Waning gibbous",
+  "Sista kvarteret": "Last quarter",
+  "Avtagande skära": "Waning crescent",
+  "Norrsken i natt": "Aurora tonight",
+  "Prognos från amerikanska vädermyndigheten NOAA. Det krävs också mörker och klar himmel.": "Forecast from the US weather agency NOAA. You also need darkness and a clear sky.",
+  "Kommande på himlen": "Coming up in the sky",
+  "Meteorregnens toppnätter kan skifta ett dygn mellan åren. Förmörkelsernas tider gäller Stockholm.": "Peak nights for meteor showers can shift by a day from year to year. Eclipse times are for Stockholm, Sweden.",
+  "Rymdväder": "Space weather",
+  "Nästa uppskjutningar": "Upcoming launches",
+  "Tider i svensk tid och kan ändras med kort varsel. Källa: The Space Devs.": "Times are in your local time and can change at short notice. Source: The Space Devs.",
+  "Stora solförmörkelser": "Major solar eclipses",
+  "Varaktigheten gäller där förmörkelsen är som längst.": "Durations are for where the eclipse lasts longest.",
+  "i dag": "today",
+  "i morgon": "tomorrow",
+  "i natt": "tonight",
+  "om {n} dagar": "in {n} days",
+  "Visa färre": "Show fewer",
+  "Visa {n} till": "Show {n} more",
+  "{n} % belyst": "{n}% lit",
+  "Mörk himmel i natt": "Dark sky tonight",
+  "Ljus natt, månen lyser starkt": "Bright night, the Moon is shining strongly",
+  "Månen är {n} % belyst": "The Moon is {n}% lit",
+  "Månen går upp i öster vid solnedgången": "The Moon rises in the east at sunset",
+  "Mörkast himmel, bäst för stjärnor och norrsken": "The darkest sky, best for stars and aurora",
+  "Meteorregn": "Meteor shower",
+  "Kvadrantiderna": "Quadrantids",
+  "Lyriderna": "Lyrids",
+  "Eta-akvariderna": "Eta Aquariids",
+  "Perseiderna": "Perseids",
+  "Orioniderna": "Orionids",
+  "Leoniderna": "Leonids",
+  "Geminiderna": "Geminids",
+  "Ursiderna": "Ursids",
+  "Kort men intensiv topp, upp till 100 meteorer i timmen": "A short but intense peak, up to 100 meteors an hour",
+  "Runt 15 meteorer i timmen": "Around 15 meteors an hour",
+  "Rester av Halleys komet, syns lågt från Sverige": "Debris from Halley's Comet, low in the sky from Sweden",
+  "Årets mest kända, upp till 100 meteorer i timmen": "The best known of the year, up to 100 meteors an hour",
+  "Rester av Halleys komet, runt 20 meteorer i timmen": "Debris from Halley's Comet, around 20 meteors an hour",
+  "Snabba meteorer, runt 15 i timmen": "Fast meteors, around 15 an hour",
+  "Årets rikaste, över 100 meteorer i timmen": "The richest of the year, more than 100 meteors an hour",
+  "Ett litet regn, runt 10 meteorer i timmen": "A minor shower, around 10 meteors an hour",
+  "Mörk himmel utan måne.": "Dark sky with no Moon.",
+  "Månen stör en del.": "The Moon interferes somewhat.",
+  "Starkt månljus stör.": "Bright moonlight interferes.",
+  "Partiell solförmörkelse": "Partial solar eclipse",
+  "Månen täcker runt 13 % av solen, störst kl. 11.19. Titta aldrig utan solförmörkelseglasögon.": "The Moon covers about 13% of the Sun, greatest at 11:19 in Stockholm. Never look without eclipse glasses.",
+  "Total månförmörkelse": "Total lunar eclipse",
+  "Månen blir mörkröd kl. 17.15–18.28, på nyårsafton": "The Moon turns dark red from 17:15 to 18:28 Stockholm time, on New Year's Eve",
+  "Ringformig solförmörkelse": "Annular solar eclipse",
+  "Total solförmörkelse": "Total solar eclipse",
+  "Chile, Argentina och Atlanten. En ring av sol runt månen i upp till 7 min 51 s.": "Chile, Argentina and the Atlantic. A ring of Sun around the Moon for up to 7 min 51 s.",
+  "Spanien, Marocko, Algeriet, Tunisien, Libyen, Egypten, Saudiarabien, Jemen och Somalia. Upp till 6 min 23 s, en av århundradets längsta.": "Spain, Morocco, Algeria, Tunisia, Libya, Egypt, Saudi Arabia, Yemen and Somalia. Up to 6 min 23 s, one of the longest of the century.",
+  "Ecuador, Peru, Colombia, Brasilien, Portugal och Spanien. Upp till 10 min 27 s.": "Ecuador, Peru, Colombia, Brazil, Portugal and Spain. Up to 10 min 27 s.",
+  "Australien och Nya Zeeland, bland annat över Sydney. Upp till 5 min 10 s.": "Australia and New Zealand, including over Sydney. Up to 5 min 10 s.",
+  "Mycket stark aktivitet": "Very strong activity",
+  "Stark aktivitet": "Strong activity",
+  "Förhöjd aktivitet": "Elevated activity",
+  "Viss aktivitet": "Some activity",
+  "Måttlig aktivitet": "Moderate activity",
+  "Lugnt": "Quiet",
+  "Norrsken kan synas i hela landet, ända ner till Skåne.": "Aurora may be visible across all of Sweden, as far south as Skåne.",
+  "Norrsken kan synas ner till Götaland.": "Aurora may be visible as far south as southern Sweden.",
+  "Norrsken kan synas ner till Mälardalen.": "Aurora may be visible as far south as the Stockholm region.",
+  "Norrsken kan synas i Norrland och ibland i norra Svealand.": "Aurora may be visible in northern Sweden and sometimes further south.",
+  "Norrsken kan synas i norra och mellersta Norrland.": "Aurora may be visible in the northern half of Sweden.",
+  "Norrsken syns bara längst i norr, om alls.": "Aurora is only visible in the far north, if at all.",
+  "Kp-index {kp} av 9.": "Kp index {kp} of 9.",
+  "Norrsken möjligt i natt": "Aurora possible tonight",
+  "Lugnt norrsken": "Quiet aurora",
+  "Svag": "Minor",
+  "Måttlig": "Moderate",
+  "Stark": "Strong",
+  "Mycket stark": "Severe",
+  "Extrem": "Extreme",
+  "{name} solstorm väntas (G{g})": "{name} solar storm expected (G{g})",
+  "Störst väntas den {date}. Solen har slungat ut laddade partiklar som skakar jordens magnetfält, vilket kan ge norrsken ovanligt långt söderut.": "Expected to peak on {date}. The Sun has flung out charged particles that shake Earth's magnetic field, which can bring aurora unusually far south.",
+  "Lugnt rymdväder": "Quiet space weather",
+  "Inga solstormar väntas de närmaste dygnen. Högsta väntade Kp-index är {kp} av 9.": "No solar storms are expected in the next few days. The highest expected Kp index is {kp} of 9.",
+  // Solsystemet
+  "Solen och planeterna där de står just nu, sedda ovanifrån. Avstånden är hoptryckta för att allt ska få plats.": "The Sun and the planets where they are right now, seen from above. Distances are compressed so that everything fits.",
+  "Planeternas lägen runt solen": "Positions of the planets around the Sun",
+  "I dag": "Today",
+  "Spola tiden, dagar från i dag": "Move through time, days from today",
+  "Spola": "Play",
+  "{n} dagar framåt": "{n} days ahead",
+  "{n} dagar bakåt": "{n} days back",
+  "{km} miljoner km från jorden. Ljuset behöver {min} minuter för att nå oss. Titta aldrig rakt på solen, varken med blotta ögat eller i kikare.": "{km} million km from Earth. Its light takes {min} minutes to reach us. Never look straight at the Sun, with the naked eye or through binoculars.",
+  "{km} miljoner km från solen. Ljuset därifrån behöver {min} minuter för att nå hit.": "{km} million km from the Sun. Sunlight takes {min} minutes to get here.",
+  "Står för nära solen för att synas.": "Too close to the Sun to be seen.",
+  "Står mitt emot solen och kan ses större delen av natten.": "Opposite the Sun and visible for most of the night.",
+  "Står öster om solen och kan ses på kvällen, efter solnedgången.": "East of the Sun and visible in the evening, after sunset.",
+  "Står väster om solen och kan ses på morgonen, före soluppgången.": "West of the Sun and visible in the morning, before sunrise.",
+  "{km} miljoner km från jorden. Ljuset behöver {t} för att nå oss.": "{km} million km from Earth. Light takes {t} to reach us.",
+  "{n} minuter": "{n} minutes",
+  "{n} timmar": "{n} hours",
+  "Du behöver kikare eller teleskop.": "You need binoculars or a telescope.",
+  "Stjärna": "Star",
+  "Ålder": "Age",
+  "Yttemperatur": "Surface temperature",
+  "Ett varv": "One rotation",
+  "1,39 miljoner km": "1.39 million km",
+  "4,6 miljarder år": "4.6 billion years",
+  "cirka 5 500 °C": "about 5,500 °C",
+  "25 dygn vid ekvatorn": "25 days at the equator",
+  "Visste du?": "Did you know?",
+  "En till": "Another one",
+  "Ett dygn": "One day",
+  "Ett år": "One year",
+  "Månar": "Moons",
+  "Just nu": "Right now",
+  "Den här dagen": "On this day"
+};
+const L = s => (lang === "en" && Object.prototype.hasOwnProperty.call(EN, s)) ? EN[s] : s;
+const F = (s, o) => L(s).replace(/\{(\w+)\}/g, (m, k) => o[k]);
+const dec = s => lang === "en" ? s : String(s).replace(".", ",");
+// Titel och plats på rätt språk. Dagens fil har engelsk originaltitel i "title" och svensk i "title_sv"; i listorna heter de "title" (svensk) och "title_en".
+const titleOf = d => lang === "en" ? (d.title_en || d.title) : (d.title_sv || d.title);
+const placeOf = d => lang === "en" ? (d.place_en || (d.en && d.en.place) || d.place) : d.place;
+// Frågor, nivåtexter och ordförklaringar på rätt språk, med svenskan som reserv om den engelska delen saknas.
+const part = k => (lang === "en" && day && day.en && day.en[k]) || (day && day[k]);
+// De fasta texterna i sidan översätts en gång vid start.
+(function () {
+  if (lang !== "en") return;
+  const walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+  const nodes = []; while (walk.nextNode()) nodes.push(walk.currentNode);
+  for (const n of nodes) {
+    if (n.parentElement && /^(SCRIPT|STYLE)$/.test(n.parentElement.tagName)) continue;
+    const t = n.nodeValue.trim();
+    if (t && Object.prototype.hasOwnProperty.call(EN, t)) n.nodeValue = n.nodeValue.replace(t, EN[t]);
+  }
+  for (const el of document.querySelectorAll("[placeholder], [aria-label]")) for (const a of ["placeholder", "aria-label"]) {
+    const v = el.getAttribute(a); if (v && Object.prototype.hasOwnProperty.call(EN, v)) el.setAttribute(a, EN[v]);
+  }
+})();
 
 let index = [];
 let earthIndex = [];   // jordbilderna, nyast först
@@ -627,16 +958,16 @@ async function loadDay(date, kind = "space") {
   if (day) day.kind = kind;
   if (!day) {
     stage.classList.remove("intro"); document.body.classList.remove("intro-on");
-    $("title").textContent = kind === "earth" ? "Jordbilderna är på väg" : "Den här dagen finns inte i arkivet än";
+    $("title").textContent = L(kind === "earth" ? "Jordbilderna är på väg" : "Den här dagen finns inte i arkivet än");
     $("title").classList.add("mystery");
-    $("meta").textContent = kind === "earth" ? "Den första visas här när morgonjobbet har kört." : "";
+    $("meta").textContent = kind === "earth" ? L("Den första visas här när morgonjobbet har kört.") : "";
     $("quiz").hidden = true; $("after").hidden = true; $("onward").hidden = true;
     $("below").classList.add("in");
     return;
   }
 
   const isImage = kind === "earth" || day.media_type === "image";
-  document.querySelector('[data-level="barn"]').textContent = kind === "earth" ? "För unga jordspanare" : "För unga rymdhjältar";
+  document.querySelector('[data-level="barn"]').textContent = L(kind === "earth" ? "För unga jordspanare" : "För unga rymdhjältar");
   const src = isImage ? day.url : day.thumbnail_url;
   const frame = $("frame");
   if (day.w && day.h) frame.style.setProperty("--ratio", day.w / day.h);
@@ -667,7 +998,7 @@ async function loadDay(date, kind = "space") {
       if (id !== loadId) return;
       if (pre.naturalWidth) frame.style.setProperty("--ratio", pre.naturalWidth / pre.naturalHeight);
       $("image").src = url;
-      $("image").alt = day.kind === "earth" ? "Satellitbild: " + (day.title_sv || day.title) : "NASA:s astronomibild för " + day.date;
+      $("image").alt = day.kind === "earth" ? titleOf(day) : L("Dagens bild från NASA");
       $("glow").style.backgroundImage = `url("${url}")`;
       $("glow").classList.add("on");
       requestAnimationFrame(() => requestAnimationFrame(() => {
@@ -680,34 +1011,34 @@ async function loadDay(date, kind = "space") {
     pre.onerror = onFail;
     pre.src = url;
   };
-  const fail = () => { if (id === loadId) { $("meta").textContent = "Bilden gick inte att ladda."; settle(); } };
+  const fail = () => { if (id === loadId) { $("meta").textContent = L("Bilden gick inte att ladda."); settle(); } };
   if (!src) { settle(); return; }
   load(src, () => (day === SAMPLE ? load(STANDIN, fail) : fail()));
 }
 
 function renderCaption() {
   if (day.kind === "earth") {
-    $("title").textContent = tidy(day.title_sv || day.title);
+    $("title").textContent = tidy(titleOf(day));
     $("title").classList.remove("mystery");
-    $("meta").innerHTML = esc([day.archive ? "Ur arkivet" : "", day.place, day.archive ? "" : niceDate(day.date)].filter(Boolean).join(" · ")) + `<span class="credit">Bild: ${esc(tidyCredit(day.credit))}</span>`;
+    $("meta").innerHTML = esc([day.archive ? L("Ur arkivet") : "", placeOf(day), day.archive ? "" : niceDate(day.date)].filter(Boolean).join(" · ")) + `<span class="credit">${L("Bild")}: ${esc(tidyCredit(day.credit))}</span>`;
     return;
   }
   const done = played[day.date] !== undefined;
   const t = $("title");
-  t.textContent = done ? tidy(day.title_sv || day.title) : "Vad är det vi ser?";
+  t.textContent = done ? tidy(titleOf(day)) : L("Vad är det vi ser?");
   t.classList.toggle("mystery", !done);
   $("stage").classList.toggle("asking", !done && day.kind !== "earth");
   $("hello").hidden = day.kind === "earth" || Object.keys(played).length > 0;
-  const video = day.media_type !== "image" ? ` · <a href="${esc(day.url)}" target="_blank" rel="noopener">Öppna videon</a>` : "";
-  $("meta").innerHTML = esc(niceDate(day.date)) + video + (done ? `<span class="credit">Bild: ${esc(tidyCredit(day.credit))}</span>` : "");
+  const video = day.media_type !== "image" ? ` · <a href="${esc(day.url)}" target="_blank" rel="noopener">${L("Öppna videon")}</a>` : "";
+  $("meta").innerHTML = esc(niceDate(day.date)) + video + (done ? `<span class="credit">${L("Bild")}: ${esc(tidyCredit(day.credit))}</span>` : "");
 }
 
 /* ---------- Quiz ---------- */
 function renderQuestion() {
-  const q = day.quiz[current];
+  const q = part("quiz")[current];
   const quiz = $("quiz");
   quiz.innerHTML =
-    `<div class="eyebrow">Fråga ${current + 1} av ${day.quiz.length}</div>
+    `<div class="eyebrow">${F("Fråga {a} av {b}", { a: current + 1, b: day.quiz.length })}</div>
      <h3>${esc(tidy(q.q))}</h3>
      <div class="options">${q.options.map((o, i) =>
        `<button data-i="${i}"><i>${"ABC"[i]}</i><span>${esc(tidy(o))}</span></button>`).join("")}</div>
@@ -724,7 +1055,7 @@ function keepInView(el, top) {
   });
 }
 function answer(i, e) {
-  const q = day.quiz[current];
+  const q = part("quiz")[current];
   const buttons = $("quiz").querySelectorAll(".options button");
   buttons.forEach(b => b.disabled = true);
   const right = i === q.correct;
@@ -735,26 +1066,27 @@ function answer(i, e) {
   else buttons[i].classList.add("wrong");
   const last = current === day.quiz.length - 1;
   $("feedback").innerHTML =
-    `<p class="fact"><strong>${right ? "Rätt!" : "Inte riktigt."}</strong> ${esc(tidy(q.fact))}</p>
-     <button class="next" id="nextBtn">${last ? "Visa vad bilden föreställer" : "Nästa fråga"}</button>`;
+    `<p class="fact"><strong>${L(right ? "Rätt!" : "Inte riktigt.")}</strong> ${esc(tidy(q.fact))}</p>
+     <button class="next" id="nextBtn">${L(last ? "Visa vad bilden föreställer" : "Nästa fråga")}</button>`;
   keepInView($("nextBtn"));
   $("nextBtn").addEventListener("click", () => {
     if (!last) { current++; renderQuestion(); keepInView($("quiz"), true); return; }
     played[day.date] = rightCount; store.set("cosmic-played", played);
     finish(false);
+    scrollTo({ top: 0, behavior: calm ? "auto" : "smooth" });   // upp till bilden, som nu avslöjas i full storlek
   });
   $("nextBtn").focus({ preventScroll: true });
 }
 
 function finish(alreadyPlayed) {
   const n = day.quiz.length, r = played[day.date];
-  const cheer = r === n ? "Full pott, du är en riktig rymdhjälte!" : r > 0 ? "Bra jobbat!" : "Nu vet du mer än nyss, och det är det som räknas.";
+  const cheer = L(r === n ? "Full pott, du är en riktig rymdhjälte!" : r > 0 ? "Bra jobbat!" : "Nu vet du mer än nyss, och det är det som räknas.");
   $("quiz").innerHTML =
-    `<div class="eyebrow">${alreadyPlayed ? "I din samling" : "Klart"}</div>
-     <h3>${r} av ${n} rätt</h3>
-     <p class="muted" style="margin:8px 0 0">${alreadyPlayed ? "Du har redan upptäckt den här bilden." : cheer + " Bilden ligger nu i din samling."}</p>`;
+    `<div class="eyebrow">${L(alreadyPlayed ? "I din samling" : "Klart")}</div>
+     <h3>${F("{r} av {n} rätt", { r, n })}</h3>
+     <p class="muted" style="margin:8px 0 0">${alreadyPlayed ? L("Du har redan upptäckt den här bilden.") : cheer + " " + L("Bilden ligger nu i din samling.")}</p>`;
   renderCaption();
-  $("levelText").innerHTML = '<p class="muted">Välj en nivå.</p>';
+  $("levelText").innerHTML = '<p class="muted">' + L("Välj en nivå.") + '</p>';
   document.querySelectorAll(".levels button").forEach(b => b.setAttribute("aria-pressed", "false"));
   $("after").hidden = false;
   renderOnward();
@@ -763,7 +1095,7 @@ function finish(alreadyPlayed) {
 
 // Markerar dagens facktermer i en text. Första förekomsten av varje term blir tryckbar.
 function markTerms(text, used) {
-  const terms = (day.terms || []).map((t, i) => ({ i, term: tidy(t.term).trim() })).filter(t => t.term.length > 2)
+  const terms = (part("terms") || []).map((t, i) => ({ i, term: tidy(t.term).trim() })).filter(t => t.term.length > 2)
     .sort((a, b) => b.term.length - a.term.length);
   if (!terms.length) return esc(text);
   const quote = x => x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -784,7 +1116,7 @@ function markTerms(text, used) {
 
 document.querySelectorAll(".levels button").forEach(b => b.addEventListener("click", () => {
   document.querySelectorAll(".levels button").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
-  const text = tidy(day.levels[b.dataset.level] || "");
+  const text = tidy((part("levels") || {})[b.dataset.level] || "");
   const used = new Set();
   $("levelText").innerHTML = text.split(/\n\s*\n/).map((p, i) => `<p style="animation-delay:${i * 120}ms">${markTerms(p, used)}</p>`).join("");
 }));
@@ -799,7 +1131,7 @@ $("levelText").addEventListener("click", e => {
   $("levelText").querySelectorAll(".gloss").forEach(g => g.remove());
   $("levelText").querySelectorAll(".term").forEach(t => t.setAttribute("aria-expanded", "false"));
   if (open) return;
-  const t = day.terms[Number(btn.dataset.t)];
+  const t = (part("terms") || [])[Number(btn.dataset.t)];
   const g = document.createElement("div");
   g.className = "gloss";
   g.innerHTML = `<b>${esc(tidy(t.term))}</b> ${esc(tidy(t.explanation))}`;
@@ -812,9 +1144,9 @@ function renderOnwardEarth() {
   const older = earthIndex.filter(d => d.date !== day.date).slice(0, 4);
   $("onwardLinks").innerHTML = older.map(d =>
     `<a href="#jorden-${d.date}"><span class="thumb clear"><img src="${esc(d.thumb)}" alt="" loading="lazy"></span>
-      <span>${esc(tidy(d.title))}<small>${esc([d.archive ? "Ur arkivet" : "", d.place, d.archive ? "" : niceDate(d.date)].filter(Boolean).join(" · "))}</small></span><span class="arrow">→</span></a>`).join("") +
+      <span>${esc(tidy(titleOf(d)))}<small>${esc([d.archive ? L("Ur arkivet") : "", placeOf(d), d.archive ? "" : niceDate(d.date)].filter(Boolean).join(" · "))}</small></span><span class="arrow">→</span></a>`).join("") +
     `<a href="#"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">✦</span>
-      <span>Dagens bild<small>Rymdbilden med trivia</small></span><span class="arrow">→</span></a>`;
+      <span>${L("Dagens bild")}<small>${L("Rymdbilden med trivia")}</small></span><span class="arrow">→</span></a>`;
   $("onward").hidden = false;
 }
 function renderOnward() {
@@ -822,13 +1154,13 @@ function renderOnward() {
   const next = unplayed.find(d => d.date < day.date) || unplayed[0];
   $("onwardLinks").innerHTML =
     (next ? `<a href="#${next.date}"><span class="thumb"><img src="${esc(next.thumb)}" alt=""></span>
-      <span>Nästa oupptäckta bild<small>${esc(niceDate(next.date))}</small></span><span class="arrow">→</span></a>` : "") +
+      <span>${L("Nästa oupptäckta bild")}<small>${esc(niceDate(next.date))}</small></span><span class="arrow">→</span></a>` : "") +
     `<a href="#himlen"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">☾</span>
-      <span>Himlen<small>Månen just nu och kommande händelser</small></span><span class="arrow">→</span></a>` +
+      <span>${L("Himlen")}<small>${L("Månen just nu och kommande händelser")}</small></span><span class="arrow">→</span></a>` +
     `<a href="#solsystemet"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">☉</span>
-      <span>Solsystemet<small>Planeterna där de står i dag</small></span><span class="arrow">→</span></a>` +
+      <span>${L("Solsystemet")}<small>${L("Planeterna där de står i dag")}</small></span><span class="arrow">→</span></a>` +
     `<a href="#arkiv"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">✦</span>
-      <span>Hela arkivet<small>${index.length - unplayed.length} av ${index.length} upptäckta</small></span><span class="arrow">→</span></a>`;
+      <span>${L("Hela arkivet")}<small>${F("{a} av {b} upptäckta", { a: index.length - unplayed.length, b: index.length })}</small></span><span class="arrow">→</span></a>`;
   $("onward").hidden = false;
 }
 
@@ -840,29 +1172,29 @@ function renderArchive() {
   const isDone = d => earth || played[d.date] !== undefined;
   const found = index.filter(d => played[d.date] !== undefined).length;
   $("collection").textContent = earth
-    ? (src.length === 1 ? "1 bild av jorden från rymden." : `${src.length} bilder av jorden från rymden.`) + " Här finns inget att låsa upp, bara att titta."
-    : `Din samling: ${found} av ${index.length} bilder upptäckta. De övriga är suddiga tills du har klarat trivian.`;
+    ? (src.length === 1 ? L("1 bild av jorden från rymden.") : F("{n} bilder av jorden från rymden.", { n: src.length })) + " " + L("Här finns inget att låsa upp, bara att titta.")
+    : F("Din samling: {a} av {b} bilder upptäckta. De övriga är suddiga tills du har klarat trivian.", { a: found, b: index.length });
   $("onlyNew").hidden = earth;
   const q = $("search").value.trim().toLowerCase(), onlyNew = !earth && $("onlyNew").getAttribute("aria-pressed") === "true";
   const list = src.filter(d => {
     const done = isDone(d);
     if (onlyNew && done) return false;
-    return !q || (d.place || "").toLowerCase().includes(q) || tidy(d.title).toLowerCase().includes(q) || niceDate(d.date).includes(q) || d.date.includes(q);
+    return !q || (placeOf(d) || "").toLowerCase().includes(q) || tidy(titleOf(d)).toLowerCase().includes(q) || niceDate(d.date).includes(q) || d.date.includes(q);
   });
-  if (!list.length) { $("grid").innerHTML = '<p class="empty">Inga bilder matchar.</p>'; return; }
+  if (!list.length) { $("grid").innerHTML = '<p class="empty">' + L("Inga bilder matchar.") + '</p>'; return; }
   const months = new Map();
   for (const d of list) { const k = d.date.slice(0, 7); if (!months.has(k)) months.set(k, []); months.get(k).push(d); }
   const keys = [...months.keys()], filtering = q || onlyNew, visible = filtering ? keys : keys.slice(0, shownMonths);
   $("grid").innerHTML = visible.map(k => {
-    const days = months.get(k), name = new Date(k + "-15T12:00:00").toLocaleDateString("sv-SE", { month: "long", year: "numeric" });
+    const days = months.get(k), name = new Date(k + "-15T12:00:00").toLocaleDateString(loc, { month: "long", year: "numeric" });
     const doneCount = days.filter(isDone).length;
-    return `<div class="month">${esc(name)}<span>${earth ? (days.length === 1 ? "1 bild" : days.length + " bilder") : doneCount + " av " + days.length + " upptäckta"}</span></div><div class="grid">` + days.map(d => {
+    return `<div class="month">${esc(name)}<span>${earth ? (days.length === 1 ? L("1 bild") : F("{n} bilder", { n: days.length })) : F("{a} av {b} upptäckta", { a: doneCount, b: days.length })}</span></div><div class="grid">` + days.map(d => {
       const done = isDone(d);
       return `<a class="tile ${done ? "" : "new"}" href="#${earth ? "jorden-" : ""}${d.date}">
         <img src="${esc(d.thumb)}" alt="" loading="lazy">
-        <span>${done ? esc(tidy(d.title)) : "Oupptäckt"}<small>${esc(niceDate(d.date))}</small></span></a>`;
+        <span>${done ? esc(tidy(titleOf(d))) : L("Oupptäckt")}<small>${esc(niceDate(d.date))}</small></span></a>`;
     }).join("") + "</div>";
-  }).join("") + (visible.length < keys.length ? '<button class="more" id="moreMonths">Visa äldre</button>' : "");
+  }).join("") + (visible.length < keys.length ? '<button class="more" id="moreMonths">' + L("Visa äldre") + '</button>' : "");
 }
 $("search").addEventListener("input", renderArchive);
 $("archKind").addEventListener("click", e => {
@@ -938,14 +1270,15 @@ addEventListener("wheel", () => { topTimers.forEach(clearTimeout); topTimers = [
 function route() {
   const h = location.hash.slice(1);
   const earthDate = (h.match(/^jorden-(\d{4}-\d{2}-\d{2})$/) || [])[1];
-  const view = h === "arkiv" ? "archive" : h === "himlen" ? "sky" : h === "solsystemet" ? "solar" : (h === "jorden" || earthDate) ? "earth" : "today";
-  $("today").hidden = view !== "today" && view !== "earth"; $("archive").hidden = view !== "archive"; $("sky").hidden = view !== "sky"; $("solar").hidden = view !== "solar";
+  const view = h === "om" ? "about" : h === "arkiv" ? "archive" : h === "himlen" ? "sky" : h === "solsystemet" ? "solar" : (h === "jorden" || earthDate) ? "earth" : "today";
+  $("today").hidden = view !== "today" && view !== "earth"; $("archive").hidden = view !== "archive"; $("sky").hidden = view !== "sky"; $("solar").hidden = view !== "solar"; $("about").hidden = view !== "about";
   if (view !== "solar") stopSol();
-  document.querySelectorAll(".tab").forEach(t => t.dataset.view === view ? t.setAttribute("aria-current", "page") : t.removeAttribute("aria-current"));
+  document.querySelectorAll(".tab").forEach(t => t.dataset.view === (view === "about" ? "archive" : view) ? t.setAttribute("aria-current", "page") : t.removeAttribute("aria-current"));
   document.body.classList.toggle("sky-on", view === "sky"); runVeils();
   document.body.classList.toggle("plain", view !== "today" && view !== "earth");
   toTop();
   if (view !== "today" && view !== "earth") document.body.classList.remove("intro-on");
+  if (view === "about") return;
   if (view === "archive") { renderArchive(); return; }
   if (view === "sky") { renderSky(); return; }
   if (view === "solar") { openSol(); return; }
@@ -958,6 +1291,11 @@ function route() {
   if (!day || day.kind === "earth" || day.date !== date) loadDay(date);
 }
 addEventListener("hashchange", route);
+// Språkväxeln: valet sparas och sidan laddas om, så att allt byter språk på en gång.
+document.querySelectorAll("#langSeg button").forEach(b => {
+  b.setAttribute("aria-pressed", String(b.dataset.l === lang));
+  b.addEventListener("click", () => { if (b.dataset.l !== lang) { store.set("aa-lang", b.dataset.l); location.reload(); } });
+});
 
 /* ---------- Himlen: månfaser, meteorregn och förmörkelser ---------- */
 // Tidpunkt för nymåne (full=false) eller fullmåne (full=true) nummer k, efter Jean Meeus förenklade formler.
@@ -1020,15 +1358,16 @@ const MISSION_SV = { "Communications": "Kommunikationssatelliter", "Earth Scienc
 function eventRow(when, name, text, showTime) {
   const now = new Date(), midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const days = Math.round((new Date(when.getFullYear(), when.getMonth(), when.getDate()) - midnight) / 864e5);
-  const right = days <= 0 ? "i dag" : days === 1 ? "i morgon" : days < 100 ? "om " + days + " dagar" : when.getFullYear() === now.getFullYear() ? "" : String(when.getFullYear());
-  const time = showTime ? `kl. ${String(when.getHours()).padStart(2, "0")}.${String(when.getMinutes()).padStart(2, "0")}` : "";
-  return `<div class="event"><div class="when"><small>${when.toLocaleDateString("sv-SE", { month: "short" }).replace(".", "").toUpperCase()}</small><b>${when.getDate()}</b></div>
+  const right = days <= 0 ? L("i dag") : days === 1 ? L("i morgon") : days < 100 ? F("om {n} dagar", { n: days }) : when.getFullYear() === now.getFullYear() ? "" : String(when.getFullYear());
+  const hh = String(when.getHours()).padStart(2, "0"), mm = String(when.getMinutes()).padStart(2, "0");
+  const time = showTime ? (lang === "en" ? `${hh}:${mm}` : `kl. ${hh}.${mm}`) : "";
+  return `<div class="event"><div class="when"><small>${when.toLocaleDateString(loc, { month: "short" }).replace(".", "").toUpperCase()}</small><b>${when.getDate()}</b></div>
     <div class="what">${esc(name)}<small>${esc(text)}</small></div>
     <div class="in">${right}${time ? "<br>" + time : ""}</div></div>`;
 }
 function renderWorld() {
   const now = new Date();
-  $("worldEclipses").innerHTML = WORLD_ECLIPSES.filter(e => new Date(e[0]) > now).map(e => eventRow(new Date(e[0]), e[1], e[2])).join("");
+  $("worldEclipses").innerHTML = WORLD_ECLIPSES.filter(e => new Date(e[0]) > now).map(e => eventRow(new Date(e[0]), L(e[1]), L(e[2]))).join("");
   clipList("worldEclipses", 2);
 }
 // Kommande uppskjutningar från The Space Devs. Sparas en timme, eftersom tjänsten begränsar antalet frågor.
@@ -1051,7 +1390,7 @@ async function loadLaunches() {
   $("launches").innerHTML = picks.map(l => {
     const [rocket, mission] = String(l.name).split(" | ");
     const place = String(l.loc || "").split(",").map(x => x.trim()).filter(Boolean);
-    const sub = [l.lsp, place.length > 1 ? place[0] + ", " + place[place.length - 1] : place[0], MISSION_SV[l.type] || l.type].filter(Boolean).join(" · ");
+    const sub = [l.lsp, place.length > 1 ? place[0] + ", " + place[place.length - 1] : place[0], lang === "en" ? l.type : (MISSION_SV[l.type] || l.type)].filter(Boolean).join(" · ");
     return eventRow(new Date(l.net), (mission || rocket) + (mission ? " (" + rocket + ")" : ""), sub, true);
   }).join("");
   clipList("launches", 3);
@@ -1071,7 +1410,7 @@ function clipList(id, n) {
     btn.addEventListener("click", () => { openLists.has(id) ? openLists.delete(id) : openLists.add(id); clipList(id, n); });
     el.after(btn);
   }
-  btn.textContent = openLists.has(id) ? "Visa färre" : `Visa ${extra} till`;
+  btn.textContent = openLists.has(id) ? L("Visa färre") : F("Visa {n} till", { n: extra });
 }
 function skyJump(id) {
   const t = $(id); if (!t) return;
@@ -1091,47 +1430,48 @@ function renderSky() {
   renderWorld();
   if (!skyLoaded) { skyLoaded = true; loadLaunches(); }
   const now = new Date(), m = moonAt(now);
-  const d = x => x.toLocaleDateString("sv-SE", { day: "numeric", month: "long" });
+  const d = x => x.toLocaleDateString(loc, { day: "numeric", month: "long" });
   $("moonLit").setAttribute("d", moonPath(m));
-  $("moonName").textContent = moonName(m);
-  $("moonPct").textContent = Math.round(m.lit * 100) + " % belyst";
+  $("moonName").textContent = L(moonName(m));
+  $("moonPct").textContent = F("{n} % belyst", { n: Math.round(m.lit * 100) });
   $("nextFull").textContent = d(m.nextFull);
   $("nextNew").textContent = d(m.nextNew);
-  const today = now.toLocaleDateString("sv-SE", { weekday: "long", day: "numeric", month: "long" });
+  const today = now.toLocaleDateString(loc, { weekday: "long", day: "numeric", month: "long" });
   $("skyDate").textContent = today.charAt(0).toUpperCase() + today.slice(1);
   $("sumMoonLit").setAttribute("d", moonPath(m, 42));
-  $("sumMoon").textContent = moonName(m);
-  $("sumMoonText").textContent = m.lit < 0.25 ? "Mörk himmel i natt" : m.lit > 0.75 ? "Ljus natt, månen lyser starkt" : `Månen är ${Math.round(m.lit * 100)} % belyst`;
+  $("sumMoon").textContent = L(moonName(m));
+  $("sumMoonText").textContent = m.lit < 0.25 ? L("Mörk himmel i natt") : m.lit > 0.75 ? L("Ljus natt, månen lyser starkt") : F("Månen är {n} % belyst", { n: Math.round(m.lit * 100) });
 
   const events = [];
   for (let i = 0, k = m.k; i < 3; i++, k++) {
     const full = moonTime(k, true), nw = moonTime(k + 1, false);
-    if (full > now) events.push([full, "Fullmåne", "Månen går upp i öster vid solnedgången"]);
-    events.push([nw, "Nymåne", "Mörkast himmel, bäst för stjärnor och norrsken"]);
+    if (full > now) events.push([full, L("Fullmåne"), L("Månen går upp i öster vid solnedgången")]);
+    events.push([nw, L("Nymåne"), L("Mörkast himmel, bäst för stjärnor och norrsken")]);
   }
   for (const [mo, da, name, text] of SHOWERS) {
     let when = new Date(now.getFullYear(), mo - 1, da, 23);
     if (when < now) when = new Date(now.getFullYear() + 1, mo - 1, da, 23);
     const lit = moonAt(when).lit;
-    events.push([when, "Meteorregn: " + name, text + ". " + (lit < 0.3 ? "Mörk himmel utan måne." : lit < 0.7 ? "Månen stör en del." : "Starkt månljus stör.")]);
+    events.push([when, L("Meteorregn") + ": " + L(name), L(text) + ". " + L(lit < 0.3 ? "Mörk himmel utan måne." : lit < 0.7 ? "Månen stör en del." : "Starkt månljus stör."), "shower", L(name)]);
   }
-  for (const [iso, name, text] of ECLIPSES) if (new Date(iso) > now) events.push([new Date(iso), name, text]);
+  for (const [iso, name, text] of ECLIPSES) if (new Date(iso) > now) events.push([new Date(iso), L(name), L(text), "eclipse"]);
   events.sort((a, b) => a[0] - b[0]);
   const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const soon = events.filter(e => e[0] - now < 300 * 864e5).slice(0, 9);
-  const far = events.filter(e => /förmörkelse/.test(e[1]) && !soon.includes(e));
+  const far = events.filter(e => e[3] === "eclipse" && !soon.includes(e));
   $("events").innerHTML = soon.concat(far).map(([when, name, text]) => {
     const days = Math.round((new Date(when.getFullYear(), when.getMonth(), when.getDate()) - midnight) / 864e5);
     const sameYear = when.getFullYear() === now.getFullYear();
-    return `<div class="event"><div class="when"><small>${when.toLocaleDateString("sv-SE", { month: "short" }).replace(".", "").toUpperCase()}</small><b>${when.getDate()}</b></div>
+    return `<div class="event"><div class="when"><small>${when.toLocaleDateString(loc, { month: "short" }).replace(".", "").toUpperCase()}</small><b>${when.getDate()}</b></div>
       <div class="what">${esc(name)}<small>${esc(text)}</small></div>
-      <div class="in">${days <= 0 ? "i dag" : days === 1 ? "i morgon" : days < 100 ? "om " + days + " dagar" : sameYear ? "" : when.getFullYear()}</div></div>`;
+      <div class="in">${days <= 0 ? L("i dag") : days === 1 ? L("i morgon") : days < 100 ? F("om {n} dagar", { n: days }) : sameYear ? "" : when.getFullYear()}</div></div>`;
   }).join("");
   clipList("events", 3);
-  const shower = events.find(e => e[1].startsWith("Meteorregn"));
+  renderPlace();
+  const shower = events.find(e => e[3] === "shower");
   if (shower) {
     const days = Math.round((new Date(shower[0].getFullYear(), shower[0].getMonth(), shower[0].getDate()) - midnight) / 864e5);
-    $("sumMeteor").textContent = shower[1].replace("Meteorregn: ", "") + (days <= 0 ? " i natt" : days === 1 ? " i morgon" : ` om ${days} dagar`);
+    $("sumMeteor").textContent = shower[4] + " " + (days <= 0 ? L("i natt") : days === 1 ? L("i morgon") : F("om {n} dagar", { n: days }));
   }
 }
 // Norrskensprognos: högsta Kp-värdet i natt (kl. 18–06) ur NOAA:s prognos. Kortet visas bara om tjänsten svarar.
@@ -1143,6 +1483,131 @@ const KP_TEXT = [
   [3, "Måttlig aktivitet", "Norrsken kan synas i norra och mellersta Norrland."],
   [0, "Lugnt", "Norrsken syns bara längst i norr, om alls."]
 ];
+
+/* ---------- Ort: var man tittar ifrån ---------- */
+// [svenskt namn, engelskt namn, latitud, longitud, tidszon, förval för tidszonen]
+const PLACE_GROUPS = [
+  ["Sverige", [
+    ["Kiruna", "Kiruna", 67.86, 20.23, "Europe/Stockholm"], ["Luleå", "Luleå", 65.58, 22.15, "Europe/Stockholm"], ["Umeå", "Umeå", 63.83, 20.26, "Europe/Stockholm"],
+    ["Östersund", "Östersund", 63.18, 14.64, "Europe/Stockholm"], ["Sundsvall", "Sundsvall", 62.39, 17.31, "Europe/Stockholm"], ["Gävle", "Gävle", 60.67, 17.14, "Europe/Stockholm"],
+    ["Falun", "Falun", 60.61, 15.63, "Europe/Stockholm"], ["Uppsala", "Uppsala", 59.86, 17.64, "Europe/Stockholm"], ["Västerås", "Västerås", 59.61, 16.55, "Europe/Stockholm"],
+    ["Stockholm", "Stockholm", 59.33, 18.07, "Europe/Stockholm", 1], ["Örebro", "Örebro", 59.27, 15.21, "Europe/Stockholm"], ["Karlstad", "Karlstad", 59.38, 13.50, "Europe/Stockholm"],
+    ["Linköping", "Linköping", 58.41, 15.62, "Europe/Stockholm"], ["Göteborg", "Gothenburg", 57.71, 11.97, "Europe/Stockholm"], ["Jönköping", "Jönköping", 57.78, 14.16, "Europe/Stockholm"],
+    ["Visby", "Visby", 57.64, 18.30, "Europe/Stockholm"], ["Växjö", "Växjö", 56.88, 14.81, "Europe/Stockholm"], ["Kalmar", "Kalmar", 56.66, 16.36, "Europe/Stockholm"],
+    ["Halmstad", "Halmstad", 56.67, 12.86, "Europe/Stockholm"], ["Malmö", "Malmö", 55.60, 13.00, "Europe/Stockholm"]]],
+  ["Norden", [
+    ["Tromsø", "Tromsø", 69.65, 18.96, "Europe/Oslo"], ["Bergen", "Bergen", 60.39, 5.32, "Europe/Oslo"], ["Oslo", "Oslo", 59.91, 10.75, "Europe/Oslo", 1],
+    ["Köpenhamn", "Copenhagen", 55.68, 12.57, "Europe/Copenhagen", 1], ["Rovaniemi", "Rovaniemi", 66.50, 25.73, "Europe/Helsinki"], ["Helsingfors", "Helsinki", 60.17, 24.94, "Europe/Helsinki", 1],
+    ["Reykjavik", "Reykjavik", 64.15, -21.94, "Atlantic/Reykjavik", 1]]],
+  ["Europa", [
+    ["Edinburgh", "Edinburgh", 55.95, -3.19, "Europe/London"], ["London", "London", 51.51, -0.13, "Europe/London", 1], ["Dublin", "Dublin", 53.35, -6.26, "Europe/Dublin", 1],
+    ["Amsterdam", "Amsterdam", 52.37, 4.90, "Europe/Amsterdam", 1], ["Hamburg", "Hamburg", 53.55, 9.99, "Europe/Berlin"], ["Berlin", "Berlin", 52.52, 13.40, "Europe/Berlin", 1],
+    ["München", "Munich", 48.14, 11.58, "Europe/Berlin"], ["Paris", "Paris", 48.86, 2.35, "Europe/Paris", 1], ["Zürich", "Zurich", 47.37, 8.54, "Europe/Zurich", 1],
+    ["Wien", "Vienna", 48.21, 16.37, "Europe/Vienna", 1], ["Warszawa", "Warsaw", 52.23, 21.01, "Europe/Warsaw", 1], ["Tallinn", "Tallinn", 59.44, 24.75, "Europe/Tallinn", 1],
+    ["Madrid", "Madrid", 40.42, -3.70, "Europe/Madrid", 1], ["Rom", "Rome", 41.90, 12.50, "Europe/Rome", 1], ["Aten", "Athens", 37.98, 23.73, "Europe/Athens", 1]]],
+  ["Världen", [
+    ["Anchorage", "Anchorage", 61.22, -149.90, "America/Anchorage", 1], ["Vancouver", "Vancouver", 49.28, -123.12, "America/Vancouver", 1], ["Los Angeles", "Los Angeles", 34.05, -118.24, "America/Los_Angeles", 1],
+    ["Chicago", "Chicago", 41.88, -87.63, "America/Chicago", 1], ["Toronto", "Toronto", 43.65, -79.38, "America/Toronto", 1], ["New York", "New York", 40.71, -74.01, "America/New_York", 1],
+    ["Buenos Aires", "Buenos Aires", -34.60, -58.38, "America/Argentina/Buenos_Aires", 1], ["Kapstaden", "Cape Town", -33.92, 18.42, "Africa/Johannesburg", 1], ["Dubai", "Dubai", 25.20, 55.27, "Asia/Dubai", 1],
+    ["Delhi", "Delhi", 28.61, 77.21, "Asia/Kolkata", 1], ["Singapore", "Singapore", 1.35, 103.82, "Asia/Singapore", 1], ["Tokyo", "Tokyo", 35.68, 139.69, "Asia/Tokyo", 1],
+    ["Sydney", "Sydney", -33.87, 151.21, "Australia/Sydney", 1], ["Auckland", "Auckland", -36.85, 174.76, "Pacific/Auckland", 1]]]
+];
+const PLACES = PLACE_GROUPS.flatMap(g => g[1]);
+const placeName = p => lang === "en" ? p[1] : p[0];
+// Första gången gissas orten ur telefonens tidszon. Inget tillstånd behövs, och valet sparas bara på enheten.
+let place = (() => {
+  const saved = store.get("aa-place", null), hit = saved && PLACES.find(p => p[1] === saved);
+  if (hit) return hit;
+  let tz = ""; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone; } catch (e) {}
+  return PLACES.find(p => p[4] === tz && p[5]) || PLACES.find(p => p[4] === tz) || PLACES.find(p => p[1] === (lang === "sv" ? "Stockholm" : "London"));
+})();
+
+// När solen står h grader under horisonten på kvällen, för den lokala dag som pågår (till kl. 06 räknas natten till dagen före).
+// Ger en tidpunkt, eller "up" om solen aldrig kommer så lågt och "down" om den aldrig kommer så högt.
+function sunDown(p, h) {
+  const rad = Math.PI / 180, lat = p[2], lon = p[3];
+  const n = Math.floor(Date.now() / 864e5 + 2440587.5 - 2451545 + lon / 360 + 0.25);
+  const J = n - lon / 360, M = (357.5291 + 0.98560028 * J) % 360;
+  const C = 1.9148 * Math.sin(M * rad) + 0.02 * Math.sin(2 * M * rad) + 0.0003 * Math.sin(3 * M * rad);
+  const lam = (M + C + 180 + 102.9372) % 360;
+  const transit = 2451545 + J + 0.0053 * Math.sin(M * rad) - 0.0069 * Math.sin(2 * lam * rad);
+  const dec = Math.asin(Math.sin(lam * rad) * Math.sin(23.4397 * rad));
+  const cosw = (Math.sin(h * rad) - Math.sin(lat * rad) * Math.sin(dec)) / (Math.cos(lat * rad) * Math.cos(dec));
+  if (cosw > 1) return "down";
+  if (cosw < -1) return "up";
+  return new Date((transit + Math.acos(cosw) / rad / 360 - 2440587.5) * 864e5);
+}
+const clock = (d, p) => {
+  let t; try { t = d.toLocaleTimeString("sv-SE", { hour: "2-digit", minute: "2-digit", timeZone: p[4] }); } catch (e) { t = d.toLocaleTimeString("sv-SE", { hour: "2-digit", minute: "2-digit" }); }
+  return lang === "en" ? t : t.replace(":", ".");
+};
+// Mörkret i natt på orten: solnedgång (solen 0,83° under horisonten) och när det är mörkt nog för stjärnor (12° under).
+function darkness() {
+  const set = sunDown(place, -0.833), dark = sunDown(place, -12);
+  if (set === "up") return { state: "sun", head: L("Solen går inte ner i natt"), text: L("Midnattssol") };
+  if (set === "down") return { state: "dark", head: L("Mörkt hela dygnet"), text: L("Solen går inte upp i dag") };
+  if (dark === "up") return { state: "bright", head: L("Ljus natt"), text: F("Solen går ner {t}, men det blir aldrig riktigt mörkt", { t: clock(set, place) }) };
+  return { state: "dark", head: F("Mörkt från {t}", { t: clock(dark, place) }), text: F("Solen går ner {t}", { t: clock(set, place) }) };
+}
+// Hur väl norrsken kan synas från orten vid ett visst Kp-värde: 2 högt på himlen, 1 lågt vid horisonten, 0 inte alls.
+// Norrsken kan ses vid horisonten ner till ungefär 66,5 − 2·Kp grader geomagnetisk latitud, och högt på himlen ett stycke närmare polen.
+function auroraAt(kp) {
+  const rad = Math.PI / 180, pLat = 80.8 * rad, pLon = -72.7 * rad;   // den geomagnetiska nordpolens läge
+  const mlat = Math.asin(Math.sin(place[2] * rad) * Math.sin(pLat) + Math.cos(place[2] * rad) * Math.cos(pLat) * Math.cos(place[3] * rad - pLon)) / rad;
+  const edge = 66.5 - 2 * kp, a = Math.abs(mlat);
+  return { vis: a >= edge + 4 ? 2 : a >= edge ? 1 : 0, south: mlat < 0 };
+}
+let nightKp = null;   // nattens högsta Kp ur prognosen, när den har hämtats
+function renderPlace() {
+  $("placeName").textContent = placeName(place);
+  const d = darkness();
+  $("sumDarkHead").textContent = d.head; $("sumDarkText").textContent = d.text;
+  if (nightKp === null) return;
+  const kp = nightKp, level = KP_TEXT.find(l => kp >= l[0]), a = auroraAt(kp);
+  const vis = d.state === "dark" ? a.vis : 0, bright = d.state !== "dark";
+  const head = bright ? "Norrsken syns inte i natt" : vis === 2 ? "Goda chanser till norrsken i natt" : vis === 1 ? "Norrsken möjligt i natt" : kp >= 4 ? "Norrsken syns knappast hos dig i natt" : "Lugnt norrsken";
+  const sub = bright ? "Natten är för ljus hos dig" : vis === 2 ? "Kan synas högt på himlen" : vis === 1 ? (a.south ? "Titta lågt mot söder, på en mörk plats" : "Titta lågt mot norr, på en mörk plats")
+    : kp >= 4 ? (a.south ? "Aktiviteten är förhöjd, men det syns längre söderut" : "Aktiviteten är förhöjd, men det syns längre norrut") : "Syns inte hos dig i natt";
+  const cardHead = bright ? "För ljust i natt" : vis === 2 ? "Goda chanser" : vis === 1 ? (a.south ? "Möjligt lågt i söder" : "Möjligt lågt i norr") : "Syns inte här i natt";
+  const more = bright ? "Hos dig blir natten inte mörk nog för att norrsken ska synas."
+    : vis === 2 ? "Hos dig kan norrskenet stå högt på himlen om det är klart."
+    : vis === 1 ? (a.south ? "Hos dig kan norrsken synas som ett sken nära horisonten i söder." : "Hos dig kan norrsken synas som ett sken nära horisonten i norr.")
+    : (a.south ? "Norrskenet når inte så långt norrut som till dig." : "Norrskenet når inte så långt söderut som till dig.");
+  $("auroraHead").textContent = L(cardHead);
+  $("auroraText").textContent = L(level[1]) + " (" + F("Kp-index {kp} av 9.", { kp: dec(kp.toFixed(1)) }).replace(/\.$/, "") + "). " + L(more);
+  $("kpBar").innerHTML = Array.from({ length: 9 }, (_, i) => `<i class="${i < Math.round(kp) ? "on" : ""}"></i>`).join("");
+  $("aurora").hidden = false;
+  const active = vis > 0;
+  $("sumAurora").classList.toggle("alert", active);
+  document.body.classList.toggle("aurora-on", active); runVeils();
+  $("sumAurora").querySelector("i").textContent = active ? "" : "›";
+  $("sumAuroraHead").textContent = L(head);
+  $("sumAuroraText").textContent = L(sub);
+  $("sumAurora").hidden = false;
+}
+// Ortsväljaren
+function placeList() {
+  const q = $("placeSearch").value.trim().toLowerCase();
+  $("placeList").innerHTML = PLACE_GROUPS.map(([g, rows]) => {
+    const hit = rows.filter(r => (r[0] + " " + r[1]).toLowerCase().includes(q)).sort((a, b) => placeName(a).localeCompare(placeName(b), loc));
+    return hit.length ? `<small>${esc(L(g))}</small>` + hit.map(r => `<button data-p="${esc(r[1])}" aria-pressed="${r === place}">${esc(placeName(r))}</button>`).join("") : "";
+  }).join("") || `<p class="muted" style="margin:14px 2px">${L("Ingen ort matchar.")}</p>`;
+}
+function placeSheet(open) {
+  $("placeSheet").classList.toggle("open", open); $("placeScrim").classList.toggle("open", open);
+  if (open) { $("placeSearch").value = ""; placeList(); }
+}
+$("placeBtn").addEventListener("click", () => placeSheet(true));
+$("placeScrim").addEventListener("click", () => placeSheet(false));
+$("placeClose").addEventListener("click", () => placeSheet(false));
+$("placeSearch").addEventListener("input", placeList);
+$("placeList").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  place = PLACES.find(p => p[1] === b.dataset.p) || place;
+  store.set("aa-place", place[1]); placeSheet(false); renderPlace();
+});
+addEventListener("keydown", e => { if (e.key === "Escape") placeSheet(false); });
+
 // Rymdväder de närmaste dygnen ur samma prognos: NOAA:s stormskala G1 (svag) till G5 (extrem).
 function showStorm(_, rows) {
   const ahead = rows.filter(r => r.t > Date.now() - 3 * 36e5);
@@ -1151,11 +1616,11 @@ function showStorm(_, rows) {
   const level = Number(String(top.g).replace(/\D/g, "")) || (top.kp >= 5 ? Math.min(5, Math.floor(top.kp) - 4) : 0);
   const names = ["", "Svag", "Måttlig", "Stark", "Mycket stark", "Extrem"];
   if (level) {
-    $("stormHead").textContent = `${names[level]} solstorm väntas (G${level})`;
-    $("stormText").textContent = `Störst väntas den ${top.t.toLocaleDateString("sv-SE", { day: "numeric", month: "long" })}. Solen har slungat ut laddade partiklar som skakar jordens magnetfält, vilket kan ge norrsken ovanligt långt söderut.`;
+    $("stormHead").textContent = F("{name} solstorm väntas (G{g})", { name: L(names[level]), g: level });
+    $("stormText").textContent = F("Störst väntas den {date}. Solen har slungat ut laddade partiklar som skakar jordens magnetfält, vilket kan ge norrsken ovanligt långt söderut.", { date: top.t.toLocaleDateString(loc, { day: "numeric", month: "long" }) });
   } else {
-    $("stormHead").textContent = "Lugnt rymdväder";
-    $("stormText").textContent = "Inga solstormar väntas de närmaste dygnen. Högsta väntade Kp-index är " + top.kp.toFixed(1).replace(".", ",") + " av 9.";
+    $("stormHead").textContent = L("Lugnt rymdväder");
+    $("stormText").textContent = F("Inga solstormar väntas de närmaste dygnen. Högsta väntade Kp-index är {kp} av 9.", { kp: dec(top.kp.toFixed(1)) });
   }
   $("storm").hidden = false;
 }
@@ -1171,18 +1636,8 @@ async function loadAurora() {
     start.setHours(18, 0, 0, 0); end.setTime(start.getTime() + 12 * 36e5);
     const night = rows.filter(r => r.t.getTime() + 3 * 36e5 > Math.max(start, now) && r.t < end);
     if (!night.length) return;
-    const kp = Math.max(...night.map(r => r.kp)), level = KP_TEXT.find(l => kp >= l[0]);
-    $("auroraHead").textContent = level[1];
-    $("auroraText").textContent = level[2] + " Kp-index " + kp.toFixed(1).replace(".", ",") + " av 9.";
-    $("kpBar").innerHTML = Array.from({ length: 9 }, (_, i) => `<i class="${i < Math.round(kp) ? "on" : ""}"></i>`).join("");
-    $("aurora").hidden = false;
-    const active = kp >= 4;   // från Kp 4 kan norrsken synas en bit ner i landet
-    $("sumAurora").classList.toggle("alert", active);
-    document.body.classList.toggle("aurora-on", active); runVeils();
-    $("sumAurora").querySelector("i").textContent = active ? "" : "›";
-    $("sumAuroraHead").textContent = active ? "Norrsken möjligt i natt" : "Lugnt norrsken";
-    $("sumAuroraText").textContent = level[2].replace(/^Norrsken /, "").replace(/\.$/, "").replace(/^./, c => c.toUpperCase());
-    $("sumAurora").hidden = false;
+    nightKp = Math.max(...night.map(r => r.kp));
+    renderPlace();
   } catch (e) { /* tjänsten nås inte: kortet förblir dolt */ }
 }
 loadAurora();
@@ -1242,6 +1697,40 @@ const SUN = { id: "sun", img: "GSFC_20171208_Archive_e000759", credit: "NASA/God
     "Solen är en helt vanlig stjärna. Den ser stor ut bara för att den ligger så nära. Nästa stjärna är 270 000 gånger längre bort.",
     "Solen har ingen fast yta att stå på. Det vi ser som yta är lagret där gasen blir genomskinlig."
   ] };
+const BODY_EN = {
+  sun: { name: "The Sun",
+    text: "Our star, a ball of glowing gas that holds the whole solar system together. Deep inside, hydrogen is squeezed into helium, and that is the energy that reaches us as light and warmth.",
+    facts: [
+      "The Sun is so big that more than a million Earths would fit inside it.",
+      "The light you see left the Sun's surface just over eight minutes ago. But the energy in it has been working its way out from the Sun's core for more than a hundred thousand years.",
+      "The Sun makes up 99.8 percent of all the mass in the solar system. The planets, moons and everything else are the rest.",
+      "Every second the Sun turns about four million tonnes of matter into energy. Even so, its fuel will last around five billion years more.",
+      "The Sun's surface is about 5,500 degrees, but the thin atmosphere outside it, the corona, is more than a million degrees. Why is one of the great puzzles of solar science.",
+      "The Sun spins, but not like a solid ball. At the equator one turn takes 25 days, at the poles around 35.",
+      "About every eleven years the Sun's magnetic field flips. Sunspots then become more common, and so do auroras.",
+      "Auroras begin on the Sun. Charged particles are flung out, reach Earth after a couple of days and make the air high up glow.",
+      "The Sun is a perfectly ordinary star. It only looks big because it is so close. The next star is 270,000 times further away.",
+      "The Sun has no solid surface to stand on. What we see as the surface is the layer where the gas becomes transparent."
+    ] },
+  mercury: { name: "Mercury", d: "4,879 km", day: "176 Earth days", year: "88 days", moons: "0",
+    text: "The smallest planet and the one closest to the Sun. The day side is hotter than an oven and the night side colder than Antarctica, because there is no air to hold the heat." },
+  venus: { name: "Venus", d: "12,104 km", day: "117 Earth days", year: "225 days", moons: "0",
+    text: "Almost the same size as Earth, but the hottest planet of all. Its thick air of carbon dioxide traps the heat, so the surface is around 465 degrees. Venus also spins the opposite way to most planets." },
+  earth: { name: "Earth", d: "12,742 km", day: "24 hours", year: "365 days", moons: "1",
+    text: "The only place we know of where there is life. Earth sits at just the right distance from the Sun for water to stay liquid on the surface." },
+  mars: { name: "Mars", d: "6,779 km", day: "24 h 40 min", year: "687 days", moons: "2",
+    text: "The red planet is half the size of Earth. Its colour comes from rusty iron in the ground. It has the tallest mountain in the solar system, Olympus Mons, and several rovers driving around looking for traces of ancient water." },
+  jupiter: { name: "Jupiter", d: "139,820 km", day: "just under 10 hours", year: "almost 12 years", moons: "about 95", credit: "Kevin M. Gill (CC BY), after NASA/JPL-Caltech/SwRI/MSSS",
+    text: "The biggest planet, so big that all the others would fit inside it. Jupiter is a ball of gas with no solid surface. The Great Red Spot is a storm that has been raging for hundreds of years." },
+  saturn: { name: "Saturn", d: "116,460 km", day: "just under 11 hours", year: "29 years", moons: "more than 270",
+    text: "Famous for its rings, which are made of countless pieces of ice and rock. Saturn is so light for its size that it would float, if there were an ocean big enough." },
+  uranus: { name: "Uranus", d: "50,724 km", day: "17 hours", year: "84 years", moons: "nearly 30",
+    text: "An icy giant that lies on its side and rolls around the Sun. That gives each pole 42 years of summer followed by 42 years of winter." },
+  neptune: { name: "Neptune", d: "49,244 km", day: "16 hours", year: "165 years", moons: "16",
+    text: "The outermost planet, deep blue and with the strongest winds in the solar system. Since Neptune was discovered in 1846 it has completed only a single lap around the Sun." }
+};
+// Namn, mått och text för solen och planeterna på rätt språk.
+const PN = (p, k) => (lang === "en" && BODY_EN[p.id] && BODY_EN[p.id][k]) || p[k];
 const BODIES = [SUN, ...PLANETS];
 let solOffset = 0, solPick = "sun", solTimer = 0, solReady = false, solZoom = 1, solFact = Math.floor(Math.random() * 10);
 const solDateAt = () => new Date(Date.now() + solOffset * 864e5);
@@ -1280,55 +1769,55 @@ function drawSol() {
     if (z > 1.25) continue;   // inga namn medan vi flyger ut
     if (p.id !== solPick && p.id !== "earth" && EL[p.id][0] < 4) continue;   // de inre planeterna ligger för tätt för egna namn
     g.fillStyle = p.id === solPick ? "#f2f0ea" : "rgba(242,240,234,.55)";
-    g.fillText(p.name, Math.min(W - 30, Math.max(30, q.x)), q.y - p.size - 8);
+    g.fillText(PN(p, "name"), Math.min(W - 30, Math.max(30, q.x)), q.y - p.size - 8);
   }
   g.setTransform(dpr, 0, 0, dpr, 0, 0);
   cv._pos = pos;
   const d = $("solDate");
-  d.innerHTML = esc(date.toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" })) +
-    `<small>${solOffset === 0 ? "i dag" : (Math.abs(solOffset) + " dagar " + (solOffset > 0 ? "framåt" : "bakåt"))}</small>`;
+  d.innerHTML = esc(date.toLocaleDateString(loc, { day: "numeric", month: "long", year: "numeric" })) +
+    `<small>${solOffset === 0 ? L("i dag") : F(solOffset > 0 ? "{n} dagar framåt" : "{n} dagar bakåt", { n: Math.abs(solOffset) })}</small>`;
   renderPlanet(pos);
 }
 
 function renderPlanet(pos) {
-  const p = BODIES.find(x => x.id === solPick), e = pos.earth.h, h = (pos[p.id] || {}).h, num = (x, n = 0) => x.toFixed(n).replace(".", ",");
+  const p = BODIES.find(x => x.id === solPick), e = pos.earth.h, h = (pos[p.id] || {}).h, num = (x, n = 0) => dec(x.toFixed(n));
   let now;
   if (p.id === "sun") {
-    now = `${num(e.r * 149.6)} miljoner km från jorden. Ljuset behöver ${num(e.r * 8.317, 1)} minuter för att nå oss. Titta aldrig rakt på solen, varken med blotta ögat eller i kikare.`;
+    now = F("{km} miljoner km från jorden. Ljuset behöver {min} minuter för att nå oss. Titta aldrig rakt på solen, varken med blotta ögat eller i kikare.", { km: num(e.r * 149.6), min: num(e.r * 8.317, 1) });
   } else if (p.id === "earth") {
-    now = `${num(e.r * 149.6)} miljoner km från solen. Ljuset därifrån behöver ${num(e.r * 8.317, 1)} minuter för att nå hit.`;
+    now = F("{km} miljoner km från solen. Ljuset därifrån behöver {min} minuter för att nå hit.", { km: num(e.r * 149.6), min: num(e.r * 8.317, 1) });
   } else {
     const dx = h.x - e.x, dy = h.y - e.y, dist = Math.hypot(dx, dy);
     let el = (Math.atan2(dy, dx) - Math.atan2(-e.y, -e.x)) * 180 / Math.PI;   // vinkel från solen, sett från jorden
     el = ((el + 540) % 360) - 180;
     const light = dist * 8.317;
-    const where = Math.abs(el) < 12 ? "Står för nära solen för att synas."
+    const where = L(Math.abs(el) < 12 ? "Står för nära solen för att synas."
       : Math.abs(el) > 150 ? "Står mitt emot solen och kan ses större delen av natten."
       : el > 0 ? "Står öster om solen och kan ses på kvällen, efter solnedgången."
-      : "Står väster om solen och kan ses på morgonen, före soluppgången.";
-    now = `${num(dist * 149.6)} miljoner km från jorden. Ljuset behöver ${light < 90 ? num(light, 1) + " minuter" : num(light / 60, 1) + " timmar"} för att nå oss. ${where}` +
-      (p.eye ? "" : " Du behöver kikare eller teleskop.");
+      : "Står väster om solen och kan ses på morgonen, före soluppgången.");
+    now = F("{km} miljoner km från jorden. Ljuset behöver {t} för att nå oss.", { km: num(dist * 149.6), t: light < 90 ? F("{n} minuter", { n: num(light, 1) }) : F("{n} timmar", { n: num(light / 60, 1) }) }) + " " + where +
+      (p.eye ? "" : " " + L("Du behöver kikare eller teleskop."));
   }
   const card = $("planetCard");
   if (card.dataset.p !== p.id) {   // byggs bara om när man byter planet, så att bilden inte laddas om medan tiden spolas
     card.dataset.p = p.id;
     const src = `https://images-assets.nasa.gov/image/${p.img}/${p.img}~`;
     card.innerHTML =
-      `<div class="phead"><button aria-label="Visa bilden i helskärm" data-big="${src}medium.jpg"><img class="${p.ring ? "fit" : ""}" src="${src}small.jpg" alt="${p.name}"></button>
-         <div><div class="eyebrow">${p.id === "sun" ? "Stjärna" : "Planet"}</div><h3>${p.name}</h3><small>Bild: ${esc(p.credit)}</small></div></div>` +
+      `<div class="phead"><button aria-label="${L("Visa bilden i helskärm")}" data-big="${src}medium.jpg"><img class="${p.ring ? "fit" : ""}" src="${src}small.jpg" alt="${PN(p, "name")}"></button>
+         <div><div class="eyebrow">${L(p.id === "sun" ? "Stjärna" : "Planet")}</div><h3>${PN(p, "name")}</h3><small>${L("Bild")}: ${esc(PN(p, "credit"))}</small></div></div>` +
       (p.id === "sun"
-        ? `<div class="facts"><div><small>Diameter</small><b>1,39 miljoner km</b></div><div><small>Ålder</small><b>4,6 miljarder år</b></div>
-         <div><small>Yttemperatur</small><b>cirka 5 500 °C</b></div><div><small>Ett varv</small><b>25 dygn vid ekvatorn</b></div></div>
-       <p style="margin:0">${esc(p.text)}</p>
-       <div class="sunfact"><div class="eyebrow">Visste du?</div><p id="sunFact"></p><button id="sunNext">En till</button></div>`
-        : `<div class="facts"><div><small>Diameter</small><b>${p.d}</b></div><div><small>Ett dygn</small><b>${p.day}</b></div>
-         <div><small>Ett år</small><b>${p.year}</b></div><div><small>Månar</small><b>${p.moons}</b></div></div>
-       <p style="margin:0">${esc(p.text)}</p>`) + `
+        ? `<div class="facts"><div><small>${L("Diameter")}</small><b>${L("1,39 miljoner km")}</b></div><div><small>${L("Ålder")}</small><b>${L("4,6 miljarder år")}</b></div>
+         <div><small>${L("Yttemperatur")}</small><b>${L("cirka 5 500 °C")}</b></div><div><small>${L("Ett varv")}</small><b>${L("25 dygn vid ekvatorn")}</b></div></div>
+       <p style="margin:0">${esc(PN(p, "text"))}</p>
+       <div class="sunfact"><div class="eyebrow">${L("Visste du?")}</div><p id="sunFact"></p><button id="sunNext">${L("En till")}</button></div>`
+        : `<div class="facts"><div><small>${L("Diameter")}</small><b>${PN(p, "d")}</b></div><div><small>${L("Ett dygn")}</small><b>${PN(p, "day")}</b></div>
+         <div><small>${L("Ett år")}</small><b>${PN(p, "year")}</b></div><div><small>${L("Månar")}</small><b>${PN(p, "moons")}</b></div></div>
+       <p style="margin:0">${esc(PN(p, "text"))}</p>`) + `
        <p class="now"><b id="nowLabel"></b><span id="nowText"></span></p>`;
     const im = card.querySelector("img");
     im.onerror = () => { im.closest("button").hidden = true; };
     if (p.id === "sun") {
-      const show = () => { $("sunFact").textContent = SUN.facts[solFact % SUN.facts.length]; };
+      const show = () => { const facts = PN(SUN, "facts"); $("sunFact").textContent = facts[solFact % facts.length]; };
       show(); $("sunNext").onclick = () => { solFact++; show(); };
     }
     card.querySelector(".phead button").onclick = e => {
@@ -1336,7 +1825,7 @@ function renderPlanet(pos) {
       $("lightbox").hidden = false;
     };
   }
-  $("nowLabel").textContent = solOffset === 0 ? "Just nu" : "Den här dagen";
+  $("nowLabel").textContent = L(solOffset === 0 ? "Just nu" : "Den här dagen");
   $("nowText").textContent = now;
   document.querySelectorAll("#planetChips button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.p === solPick)));
 }
@@ -1345,7 +1834,7 @@ function stopSol() { cancelAnimationFrame(solTimer); solTimer = 0; if (solReady)
 function openSol() {
   if (!solReady) {
     solReady = true;
-    $("planetChips").innerHTML = BODIES.map(p => `<button data-p="${p.id}" style="--c:${p.c}" aria-pressed="false"><i></i>${p.name}</button>`).join("");
+    $("planetChips").innerHTML = BODIES.map(p => `<button data-p="${p.id}" style="--c:${p.c}" aria-pressed="false"><i></i>${PN(p, "name")}</button>`).join("");
     $("planetChips").addEventListener("click", e => { const b = e.target.closest("button"); if (b) { solPick = b.dataset.p; drawSol(); } });
     $("solRange").addEventListener("input", e => { stopSol(); solOffset = Number(e.target.value); drawSol(); });
     $("solToday").addEventListener("click", () => { stopSol(); solOffset = 0; $("solRange").value = 0; drawSol(); });
