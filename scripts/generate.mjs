@@ -229,6 +229,16 @@ const EARTH_SCHEMA = {
   }
 };
 
+// Feltyper som hittats vid korrekturläsning av de första veckornas texter.
+const LANGUAGE_RULES = `Språkregler som ofta bryts, kontrollera var och en:
+- Rätt genus: ett rymdteleskop, ett svart hål, en galax, en nebulosa. Adjektiv och artiklar ska böjas efter substantivet (ett gigantiskt svart hål, inte gigantiska svarta hål när det är ett).
+- Inga hemgjorda försvenskningar av engelska ord. Skriv kraterrik (inte kraterfierad), terrängen (inte terrainet), kretsloppet (inte cykeln) och andra etablerade svenska ord.
+- Bara metriska mått. Räkna aldrig om till engelska mil, fot eller Fahrenheit.
+- Kommatera sparsamt och bara där det hjälper läsningen. Hellre ett komma för lite än ett som hamnar fel. Dela hellre upp en lång mening i två.
+- Använda dagens officiella namn på platser på andra himlakroppar (till exempel Sputnik Planitia på Pluto).
+- Skriv varje sak en gång. Upprepa inte samma led två gånger i en mening.
+- Bilder och liknelser ska gå att föreställa sig. Stryk hellre en liknelse än att skriva en som haltar.`;
+
 function promptFor(apod) {
   return `Du är en svensk vetenskapsjournalist som skriver innehåll till en rymdapp. Underlaget är en bild från NASA med NASA:s egen beskrivning.
 
@@ -260,6 +270,8 @@ Ordval: skriv marsrover, rover och rovern (aldrig rovare). Skriv ihop sammansatt
 
 Språk: korrekt, ledig svenska med rätt genus och böjning (en/ett, den/det). Läs igenom varje mening och rätta stavfel innan du svarar. Skriv tal på svenskt vis (1,5 miljoner, 20 000).
 
+${LANGUAGE_RULES}
+
 5. en: samma innehåll på engelska, skrivet direkt på naturlig engelska och inte ordagrant översatt.
    - en.quiz: samma tre frågor med samma rätta svar på samma plats.
    - en.levels: samma tre nivåer (nycklarna heter fortfarande barn, nyborjare och entusiast).
@@ -290,6 +302,8 @@ Skriv:
 Ton: lugn, saklig och respektfull. Om bilden visar en översvämning, brand eller torka som drabbar människor: beskriv det med medkänsla och utan sensationslystnad.
 
 Språk: korrekt, ledig svenska med rätt genus och böjning. Skriv ihop sammansatta ord. Läs igenom och rätta stavfel innan du svarar. Skriv tal på svenskt vis (1,5 miljoner, 20 000).
+
+${LANGUAGE_RULES}
 
 Fakta: håll dig strikt till artikeln. Hitta inte på siffror, orsaker eller följder som inte står där.`;
 }
@@ -400,6 +414,39 @@ async function preview(imageUrl) {
   }
 }
 
+// En andra genomläsning som bara rättar språket i de svenska texterna. Sakinnehåll, rätta svar och ordning får inte ändras.
+// Går något fel, eller kommer svaret tillbaka i annan form, behålls den första versionen.
+const PROOF_SCHEMA = { type: "OBJECT", required: ["title_sv", "levels", "terms"],
+  properties: { title_sv: { type: "STRING" }, place_sv: { type: "STRING" }, quiz: QUIZ, levels: LEVELS, terms: TERMS } };
+async function proofread(content) {
+  if (process.env.PROOFREAD === "0") return content;
+  const sv = { title_sv: content.title_sv, levels: content.levels, terms: content.terms };
+  if (content.place_sv) sv.place_sv = content.place_sv;
+  if (content.quiz) sv.quiz = content.quiz;
+  const prompt = `Du är en noggrann svensk korrekturläsare. Texterna nedan ska visas i en app om rymden och jorden.
+
+Rätta bara språket: stavning, genus och böjning (en/ett), särskrivningar, hemgjorda försvenskningar av engelska ord och meningar som haltar.
+Flytta inte runt kommatecken i meningar som redan går att läsa. Ändra inte sakinnehåll, siffror, namn eller ordningen på något. Lägg inte till och ta inte bort meningar. Text som redan är korrekt lämnas orörd.
+I quiz ska "correct" vara oförändrat och alternativen stå i samma ordning. I terms ska varje term fortfarande förekomma ordagrant i någon av texterna i levels.
+
+${LANGUAGE_RULES}
+
+Svara med samma JSON-struktur som du fick.
+
+${JSON.stringify(sv)}`;
+  const same = c => c && typeof c.title_sv === "string" && c.title_sv && okLevels(c.levels) && Array.isArray(c.terms) && c.terms.length === sv.terms.length &&
+    (!sv.quiz || (Array.isArray(c.quiz) && c.quiz.length === sv.quiz.length && c.quiz.every((q, i) => q.q && q.fact && Array.isArray(q.options) && q.options.length === 3))) &&
+    ["barn", "nyborjare", "entusiast"].every(k => Math.abs(c.levels[k].length - sv.levels[k].length) < sv.levels[k].length * 0.25);
+  try {
+    await wait(Number(process.env.PAUSE_MS ?? 13000));
+    const { content: fixed } = await askGemini(prompt, PROOF_SCHEMA, same);
+    const out = { ...content, title_sv: fixed.title_sv, levels: fixed.levels, terms: fixed.terms };
+    if (sv.place_sv && fixed.place_sv) out.place_sv = fixed.place_sv;
+    if (sv.quiz) out.quiz = fixed.quiz.map((q, i) => ({ ...q, correct: sv.quiz[i].correct }));
+    return out;
+  } catch (e) { console.warn("Språkgranskningen hoppades över: " + e.message); return content; }
+}
+
 async function needs(date) {
   if (!existsSync(fileFor(date))) return true;
   const old = JSON.parse(await readFile(fileFor(date), "utf8"));
@@ -409,6 +456,8 @@ async function needs(date) {
 async function buildDay(apod, mustFit = false) {
   const { content, model } = await askGemini(promptFor(apod));
   if (mustFit && content.fits === false) { const e = new Error("bilden visar inte rymden"); e.unfit = true; throw e; }
+  const checked = await proofread(content);
+  content.title_sv = checked.title_sv; content.quiz = checked.quiz; content.levels = checked.levels; content.terms = checked.terms;
   const day = {
     v: VERSION,
     model,
@@ -478,7 +527,8 @@ async function fetchEarth() {
 }
 const earthFile = date => path.join(EARTH, date + ".json");
 async function buildEarth(e) {
-  const { content, model } = await askGemini(promptEarth(e), EARTH_SCHEMA, validEarth);
+  const first = await askGemini(promptEarth(e), EARTH_SCHEMA, validEarth), model = first.model;
+  const content = await proofread(first.content);
   const day = {
     v: VERSION, model, date: e.date, title: e.title, title_sv: content.title_sv, place: content.place_sv || "",
     url: e.url, thumb: e.thumb, hdurl: e.hdurl, link: e.link, credit: e.credit || "NASA Earth Observatory", source: e.source,
@@ -677,5 +727,51 @@ try {
   await writeFile(SKIP_FILE, JSON.stringify([...skip], null, 1));
   await writeEarthIndex();
 } catch (err) { console.error("Påfyllningen av jordbilder hoppades över: " + err.message); }
+
+// Just nu på jorden: pågående naturhändelser ur NASA:s tjänst EONET, sparade för appen. Fel här stoppar ingenting.
+try {
+  const res = await fetch("https://eonet.gsfc.nasa.gov/api/v3/events?status=open", { headers: UA });
+  if (!res.ok) throw new Error(`EONET svarade ${res.status}`);
+  const list = (await res.json()).events || [], now = Date.now(), dayMs = 864e5;
+  const STORM = [["Super Typhoon", "Supertyfonen"], ["Typhoon", "Tyfonen"], ["Hurricane", "Orkanen"], ["Tropical Storm", "Tropiska stormen"], ["Tropical Depression", "Tropiska lågtrycket"],
+    ["Subtropical Storm", "Subtropiska stormen"], ["Tropical Cyclone", "Tropiska cyklonen"], ["Cyclone", "Cyklonen"]];
+  // Grovt havsområde ur läget: [svenska, engelska]
+  const basin = (lon, lat) => lat >= 0
+    ? (lon < -100 || (lon < -80 && lat < 16) ? ["östra Stilla havet", "eastern Pacific"] : lon <= 20 ? ["Atlanten", "Atlantic"] : lon < 100 ? ["norra Indiska oceanen", "northern Indian Ocean"] : ["västra Stilla havet", "western Pacific"])
+    : (lon >= 20 && lon < 135 ? ["södra Indiska oceanen", "southern Indian Ocean"] : lon >= 135 || lon < -70 ? ["södra Stilla havet", "southern Pacific"] : ["Sydatlanten", "South Atlantic"]);
+  const sv = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, " "), en = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  const out = { storm: [], volcano: [], ice: [], fire: [], other: [] };
+  for (const ev of list) {
+    const geo = (ev.geometry || []).filter(g => g && g.date), first = geo[0], last = geo[geo.length - 1];
+    if (!last) continue;
+    const cat = (ev.categories || [])[0] || {}, age = (now - Date.parse(last.date)) / dayMs, point = last.type === "Point" ? last.coordinates : null;
+    const title = String(ev.title || "").trim(), mag = Number(last.magnitudeValue), unit = last.magnitudeUnit;
+    if (cat.id === "severeStorms") {
+      if (age > 3) continue;   // stormar som inte uppdaterats på flera dygn står ofta kvar som öppna
+      const hit = STORM.find(([e]) => title.startsWith(e + " "));
+      const kmh = unit === "kts" && mag ? Math.round(mag * 1.852 / 5) * 5 : 0, where = point ? basin(point[0], point[1]) : ["", ""];
+      out.storm.push({ kind: "storm", date: last.date, rank: kmh, title_sv: hit ? hit[1] + title.slice(hit[0].length) : title, title_en: title,
+        where_sv: where[0].replace(/^./, c => c.toUpperCase()), where_en: where[1].replace(/^./, c => c.toUpperCase()), value_sv: kmh ? `vindar på ${kmh} km/h` : "", value_en: kmh ? `winds of ${kmh} km/h` : "" });
+    } else if (cat.id === "wildfires") {
+      if (/prescribed|\bRX\b/i.test(title) || (now - Date.parse(first.date)) / dayMs > 10) continue;   // planerade bränningar och gamla bränder hoppas över
+      const place = title.replace(/^Wildfire\s+/i, "").split(",").slice(1).map(x => x.trim()).filter(Boolean).join(", ");
+      const ha = unit === "acres" && mag ? Math.round(mag * 0.4047 / 10) * 10 : 0;
+      if (!place) continue;
+      out.fire.push({ kind: "fire", date: first.date, rank: ha, title_sv: "Skogsbrand i " + place, title_en: "Wildfire in " + place, where_sv: "", where_en: "", value_sv: ha ? sv(ha) + " hektar" : "", value_en: ha ? en(ha) + " hectares" : "" });
+    } else {
+      if (age > 30) continue;
+      const kind = cat.id === "volcanoes" ? "volcano" : cat.id === "seaLakeIce" ? "ice" : "other";
+      const label = { volcanoes: ["Vulkanutbrott", "Volcanic eruption"], seaLakeIce: ["Is och isberg", "Ice and icebergs"], floods: ["Översvämning", "Flood"], earthquakes: ["Jordbävning", "Earthquake"],
+        landslides: ["Jordskred", "Landslide"], dustHaze: ["Stoft och dis", "Dust and haze"], drought: ["Torka", "Drought"], snow: ["Snö", "Snow"], tempExtremes: ["Extrem temperatur", "Extreme temperature"],
+        waterColor: ["Färgat vatten", "Water colour"], manmade: ["Orsakat av människor", "Man-made"] }[cat.id] || [cat.title || "", cat.title || ""];
+      if (kind === "other" && age > 7) continue;
+      out[kind].push({ kind, date: last.date, rank: -age, title_sv: title.replace(/^Iceberg /, "Isberget "), title_en: title, where_sv: label[0], where_en: label[1], value_sv: "", value_en: "" });
+    }
+  }
+  const top = (a, n) => a.sort((x, y) => y.rank - x.rank).slice(0, n).map(({ rank, ...e }) => e);
+  const events = [...top(out.storm, 3), ...top(out.volcano, 2), ...top(out.ice, 1), ...top(out.fire, 2), ...top(out.other, 2)];
+  await writeFile(path.join(DATA, "now.json"), JSON.stringify({ updated: new Date().toISOString(), source: "NASA EONET", events }, null, 1));
+  console.log(`Just nu på jorden: ${events.length} händelser av ${list.length} öppna.`);
+} catch (e) { console.error("Just nu på jorden hoppades över: " + e.message); }
 
 if (failed) process.exit(1);
