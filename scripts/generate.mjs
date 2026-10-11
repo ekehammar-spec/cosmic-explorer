@@ -728,6 +728,61 @@ try {
   await writeEarthIndex();
 } catch (err) { console.error("Påfyllningen av jordbilder hoppades över: " + err.message); }
 
+// Ordlistan: alla ord som förklarats vid bilderna, plus några grundord, samlade i en fil per språk.
+try {
+  const BASE = {
+    sv: [["galax", "En enorm samling av stjärnor, gas och stoft som hålls ihop av gravitationen. Vår egen heter Vintergatan."],
+      ["nebulosa", "Ett moln av gas och stoft i rymden. I vissa föds nya stjärnor, andra är rester av stjärnor som har dött."],
+      ["ljusår", "Sträckan ljuset hinner på ett år, ungefär 9 500 miljarder kilometer. Används för avstånd mellan stjärnor."],
+      ["supernova", "En stjärna som exploderar i slutet av sitt liv och under en kort tid kan lysa starkare än en hel galax."],
+      ["svart hål", "Ett område där gravitationen är så stark att inte ens ljus kan ta sig därifrån."],
+      ["komet", "En klump av is och stoft som kretsar kring solen och får en lysande svans när den värms upp."],
+      ["meteor", "Ljusstrecket som syns när ett litet stenkorn från rymden brinner upp i jordens atmosfär. Kallas också stjärnfall."],
+      ["solstorm", "Ett utbrott på solen som slungar ut laddade partiklar. När de når jorden kan de ge norrsken och störa elnät och satelliter."],
+      ["norrsken", "Ljus på natthimlen som uppstår när laddade partiklar från solen träffar luften högt över jordens poler."],
+      ["Kp-index", "Ett mått från 0 till 9 på hur orolig jordens magnetfält är. Ju högre värde, desto längre söderut kan norrsken synas."],
+      ["exoplanet", "En planet som kretsar kring en annan stjärna än solen."],
+      ["omloppsbana", "Den bana ett föremål följer runt ett annat, till exempel månens väg runt jorden."],
+      ["solförmörkelse", "När månen passerar mellan solen och jorden och skymmer solen helt eller delvis."],
+      ["månförmörkelse", "När jorden hamnar mellan solen och månen, så att jordens skugga faller på månen."]],
+    en: [["galaxy", "A vast collection of stars, gas and dust held together by gravity. Our own is the Milky Way."],
+      ["nebula", "A cloud of gas and dust in space. New stars are born in some; others are the remains of stars that have died."],
+      ["light-year", "The distance light travels in a year, about 9.5 trillion kilometres. Used for distances between stars."],
+      ["supernova", "A star that explodes at the end of its life and for a short time can outshine an entire galaxy."],
+      ["black hole", "A region where gravity is so strong that not even light can escape."],
+      ["comet", "A lump of ice and dust orbiting the Sun that grows a glowing tail when it warms up."],
+      ["meteor", "The streak of light seen when a small grain of rock from space burns up in Earth's atmosphere. Also called a shooting star."],
+      ["solar storm", "An outburst on the Sun that flings out charged particles. When they reach Earth they can cause aurora and disturb power grids and satellites."],
+      ["aurora", "Light in the night sky that appears when charged particles from the Sun hit the air high above Earth's poles."],
+      ["Kp index", "A scale from 0 to 9 of how disturbed Earth's magnetic field is. The higher the value, the further from the poles aurora can be seen."],
+      ["exoplanet", "A planet orbiting a star other than the Sun."],
+      ["orbit", "The path one object follows around another, such as the Moon's path around Earth."],
+      ["solar eclipse", "When the Moon passes between the Sun and Earth and hides the Sun fully or partly."],
+      ["lunar eclipse", "When Earth comes between the Sun and the Moon, so that Earth's shadow falls on the Moon."]]
+  };
+  const words = { sv: new Map(), en: new Map() };
+  const add = (lang, term, text, ref) => {
+    const t = String(term || "").trim(), key = t.toLowerCase();
+    if (t.length < 3 || !text) return;
+    if (!words[lang].has(key)) words[lang].set(key, { t, e: String(text).trim(), d: [] });
+    const w = words[lang].get(key);
+    if (ref && w.d.length < 4 && !w.d.includes(ref)) w.d.push(ref);
+  };
+  for (const [dir, prefix] of [[DATA, ""], [EARTH, "jorden-"]]) {
+    const files = (await readdir(dir)).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().reverse();
+    for (const f of files) {
+      const d = JSON.parse(await readFile(path.join(dir, f), "utf8"));
+      if (dir === DATA && !keepDay(d)) continue;
+      for (const t of d.terms || []) add("sv", t.term, t.explanation, prefix + d.date);
+      for (const t of (d.en && d.en.terms) || []) add("en", t.term, t.explanation, prefix + d.date);
+    }
+  }
+  for (const lang of ["sv", "en"]) for (const [t, e] of BASE[lang]) add(lang, t, e, null);
+  const sorted = lang => [...words[lang].values()].sort((a, b) => a.t.localeCompare(b.t, lang, { sensitivity: "base" }));
+  await writeFile(path.join(DATA, "glossary.json"), JSON.stringify({ sv: sorted("sv"), en: sorted("en") }));
+  console.log(`Ordlistan: ${words.sv.size} svenska och ${words.en.size} engelska ord.`);
+} catch (e) { console.error("Ordlistan hoppades över: " + e.message); }
+
 // Just nu på jorden: pågående naturhändelser ur NASA:s tjänst EONET, sparade för appen. Fel här stoppar ingenting.
 try {
   const res = await fetch("https://eonet.gsfc.nasa.gov/api/v3/events?status=open", { headers: UA });
@@ -765,7 +820,9 @@ try {
         landslides: ["Jordskred", "Landslide"], dustHaze: ["Stoft och dis", "Dust and haze"], drought: ["Torka", "Drought"], snow: ["Snö", "Snow"], tempExtremes: ["Extrem temperatur", "Extreme temperature"],
         waterColor: ["Färgat vatten", "Water colour"], manmade: ["Orsakat av människor", "Man-made"] }[cat.id] || [cat.title || "", cat.title || ""];
       if (kind === "other" && age > 7) continue;
-      out[kind].push({ kind, date: last.date, rank: -age, title_sv: title.replace(/^Iceberg /, "Isberget "), title_en: title, where_sv: label[0], where_en: label[1], value_sv: "", value_en: "" });
+      // Isberg får sitt hav i stället för kategorins namn, som bara upprepar vad det är.
+      const sea = kind === "ice" && point ? (point[1] < -50 ? ["Södra ishavet, vid Antarktis", "Southern Ocean, near Antarctica"] : point[1] > 60 ? ["Norra ishavet", "Arctic Ocean"] : basin(point[0], point[1]).map(x => x.replace(/^./, c => c.toUpperCase()))) : label;
+      out[kind].push({ kind, date: last.date, rank: -age, title_sv: title.replace(/^Iceberg /, "Isberget "), title_en: title, where_sv: sea[0], where_en: sea[1], value_sv: "", value_en: "" });
     }
   }
   const top = (a, n) => a.sort((x, y) => y.rank - x.rank).slice(0, n).map(({ rank, ...e }) => e);
