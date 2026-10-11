@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-09-28",
+  "title": "Lake Powell Half Empty",
+  "title_sv": "Lake Powell halvtom",
+  "place": "Arizona och Utah, USA",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001083/GSFC_20171208_Archive_e001083~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001083/GSFC_20171208_Archive_e001083~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001083/GSFC_20171208_Archive_e001083~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001083",
+  "credit": "NASA Earth Observatory image by Robert Simmon, using Landsat data from the U",
+  "source": "NASA Earth Observatory image by Robert Simmon, using Landsat data from the U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001083",
+  "archive": true,
+  "px": [
+    1919,
+    927
+  ],
+  "w": 640,
+  "h": 309,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAwQAAQX/xAAhEAACAgICAQUAAAAAAAAAAAABAgARAxITIWEEIjFRof/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDaOPkxo6Md+j2xryPyFyP6htRqqDYXXuJEXQBO1FBjZIjQyWtSXVOIWvwfqD5cm4s6Mvw6mVkcFYG2YgA1EpY//9k=",
+  "levels": {
+    "barn": "Bilden visar en stor sjö som heter Lake Powell. Det är en konstgjord sjö, vilket betyder att det är en mänsklig damm. Vattnet i sjön har sjunkit mycket under många år eftersom det har varit väldigt torrt. Runt vattnet syns ljusa ringar på klipporna. De vita klipporna visar var strandkanten brukar vara när dammen är helt full med vatten. Nu är sjön bara halvfull, men det finns ändå många båtar som åker runt på det blå vattnet för att titta på naturen.",
+    "nyborjare": "Satellitbilden från maj 2014 visar Lake Powell, en stor reservoar eller konstgjord sjö i USA. Efter fjorton år av torka, med bara tre år av normalt väder, hade vattennivåerna sjunkit till 42 procent av sin totala kapacitet. De vita, blekta klipporna runt sjön avslöjar var strandlinjen befinner sig när reservoaren är fylld till brädden. Vattennivåerna i reservoaren varierar normalt beroende på hur mycket smält snö och regn som rinner in, och hur mycket som släpps ut för att täcka behov av elektricitet och jordbruk. Trots den oroväckande låka nivån kan det låga vattnet locka besökare som vill bada eller åka båt vid till exempel Bullfrog Bay.",
+    "entusiast": "Denna satellitbild togs av Landsat 8-satelliten den 13 maj 2014 och visar situationen vid Lake Powell. Instrumentet som användes var OLI, vilket står för Operational Land Imager. Forskare vid NASA Earth Observatory och US Geological Survey använde bilderna för att studera de dramatiska fluktuationerna i reservoaren. De vita, blekta klipporna markerar tidigare högre vattennivåer och fungerar som historiska markörer för den omfattande torkan som präglat regionen under fjorton års tid. Data visar att vattennivån i början av år 2000 låg på 94 procent av kapaciteten, men sjönk till 42 procent i maj 2014. Genom att kombinera satellitobservationer av snötäcket i de omgivande bergen med hydrologiska mätningar kunde forskare och myndigheter som Bureau of Reclamation förutspå en viss återhämtning till 51 procent till slutet av vattenåret 2014."
+  },
+  "terms": [
+    {
+      "term": "Reservoir",
+      "explanation": "En konstgjord sjö eller damm som används för att samla upp och lagra vatten."
+    },
+    {
+      "term": "Landsat 8",
+      "explanation": "Den satellit som användes för att ta bilderna av Lake Powell i maj 2014."
+    },
+    {
+      "term": "Bureau of Reclamation",
+      "explanation": "Den myndighet som ansvarar för att hantera och sköta reservoaren."
+    },
+    {
+      "term": "Bullfrog Bay",
+      "explanation": "En populär vik i Lake Powell som fungerar som startpunkt för många båtuthyrningar."
+    },
+    {
+      "term": "Snöpack",
+      "explanation": "Ansamlingen av snö i bergsområden som senare smälter och fyller på sjöar och vattendrag."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows a large lake called Lake Powell, which is a human-made reservoir. The water level in the lake dropped a lot over many years because of a long drought. Around the water, you can see light rings on the rocks. The white bleached rocks show where the shoreline is when the reservoir is completely full. Now the lake is only about half full, but people still bring boats to ride on the blue water.",
+      "nyborjare": "This satellite image from May 2014 shows Lake Powell, a large reservoir in the United States. Following fourteen years of drought, with only three wet years, water levels had dropped to 42 percent of capacity. The white bleached rocks around the lake reveal where the shore sits when the reservoir is completely full. Water levels normally fluctuate depending on inflow from snow and rain and outflow for electricity and agriculture. Despite worries for electricity generators and farmers, the lower water levels expose beaches and rock formations that draw recreational boaters to areas like Bullfrog Bay.",
+      "entusiast": "This satellite image was acquired by the Landsat 8 satellite on May 13, 2014, using the OLI instrument. Researchers at NASA Earth Observatory utilized these Landsat data to document the annual fluctuations and overall decline of Lake Powell. The white bleached rock formations serve as visual markers showing historical shorelines during periods of higher capacity. Data from the Bureau of Reclamation indicated that water levels had dropped from 94 percent capacity at the start of 2000 down to 42 percent by May 2014. By analyzing basin snowpack and hydrological trends, scientists tracked these ecosystem changes and anticipated slight rebounds."
+    },
+    "terms": [
+      {
+        "term": "Reservoir",
+        "explanation": "An artificial lake used to store water for various needs."
+      },
+      {
+        "term": "Landsat 8",
+        "explanation": "The satellite that acquired the images of Lake Powell on May 13, 2014."
+      },
+      {
+        "term": "Bureau of Reclamation",
+        "explanation": "The agency responsible for managing the reservoir."
+      },
+      {
+        "term": "Bullfrog Bay",
+        "explanation": "A popular bay that serves as a starting point for many boat rentals."
+      },
+      {
+        "term": "Snowpack",
+        "explanation": "The accumulation of snow in the basin that feeds water into the lake."
+      }
+    ],
+    "place": "Arizona and Utah, USA"
+  }
+}

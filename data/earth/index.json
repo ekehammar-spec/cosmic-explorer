@@ -1,5 +1,19 @@
 [
  {
+  "date": "2026-10-11",
+  "title": "Övervakning av Arktis i polarnattens mörker",
+  "place": "Arktis (norr om Ryssland och Alaska)",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001617/GSFC_20171208_Archive_e001617~small.jpg",
+  "archive": true
+ },
+ {
+  "date": "2026-10-10",
+  "title": "Tjockt dis över östra Kina",
+  "place": "Nordkinesiska slätten, Kina",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000931/GSFC_20171208_Archive_e000931~small.jpg",
+  "archive": true
+ },
+ {
   "date": "2026-10-09",
   "title": "Översvämningar dränker Thailand",
   "place": "Thailand",
@@ -12,10 +26,38 @@
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg?w=480&h=480&fit=clip"
  },
  {
+  "date": "2026-10-07",
+  "title": "Nationalparken Torres del Paine",
+  "place": "Chile",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001640/GSFC_20171208_Archive_e001640~small.jpg",
+  "archive": true
+ },
+ {
   "date": "2026-10-06",
   "title": "Bäverbruna vatten i Rupert Bay",
   "place": "Kanada",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927.jpg?w=480&h=480&fit=clip"
+ },
+ {
+  "date": "2026-10-05",
+  "title": "Landsat 8:s första år",
+  "place": "USA",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001234/GSFC_20171208_Archive_e001234~small.jpg",
+  "archive": true
+ },
+ {
+  "date": "2026-10-04",
+  "title": "Tångodlingar i Sydkorea",
+  "place": "Sydkoreas sydkust",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000734/GSFC_20171208_Archive_e000734~small.jpg",
+  "archive": true
+ },
+ {
+  "date": "2026-10-03",
+  "title": "Städernas ljus lyser upp Nilen",
+  "place": "Egypten",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001586/GSFC_20171208_Archive_e001586~small.jpg",
+  "archive": true
  },
  {
   "date": "2026-10-02",
@@ -28,5 +70,26 @@
   "title": "En jordbruksö i Saskatchewanflodens delta",
   "place": "Saskatchewanflodens delta, Manitoba, Kanada",
   "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-“island”-in-the-saskatchewan-river-delta/manitobaharvest_oli2_20260702.jpg?w=480&h=480&fit=clip"
+ },
+ {
+  "date": "2026-09-30",
+  "title": "Malaspinaglaciären, Alaska",
+  "place": "Alaska, USA",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000507/GSFC_20171208_Archive_e000507~small.jpg",
+  "archive": true
+ },
+ {
+  "date": "2026-09-29",
+  "title": "Brasílias nationalarena från rymden",
+  "place": "Brasília, Brasilien",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001049/GSFC_20171208_Archive_e001049~small.jpg",
+  "archive": true
+ },
+ {
+  "date": "2026-09-28",
+  "title": "Lake Powell halvtom",
+  "place": "Arizona och Utah, USA",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001083/GSFC_20171208_Archive_e001083~small.jpg",
+  "archive": true
  }
 ]

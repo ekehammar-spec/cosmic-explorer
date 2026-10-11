@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-03",
+  "title": "City Lights Illuminate the Nile",
+  "title_sv": "Städernas ljus lyser upp Nilen",
+  "place": "Egypten",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001586/GSFC_20171208_Archive_e001586~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001586/GSFC_20171208_Archive_e001586~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001586/GSFC_20171208_Archive_e001586~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001586",
+  "credit": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using VIIRS Day-Night Band data from the Suomi National Polar-orbiting Partnership",
+  "source": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using VIIRS Day-Night Band data from the Suomi National Polar-orbiting Partnership.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001586",
+  "archive": true,
+  "px": [
+    720,
+    1080
+  ],
+  "w": 426,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABUDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMCBAEFBv/EACgQAAEEAQMDAgcAAAAAAAAAAAEAAgMRIQQFQRITFCIxI0JhgaHR8f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDjNt2sa/0+VEx90I6txStx0B0OqMJeHAfMsbbL2tdHIeodu32w0RQtKlnk1D3vkcXOLi8k8k+6C75txxMia0NjYG2WWTk/tC1xJoCqpCAhkMUgdQNe4PI5CdLCGDvxHqgsVnIvgqueppyCLHKk13wnMJxggfX+IIEm8flCDn7IQf/Z",
+  "levels": {
+    "barn": "På den här bilden från 2012 ser det ut som om någon har ritat en lysande blomma mitt i mörkret. Det är floden Nilen och dess delta som glittrar på natten. Nästan alla människor i Egypten bor tätt tillsammans längs floden, medan öknen runt omkring är tom och mörk. Eftersom månen inte lyste den natten syns bara lamporna från gator och hus. Den lysande linjen slingrar sig genom öknen och vecklar ut sig som en solfjäder vid Medelhavet.",
+    "nyborjare": "Satellitbilden togs i oktober 2012 och visar Egypten nattetid. Nilens floddal och floddelta utgör mindre än fem procent av landets yta, men rymmer ungefär 97 procent av befolkningen. Denna täta bosättning syns tydligt genom städernas ljus, som liknar en lysande kallablomma mot ett helmörkt landskap. Eftersom det var nymåne fanns inget månljus som lyste upp marken eller havet. Den starkaste ljuspunkten är huvudstaden Kairo, men städer lyser även längs Suezkanalen och bort mot Tel Aviv. Bilden registrerades med instrumentet VIIRS på satelliten Suomi NPP, vars särskilda nattkanal fångar upp synligt och infrarött ljus från mänsklig aktivitet.",
+    "entusiast": "Denna nattbild togs den 13 oktober 2012 av instrumentet VIIRS ombord på satelliten Suomi NPP. Vyn fångades med instrumentets så kallade dag-och-natt-band, en sensor som mäter våglängder från grönt till nära infrarött ljus. Genom filtreringstekniker kan sensorn observera svaga ljuskällor såsom stadsbelysning, gasfacklor, skogsbränder, polarsken och reflekterat månljus. Vid fototillfället var det nymåne, vilket innebar att obebodda landområden och vattenytor förblev helt mörka utan reflekterat månsken. Detta framhäver mänsklig geografi med exceptionell tydlighet. Nilens floddal och floddelta täcker under fem procent av Egyptens landareal men rymmer cirka 97 procent av landets befolkning. Belysningen formar en siluett lik en kallablomma, med en böj vid staden Luxor och en intensiv ljuskoncentration kring Kairo och Suezkanalen. Satelliten Suomi NPP drivs genom ett samarbete mellan NASA, NOAA och USA:s försvarsdepartement."
+  },
+  "terms": [
+    {
+      "term": "VIIRS",
+      "explanation": "Ett satellitinstrument som mäter synligt och infrarött ljus från jorden både dag och natt."
+    },
+    {
+      "term": "Suomi NPP",
+      "explanation": "En observationssatellit för väder och klimat, driven av NASA, NOAA och USA:s försvarsdepartement."
+    },
+    {
+      "term": "dag-och-natt-band",
+      "explanation": "En sensorkanal på instrumentet VIIRS konstruerad för att registrera extremt svaga ljussignaler under natten."
+    },
+    {
+      "term": "floddelta",
+      "explanation": "Ett låglänt område vid en flodmynning där floden förgrenar sig innan den når havet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "In this picture from 2012, nighttime city lights look like a glowing flower against a dark background. That shining shape is the Nile River and its delta. Almost all people in Egypt live very close to the river, while the surrounding desert is empty and dark. Because the Moon was not shining that night, only the lights from streets and houses show up. The bright line curls through the desert and spreads out like a fan near the sea.",
+      "nyborjare": "Captured in October 2012, this satellite image shows Egypt at night. The Nile River Valley and Delta cover less than five percent of Egypt's land area, yet they are home to roughly 97 percent of the population. This concentration of human settlement creates a pattern that resembles a giant calla lily. The brightest glow marks the city of Cairo, with additional lights visible along the Suez Canal and near Tel Aviv. Because the image was acquired around the time of the new Moon, the unpopulated land and water appear completely black. The view was recorded by the VIIRS instrument on the Suomi NPP satellite using its specialized day-night band.",
+      "entusiast": "This nighttime view was acquired on October 13, 2012, by the VIIRS sensor aboard the Suomi NPP satellite. The image utilizes the instrument's day-night band, which detects light across wavelengths from green to near-infrared. Using specialized filtering techniques, this band observes faint signals including city lights, gas flares, auroras, wildfires, and reflected moonlight. Because this scene was acquired near the new Moon, unlit land and water surfaces appear uniformly dark without reflected moonlight. The resulting contrast dramatically illustrates human geography: the Nile River Valley and Delta occupy less than five percent of Egypt's land area but shelter roughly 97 percent of its people. The lights trace the river with a kink near Luxor and culminate in an intense glow over Cairo and the Suez Canal. Suomi NPP represents a partnership between NASA, NOAA, and the Department of Defense."
+    },
+    "terms": [
+      {
+        "term": "VIIRS",
+        "explanation": "A satellite sensor that measures Earth's radiation in visible and infrared wavelengths of light."
+      },
+      {
+        "term": "Suomi NPP",
+        "explanation": "An Earth-observing satellite operated jointly by NASA, NOAA, and the United States Department of Defense."
+      },
+      {
+        "term": "day-night band",
+        "explanation": "A specialized VIIRS sensor channel designed to detect faint visible and near-infrared light emissions at night."
+      },
+      {
+        "term": "delta",
+        "explanation": "A landform created where a river splits and drains into a larger body of water."
+      }
+    ],
+    "place": "Egypt"
+  }
+}

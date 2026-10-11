@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-10",
+  "title": "Haze over Eastern China",
+  "title_sv": "Tjockt dis över östra Kina",
+  "place": "Nordkinesiska slätten, Kina",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000931/GSFC_20171208_Archive_e000931~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000931/GSFC_20171208_Archive_e000931~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000931/GSFC_20171208_Archive_e000931~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000931",
+  "credit": "NASA Earth Observatory",
+  "source": "Credit: NASA Earth Observatory",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000931",
+  "archive": true,
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgQDBQYB/8QAKBAAAgEDAgUEAwEAAAAAAAAAAQIDABESBDEFEyEiYRQyQXFRgZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQASETFB/9oADAMBAAIRAxEAPwAJJGDlb3Hiux6Np5I3exhLd2DDK3+UPKyCozhGLdb/AIqwaOPSIRGBkdz8ms5J1VU0CxuTFksYuLEUUJSHudjYfF96LVSNgxB23rPy63UIx7L5bGnh8safLVRlZpWzjLhX7QB7fP1UmoWRpHJjboNvFNzT8O0irznaeVvdyjZVJpF9a6u2LWVtyep/VSyFH6GfULlgeVa5Px/ap54ZmmIijLAdDcbVpI+Jxs0aGOQqFsGekOKAppz6cYEg7Gx8/dBym//Z",
+  "levels": {
+    "barn": "Bilden visar ett stort, gråvitt täcke som ligger över marken i östra Kina. Det gråvita är inte vanliga moln, utan ett tjockt lager av dis och rök som kallas smog. Denna satellitbild togs i oktober 2014. Diset var så tätt att det dolde stora städer som Peking. Luften innehöll massor av pyttesmå partiklar från eldning och fabriker. Eftersom partiklarna är så små är de inte bra att andas in för människor och djur.",
+    "nyborjare": "På satellitbilden syns ett omfattande grått och disigt skikt som breder ut sig över den Nordkinesiska slätten och döljer landskapet och städer som Peking. Bilden togs den 9 oktober 2014 av satelliten Terra i naturliga färger. Diset orsakades av höga halter av luftföroreningar, särskilt PM2,5. Det är mikroskopiska partiklar med en diameter under 2,5 mikrometer som bildas vid förbränning av fossila bränslen och biomassa. På marken i Peking uppmättes halter på 334 mikrogram per kubikmeter, vilket var långt över Världshälsoorganisationens säkra gräns på 25 mikrogram. Föroreningarna stängdes inne nära markytan genom en temperaturinversion, ett väderfenomen där ett lock av varm luft lägger sig ovanpå kall luft och hindrar luftcirkulationen.",
+    "entusiast": "Denna bild i naturliga färger togs den 9 oktober 2014 klockan 02.50 UTC av instrumentet MODIS ombord på NASA:s satellit Terra. Den visar hur ett massivt dis täcker den Nordkinesiska slätten och helt skymmer Kinas huvudstad Peking från rymden. Satellitdata visade att diset började samlas redan den 7 oktober. Förhållandena förvärrades av en temperaturinversion, vilket är vanligt i regionen under hösten och vintern när kall och tung luft samlas vid ytan. Normalt sjunker temperaturen med höjden, men vid en inversion glider en varm luftmassa in över den svala luften. Eftersom den svala luften saknar energi att stiga avstannar den vertikala omblandningen, vilket stänger inne föroreningar. Markstationer vid USA:s konsulat i Peking registrerade halter av PM2,5 på 334 mikrogram per kubikmeter samma dag. Dessa partiklar är mindre än 2,5 mikrometer, ungefär en trettiondel av ett hårstrås bredd, och uppstår främst vid förbränning av fossila bränslen och biomassa. Världshälsoorganisationen betraktar nivåer över 25 mikrogram som skadliga. Satellitmätningar ger forskare en ovärderlig överblick över partikelspridningen."
+  },
+  "terms": [
+    {
+      "term": "PM2,5",
+      "explanation": "Luftburna partiklar mindre än 2,5 mikrometer som kan tränga djupt in i människans lungor."
+    },
+    {
+      "term": "Temperaturinversion",
+      "explanation": "Ett väderfenomen där varm luft lägger sig över kall luft och stänger inne föroreningar vid marken."
+    },
+    {
+      "term": "MODIS",
+      "explanation": "Ett forskningsinstrument på NASA:s satelliter som fotograferar jordens yta och atmosfär i olika våglängder."
+    },
+    {
+      "term": "Terra",
+      "explanation": "En satellit från NASA som samlar in data om jordens miljö, landmassor och atmosfär."
+    },
+    {
+      "term": "Biomassa",
+      "explanation": "Biologiskt material, exempelvis ved eller jordbruksrester, som kan brännas och avge partiklar."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This image shows a thick, grayish blanket spreading over eastern China. The gray color is not normal clouds, but thick haze and smog. This satellite picture was captured in October 2014. The haze was so dense that it completely hid large cities like Beijing from view. The air was full of tiny particles from burning fuel and wood fires. Because these particles are so small, breathing them in can be harmful for people and animals.",
+      "nyborjare": "In this satellite view, a vast layer of gray haze blankets the North China Plain, completely obscuring the landscape and major cities such as Beijing. Acquired on October 9, 2014, by NASA's Terra satellite in natural color, the image shows severe air pollution. The haze was driven by PM2.5, which refers to fine airborne particulate matter smaller than 2.5 micrometers. These particles primarily originate from burning fossil fuels and biomass like agricultural waste. Ground sensors in Beijing recorded PM2.5 concentrations of 334 micrograms per cubic meter, far above the World Health Organization safe guideline of 25. The pollution was trapped near the surface by a temperature inversion, a meteorological condition where warm air rests above cooler ground air, halting normal atmospheric circulation.",
+      "entusiast": "Acquired on October 9, 2014, at 02:50 UTC by the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard NASA's Terra satellite, this natural-color image captures severe haze blanketing the North China Plain. The pollution was so dense that it completely obscured Beijing. Daily satellite observations revealed that visible haze began accumulating on October 7. The event was exacerbated by a temperature inversion, a meteorological phenomenon typical of autumn and winter in this region. Normally, atmospheric temperature decreases with altitude, but an inversion occurs when a warm air mass moves over cooler surface air. Because the cool, dense air cannot rise through the warmer layer above, vertical atmospheric circulation slows dramatically, trapping emissions near the ground. Surface sensors at the U.S. Consulate in Beijing measured fine particulate matter (PM2.5) concentrations of 334 micrograms per cubic meter, well above the World Health Organization safe threshold of 25. These aerosol particles are smaller than 2.5 microns, about one thirtieth the width of a human hair, and stem largely from fossil fuel combustion and biomass burning."
+    },
+    "terms": [
+      {
+        "term": "PM2.5",
+        "explanation": "Fine airborne particles smaller than 2.5 micrometers that can penetrate deep into human lungs."
+      },
+      {
+        "term": "Temperature inversion",
+        "explanation": "A meteorological condition where warm air traps cooler air and pollutants near the ground."
+      },
+      {
+        "term": "MODIS",
+        "explanation": "An imaging instrument aboard NASA satellites that monitors Earth's land, oceans, and atmosphere."
+      },
+      {
+        "term": "Terra",
+        "explanation": "A NASA Earth-observing satellite designed to monitor global environmental changes and climate systems."
+      },
+      {
+        "term": "Biomass",
+        "explanation": "Biological matter, such as wood or agricultural waste, burned as fuel or clearing debris."
+      }
+    ],
+    "place": "North China Plain, China"
+  }
+}

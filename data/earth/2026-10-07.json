@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-07",
+  "title": "Torres del Paine National Park",
+  "title_sv": "Nationalparken Torres del Paine",
+  "place": "Chile",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001640/GSFC_20171208_Archive_e001640~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001640/GSFC_20171208_Archive_e001640~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001640/GSFC_20171208_Archive_e001640~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001640",
+  "credit": "NASA Earth Observatory image created by Jesse Allen and Robert Simmon, using Advanced Land Imager data from the NASA EO-1 team",
+  "source": "NASA Earth Observatory image created by Jesse Allen and Robert Simmon, using Advanced Land Imager data from the NASA EO-1 team.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001640",
+  "archive": true,
+  "px": [
+    1549,
+    1920
+  ],
+  "w": 516,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABoDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQGAQIF/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBRIhMUETFCJRcTKRM2KBobHB8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAMAwEAAhEDEQA/AKnVrmc30UNtIIpUiaRi/wBJGQMY781D6zPMJluZPClYYYlQAHDdcgd+1U+uxTSQTeBzc22HjGeWUjDD4OP2qNlt2eyj8tandIMmcnCuAASPkGjWLS3D3M0srKXQLhQxwB/v6oXmHx+F9jRWtTBbAzAl5B6ZM8A8YFLkqCQSM1OmU9zqDWiS6hI0sc1z6PDReYyOpJPQ98UhJeyWyPZySt5Pa80G0c7m5Az7ZzXe1q1V9Sn0qICKO9USpuJIWYZ4Htn+alJcw24tbhMTROcMD2PY/qKpSjSXErw7Z5FVAoDKDkn79KS3RdmTHyKzKSFSR0O1h6WI4OOtabUPJhBz+UUmDH//2Q==",
+  "levels": {
+    "barn": "På bilden ser du ett vilt landskap i Chile fotograferat från rymden år 2013. Det vita och blågrå som slingrar sig ner från bergen är stora glaciärer, som är tjocka floder av is.\n\nNär isen sakta glider fram krossar den sten till ett fint pulver. Pulvret rinner ut i sjöarna och färgar vattnet i allt från brunt till lysande turkos. Runt omkring reser sig mörka, spetsiga bergstoppar mot himlen.",
+    "nyborjare": "Satellitbilden fångade en del av nationalparken Torres del Paine i södra Chile under den sydliga sommaren 2013. I mitten och till vänster syns glaciären Grey Glacier och bergskedjan Cordillera del Paine.\n\nGlaciärernas tunga ismassor rör sig sakta över berggrunden och maler ner berget till ett fint stenmjöl, så kallat glaciärmjöl. Detta mjöl förs vidare ut i sötvattensjöarna, vilket ger vattnet dess skiftande bruna och turkosa nyanser. Tunna älvar binder samman flera av sjöarna.\n\nCordillera del Paine består av dramatiska granittoppar och mindre glaciärer. De mest kända är de tre tätt stående topparna Torres del Paine. Geologiskt sett är bergskedjan ung, bara omkring 12 miljoner år gammal, och formades när magma trängde upp och skapade en kupolformad bergartskropp.",
+    "entusiast": "Den 21 januari 2013 registrerade instrumentet Advanced Land Imager (ALI) ombord på NASA:s satellit Earth Observing-1 (EO-1) denna sommarvy över nationalparken Torres del Paine i Chile. Bilden visar Grey Glacier och den kompakta bergskedjan Cordillera del Paine, omgivna av breda glaciärdalar och sjösystem.\n\nNär glaciärisen nöter mot berggrunden finfördelas bergarter till glaciärmjöl. Suspensionen av detta mjöl i smältvattnet sprider solljuset och ger sjöarna deras karakteristiska färgvariationer från brunt till turkosblått. Smala älvfåror leder vattnet vidare mellan de olika bassängerna.\n\nÄven om Cordillera del Paine framstår som uråldrig ur ett mänskligt perspektiv, är bergskedjan geologiskt mycket ung med en ålder på cirka 12 miljoner år. Detta kan jämföras med Klippiga bergen på 70 miljoner år och Appalacherna på omkring 480 miljoner år. I en studie från 2008 analyserade forskare zirkonkristaller för att tidsbestämma berggrunden. Resultaten visade att massivet byggdes upp under tre distinkta magmatiska pulser. Dessa pulser skapade en mer än 2 000 meter tjock lakkolit av granit, vilken senare har eroderats fram till dagens spektakulära toppar, däribland de tre ikoniska granittornen Torres del Paine."
+  },
+  "terms": [
+    {
+      "term": "glaciärmjöl",
+      "explanation": "Finmalet stenpulver som bildas när glaciärer nöter mot berggrunden och ger glaciärsjöar en grumlig, turkos eller brun färg."
+    },
+    {
+      "term": "lakkolit",
+      "explanation": "En kupolformad geologisk intrusion av magmatisk bergart som bildats när magma trängt in mellan äldre berglager."
+    },
+    {
+      "term": "zirkon",
+      "explanation": "Ett tåligt mineral vars kristaller ofta används av geologer för att åldersbestämma bergarter genom radiometrisk datering."
+    },
+    {
+      "term": "Cordillera del Paine",
+      "explanation": "En kompakt bergskedja i södra Chile känd för sina höga granittoppar och små glaciärer."
+    },
+    {
+      "term": "Advanced Land Imager",
+      "explanation": "Ett optiskt observationsinstrument ombord på NASA:s satellit EO-1 som samlade in detaljerade markytedata."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This satellite photo from 2013 shows a wild landscape in Chile. The large white and blue-gray shapes are glaciers, which are moving rivers of ice.\n\nAs the heavy ice grinds across the ground, it turns hard rock into fine dust. This dust washes into the lakes and turns the water brown or bright turquoise. Towering dark peaks rise high between the icy valleys.",
+      "nyborjare": "Captured in the southern summer of 2013, this view shows part of Torres del Paine National Park in Chile. The image highlights Grey Glacier alongside the Cordillera del Paine mountain range.\n\nRivers of glacial ice grind across the bedrock, crushing rock into fine glacial flour. Many glaciers feed into freshwater lakes, where this suspended rock dust tints the water in shades from brown to turquoise. Narrow streams connect several of these lakes across the landscape.\n\nThe Cordillera del Paine consists of jagged granite peaks and small glaciers, highlighted by the three famous Towers of Paine. At roughly 12 million years old, these mountains are remarkably young compared to many other mountain chains on Earth.",
+      "entusiast": "On January 21, 2013, the Advanced Land Imager (ALI) on NASA’s Earth Observing-1 (EO-1) satellite acquired this summertime image of Torres del Paine National Park in Chile. The scene captures Grey Glacier and the rugged Cordillera del Paine rising between broad glacial valleys.\n\nAs glacial ice scours the underlying bedrock, it pulverizes rock into glacial flour. When glaciers terminate in freshwater lakes, this rock flour colors the waters in shades ranging from brown to vivid turquoise. Slender rivers link these glacial lakes together across the terrain.\n\nGeologically, Cordillera del Paine is exceptionally young at approximately 12 million years, especially compared to the Rocky Mountains (70 million years) or the Appalachians (around 480 million years). A 2008 study detailed how researchers used zircon crystals to determine the range's age. The findings revealed that the mountain range formed through three magmatic pulses, creating a granite laccolith over 2,000 meters thick that glacial erosion later carved into towering spires."
+    },
+    "terms": [
+      {
+        "term": "glacial flour",
+        "explanation": "Extremely fine rock powder produced by glacial grinding that colors meltwater lakes brown or turquoise."
+      },
+      {
+        "term": "laccolith",
+        "explanation": "An igneous intrusion that forms a dome-shaped body of rock by forcing overlying strata upward."
+      },
+      {
+        "term": "zircon",
+        "explanation": "A resilient mineral crystal widely used by geologists to date the formation of igneous rocks."
+      },
+      {
+        "term": "Cordillera del Paine",
+        "explanation": "A compact mountain range in Chilean Patagonia defined by towering granite peaks and small glaciers."
+      },
+      {
+        "term": "Advanced Land Imager",
+        "explanation": "A satellite sensor flown on NASA's EO-1 mission designed to acquire multispectral land surface imagery."
+      }
+    ],
+    "place": "Chile"
+  }
+}

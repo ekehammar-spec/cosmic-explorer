@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-09-30",
+  "title": "Malaspina Glacier, Alaska",
+  "title_sv": "Malaspinaglaciären, Alaska",
+  "place": "Alaska, USA",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000507/GSFC_20171208_Archive_e000507~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000507/GSFC_20171208_Archive_e000507~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000507/GSFC_20171208_Archive_e000507~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000507",
+  "credit": "NASA Earth Observatory image by Jesse Allen, using Landsat data from the U",
+  "source": "NASA Earth Observatory image by Jesse Allen, using Landsat data from the U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000507",
+  "archive": true,
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAQQD/8QAKBAAAgEDAwMEAgMAAAAAAAAAAQIDAAQREiExBSJBE1FhgTJxQpGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQADAAAAAAAAAAAAAAAAAQACERL/2gAMAwEAAhEDEQA/AHN2nVcI6ljsuob1Ye4IJYxKw5Uhhj7pGXrVxPM7OwAK6Bzsfj55/ujE19d2zxWloNeykayS2MeR4puamNJmAJmCoB7NmpOomQYzsdiDj/aEv1ZIdazHDoPxB7s4961RSwLGHXtYjJAOfverJAtr0wyOYkEUjHY6ckffimjoKH0GuH3d3PcdzilKIhlxKvaP5eR+q3QdTktsATDQOATgmnKWTMYv19VkkBUAMByOTmgMV3dwzo0bHVGdOD4/dSXqFxJPqSWPB581wubn0ycZaQjuf3qcrVzC/9k=",
+  "levels": {
+    "barn": "Från rymden ser den här stora glaciären ut som en gigantisk pannkakssmet som runnit ut över marken. Det vita och blågrå är tjock is och snö. De bruna, randiga mönstren består av sten, grus och jord som isen har skrapat loss från bergen.\n\nIsen rör sig inte jämnt hela tiden. Ibland rusar den plötsligt framåt i hög fart. Då knölas gruslinjerna ihop till svängiga vågor och snurror, nästan som målningar i isen. Bilden togs av en satellit år 2014.",
+    "nyborjare": "Satellitbilden från 2014 visar Malaspinaglaciären i sydöstra Alaska, Nordamerikas största så kallade piedmontglaciär. Det är en glaciärtyp där isen rinner ut ur en brant dal och breder ut sig över en platt slätt, ungefär som en uthälld pannkakssmet.\n\nHuvuddelen av isen strömmar ner från Sewardglaciären högst upp i mitten, och möter andra glaciärer längs sidorna. De bruna linjerna på isen kallas moräner och består av grus, jord och stenar som isen har skrapat upp. Där två glaciärer möts förenas dessa till en mittmorän.\n\nVanligtvis bildar is som rör sig jämnt raka linjer. Men här rusar glaciärerna periodvis framåt i hög fart under ett eller flera år, ett fenomen som kallas surge. Denna ryckiga rörelse gör att moränerna trycks ihop och veckas till de dramatiska öglor och sick-sack-mönster som syns i bilden.",
+    "entusiast": "Den 24 september 2014 fångade instrumentet Operational Land Imager (OLI) på satelliten Landsat 8 denna vy över Malaspinaglaciären i sydöstra Alaska. Detta är Nordamerikas och möjligen världens största piedmontglaciär, en glaciärtyp där ismassor väller ut ur trånga dalar och sprider ut sig över en kustslätt.\n\nIsens huvudsakliga källa är Sewardglaciären i bildens övre mitt. Längs flankerna ansluter Agassiz och Libbey till vänster samt Hayden och Marvine till höger. De bruna stråken utgörs av moräner, bestående av jord, bergkross och sediment som glaciären hyvlat av från dalväggarna och deponerat längs sina kanter. När två glaciärer flyter samman förenas deras sidomoräner till sammanhängande mittmoräner.\n\nGlaciärer med stabil hastighet skapar vanligen raka moränlinjer. Malaspinas karakteristiska virvlar, bukter och öglor är däremot resultatet av återkommande glaciärrusningar, så kallade surges. Under dessa faser skjuter isen plötsligt framåt i exceptionell fart under ett till flera år. Den ojämna dynamiken gör att moränerna komprimeras, skjuvas och veckas samman. Ett tydligt exempel inträffade år 1986, då en surge försköt moränerna på glaciärens östra sida med upp till fem kilometer. Satellitobservationer som denna ger forskare möjlighet att kartlägga hur sådana oregelbundna spänningar och massflöden deformerar isen över tid."
+  },
+  "terms": [
+    {
+      "term": "piedmontglaciär",
+      "explanation": "En typ av glaciär som väller ut ur en brant dal och breder ut sig över en intilliggande slätt."
+    },
+    {
+      "term": "morän",
+      "explanation": "Jord, grus och stenmaterial som en glaciär har skrapat loss och transporterat med sig."
+    },
+    {
+      "term": "mittmorän",
+      "explanation": "Ett mörkt stråk av sediment som uppstår längs mitten av en ismassa där två glaciärer möts."
+    },
+    {
+      "term": "surge",
+      "explanation": "En plötslig och snabb framryckning hos en glaciär som pågår under ett eller flera år."
+    },
+    {
+      "term": "Landsat 8",
+      "explanation": "En amerikansk jordresurssatellit utrustad med avancerade sensorer för optisk observation av jordytan."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "From space, this massive glacier looks like pancake batter that has spilled out across the ground. The white and grey areas are thick ice and snow. The winding brown lines are dirt, sand, and rock scraped off mountains by the moving ice.\n\nThe ice does not always move at a steady speed. Sometimes it suddenly lurches forward very fast. When that happens, the stripes of dirt get squished and folded into wild loops and zigzags. A satellite captured this amazing view in 2014.",
+      "nyborjare": "This satellite image from 2014 displays the Malaspina Glacier in southeastern Alaska, the largest piedmont glacier in North America. A piedmont glacier forms when ice flows out of a steep valley and spreads freely across a flat plain, much like pancake batter.\n\nThe primary flow pours down from the Seward Glacier near the top center, converging with neighboring glaciers. The brown bands across the ice are moraines, made of soil, rock, and debris scraped up by glacial movement. Where two glaciers join together, their edges merge into a medial moraine.\n\nWhile steady glaciers produce fairly straight lines, Malaspina experiences periodic surges where the ice advances rapidly for one to several years. This erratic movement buckles and folds the debris into the mesmerizing loops and curves seen across its surface.",
+      "entusiast": "On September 24, 2014, the Operational Land Imager (OLI) aboard the Landsat 8 satellite captured this scene of Malaspina Glacier in southeastern Alaska. It is the largest piedmont glacier in North America and likely the world, characterized by ice descending from steep valleys onto an unconstrained coastal plain.\n\nThe main ice source is the Seward Glacier at the top-center, flanked by the Agassiz and Libbey glaciers to the left and the Hayden and Marvine glaciers to the right. The dark ribbons are moraines composed of soil, rock, and debris eroded and deposited by glacial motion. Where adjacent ice streams converge, lateral debris combines to form prominent medial moraines.\n\nWhereas steadily flowing glaciers maintain relatively linear moraines, Malaspina displays complex, zigzagging loops. These features are driven by periodic surges, during which the glacier lurches forward rapidly over one to several years. This irregular flow shears, folds, and compresses debris fields; for instance, a 1986 surge shifted moraines on the eastern flank by as much as 5 kilometers. Remote sensing data like this provides glaciologists with critical records of dynamic deformation and surge cycles over decadal scales."
+    },
+    "terms": [
+      {
+        "term": "piedmont glacier",
+        "explanation": "A glacier that pours out from a steep mountain valley and spreads out over a flat plain."
+      },
+      {
+        "term": "moraine",
+        "explanation": "An accumulation of soil, rock, and debris carried and deposited along the edges of a glacier."
+      },
+      {
+        "term": "medial moraine",
+        "explanation": "A debris stripe running down the center of an ice flow, formed when two glaciers merge."
+      },
+      {
+        "term": "surge",
+        "explanation": "A periodic phase of rapid forward acceleration in a glacier lasting for one to several years."
+      },
+      {
+        "term": "Landsat 8",
+        "explanation": "A collaborative NASA and USGS Earth observation satellite launched to monitor land surfaces."
+      }
+    ],
+    "place": "Alaska, USA"
+  }
+}

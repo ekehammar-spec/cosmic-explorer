@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-11",
+  "title": "Monitoring the Arctic during Polar Darkness",
+  "title_sv": "Övervakning av Arktis i polarnattens mörker",
+  "place": "Arktis (norr om Ryssland och Alaska)",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001617/GSFC_20171208_Archive_e001617~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001617/GSFC_20171208_Archive_e001617~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001617/GSFC_20171208_Archive_e001617~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001617",
+  "credit": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using VIIRS Day-Night Band data from the Suomi National Polar-orbiting Partnership",
+  "source": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using VIIRS Day-Night Band data from the Suomi National Polar-orbiting Partnership.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001617",
+  "archive": true,
+  "px": [
+    1883,
+    1919
+  ],
+  "w": 627,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAwQAAgX/xAAmEAACAgIBBAEEAwAAAAAAAAABAgMRAAQhBRIxQRMiI1FxMmGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AAgrLH3LyMXlQL5yQTpHcQYivAcVWJ76namEcUx4F0vj/TgDnl7XICgqBdg4lrzSPssqchuf1mzH01ViTuago5P5yiwwxuywxgflsCT7utqpGhktvXvjE493S+Z2idlYkAiq7j6NYbV6drHVdW+5Kb/kOcRh6WV3hK3CDwtYBZ+pyfEximacBhYZaoH1jkGypQMwALKGu+Mxd+9fZKhCYuWrwDlHkkg144mZltQzfTY/r9YH/9k=",
+  "levels": {
+    "barn": "Bilden visar Arktis uppifrån rymden en natt i oktober 2012. Det ser ganska mörkt och mystiskt ut, men man kan ändå se vita och gråa former. Det vita är snö och havsis som flyter på det kalla vattnet. Den svarta ytan runt omkring är öppet hav. En speciell satellit tog bilden trots att solen inte lyste. Den använde det svaga ljuset från månen och stjärnorna för att se isen mitt i den mörka polarnatten.",
+    "nyborjare": "Satellitbilden från den 30 oktober 2012 visar havsis och moln över Arktis norr om Ryssland och Alaska under polarnatten, då solen inte går upp. Efter att havsisens utbredning nådde en rekordlåg nivå sommaren 2012 ville forskare noga följa hur ny is bildades under hösten. Vanliga satellitkameror kan inte ta bilder när det är bäckmörkt. Det här fotot togs i stället med ett särskilt instrument kallat VIIRS på satelliten Suomi NPP. Instrumentet har ett nattläge som kan fånga upp extremt svagt ljus från månen, stjärnorna och atmosfärens eget sken, vilket gör att forskare kan se både is, öppet vatten och stormar i detalj.",
+    "entusiast": "Denna bild togs den 30 oktober 2012 av instrumentet VIIRS ombord på den polärbanegående satelliten Suomi NPP. Sommaren 2012 noterades en rekordlåg utbredning av havsis i Arktis, och forskare ville undersöka hur isen återhämtade sig när vintern närmade sig. När polarnatten sänker sig räcker vanliga sensorer för synligt ljus inte till, och passiva mikrovågssensorer har betydligt lägre upplösning. VIIRS har dock ett så kallat day-night band som registrerar våglängder från grönt ljus till nära infrarött. Bandet förstärker mycket svagt ljus från månljus, stjärnljus från Vintergatan, zodiakalljus och luftsken från kemiska reaktioner i atmosfären. Tack vare att satellitbanorna överlappar vid höga breddgrader kan forskare kombinera flera passager och följa vädersystem, fartygstrafik och snabba isrörelser i detalj under den arktiska vintern."
+  },
+  "terms": [
+    {
+      "term": "polarnatt",
+      "explanation": "En period under vintern vid polartrakterna då solen inte alls når över horisonten."
+    },
+    {
+      "term": "Suomi NPP",
+      "explanation": "En väder- och miljöforskningssatellit i polär bana som drivs i samarbete med bland annat NASA."
+    },
+    {
+      "term": "VIIRS",
+      "explanation": "Ett satellitinstrument som samlar in synligt och infrarött ljus över både land, hav och atmosfär."
+    },
+    {
+      "term": "luftsken",
+      "explanation": "Ett mycket svagt ljussken i atmosfären som uppstår genom naturliga kemiska reaktioner."
+    },
+    {
+      "term": "zodiakalljus",
+      "explanation": "Ett svagt ljussken som uppstår när solljus sprids av interplanetärt stoft i solsystemet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This image shows the Arctic from space on a night in October 2012. Even though it looks dark, you can see white and grayish shapes. The bright areas are sea ice and snow floating on the ocean, while the dark areas are cold open water. A special satellite captured this view in the middle of polar darkness by using faint light from the Moon and the stars.",
+      "nyborjare": "Acquired on October 30, 2012, this satellite view shows sea ice north of Russia and Alaska during the polar night, when the Sun does not rise. After Arctic sea ice dropped to a record low extent in the summer of 2012, scientists wanted to monitor how the ice reformed during autumn. Regular satellite cameras cannot produce photos in the dark. This view was captured by the VIIRS sensor on the Suomi NPP satellite, which can detect extremely faint light from the Moon, stars, and atmospheric glow to track ice, clouds, and open water.",
+      "entusiast": "Captured on October 30, 2012, by the VIIRS instrument on the polar-orbiting Suomi NPP satellite, this imagery reveals sea ice following the record-low ice extent of summer 2012. Standard optical sensors cannot view polar regions during the polar night, and passive microwave sensors yield much lower spatial resolution. The VIIRS day-night band bridges this gap by detecting wavelengths from green to near-infrared. It captures reflected moonlight, starlight, zodiacal light, and atmospheric airglow to track fine-scale sea ice growth, ship movements, and severe weather systems through overlapping high-latitude orbital passes."
+    },
+    "terms": [
+      {
+        "term": "polar night",
+        "explanation": "The winter period within polar circles during which the Sun remains continuously below the horizon."
+      },
+      {
+        "term": "Suomi NPP",
+        "explanation": "A polar-orbiting Earth-observing satellite operated collaboratively by NASA and partner agencies."
+      },
+      {
+        "term": "VIIRS",
+        "explanation": "A satellite radiometer that collects global visible and infrared imagery of Earth."
+      },
+      {
+        "term": "airglow",
+        "explanation": "The faint optical emission of a planetary atmosphere caused by chemical reactions."
+      },
+      {
+        "term": "zodiacal light",
+        "explanation": "Faint sunlight scattered by interplanetary dust particles along the plane of the solar system."
+      }
+    ],
+    "place": "Arctic (north of Russia and Alaska)"
+  }
+}

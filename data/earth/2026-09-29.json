@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-09-29",
+  "title": "National Stadium of Brasília",
+  "title_sv": "Brasílias nationalarena från rymden",
+  "place": "Brasília, Brasilien",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001049/GSFC_20171208_Archive_e001049~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001049/GSFC_20171208_Archive_e001049~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001049/GSFC_20171208_Archive_e001049~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001049",
+  "credit": "NASA Earth Observatory",
+  "source": "Credit: NASA Earth Observatory",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001049",
+  "archive": true,
+  "px": [
+    1440,
+    960
+  ],
+  "w": 640,
+  "h": 426,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACUQAAICAgEDAwUAAAAAAAAAAAECAxEAIRIEMYEiQVEFEzJi8P/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABoRAAICAwAAAAAAAAAAAAAAAAABETECUWH/2gAMAwEAAhEDEQA/AFiEQjDsFUijXveNJKGlSqojRySyS+m0T7fY/IyYJMJBO034vJ4ubG+DwxxMs0Mi/lbN+wJ75LkkaPHalF1bjbecqGuVXtRzQr5zP1MAV7WuBAJ4+38cbcgSgT6PIeoieJtEb5DLq5SVVPqDLZwwyTKEmdm6uJboAMw+O2bOtnJjjQKqhOBsDZsXhhiVGbP/2Q==",
+  "levels": {
+    "barn": "Titta noga mitt i bilden. Där syns en klarvit ring. Det är en jättestor fotbollsarena i Brasiliens huvudstad Brasília! Runt arenan breder staden ut sig med gator och kvarter. Om du tittar noga ser gatorna ut som vingarna på en flygande fågel. Till höger syns en stor sjö som heter Lago Paranoá, och på andra sidan vattnet ligger stadens flygplats. Bilden togs av astronauter som tittade ut genom fönstret på rymdstationen.",
+    "nyborjare": "Den här bilden togs av astronauter ombord på Internationella rymdstationen och visar Brasiliens huvudstad Brasília från ovan. Mitt i bilden syns en lysande vit ring. Det är taket på landets nationalarena för fotboll, Estádio Nacional. Arenan genomgick en stor ombyggnad med start år 2010 inför fotbolls-VM och blev då en av världens dyraste arenor.\n\nBrasília är känd för sin genomtänkta stadsplanering, som uppifrån liknar en flygande fågel med svepande vingar. Vingarna formas av de långa, böjda boulevarderna till vänster i bild. I det nedre högra hörnet, på andra sidan sjön Lago Paranoá, syns stadens internationella flygplats som rustades upp för att ta emot tusentals besökare. Bilden är roterad så att norr pekar åt vänster.",
+    "entusiast": "Fotografiet togs från Internationella rymdstationen (ISS) och fångar Brasílias särpräglade urbana geografi sedd från omloppsbana. I bildens centrum framträder taket på Estádio Nacional som en distinkt, reflekterande vit ring. Byggnaden är en av Brasílias största konstruktioner och renoverades inför fotbolls-VM 2014, en satsning som inleddes 2010 och gjorde arenan till världens näst dyraste efter Wembley Stadium i London.\n\nAstronautfotografering från rymdstationen ger forskare och stadsplanerare ett värdefullt perspektiv på urban infrastruktur och mänsklig markanvändning. Här syns tydligt Brasílias berömda stadsplan, vars form påminner om en fågel i flykt med svepande vingar. Denna form skapas av de krökta boulevarderna i bildens vänstra del. Arenan är placerad i stadens mitt, mellan vingarna.\n\nI bildens nedre högra hörn, bortom den uppdämda sjön Lago Paranoá, syns Brasílias internationella flygplats. Denna och övriga transportsystem genomgick omfattande moderniseringar för att hantera den internationella publiktillströmningen. Bilden är orienterad med norr riktat åt vänster, vilket ger en annorlunda blick på hur modern stadsarkitektur och storskaliga evenemang formar landskapet."
+  },
+  "terms": [
+    {
+      "term": "Estádio Nacional",
+      "explanation": "Brasiliens nationalarena för fotboll, belägen i hjärtat av huvudstaden Brasília."
+    },
+    {
+      "term": "Internationella rymdstationen",
+      "explanation": "En bemannad forskningsstation i omloppsbana runt jorden, varifrån astronauter fotograferar jordytan."
+    },
+    {
+      "term": "Lago Paranoá",
+      "explanation": "En konstgjord sjö i Brasília som skiljer stadens centrum från den internationella flygplatsen."
+    },
+    {
+      "term": "Stadsplanering",
+      "explanation": "Den medvetna utformningen och regleringen av en stads byggnader, gator och markanvändning."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look closely at the middle of the picture. You can see a bright white ring. That is a huge soccer stadium in Brazil's capital city, Brasília! Around the stadium, the city spreads out with streets and buildings. If you look carefully, the curved avenues look like the wings of a flying bird. On the right, there is a large lake called Lake Paranoá, with an airport on the far side. Astronauts took this picture from space!",
+      "nyborjare": "Taken by astronauts aboard the International Space Station, this photograph shows Brazil’s capital city of Brasília from orbit ahead of the 2014 World Cup. Near the center, a bright white circle stands out: the Estádio Nacional, Brazil’s national football stadium. Renovated starting in 2010, it became one of the largest buildings in the capital and the second most expensive stadium in the world.\n\nBrasília is famous for its modern architecture and distinctive city layout, which resembles a flying bird with swept wings formed by curved boulevards on the left. Between these wings lies the stadium in the city center. In the lower right, across Lake Paranoá, sits the international airport, which was upgraded alongside transport networks to welcome global travelers. Note that north is oriented to the left.",
+      "entusiast": "Captured from the International Space Station (ISS), this orbital view documents the modern architectural layout and infrastructure of Brasília, Brazil. At the heart of the image, the roof of the Estádio Nacional shines as a brilliant white ring. Following extensive renovations that began in 2010 ahead of the 2014 World Cup, the venue became one of Brasília’s largest structures and the world’s second most expensive stadium after Wembley Stadium in London.\n\nAstronaut photography from the ISS provides a unique vantage point for observing urban design and infrastructure. Brasília is celebrated for its planned layout, which takes the form of a bird in flight with swept wings traced by the sweeping curves of major boulevards to the image left. The national stadium occupies a prime position directly between these wings.\n\nThe image is rotated so that north is oriented to the left. Across Lake Paranoá, visible in the lower right, lies Brasília’s international airport. Like much of the city's transport infrastructure, the airport was substantially updated to manage the influx of international fans. Such imagery highlights how major global events drive large-scale urban modification visible from low Earth orbit."
+    },
+    "terms": [
+      {
+        "term": "Estádio Nacional",
+        "explanation": "Brazil's national football stadium, located near the center of the capital city Brasília."
+      },
+      {
+        "term": "International Space Station",
+        "explanation": "A crewed orbital laboratory from which astronauts observe and photograph Earth's surface."
+      },
+      {
+        "term": "Lake Paranoá",
+        "explanation": "An artificial lake in Brasília situated between the main city center and the international airport."
+      },
+      {
+        "term": "Swept wing",
+        "explanation": "A planned urban layout describing Brasília's boulevard system, resembling the curved wings of a bird."
+      }
+    ],
+    "place": "Brasília, Brazil"
+  }
+}

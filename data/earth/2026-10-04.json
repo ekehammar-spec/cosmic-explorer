@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-04",
+  "title": "Seaweed Farms in South Korea",
+  "title_sv": "Tångodlingar i Sydkorea",
+  "place": "Sydkoreas sydkust",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000734/GSFC_20171208_Archive_e000734~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000734/GSFC_20171208_Archive_e000734~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000734/GSFC_20171208_Archive_e000734~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000734",
+  "credit": "NASA Earth Observatory image by Jesse Allen, using Landsat data from the U",
+  "source": "NASA Earth Observatory image by Jesse Allen, using Landsat data from the U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000734",
+  "archive": true,
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgQDBQYA/8QAIhABAQABBAIBBQAAAAAAAAAAAQIRAAMhMQQSIhMUQVGB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEiEiQf/aAAwDAQACEQMRAD8AzvgbVZGxJ/WT5ab9ZLukLJnES9Z0BUk8ACYlO3RztxuM1UrU9ZdKXFHPKXa2IxA7V+0V9Ve88AaPbrICP91YMHq5Bz2aSpmCvl10LyaqMCMmSyR8kZr2zL+M648uCeEzqnrec8quo73K9pB4da6kU2zQzvFYXnPWlvJdv2qkB71UHkVt8FZDnl1Mb/3EuVyHWlIHF+n/2Q==",
+  "levels": {
+    "barn": "Titta på det mörka rutmönstret i det blå vattnet! Det ser nästan ut som små trädgårdsland ute i havet, och det är precis vad det är. Bilden togs från rymden år 2014 och visar odlingar av ätlig tång.\n\nBönderna odlar tången på långa rep som hålls uppe av flytande bojar. Då får växterna solljus från ytan utan att skadas mot botten. Tången skördas sedan och blir till mat som soppor och torkade snacks.",
+    "nyborjare": "Från rymden liknar havet runt ön Sisan ett rutigt schackbräde av mörka fyrkanter. Satellitbilden togs i januari 2014 och fångar en storskalig vattenbruksteknik, så kallad akvakultur, längs Sydkoreas södra kust.\n\nFyrkanterna är undervattensfält där man odlar tång på långa rep. Repen hålls nära vattenytan med hjälp av flytbojar. På så vis får algerna tillräckligt med solljus vid högvatten, samtidigt som de inte skrapar mot havsbotten vid lågvatten. Denna kustremsa står för ungefär 90 procent av landets totala tångskörd.\n\nTvå vanliga sorter som odlas är Undaria och Pyropia, mer kända som wakame och nori i asiatisk matlagning. Odlingen har ett lågt miljöavtryck eftersom tång varken behöver sötvatten eller gödsel för att växa.",
+    "entusiast": "Den 31 januari 2014 fotograferade instrumentet Operational Land Imager, förkortat OLI, ombord på satelliten Landsat 8 de grunda vattnen runt ön Sisan i provinsen Jeollanam-do i södra Sydkorea. Den geometriska mosaiken i bilden avslöjar en mycket omfattande marin akvakultur, där mörka fält av tång tydligt kontrasterar mot det omgivande vattnet.\n\nOdlingen sker på rep förankrade med flytande bojar. Denna upphängning håller biomassan strax under havsytan så att algerna kan tillgodogöra sig tillräckligt med solljus under högvatten utan att skadas mot bottnen under lågvatten. Kustregionen är ett viktigt nav och producerar omkring 90 procent av Sydkoreas tångskörd.\n\nDe dominerande algsläktena är Undaria, lokalt kallat miyeok, samt Pyropia, känt som gim. Dessa används flitigt i traditionell östasiatisk gastronomi. Sedan 1970 har den globala produktionen av odlad tång vuxit med ungefär 8 procent per år, och idag härstammar runt 90 procent av all tång som konsumeras av människor från odlingar. Från ett miljöperspektiv är vattenbruket fördelaktigt, eftersom tång växer naturligt i havet utan behov av färskvatten eller tillsatt gödningsmedel."
+  },
+  "terms": [
+    {
+      "term": "akvakultur",
+      "explanation": "Odling av vattenlevande organismer såsom fiskar, skaldjur eller alger under kontrollerade förhållanden."
+    },
+    {
+      "term": "Operational Land Imager",
+      "explanation": "Ett optiskt fjärranalysinstrument på satelliten Landsat 8 som registrerar jorden i flera våglängdsband."
+    },
+    {
+      "term": "Undaria",
+      "explanation": "Ett släkte av ätliga brunalger, allmänt känt som wakame i Japan och miyeok i Korea."
+    },
+    {
+      "term": "Pyropia",
+      "explanation": "Ett släkte av rödalger som används för framställning av torkade tångark, känt som nori eller gim."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the dark squares in the water! They look like tiny garden patches floating out in the sea. This satellite picture was taken from space in 2014 and shows seaweed farms.\n\nFarmers grow the seaweed on long ropes held up by floating buoys. This keeps the plants close to the sunny water surface so they can grow, without hitting the rocky seabed. The seaweed is later harvested and eaten in tasty soups and snacks.",
+      "nyborjare": "From space, the shallow waters around Sisan Island resemble a dark checkerboard pattern. Captured in January 2014, this satellite view shows large-scale seaweed cultivation along the southern coast of South Korea.\n\nThe geometric patches are aquatic farms where seaweed grows on ropes suspended near the surface by buoys. This setup ensures the plants receive enough sunlight at high tide while preventing them from scraping the seabed during low tide. The southern coast accounts for about 90 percent of the country's seaweed production.\n\nFarmers primarily cultivate two types: Undaria and Pyropia, widely known as wakame and nori in Asian cuisine. Farming seaweed has a light environmental footprint since it requires neither fresh water nor chemical fertilizers.",
+      "entusiast": "On January 31, 2014, the Operational Land Imager (OLI) aboard the Landsat 8 satellite captured the shallow waters surrounding Sisan Island in Jeollanam-do province. The distinctive checkerboard pattern across the water reveals an extensive marine aquaculture system, standing out clearly against the sea surface.\n\nThe seaweed is grown on lines suspended by floats. This method keeps the crop near the surface to optimize photosynthetically active radiation during high tide while preventing mechanical damage against the seabed at low tide. This coastal area supplies roughly 90 percent of South Korea's seaweed harvest.\n\nThe two primary cultivars are Undaria (known as miyeok or wakame) and Pyropia (gim or nori), both staples of regional cuisine. Farmed seaweed output has expanded globally by about 8 percent annually since 1970, now supplying approximately 90 percent of human consumption. Ecologically, seaweed cultivation has a minimal environmental footprint because it demands neither terrestrial fresh water nor synthetic fertilizers."
+    },
+    "terms": [
+      {
+        "term": "aquaculture",
+        "explanation": "The farming of aquatic organisms such as fish, shellfish, and seaweed under controlled conditions."
+      },
+      {
+        "term": "Operational Land Imager",
+        "explanation": "An optical remote sensing instrument aboard Landsat 8 that measures visible and infrared wavelengths."
+      },
+      {
+        "term": "Undaria",
+        "explanation": "A genus of edible brown seaweed commonly referred to as miyeok in Korean and wakame in Japanese."
+      },
+      {
+        "term": "Pyropia",
+        "explanation": "A genus of red algae cultivated widely to produce dried edible seaweed sheets known as nori or gim."
+      }
+    ],
+    "place": "South coast of South Korea"
+  }
+}
