@@ -1,0 +1,138 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-11",
+  "title": "Cosmic House of Mirrors",
+  "title_sv": "Kosmiskt spegelhus",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
+  "link": "https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/",
+  "credit": "NASA",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/",
+  "w": 479,
+  "h": 464,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAACAwUGAf/EACYQAAIBAwMFAAIDAAAAAAAAAAECAwAREgQTISIxQVFhFHGRsdH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARQWH/2gAMAwEAAhEDEQA/AMqmnMKqZlDZA5Kw5UAjzSaKD8pZIlyQglUy5B8XJ4oaB8H6icWFgGuLg+av9NHppImj06HeXsxHJNvfNq5qkyz2qkeTPLp6i2KrYC/9CupDKxiLna3BdWJstqN1ySbwjkDEqMbMe32hBEjPgXKqLjIj+OKRFp12I9NlJGAWToJJyPfsO1v8p8WqMeqDo4hUtwVN7UEUeTSZsALE8/PVqfGxTShtlGs1xIeT+requdt5Xp1TSzI+QdiCM1OJI+k+6AG2rOSzq6i8W2bhSD2+ihzqZPxolvZQzEW91BPKHnLBnANgS3JB89qIZW//2Q==",
+  "quiz": [
+    {
+      "q": "Vad orsakar att galaxer i rymden böjs och dupliceras så att de ser ut som i ett spegelhus?",
+      "options": [
+        "Massiv gravitation som kröker ljusets bana",
+        "Kosmiskt stoft som reflekterar stjärnljus",
+        "Rymdteleskopets speglar som är lätt kupade"
+      ],
+      "correct": 0,
+      "fact": "Fenomenet kallas gravitationslinsning och uppstår när en enorm massa kröker rumtiden och böjer ljuset från bakomliggande objekt."
+    },
+    {
+      "q": "Vilken fysiker förutspådde med sin allmänna relativitetsteori att massa kan böja ljus?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr"
+      ],
+      "correct": 1,
+      "fact": "Albert Einstein förutspådde fenomenet 1915 som en direkt konsekvens av att gravitation kröker rumtiden."
+    },
+    {
+      "q": "Vad är en stor vetenskaplig fördel med detta fenomen för astronomer?",
+      "options": [
+        "Det saktar ner ljusets hastighet så att det blir enklare att mäta",
+        "Det fungerar som ett naturligt förstoringsglas för extremt avlägsna objekt",
+        "Det filtrerar bort skadlig strålning från svarta hål"
+      ],
+      "correct": 1,
+      "fact": "Gravitationslinsning förstärker ljuset och gör att vi kan studera extremt avlägsna och ljussvaga galaxer från det tidiga universum."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du tittar genom det tjocka glaset på botten av en flaska. Allting bakom glaset blir utsträckt, böjt och ibland ser du samma sak flera gånger. Precis så fungerar det här i rymden. En jättelik galaxhop har så stark gravitation att den böjer ljuset från andra galaxer långt bakom sig. Rymdteleskopet som tagit bilden heter James Webb-teleskopet. Det visar hur universum kan förvränga ljus ungefär som i ett lustigt spegelhus på ett tivoli.",
+    "nyborjare": "Bilden visar ett fascinerande naturfenomen som kallas gravitationslinsning. När ljus från avlägsna galaxer färdas mot oss passerar det ibland en enorm galaxhop. Den väldiga massan hos hopen kröker den omgivande väven av rumtid, precis som Albert Einstein förutspådde. Ljuset tvingas följa dessa krökta banor, vilket gör att bakgrundsobjekten dras ut till bågar, förvrängs och ibland avbildas flera gånger på olika ställen. James Webb-teleskopet fångar dessa detaljer med fantastisk skärpa. Den kosmiska linsen fungerar som ett naturligt förstoringsglas och låter forskare studera galaxer som annars vore alldeles för avlägsna och ljussvaga för att kunna upptäckas.",
+    "entusiast": "I detta motiv demonstreras stark gravitationslinsning med exceptionell detaljrikedom via James Webb-teleskopet. En massiv förgrundsstruktur, vanligtvis en galaxhop, fungerar som en gravitationslins eftersom dess gravitationella potential deformerar lokal rumtid. Fotoner från bakomliggande källor böjs längs geodeter, vilket skapar multiplicerade bilder, förlängda bågar och ibland nästan slutna ringar. Förutom att avslöja morfologin hos extremt avlägsna källor ger linsningen astronomer möjlighet att kartlägga fördelningen av mörk materia i den linsande hopen. Webb-teleskopets högupplösta infraröda instrument penetrerar stoft och särskiljer subtila substrukturer i de förvrängda bilderna, vilket gör fenomenet till ett ovärderligt verktyg för kosmologin."
+  },
+  "terms": [
+    {
+      "term": "gravitationslinsning",
+      "explanation": "Ett fenomen där en stor massa böjer ljuset från ett bakomliggande objekt och skapar förvrängda eller mångfaldigade bilder."
+    },
+    {
+      "term": "galaxhop",
+      "explanation": "En gigantisk samling av hundratals eller tusentals galaxer som hålls samman av gravitationen."
+    },
+    {
+      "term": "rumtid",
+      "explanation": "Den fyrdimensionella väv av rum och tid som utgör universums grundläggande fysikaliska struktur."
+    },
+    {
+      "term": "James Webb-teleskopet",
+      "explanation": "Ett rymdteleskop utvecklat av NASA, ESA och CSA som observerar universum i infrarött ljus."
+    },
+    {
+      "term": "mörk materia",
+      "explanation": "En osynlig form av materia som inte avger ljus men vars existens avslöjas genom dess gravitationella påverkan."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine looking through the curved bottom of a thick glass bottle. Everything behind it looks stretched, twisted, and maybe you see the same thing twice. That is exactly what happens here in space. A huge galaxy cluster has so much gravity that it bends the light from other galaxies far behind it. The observatory that captured this view is the James Webb Space Telescope. It reveals how the universe plays with starlight just like a house of mirrors at a carnival.",
+      "nyborjare": "This picture showcases an extraordinary cosmic phenomenon known as gravitational lensing. When light from distant galaxies travels toward us, it sometimes passes an enormous galaxy cluster. The colossal mass of the cluster bends the surrounding fabric of spacetime, just as Albert Einstein predicted. Light is forced along curved paths, causing background objects to appear stretched into arcs, distorted, and even duplicated across multiple locations. The James Webb Space Telescope captures these details with stunning clarity. This natural magnifying glass allows astronomers to study galaxies that would otherwise be far too faint and distant to detect.",
+      "entusiast": "This scene demonstrates strong gravitational lensing in extraordinary detail using the James Webb Space Telescope. A massive foreground structure, typically a galaxy cluster, acts as a cosmic lens because its gravitational potential warps local spacetime. Photons emitted by background sources follow curved geodesics, producing multiple images, elongated arcs, and magnification. In addition to revealing the detailed morphology of high-redshift systems, gravitational lensing enables astronomers to map the distribution of dark matter within the lensing cluster. Webb's high-resolution infrared instruments peer through cosmic dust, resolving substructures within the distorted images and providing a critical probe into early cosmic evolution."
+    },
+    "terms": [
+      {
+        "term": "gravitational lensing",
+        "explanation": "A phenomenon where a massive object bends the light from a distant background source, distorting and magnifying its image."
+      },
+      {
+        "term": "galaxy cluster",
+        "explanation": "A massive structure consisting of hundreds or thousands of galaxies bound together by gravity."
+      },
+      {
+        "term": "spacetime",
+        "explanation": "The four-dimensional continuum combining space and time into a single physical fabric."
+      },
+      {
+        "term": "James Webb Space Telescope",
+        "explanation": "A premier space observatory designed to study the universe primarily in infrared wavelengths."
+      },
+      {
+        "term": "dark matter",
+        "explanation": "An invisible form of matter that emits no light but reveals itself through its gravitational influence."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What causes galaxies in space to appear warped and multiplied like in a house of mirrors?",
+        "options": [
+          "Massive gravity bending the path of light",
+          "Cosmic dust reflecting and scattering starlight",
+          "The curved shape of the telescope's primary mirror"
+        ],
+        "correct": 0,
+        "fact": "This phenomenon is called gravitational lensing and happens when immense mass curves spacetime and bends light from distant objects."
+      },
+      {
+        "q": "Which physicist predicted with his general theory of relativity that mass can bend light?",
+        "options": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Niels Bohr"
+        ],
+        "correct": 1,
+        "fact": "Albert Einstein predicted the bending of light by gravity in 1915 as a core feature of general relativity."
+      },
+      {
+        "q": "What makes this phenomenon particularly useful for astronomers?",
+        "options": [
+          "It slows down the speed of light so it can be measured more easily",
+          "It acts as a natural magnifying glass for extremely distant objects",
+          "It filters out dangerous radiation emitted by supermassive black holes"
+        ],
+        "correct": 1,
+        "fact": "Gravitational lensing magnifies faint background galaxies, allowing astronomers to observe objects from the early universe."
+      }
+    ]
+  }
+}
