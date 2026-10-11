@@ -523,7 +523,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
-<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt B</span></footer>
+<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt C</span></footer>
 
 <div id="lightbox" hidden><img alt=""></div>
 
@@ -682,7 +682,7 @@ function renderCaption() {
   if (day.kind === "earth") {
     $("title").textContent = tidy(day.title_sv || day.title);
     $("title").classList.remove("mystery");
-    $("meta").innerHTML = esc([day.place, niceDate(day.date)].filter(Boolean).join(" · ")) + `<span class="credit">Bild: ${esc(tidyCredit(day.credit))}</span>`;
+    $("meta").innerHTML = esc([day.archive ? "Ur arkivet" : "", day.place, day.archive ? "" : niceDate(day.date)].filter(Boolean).join(" · ")) + `<span class="credit">Bild: ${esc(tidyCredit(day.credit))}</span>`;
     return;
   }
   const done = played[day.date] !== undefined;
@@ -794,7 +794,7 @@ function renderOnwardEarth() {
   const older = earthIndex.filter(d => d.date !== day.date).slice(0, 4);
   $("onwardLinks").innerHTML = older.map(d =>
     `<a href="#jorden-${d.date}"><span class="thumb clear"><img src="${esc(d.thumb)}" alt="" loading="lazy"></span>
-      <span>${esc(tidy(d.title))}<small>${esc([d.place, niceDate(d.date)].filter(Boolean).join(" · "))}</small></span><span class="arrow">→</span></a>`).join("") +
+      <span>${esc(tidy(d.title))}<small>${esc([d.archive ? "Ur arkivet" : "", d.place, d.archive ? "" : niceDate(d.date)].filter(Boolean).join(" · "))}</small></span><span class="arrow">→</span></a>`).join("") +
     `<a href="#"><span class="thumb" style="display:grid;place-items:center;font-size:1.3rem">✦</span>
       <span>Dagens bild<small>Rymdbilden med trivia</small></span><span class="arrow">→</span></a>`;
   $("onward").hidden = false;
