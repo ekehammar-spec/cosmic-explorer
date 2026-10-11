@@ -270,6 +270,9 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .seg { display: flex; gap: 6px; margin: 14px 0 10px; }
 .seg button { font: 600 .84rem var(--body); color: var(--muted); background: none; border: 1px solid var(--hairline); border-radius: 999px; padding: 8px 16px; transition: color .25s, background .25s, border-color .25s; }
 .seg button[aria-pressed="true"] { color: #c9c3e6; background: rgba(201, 195, 230, .09); border-color: rgba(201, 195, 230, .32); }
+.sunfact { margin-top: 2px; padding: 14px 16px; border-radius: 16px; background: rgba(255, 210, 122, .06); border: 1px solid rgba(255, 210, 122, .18); }
+.sunfact p { margin: 6px 0 10px; }
+.sunfact button { font: 600 .82rem var(--body); color: var(--text); background: var(--surface); border: 1px solid var(--hairline); border-radius: 999px; padding: 7px 14px; }
 /* Mellanrubrik med kometlinje */
 #sky { gap: 10px; }
 .sec { display: flex; align-items: center; gap: 14px; margin: 30px 0 10px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 64px); }
@@ -497,7 +500,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   </section>
   <section id="solar" class="page" hidden>
     <h2>Solsystemet</h2>
-    <p>Planeterna där de står just nu, sedda ovanifrån. Avstånden är hoptryckta för att allt ska få plats.</p>
+    <p>Solen och planeterna där de står just nu, sedda ovanifrån. Avstånden är hoptryckta för att allt ska få plats.</p>
     <canvas id="orrery" role="img" aria-label="Planeternas lägen runt solen"></canvas>
     <p id="solDate"></p>
     <div class="timebar">
@@ -586,7 +589,7 @@ function setFocus(frame, lqip) {
       });
       if (frame.dataset.lq !== lqip) return;
       const mean = lum.reduce((a, b) => a + b, 0) / lum.length, spread = Math.sqrt(lum.reduce((a, b) => a + (b - mean) ** 2, 0) / lum.length);
-      if (spread < 11) { frame.classList.add("whole"); return; }   // nästan enfärgad: inget motiv att beskära mot
+      if (spread < 11 && mean > 70) { frame.classList.add("whole"); return; }   // nästan enfärgad: inget motiv att beskära mot
       if (!sw) return;
       const pos = v => Math.min(88, Math.max(12, 50 + (v / sw * 100 - 50) * 1.7)).toFixed(1) + "%";
       frame.style.setProperty("--fx", pos(sx)); frame.style.setProperty("--fy", pos(sy));
@@ -1202,7 +1205,22 @@ const PLANETS = [
   { id: "neptune", img: "PIA01492", credit: "NASA/JPL", name: "Neptunus", c: "#6088ff", size: 6.3, d: "49 244 km", day: "16 timmar", year: "165 år", moons: "16", eye: false,
     text: "Den yttersta planeten, djupblå och med de starkaste vindarna i solsystemet. Sedan Neptunus upptäcktes 1846 har den bara hunnit ett enda varv runt solen." }
 ];
-let solOffset = 0, solPick = "mars", solTimer = 0, solReady = false;
+const SUN = { id: "sun", img: "GSFC_20171208_Archive_e000759", credit: "NASA/Goddard/SDO", name: "Solen", c: "#ffd27a",
+  text: "Vår stjärna, ett klot av glödande gas som håller ihop hela solsystemet. I solens inre pressas väte samman till helium, och det är den energin som når oss som ljus och värme.",
+  facts: [
+    "Solen är så stor att över en miljon jordklot skulle få plats inuti den.",
+    "Ljuset du ser lämnade solens yta för drygt åtta minuter sedan. Men energin i det har varit på väg ut från solens mitt i över hundra tusen år.",
+    "Solen står för 99,8 procent av all massa i solsystemet. Planeterna, månarna och allt annat är resten.",
+    "Varje sekund förvandlar solen ungefär fyra miljoner ton materia till energi. Ändå räcker bränslet i omkring fem miljarder år till.",
+    "Solens yta är ungefär 5 500 grader varm, men den tunna atmosfären utanför, koronan, är över en miljon grader. Varför är en av solforskningens stora gåtor.",
+    "Solen snurrar, men inte som ett fast klot. Vid ekvatorn tar ett varv 25 dygn, vid polerna runt 35.",
+    "Ungefär vart elfte år byter solens magnetfält riktning. Då blir solfläckarna fler och norrskenen vanligare.",
+    "Norrsken börjar på solen. Laddade partiklar slungas ut, når jorden efter ett par dagar och får luften högt upp att lysa.",
+    "Solen är en helt vanlig stjärna. Den ser stor ut bara för att den ligger så nära. Nästa stjärna är 270 000 gånger längre bort.",
+    "Solen har ingen fast yta att stå på. Det vi ser som yta är lagret där gasen blir genomskinlig."
+  ] };
+const BODIES = [SUN, ...PLANETS];
+let solOffset = 0, solPick = "sun", solTimer = 0, solReady = false, solZoom = 1, solFact = Math.floor(Math.random() * 10);
 const solDateAt = () => new Date(Date.now() + solOffset * 864e5);
 const mapR = (au, R) => R * Math.pow(au / 30.07, 0.34);
 
@@ -1213,30 +1231,35 @@ function drawSol() {
   const g = cv.getContext("2d"), W = box.width, c = W / 2, R = W / 2 - 22, date = solDateAt();
   g.setTransform(dpr, 0, 0, dpr, 0, 0);
   g.clearRect(0, 0, W, W);
-  const pos = {};
+  const z = solZoom;   // inflygningen: börjar inne vid solen och drar sig utåt
+  g.translate(c, c); g.scale(z, z); g.translate(-c, -c);
+  const pos = { sun: { x: c, y: c } };
   for (const p of PLANETS) {
     const h = helio(p.id, date), r = mapR(h.r, R);
     pos[p.id] = { x: c + r * Math.cos(h.lon), y: c - r * Math.sin(h.lon), h };
     g.beginPath(); g.arc(c, c, mapR(EL[p.id][0], R), 0, 6.2832);
-    g.strokeStyle = p.id === solPick ? "rgba(182,163,255,.5)" : "rgba(255,255,255,.1)"; g.lineWidth = 1; g.stroke();
+    g.strokeStyle = p.id === solPick ? "rgba(182,163,255,.5)" : "rgba(255,255,255,.1)"; g.lineWidth = 1 / z; g.stroke();
   }
-  if (solPick !== "earth") {   // siktlinjen från jorden till vald planet
+  if (solPick !== "earth" && solPick !== "sun") {   // siktlinjen från jorden till vald planet
     g.beginPath(); g.moveTo(pos.earth.x, pos.earth.y); g.lineTo(pos[solPick].x, pos[solPick].y);
     g.setLineDash([3, 5]); g.strokeStyle = "rgba(182,163,255,.55)"; g.stroke(); g.setLineDash([]);
   }
-  const glow = g.createRadialGradient(c, c, 0, c, c, 20);
-  glow.addColorStop(0, "#fff6e0"); glow.addColorStop(.4, "#ffe2b0"); glow.addColorStop(1, "rgba(255,210,150,0)");
-  g.fillStyle = glow; g.beginPath(); g.arc(c, c, 20, 0, 6.2832); g.fill();
+  const sr = 22, glow = g.createRadialGradient(c, c, 0, c, c, sr);
+  glow.addColorStop(0, "#fffaf0"); glow.addColorStop(.3, "#ffe9b8"); glow.addColorStop(.55, "#ffc978"); glow.addColorStop(1, "rgba(255,170,90,0)");
+  g.fillStyle = glow; g.beginPath(); g.arc(c, c, sr, 0, 6.2832); g.fill();
+  if (solPick === "sun" && z < 1.2) { g.beginPath(); g.arc(c, c, 15, 0, 6.2832); g.strokeStyle = "#b6a3ff"; g.lineWidth = 1.5; g.stroke(); }
   g.font = "600 11px Figtree, system-ui, sans-serif"; g.textAlign = "center";
   for (const p of PLANETS) {
     const q = pos[p.id];
     if (p.ring) { g.beginPath(); g.ellipse(q.x, q.y, p.size * 1.8, p.size * .6, -.4, 0, 6.2832); g.strokeStyle = p.c; g.lineWidth = 1.4; g.stroke(); }
     g.beginPath(); g.arc(q.x, q.y, p.size, 0, 6.2832); g.fillStyle = p.c; g.fill();
     if (p.id === solPick) { g.beginPath(); g.arc(q.x, q.y, p.size + 5, 0, 6.2832); g.strokeStyle = "#b6a3ff"; g.lineWidth = 1.5; g.stroke(); }
+    if (z > 1.25) continue;   // inga namn medan vi flyger ut
     if (p.id !== solPick && p.id !== "earth" && EL[p.id][0] < 4) continue;   // de inre planeterna ligger för tätt för egna namn
     g.fillStyle = p.id === solPick ? "#f2f0ea" : "rgba(242,240,234,.55)";
     g.fillText(p.name, Math.min(W - 30, Math.max(30, q.x)), q.y - p.size - 8);
   }
+  g.setTransform(dpr, 0, 0, dpr, 0, 0);
   cv._pos = pos;
   const d = $("solDate");
   d.innerHTML = esc(date.toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric" })) +
@@ -1245,9 +1268,11 @@ function drawSol() {
 }
 
 function renderPlanet(pos) {
-  const p = PLANETS.find(x => x.id === solPick), e = pos.earth.h, h = pos[p.id].h, num = (x, n = 0) => x.toFixed(n).replace(".", ",");
+  const p = BODIES.find(x => x.id === solPick), e = pos.earth.h, h = (pos[p.id] || {}).h, num = (x, n = 0) => x.toFixed(n).replace(".", ",");
   let now;
-  if (p.id === "earth") {
+  if (p.id === "sun") {
+    now = `${num(e.r * 149.6)} miljoner km från jorden. Ljuset behöver ${num(e.r * 8.317, 1)} minuter för att nå oss. Titta aldrig rakt på solen, varken med blotta ögat eller i kikare.`;
+  } else if (p.id === "earth") {
     now = `${num(e.r * 149.6)} miljoner km från solen. Ljuset därifrån behöver ${num(e.r * 8.317, 1)} minuter för att nå hit.`;
   } else {
     const dx = h.x - e.x, dy = h.y - e.y, dist = Math.hypot(dx, dy);
@@ -1267,13 +1292,22 @@ function renderPlanet(pos) {
     const src = `https://images-assets.nasa.gov/image/${p.img}/${p.img}~`;
     card.innerHTML =
       `<div class="phead"><button aria-label="Visa bilden i helskärm" data-big="${src}medium.jpg"><img class="${p.ring ? "fit" : ""}" src="${src}small.jpg" alt="${p.name}"></button>
-         <div><div class="eyebrow">Planet</div><h3>${p.name}</h3><small>Bild: ${esc(p.credit)}</small></div></div>
-       <div class="facts"><div><small>Diameter</small><b>${p.d}</b></div><div><small>Ett dygn</small><b>${p.day}</b></div>
-         <div><small>Ett år</small><b>${p.year}</b></div><div><small>Månar</small><b>${p.moons}</b></div></div>
+         <div><div class="eyebrow">${p.id === "sun" ? "Stjärna" : "Planet"}</div><h3>${p.name}</h3><small>Bild: ${esc(p.credit)}</small></div></div>` +
+      (p.id === "sun"
+        ? `<div class="facts"><div><small>Diameter</small><b>1,39 miljoner km</b></div><div><small>Ålder</small><b>4,6 miljarder år</b></div>
+         <div><small>Yttemperatur</small><b>cirka 5 500 °C</b></div><div><small>Ett varv</small><b>25 dygn vid ekvatorn</b></div></div>
        <p style="margin:0">${esc(p.text)}</p>
+       <div class="sunfact"><div class="eyebrow">Visste du?</div><p id="sunFact"></p><button id="sunNext">En till</button></div>`
+        : `<div class="facts"><div><small>Diameter</small><b>${p.d}</b></div><div><small>Ett dygn</small><b>${p.day}</b></div>
+         <div><small>Ett år</small><b>${p.year}</b></div><div><small>Månar</small><b>${p.moons}</b></div></div>
+       <p style="margin:0">${esc(p.text)}</p>`) + `
        <p class="now"><b id="nowLabel"></b><span id="nowText"></span></p>`;
     const im = card.querySelector("img");
     im.onerror = () => { im.closest("button").hidden = true; };
+    if (p.id === "sun") {
+      const show = () => { $("sunFact").textContent = SUN.facts[solFact % SUN.facts.length]; };
+      show(); $("sunNext").onclick = () => { solFact++; show(); };
+    }
     card.querySelector(".phead button").onclick = e => {
       $("lightbox").querySelector("img").src = e.currentTarget.dataset.big;
       $("lightbox").hidden = false;
@@ -1288,7 +1322,7 @@ function stopSol() { cancelAnimationFrame(solTimer); solTimer = 0; if (solReady)
 function openSol() {
   if (!solReady) {
     solReady = true;
-    $("planetChips").innerHTML = PLANETS.map(p => `<button data-p="${p.id}" style="--c:${p.c}" aria-pressed="false"><i></i>${p.name}</button>`).join("");
+    $("planetChips").innerHTML = BODIES.map(p => `<button data-p="${p.id}" style="--c:${p.c}" aria-pressed="false"><i></i>${p.name}</button>`).join("");
     $("planetChips").addEventListener("click", e => { const b = e.target.closest("button"); if (b) { solPick = b.dataset.p; drawSol(); } });
     $("solRange").addEventListener("input", e => { stopSol(); solOffset = Number(e.target.value); drawSol(); });
     $("solToday").addEventListener("click", () => { stopSol(); solOffset = 0; $("solRange").value = 0; drawSol(); });
@@ -1305,13 +1339,25 @@ function openSol() {
     $("orrery").addEventListener("click", e => {
       const box = e.currentTarget.getBoundingClientRect(), x = e.clientX - box.left, y = e.clientY - box.top, pos = e.currentTarget._pos || {};
       let best = null, bd = 34;
-      for (const p of PLANETS) { const d = Math.hypot(pos[p.id].x - x, pos[p.id].y - y); if (d < bd) { bd = d; best = p.id; } }
+      for (const p of BODIES) { const d = Math.hypot(pos[p.id].x - x, pos[p.id].y - y); if (d < bd) { bd = d; best = p.id; } }
       if (best) { solPick = best; drawSol(); }
     });
     addEventListener("resize", () => { if (!$("solar").hidden) drawSol(); });
   }
-  requestAnimationFrame(drawSol);
+  // Inflygning: vi börjar inne vid solen och glider ut tills hela solsystemet syns.
+  if (calm) { solZoom = 1; requestAnimationFrame(drawSol); return; }
+  const t0 = performance.now(), dur = 2600, from = 11;
+  cancelAnimationFrame(solFly);
+  const fly = now => {
+    const k = Math.min(1, (now - t0) / dur), e = 1 - Math.pow(1 - k, 3);
+    solZoom = Math.exp(Math.log(from) * (1 - e));
+    if ($("solar").hidden) { solZoom = 1; return; }
+    if (!solTimer) drawSol();
+    if (k < 1) solFly = requestAnimationFrame(fly); else { solZoom = 1; drawSol(); }
+  };
+  solFly = requestAnimationFrame(fly);
 }
+let solFly = 0;
 
 /* ---------- Helskärm ---------- */
 $("frame").addEventListener("click", () => {
