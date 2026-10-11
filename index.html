@@ -523,7 +523,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
-<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt C</span></footer>
+<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt D</span></footer>
 
 <div id="lightbox" hidden><img alt=""></div>
 
@@ -538,7 +538,8 @@ const SAMPLE = {"sample": true, "date": "2026-10-10", "title": "Lunar Farside", 
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 // Putsar text från äldre sparade dagar: dubbla "Image Credit" och ordet rovare (ska vara rover).
-const tidyCredit = c => String(c || "NASA").replace(/^\s*(image\s+)?credits?\s*(&|and)?\s*(copyright)?\s*:\s*/i, "").trim() || "NASA";
+const tidyCredit = c => String(c || "NASA").replace(/^\s*(image\s+)?credits?\s*(&|and)?\s*(copyright)?\s*:\s*/i, "")
+  .replace(/NASA Earth Observatory images? (?:created )?by\s+/i, "NASA Earth Observatory / ").replace(/,?\s+using\b.*$/i, "").replace(/\s+and\s+/g, " och ").trim() || "NASA";
 // Städar AI-texten: "rovare" blir "rover", och enstaka tecken ur andra skriftsystem som smugit sig in mitt i ord tas bort.
 const tidy = t => String(t).replace(/[\u0400-\u052f\u0590-\u06ff\u0900-\u0dff\u0e00-\u0eff\u1100-\u11ff\u2e80-\u9fff\ua960-\ua97f\uac00-\ud7ff\uf900-\ufaff\uff00-\uffef]+/g, "")
   .replace(/([Rr])ovare(n|ns|)(?![a-zåäö])/g, "$1over$2");
