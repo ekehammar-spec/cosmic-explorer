@@ -100,14 +100,19 @@ function nasaOwned(credit) {
   return !/©|\(c\)|copyright|\bCC[ -]?BY|creative commons|licen[sc]e|courtesy of (?!NASA)|panorama\s*:|processing\s*(by|:)|processed by/i.test(c);
 }
 // En sparad dag får ligga kvar om den kommer från en av de nya källorna, eller om dess upphov är NASA:s.
-const keepDay = d => Boolean(d && !d.sample && (d.src === "iotd" || d.src === "library" || nasaOwned(d.credit)));
+// Bilder som har synats och valts bort för hand (skärmdumpar med anteckningar och liknande).
+const REJECT = new Set(["https://www.nasa.gov/image-detail/fd07_impact-flashes/"]);
+const MIN_LONG = 1000, MIN_SHORT = 600;   // minsta storlek i bildpunkter för att bilden ska hålla i helskärm
+const bigEnough = px => Array.isArray(px) && Math.max(px[0], px[1]) >= MIN_LONG && Math.min(px[0], px[1]) >= MIN_SHORT;
+const keepDay = d => Boolean(d && !d.sample && !REJECT.has(d.id) &&
+  (((d.src === "iotd" || d.src === "library") && (!d.px || bigEnough(d.px))) || (d.src !== "iotd" && d.src !== "library" && nasaOwned(d.credit))));
 async function readDay(date) {
   try { return JSON.parse(await readFile(fileFor(date), "utf8")); } catch (e) { return null; }
 }
 
 /* ---------- NASA Image of the Day ---------- */
 // Rubriker som nästan alltid betyder människor, evenemang eller teknik på marken.
-const NOT_SPACE = /\b(attends?|visits?|ceremony|sworn|medal|tour|game|grand prix|unveils?|opens?|paint|plaque|patch(es)?|crew (at|visits)|returns? to earth|welcomed|launch(es|ed)?|launch pad|rollout|hangar|engine|tank|wind tunnel|heat test|comes together|install(s|ed|ation)?|processing|training|employees?|team)\b/i;
+const NOT_SPACE = /\b(annotations?|screenshots?|sketch(es)?|attends?|visits?|ceremony|sworn|medal|tour|game|grand prix|unveils?|opens?|paint|plaque|patch(es)?|crew (at|visits)|returns? to earth|welcomed|launch(es|ed)?|launch pad|rollout|hangar|engine|tank|wind tunnel|heat test|comes together|install(s|ed|ation)?|processing|training|employees?|team)\b/i;
 async function fetchIotd() {
   const res = await fetch(IOTD_FEED, { headers: UA });
   if (!res.ok) throw new Error(`Image of the Day svarade ${res.status}`);
@@ -131,7 +136,7 @@ async function fetchIotd() {
 // Ämnen som jobbet går runt bland, ett per dag, så att bilderna varierar.
 const TOPICS = ["hubble nebula", "saturn cassini", "galaxy hubble", "mars surface", "jupiter", "supernova remnant", "moon lunar reconnaissance orbiter",
   "star cluster hubble", "sun solar dynamics observatory", "spitzer nebula", "pluto new horizons", "chandra galaxy", "titan cassini", "comet",
-  "webb telescope", "mercury messenger", "neptune voyager", "europa", "enceladus", "galaxy cluster", "mars orbiter crater", "star forming region"];
+  "webb telescope", "mercury messenger", "neptune voyager", "europa", "enceladus", "galaxy cluster", "planetary nebula", "star forming region"];
 const CENTERS = ["JPL", "GSFC", "STScI"];   // forskningscentren. Huvudkontorets bilder är mest människor och evenemang.
 const NOT_PHOTO = /illustration|artist|concept|rendering|diagram|graphic|infographic|logo|poster|animation|chart|schematic|spectrum|spectra|\bplot\b|\bgraph\b|simulation|model of|engineers?|technicians?|clean ?room|\bteam\b|launch|rollout|testing|assembly|spacecraft (is|was|being)|press conference|briefing/i;
 async function libraryCandidates(topic, center, page) {
@@ -341,6 +346,15 @@ async function askGemini(prompt, schema = SCHEMA, check = valid) {
   throw lastError;
 }
 
+// Den stora bildens verkliga mått, så att för små bilder kan väljas bort.
+async function measure(imageUrl) {
+  const sharp = (await import("sharp")).default;
+  const res = await fetch(imageUrl, { headers: UA });
+  if (!res.ok) throw new Error("bilden svarade " + res.status);
+  const meta = await sharp(Buffer.from(await res.arrayBuffer())).metadata();
+  return [meta.width, meta.height];
+}
+
 // Liten suddig förhandsbild + bildens mått, så sidan kan visa färgerna direkt
 // och aldrig hoppa när den stora bilden kommer. Hoppas över om "sharp" saknas.
 async function preview(imageUrl) {
@@ -379,7 +393,7 @@ async function buildDay(apod, mustFit = false) {
     hdurl: apod.hdurl,
     link: apod.link,
     credit: apod.credit || "NASA",
-    src: apod.src || "apod", id: apod.id,
+    src: apod.src || "apod", id: apod.id, px: apod.px,
     w: apod.w, h: apod.h, lqip: apod.lqip,
     ...(apod.lqip ? {} : await preview(apod.thumb)),
     quiz: content.quiz,
@@ -481,6 +495,16 @@ try {
     const d = JSON.parse(await readFile(path.join(DATA, f), "utf8"));
     if (keepDay(d) && d.id) used.add(d.id);
   }
+  for (const f of (await readdir(DATA)).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))) {
+    const file = path.join(DATA, f), d = JSON.parse(await readFile(file, "utf8"));
+    if ((d.src !== "iotd" && d.src !== "library") || d.px) continue;
+    try {
+      d.px = await measure(d.url);
+      await writeFile(file, JSON.stringify(d, null, 2));
+      if (!bigEnough(d.px)) { console.log(`${d.date}: ${d.title} är för liten (${d.px[0]}×${d.px[1]}) och byts ut.`); skip.add(d.id); used.delete(d.id); }
+    } catch (e) { console.warn(`${d.date}: kunde inte mäta bilden (${e.message})`); }
+  }
+  for (const id of REJECT) skip.add(id);
   let iotd = [];
   try { iotd = await fetchIotd(); console.log(`Image of the Day: ${iotd.length} möjliga bilder.`); }
   catch (e) { console.error("Image of the Day hoppades över: " + e.message); }
@@ -493,7 +517,9 @@ try {
     const c = cand.src === "library" ? await libraryAsset(cand) : cand;
     const p = await preview(c.thumb);
     if (!p.w) throw new Error("bilden gick inte att hämta");
-    await buildDay({ ...c, ...p, date }, true);
+    const px = await measure(c.url);
+    if (!bigEnough(px)) throw Object.assign(new Error(`för liten, ${px[0]}×${px[1]}`), { unfit: true });
+    await buildDay({ ...c, ...p, px, date }, true);
     used.add(c.id);
   }
   let made = 0;
@@ -513,13 +539,13 @@ try {
       await pause();
     }
     // Arkivet: dagens ämne först, sedan nästa, tills en bild håller.
-    for (let t = 0; t < TOPICS.length && !done && tries < 6; t++) {
-      const topic = TOPICS[(n + t) % TOPICS.length], center = CENTERS[(n + t) % CENTERS.length];
+    for (let t = 0; t < TOPICS.length && !done && tries < 10; t++) {
+      const topic = TOPICS[(n * 7 + t * 5) % TOPICS.length], center = CENTERS[(n + t) % CENTERS.length];
       let pool = [];
       try { pool = (await libraryCandidates(topic, center, 1 + (Math.floor(n / TOPICS.length) % 2))).filter(free); }
       catch (e) { console.warn(`${date}: arkivsökningen "${topic}" misslyckades (${e.message})`); continue; }
-      for (const cand of pool.slice(0, 3)) {
-        if (done || tries >= 6) break;
+      for (const cand of pool.slice(0, 4)) {
+        if (done || tries >= 10) break;
         tries++;
         try { await tryCandidate(date, cand); done = true; }
         catch (e) { console.warn(`${date}: ${cand.title} valdes bort (${e.message})`); if (e.unfit) skip.add(cand.id); }
