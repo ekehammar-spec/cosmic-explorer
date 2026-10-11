@@ -298,6 +298,11 @@ function english(c, withQuiz) {
   return out;
 }
 
+// Modellen råkar ibland stoppa in enstaka tecken ur andra skriftsystem mitt i ord. De tas bort ur alla texter.
+const FOREIGN = /[\u0400-\u052f\u0590-\u06ff\u0900-\u0dff\u0e00-\u0eff\u1100-\u11ff\u2e80-\u9fff\ua960-\ua97f\uac00-\ud7ff\uf900-\ufaff\uff00-\uffef]+/g;
+const scrub = v => typeof v === "string" ? v.replace(FOREIGN, "") : Array.isArray(v) ? v.map(scrub)
+  : v && typeof v === "object" ? Object.fromEntries(Object.entries(v).map(([k, x]) => [k, scrub(x)])) : v;
+
 const wait = ms => new Promise(r => setTimeout(r, ms));
 
 const dropped = new Set();
@@ -318,7 +323,7 @@ async function callGemini(model, prompt, schema, check) {
   }
   const body = await res.json();
   const out = body.candidates?.[0]?.content?.parts?.map(p => p.text || "").join("") || "";
-  const content = JSON.parse(out);
+  const content = scrub(JSON.parse(out));
   if (!check(content)) throw new Error("ofullständigt svar från " + model);
   return content;
 }
