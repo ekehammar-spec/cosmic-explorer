@@ -304,6 +304,12 @@ button { font: inherit; color: inherit; cursor: pointer; }
 #placeList button[aria-pressed="true"]::after { content: "✓"; }
 #placeSheet .note { margin: 10px 0 0; font-size: .78rem; color: var(--muted); }
 /* Ordlistan */
+.letters { display: grid; grid-template-columns: repeat(6, 1fr); gap: 7px; }
+.letters button { display: grid; place-items: center; aspect-ratio: 1; padding: 0; border: 0; border-radius: 14px; font: 700 .9rem "Orbitron", var(--display); color: #06080c; background-image: linear-gradient(115deg, #b6a3ff, #3fdcff); background-size: 700% calc(var(--rows, 4) * 120%); }
+.letters.strip { display: flex; overflow-x: auto; scrollbar-width: none; margin: 0 calc(var(--gutter) * -1) 10px; padding: 4px var(--gutter); -webkit-overflow-scrolling: touch; }
+.letters.strip::-webkit-scrollbar { display: none; }
+.letters.strip button { flex: none; width: 46px; background-size: calc(var(--n, 24) * 110%) 100%; opacity: .5; }
+.letters.strip button[aria-pressed="true"] { opacity: 1; box-shadow: 0 0 0 2px #06070b, 0 0 0 3.5px rgba(182,163,255,.6); }
 .words { display: flex; flex-direction: column; gap: 6px; }
 .words .letter { font: 700 .72rem "Orbitron", var(--display); letter-spacing: .2em; color: #c9c3e6; margin: 16px 2px 2px; }
 .word { border-radius: 16px; background: var(--surface); border: 1px solid transparent; }
@@ -530,7 +536,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <div class="eyebrow">Dina uppgifter</div>
       <p>Din samling sparas bara på den här enheten. Appen har inga konton, ingen reklam och samlar inte in något om dig.</p>
     </div>
-    <p class="ver">Version 11 okt K</p>
+    <p class="ver">Version 11 okt L</p>
   </section>
 
   <section id="sky" class="page" hidden>
@@ -619,7 +625,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
-<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt K</span></footer>
+<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt L</span></footer>
 
 <div id="lightbox" hidden><img alt=""></div>
 <div id="placeScrim"></div>
@@ -743,7 +749,7 @@ const EN = {
   "Himlen och solsystemet": "The sky and the solar system",
   "Månens faser och planeternas lägen räknas ut i appen. Norrskensprognosen kommer från NOAA och uppskjutningarna från The Space Devs. Norrsken och mörker räknas för den ort du väljer på Himlen. Förmörkelsernas tider gäller Stockholm.": "Moon phases and planet positions are calculated in the app. The aurora forecast comes from NOAA and the launches from The Space Devs. Aurora and darkness are worked out for the place you choose on the Sky page. Eclipse times are for Stockholm, Sweden.",
   "Ordlista": "Glossary", "Sök i ordlistan": "Search the glossary", "{n} ord förklarade hittills. Listan växer med varje ny bild.": "{n} words explained so far. The list grows with every new picture.",
-  "Ordlistan är på väg.": "The glossary is on its way.", "Inga ord matchar.": "No words match.", "En oupptäckt bild": "An undiscovered picture", "Förekommer i": "Appears in",
+  "Ordlistan är på väg.": "The glossary is on its way.", "{n} ord förklarade hittills. Välj en bokstav eller sök.": "{n} words explained so far. Pick a letter or search.", "1 ord matchar.": "1 word matches.", "{n} ord matchar.": "{n} words match.", "Inga ord matchar.": "No words match.", "En oupptäckt bild": "An undiscovered picture", "Förekommer i": "Appears in",
   // Ort
   "Byt ort": "Change place", "Välj ort": "Choose place", "Stäng": "Close", "Var tittar du ifrån?": "Where are you watching from?", "Sök ort": "Search place",
   "Orten sparas bara på den här enheten.": "Your place is stored only on this device.", "Ingen ort matchar.": "No place matches.",
@@ -1195,7 +1201,7 @@ function renderOnward() {
 /* ---------- Arkiv ---------- */
 let shownMonths = 3;
 let archKind = "space";
-let glossary = null;
+let glossary = null, wordLetter = null;
 // Ordlistan: alla ord som appen har förklarat, i bokstavsordning. Ett tryck visar förklaringen och bilderna där ordet förekommer.
 async function renderWords() {
   $("onlyNew").hidden = true;
@@ -1204,11 +1210,23 @@ async function renderWords() {
   if (archKind !== "words") return;
   const all = glossary[lang] || [], q = $("search").value.trim().toLowerCase();
   $("collection").textContent = all.length ? F("{n} ord förklarade hittills. Listan växer med varje ny bild.", { n: all.length }) : L("Ordlistan är på väg.");
-  const list = all.filter(w => !q || w.t.toLowerCase().includes(q) || w.e.toLowerCase().includes(q));
+  const initial = w => tidy(w.t).charAt(0).toUpperCase(), letters = [...new Set(all.map(initial))];
+  if (!letters.includes(wordLetter)) wordLetter = null;
+  // Utan sökning möts man av en ruta per bokstav. En vald bokstav visar sina ord, och bokstäverna blir en rad att svepa i.
+  const tile = (c, i, x, y) => `<button type="button" data-letter="${esc(c)}" aria-pressed="${c === wordLetter}" style="background-position:${x}% ${y}%">${esc(c)}</button>`;
+  const cols = 6, rows = Math.max(1, Math.ceil(letters.length / cols));
+  if (!q && !wordLetter) {
+    $("collection").textContent = all.length ? F("{n} ord förklarade hittills. Välj en bokstav eller sök.", { n: all.length }) : L("Ordlistan är på väg.");
+    $("grid").innerHTML = `<div class="letters" style="--rows:${rows}">` + letters.map((c, i) => tile(c, i, (i % cols) / (cols - 1) * 100, rows > 1 ? Math.floor(i / cols) / (rows - 1) * 100 : 0)).join("") + "</div>";
+    return;
+  }
+  const list = all.filter(w => q ? w.t.toLowerCase().includes(q) || w.e.toLowerCase().includes(q) : initial(w) === wordLetter);
+  if (q) $("collection").textContent = list.length === 1 ? L("1 ord matchar.") : F("{n} ord matchar.", { n: list.length });
   if (!list.length) { $("grid").innerHTML = all.length ? '<p class="empty">' + L("Inga ord matchar.") + '</p>' : ""; return; }
+  const strip = q ? "" : `<div class="letters strip" style="--n:${letters.length}">` + letters.map((c, i) => tile(c, i, letters.length > 1 ? i / (letters.length - 1) * 100 : 0, 50)).join("") + "</div>";
   let letter = "";
-  $("grid").innerHTML = '<div class="words">' + list.map(w => {
-    const first = w.t.charAt(0).toUpperCase(), head = first !== letter ? `<div class="letter">${esc(letter = first)}</div>` : "";
+  $("grid").innerHTML = strip + '<div class="words">' + list.map(w => {
+    const first = initial(w), head = q && first !== letter ? `<div class="letter">${esc(letter = first)}</div>` : "";
     const refs = (w.d || []).map(id => {
       const earth = id.startsWith("jorden-"), date = id.replace("jorden-", ""), entry = (earth ? earthIndex : index).find(x => x.date === date);
       if (!entry) return "";
@@ -1217,7 +1235,13 @@ async function renderWords() {
     }).join("");
     return head + `<details class="word"><summary>${esc(tidy(w.t))}</summary><p>${esc(tidy(w.e))}</p>${refs ? `<div class="refs"><small>${L("Förekommer i")}</small>${refs}</div>` : ""}</details>`;
   }).join("") + "</div>";
+  const on = $("grid").querySelector('.strip [aria-pressed="true"]');
+  if (on) on.parentNode.scrollLeft = on.offsetLeft - on.parentNode.clientWidth / 2 + on.offsetWidth / 2;
 }
+$("grid").addEventListener("click", e => {
+  const b = e.target.closest("[data-letter]"); if (!b) return;
+  wordLetter = b.dataset.letter === wordLetter ? null : b.dataset.letter; renderWords();
+});
 function renderArchive() {
   if (archKind === "words") { renderWords(); return; }
   $("search").placeholder = L("Sök bland bilderna");
