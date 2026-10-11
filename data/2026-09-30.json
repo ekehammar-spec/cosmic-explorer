@@ -1,129 +1,133 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-09-30",
-  "title": "The United States Flag Stands On The Surface Of Mars",
-  "title_sv": "Den amerikanska flaggan står på Mars yta",
+  "title": "James Webb Space Telescope Southern Ring Nebula (NIRCam and MIRI Images Side by Side)",
+  "title_sv": "Södra ringnebulosan: Jämförelse mellan NIRCam och MIRI",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA00388/PIA00388~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA00388/PIA00388~thumb.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA00388/PIA00388~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA00388",
-  "credit": "NASA/JPL",
+  "url": "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~orig.png",
+  "link": "https://images.nasa.gov/details/southern_ring_nebula",
+  "credit": "NASA ESA CSA STScI",
   "src": "library",
-  "id": "PIA00388",
-  "w": 508,
-  "h": 434,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQH/8QAKBAAAgECBQQBBQEAAAAAAAAAAQIDBBEABQYSIRQxQWFxEyJRgbHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AG0Z5UEEjKqoj1/mM0+qWg+16B0kPAV3sb/FsD6fVUsVKUFKjFOQTIbfzArMtWT1KDfSUzKTZbqSR7BvfAMY1RMG2yUYUn8v2+cV1Wp3SMxtShi113JJwPPkYE7oXpOc3pImHDKym/7474CzVFR0zSJUxGJWKLsJDXINz8W4wEihqmLRGMpITtZGB3L+sZZcuquqELSKrDuTxt/OOm6bp4kyWmkCAvKgZ3PJY+ycXZ1RU1Xl0i1EKuFFxfxgEyXTQqqjqeql6aQbrxKGJ98nAyso4MqzOCnkjNVTlS+1wUv48E4dsgAOU0qnsCVHwDYYD64RVzbLmCgN9Nhf0CLf3Af/2Q==",
+  "id": "southern_ring_nebula",
+  "px": [
+    1920,
+    890
+  ],
+  "w": 640,
+  "h": 296,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAPACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAgEDBAb/xAAhEAACAQQCAwEBAAAAAAAAAAABAgQAAwUREjETIUFRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERIWH/2gAMAwEAAhEDEQA/AOPw2GfKXnQXBbVF5Fj8rNk8dexsx497RKn0ynYYfopY3KSMdf8ALYYfjKemH0GoyE5597yuOJA0B3RUyYPGY8TpDKzFEVSzMPZFVZCDcg3zbcq6kbV16YUYc27Cv+W0ffRB6YfQaU6YZbg8OCqNBd71/aaeV1//2Q==",
   "quiz": [
     {
-      "q": "Vilken typ av himlakropp är Mars yta känd för att likna?",
+      "q": "Vad är Södra ringnebulosan för typ av rymdobjekt?",
       "options": [
-        "En het gasjätte utan fast mark",
-        "En kall, stenig öken med vulkaner och dalar",
-        "En frusen isplanet täckt av flytande hav"
+        "En planetarisk nebulosa skapad av en döende stjärna",
+        "En ung stjärnbildande nebulosa full av protostjärnor",
+        "Resterna efter en våldsam supernovaexplosion"
       ],
-      "correct": 1,
-      "fact": "Mars är en stenig planet med en torr yta präglad av vulkaner, nedslagskratrar och dalar."
+      "correct": 0,
+      "fact": "Södra ringnebulosan är en planetarisk nebulosa, vilket innebär att en sollik stjärna har stött bort sina yttre gasskikt i slutet av sitt liv."
     },
     {
-      "q": "Vad orsakar de mörka, klippiga ränderna och de ljusa, dykliknande områdena på Mars?",
+      "q": "Vad finns kvar i nebulosans centrum som hettar upp den omgivande gasen?",
       "options": [
-        "Vulkanutbrott som sprider lava över kontinenterna",
-        "Vind som flyttar sand och stoft samt material från nedslag",
-        "Flytande vatten som rinner nerför sluttningar under sommaren"
+        "Ett supermassivt svart hål som slukar materia",
+        "En vit dvärg som en gång var en sollik stjärna",
+        "En snabbt roterande neutronstjärna"
       ],
       "correct": 1,
-      "fact": "Vinden spelar en stor roll på Mars genom att flytta runt stoft och sand, medan mörkare material ofta blottas vid nedslagskratrar."
+      "fact": "Den ursprungliga stjärnan har krympt ihop till en het vit dvärg, vars energirika strålning får den utkastade gasen att glöda."
     },
     {
-      "q": "Varför är det viktigt att studera seismometrar på en planet som Mars?",
+      "q": "Varför skiljer sig bilderna till vänster och höger åt så mycket?",
       "options": [
-        "För att mäta planetens magnetfält och strålning",
-        "För att upptäcka skalv och lära sig mer om planetens inre",
-        "För att beräkna den exakta avståndet till solen"
+        "Det vänstra fotot togs flera hundra år före det högra fotot",
+        "Det högra teleskopet använder röntgenstrålning istället för ljus",
+        "De fångar olika våglängder där stoft och gas lyser med olika styrka"
       ],
-      "correct": 1,
-      "fact": "Seismometrar registrerar vibrationer i marken, vilket hjälper forskare att förstå hur planetens inre är uppbyggt."
+      "correct": 2,
+      "fact": "Vänstra bilden visar nära infrarött ljus med tydliga stjärnor, medan den högra bilden i mellaninfrarött ljus framhäver varmt kosmiskt stoft."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du åker på upptäcktsfärd till en helt öde planet långt borta. På den här bilden ser vi marken på den röda planeten Mars. Det ser ut som en öken med sand och stenar precis som på jorden, men här finns inga träd eller djur. En modig robot har landat där för att titta runt och skicka spännande bilder tillbaka till oss. Det är som att titta in i en helt främmande värld!",
-    "nyborjare": "Den här bilden visar det torra och steniga landskapet på den röda planeten Mars. Marken är täckt av stoft och sand som formas av vinden i sanddynsliknande formationer. Vi ser också spår efter nedslagskratrar där steniga massor har kastats ut runt kanterna. Det här fotografiet togs av en rymdsond som landade på planeten för att undersöka dess miljö på plats. Genom att studera marken, vindarna och bergarterna kan vi lära oss mer om hur solsystemets planeter har bildats och förändrats.",
-    "entusiast": "Bilden är tagen från ytan på Mars och visar ett typiskt ökenlandskap med låga kullar och en kraterkant i fonden. De mörka, linjära strukturerna utgörs sannolikt av ejektamaterial från nedslaget som bildat kratern, medan de ljusare fälten är ackumuleringar av eolisk sand och fint stoft som transporterats av marsvindarna. Platsen för landningen är avrullad med instrument som seismometrar för att mäta markrörelser och geofysiska data, vilket ger insikter i planetens inre struktur och geologiska aktivitet. Sådana observationer är avgörande för att förstå den aerologiska historien och klimatets utveckling."
+    "barn": "Titta på den här vackra rymdbubblan! I mitten finns en gammal stjärna som har pustat ut sina yttersta lager i rymden, ungefär som när en vattenspridare snurrar i trädgården och kastar vatten åt alla håll. Bilden till vänster visar hur stjärnorna glittrar i nära infrarött ljus. Bilden till höger visar varmt stoft som lyser rött i mellaninfrarött ljus. Tillsammans visar bilderna hur en stjärna som liknar vår egen sol ser ut när den blir riktigt gammal.",
+    "nyborjare": "Det här är Södra ringnebulosan, en planetarisk nebulosa som ligger cirka 2 500 ljusår från jorden. Den bildades när en stjärna i slutet av sitt liv kastade ut sina yttre gasskal i rymden. Kvar i mitten finns resterna av stjärnan i form av en het vit dvärg. Webb-teleskopet har fotograferat nebulosan med två olika instrument. Till vänster syns data från NIRCam i nära infrarött ljus, där stjärnorna lyser klart och gasens fina strukturer framträder med hög skärpa. Till höger syns observationer från MIRI i mellaninfrarött ljus, vilket avslöjar att den vita dvärgen är draperad i ett tjockt lager av stoft och därför lyser oväntat starkt i rött.",
+    "entusiast": "Södra ringnebulosan, även katalogiserad som NGC 3132, är en välstuderad planetarisk nebulosa sedd i en vinkel på ungefär 40 grader. Denna jämförelse belyser kraften i att kombinera data från instrumenten NIRCam och MIRI ombord på James Webb-teleskopet. I NIRCam-bilden till vänster dominerar nära infrarött ljus med kortare våglängder, vilket ger exceptionellt hög upplösning. Här syns en tydlig diffraktionstagg runt den ljusa stjärnan, medan den svagare vita dvärgen skyms intill. I MIRI-bilden till höger detekteras längre våglängder i det mellaninfraröda spektrumet. Tack vare detta framträder den heta vita dvärgen med dramatisk tydlighet eftersom dess omgivande stoftskal lyser upp. Det binära stjärnsystemet i centrum spelar en avgörande roll för nebulosans asymmetriska struktur. Den ljusare stjärnan kretsar nära den vita dvärgen och rör om det utkastade materialet i intrikata, expanderande skal."
   },
   "terms": [
     {
-      "term": "krater",
-      "explanation": "En stor sänka i marken som bildas när en meteorit slår ner med hög hastighet."
+      "term": "planetarisk nebulosa",
+      "explanation": "Ett expanderande skal av glödande gas och stoft som stötts ut av en döende medeltung stjärna."
     },
     {
-      "term": "seismometer",
-      "explanation": "Ett instrument som känner av och mäter rörelser och vibrationer i marken."
+      "term": "vit dvärg",
+      "explanation": "Den kompakta och heta restkärnan som blir kvar när en solliknande stjärna har slutat förbränna sitt bränsle."
     },
     {
-      "term": "ejektamaterial",
-      "explanation": "Lös massa som kastas ut från en plats när en stor meteorit slår ner."
+      "term": "infrarött ljus",
+      "explanation": "Ljus med längre våglängder än synligt ljus som kan tränga igenom kosmiska stoftmoln."
     },
     {
-      "term": "stoft",
-      "explanation": "Mycket små och fina partiklar av fast material som lätt sprids med vinden."
+      "term": "diffraktionstagg",
+      "explanation": "Ett spetsigt ljusmönster kring ljusstarka stjärnor som skapas av teleskopets inre spegelupphängning."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine going on an adventure to a completely deserted planet far away. In this picture, we see the ground on the red planet Mars. It looks like a desert with sand and rocks just like on Earth, but there are no trees or animals here. A brave robot has landed there to look around and send exciting pictures back to us. It is like looking into a completely foreign world!",
-      "nyborjare": "This image shows the dry and rocky landscape on the red planet Mars. The ground is covered with dust and sand shaped by the wind into dune-like formations. We can also see traces of impact craters where rocky debris has been thrown out around the edges. This photograph was taken by a spacecraft that landed on the planet to investigate its environment on site. By studying the ground, winds, and rocks, we can learn more about how the planets in our solar system formed and changed.",
-      "entusiast": "The image is captured from the surface of Mars and displays a typical desert landscape featuring low hills and a crater rim in the background. The dark, linear structures likely consist of ejecta material from the impact that formed the crater, while the lighter areas represent accumulations of eolian sand and fine dust transported by Martian winds. The landing site is equipped with instruments such as seismometers to measure ground motion and geophysical data, providing insights into the planet's internal structure and geological activity."
+      "barn": "Look at this giant, glowing cosmic bubble! At the center, an old star puffed away its outer layers into space, like a garden sprinkler spraying water in all directions. The picture on the left reveals how stars sparkle in near-infrared light. The picture on the right shows warm cosmic dust glowing red in mid-infrared light. Together, these views show what happens when a star like our Sun reaches old age and gently fades away.",
+      "nyborjare": "This is the Southern Ring Nebula, a planetary nebula located about 2,500 light-years away. It was created when a dying star cast off its outer envelopes into space over thousands of years. What remains at the core is a hot white dwarf. The Webb Telescope photographed this nebula using two different instruments. On the left, NIRCam captures near-infrared light where stars shine crisply and gaseous shells show extraordinary detail. On the right, MIRI observes mid-infrared light, revealing that the white dwarf is enveloped in thick cosmic dust that glows brightly in red.",
+      "entusiast": "The Southern Ring Nebula, cataloged as NGC 3132, is an exquisite planetary nebula tilted at roughly a 40-degree angle toward Earth. This side-by-side view demonstrates the distinct capabilities of Webb instruments NIRCam and MIRI. The NIRCam image at left captures shorter wavelengths of near-infrared light, yielding high spatial resolution and showcasing a sharp diffraction spike from the central star. In contrast, the MIRI image at right probes longer mid-infrared wavelengths where cooler illuminated dust dominates. This longer-wavelength view clearly unveils the dying white dwarf star, which is cloaked in dense circumstellar dust. The orbital motion of the central binary companion helps sculpt the ejected shells into an intricate, asymmetrical landscape."
     },
     "terms": [
       {
-        "term": "crater",
-        "explanation": "A large bowl-shaped depression formed on a surface when a high-speed meteoroid impacts."
+        "term": "planetary nebula",
+        "explanation": "An expanding glowing gas shell ejected by an intermediate-mass star near the end of its life."
       },
       {
-        "term": "seismometer",
-        "explanation": "An instrument used to detect and measure ground motions and vibrations."
+        "term": "white dwarf",
+        "explanation": "The dense, hot core remaining after a dying star has ceased nuclear fusion reactions."
       },
       {
-        "term": "dust",
-        "explanation": "Very small and fine particles of solid matter that are easily carried by the wind."
+        "term": "cosmic dust",
+        "explanation": "Microscopic solid grains floating in space that absorb visible light and re-radiate infrared energy."
       },
       {
-        "term": "wind",
-        "explanation": "The movement of air across a planet's surface that can shape landscapes over time."
+        "term": "diffraction spike",
+        "explanation": "Spike-shaped light artifacts appearing around bright stars due to light bending around telescope structures."
       }
     ],
     "quiz": [
       {
-        "q": "What type of celestial body is the surface of Mars known to resemble?",
+        "q": "What type of celestial object is the Southern Ring Nebula?",
         "options": [
-          "A hot gas giant without any solid ground",
-          "A cold, rocky desert with volcanoes and valleys",
-          "A frozen ice planet covered by liquid oceans"
+          "A planetary nebula created by a dying star",
+          "A young stellar nursery filled with protostars",
+          "The remnant of a violent supernova explosion"
         ],
-        "correct": 1,
-        "fact": "Mars is a rocky planet with a dry surface marked by volcanoes, impact craters, and valleys."
+        "correct": 0,
+        "fact": "The Southern Ring Nebula is a planetary nebula formed when a Sun-like star expelled its outer layers of gas."
       },
       {
-        "q": "What causes the dark, rocky stripes and the light, dune-like areas on Mars?",
+        "q": "What remains at the nebula's center, heating the surrounding gas?",
         "options": [
-          "Volcanic eruptions spreading lava across the continents",
-          "Wind moving sand and dust along with impact debris",
-          "Liquid water flowing down slopes during the summer"
+          "A supermassive black hole consuming matter",
+          "A white dwarf that once was a Sun-like star",
+          "A rapidly spinning neutron star"
         ],
         "correct": 1,
-        "fact": "Wind plays a major role on Mars by shifting dust and sand, while darker material is often exposed around impact craters."
+        "fact": "The dying star contracted into a dense, hot white dwarf whose radiation energizes the surrounding gas."
       },
       {
-        "q": "Why is it important to study seismometers on a planet like Mars?",
+        "q": "Why do the left and right images look so remarkably different?",
         "options": [
-          "To measure the planet's magnetic field and radiation levels",
-          "To detect marsquakes and learn more about the planet's interior",
-          "To calculate the exact distance from the planet to the sun"
+          "The left photo was taken centuries before the right photo",
+          "The right telescope uses X-rays instead of infrared light",
+          "They capture different wavelengths where dust and gas emit different amounts of light"
         ],
-        "correct": 1,
-        "fact": "Seismometers record vibrations in the ground, helping scientists understand how the interior of the planet is structured."
+        "correct": 2,
+        "fact": "The near-infrared camera highlights crisp stars, while the mid-infrared instrument captures the warm glow of cosmic dust."
       }
     ]
   }

@@ -1,129 +1,133 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-07",
-  "title": "Artemis II Crew Moon Photo Annotations",
-  "title_sv": "Artemis II-besättningens månanteckningar",
+  "title": "What Feeds the Beast in a Galaxy Cluster?",
+  "title_sv": "Vad matar monstret i galaxhopen SpARCS1049+56?",
   "media_type": "image",
-  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg?w=1600",
-  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg?w=480",
-  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg",
-  "link": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
-  "credit": "NASA",
-  "src": "iotd",
-  "id": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
-  "w": 480,
-  "h": 319,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECB//EACMQAAICAQMDBQAAAAAAAAAAAAECABESAyExIkFhM0JSYpH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A52+rqZt1tyfcYD6uOWbUPsZClsxvuZrZtFQORdwB1nr1H/ZBqvkOt+flMGqrvKFphZAgaY4u9cWdjMZHtsPERAl+BKGJIHmIgf/Z",
+  "url": "https://images-assets.nasa.gov/image/PIA19837/PIA19837~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA19837/PIA19837~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA19837/PIA19837~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA19837",
+  "credit": "NASA/STScI/ESA/JPL-Caltech/McGill",
+  "src": "library",
+  "id": "PIA19837",
+  "px": [
+    1919,
+    1920
+  ],
+  "w": 639,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQAAQIH/8QAJhAAAgICAQQCAQUAAAAAAAAAAQIDEQAEIRIiMUETgQUUQlFx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAGxEBAQABBQAAAAAAAAAAAAAAAQARITFRYXH/2gAMAwEAAhEDEQA/AOfWKDAkEVQPs5JQTKwLh64teR9Zn43MPX+wN03fs4z+Pg+XY6AzK5FDoI59ecVoJMgBjRsX5xzam1TBCmvDTCPvduCW9/WZ29OX8fttFMq9UZBo8gjIsJWdIClyPQKswAs+OR/eQwmLDRgaivaklqPdyPrDauxPFOdjVUJIgvtHi+PBwWrHFsbipK4hjY8kc1hBCJNr4og7Mb6Qo5J/zDqdta/1jybSSyKjv4Yv4N+zij9rsFPUoNA/zlvHJGoZ1ZVe6J90cJHHLNH0xxhgpskDHyF5v//Z",
   "quiz": [
     {
-      "q": "Vad orsakar en solförmörkelse när solen till synes blockeras från jorden sett?",
+      "q": "Vad händer oftast med stjärnorna när två galaxer kolliderar med varandra?",
       "options": [
-        "När månen passerar exakt framför solskivan",
-        "När jorden hamnar i skuggan av en asteroid",
-        "När solen tillfälligt slutar att avge ljus"
+        "De krockar ytterst sällan direkt, men gas pressas samman och bildar nya stjärnor.",
+        "De flesta stjärnor krockar rakt på och exploderar omedelbart i gigantiska supernovor.",
+        "Stjärnorna kastas omedelbart ut i tomma intet så att galaxerna töms på ljus."
       ],
       "correct": 0,
-      "fact": "En solförmörkelse inträffar när månen befinner sig i en rak linje mellan jorden och solen och därmed kastar sin skugga på vår planet."
+      "fact": "Eftersom avstånden mellan stjärnor är enorma passerar de oftast förbi varandra utan att krocka, medan gasmolnen däremot kolliderar och tänder nya stjärnor."
     },
     {
-      "q": "Vad kallas det när månen befinner sig längst bort från jorden i sin omloppsbana?",
+      "q": "Vad kallas det utdragna band av stjärnor och gas som slitits loss vid en galaxkrock?",
       "options": [
-        "Aphelium",
-        "Apogeum",
-        "Perigeum"
+        "Akkretionsskiva",
+        "Tidvattenarm",
+        "Kometbälte"
       ],
       "correct": 1,
-      "fact": "Månens omloppsbana är elliptisk, vilket gör att avståndet till jorden varierar. Punkten längst bort kallas apogeum och punkten närmast kallas perigeum."
+      "fact": "Gravitationskrafterna under en krock skapar en långsträckt svans av stjärnor och stoft som kallas en tidvattenarm."
     },
     {
-      "q": "Hur lång tid tar det ungefär för månen att ett varv runt jorden?",
+      "q": "Varför studerar astronomer ofta krockande galaxer i infrarött ljus istället för vanligt synligt ljus?",
       "options": [
-        "Ett dygn",
-        "En månad",
-        "Ett år"
+        "Infrarött ljus färdas snabbare genom rymden och når fram tidigare.",
+        "Stjärnor kan enbart avge infraröd strålning under sina första miljoner år.",
+        "Infrarött ljus tränger lättare igenom de tjocka stoftmoln som döljer nyfödda stjärnor."
       ],
-      "correct": 1,
-      "fact": "Månen kretsar kring jorden och ett helt varv tar ungefär tjugosju och en halv dag, vilket har givit upphov till tideräkningen med månader."
+      "correct": 2,
+      "fact": "Det kosmiska stoftet blockerar synligt ljus, men den mer långvågiga infraröda strålningen kan passera rakt igenom."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att månen spelar tittut med solen där uppe i rymden. När månen smyger sig precis framför solen blir det alldeles mörkt mitt på dagen, som när man blundar hårt med ögonen. Det är precis som att göra en skugga på väggen med handen, fast i jättestort format uppe bland stjärnorna.",
-    "nyborjare": "En solförmörkelse är ett fascinerande astronomiskt fenomen som uppstår när månen passerar mellan solen och jorden. Från jorden sett skymmer månen då solens ljus helt eller delvis. För att detta ska ske krävs att solen, månen och jorden står i nästan helt rak linje med varandra, vilket endast inträffar vid vissa månfastor.",
-    "entusiast": "Under rymdfärder som Artemis II studeras solens korona och himlakropparnas rörelser noggrant. En total solförmörkelse erbjuder unika tillfällen att observera solens yttersta atmosfär, som annars döljs av solskivans starka ljus. Månens elliptiska bana innebär att dess skenbara storlek på himlen varierar, vilket avgör om en solförmörkelse blir total eller ringformad beroende på det exakta avståndet till jorden."
+    "barn": "Tänk dig att två gigantiska städer av stjärnor krockar ute i rymden! Här ser vi en jättestor galax som slukar en mindre granne, lite som en kosmisk dammsugare. När de krockar kramas gas och rymdstoft ihop så hårt att massor av nya stjärnor tänds. De nyfödda stjärnorna glimmar på rad som ett vackert pärlband på ett snöre. Vanligtvis brukar så här stora galaxer vara gamla och trötta, men den här har fått fullt med ny energi!",
+    "nyborjare": "Bilden visar SpARCS1049+56, en massiv galaxhop som hålls samman av gravitationen. I mitten av hopen ligger en gigantisk galax, men till skillnad från de flesta centralgalaxer föder den nya stjärnor i en rasande takt. Orsaken är att den krockar med en mindre satellitgalax. Den våldsamma gravitationen sliter sönder den lilla galaxen och drar ut en långsträckt tidvattenarm av gas och stjärnor. I denna svans klumpas gasen ihop och skapar pärlband av nyfödda stjärnor. Detta är mycket ovanligt i centrum av galaxhoper, där gasen oftast är för het för stjärnbildning. Bilden kombinerar infrarött ljus från både rymdteleskopet Hubble och rymdteleskopet Spitzer.",
+    "entusiast": "Galaxhopen SpARCS1049+56 ger en sällsynt inblick i hur centralgalaxer i hopar kan växa genom våldsamma fusioner. Normalt är centralgalaxer mogna och domineras av gamla stjärnor med ytterst lite pågående stjärnbildning, eftersom intrahopgasen värms upp av aktiva galaxkärnor. Här observerar vi dock en extraordinär stjärnbildningshastighet, driven av en kollision med en gasrik satellitgalax. Gravitationella tidvattenkrafter har slitit ut en massiv tidvattenarm som sträcker sig under centralgalaxen. Längs denna arm syns regelbundna förtätningar som kallas beads on a string, orsakade av gravitationell instabilitet i den komprimerade gasen. Denna vy kombinerar observationer i nära infrarött ljus från rymdteleskopet Hubble vid 1,0 och 1,6 mikrometer med data från rymdteleskopet Spitzer vid 3,6 mikrometer. Medan Hubble fångar detaljerade strukturer i tidvattenarmen kartlägger Spitzer den totala stjärnmassan."
   },
   "terms": [
     {
-      "term": "solförmörkelse",
-      "explanation": "När månen skymmer solen helt eller delvis sett från jorden."
+      "term": "galaxhop",
+      "explanation": "En gigantisk samling av tiotals till tusentals galaxer som hålls samman av gravitation."
     },
     {
-      "term": "omloppsbana",
-      "explanation": "Den krökta bana som en himlakropp följer runt en annan på grund av gravitationen."
+      "term": "tidvattenarm",
+      "explanation": "Ett utdraget band av stjärnor och gas som slitits loss från en galax genom gravitationskrafter."
     },
     {
-      "term": "korona",
-      "explanation": "Den yttersta delen av en stjärnas atmosfär som sträcker sig ut i rymden."
+      "term": "stjärnbildning",
+      "explanation": "Processen där kalla moln av gas och rymdstoft kollapsar under sin egen tyngdkraft och bildar stjärnor."
     },
     {
-      "term": "elliptisk",
-      "explanation": "En form som liknar en lätt ihoptryckt cirkel eller en oval."
+      "term": "infrarött ljus",
+      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus, som tränger igenom kosmiskt stoft."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine the Moon playing a game of peekaboo with the Sun way out in space. When the Moon slips right in front of the Sun, it gets dark in the middle of the day, just like closing your eyes tightly. It is like making a shadow on the wall with your hand, but on a giant scale among the stars.",
-      "nyborjare": "A solar eclipse is a fascinating astronomical phenomenon that occurs when the Moon passes between the Sun and Earth. From our planet's perspective, the Moon obscures the light of the Sun either partially or completely. For this alignment to happen, the Sun, Moon, and Earth must form a nearly straight line during a specific lunar phase.",
-      "entusiast": "During space missions such as Artemis II, crew members and instruments study celestial mechanics and the Sun's outer atmosphere. A total solar eclipse provides rare opportunities to observe the solar corona, which is normally hidden by the intense glare of the photosphere. The elliptical nature of the lunar orbit means the apparent size of the Moon varies, determining whether an eclipse is total or annular based on the precise distance from Earth."
+      "barn": "Imagine two giant star cities crashing into each other in deep space! Here, a huge galaxy is swallowing a smaller neighbor like a cosmic vacuum cleaner. When they collide, gas and space dust are squeezed together so tightly that thousands of new stars light up. They glow in a row like sparkling beads on a string. Giant galaxies are usually quiet and sleepy, but this crash woke this one up with fresh energy!",
+      "nyborjare": "This image shows SpARCS1049+56, a massive galaxy cluster bound together by gravity. At its heart lies a giant galaxy, but unlike most central cluster members, it is rapidly forming stars. This burst was triggered by a collision with a smaller satellite galaxy. Enormous gravitational forces ripped the smaller galaxy apart, stretching out a shredded tidal tail of gas and stars. In this tail, dense gas clumps collapse to spark bright beads of new stars. Such an event is very rare in cluster centers, where gas is typically too hot to allow star formation. This composite view combines infrared light from the Hubble and Spitzer space telescopes.",
+      "entusiast": "The massive galaxy cluster SpARCS1049+56 provides rare insight into how central cluster galaxies grow through violent mergers. Typically, galaxies at a cluster core are quiescent and dominated by older stars with minimal ongoing star formation, as intra-cluster gas is kept hot by active galactic nuclei. In this system, however, scientists observe an extraordinary starburst fueled by a wet merger with a gas-rich satellite. Gravitational tidal forces have drawn out an extensive tidal tail beneath the central galaxy, exhibiting a beads-on-a-string morphology caused by gravitational instabilities in compressed gas. The image combines near-infrared observations at 1.0 and 1.6 microns from Hubble with mid-infrared data at 3.6 microns from Spitzer, tracing both localized star-forming clumps and overall stellar mass in infrared light."
     },
     "terms": [
       {
-        "term": "eclipse",
-        "explanation": "An obscuring of the light from one celestial body by the passage of another between it and the observer."
+        "term": "galaxy cluster",
+        "explanation": "A massive system of hundreds or thousands of galaxies held together by gravity."
       },
       {
-        "term": "orbit",
-        "explanation": "The curved path of a celestial object or spacecraft around a star, planet, or moon."
+        "term": "tidal tail",
+        "explanation": "An elongated stream of stars and interstellar gas drawn out by gravitational interactions."
       },
       {
-        "term": "corona",
-        "explanation": "The outermost region of a star's atmosphere consisting of plasma."
+        "term": "star formation",
+        "explanation": "The process where dense clouds of gas and dust collapse under gravity to create stars."
       },
       {
-        "term": "elliptical",
-        "explanation": "Having the elongated shape of an oval or a flattened circle."
+        "term": "infrared light",
+        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, capable of piercing cosmic dust."
       }
     ],
     "quiz": [
       {
-        "q": "What causes a solar eclipse when viewed from a planetary perspective?",
+        "q": "What usually happens to stars when two galaxies collide with each other?",
         "options": [
-          "When the Moon passes directly in front of the solar disk",
-          "When an asteroid casts a shadow across the star",
-          "When the Sun temporarily ceases its nuclear fusion"
+          "They rarely collide directly, but gas is compressed to form new stars.",
+          "Most stars smash head-on and instantly explode in giant supernovae.",
+          "Stars are immediately ejected into deep space, emptying the galaxies of light."
         ],
         "correct": 0,
-        "fact": "A solar eclipse occurs when the Moon moves between the Sun and Earth, blocking all or part of the Sun's light."
+        "fact": "Because distances between individual stars are immense, they pass by each other safely, while colliding gas clouds trigger new star birth."
       },
       {
-        "q": "What is the term for the point in the Moon's orbit when it is farthest from Earth?",
+        "q": "What is the elongated stream of stars and gas pulled out during a galactic collision called?",
         "options": [
-          "Aphelion",
-          "Apogee",
-          "Perigee"
+          "Accretion disk",
+          "Tidal tail",
+          "Comet belt"
         ],
         "correct": 1,
-        "fact": "Because the lunar orbit is elliptical, the point of maximum distance from Earth is called apogee."
+        "fact": "Intense gravitational forces during a merger stretch stellar material into an extended structure known as a tidal tail."
       },
       {
-        "q": "Approximately how long does it take for the Moon to complete one full orbit around Earth?",
+        "q": "Why do astronomers often study colliding galaxies using infrared light instead of visible light?",
         "options": [
-          "One day",
-          "One month",
-          "One year"
+          "Infrared light travels faster through space and reaches telescopes sooner.",
+          "Stars only emit infrared radiation during their first few million years.",
+          "Infrared light easily penetrates the dense dust clouds concealing newborn stars."
         ],
-        "correct": 1,
-        "fact": "The Moon revolves around Earth in roughly twenty-seven and a half days, which historically inspired the concept of a calendar month."
+        "correct": 2,
+        "fact": "Cosmic dust scatters and blocks visible light, but longer infrared wavelengths pass right through to reveal hidden regions."
       }
     ]
   }

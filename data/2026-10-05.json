@@ -126,5 +126,9 @@
         "fact": "Images of this kind are often captured from the International Space station as it orbits hundreds of miles above Earth."
       }
     ]
-  }
+  },
+  "px": [
+    1600,
+    2400
+  ]
 }

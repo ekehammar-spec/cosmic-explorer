@@ -26,8 +26,8 @@
  {
   "date": "2026-10-07",
   "media_type": "image",
-  "title": "Artemis II-besättningens månanteckningar",
-  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg?w=480"
+  "title": "Vad matar monstret i galaxhopen SpARCS1049+56?",
+  "thumb": "https://images-assets.nasa.gov/image/PIA19837/PIA19837~small.jpg"
  },
  {
   "date": "2026-10-06",
@@ -68,8 +68,8 @@
  {
   "date": "2026-09-30",
   "media_type": "image",
-  "title": "Den amerikanska flaggan står på Mars yta",
-  "thumb": "https://images-assets.nasa.gov/image/PIA00388/PIA00388~thumb.jpg"
+  "title": "Södra ringnebulosan: Jämförelse mellan NIRCam och MIRI",
+  "thumb": "https://images-assets.nasa.gov/image/southern_ring_nebula/southern_ring_nebula~small.jpg"
  },
  {
   "date": "2026-09-29",
@@ -86,14 +86,14 @@
  {
   "date": "2026-09-27",
   "media_type": "image",
-  "title": "Is runt Phoenix-landaren minskar under våren",
-  "thumb": "https://images-assets.nasa.gov/image/PIA12853/PIA12853~thumb.jpg"
+  "title": "Iskall besökare från fjärran",
+  "thumb": "https://images-assets.nasa.gov/image/PIA13438/PIA13438~small.jpg"
  },
  {
   "date": "2026-09-26",
   "media_type": "image",
-  "title": "Mars Pathfinder-landningsplatsen observerad av Mars Orbiter Camera",
-  "thumb": "https://images-assets.nasa.gov/image/PIA01438/PIA01438~thumb.jpg"
+  "title": "Kraftig soleruption av X-klass den 24 april",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001117/GSFC_20171208_Archive_e001117~small.jpg"
  },
  {
   "date": "2026-09-25",
@@ -122,14 +122,14 @@
  {
   "date": "2026-09-21",
   "media_type": "image",
-  "title": "Neptunus och Triton",
-  "thumb": "https://images-assets.nasa.gov/image/PIA01287/PIA01287~thumb.jpg"
+  "title": "Sökandet efter vulkanoider",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12038/PIA12038~small.jpg"
  },
  {
   "date": "2026-09-20",
   "media_type": "image",
-  "title": "Triton",
-  "thumb": "https://images-assets.nasa.gov/image/PIA02208/PIA02208~small.jpg"
+  "title": "WISE fångar kometen 65P/Gunn",
+  "thumb": "https://images-assets.nasa.gov/image/PIA13115/PIA13115~small.jpg"
  },
  {
   "date": "2026-09-19",
@@ -178,11 +178,5 @@
   "media_type": "image",
   "title": "Apollo 11: Solbad på månen",
   "thumb": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint"
- },
- {
-  "date": "2026-09-11",
-  "media_type": "image",
-  "title": "Solen sänder ut en medelstark solstorm den 4 december 2014",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000879/GSFC_20171208_Archive_e000879~thumb.jpg"
  }
 ]

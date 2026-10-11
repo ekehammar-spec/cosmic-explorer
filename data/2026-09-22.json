@@ -126,5 +126,9 @@
         "fact": "Satellites carrying specialized cameras can observe Earth's surface from a distance and detect volcanic ash and gas emissions directly from space."
       }
     ]
-  }
+  },
+  "px": [
+    1600,
+    1555
+  ]
 }

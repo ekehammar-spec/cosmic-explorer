@@ -134,5 +134,9 @@
         "fact": "Gravitational lensing magnifies faint background galaxies, allowing astronomers to observe objects from the early universe."
       }
     ]
-  }
+  },
+  "px": [
+    1600,
+    1547
+  ]
 }

@@ -1,129 +1,133 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-09-21",
-  "title": "Hubble Space Telescope Wide Field Planetary Camera 2 Observations of Neptune",
-  "title_sv": "Neptunus och Triton",
+  "title": "Searching for Vulcanoids",
+  "title_sv": "Sökandet efter vulkanoider",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA01287/PIA01287~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA01287/PIA01287~thumb.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA01287/PIA01287~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA01287",
-  "credit": "NASA/JPL/STScI",
+  "url": "https://images-assets.nasa.gov/image/PIA12038/PIA12038~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12038/PIA12038~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA12038/PIA12038~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA12038",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
   "src": "library",
-  "id": "PIA01287",
-  "w": 510,
-  "h": 259,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwQCBv/EACIQAAICAgEEAwEAAAAAAAAAAAECAwUAETESEyEyBhUigf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAEEAwEAAAAAAAAAAAAAAAABERNhAxIhMf/aAAwDAQACEQMRAD8A4apqprSZljIRU9mOJcUs9UUMhDxv4DAa84lBcCrmfuIWifW9cg4/yO9S1EcUKFY0PUWbknK5rZi+SSialpZLUuwftxodb1sk5i5qJaqZFdg6P6tx/MooLz6oukiF4mPV+eQcO/uTbToVQpFHvQPJJxxrCSSK/h//2Q==",
+  "id": "PIA12038",
+  "px": [
+    1018,
+    1024
+  ],
+  "w": 636,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAwECAAQG/8QAIxABAAICAQMEAwAAAAAAAAAAAQACAxESISJRMUFCYQQjgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDgceIU30PPiO/i5KiuO3E+RV0/2JTEvQNv1E7+PHnbj45OoGqY5YpG4y1qFbob0eYC4+1E9mWGpZ2dqa0e0zFeqcFrUflqRavR/ZTp9wCZCNfUSRa0NyoIWdPqbgf/2Q==",
   "quiz": [
     {
-      "q": "Vilken färg har Neptunus främst, och vad beror den på?",
+      "q": "Vad är en vulkanoid inom astronomin?",
       "options": [
-        "Blå, på grund av metangas i atmosfären",
-        "Röd, på grund av rost och järnoxid",
-        "Vit, på grund av tjocka moln av vattenis"
+        "Ett hypotetiskt stenblock som kretsar innanför Merkurius bana",
+        "En aktiv vulkan på någon av solsystemets stenplaneter",
+        "En typ av komet som smälter helt när den passerar solen"
       ],
       "correct": 0,
-      "fact": "Atmosfären på Neptunus innehåller metan som effektivt absorberar det röda ljuset från solen och reflekterar det blå, vilket ger planeten dess karakteristiska färg."
+      "fact": "Vulkanoider är hypotetiska asteroider som teoretiskt skulle kunna kretsa i en stabil bana mellan solen och Merkurius."
     },
     {
-      "q": "Vad är Triton för typ av himlakropp?",
+      "q": "Vad menas med att en rymdsond når sitt perihelium?",
       "options": [
-        "En ringformad dammskiva av ispartiklar",
-        "En stor måne som kretsar kring Neptunus",
-        "En mindre asteroid som passerar i solsystemets utkant"
+        "Den passerar genom en planets magnetfält",
+        "Den befinner sig på sin banas närmaste punkt till solen",
+        "Den bromsar in för att gå in i en stabil bana runt ett mål"
       ],
       "correct": 1,
-      "fact": "Triton är Neptunus största måne och är känd för sina aktiva gejsrar som sprutar ut kvävegas i rymden."
+      "fact": "Perihelium är den punkt i en bana runt solen där en himlakropp eller rymdfarkost befinner sig allra närmast solen."
     },
     {
-      "q": "Hur långt bort från solen ligger gasjätten Neptunus ungefär?",
+      "q": "Vilken planet var rymdsonden MESSENGER byggd för att utforska?",
       "options": [
-        "Cirka 150 miljoner kilometer",
-        "Cirka 778 miljoner kilometer",
-        "Cirka 4,5 miljarder kilometer"
+        "Venus",
+        "Mars",
+        "Merkurius"
       ],
       "correct": 2,
-      "fact": "Neptunus är den yttersta kända planeten i vårt solsystem och befinner sig på ett enormt avstånd av ungefär 4,5 miljarder kilometer från solen."
+      "fact": "MESSENGER lanserades av NASA och blev 2011 den allra första rymdsonden att gå in i bana runt Merkurius."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor, vacker blå kula som svävar ensam i den mörka rymden! Den färgglada bollen är planeten Neptunus, som ligger så långt bort från solen att det är svinkallt där. Långt därute blåser rymdens kraftigaste vindar. Intill Neptunus svävar dess största måne som heter Triton. Den ser ut som en liten glittrande prick och har faktiskt vulkaner som sprutar upp gas istället för glödande lava.",
-    "nyborjare": "Neptunus är den åttonde och yttersta planeten i vårt solsystem. Det är en isjätte som till största delen består av tunga gaser och flytande ämnen runt en stenig kärna. Den vackra blå nyansen kommer från metangas i atmosfären som absorberar rött ljus. Bredvid planeten syns dess största måne, Triton. Triton är en fascinerande värld med extrem kyla och gejsrar som sprutar kväve. Eftersom avståndet från solen är så enormt tar det Neptunus hela 165 jordår att göra ett enda varv runt solen.",
-    "entusiast": "Denna vy fångar isjätten Neptunus tillsammans med dess största måne Triton. Neptunus atmosfär domineras av väte, helium och metan, där den sistnämnda beståndsdelen ger planeten dess slående cyanblå färg genom selektiv absorption av rött ljus. Vindarna på Neptunus är de kraftigaste i solsystemet och når överstödda överljudshastigheter på grund av interna värmekällor. Triton, som kretsar i en retrograd bana, tros vara en infångad dvärgplanet från Kuiperbältet. Månens märkliga geologiska aktivitet med kvävegejsrar och kryovulkanism drivs av tidvattenkrafter och soluppvärmning, vilket gör systemet till ett av de mest dynamiska i solsystemets yttre regioner."
+    "barn": "Forskare har länge undrat om det gömmer sig små stenar i rymden ännu närmare solen än planeten Merkurius. Dessa hemliga rymdstenar kallas för vulkanoider. Eftersom solen lyser så otroligt starkt är det nästan omöjligt att se dem från jorden, ungefär som att försöka se en liten eldfluga som flyger precis framför en jättestark strålkastare. Därför skickade forskarna rymdsonden MESSENGER nära solen för att fotografera och spana efter dem i mörkret. Än så länge har ingen lyckats hitta någon sådan sten.",
+    "nyborjare": "Mellan solen och planeten Merkurius finns ett område där forskare länge har misstänkt att det kan finnas oupptäckta asteroider, kallade vulkanoider. Att upptäcka dessa från markbaserade teleskop på jorden är ytterst svårt eftersom solens bländande ljus överstrålar allt i närheten. När NASA-sonden MESSENGER färdades genom det inre solsystemet utnyttjade forskarna tillfället vid sondens perihelium, den punkt där den passerade som närmast solen. Kamerorna riktades mot den heta zonen för att söka efter svaga ljuspunkter från reflekterande grus- och stenblock. Hittills har inga vulkanoider bekräftats, vilket tyder på att de antingen är extremt små eller helt saknas i denna extrema miljö.",
+    "entusiast": "Hypotesen om vulkanoider uppstod ur studier av dynamisk stabilitet i det inre solsystemet, där en zon mellan 0,08 och 0,21 astronomiska enheter från solen teoretiskt kan hysa stabila omloppsbanor under miljarder år. Gravitationella störningar och termiska effekter som Yarkovskij-effekten borde dock över tid rensa bort mindre fragment genom att driva dem in i solen eller kasta ut dem. För att testa hypotesen genomförde sonden MESSENGER en systematisk bildkampanj i samband med periheliepassager, då instrumentens vinklar mot solen minimerade bländning och Maximerade sökområdet. Genom att exponera känsliga CCD-sensorer mot stjärnbakgrunden sökte man efter rörliga ljuskällor innanför Merkurius bana. Avsaknaden av positiva detektioner sätter snäva gränser för eventuella vulkanoiders storlek; om de existerar är de sannolikt mindre än några kilometer i diameter, eller så har solvinden och kollisioner pulveriserat dem helt."
   },
   "terms": [
     {
-      "term": "isjätte",
-      "explanation": "En planet som till stora delar bygger på tyngre grundämnen som syre, kol, kväve och svavel."
+      "term": "vulkanoid",
+      "explanation": "En hypotetisk asteroid som kretsar i en stabil bana mellan solen och Merkurius."
     },
     {
-      "term": "atmosfär",
-      "explanation": "Det lager av gaser som omger en himlakropp och hålls kvar på plats av dess tyngdkraft."
+      "term": "perihelium",
+      "explanation": "Den punkt i en omloppsbana där en himlakropp är närmast solen."
     },
     {
-      "term": "kväve",
-      "explanation": "Ett vanligt grundämne i gasform som utgör den största delen av jordens luftsammansättning."
+      "term": "Yarkovskij-effekten",
+      "explanation": "En kraft som ändrar en asteroids bana på grund av ojämn värmestrålning från ytan."
     },
     {
-      "term": "retrograd",
-      "explanation": "En rörelseriktning hos en himlakropp som sker åt motsatt håll jämfört med värdplanentens rotation."
+      "term": "astronomisk enhet",
+      "explanation": "Ett längdmått som motsvarar medelavståndet mellan jorden och solen, cirka 150 miljoner kilometer."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a huge, beautiful blue ball floating all alone in the dark space! This colorful sphere is the planet Neptune, located so far away from the sun that it is freezing cold there. Out there, the strongest winds in space blow constantly. Right next to Neptune, its largest moon named Triton is hovering. It looks like a tiny twinkling dot and actually has volcanoes that spew out gas instead of glowing lava.",
-      "nyborjare": "Neptune is the eighth and outermost planet in our solar system. It is an ice giant mostly composed of heavier gases and fluid substances surrounding a rocky core. The striking blue hue comes from methane gas in the atmosphere which absorbs red light. Next to the planet, its largest moon Triton is visible. Triton is a fascinating world with extreme cold and geysers spraying nitrogen. Because the distance from the sun is so immense, it takes Neptune a full 165 Earth years to complete a single orbit around the sun.",
-      "entusiast": "This view captures the ice giant Neptune along with its largest moon Triton. Neptunian atmosphere is dominated by hydrogen, helium, and methane, with the latter constituent giving the planet its striking cyan-blue color through selective absorption of red light. Winds on Neptune are the strongest in the solar system, reaching supersonic speeds driven by internal heat sources. Triton, orbiting in a retrograde path, is believed to be a captured dwarf planet from the Kuiper belt. The moon's strange geological activity featuring nitrogen geysers and cryovolcanism is powered by tidal forces and solar heating, making the system one of the most dynamic in the outer regions of the solar system."
+      "barn": "Scientists have long wondered if tiny hidden space rocks are circling the Sun even closer than the planet Mercury. These mystery rocks are called vulcanoids. Because the Sun is so blindingly bright, spotting them from Earth is like trying to see a tiny firefly right next to a giant spotlight. To get a better look, scientists sent a robotic spacecraft named MESSENGER into deep space to search for them. So far, nobody has found a single one!",
+      "nyborjare": "In the scorching region between the Sun and Mercury, astronomers have theorized the existence of small, ancient asteroids known as vulcanoids. Detecting these objects from Earth is exceedingly difficult because the intense solar glare washes out faint signals. During its journey through the inner solar system, NASA's MESSENGER probe took advantage of its perihelion—the point of closest approach to the Sun—to conduct a targeted imaging search. Its onboard cameras scanned the surrounding space for faint reflections from rocky bodies. While no vulcanoids were detected, the data helped scientists place strict limits on how small any surviving objects must be.",
+      "entusiast": "The vulcanoid hypothesis arises from orbital dynamics, which identify a gravitationally stable zone between 0.08 and 0.21 astronomical units from the Sun where small bodies could theoretically survive for billions of years. However, solar radiation pressures and the Yarkovsky effect tend to deplete small fragments over time by driving them into the Sun or into crossing orbits. To test whether any population remains, the MESSENGER spacecraft executed a systematic optical search around its perihelion passages, pointing sensitive imagers away from the Sun's disk to search for moving objects against background stars. The negative result demonstrates that if vulcanoids exist today, they must be smaller than a few kilometers across, having largely been pulverized by collisions or cleared by thermal radiation forces."
     },
     "terms": [
       {
-        "term": "ice giant",
-        "explanation": "A planet consisting mostly of heavier elements like oxygen, carbon, nitrogen, and sulfur."
+        "term": "vulcanoid",
+        "explanation": "A hypothetical asteroid orbiting the Sun inside the orbit of Mercury."
       },
       {
-        "term": "atmosphere",
-        "explanation": "The layer of gases surrounding a celestial body and held in place by its gravity."
+        "term": "perihelion",
+        "explanation": "The point in an orbit around the Sun where an object is closest to it."
       },
       {
-        "term": "nitrogen",
-        "explanation": "A common chemical element in gaseous form making up the majority of Earth's air composition."
+        "term": "Yarkovsky effect",
+        "explanation": "A force altering an asteroid's orbit caused by the uneven emission of thermal photons."
       },
       {
-        "term": "retrograde",
-        "explanation": "A motion direction of a celestial body occurring opposite to the host planet's rotation."
+        "term": "astronomical unit",
+        "explanation": "A unit of distance roughly equal to the average distance between Earth and the Sun."
       }
     ],
     "quiz": [
       {
-        "q": "What color is Neptune primarily, and what causes it?",
+        "q": "What is a vulcanoid in astronomy?",
         "options": [
-          "Blue, because of methane gas in the atmosphere",
-          "Red, because of rust and iron oxide",
-          "White, due to thick clouds of water ice"
+          "A hypothetical rocky asteroid orbiting inside the orbit of Mercury",
+          "An active volcano situated on one of the inner rocky planets",
+          "A rare type of comet that disintegrates upon its first perihelion passage"
         ],
         "correct": 0,
-        "fact": "The atmosphere of Neptune contains methane which efficiently absorbs red light from the sun and reflects blue, giving the planet its characteristic color."
+        "fact": "Vulcanoids are hypothetical asteroids that theoretical models suggest could exist in stable orbits between Mercury and the Sun."
       },
       {
-        "q": "What kind of celestial body is Triton?",
+        "q": "What does it mean when a spacecraft reaches perihelion?",
         "options": [
-          "A ring-shaped dust disk of ice particles",
-          "A large moon orbiting Neptune",
-          "A smaller asteroid passing through the outer solar system"
+          "It crosses into a planet's magnetic field",
+          "It reaches the point in its orbit closest to the Sun",
+          "It decelerates to enter orbital capture around a target"
         ],
         "correct": 1,
-        "fact": "Triton is the largest moon of Neptune and is known for its active geysers that spray nitrogen gas into space."
+        "fact": "Perihelion is the specific point in an orbit around the Sun where an object makes its closest approach."
       },
       {
-        "q": "Roughly how far away from the sun is the gas giant Neptune?",
+        "q": "Which planet was the MESSENGER spacecraft designed to explore?",
         "options": [
-          "About 150 million kilometers",
-          "About 778 million kilometers",
-          "About 4.5 billion kilometers"
+          "Venus",
+          "Mars",
+          "Mercury"
         ],
         "correct": 2,
-        "fact": "Neptune is the furthest known planet in our solar system, located at a massive distance of roughly 4.5 billion kilometers from the sun."
+        "fact": "NASA's MESSENGER spacecraft became the first artificial probe to enter orbit around Mercury in 2011."
       }
     ]
   }

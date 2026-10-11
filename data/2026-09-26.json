@@ -1,129 +1,133 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-09-26",
-  "title": "Pathfinder Landing Site Observed by Mars Orbiter Camera - Big",
-  "title_sv": "Mars Pathfinder-landningsplatsen observerad av Mars Orbiter Camera",
+  "title": "X-class Flare Erupts from Sun on April 24",
+  "title_sv": "Kraftig soleruption av X-klass den 24 april",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA01438/PIA01438~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA01438/PIA01438~thumb.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA01438/PIA01438~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA01438",
-  "credit": "NASA/JPL/MSSS",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001117/GSFC_20171208_Archive_e001117~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001117/GSFC_20171208_Archive_e001117~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001117/GSFC_20171208_Archive_e001117~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001117",
+  "credit": "NASA/GSFC",
   "src": "library",
-  "id": "PIA01438",
-  "w": 394,
-  "h": 395,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQAAgUG/8QAJRAAAgIBAwMEAwAAAAAAAAAAAQIDEQAEEiEFUXETIjFBUoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwA0sm1DlYyXu2AHjnJW+aqsD3G8Hq5DGbrjsMzSLiaMyenuo92FD+4ehWYzaoMx3Cj2OPdLnMsLoxJKNQ8YKw3FGfUZeWZl484jqmsEEHjij9Zrheb+CDg9Tp49SCZAQ35KfnzimXHKahuTtFZqdEiYRs73Td8ZPSdMhstI/wBncQAf0MYBRRtQBfGCt1//2Q==",
+  "id": "GSFC_20171208_Archive_e001117",
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABQIGAAMEB//EACYQAAIBAwMEAQUAAAAAAAAAAAECAwAEEQUSIRMxQVEjImKRwdH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAMAAgIDAAAAAAAAAAAAAAABAhEhAwQSMUH/2gAMAwEAAhEDEQA/APPIYWlkCIMsaSTT4EX5XZ29JwK6tMt4YrLrSHa8hIBPoVAsoONuR35PetVOFs4r5nVNT8NEmnwOvwyMren7fmjpoHiYq6lWHunLVk6oMiFk7YPmp6nFHNYq4DCSM7cd6HKayiZ56mlNbRKwuILjTREyqHiBOe5NYVtliaSQuHAGFA4JquwTvA4dDgikV1KCTHWRlP28ihWmtivr1NNz6YhBJAoA2HJ5POcn9UnLeWMeiyRSW4NweFY+B/arz6lAmenGzHxu4FHTXLyFtzH6jnFPzwSus7eXo//Z",
   "quiz": [
     {
-      "q": "Vad kallas den typ av farkost som rullar omkring på Mars yta för att undersöka marken på nära håll?",
+      "q": "Vad är den bakomliggande orsaken till att en soleruption uppstår?",
       "options": [
-        "Marslandare",
-        "Marsrover",
-        "Marssond"
-      ],
-      "correct": 1,
-      "fact": "En marsrover är ett hjulförsett fordon som är byggt för att köra på en annan planet och utföra vetenskapliga mätningar."
-    },
-    {
-      "q": "Hur kommunicerar oftast rymdfarkoster som kretsar kring Mars med jorden?",
-      "options": [
-        "Genom radiosignaler som färdas med ljusets hastighet",
-        "Med hjälp av laserstrålar som reflekteras i månen",
-        "Genom kablar som dragits hela vägen genom rymden"
+        "Kraftfulla magnetfält i solens atmosfär bryts och kopplas om",
+        "Kometer eller asteroider kolliderar med solens heta yta",
+        "Kärnreaktionerna i solens mitt stannar tillfälligt upp"
       ],
       "correct": 0,
-      "fact": "Radiosignaler är en form av elektromagnetisk strålning som färdas genom rymdens vakuum med samma hastighet som ljuset."
+      "fact": "Solutbrott drivs av magnetisk rekonnektion, där trassliga magnetfält plötsligt rätas ut och frigör enorma mängder lagrad energi."
     },
     {
-      "q": "Varför är det viktigt att studera landningsplatser och gamla ytor på Mars?",
+      "q": "Varför är solens strålning från utbrott inte direkt farlig för människor på jordytan?",
       "options": [
-        "För att planeten håller på att flytta sig närmare solen",
-        "För att förstå planetens geologiska historia och om det funnits vatten där",
-        "För att göra plats för framtida rymdhotell"
+        "Månen reflekterar bort all skadlig strålning från jorden",
+        "Jordens atmosfär och magnetfält absorberar den skadliga strålningen",
+        "Strålningen färdas uteslutande bort från det inre solsystemet"
       ],
       "correct": 1,
-      "fact": "Genom att undersöka stenar och kratrar på Mars kan forskare lära sig mer om hur planeten bildades och utvecklades."
+      "fact": "Jordens täta atmosfär fungerar som en effektiv sköld som stoppar farlig röntgen- och ultraviolett strålning från att nå marken."
+    },
+    {
+      "q": "Vilken bokstavsbeteckning används för de allra kraftigaste soleruptionerna?",
+      "options": [
+        "M-klass",
+        "C-klass",
+        "X-klass"
+      ],
+      "correct": 2,
+      "fact": "Forskare delar in soleruptioner i klasserna A, B, C, M och X, där X betecknar de mest intensiva och energirika utbrotten."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du bygger en liten leksaksbil och skickar den till en helt annan planet full av röd sand och stora stenar. Det är precis vad forskare har gjort på Mars. Den här bilden visar platsen där en sådan modig liten bil landade för länge sedan. Från rymden kan kameror titta ner och spana på de spår som bilarna lämnar efter sig i den röda sanden, ungefär som när du cyklar i leran.",
-    "nyborjare": "Att utforska Mars kräver avancerad teknik och planering. Genom att skicka farkoster som kretsar i bana runt planeten kan forskare fotografera ytan med imponerande skärpa. Denna bild visar området kring en historisk landningsplats där en tidig marsrover tog sig ner på ytan. För att kunna urskilja alla detaljer på de tagna bilderna krävs ibland tredimensionella glasögon som skapar djupseende. På så sätt kan geologer studera landskapets former, som sluttningar och steniga sluttningar, utan att behöva vara på plats.",
-    "entusiast": "Mars Global Surveyor spelade en avgörande roll för vår moderna förståelse av den röda planeten. Genom att använda sin ombordkamera kunde farkosten på sin 256:e omloppsbana fokusera på landningsområdet för Mars Pathfinder. För att analysera topografin i regionen har stereoskopiska bilder med tredimensionella effekter använts, vilket gör det möjligt att identifiera små höjdskillnader och ytstrukturer. Den här typen av högupplöst fjärranalys är helt nödvändig för att kartlägga potentiella landningszoner och förstå de fluviala processer som en gång formade planetens terräng."
+    "barn": "Titta på solen, den ser ut som en gigantisk glödande boll! Ibland blir solen så full av energi att den skjuter iväg en väldig ljusblixt rakt ut i rymden, ungefär som en kosmisk nysning eller en sprakande raket. Den här ljusstarka blixten kallas för en soleruption. Det är som ett enormt fyrverkeri av ljus och osynliga strålar. Vi på jorden behöver inte vara oroliga, för vår egen atmosfär fungerar som ett tjockt och osynligt täcke som skyddar oss.",
+    "nyborjare": "Solen är en dynamisk stjärna som ständigt förändras. Den här bilden visar en soleruption, vilket är en plötslig och våldsam explosion av elektromagnetisk strålning i solens atmosfär. Eruptioner uppstår när intensiv energi som lagrats i solens vridna magnetfält plötsligt frigörs i en process som kallas magnetisk återkoppling.\n\nStrålningen färdas med ljusets hastighet och når jorden på drygt åtta minuter. Även om jordens atmosfär och magnetfält skyddar allt levande på marken från skadliga röntgenstrålar, kan ett sådant utbrott påverka vårt rymdväder. Det kan störa radiokommunikation, skada satelliter och försvaga GPS-signaler i de övre luftlagren. Forskare delar in utbrotten i olika klasser, där X-klass representerar de allra mest kraftfulla händelserna.",
+    "entusiast": "Den här observationen från NASA:s Solar Dynamics Observatory fångade en dramatisk soleruption av klass X1.4. Soleruptioner klassificeras i bokstavskategorierna A, B, C, M och X baserat på deras maximala röntgenflöde i våglängdsbandet 0,1 till 0,8 nanometer nära jorden. En flare av X-klass är den mest extrema kategorin på en logaritmisk skala, där varje bokstav innebär en tiofaldig ökning av intensiteten.\n\nFenomenet drivs av magnetisk rekonnektion i koronan ovanför aktiva regioner. När motsatta fältlinjer i ett magnetfält bryts och kopplas om, accelereras laddade partiklar och plasma hettas upp till tiotals miljoner grader Celsius. Den resulterande strålningspulsen påverkar jordens rymdväder genom att jonisera den övre delen av vår atmosfär, vilket kan leda till kortvågsradioblackouts och positionsfel i satellitbaserade navigationssystem."
   },
   "terms": [
     {
-      "term": "marsrover",
-      "explanation": "Ett motordrivet fordon avsett för att köra runt och utforska en annan planets yta."
+      "term": "soleruption",
+      "explanation": "En plötslig och våldsam explosion av strålning från solens yttre skikt orsakad av magnetisk energi."
     },
     {
-      "term": "omloppsbana",
-      "explanation": "Den krökta bana som en himlakropp eller en rymdfarkost följer på grund av gravitationen."
+      "term": "magnetfält",
+      "explanation": "Ett osynligt kraftfält kring en himlakropp som påverkar elektriskt laddade partiklar och strålning."
     },
     {
-      "term": "topografi",
-      "explanation": "Beskrivning eller kartering av ytformer och landskap på en planet."
+      "term": "rymdväder",
+      "explanation": "De skiftande miljöförhållandena i rymden runt jorden som påverkas av solens partikel- och strålningsflöden."
     },
     {
-      "term": "fjärranalys",
-      "explanation": "Metoden att samla in information om ett föremål eller område på avstånd med hjälp av sensorer."
+      "term": "atmosfär",
+      "explanation": "Det skyddande gashölje som hålls kvar runt en himlakropp av dess gravitation."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine building a tiny toy car and sending it all the way to a completely different planet covered in red sand and big rocks. That is exactly what scientists did on Mars. This picture shows the area where a brave little vehicle landed a long time ago. High-flying cameras in space can look down and spot the tracks left behind in the dusty soil, much like riding your bicycle through a muddy patch.",
-      "nyborjare": "Exploring Mars requires advanced technology and careful planning. By sending spacecraft to orbit the planet, scientists can photograph the surface with remarkable clarity. This image highlights the vicinity of a historic landing site where an early rover touched down. To properly distinguish surface features in the data, specialized three-dimensional viewing methods are sometimes used to create depth perception. This allows geologists to study landscape shapes, slopes, and rocky terrain from afar.",
-      "entusiast": "Mars Global Surveyor played a pivotal role in modern planetary science. During its 256th orbit, the onboard camera successfully targeted the region of the Mars Pathfinder landing site. Analyzing this terrain often involves stereoscopic imaging techniques to generate three-dimensional models, making it possible to identify subtle elevation changes and local geology. High-resolution remote sensing of this nature remains essential for mapping landing zones and deciphering the planet's evolutionary history."
+      "barn": "Look at the Sun, shining like a giant glowing ball of fire! Sometimes the Sun gets so full of energy that it shoots out a huge blast of light into space, just like a cosmic sneeze or a popping firecracker. This brilliant flash is called a solar flare. It is an enormous firework made of light and energy. We do not have to worry down on Earth, because our atmosphere acts like a cozy invisible blanket that keeps us safe.",
+      "nyborjare": "The Sun is a dynamic star that is constantly changing. This image shows a solar flare, which is a sudden and violent blast of electromagnetic radiation within the solar atmosphere. Flares occur when intense energy stored in twisted magnetic field lines is abruptly released through magnetic reconnection.\n\nThe radiation travels at the speed of light, reaching Earth in just over eight minutes. While Earth's atmosphere and magnetic shield protect life on the ground from harmful X-rays, strong eruptions affect space weather. They can disrupt high-frequency radio communications, damage satellites, and degrade GPS signals in the upper layers of our air. Scientists categorize flares by strength, with X-class representing the most potent events.",
+      "entusiast": "Captured by NASA's Solar Dynamics Observatory, this image reveals a powerful X1.4 solar flare. Solar flares are classified into letter categories A, B, C, M, and X based on their peak soft X-ray flux measured in the 0.1 to 0.8 nanometer band near Earth. An X-class event represents the pinnacle of this logarithmic scale, where each letter indicates a tenfold increase in radiant energy output.\n\nThe phenomenon is driven by magnetic reconnection in the corona above active sunspot regions. When opposing lines in a magnetic field shear and reconnect, charged particles accelerate and plasma heats to tens of millions of degrees Celsius. The resulting radiation burst drives space weather disturbances by ionizing Earth's upper atmosphere, triggering shortwave radio blackouts and GPS positioning errors."
     },
     "terms": [
       {
-        "term": "rover",
-        "explanation": "A motorized vehicle designed to travel across the surface of a celestial body."
+        "term": "solar flare",
+        "explanation": "A sudden, intense burst of radiation from the Sun caused by the release of magnetic energy."
       },
       {
-        "term": "orbit",
-        "explanation": "The curved path that a celestial body or spacecraft takes around another object due to gravity."
+        "term": "magnetic field",
+        "explanation": "An invisible field of force around a celestial body that influences charged particles and radiation."
       },
       {
-        "term": "terrain",
-        "explanation": "A stretch of land viewed with regard to its physical features and configuration."
+        "term": "space weather",
+        "explanation": "The changing environmental conditions in near-Earth space driven by dynamic activity on the Sun."
       },
       {
-        "term": "remote sensing",
-        "explanation": "The scanning of the earth or a planet by satellite or high-flying aircraft to obtain information."
+        "term": "atmosphere",
+        "explanation": "The protective layer of gases surrounding a planet or celestial body held by gravity."
       }
     ],
     "quiz": [
       {
-        "q": "What is the term for a wheeled vehicle designed to move across the surface of a planet to conduct science?",
+        "q": "What is the primary cause behind the eruption of a solar flare?",
         "options": [
-          "Mars lander",
-          "Mars rover",
-          "Mars probe"
-        ],
-        "correct": 1,
-        "fact": "A Mars rover is a robotic vehicle built to traverse alien terrain and perform scientific measurements directly on the ground."
-      },
-      {
-        "q": "How do spacecraft orbiting Mars typically communicate back to Earth?",
-        "options": [
-          "Through radio signals travelling at the speed of light",
-          "By using laser beams bounced off the Moon",
-          "Via cables laid across interplanetary space"
+          "Tangled magnetic fields in the solar atmosphere snap and reconnect",
+          "Comets or asteroids crash into the sun's superheated surface",
+          "Nuclear fusion reactions in the core briefly slow down"
         ],
         "correct": 0,
-        "fact": "Radio signals are a type of electromagnetic radiation that travels through the vacuum of space at the speed of light."
+        "fact": "Solar flares are powered by magnetic reconnection, where twisted magnetic lines violently realign and release stored energy."
       },
       {
-        "q": "Why is studying landing sites and ancient surfaces on Mars important for scientists?",
+        "q": "Why is the radiation from powerful solar flares not harmful to humans on Earth's surface?",
         "options": [
-          "To predict when the planet will shift closer to the Sun",
-          "To understand the geological history and past presence of water",
-          "To clear space for future orbital tourist stations"
+          "The Moon deflects the radiation away from Earth's orbital path",
+          "Earth's atmosphere and magnetic field absorb the dangerous radiation",
+          "Solar radiation is directed exclusively toward the outer solar system"
         ],
         "correct": 1,
-        "fact": "By examining rocks and craters on Mars, scientists can piece together how the planet formed and evolved over billions of years."
+        "fact": "Earth's dense atmosphere effectively shields the surface by absorbing high-energy X-rays and extreme ultraviolet radiation."
+      },
+      {
+        "q": "Which letter classification denotes the most intense and powerful solar flares?",
+        "options": [
+          "M-class",
+          "C-class",
+          "X-class"
+        ],
+        "correct": 2,
+        "fact": "Solar flares are grouped into classes A, B, C, M, and X, with X-class marking the most energetic explosions."
       }
     ]
   }

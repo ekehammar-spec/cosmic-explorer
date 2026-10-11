@@ -126,5 +126,9 @@
         "fact": "Orbiters such as the Lunar Reconnaissance Orbiter take detailed photographs of the lunar surface from a low altitude to map its geology."
       }
     ]
-  }
+  },
+  "px": [
+    1222,
+    988
+  ]
 }

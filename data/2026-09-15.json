@@ -126,5 +126,9 @@
         "fact": "Cosmic dust consists of tiny grains of elements like carbon, silicon, and iron drifting freely in the void of space."
       }
     ]
-  }
+  },
+  "px": [
+    1600,
+    1161
+  ]
 }

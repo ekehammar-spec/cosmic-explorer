@@ -1,129 +1,133 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-09-27",
-  "title": "Ice Around Phoenix Lander Continues to Lessen in Spring",
-  "title_sv": "Is runt Phoenix-landaren minskar under våren",
+  "title": "Icy Visitor from Beyond",
+  "title_sv": "Iskall besökare från fjärran",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA12853/PIA12853~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA12853/PIA12853~thumb.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA12853/PIA12853~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA12853",
-  "credit": "NASA/JPL-Caltech/University of Arizona",
+  "url": "https://images-assets.nasa.gov/image/PIA13438/PIA13438~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA13438/PIA13438~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA13438/PIA13438~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA13438",
+  "credit": "NASA/JPL-Caltech/UCLA",
   "src": "library",
-  "id": "PIA12853",
-  "w": 1020,
-  "h": 442,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAOACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQIDBAb/xAAgEAEAAgEEAgMAAAAAAAAAAAABAhEAAyExQRJxEyJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDnpEJacT5dOLG6+rb7cjdXGuedt8tCcQSrJlSUF56/MGrqMwikToorAuwPjRuX65wWY40J07OKt1eRB//Z",
+  "id": "PIA13438",
+  "px": [
+    1280,
+    793
+  ],
+  "w": 640,
+  "h": 396,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBv/EABoQAAMAAwEAAAAAAAAAAAAAAAABEQIxQYH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAATH/2gAMAwEAAhEDEQA/AOGgK0LklObgZQoqfIVK6fgALaACtREeKoBbo//Z",
   "quiz": [
     {
-      "q": "Vad består den vita isen av som finns på marken i marsarktiken?",
+      "q": "Vad består en komets kärna huvudsakligen av?",
       "options": [
-        "Endast frusen koldioxid",
-        "En blandning av vattenis och koldioxidis",
-        "Ren kväveis"
-      ],
-      "correct": 1,
-      "fact": "Vid mars poler finns det stora mängder vattenis under ytan, som delvis täcks av koldioxidis under den kalla vintern."
-    },
-    {
-      "q": "Varför förändras landskapet på Mars under våren och sommaren?",
-      "options": [
-        "Temperaturen stiger och isen avdunstar eller sublimerar",
-        "Kraftiga vulkanutbrott smälter isen",
-        "Vattenströmmar rinner från bergen"
+        "Is, frusna gaser, grus och stoft",
+        "Flytande vatten och metalliskt väte",
+        "Fast järn och täta silikatbergarter"
       ],
       "correct": 0,
-      "fact": "När våren kommer till Mars stiger temperaturen, vilket gör att den frusna isen på marken försvinner ut i atmosfären i form av gas."
+      "fact": "Kometer kallas ofta för smutsiga snöbollar eftersom de består av vattenis, koldioxidis och inbäddat stoft från solsystemets barndom."
     },
     {
-      "q": "Vad kallas den typ av robotfordon som undersöker Mars yta på plats?",
+      "q": "Varför pekar en komets svans nästan alltid bort från solen, oavsett vilket håll kometen rör sig åt?",
       "options": [
-        "Sond",
-        "Rover",
-        "Satellit"
+        "Svansen dras mot solsystemets yttre gravitationsfält.",
+        "Solvinden och solens strålningstryck blåser bort partiklarna från kometen.",
+        "Friktionen mot rymdens gaspartiklar bromsar upp stoftet bakom kometen."
       ],
       "correct": 1,
-      "fact": "En rover är ett motordrivet fordon som är byggt för att rulla runt på en främmande planet för att studera marken och miljön."
+      "fact": "Det är solens intensiva strålningstryck och solvinden som kontinuerligt pressar utströmmande gas och stoft rakt bort från solen."
+    },
+    {
+      "q": "Från vilket avlägset område i solsystemet härstammar kortperiodiska kometer som Hartley 2 oftast?",
+      "options": [
+        "Oorts moln",
+        "Asteroidbältet",
+        "Kuiperbältet"
+      ],
+      "correct": 2,
+      "fact": "Kometer med korta omloppstider under 200 år har vanligtvis sitt ursprung i Kuiperbältet bortom planeten Neptunus."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du har en stor glassglass som sakta smälter i solen när det blir varmt ute. På planeten Mars händer ungefär samma sak med isen på marken när våren kommer. Runt roboten som kallas rover smälter och försvinner den vita isen lite i taget eftersom solen värmer upp marken. Det är som att se naturen vakna till liv och ändra utseende efter den kalla vintern.",
-    "nyborjare": "När våren anländer till den norra hemisfären på Mars förändras landskapet dramatiskt. På dessa bilder, tagna av en förbipasserande rymdsond i omloppsbana, kan man följa hur ytisar gradvis försvinner. Fenomenet beror på att solens strålar värmer upp marken efter den mörka och kalla vintern. Vattenis och koldioxidis som har legat på ytan övergår direkt till gasform i den tunna atmosfären genom en process som kallas sublimering. En rover som står på plats kan mäta dessa förändringar och hjälpa forskarna att förstå planetens klimatscykler.",
-    "entusiast": "Dessa observationer dokumenterar den dynamiska säsongscykeln av ytvolatiler i marsarktiken. Under den norra marsvåren leder ökad solinstrålning till att säsongsbunden koldioxidis och permanent grundis sublimerar. Processen sker direkt från fast fas till gasfas på grund av det låga atmosfärstrycket, som i genomsnitt ligger på endast omkring 600 pascal. Genom att studera dessa förändringar med högupplöst optisk kamerautrustning i omloppsbana kan forskare modellera vattenångans flöde mellan ytan och atmosfären. Observationerna kompletterar data från markbaserade farkoster som Phoenix-landaren, vilket ger en heltäckande bild av planetens hydrologiska cykel och dess klimatologiska historia."
+    "barn": "Det här är kometen Hartley 2 som susar genom rymden som en gigantisk, smutsig snöboll av is och grus. När kometen kommer närmare den varma solen börjar isen smälta och förångas till gas. Då bildas ett glödande moln och en lång svans som fladdrar i rymdvinden, precis som håret på någon som springer jättefort. Rymdteleskopet som tog bilden ser värme och ljus som våra vanliga ögon inte kan upptäcka.",
+    "nyborjare": "Bilden visar kometen Hartley 2 fotograferad i infrarött ljus av rymdteleskopet WISE. Kometer är reliker från när vårt solsystem bildades för över 4,5 miljarder år sedan och består av fruset vatten, gaser, stoft och sten. I mitten av kometen finns en fast kärna som bara är någon kilometer bred. När kometen närmar sig solen i sin bana värms ytan upp, vilket får isen att sublimera direkt till gas. Denna process skapar en lysande atmosfär som kallas koma kring kärnan, samt den karakteristiska svansen som sträcker sig ut åt sidan. Rymdsonden EPOXI besökte Hartley 2 på nära håll och visade att kometen sprutar ut koldioxidgas likt en kosmisk gejser.",
+    "entusiast": "Kometen 103P/Hartley, även känd som Hartley 2, är en kortperiodisk komet av Jupitertyp med en omloppstid på ungefär 6,46 år. Denna infraröda observation från NASA-teleskopet WISE fångar stoftpartiklarna i kometens koma och svans, vilka lyser tydligt tack vare termisk återstrålning av absorberat solljus. Kometens långsträckta, jordnötsformade kärna mäter bara cirka 2,2 kilometer på längden. När NASA:s rymdsond Deep Impact inom ramen för det förlängda uppdraget EPOXI genomförde en historisk förbiflygning i november 2010 på endast 700 kilometers avstånd, upptäcktes dramatisk aktivitet. Till skillnad från många andra studerade kometer, där sublimering av vattenis dominerar, drivs gasstrålarna på Hartley 2 främst av sublimerande koldioxidis som slungar ut block av vattenis i rymden. Kometen har dessutom ett deuterium-till-väte-förhållande i sitt vatten som matchar jordens oceaner, vilket ger avgörande ledtrådar till hur vatten en gång levererades till vår planet."
   },
   "terms": [
     {
-      "term": "rover",
-      "explanation": "Ett obemannat och motordrivet fordon som kör runt på en annan himlakropp för att utforska ytan."
+      "term": "infrarött ljus",
+      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus, vilken ofta uppfattas i form av värmestrålning."
     },
     {
-      "term": "atmosfär",
-      "explanation": "Det lager av gaser som omger en planet och hålls kvar av dess dragningskraft."
+      "term": "koma",
+      "explanation": "Det diffusa molnet av gas och stoft som bildas kring en komets kärna när solvärmen förgasar isen."
     },
     {
-      "term": "sublimering",
-      "explanation": "När ett ämne går direkt från fast till gasform utan att passera flytande form."
+      "term": "sublimera",
+      "explanation": "En fysikalisk process där ett fast ämne övergår direkt till gasform utan att först smälta till vätska."
     },
     {
-      "term": "omloppsbana",
-      "explanation": "Den krökta bana som en himlakropp eller rymdfarkost följer runt en annan på grund av gravitationen."
+      "term": "kortperiodisk komet",
+      "explanation": "En komet som har en omloppstid kring solen som är kortare än 200 år."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine having a big ice block that slowly shrinks outside when the weather gets warm. On the planet Mars, something very similar happens to the ice on the ground when spring arrives. Around the robotic vehicle called a rover, the white ice slowly disappears bit by bit as the sun warms up the soil. It is like watching nature change its appearance after the long and cold winter.",
-      "nyborjare": "When spring arrives in the northern hemisphere of Mars, the landscape changes dramatically. In these images, captured by an orbiting spacecraft, you can track how surface ices gradually recede. This phenomenon occurs because the sun's rays heat up the ground after the dark and freezing winter. Water ice and carbon dioxide ice that accumulated on the surface turn directly into gas in the thin atmosphere through a process called sublimation. A rover stationed on the surface can measure these shifts and help scientists understand the planet's climate cycles.",
-      "entusiast": "These observations document the dynamic seasonal cycle of surface volatiles in the Martian arctic. During the northern Martian spring, increased solar irradiance drives the sublimation of seasonal carbon dioxide and shallow ground ice. This phase transition occurs directly from solid to gas due to the low atmospheric pressure, which averages only about 600 pascals. By tracking these changes with high-resolution orbital optical imaging instruments, researchers can model the flux of water vapor between the regolith and the atmosphere. These observations complement data gathered by stationary surface landers, providing a comprehensive view of the planet's hydrological cycle and its climatic history."
+      "barn": "This is comet Hartley 2 zooming through space like a giant, dirty snowball made of ice and rock. When the comet gets closer to the warm Sun, its ice starts turning into gas. That creates a glowing cloud and a long tail that flows out in the space wind, like hair blowing behind someone running fast. The space telescope that took this picture can see heat and light that our regular eyes cannot see.",
+      "nyborjare": "This image captures comet Hartley 2 in infrared light, observed by NASA's WISE space telescope. Comets are icy remnants from the formation of our solar system more than 4.5 billion years ago, composed of frozen water, volatile gases, dust, and rock. At its center lies a solid nucleus only about a kilometer wide. As the comet approaches the Sun along its orbit, solar heat causes surface ice to sublimate directly into gas. This process creates a glowing atmosphere called a coma around the nucleus, along with the distinct tail trailing off to the side. The EPOXI spacecraft later visited Hartley 2 up close, discovering that the comet jets out carbon dioxide gas like a cosmic geyser.",
+      "entusiast": "Comet 103P/Hartley, commonly designated Hartley 2, is a Jupiter-family short-period comet with an orbital period of roughly 6.46 years. This infrared view captured by the Wide-field Infrared Survey Explorer highlights dust particles within the comet's coma and tail, glowing brightly via thermal emission of absorbed sunlight. The nucleus is a peanut-shaped body measuring only 2.2 kilometers along its major axis. When NASA's EPOXI mission conducted a flyby in November 2010 at a distance of merely 700 kilometers, it observed unprecedented dynamic activity. Unlike many comets where water ice sublimation governs activity, Hartley 2 is heavily driven by sublimating carbon dioxide dry ice, which blasts chunks of water ice into space. Intriguingly, spectroscopic analysis demonstrated that Hartley 2 possesses a deuterium-to-hydrogen ratio in its water matching Earth's oceans, offering vital evidence regarding the delivery of terrestrial water."
     },
     "terms": [
       {
-        "term": "rover",
-        "explanation": "An unmanned robotic vehicle designed to move across the surface of a celestial body for scientific exploration."
+        "term": "infrared light",
+        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, commonly detected as radiant thermal heat."
       },
       {
-        "term": "atmosphere",
-        "explanation": "The layer of gases surrounding a planet and retained by its gravity."
+        "term": "coma",
+        "explanation": "The nebulous cloud of gas and dust that envelopes a comet nucleus when heated by the Sun."
       },
       {
-        "term": "sublimation",
-        "explanation": "The transition of a substance directly from the solid to the gas state without passing through the liquid state."
+        "term": "sublimate",
+        "explanation": "The phase change where a solid transforms directly into a vapor without first melting into liquid."
       },
       {
-        "term": "orbit",
-        "explanation": "The curved trajectory of a celestial body or spacecraft around another body due to gravity."
+        "term": "short-period comet",
+        "explanation": "A comet that requires less than 200 years to complete one single orbit around the Sun."
       }
     ],
     "quiz": [
       {
-        "q": "What is the white ice on the ground in the Martian arctic primarily composed of?",
+        "q": "What is a comet's nucleus primarily composed of?",
         "options": [
-          "Only frozen carbon dioxide",
-          "A mixture of water ice and carbon dioxide ice",
-          "Pure liquid nitrogen"
-        ],
-        "correct": 1,
-        "fact": "The polar regions of Mars contain vast amounts of subsurface water ice, which is partially covered by carbon dioxide ice during the bitter winter."
-      },
-      {
-        "q": "Why does the landscape on Mars change during the spring and summer seasons?",
-        "options": [
-          "Rising temperatures cause surface ice to vaporize or sublimate",
-          "Powerful volcanic eruptions melt the ice",
-          "Liquid water streams flow from nearby mountains"
+          "Ice, frozen gases, rocky debris, and dust",
+          "Liquid water and metallic hydrogen",
+          "Solid iron and dense silicate rock"
         ],
         "correct": 0,
-        "fact": "As spring arrives on Mars, temperatures rise, causing the frozen ice on the ground to disappear directly into the thin atmosphere as gas."
+        "fact": "Comets are often described as dirty snowballs because they consist of water ice, frozen carbon dioxide, and primitive dust from the early solar system."
       },
       {
-        "q": "What is the term for a motorized robotic vehicle designed to explore the surface of a planet?",
+        "q": "Why does a comet's tail almost always point away from the Sun, regardless of the comet's direction of motion?",
         "options": [
-          "Space probe",
-          "Rover",
-          "Orbiter"
+          "The tail is pulled toward the outer gravitational boundaries of the solar system.",
+          "Solar wind and sunlight radiation pressure blow particles away from the comet.",
+          "Friction against sparse interstellar gas slows down dust trailing the comet."
         ],
         "correct": 1,
-        "fact": "A rover is a motorized vehicle built to drive across an alien landscape to study the ground and environment."
+        "fact": "Solar radiation pressure and the stream of charged particles in the solar wind continuously push escaping gas and dust directly away from the Sun."
+      },
+      {
+        "q": "From which distant reservoir in the solar system do short-period comets like Hartley 2 typically originate?",
+        "options": [
+          "The Oort Cloud",
+          "The asteroid belt",
+          "The Kuiper Belt"
+        ],
+        "correct": 2,
+        "fact": "Comets with orbital periods of less than 200 years generally originate in the Kuiper Belt beyond the orbit of Neptune."
       }
     ]
   }

@@ -126,5 +126,9 @@
         "fact": "A rover is a motorized vehicle equipped with scientific instruments that can drive around and examine rocks directly on an alien planet."
       }
     ]
-  }
+  },
+  "px": [
+    1920,
+    1080
+  ]
 }

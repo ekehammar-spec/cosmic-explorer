@@ -1,129 +1,141 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-09-20",
-  "title": "Triton",
-  "title_sv": "Triton",
+  "title": "WISE Catches Comet 65P/Gunn",
+  "title_sv": "WISE fångar kometen 65P/Gunn",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA02208/PIA02208~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA02208/PIA02208~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA02208/PIA02208~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA02208",
-  "credit": "NASA/JPL",
+  "url": "https://images-assets.nasa.gov/image/PIA13115/PIA13115~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA13115/PIA13115~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA13115/PIA13115~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA13115",
+  "credit": "NASA/JPL-Caltech/UCLA",
   "src": "library",
-  "id": "PIA02208",
+  "id": "PIA13115",
+  "px": [
+    1920,
+    1920
+  ],
   "w": 640,
-  "h": 528,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EACcQAAIBAwQABQUAAAAAAAAAAAECEQADIQQSMUEFEzJCUXGRstHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AF3rV0qTuCOxkmeuqIlgou83CzZEv8f3dP1JBU7pjsfNFdgybh6YoCuw2wG4MTHdA1NubZJZhgk5+1UHEFQc5zU7XMSWHXtM80HSXUMkGc0VkI4OIxS9R6l+tEuk+Sc+0/iaDBlgkjEiFqb4gFKm4BA256xVPl0nOWqT4mSVMknH7oP/2Q==",
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAEDAgQH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIAEQMSITEEMkFCUWFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARAlH/2gAMAwEAAhEDEQA/APPLjIoLZ5FijMw8RmZN8cQiFngX5lGKMuMY1IaqYk7ExCNyTIttpfUo4NVc3gGDWD1ByaCD2AX+yML24394Jsjl1tk6NRSYXbe7ZqJ+NpFsienEo+yTJbwgc1Pa+X//2Q==",
   "quiz": [
     {
-      "q": "Vilken planet tillhör Neptunus största måne Triton?",
+      "q": "Vad består kometens kärna huvudsakligen av?",
       "options": [
-        "Saturnus",
-        "Neptunus",
-        "Uranus"
+        "Flytande magma och metaller",
+        "Frusen is, stoft och sten",
+        "Komprimerad vätgas och helium"
       ],
       "correct": 1,
-      "fact": "Triton är den största månen som kretsar kring gasjätten Neptunus i det yttre solsystemet."
+      "fact": "Kometer beskrivs ofta som smutsiga snöbollar eftersom de består av vattenis, frusna gaser, grus och stoft från solsystemets barndom."
     },
     {
-      "q": "Vad är unikt med Tritons bana runt sin planet?",
+      "q": "Varför pekar en komets svans oftast bort från solen?",
       "options": [
-        "Den rör sig i motsatt riktning mot planetens rotation",
-        "Den står helt stilla ovanför samma punkt",
-        "Den byter plats med Neptunus andra månar varje år"
+        "Solvinden och strålningstrycket trycker bort partiklarna",
+        "Kometens rotation kastar alltid materialet bakåt i banan",
+        "Gravitationen från de yttre planeterna drar i svansen"
       ],
       "correct": 0,
-      "fact": "Triton har en retrograd bana, vilket innebär att den kretsar åt motsatt håll jämfört med hur Neptunus roterar."
+      "fact": "Solljuset och solvinden utövar ett tryck på gas och stoft som förångas, vilket tvingar svansen att peka bort från solen oavsett kometens rörelseriktning."
     },
     {
-      "q": "Varför har ytan på Triton så få nedslagskratrar?",
+      "q": "Var bildades de flesta kometer ursprungligen?",
       "options": [
-        "Månen har en tjock atmosfär som bränner upp alla meteorer",
-        "Ytan är ständigt aktiv och förnyas av vulkanisk verksamhet",
-        "Den ligger i skuggan av Neptunus ringar"
+        "I asteroidbältet mellan Mars och Jupiter",
+        "Inne i solens heta mitt under dess födelse",
+        "I solsystemets kalla utkanter bortom planeterna"
       ],
-      "correct": 1,
-      "fact": "Triton har en ung yta som hålls slät genom aktivitet som liknar vulkanism, där flytande kväve och is bryter igenom."
+      "correct": 2,
+      "fact": "Kometer härstammar från Kuiperbältet och Oorts kometmoln, långt ute i det iskalla mörkret bortom Neptunus."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor isboll långt ut i rymden som lyser svagt i mörkret. Det här är en bild av Neptunus största måne Triton. Den är så kall att all luft nästan har fryst till is på marken. Rymdsonden Voyager 2 flög hela vägen dit för länge sedan och tog bilden när solen sken på månen från sidan så att alla höga berg och kratrar kastade långa skuggor precis som när solen går ner hemma.",
-    "nyborjare": "Den här bilden visar en närbild av Neptunus största måne Triton, tagen av rymdsonden Voyager 2. Triton är en fascinerande värld som befinner sig i det yttre solsystemet. Eftersom solen står lågt vid horisonten på månen faller långa skuggor över det isiga landskapet. Detta gör att forskarna kan se höjdskillnader, berg och dalar mycket tydligt. Månen är känd för att ha en extremt kall temperatur och gejsrar som skjuter ut kvävegas i rymden.",
-    "entusiast": "Bilden är tagen av rymdsonden Voyager 2 på under 80 000 kilometers avstånd och visar en region på norra halvklotet av Neptunus största måne Triton. Med en retrograd bana som tyder på att månen ursprungligen fångats in från Kuiperbältet uppvisar Triton en komplex geologi präglad av kryovulkanism. Solens låga infallsvinkel accentuerar topografin och avslöjar branta sluttningar och flacka slätter av kväve- och vattenis. Observationerna revolutionerade vår förståelse för de yttre delarna av solsystemet."
+    "barn": "Här ser vi en komet som heter 65P/Gunn! En komet är som en jättestor, smutsig snöboll som flyger runt i rymden.\n\nNär kometen kommer närmare den varma solen börjar isen smälta och förvandlas till gas. Då bildas en lång, fin svans av stoft och ånga som lyser upp. Det röda sträcket du ser i bilden är kometens svans som släpar efter den.",
+    "nyborjare": "Bilden visar kometen 65P/Gunn, fångad i infrarött ljus av rymdteleskopet WISE. Kometer är uråldriga rester från när vårt solsystem bildades för drygt 4,5 miljarder år sedan.\n\nDe består främst av frusen is, gas och stoftpartiklar. När en komet rör sig in mot solsystemets inre värms den upp, vilket får isen att sublimera – övergå direkt från fast form till gas. Detta skapar en lysande koma kring kometens kärna samt en lång svans av stoft och gas som sträcker sig miljontals kilometer ut i rymden. I denna värmebild syns stoftet i svansen tydligt i rött.",
+    "entusiast": "Denna infraröda observation visar den kortperiodiska kometen 65P/Gunn, fotograferad av rymdteleskopet WISE i mellersta och bortre infraröda våglängder. Kometen tillhör Jupiterfamiljen och har en omloppstid runt solen på knappt sju år, med en bana som huvudsakligen hålls mellan Mars och Jupiter.\n\nI infrarött ljus framträder inte bara solljus som reflekteras mot stoftet, utan även den termiska strålningen från de uppvärmda stoftkornen i kometens svans. När kometens kärna närmar sig perihelium sublimerar flyktiga ämnen som vattenis och koldioxid. Detta river med sig mikroskopiska silikatkorn och organiska föreningar ut i en vidsträckt koma och ett utdraget stoftspår. Att studera dessa stoftsvansar med rymdbaserade infraröda sensorer ger astronomer unika ledtrådar om partiklarnas storleksfördelning samt solsystemets ursprungliga sammansättning av flyktiga beståndsdelar."
   },
   "terms": [
     {
-      "term": "måne",
-      "explanation": "En naturlig himlakropp som kretsar i en bana runt en planet eller dvärgplanet."
+      "term": "komet",
+      "explanation": "En mindre himlakropp av is och stoft som utvecklar en lysande svans nära solen."
     },
     {
-      "term": "rymdfarkost",
-      "explanation": "Ett farkost som skickas ut i rymden för att utforska andra världar och samla in data."
+      "term": "sublimera",
+      "explanation": "När ett ämne övergår direkt från fast form till gasform utan att smälta däremellan."
     },
     {
-      "term": "solsystem",
-      "explanation": "Ett system som består av en stjärna och alla himlakroppar som kretsar kring den."
+      "term": "koma",
+      "explanation": "Det diffusa moln av gas och stoft som omger en komets kärna när den värms upp."
     },
     {
-      "term": "halvklot",
-      "explanation": "Ett av de två lika stora delar som en sfärisk kropp delas in i genom dess ekvator."
+      "term": "perihelium",
+      "explanation": "Den punkt i en himlakropps bana runt solen där den befinner sig allra närmast solen."
+    },
+    {
+      "term": "infrarött ljus",
+      "explanation": "Elektromagnetisk strålning med längre våglängder än synligt ljus som ofta uppfattas som värme."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant ball of ice far out in space glowing faintly in the dark. This is a picture of Neptune's largest moon Triton. It is so cold that almost all air has frozen to ice on the ground. The spacecraft Voyager 2 flew all the way there long ago and took the picture when the sun was shining on the moon from the side, making all the high mountains and craters cast long shadows just like when the sun sets at home.",
-      "nyborjare": "This image shows a close-up of Neptune's largest moon Triton, captured by the Voyager 2 spacecraft. Triton is a fascinating world located in the outer solar system. Because the sun is low on the moon's horizon, long shadows fall across the icy landscape. This allows scientists to see differences in elevation, mountains, and valleys very clearly. The moon is known for having an extremely cold temperature and geysers that shoot nitrogen gas into space.",
-      "entusiast": "Taken by the Voyager 2 spacecraft at a distance of less than 80,000 kilometers, this image shows a region in the northern hemisphere of Neptune's largest moon Triton. Featuring a retrograde orbit suggesting it was originally captured from the Kuiper belt, Triton exhibits complex geology marked by cryovolcanism. The low solar elevation angle accentuates the topography, revealing steep slopes and smooth plains composed of nitrogen and water ice. These observations revolutionized our understanding of the outer solar system."
+      "barn": "Here is a comet called 65P/Gunn! A comet is like a giant, dirty snowball speeding through cold outer space.\n\nWhen the comet gets closer to the warm Sun, its ice begins to melt and turn into steam. That creates a beautiful, glowing tail made of dust and gas. The red streak stretching to the right in this picture shows the comet's tail trailing behind it.",
+      "nyborjare": "This image captures comet 65P/Gunn in infrared light, observed by NASA's WISE space telescope. Comets are primitive remnants left over from the formation of our solar system over 4.5 billion years ago.\n\nThey consist primarily of water ice, gases, and rocky dust particles. As a comet approaches the inner solar system, solar radiation warms it up, causing the ice to sublimate directly into gas. This process creates a glowing atmosphere called a coma around the icy nucleus, along with a vast tail that stretches for millions of kilometers. In this thermal image, dust grains in the tail glow brightly in red.",
+      "entusiast": "This infrared view shows the periodic comet 65P/Gunn, captured by the WISE telescope at mid-to-far infrared wavelengths. Belonging to the Jupiter-family comets, 65P/Gunn has an orbital period of just under seven years and stays primarily between Mars and Jupiter.\n\nInfrared instruments detect not only scattered sunlight, but the actual thermal emission radiating from warm dust grains trailing the comet nucleus. As the nucleus approaches perihelion, volatile substances like water ice and carbon dioxide sublimate, lifting microscopic silicates and organic compounds into an expanding coma and a dusty trail. Measuring this thermal signature provides critical insights into grain size distributions and the pristine chemical building blocks preserved from the early solar nebula."
     },
     "terms": [
       {
-        "term": "moon",
-        "explanation": "A natural celestial body that orbits around a planet or dwarf planet."
+        "term": "comet",
+        "explanation": "A small icy celestial body that outgasses and forms a glowing tail near the Sun."
       },
       {
-        "term": "spacecraft",
-        "explanation": "A vehicle sent into space to explore other worlds and gather data."
+        "term": "sublimate",
+        "explanation": "The transition of a substance directly from a solid state to a gas without melting."
       },
       {
-        "term": "solar system",
-        "explanation": "A system consisting of a star and all the celestial bodies that orbit around it."
+        "term": "coma",
+        "explanation": "The nebulous envelope of gas and dust surrounding a comet nucleus."
       },
       {
-        "term": "hemisphere",
-        "explanation": "One of the two equal halves into which a spherical body is divided by its equator."
+        "term": "perihelion",
+        "explanation": "The point in an orbit where a celestial body is closest to the Sun."
+      },
+      {
+        "term": "nucleus",
+        "explanation": "The solid, frozen core of rock, dust, and ice inside a comet."
       }
     ],
     "quiz": [
       {
-        "q": "Which planet does Triton, the largest moon shown here, orbit?",
+        "q": "What is a comet nucleus mainly composed of?",
         "options": [
-          "Saturn",
-          "Neptune",
-          "Uranus"
+          "Liquid magma and dense metals",
+          "Frozen ice, dust, and rock",
+          "Compressed hydrogen and helium"
         ],
         "correct": 1,
-        "fact": "Triton is the largest moon orbiting the gas giant Neptune in the outer solar system."
+        "fact": "Comets are often called dirty snowballs because they are made of water ice, frozen gases, rocky dust, and grit from the early solar system."
       },
       {
-        "q": "What is unique about Triton's orbit around its planet?",
+        "q": "Why does a comet's tail generally point away from the Sun?",
         "options": [
-          "It moves in the opposite direction of the planet's rotation",
-          "It stays completely stationary above a single point",
-          "It swaps places with Neptune's other moons every year"
+          "The solar wind and radiation pressure push the particles away",
+          "The comet's rotation consistently flings material backward in its orbit",
+          "Gravitational pull from outer planets tugs at the tail"
         ],
         "correct": 0,
-        "fact": "Triton has a retrograde orbit, meaning it revolves in the opposite direction to how Neptune rotates."
+        "fact": "Sunlight and the solar wind push against the sublimated gas and dust, forcing the tail to extend away from the Sun regardless of the comet's travel direction."
       },
       {
-        "q": "Why does the surface of Triton have relatively few impact craters?",
+        "q": "Where did most comets originally form?",
         "options": [
-          "The moon has a thick atmosphere that burns up all meteors",
-          "The surface is constantly active and renewed by volcanic activity",
-          "It remains hidden in the shadow of Neptune's rings"
+          "In the asteroid belt between Mars and Jupiter",
+          "Inside the hot interior of the Sun during its birth",
+          "In the cold outer fringes of the solar system beyond the planets"
         ],
-        "correct": 1,
-        "fact": "Triton has a young surface kept smooth by activity similar to volcanism, where liquid nitrogen and ice erupt through."
+        "correct": 2,
+        "fact": "Comets originated in deep freeze zones like the Kuiper Belt and the Oort Cloud, far out past Neptune."
       }
     ]
   }

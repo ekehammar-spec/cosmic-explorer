@@ -126,5 +126,9 @@
         "fact": "Oceans, forests, and sparsely populated regions lack the intense artificial lighting found in cities, making them appear as dark zones from space."
       }
     ]
-  }
+  },
+  "px": [
+    1600,
+    1066
+  ]
 }

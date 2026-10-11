@@ -126,5 +126,9 @@
         "fact": "According to Einstein's theory of relativity, extremely massive objects like galaxy clusters warp spacetime, thereby acting as gravitational lenses that magnify background light."
       }
     ]
-  }
+  },
+  "px": [
+    1600,
+    964
+  ]
 }
