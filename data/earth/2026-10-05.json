@@ -1,18 +1,18 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-05",
-  "title": "Landsat 8’s First Year",
-  "title_sv": "Landsat 8:s första år",
-  "place": "USA",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001234/GSFC_20171208_Archive_e001234~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001234/GSFC_20171208_Archive_e001234~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001234/GSFC_20171208_Archive_e001234~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001234",
-  "credit": "NASA Earth Observatory",
-  "source": "Credit: NASA Earth Observatory",
+  "title": "Vancouver, Canada 2010",
+  "title_sv": "Vancouver, Kanada 2010",
+  "place": "Vancouver, Kanada",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001239/GSFC_20171208_Archive_e001239~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001239/GSFC_20171208_Archive_e001239~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001239/GSFC_20171208_Archive_e001239~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001239",
+  "credit": "NASA Earth Observatory image created by Robert Simmon and Jesse Allen, using Landsat data provided by the United States Geological Survey",
+  "source": "NASA Earth Observatory image created by Robert Simmon and Jesse Allen, using Landsat data provided by the United States Geological Survey.",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e001234",
+  "id": "GSFC_20171208_Archive_e001239",
   "archive": true,
   "px": [
     1920,
@@ -20,54 +20,62 @@
   ],
   "w": 640,
   "h": 426,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwYBBP/EACkQAAIBAwMDAgcBAAAAAAAAAAECAwAEEQUSITFBgSJxEzJRUqGx0fD/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAYEQEBAQEBAAAAAAAAAAAAAAABABECMf/aAAwDAQACEQMRAD8Az9lYtd6bHCY1KxDjnPqbknjv0HipzaRa/CDvAqZXdwT471doWq2JtRHLKltKFUHf6QSPp4/de+WNZbdpl2mOTpgggexqXSjbAyy76ckiNsQA4LcdQO3j+1AWa22lzvMiPIxXaft+Yf72pzsNxch5Dl2bbhR1xgYFKNbuFR2tI8kI2C2cZwT2/NVKJvknphp+rXFkAgJkg5zETxk96KKZtupk1G6kcMZmGCCMdsdK7f3BuJFJGCowTnrzRRSX/9k=",
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUG/8QAJRAAAgEDAwQCAwAAAAAAAAAAAQIDABEhBBIxBRMiQVFxMmGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABoRAQACAwEAAAAAAAAAAAAAAAABMQIRISL/2gAMAwEAAhEDEQA/AOKEkwXa24gD2OK04OlyzaVZFYDdxc3xUMpmVmmAFpBwRcYqMdU1SRrEWUBWuCFHHxVJ9RwsWnn0+ohkHkXuLFh79UixS9uR5PFSu0ljb6tWmJgYO8SrXGKzRFqddOUiR3WNd7KvCKOST6+6lsdGjHdZY2/EsKopGvb3nOStjRRVMaCFjSQmVJLyEKoHj/aYlwrKHIDXvbFx8H9YGKKKTK2f/9k=",
   "levels": {
-    "barn": "Bilden visar hela USA från rymden under sensommaren år 2013. Landet breder ut sig som ett lapptäcke av olika färger. I öster och längs bergskedjor syns djupa gröna skogar, medan torrare områden i väster är sandfärgade och bruna. Satelliten Landsat 8 sköts upp med en raket tidigare samma år. Den kretsar runt jorden och fotograferar marken så att forskare kan se hur vår planet mår och hur naturen förändras över tid.",
-    "nyborjare": "Denna satellitbild från augusti 2013 visar USA som en sammanhängande mosaik. De gröna fälten i öster och norr visar tät växtlighet, medan de bruna och gula tonerna i väster markerar torra slätter och öknar. Bilden sammanställdes av forskaren David Roy för att testa data från den då nyuppskjutna satelliten Landsat 8. Satelliten lämnade jorden i februari 2013 med en Atlas V-raket. Under sitt första år i rymden användes informationen för att kalibrera mätningarna mot observationer på marken. Forskarna jämförde även resultaten med det 42 år långa arkivet från tidigare Landsat-satelliter för att säkerställa att mätningarna var exakta.",
-    "entusiast": "Denna storskaliga karta över USA konstruerades av forskaren David Roy vid South Dakota State University med hjälp av observationer från augusti 2013. Mosaiken visar tydliga kontraster mellan frodig vegetation i öster och torrare ekosystem i väster. Data samlades in med instrumentet Operational Land Imager (OLI) ombord på satelliten Landsat 8, som sköts upp den 11 februari 2013 med en Atlas V-raket från Kalifornien. Under satellitens första år i omloppsbana ägnade forskare från USGS och NASA stor möda åt att kalibrera och utvärdera instrumentets mätningar. Satellitdata kontrollerades mot fältobservationer på marken och fogades samman med det mer än fyra decennier långa historiska Landsat-arkivet. Denna testkarta utgjorde ett viktigt steg för forskarvärlden i arbetet med att tillgodogöra sig och validera den nya generationens satellitdata för globala miljöstudier."
+    "barn": "Här ser du en satellitbild av Vancouver i Kanada som togs år 2011. Den visar hur en stor flod som heter Fraserfloden rinner ut i havet. Floden flyter fram i slingrande fåror och delar upp sig i flera olika utlopp innan den når vattnet. Bilden är tagen uppifrån rymden med hjälp av en satellit som cirkulerar runt jorden.",
+    "nyborjare": "Den här satellitbilden över Vancouver i Kanada fångades den 7 september 2011 av instrumentet Thematic Mapper som satt ombord på satelliten Landsat 5. Bilden visar hur den breda Fraserfloden flyter fram genom flätade kanaler och slingrar sig mot havet. Floden delar upp sig i flera olika utlopp när den rinner ut i det salta vattnet. Sådana här bilder hjälper forskare att studera landskapets utformning och hur floder förändras över tid.",
+    "entusiast": "Satellitbilden över Vancouver i Kanada fångades den 7 september 2011 av Thematic Mapper, ett avancerat instrument ombord på jordobservationssatelliten Landsat 5. Data till bilden tillhandahölls av United States Geological Survey och bearbetades av Robert Simmon och Jesse Allen vid NASA Earth Observatory. I bilden syns tydligt hur den mäktiga Fraserfloden meandrar sig fram genom flätade kanaler och bildar flera olika utlopp där den mynnar ut i havet. Genom att använda instrument som Landsat 5 samlar NASA Goddard Space Flight Center in värdefull vetenskaplig kunskap inom jordvetenskap för att främja rymdstyrelsens uppdrag."
   },
   "terms": [
     {
-      "term": "Operational Land Imager",
-      "explanation": "Ett optiskt instrument ombord på satelliten Landsat 8 som samlar in detaljerade bilder av jordens landytor."
+      "term": "Landsat 5",
+      "explanation": "En satellit som användes för att samla in data om jordens yta."
     },
     {
-      "term": "Landsat 8",
-      "explanation": "En amerikansk jordobservationssatellit som sköts upp 2013 för att övervaka jordens naturresurser och landytor."
+      "term": "Thematic Mapper",
+      "explanation": "Ett instrument ombord på satelliten som användes för att fånga bilden."
     },
     {
-      "term": "Atlas V",
-      "explanation": "En kraftfull bärraket som användes för att sända upp satelliten Landsat 8 i omloppsbana runt jorden."
+      "term": "Fraser River",
+      "explanation": "En flod som flyter genom flätade kanaler och meandrar mot havet."
     },
     {
-      "term": "kalibrera",
-      "explanation": "Att kontrollera och justera ett mätinstruments mätvärden mot kända referenser för att säkerställa hög noggrannhet."
+      "term": "NASA Earth Observatory",
+      "explanation": "En organisation som skapade bilden med hjälp av data från United States Geological Survey."
+    },
+    {
+      "term": "NASA Goddard Space Flight Center",
+      "explanation": "En verksamhet som möjliggör NASAs uppdrag genom fyra vetenskapliga strävanden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "This picture shows the United States from space in late summer 2013. The land looks like a colorful patchwork. Lush green forests cover the eastern regions and mountains, while dry plains and deserts in the west appear light brown and tan. The Landsat 8 satellite was launched on a rocket earlier that year. It circles Earth taking detailed pictures so scientists can see how nature looks and how the environment changes.",
-      "nyborjare": "This satellite mosaic from August 2013 shows the United States during the late summer season. Green hues across the east and north indicate dense plant life, while tan and brown colors in the west highlight arid plains and deserts. Researcher David Roy compiled these observations to test data from Landsat 8 during its first year in orbit. The satellite had launched in February 2013 aboard an Atlas V rocket. In the months following the launch, scientists carefully calibrated the incoming data against ground observations. They also compared the new measurements to the 42-year Landsat historical record to confirm that the instruments delivered accurate and dependable information.",
-      "entusiast": "This continental mosaic of the United States was produced by researcher David Roy at South Dakota State University using observations acquired in August 2013. The image illustrates distinct ecological zones, contrasting lush vegetation across the eastern states with arid landscapes across the American West. The data was gathered by the Operational Land Imager (OLI) aboard the Landsat 8 satellite, which launched from California on February 11, 2013, aboard an Atlas V rocket. Throughout the satellite’s first year in orbit, the joint USGS-NASA science team focused on data calibration, cross-referencing spaceborne readings with surface measurements and integrating them into the 42-year Landsat archive. This composite served as a key test demonstrating how the broader scientific community could exploit new Landsat 8 observations for continuous Earth monitoring."
+      "barn": "Here you can see a satellite image of Vancouver in Canada taken in the year 2011. It shows a large river called the Fraser River flowing towards the sea. The river travels through braided channels and empties through multiple outlets before reaching the water. The picture was captured from space using a satellite orbiting the Earth.",
+      "nyborjare": "This satellite image of Vancouver, Canada, was captured on September 7, 2011, by the Thematic Mapper instrument aboard the Landsat 5 satellite. The image shows how the wide Fraser River flows through braided channels and meanders toward the sea. The river divides into multiple outlets as it empties into the water. Images like this help scientists study landscape features and how rivers change over time.",
+      "entusiast": "The satellite image of Vancouver, Canada, was captured on September 7, 2011, by the Thematic Mapper instrument aboard the Landsat 5 satellite. The image data was provided by the United States Geological Survey and created by Robert Simmon and Jesse Allen at the NASA Earth Observatory. The image clearly shows the Fraser River flowing through braided channels and meandering toward the sea, emptying through multiple outlets. By utilizing instruments like Landsat 5, the NASA Goddard Space Flight Center enables NASAs mission through scientific endeavors in Earth science."
     },
     "terms": [
       {
-        "term": "Operational Land Imager",
-        "explanation": "An optical sensor aboard the Landsat 8 satellite designed to collect detailed multispectral imagery of Earth's land surfaces."
+        "term": "Landsat 5",
+        "explanation": "A satellite used to capture data regarding the surface of the Earth."
       },
       {
-        "term": "Landsat 8",
-        "explanation": "An Earth-observing satellite launched in 2013 to continue a long-running record of global land surface measurements."
+        "term": "Thematic Mapper",
+        "explanation": "An instrument aboard the satellite used to capture the image."
       },
       {
-        "term": "Atlas V",
-        "explanation": "An expendable launch vehicle used to propel the Landsat 8 spacecraft into orbit from California."
+        "term": "Fraser River",
+        "explanation": "A river flowing through braided channels and meandering toward the sea."
       },
       {
-        "term": "calibrate",
-        "explanation": "To check and adjust instrument readings against known ground references to ensure data accuracy and consistency."
+        "term": "NASA Earth Observatory",
+        "explanation": "An organization that created the image using data provided by the United States Geological Survey."
+      },
+      {
+        "term": "NASA Goddard Space Flight Center",
+        "explanation": "A center that enables NASAs mission through four scientific endeavors."
       }
     ],
-    "place": "United States"
+    "place": "Vancouver, Canada"
   }
 }
