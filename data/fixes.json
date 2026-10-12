@@ -1,28 +1,14 @@
 {
- "made": "2026-10-11T16:45:00Z",
  "space": {
-  "2026-10-09": {
+  "2026-09-12": {
    "set": {
-    "levels.entusiast": {
-     "from": "Den avbildade kratern Stickney på den marsianska månen Phobos upptäcktes tillsammans med månen själv av astronomen Asaph Hall år 1877 och har fått sitt namn efter hans fru Chloe Angeline Stickney fd. Hall. Med en diameter på över nio kilometer upptar kratern en betydande del av månen, vars genomsnittliga diameter endast är omkring tjugo kilometer. HiRISE-kameran ombord på Mars Reconnaissance Orbiter har fångat detaljer i förbifarten, inklusive de ljusblå regionerna nära kraterkanten som indikerar färskt frilagt material samt spår av massrörelser i form av lösa massor som glidit nedför sluttningarna. Ursprunget till månens karaktäristiska fåror förblir ett föremål för vetenskaplig debatt, där teorierna kretsar kring antingen de enorma stötvågorna från kraterbildningen eller mekaniska tidvattenpåkänningar orsakade av månens snäva omloppsbana runt Mars.",
-     "to": "Den avbildade kratern Stickney på den marsianska månen Phobos upptäcktes tillsammans med månen själv av astronomen Asaph Hall år 1877 och har fått sitt namn efter hans fru Chloe Angeline Stickney Hall. Med en diameter på över nio kilometer upptar kratern en betydande del av månen, vars genomsnittliga diameter endast är omkring tjugo kilometer. HiRISE-kameran ombord på Mars Reconnaissance Orbiter har fångat detaljer i förbifarten, inklusive de ljusblå regionerna nära kraterkanten som indikerar färskt frilagt material samt spår av massrörelser i form av lösa massor som glidit nedför sluttningarna. Ursprunget till månens karaktäristiska fåror förblir ett föremål för vetenskaplig debatt, där teorierna kretsar kring antingen de enorma stötvågorna från kraterbildningen eller mekaniska tidvattenpåkänningar orsakade av månens snäva omloppsbana runt Mars."
-    }
-   }
-  },
-  "2026-10-08": {
-   "set": {
-    "levels.entusiast": {
-     "from": "Denna syntetiska perspektivvy över Plutos ekvatorialområde baseras på högupplösta data nedlänkade från rymdsonden New Horizons efter dess historiska förbiflygning i juli 2015. Bilden simulerar en blick från cirka 1 800 kilometers höjd, där blicken riktas mot nordost över det mörka, kraterrika Cthulhu Regio mot den slående ljusa och släta isfälten i Sputnik Planitia. Terrainet sträcker sig över cirka 1 800 kilometer i bredd. Observationerna från New Horizons avslöjar en komplex geologi präglad av kväve- och vattenis, glaciologiska processer och atmosfärisk dis, vilket radikalt har förändrat vår syn på Kuiperbältets objekt.",
-     "to": "Denna syntetiska perspektivvy över Plutos ekvatorialområde baseras på högupplösta data nedlänkade från rymdsonden New Horizons efter dess historiska förbiflygning i juli 2015. Bilden simulerar en blick från cirka 1 800 kilometers höjd, där blicken riktas mot nordost över det mörka, kraterrika Cthulhu Regio mot den slående ljusa och släta isfälten i Sputnik Planitia. Terrängen sträcker sig över cirka 1 800 kilometer i bredd. Observationerna från New Horizons avslöjar en komplex geologi präglad av kväve- och vattenis, glaciologiska processer och atmosfärisk dis, vilket radikalt har förändrat vår syn på Kuiperbältets objekt."
-    }
-   }
-  },
-  "2026-10-10": {
-   "set": {
-    "levels.entusiast": {
-     "from": "Månens synkrona rotation kring jorden beror på tidvattenkrafter som över årmiljarder har bromsat dess spinn tills rotationsperioden matchar omloppsbanan exakt. Denna mosaik, sammansatt av tiotusentals bilder från Lunar Reconnaissance Orbiter, visar baksidans brutala topografi i hög upplösning.\n\nDen slående asymmetrin mellan hemisfärerna kallas ibland för månens dikotomi. Medan framsidan domineras av mörka mare-basalter som fyllt ut stora nedslagsbassänger, består baksidan nästan uteslutande av ljus, anortositisk höglandsterräng mättad med kratrar. Geofysiska mätningar visar att baksidans jordskorpa är signifikant tjockare än framsidans, möjligen till följd av ojämn avkylning under bildandet eller asymmetrisk värmestrålning från en glödhet ung jord. Den tjocka skorpan fungerade som en barriär som hindrade mantelplymer och basaltisk magma från att nå ytan och dränka kratrarna i lava.",
-     "to": "Månens synkrona rotation kring jorden beror på tidvattenkrafter som över årmiljarder har bromsat dess spinn tills rotationsperioden matchar omloppsbanan exakt. Denna mosaik, sammansatt av över 15 000 bilder från Lunar Reconnaissance Orbiter, visar baksidans brutala topografi i hög upplösning.\n\nDen slående asymmetrin mellan hemisfärerna kallas ibland för månens dikotomi. Medan framsidan domineras av mörka mare-basalter som fyllt ut stora nedslagsbassänger, består baksidan nästan uteslutande av ljus, anortositisk höglandsterräng mättad med kratrar. Geofysiska mätningar visar att baksidans jordskorpa är signifikant tjockare än framsidans, möjligen till följd av ojämn avkylning under bildandet eller asymmetrisk värmestrålning från en glödhet ung jord. Den tjocka skorpan fungerade som en barriär som hindrade mantelplymer och basaltisk magma från att nå ytan och dränka kratrarna i lava."
-    }
+    "title_sv": {"from": "Apollo 11: Solbad på månen", "to": "Apollo 11 fångar solvinden"},
+    "quiz.1.options.0": {"from": "För att bygga skydd mot solvinden", "to": "För att leta efter is under ytan"},
+    "quiz.1.options.2": {"from": "För att väga hur mycket månen väger", "to": "För att mäta strålningen från ytan"},
+    "quiz.2.q": {"from": "Hur skapas månens mörka skuggor på bilden?", "to": "Varför är skuggorna på bilden så skarpa och svarta?"},
+    "quiz.2.options.0": {"from": "Solen skiner från sidan och månen saknar skyddande atmosfär", "to": "Månen saknar luft som sprider ljuset"},
+    "quiz.2.options.1": {"from": "Moln på månen skymmer det starka solljuset", "to": "Månens mörka jord suger upp ljuset"},
+    "quiz.2.options.2": {"from": "Månens yta är målad i svarta färger", "to": "Jorden skymmer en del av solljuset"}
    }
   }
  },
