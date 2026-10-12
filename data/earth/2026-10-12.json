@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-12",
+  "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+  "title_sv": "Antarktis havsis växer till sitt maximum år 2026",
+  "place": "Antarktis",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+  "w": 480,
+  "h": 443,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYBBQT/xAAtEAABAgUCAwYHAAAAAAAAAAABAgMABAUREgYxEyFBFiJRUmGTFDJCcYGh0f/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAZEQEBAQADAAAAAAAAAAAAAAACAAEDESH/2gAMAwEAAhEDEQA/AJGVl1TMy0wgd51QSPzCLKaNp7KM3m81W+pRsDEbQneLXWHHQlClG6SlNgFb3hRYdcewJ+Um+3KKeVblOMzaO1FphtUvx6eyEKbHeQnqP7EQpJF7g8uUN7yM0EAJy9YLtXy8uxVMmCQXRmtHQH0g8T78sz1cNlxTbiFpJBSbg+EKNNmkOycpmUhxxsO4XFxf97xnYWieSY94x53dJ01qYxb46cRuXlX2+8BMqODc9uvPVNqQp635hQTinx3PQQVVSoKqM2t9xNidhfkBCOrSlOmgn4lc26Ra2T6jbl6xnYWieSY94woRMyKV/9k=",
+  "levels": {
+    "barn": "Bilden visar Antarktis, som är en jättestor kontinent längst ner på jorden. Runt landet flyter is som breder ut sig i det kalla vattnet. De vita områdena på bilden är tjock havsis och de mörkblå områdena är öppet vatten. Isen växer sig som störst under vintern och smälter sedan när det blir sommar. På den här bilden ser vi isen när den har blivit så stor som den kan bli under året.",
+    "nyborjare": "Satellitbilden visar havsisen runt Antarktis när den når sitt årliga maximum i september. Till skillnad från Arktis, som är ett hav omgivet av land, är Antarktis en stor kontinent omgiven av hav. Detta gör att isen har mer utrymme att bredda sig på under vintern. De ogenomskinligt vita områdena visar de högsta iskoncentrationerna och de mörkblå områdena visar öppet vatten. Forskare räknar ett område som isbetäckt om koncentrationen är minst 15 procent. Den totala ytan av dessa regioner kallas för havsisens utbredning. Årets maximum uppskattas till 17,59 miljoner kvadratkilometer, vilket är det tredje lägsta uppmätta maximumet i historien.",
+    "entusiast": "För att mäta havsisens utbredning förlitar sig forskare på satelliter utrustade med passiva mikrovågssensorer som känner av den mikrovågsenergi jorden naturligt utsänder. Havsis emitterar mer av denna energi än öppet vatten, vilket gör att den urskiljs tydligt i mikrovågsbilder. Eftersom mikrovågor passerar genom moln kan satelliterna observera havsisen regelbundet oavsett väderlek. Mätserien inleddes i slutet av 1978 med data insamlad av NASA:s satellit Nimbus-7, följd av DMSP-satelliter från 1987 och NASA:s Aqua-satellit mellan 2002 och 2011. År 2025 började forskarna även använda observationer från den japanska rymdorganisationen JAXAs GCOM-W-satellit. Satellitdata visar att isutbredningen ökade med ungefär 1 procent per decennium mellan 1979 och 2014, för att sedan börja minska kraftigt från 2015 och framåt. Forskare fortsätter att studera området för att avgöra om nedgången är en del av en långsiktig förändring eller en statistisk fluktuation."
+  },
+  "terms": [
+    {
+      "term": "havsis",
+      "explanation": "Is som har bildats av havsvatten och som flyter omkring på havet."
+    },
+    {
+      "term": "havsisens utbredning",
+      "explanation": "Den totala ytan av de regioner där iskoncentrationen är minst 15 procent."
+    },
+    {
+      "term": "mikrovågssensor",
+      "explanation": "Ett instrument på satelliter som mäter den mikrovågsenergi som jorden naturligt utsänder."
+    },
+    {
+      "term": "Nimbus-7",
+      "explanation": "En av NASA:s satelliter som började samla in data om havsisen i slutet av 1978."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows Antarctica, which is a huge continent at the bottom of the earth. Around the land, ice spreads out in the cold water. The white areas in the picture are thick sea ice and the dark blue areas are open water. The ice grows during the winter and then melts when summer comes. In this picture, we see the ice when it has grown as large as it can get for the year.",
+      "nyborjare": "The satellite image shows the sea ice around Antarctica when it reaches its annual maximum in September. Unlike the Arctic, which is an ocean basin surrounded by land, Antarctica is a large continent surrounded by an ocean. Because of this geography, sea ice has more room to expand during the winter. The opaque white areas show the highest ice concentrations and the dark blue areas show open water. Scientists count an area as ice-covered if the concentration is at least 15 percent, a metric referred to as sea ice extent. This year maximum reached an estimated 17.59 million square kilometers, making it the third-lowest maximum on record.",
+      "entusiast": "To determine sea ice extent, scientists rely on satellites with passive microwave sensors that measure the microwave energy Earth naturally emits. Sea ice emits more of this energy than open water, allowing it to stand out clearly in microwave images. Because microwaves pass through clouds, satellites can observe sea ice regularly regardless of weather. The record began in late 1978 with data collected by NASA's Nimbus-7, followed by DMSP satellites starting in 1987, and NASA's Aqua satellite between 2002 and 2011. In 2025, scientists began using observations from the Japan Aerospace Exploration Agency's GCOM-W satellite. Satellite data shows that total Antarctic sea ice increased by about 1 percent per decade from 1979 until 2014, before significant decreases started to occur in 2015. Scientists continue to observe the area to find out if the decline is part of a long-term change or a statistical fluctuation."
+    },
+    "terms": [
+      {
+        "term": "sea ice",
+        "explanation": "Ice formed from seawater that floats on the ocean surface."
+      },
+      {
+        "term": "sea ice extent",
+        "explanation": "The total area of regions where ice concentration is at least 15 percent."
+      },
+      {
+        "term": "passive microwave sensor",
+        "explanation": "An instrument on satellites that measures the microwave energy naturally emitted by Earth."
+      },
+      {
+        "term": "Nimbus-7",
+        "explanation": "One of NASA's satellites used to collect sea ice data starting in late 1978."
+      }
+    ],
+    "place": "Antarctica"
+  }
+}

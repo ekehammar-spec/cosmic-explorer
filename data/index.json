@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-12",
+  "media_type": "image",
+  "title": "Merkurius i rymdsonden MESSENGERs sikte",
+  "title_en": "MESSENGER has Mercury in its Sights",
+  "thumb": "https://images-assets.nasa.gov/image/PIA10169/PIA10169~small.jpg"
+ },
+ {
   "date": "2026-10-11",
   "media_type": "image",
   "title": "Kosmiskt spegelhus",
@@ -205,7 +212,7 @@
  {
   "date": "2026-09-12",
   "media_type": "image",
-  "title": "Apollo 11: Solbad på månen",
+  "title": "Apollo 11 fångar solvinden",
   "title_en": "Apollo 11: Catching Some Sun",
   "thumb": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint"
  }

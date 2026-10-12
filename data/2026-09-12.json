@@ -3,7 +3,7 @@
   "model": "gemini-3.5-flash-lite",
   "date": "2026-09-12",
   "title": "Apollo 11: Catching Some Sun",
-  "title_sv": "Apollo 11: Solbad på månen",
+  "title_sv": "Apollo 11 fångar solvinden",
   "media_type": "image",
   "url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
   "thumb": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2017/july/AS11-40-5872HR.jpg?w=2349&h=2361&fit=clip&crop=faces%2Cfocalpoint",
@@ -27,19 +27,19 @@
     {
       "q": "Varför samlade Apollo 11-astronauterna in mångrus och stenar?",
       "options": [
-        "För att bygga skydd mot solvinden",
+        "För att leta efter is under ytan",
         "För att forska om månens uppkomst och historia",
-        "För att väga hur mycket månen väger"
+        "För att mäta strålningen från ytan"
       ],
       "correct": 1,
       "fact": "Genom att studera månstenar kan forskare lära sig mer om hur månen och solsystemet bildades."
     },
     {
-      "q": "Hur skapas månens mörka skuggor på bilden?",
+      "q": "Varför är skuggorna på bilden så skarpa och svarta?",
       "options": [
-        "Solen skiner från sidan och månen saknar skyddande atmosfär",
-        "Moln på månen skymmer det starka solljuset",
-        "Månens yta är målad i svarta färger"
+        "Månen saknar luft som sprider ljuset",
+        "Månens mörka jord suger upp ljuset",
+        "Jorden skymmer en del av solljuset"
       ],
       "correct": 0,
       "fact": "Eftersom månen saknar en atmosfär som sprider ljuset blir skuggorna helt svarta och skarpa när solen lyser från sidan."
@@ -124,5 +124,6 @@
         "fact": "Because the moon lacks an atmosphere to scatter light, the shadows appear completely dark and sharp when the sun shines from the side."
       }
     ]
-  }
+  },
+  "taken": "1969"
 }

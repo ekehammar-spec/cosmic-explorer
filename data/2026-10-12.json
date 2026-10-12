@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-12",
+  "title": "MESSENGER has Mercury in its Sights",
+  "title_sv": "Merkurius i rymdsonden MESSENGERs sikte",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA10169/PIA10169~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA10169/PIA10169~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA10169/PIA10169~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA10169",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+  "taken": "2008",
+  "src": "library",
+  "id": "PIA10169",
+  "px": [
+    1024,
+    1024
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAHBABAQEBAAIDAAAAAAAAAAAAAQACAxEhMWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM2kqxjXRTJ5QV/D5gmSQKufTXPS4fCiP2PppkCSQf/Z",
+  "quiz": [
+    {
+      "q": "Vilken typ av himlakropp är Merkurius?",
+      "options": [
+        "En gasjätte utan fast yta",
+        "En stenplanet nära solen",
+        "En isdvärg i yttre solsystemet"
+      ],
+      "correct": 1,
+      "fact": "Merkurius är solsystemets minsta planet och en stenplanet med fast yta som domineras av kratrar."
+    },
+    {
+      "q": "Hur lång tid tar det för Merkurius att kretsa runt solen?",
+      "options": [
+        "Cirka tre månader",
+        "Ett jordår",
+        "Nästan trettio år"
+      ],
+      "correct": 0,
+      "fact": "Ett helt varv runt solen tar endast omkring 88 jorddagar eftersom planeten ligger så nära stjärnan."
+    },
+    {
+      "q": "Varför har Merkurius så extrema temperaturskillnader?",
+      "options": [
+        "Solen är mycket större än jorden",
+        "Den saknar en skyddande atmosfär",
+        "Ytan är täckt av flytande lava"
+      ],
+      "correct": 1,
+      "fact": "Utan någon substantiell atmosfär som fångar värme blir solsidan glödhet medan nattsidan blir extremt kall."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en planet som ser ut som en stenig boll full av bucklor och gropar. Den ligger nästan allra först vid den varma solen. Rymdsonden MESSENGER flög dit för att kika på den. Precis som när du tittar på en spännande sak genom ett förstoringsglas knäppte rymdsonden ett kort av planetens yta år 2008.",
+    "nyborjare": "År 2008 fångade rymdsonden MESSENGER denna bild av planeten Merkurius med sin kamera. Sonden skickades ut i rymden för att studera solsystemets innersta och mest svårtillgängliga planet på nära håll. Eftersom Merkurius befinner sig så nära vår stjärna är det en stor teknisk utmaning att skicka dit farkoster som inte överhettas. Genom att ta detaljerade fotografier kunde forskarna lära sig mer om planetens ursprung, dess vulkaniska historia och hur ytan formats av otaliga nedslag från asteroider och kometer genom solsystemets långa historia.",
+    "entusiast": "Denna historiska bild togs den 12 januari 2008 av rymdsonden MESSENGER inför dess första historiska förbiflygning av Merkurius. Bilden fångades med sondens smalvinkelkamera, som utgör en del av bildsystemet Mercury Dual Imaging System. Utrustningen konstruerades för att kartlägga planetens topografi, mineralogi och exosfär med hög upplösning. Att utforska Merkurius ställer extrema krav på rymdsondens värmesköldar och banmekanik på grund av solens intensiva strålning och starka gravitation. Observationerna från denna mission har revolutionerat vår förståelse av planetens vulkaniska slätter, magnetfält och förekomsten av vattenis i ständigt skuggade kratrar vid polerna."
+  },
+  "terms": [
+    {
+      "term": "rymdsond",
+      "explanation": "En obemannad farkost som skickas ut i rymden för att utforska himlakroppar och samla in vetenskapliga data."
+    },
+    {
+      "term": "planet",
+      "explanation": "Ett stort himlakroppsobjekt som går i bana kring en stjärna och har rensat sitt omgivande område från andra objekt."
+    },
+    {
+      "term": "exosfär",
+      "explanation": "En planets yttersta och mycket tunna atmosfärsskikt där partiklar sällan kolliderar med varandra."
+    },
+    {
+      "term": "topografi",
+      "explanation": "Beskrivning och kartering av höjdförhållanden och ytformer på en himlakropp."
+    },
+    {
+      "term": "magnetfält",
+      "explanation": "Ett osynligt kraftfält som omger vissa himlakroppar och påverkar laddade partiklar i rymden."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a planet that looks like a rocky ball full of dents and pits. It sits almost closest to the warm sun. The spacecraft MESSENGER flew there to take a look at it. Just like when you look at an exciting thing through a magnifying glass, the spacecraft snapped a photo of the planet's surface in 2008.",
+      "nyborjare": "In 2008, the spacecraft MESSENGER captured this image of the planet Mercury using its onboard camera. The probe was sent into space to study the innermost and most challenging planet of our solar system up close. Because Mercury is located so near our star, sending vehicles that do not overheat is a major engineering challenge. By taking detailed photographs, scientists could learn more about the planet's origin, its volcanic history, and how the surface was shaped by countless impacts from asteroids and comets throughout history.",
+      "entusiast": "This historical image was taken on January 12, 2008, by the MESSENGER spacecraft ahead of its first historic flyby of Mercury. The picture was captured using the probe's narrow angle camera, part of the Mercury Dual Imaging System. The hardware was designed to map the planet's topography, mineralogy, and exosphere in high resolution. Exploring Mercury places extreme demands on heat shields and orbital mechanics due to the intense solar radiation and gravity. Observations from this mission revolutionized our understanding of volcanic plains, the magnetic field, and water ice in permanently shadowed polar craters."
+    },
+    "terms": [
+      {
+        "term": "spacecraft",
+        "explanation": "An uncrewed vehicle sent into space to explore celestial bodies and gather scientific data."
+      },
+      {
+        "term": "planet",
+        "explanation": "A large celestial body orbiting a star that has cleared its surrounding orbital path."
+      },
+      {
+        "term": "exosphere",
+        "explanation": "The outermost and extremely thin layer of a planet's atmosphere where particles rarely collide."
+      },
+      {
+        "term": "topography",
+        "explanation": "The study and mapping of elevation features and surface shapes on a celestial body."
+      },
+      {
+        "term": "magnetic field",
+        "explanation": "An invisible force field surrounding certain celestial bodies that influences charged particles in space."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What type of celestial body is Mercury?",
+        "options": [
+          "A gas giant without a solid surface",
+          "A rocky planet close to the sun",
+          "An ice dwarf in the outer solar system"
+        ],
+        "correct": 1,
+        "fact": "Mercury is the smallest planet in our solar system and a rocky world dominated by craters."
+      },
+      {
+        "q": "How long does it take Mercury to orbit the sun?",
+        "options": [
+          "About three months",
+          "One Earth year",
+          "Nearly thirty years"
+        ],
+        "correct": 0,
+        "fact": "A full orbit around the sun takes only about 88 Earth days because the planet is so close."
+      },
+      {
+        "q": "Why does Mercury experience such extreme temperature swings?",
+        "options": [
+          "The sun is much larger than Earth",
+          "It lacks a protective atmosphere",
+          "The surface is covered in liquid lava"
+        ],
+        "correct": 1,
+        "fact": "Without a substantial atmosphere to trap heat, the day side becomes scorching while the night side turns freezing."
+      }
+    ]
+  }
+}
