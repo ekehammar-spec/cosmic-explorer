@@ -149,7 +149,7 @@ async function libraryCandidates(topic, center, page) {
   return (body.collection?.items || []).map(it => it.data?.[0]).filter(Boolean).map(d => ({
     src: "library", id: d.nasa_id, title: String(d.title || "").trim(), explanation: strip(String(d.description || "")),
     credit: String(d.secondary_creator || d.photographer || "").trim() || "NASA/" + (d.center || center),
-    link: "https://images.nasa.gov/details/" + encodeURIComponent(d.nasa_id)
+    link: "https://images.nasa.gov/details/" + encodeURIComponent(d.nasa_id), taken: String(d.date_created || "").slice(0, 4)
   })).filter(c => c.id && c.title && c.explanation.length > 200 && nasaOwned(c.credit) && !NOT_PHOTO.test(c.title + " " + c.explanation.slice(0, 400)) && !COMPOSITE.test(c.title));
 }
 // Arkivet har inte alla storlekar av varje bild, så vi frågar vilka som finns.
@@ -203,9 +203,10 @@ const TERMS = {
 };
 const SCHEMA = {
   type: "OBJECT",
-  required: ["fits", "title_sv", "quiz", "levels", "terms", "en"],
+  required: ["fits", "taken", "title_sv", "quiz", "levels", "terms", "en"],
   properties: {
     fits: { type: "BOOLEAN" },
+    taken: { type: "STRING" },
     title_sv: { type: "STRING" },
     quiz: QUIZ,
     levels: LEVELS,
@@ -247,13 +248,15 @@ NASA:s beskrivning: ${apod.explanation.slice(0, 6000)}
 
 Skriv:
 0. fits: true om själva bilden visar rymden, ett himlakroppsobjekt, en planets eller månes yta, eller jorden sedd från rymden. false om bilden främst visar människor, ett evenemang, byggnader, utrustning eller raketer på marken, eller om den är en illustration, ett diagram eller en konstnärs tolkning.
-1. title_sv: bildens titel på naturlig svenska. Använd vedertagna svenska namn (t.ex. Vintergatan, Andromedagalaxen, Orionnebulosan). Behåll katalogbeteckningar som M83 och NGC 1234. Översätt eller behåll engelska egennamn, men blanda aldrig engelska ord med svensk böjning.
+0b. taken: årtalet då bilden togs, med fyra siffror, om det framgår av NASA:s text eller är allmänt känt (till exempel 1969 för Apollo 11). Tom sträng om det är okänt.
+   Är bilden mer än ett par år gammal ska årtalet också nämnas naturligt i nyborjare och entusiast, så att läsaren förstår att det är en historisk bild.
+1. title_sv: bildens titel på naturlig svenska. Använd vedertagna svenska namn (t.ex. Vintergatan, Andromedagalaxen, Orionnebulosan). Behåll katalogbeteckningar som M83 och NGC 1234. Översätt eller behåll engelska egennamn, men blanda aldrig engelska ord med svensk böjning. Titeln ska beskriva vad bilden visar och får inte vara skämtsam eller missvisande.
 2. quiz: exakt 3 roliga och lärorika flervalsfrågor.
    - Varje fråga ska lära ut astronomi, fysik eller rymdfart: vad objektet är, hur det fungerar, hur stort eller avlägset det är, hur det bildades.
    - Fråga aldrig om hur fotot togs eller planerades, vem fotografen är, eller detaljer som bara går att veta om man läst NASA:s text.
    - Spelaren ser bilden men varken titeln eller NASA:s text. Frågorna ska gå att resonera sig fram till, och får inte avslöja varandras svar.
    - Håll det kort, för frågan ska få plats på en mobilskärm tillsammans med svaren: högst 12 ord i frågan och högst 8 ord i varje alternativ.
-   - Varje fråga har exakt 3 alternativ i "options". Alla tre ska vara rimliga, ungefär lika långa och skrivna i samma stil.
+   - Varje fråga har exakt 3 alternativ i "options". Alla tre ska vara rimliga, ungefär lika långa och skrivna i samma stil. Frågorna riktar sig till vuxna och ska kännas så. De felaktiga alternativen ska vara vanliga missuppfattningar eller förväxlingar som en vuxen på allvar kan tro på. Skriv aldrig skämtsvar eller uppenbara orimligheter, som att något är målat, att det finns moln på månen eller att man vill väga månen.
    - "correct" är index (0, 1 eller 2) för rätt alternativ. Variera det mellan frågorna.
    - "fact" är en eller två meningar som förklarar varför svaret är rätt.
 3. levels: tre förklaringar av bilden som löpande text utan rubriker och utan markdown, med tom rad mellan stycken.
@@ -470,6 +473,7 @@ async function buildDay(apod, mustFit = false) {
     hdurl: apod.hdurl,
     link: apod.link,
     credit: apod.credit || "NASA",
+    taken: takenYear(apod.taken) || takenYear(content.taken),
     src: apod.src || "apod", id: apod.id, px: apod.px,
     w: apod.w, h: apod.h, lqip: apod.lqip,
     ...(apod.lqip ? {} : await preview(apod.thumb)),
@@ -552,6 +556,35 @@ async function writeEarthIndex() {
 
 await mkdir(DATA, { recursive: true });
 await mkdir(EARTH, { recursive: true });
+// Årtalet då bilden togs, bara om det är ett rimligt årtal. Annars tomt.
+const takenYear = y => { const m = String(y || "").match(/\b(19[2-9]\d|20\d\d)\b/); return m && +m[1] <= new Date().getUTCFullYear() ? m[1] : ""; };
+
+// Sparade dagar från före årtalsfältet får sitt årtal i efterhand: ur bildarkivet om bilden kommer därifrån, annars frågas Gemini.
+async function backfillTaken() {
+  const files = (await readdir(DATA)).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f));
+  let n = 0;
+  for (const f of files) {
+    const file = path.join(DATA, f), day = JSON.parse(await readFile(file, "utf8"));
+    if (day.taken !== undefined || day.removed) continue;
+    let year = "";
+    try {
+      const id = (String(day.link || "").match(/images\.nasa\.gov\/details\/([^?#]+)/) || [])[1];
+      if (id) {
+        const r = await fetch(`${LIBRARY}/search?nasa_id=${id}`, { headers: UA });
+        if (r.ok) year = takenYear(((await r.json()).collection?.items?.[0]?.data?.[0] || {}).date_created);
+      } else {
+        const { content } = await askGemini(`En bild från NASA har titeln "${day.title}" och upphovet "${day.credit}". Beskrivning: ${String(day.levels?.entusiast || "").slice(0, 1500)}\n\nVilket år togs bilden? Svara med fyra siffror om det framgår eller är allmänt känt, annars tom sträng.`,
+          { type: "OBJECT", required: ["taken"], properties: { taken: { type: "STRING" } } }, c => typeof c.taken === "string");
+        year = takenYear(content.taken);
+        await pause();
+      }
+    } catch (e) { console.error(`Årtal för ${f} hoppades över: ${e.message}`); continue; }
+    day.taken = year; n++;
+    await writeFile(file, JSON.stringify(day, null, 2));
+  }
+  if (n) console.log(`Årtal: ${n} sparade dagar kontrollerade.`);
+}
+
 // Rättelser från korrektursidan (data/fixes.json): för varje fält den gamla och den nya texten.
 // En rättelse görs bara om fältet fortfarande har den gamla texten, så att en bild som bytts ut inte får fel text.
 async function applyFixes() {
@@ -594,6 +627,7 @@ try { await applyFixes(); } catch (e) { console.error("Rättelserna kunde inte l
 
 let failed = 0;
 const pause = () => wait(Number(process.env.PAUSE_MS ?? 13000));
+try { await backfillTaken(); } catch (e) { console.error("Årtalen hoppades över: " + e.message); }
 
 // 1. Astronomy Picture of the Day, bara de dagar bilden är NASA:s egen.
 let items = [];
