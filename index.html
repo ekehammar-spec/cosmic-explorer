@@ -303,6 +303,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 #placeList button[aria-pressed="true"] { color: #c9c3e6; }
 #placeList button[aria-pressed="true"]::after { content: "✓"; }
 #placeSheet .note { margin: 10px 0 0; font-size: .78rem; color: var(--muted); }
+.kplabel { margin: 14px 0 -4px; font: 600 .64rem var(--body); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
 /* Ordlistan */
 .letters { display: grid; grid-template-columns: repeat(6, 1fr); gap: 7px; }
 .letters button { display: grid; place-items: center; aspect-ratio: 1; padding: 0; border: 0; border-radius: 14px; font: 700 .9rem "Orbitron", var(--display); color: #06080c; background-image: linear-gradient(115deg, #b6a3ff, #3fdcff); background-size: 700% calc(var(--rows, 4) * 120%); }
@@ -536,7 +537,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
       <div class="eyebrow">Dina uppgifter</div>
       <p>Din samling sparas bara på den här enheten. Appen har inga konton, ingen reklam och samlar inte in något om dig.</p>
     </div>
-    <p class="ver">Version 11 okt L</p>
+    <p class="ver">Version 12 okt A</p>
   </section>
 
   <section id="sky" class="page" hidden>
@@ -568,9 +569,10 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
     <div class="card" id="aurora" hidden>
       <div class="eyebrow">Norrsken i natt</div>
       <h3 id="auroraHead"></h3>
+      <p class="kplabel">Aktivitet i hela världen</p>
       <div class="kp" id="kpBar" aria-hidden="true"></div>
       <div class="muted" id="auroraText" style="font-size:.9rem"></div>
-      <p class="note">Prognos från amerikanska vädermyndigheten NOAA. Det krävs också mörker och klar himmel.</p>
+      <p class="note">Mätaren är densamma över hela jorden. Hur långt från polerna skenet når avgör om det syns hos dig. Prognos från amerikanska vädermyndigheten NOAA. Det krävs också mörker och klar himmel.</p>
     </div>
 
     <div class="sec" id="sky2"><b>Kommande</b></div>
@@ -625,7 +627,7 @@ footer { color: #6c6c78; font-size: .78rem; text-align: center; padding: 0 var(-
   <a class="tab" href="#arkiv" data-view="archive"><svg viewBox="0 0 100 100" aria-hidden="true"><g class="icofill" fill="currentColor"><rect x="12" y="12" width="32" height="32" rx="9"/><rect x="56" y="12" width="32" height="32" rx="9"/><rect x="12" y="56" width="32" height="32" rx="9"/><rect x="56" y="56" width="32" height="32" rx="9"/></g></svg>Arkiv</a>
 </nav>
 
-<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 11 okt L</span></footer>
+<footer><!-- version -->Bilder från NASA. Trivia och texter är skrivna av AI utifrån NASA:s beskrivning. <span style="opacity:.6">Version 12 okt A</span></footer>
 
 <div id="lightbox" hidden><img alt=""></div>
 <div id="placeScrim"></div>
@@ -787,7 +789,7 @@ const EN = {
   "Sista kvarteret": "Last quarter",
   "Avtagande skära": "Waning crescent",
   "Norrsken i natt": "Aurora tonight",
-  "Prognos från amerikanska vädermyndigheten NOAA. Det krävs också mörker och klar himmel.": "Forecast from the US weather agency NOAA. You also need darkness and a clear sky.",
+  "Mätaren är densamma över hela jorden. Hur långt från polerna skenet når avgör om det syns hos dig. Prognos från amerikanska vädermyndigheten NOAA. Det krävs också mörker och klar himmel.": "The meter is the same all over the Earth. How far from the poles the lights reach decides whether you can see them. Forecast from the US weather agency NOAA. You also need darkness and a clear sky.", "Aktivitet i hela världen": "Activity around the world", "Fotograferad {y}": "Photographed in {y}",
   "Kommande på himlen": "Coming up in the sky",
   "Meteorregnens toppnätter kan skifta ett dygn mellan åren. Förmörkelsernas tider gäller Stockholm.": "Peak nights for meteor showers can shift by a day from year to year. Eclipse times are for Stockholm, Sweden.",
   "Rymdväder": "Space weather",
@@ -1064,7 +1066,9 @@ function renderCaption() {
   $("stage").classList.toggle("asking", !done && day.kind !== "earth");
   $("hello").hidden = day.kind === "earth" || Object.keys(played).length > 0;
   const video = day.media_type !== "image" ? ` · <a href="${esc(day.url)}" target="_blank" rel="noopener">${L("Öppna videon")}</a>` : "";
-  $("meta").innerHTML = esc(niceDate(day.date)) + video + (done ? `<span class="credit">${L("Bild")}: ${esc(tidyCredit(day.credit))}</span>` : "");
+  // Historiska bilder får sitt årtal bredvid dagens datum, så att ingen tror att bilden är ny.
+  const taken = /^\d{4}$/.test(day.taken || "") && +day.taken <= +day.date.slice(0, 4) - 2 ? " · " + F("Fotograferad {y}", { y: day.taken }) : "";
+  $("meta").innerHTML = esc(niceDate(day.date) + taken) + video + (done ? `<span class="credit">${L("Bild")}: ${esc(tidyCredit(day.credit))}</span>` : "");
 }
 
 /* ---------- Quiz ---------- */
