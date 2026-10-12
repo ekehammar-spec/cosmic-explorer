@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-12T08:39:04.959Z",
+ "updated": "2026-10-12T19:16:49.296Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-12T00:00:00Z",
+   "date": "2026-10-12T12:00:00Z",
    "title_sv": "Orkanen Simon",
    "title_en": "Hurricane Simon",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 195 km/h",
-   "value_en": "winds of 195 km/h"
+   "value_sv": "vindar på 175 km/h",
+   "value_en": "winds of 175 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-12T00:00:00Z",
+   "date": "2026-10-12T12:00:00Z",
    "title_sv": "Tyfonen Koguma",
    "title_en": "Typhoon Koguma",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 185 km/h",
-   "value_en": "winds of 185 km/h"
+   "value_sv": "vindar på 150 km/h",
+   "value_en": "winds of 150 km/h"
   },
   {
    "kind": "storm",
@@ -44,23 +44,23 @@
   },
   {
    "kind": "fire",
-   "date": "2026-10-05T23:14:00Z",
-   "title_sv": "Skogsbrand i Elko, Nevada",
-   "title_en": "Wildfire in Elko, Nevada",
+   "date": "2026-10-10T14:58:00Z",
+   "title_sv": "Skogsbrand i Cassia, Idaho",
+   "title_en": "Wildfire in Cassia, Idaho",
+   "where_sv": "",
+   "where_en": "",
+   "value_sv": "810 hektar",
+   "value_en": "810 hectares"
+  },
+  {
+   "kind": "fire",
+   "date": "2026-10-09T19:26:00Z",
+   "title_sv": "Skogsbrand i Sheridan, Wyoming",
+   "title_en": "Wildfire in Sheridan, Wyoming",
    "where_sv": "",
    "where_en": "",
    "value_sv": "670 hektar",
    "value_en": "670 hectares"
-  },
-  {
-   "kind": "fire",
-   "date": "2026-10-02T14:26:00Z",
-   "title_sv": "Skogsbrand i Washoe, Nevada",
-   "title_en": "Wildfire in Washoe, Nevada",
-   "where_sv": "",
-   "where_en": "",
-   "value_sv": "620 hektar",
-   "value_en": "620 hectares"
   }
  ]
 }
