@@ -2,11 +2,17 @@ name: Dagens bild
 
 on:
   schedule:
-    - cron: "7 7 * * *"
-  workflow_dispatch:
+    - cron: "23 4 * * *"    # 06.23 svensk sommartid (05.23 vintertid)
+    - cron: "41 9 * * *"    # reservkörning 11.41 svensk sommartid, ifall den första uteblev
+  workflow_dispatch:        # kan också startas för hand under fliken Actions
 
 permissions:
   contents: write
+
+# Två körningar får aldrig gå samtidigt. Den andra väntar på sin tur.
+concurrency:
+  group: dagens-bild
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -25,4 +31,7 @@ jobs:
           git config user.name "cosmic-bot"
           git config user.email "cosmic-bot@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || (git commit -m "Dagens bild $(date -u +%F)" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Dagens bild $(date -u +%F)"
+          # Om något laddats upp medan jobbet körde hämtas det först, så att sparningen inte nekas.
+          git pull --rebase origin main && git push
