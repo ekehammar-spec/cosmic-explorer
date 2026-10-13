@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:05:24.271Z",
+ "updated": "2026-10-13T17:06:31.136Z",
  "source": "NASA EONET",
  "events": [
   {
@@ -35,8 +35,8 @@
   {
    "kind": "ice",
    "date": "2026-10-09T00:00:00Z",
-   "title_sv": "Isberget A85",
-   "title_en": "Iceberg A85",
+   "title_sv": "Isberget B52",
+   "title_en": "Iceberg B52",
    "where_sv": "Södra ishavet, vid Antarktis",
    "where_en": "Southern Ocean, near Antarctica",
    "value_sv": "",
