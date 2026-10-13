@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-13",
+  "title": "Hubble reveals the Ring Nebula’s true shape",
+  "title_sv": "Ringnebulosans verkliga form",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001464",
+  "credit": "NASA/GSFC",
+  "taken": "2017",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001464",
+  "px": [
+    1280,
+    1231
+  ],
+  "w": 640,
+  "h": 615,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFBAf/xAAjEAACAgIBBAIDAAAAAAAAAAABAgADBRESBCExYTJBUYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIWH/2gAMAwEAAhEDEQA/AOex67e4h+ZVxOLHXB2e0VVp5PHf8kNMlZKI0YSplMYceUZbFups+LqNfrX0ZLMExqoBN2NyNuPtZq+LKw4sjDYYe5h1DcF4yjkMlZ1oUFErRe4VfEnGHLtFuBiUR//Z",
+  "quiz": [
+    {
+      "q": "Vad är Ringnebulosan för typ av objekt?",
+      "options": [
+        "En planetär nebulosa",
+        "En spiralgalax i bildande",
+        "En supernovarest"
+      ],
+      "correct": 0,
+      "fact": "Ringnebulosan består av utkastade gaslager från en döende, sollik stjärna."
+    },
+    {
+      "q": "Hur stor är Ringnebulosan ungefär tvärs över?",
+      "options": [
+        "Ungefär en astronomisk enhet",
+        "Ungefär ett ljusår",
+        "Cirka hundra ljusår"
+      ],
+      "correct": 1,
+      "fact": "Nebulosan har expanderat till en diameter på ungefär ett ljusår."
+    },
+    {
+      "q": "Vilken stjärnbild på natthimlen ligger Ringnebulosan i?",
+      "options": [
+        "Svanen",
+        "Orion",
+        "Lyran"
+      ],
+      "correct": 2,
+      "fact": "Ringnebulosan, även kallad Messier 57, ligger i stjärnbilden Lyran cirka 2 000 ljusår bort."
+    }
+  ],
+  "levels": {
+    "barn": "Titta på den här lysande rymddonuten! Den kallas Ringnebulosan och ser ut som en glödande ring i rymden. Men den är inte tom i mitten, utan fylld med gas, precis som en munk med sylt inuti. Ringen bildades när en gammal stjärna fick slut på sitt bränsle och pustade ut sina yttersta lager. Kvar i mitten finns en liten, het stjärnrest. Nebulosan lyser vackert i rymdens mörker och svävar långt borta bland stjärnorna.",
+    "nyborjare": "Ringnebulosan, belägen i stjärnbilden Lyran cirka 2 000 ljusår från jorden, är en av himlens mest kända sevärdheter. Bilden skapades 2013 genom att kombinera observationer i synligt ljus från rymdteleskopet Hubble med infraröda mätningar från ett markbaserat teleskop i Arizona. Objektet är en planetär nebulosa, vilket är ett glödande gashölje som kastats ut från en döende, sollik stjärna. Forskare trodde länge att nebulosan liknade en enkel rökring. De detaljerade mätningarna visade dock att den snarare påminner om en cylinder eller fylld munk, där mitten rymmer het gas. I nebulosans centrum glöder en vit dvärg, den blottade kärnan från den forna stjärnan.",
+    "entusiast": "Ringnebulosan, katalogiserad som Messier 57 eller NGC 6720, är ett arketypiskt exempel på en planetär nebulosa på ett avstånd av cirka 2 000 ljusår i stjärnbilden Lyran. Denna sammansatta bild från 2013 kombinerar optiska data från rymdteleskopet Hubble med infraröd strålning från Large Binocular Telescope i Arizona. Resultatet gav underlag för att konstruera en detaljerad tredimensionell modell av nebulosan, som mäter ungefär ett ljusår tvärsöver. Modelleringen visar att strukturen inte är en enkel torus, utan en bipolär cylinder eller tillplattad sfäroid med öppnare poler och tätare material längs ekvatorn. Nebulosan expanderar utåt med tiotals kilometer per sekund. I dess centrum vilar en vit dvärg med en yttemperatur över 100 000 kelvin. Denna extremt heta stjärnrest sänder ut energirik ultraviolett strålning som joniserar den omgivande gasen, vilket skapar de karakteristiska gröna och röda färgerna."
+  },
+  "terms": [
+    {
+      "term": "planetär nebulosa",
+      "explanation": "Ett expanderande skal av lysande gas som stöts ut från en döende stjärna av solens storlek."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
+    },
+    {
+      "term": "vit dvärg",
+      "explanation": "En mycket kompakt och het rest av en stjärna som förbrukat sitt kärnbränsle."
+    },
+    {
+      "term": "Lyran",
+      "explanation": "En liten stjärnbild på norra stjärnhimlen som bland annat rymmer den ljusstarka stjärnan Vega."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this glowing cosmic doughnut! It is called the Ring Nebula and looks like a bright ring in outer space. But it is not empty in the middle, because it is filled with glowing gas, just like a jelly doughnut. The colorful ring formed when an old star ran out of fuel and puffed away its outer layers. In the center sits a tiny, hot leftover star. It shines brightly far away among the distant stars.",
+      "nyborjare": "The Ring Nebula, located in the constellation Lyra about 2,000 light-years from Earth, is one of the most famous sights in the night sky. This image was produced in 2013 by combining visible light from the Hubble Space Telescope with infrared data from a ground-based telescope in Arizona. The object is a planetary nebula, an expanding shroud of glowing gas ejected by a dying, sun-like star. Astronomers long thought the nebula looked like a simple smoke ring. However, these sharp observations revealed a more complex shape resembling a jelly doughnut, filled with material in its center. At the core sits a white dwarf whose intense radiation illuminates the surrounding gas.",
+      "entusiast": "Cataloged as Messier 57, the Ring Nebula is an iconic planetary nebula situated roughly 2,000 light-years away in the constellation Lyra. This composite image from 2013 brings together optical data from the Hubble Space Telescope and infrared observations from the Large Binocular Telescope in Arizona. By mapping both visible and infrared emissions across its one-light-year span, researchers constructed a precise three-dimensional model of the nebula. Instead of a simple torus, the structure is an elongated bipolar spheroid viewed almost pole-on, with lower-density gas filling the central cavity and knotty gas structures along its equatorial waist. At its center lies a central white dwarf with a surface temperature exceeding 100,000 kelvins. High-energy ultraviolet photons from this stellar remnant ionize the surrounding gas shells, producing the brilliant fluorescent glow captured in this view."
+    },
+    "terms": [
+      {
+        "term": "planetary nebula",
+        "explanation": "An expanding shell of glowing gas ejected by an intermediate-mass star near the end of its life."
+      },
+      {
+        "term": "light-year",
+        "explanation": "The astronomical distance that a beam of light travels through empty space in one year."
+      },
+      {
+        "term": "white dwarf",
+        "explanation": "A dense, hot stellar core left behind after a star exhausts its nuclear fuel."
+      },
+      {
+        "term": "Lyra",
+        "explanation": "A compact northern constellation best known for containing the bright star Vega and the Ring Nebula."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What kind of object is the Ring Nebula?",
+        "options": [
+          "A planetary nebula",
+          "A nascent spiral galaxy",
+          "A supernova remnant"
+        ],
+        "correct": 0,
+        "fact": "The Ring Nebula consists of glowing shells of gas cast off by a dying, sun-like star."
+      },
+      {
+        "q": "Roughly how wide across is the Ring Nebula?",
+        "options": [
+          "Roughly one astronomical unit",
+          "Roughly one light-year",
+          "About one hundred light-years"
+        ],
+        "correct": 1,
+        "fact": "The expanding gas cloud has grown to a diameter of approximately one light-year."
+      },
+      {
+        "q": "In which constellation does the Ring Nebula reside?",
+        "options": [
+          "Cygnus",
+          "Orion",
+          "Lyra"
+        ],
+        "correct": 2,
+        "fact": "The Ring Nebula is located within the constellation Lyra, roughly 2,000 light-years from Earth."
+      }
+    ]
+  }
+}

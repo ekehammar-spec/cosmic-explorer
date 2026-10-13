@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-13",
+  "title": "An Impact Structure With Legs",
+  "title_sv": "En nedslagsstruktur med ben",
+  "place": "Western Australia, Australien",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAIhAAAgIBAwUBAQAAAAAAAAAAAQIDEQAEEiETIzFBUWGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EABoRAQEAAwEBAAAAAAAAAAAAAAEAAiFBETH/2gAMAwEAAhEDEQA/AOeiSFTx3LoCvAxuFEVu453lb/BkRtJI6lVZRuvn3+Yy0MSAdReLFN5/mQZZcqzHtmsMfUVo2sLwR9y0igKSCd305eOFVlk6Zvf89YvM7EmMC2q7J8Zk2zPhYtqJYSAGBC8URjR1XW0wDIKe758YYYxxNMoX1JWZ5dM+1JW2/DmcM7s2xuQB6wwwgJB03//Z",
+  "levels": {
+    "barn": "Titta noga på bilden. Mitt i det brungula landskapet syns ljusa linjer som spretar utåt, precis som benen på en jättelik spindel. Den här platsen kallas därför för Spindelkratern och ligger i Australien. För väldigt länge sedan kraschade en rymdsten här. Smällen var enorm och tryckte först ner marken, men sedan studsade marken i mitten upp igen. Regn och vind har slitit bort mycket av berget runtomkring, men de hårda åsarna av sandsten finns kvar och ser ut som spindelben.",
+    "nyborjare": "Satellitbilden visar ett torrt landskap med slingrande, ljusa bergsryggar som breder ut sig från en central punkt som benen på en spindel. Den här formationen i Kimberley i västra Australien kallas Spider Crater och är en uråldrig nedslagsstruktur. Den ovala formationen mäter cirka 13 gånger 11 kilometer, medan den spindellika delen i mitten är runt 4 kilometer bred. Geologer förklarar formen med en så kallad centralresning, där berggrunden studsade uppåt efter den våldsamma stöten från ett meteoritnedslag. Under hundratals miljoner år har mjukare berg eroderat bort, medan de hårdare åsarna av sandsten har blivit kvar. Bilden bekräftar spåren av ett kosmiskt nedslag som inträffade för mellan 600 och 900 miljoner år sedan, långt innan de första dinosaurierna vandrade på jorden.",
+    "entusiast": "Denna bild togs av instrumentet Operational Land Imager ombord på satelliten Landsat 9 och visar Spider Crater i Kimberleyregionen i västra Australien. Den ovala strukturen sträcker sig 13 gånger 11 kilometer över landskapet, med en central struktur på cirka 4 kilometer vars ljusa sandstensryggar skapar ett spindellikt mönster. Forskare tolkade länge strukturen som ett vulkaniskt fenomen, men fältstudier avslöjade förekomsten av sprickor av typen strålkongel. Dessa solfjäderformade mönster uppstår uteslutande när kraftiga chockvågor från ett meteoritnedslag fortplantar sig genom berggrunden, och de finns rikligt i kraterns centrala kupol. Den säregna spindelformen utgörs av en eroderad centralresning där marken fjädrade tillbaka efter nedslaget. Efterföljande laboratorieanalyser av chockad kvarts och zirkonkristaller från sandstenen gör det möjligt för forskare att rekonstruera meteoritens nedslagsvinkel. Åldern är ännu inte exakt fastställd, men geologiska dateringar i regionen placerar händelsen mellan cirka 900 miljoner och 600 miljoner år sedan, under sen prekambrium. Genom optiska satellitobservationer kan geologer fortsätta studera hur långvarig erosion mejslar fram motståndskraftiga bergarter och bevarar geologiska vittnesbörd från jordens forntid."
+  },
+  "terms": [
+    {
+      "term": "centralresning",
+      "explanation": "En upphöjning i mitten av en nedslagskrater som bildas när berggrunden studsar tillbaka efter en kraftig stöt."
+    },
+    {
+      "term": "strålkongel",
+      "explanation": "Ett solfjäderformat sprickmönster i berg som enbart bildas vid extremt höga tryck från ett meteoritnedslag."
+    },
+    {
+      "term": "chockad kvarts",
+      "explanation": "Kvartskristaller vars inre struktur har deformerats av de våldsamma chockvågorna vid en meteoritkrasch."
+    },
+    {
+      "term": "prekambrium",
+      "explanation": "Den tidiga geologiska eran i jordens historia som sträcker sig från planetens bildande fram till kambrium."
+    },
+    {
+      "term": "Operational Land Imager",
+      "explanation": "Ett optiskt instrument på satelliten Landsat 9 som fångar detaljerade bilder av jordens yta."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look closely at the image. In the middle of the brownish landscape, pale ridges spread outward like the legs of a giant spider. This place in Australia is aptly called Spider Crater. A very long time ago, a huge space rock crashed here. The massive impact pushed the ground down, and then the center bounced back up. Over hundreds of millions of years, wind and rain wore away the softer rock, leaving behind these tough ridges that look like spider legs.",
+      "nyborjare": "This satellite view reveals a desert landscape where pale ridges radiate from a center like the legs of a spider. Located in the Kimberley region of Western Australia, this feature is known as Spider Crater. The entire oval structure spans roughly 13 by 11 kilometers, with the central spiderlike feature measuring about 4 kilometers wide. Geologists explain that this pattern is the remnant of a central uplift, where rock rebounded upward after a powerful meteorite impact. Over hundreds of millions of years, softer surrounding rocks eroded away, leaving behind durable ridges of sandstone. Field discoveries confirmed that this crater formed between 600 million and 900 million years ago, making it a rare remnant of an ancient cosmic collision.",
+      "entusiast": "Captured by the Operational Land Imager aboard the Landsat 9 satellite, this image features Spider Crater in Western Australia’s Kimberley region. The overall oval impact structure spans 13 by 11 kilometers, dominated by a 4-kilometer central dome with radiating sandstone ridges that resemble spider legs. For decades, the site was suspected of being volcanic until geologists discovered the telltale shatter cone structure throughout the uplift. These distinctive, fan-shaped rock fractures form exclusively under the extreme shock waves generated by meteorite impacts. Subsequent laboratory investigations of shocked quartz and zircon crystals from the sandstone have helped researchers reconstruct the impactor’s trajectory and angle. Regional stratigraphy dates the event to between 900 million and 600 million years ago, placing it in the late Precambrian. By providing high-resolution imagery, Landsat allows scientists to analyze how deep geological erosion exposes resilient bedrock and preserves ancient impact history."
+    },
+    "terms": [
+      {
+        "term": "central uplift",
+        "explanation": "The raised center of an impact crater formed by the rebound of rock after an impact."
+      },
+      {
+        "term": "shatter cone",
+        "explanation": "A fan-shaped rock fracture that forms only under the intense shock waves of a meteorite impact."
+      },
+      {
+        "term": "shocked quartz",
+        "explanation": "A form of quartz with a microscopic structure altered by extreme pressure from a cosmic collision."
+      },
+      {
+        "term": "Precambrian",
+        "explanation": "The earliest span of Earth's history, occurring prior to the emergence of abundant macroscopic life."
+      },
+      {
+        "term": "Operational Land Imager",
+        "explanation": "An optical sensor aboard the Landsat 9 satellite that records detailed images of Earth's surface."
+      }
+    ],
+    "place": "Western Australia, Australia"
+  }
+}
