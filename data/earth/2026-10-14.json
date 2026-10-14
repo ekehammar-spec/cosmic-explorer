@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-14",
+  "title": "Hurricane Simon Lurks Off the Mexican Coast",
+  "title_sv": "Orkanen Simon lurar utanför Mexikos kust",
+  "place": "Mexikos västkust",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory images by Michala Garrison, using VIIRS data from NASA EOSDIS LANCE , GIBS/Worldview , the Suomi National Polar-orbiting Partnership , and the Joint Polar Satellite System (JPSS).",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+  "w": 480,
+  "h": 400,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGBP/EACQQAAIBBAICAQUAAAAAAAAAAAECAwAEESEFEjFRQRMiI2Fx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERAjH/2gAMAwEAAhEDEQA/AJ6z6CSeEKZElHXuVxr4P9relvdWwh8TRS56ga6AE6IPj3RLex72xgRsNbHLONFgfnXo6qj4HiISpef8jE57OMk+hT6wINxkLW9ushIJYYwDnXxRZ0cIZn+46yMZBFa7m2T6bYyRjwAMGk9lf20kaQTSgkqU6nXU/o1n4aX4+e7t5vsdlKnYxpvQp0/K3NsgVgsJI11wKm5JHh5BFjYqrHJAPmtfKj8an0M1rQh3LyEkXCzO3ZpJ1KquTkDQyf2TuknBcncRXBDS/VVwVaNl7En++aZ2euMicE9pnCOc+QB4pJwSg8yVI13Gqsir/9k=",
+  "levels": {
+    "barn": "På bilden ser vi en jättelik vit virvel av moln ute över det mörka havet. Det är en stor storm som heter Simon. I mitten finns ett hål som kallas stormens öga, där det faktiskt är alldeles lugnt. Runt om ögat snurrar vindarna jättefort. Stormen rör sig nära Mexikos kust och för med sig kraftigt regn och stora vågor. Från rymden kan forskarna följa stormen så att människor på land hinner sätta sig i säkerhet.",
+    "nyborjare": "Satellitbilden visar orkanen Simon som en mäktig spiral av vita moln över Stilla havet strax utanför Mexikos kust. I stormens mitt syns det runda orkanögat tydligt, bara 50 kilometer från land. Runt ögat reser sig en hög molnvägg där vindarna blåste i över 200 kilometer i timmen. När ovädret nådde kusten orsakade det kraftiga skyfall, översvämningar och risk för jordskred i bergen, även om Sierra Madre-bergen dämpade orkanens styrka något. Satelliter kan också fånga orkanens effekter nattetid. Då syns tunna ringar i atmosfären som sprider sig från stormens mitt, ungefär som ringar på vattnet när man kastar i en sten. Dessa vågor uppstår när kraftiga uppvindar inuti stormen skickar energi tiotals kilometer upp i jordens atmosfär.",
+    "entusiast": "Denna satellitbild fångades av instrumentet VIIRS ombord på vädersatelliten Suomi NPP när orkanen Simon rörde sig norrut längs Mexikos västkust. Vid tillfället var Simon en kategori 4-orkan med vindbyar upp mot 250 kilometer i timmen. Bilden visar hur stormens inre kärna skrapar mot land, där Sierra Madres bergskedja bidrog till att minska vindfältets utbredning och dämpa intensiteten. Nattliga observationer med samma instrument på satelliten NOAA-21 avslöjade dessutom ett fascinerande fenomen i den övre atmosfären. Från orkanens ögonvägg strålade atmosfäriska tyngdvågor utåt i form av koncentriska krusningar. Dessa vågor bildas när latent värme frigörs vid kraftig konvektion och driver mäktiga cumulonimbusmoln med intensiva uppvindar. Energin fortplantar sig upp i stratosfären och mesosfären, där vågorna framträder som mönster i nattglöden, ett svagt ljus från exciterade gaser på mycket hög höjd. Instrumentets dag-natt-kanal, Day-Night Band, är extremt ljuskänslig och kan registrera denna svaga nattglöd när månens ljus är minimalt och inte överstrålar signalen."
+  },
+  "terms": [
+    {
+      "term": "orkanöga",
+      "explanation": "Det relativt lugna och molnfria området i centrum av en kraftig tropisk cyklon."
+    },
+    {
+      "term": "konvektion",
+      "explanation": "Vertikala luftrörelser som uppstår när varm och fuktig luft stiger uppåt i atmosfären."
+    },
+    {
+      "term": "nattglöd",
+      "explanation": "Ett svagt ljussken i den övre atmosfären som bildas genom kemiska processer i gaser."
+    },
+    {
+      "term": "atmosfäriska tyngdvågor",
+      "explanation": "Vågor i luften som uppstår när stigande luftmassor rubbas ur jämvikt och återställs av gravitationen."
+    },
+    {
+      "term": "cumulonimbus",
+      "explanation": "Mäktiga åskmoln med kraftiga vertikala luftströmmar som kan nå högt upp i atmosfären."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "In the picture, we see a giant white swirl of clouds over the dark ocean. This is a powerful storm named Simon. In the middle is a round hole called the eye of the hurricane, where the weather is calm. Around the eye, fierce winds spin very fast. The storm is close to the coast of Mexico, bringing heavy rain and high waves. Satellites in space watch the storm to help keep people on land safe.",
+      "nyborjare": "This satellite image captures Hurricane Simon as a massive spiral of white clouds spinning over the Pacific Ocean near Mexico. At the center of the storm lies the eye, located just 50 kilometers off the coast. Surrounding the eye is a dense wall of clouds where winds exceeded 200 kilometers per hour. As the hurricane brushed past the mainland, it brought torrential rain, flooding, and mudslide risks, though the Sierra Madre mountains slightly weakened its winds. At night, satellites observed faint circular ripples spreading through the upper atmosphere from the storm. These atmospheric waves form when powerful updrafts deep inside the hurricane push energy tens of kilometers upward into the air.",
+      "entusiast": "This image was acquired by the VIIRS instrument aboard the Suomi NPP satellite as Hurricane Simon tracked north-northwest along the Mexican coast. Simon reached category 4 status with sustained winds up to 250 kilometers per hour before coastal interaction with the Sierra Madre mountains reduced its wind field and intensity. Nighttime imagery from the VIIRS Day-Night Band on NOAA-21 revealed atmospheric gravity waves radiating outward from the cyclone eyewall. These ripples occur when latent heat release drives intense convection, building towering cumulonimbus clouds whose updrafts propagate waves into the stratosphere and mesosphere. At these high altitudes, the waves perturb airglow, the faint luminescence emitted by atmospheric gases. With minimal moonlight to wash out the scene, the sensitive sensor captured the subtle ripples clearly, providing critical data to atmospheric scientists studying hurricane dynamics."
+    },
+    "terms": [
+      {
+        "term": "eye",
+        "explanation": "The relatively calm, clear area at the center of a strong tropical cyclone."
+      },
+      {
+        "term": "convection",
+        "explanation": "Vertical atmospheric motion driven by buoyant warm air rising and cooler air sinking."
+      },
+      {
+        "term": "airglow",
+        "explanation": "A faint luminescence emitted by a planetary atmosphere caused by chemical reactions in high-altitude gases."
+      },
+      {
+        "term": "atmospheric gravity waves",
+        "explanation": "Waves generated in the atmosphere when buoyant air is perturbed and restored by gravity."
+      },
+      {
+        "term": "cumulonimbus",
+        "explanation": "Exceptionally tall, dense storm clouds associated with powerful updrafts and heavy precipitation."
+      }
+    ],
+    "place": "West coast of Mexico"
+  }
+}

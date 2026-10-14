@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T17:06:31.136Z",
+ "updated": "2026-10-14T09:41:33.261Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-13T06:00:00Z",
+   "date": "2026-10-14T00:00:00Z",
    "title_sv": "Orkanen Simon",
    "title_en": "Hurricane Simon",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 150 km/h",
-   "value_en": "winds of 150 km/h"
+   "value_sv": "vindar på 165 km/h",
+   "value_en": "winds of 165 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-13T06:00:00Z",
-   "title_sv": "Tyfonen Koguma",
-   "title_en": "Typhoon Koguma",
+   "date": "2026-10-13T18:00:00Z",
+   "title_sv": "Tropiska stormen Koguma",
+   "title_en": "Tropical Storm Koguma",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 130 km/h",
-   "value_en": "winds of 130 km/h"
+   "value_sv": "vindar på 95 km/h",
+   "value_en": "winds of 95 km/h"
   },
   {
    "kind": "storm",

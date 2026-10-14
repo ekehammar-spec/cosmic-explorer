@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-14",
+  "title": "Hubble Views a Dwarf Galaxy",
+  "title_sv": "Hubble blickar mot en dvärggalax",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001569/GSFC_20171208_Archive_e001569~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001569/GSFC_20171208_Archive_e001569~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001569/GSFC_20171208_Archive_e001569~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001569",
+  "credit": "NASA/GSFC",
+  "taken": "2017",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001569",
+  "px": [
+    1280,
+    771
+  ],
+  "w": 640,
+  "h": 385,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIFAQQH/8QAIBAAAgEEAgMBAAAAAAAAAAAAAAECBAURITFBAxIUYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDnseStbbfKskkk2sdckhFuz3SNA8rPs1v8An11N83mcH0arTjJrvgpXeqVVUuaxveSY9t4QGEOm8AABJsWTYAB/9k=",
+  "quiz": [
+    {
+      "q": "Vad kännetecknar en oregelbunden dvärggalax?",
+      "options": [
+        "Den saknar tydlig struktur och spiralarmar.",
+        "Den har alltid en mycket tät kärna.",
+        "Den innehåller inga områden med nya stjärnor."
+      ],
+      "correct": 0,
+      "fact": "Oregelbundna dvärggalaxer saknar symmetrisk form och spiralarmar men är ofta rika på gas och nya stjärnor."
+    },
+    {
+      "q": "Varför syns andra galaxer rakt igenom NGC 5477?",
+      "options": [
+        "Dvärggalaxer består enbart av osynlig gas.",
+        "Galaxer består mest av tomt rymdrum.",
+        "Bakgrundsljuset böjs runt galaxens yttre kant."
+      ],
+      "correct": 1,
+      "fact": "Trots att galaxer rymmer miljontals stjärnor är avstånden mellan stjärnorna så enorma att rymden mestadels är tom."
+    },
+    {
+      "q": "Vilket ämne dominerar i molnen där stjärnor föds?",
+      "options": [
+        "Moln av tunga kolföreningar",
+        "Kalla gaser av flytande helium",
+        "Glödande moln av vätgas"
+      ],
+      "correct": 2,
+      "fact": "Väte är universums vanligaste grundämne och utgör huvuddelen av de nebulosor där nya stjärnor tänds."
+    }
+  ],
+  "levels": {
+    "barn": "Titta på den här lilla galaxen som heter NGC 5477! Den ser nästan ut som en fluffig snöflinga som svävar i mörkret. Det är en dvärggalax, vilket betyder att den är mycket mindre än vår egen Vintergata. Runtomkring glimmar massor av nya stjärnor som just har fötts. Ser du de små prickarna rakt igenom den? Det är andra galaxer som ligger mycket längre bort. Galaxer är nämligen inte hårda som stenar, utan mest fulla av tom rymd.",
+    "nyborjare": "Bilden visar dvärggalaxen NGC 5477 i stjärnbilden Stora björnen. Den är granne med den väldiga Vindsnurregalaxen, Messier 101. Till skillnad från Vintergatans ståtliga spiralarmar saknar NGC 5477 en tydlig form och klassas därför som en oregelbunden dvärggalax.\n\nTrots sitt rufsiga utseende pågår här intensiv stjärnbildning. De ljusa nebulosorna som breder ut sig över galaxen är moln av vätgas där nya solar tänds. I verkligheten glöder gasen i rosa, men teleskopets filter får den att se nästan vit ut. Lägg märke till att avlägsna galaxer syns rakt igenom den. Galaxer är inga kompakta föremål, utan består till största delen av tomt rum mellan stjärnorna.",
+    "entusiast": "Rymdteleskopet Hubble har med instrumentet Advanced Camera for Surveys fångat dvärggalaxen NGC 5477. Detta oregelbundna system tillhör Messier 101-gruppen i Stora björnen, på ett avstånd av omkring 20 miljoner ljusår. Galaxen saknar ordnad skivstruktur eller utpräglad kärna, men uppvisar rikligt med H II-regioner där nya stjärnor kontinuerligt bildas.\n\nDe glödande gasmolnen domineras av joniserat väte. I denna exponering framträder de i ljust gröna och vita toner till följd av observationer genom optiska grönfilter och infraröda filter. Bilderna togs inom ett projekt för att bestämma avstånd inom 30 miljoner ljusår genom fotometri på röda jättar, specifikt via toppen av den röda jättegrenen som fungerar som standardljus.\n\nEtt slående drag i synfältet på 3,3 bågminuter är de många bakgrundsgalaxerna. Flera av dem lyser obehindrat rakt igenom NGC 5477, vilket tydligt visar galaxens låga optiska täthet och det interstellära mediets gleshet."
+  },
+  "terms": [
+    {
+      "term": "dvärggalax",
+      "explanation": "En mindre galax som vanligtvis innehåller mellan några miljoner och några miljarder stjärnor."
+    },
+    {
+      "term": "stjärnbildning",
+      "explanation": "Processen där kalla och täta gasmoln i rymden dras samman av gravitationen och skapar nya stjärnor."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett helt år."
+    },
+    {
+      "term": "röda jättar",
+      "explanation": "Åldrande och uppsvällda stjärnor som har förbrukat bränslet i sina kärnor och expanderat kraftigt."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look closely at this small galaxy called NGC 5477! It drifts in the dark like a fluffy, glowing snowflake. NGC 5477 is a dwarf galaxy, which means it is much smaller than our own home, the Milky Way. Bright patches show where brand new stars are waking up. Can you spot tiny distant dots shining right through it? Those are other galaxies far behind it, showing that galaxies are not solid at all, but mostly open space.",
+      "nyborjare": "This image captures NGC 5477, a companion dwarf galaxy to the colossal Pinwheel Galaxy in the constellation Ursa Major. Unlike the sweeping spiral arms of our Milky Way, NGC 5477 lacks a defined pattern, placing it in the category of irregular dwarf galaxies.\n\nDespite its disorganized appearance, active star formation is underway. The bright glowing clouds scattered across the galaxy consist of hydrogen gas where new suns ignite. While these nebulae shine pinkish-red in reality, Hubble's green and infrared filters make them appear nearly white. Distant galaxies shine straight through NGC 5477, offering a striking reminder that galaxies are largely composed of vast, empty space.",
+      "entusiast": "Captured by Hubble's Advanced Camera for Surveys, NGC 5477 is an irregular dwarf galaxy belonging to the Messier 101 Group in Ursa Major, roughly 20 million light-years away. Spanning a field of view of 3.3 arcminutes, it lacks rotational symmetry or a central bulge, exhibiting a classic dwarf irregular morphology.\n\nProminent nebulae across the system are H II regions where vigorous star formation lights up clouds of ionized hydrogen. The observations were conducted to calibrate extragalactic distances within 30 million light-years using the standardized luminosity of a red giant star at the tip of the red giant branch. Remarkably, background galaxies are visible directly through the disc of NGC 5477, illustrating its low optical depth and the sparse nature of interstellar space."
+    },
+    "terms": [
+      {
+        "term": "dwarf galaxy",
+        "explanation": "A relatively small galaxy containing anywhere from several million to a few billion stars."
+      },
+      {
+        "term": "star formation",
+        "explanation": "The process by which dense regions within molecular gas clouds collapse under gravity to form stars."
+      },
+      {
+        "term": "light-years",
+        "explanation": "An astronomical unit of distance representing how far a beam of light travels in one year."
+      },
+      {
+        "term": "red giant",
+        "explanation": "A luminous, swollen star in the late stages of stellar evolution that has expanded dramatically."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What characterizes an irregular dwarf galaxy?",
+        "options": [
+          "It lacks a distinct structure and spiral arms.",
+          "It always possesses a dense, bright nucleus.",
+          "It contains no regions forming new stars."
+        ],
+        "correct": 0,
+        "fact": "Irregular dwarf galaxies lack spiral arms or symmetrical shapes, yet they are frequently rich in gas and active star birth."
+      },
+      {
+        "q": "Why are distant galaxies visible right through NGC 5477?",
+        "options": [
+          "Dwarf galaxies consist solely of invisible gas.",
+          "Galaxies are mostly made of empty space.",
+          "Background light is bent around the galaxy."
+        ],
+        "correct": 1,
+        "fact": "Even though galaxies host millions of stars, the vast distances between them mean space is mostly unoccupied."
+      },
+      {
+        "q": "Which element dominates the clouds where stars are born?",
+        "options": [
+          "Clouds of complex carbon compounds",
+          "Cold pockets of liquid helium",
+          "Glowing clouds of hydrogen gas"
+        ],
+        "correct": 2,
+        "fact": "Hydrogen is the most abundant element in the cosmos and forms the primary fuel in stellar nurseries."
+      }
+    ]
+  }
+}
