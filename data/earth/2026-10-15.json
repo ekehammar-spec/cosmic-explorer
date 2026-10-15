@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-15",
+  "title": "Fires Arrive in the Amazon Rainforest",
+  "title_sv": "Bränder når Amazonas regnskog",
+  "place": "Amazonas, Brasilien",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAmEAACAgIBAwQCAwAAAAAAAAABAgMRAAQSITFBBRNRYXGBIsHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhEDEQA/AKvcTXT05tNVqFwRzezyPf8AZye9Z9NikdRpoVRVALN4b5A8ff3j9/aaGPlZcWKA7D4H+64v2Jma+PRV6kgdB27/ALOKDUlPqxaKOz8XINfzFlj9DvmZ4GihTYGq8YloAUeuON9Ehn5TFmbjyQFLv7A/vE7zTbey/AOYoz0q7Aw6gx0DYWga+cWuTN7cN8QWskefzhhii1P+r7Ezzw7SMEZIwFFXQq6/GKy8kezI6vRbq1eb8YYZKj//2Q==",
+  "levels": {
+    "barn": "Titta på bilden från rymden. Det gröna är den stora regnskogen i Amazonas, och det mörka bandet som slingrar sig fram är Amazonfloden. Men ser du de ljusa, gråvita slöjorna som breder ut sig över träden? Det är tjock rök från bränder på marken.\n\nI regnskogen är det vanligtvis väldigt blött, men ibland blir vädret ovanligt torrt och varmt. Då kan eldar sprida sig snabbt. Röken är så tät att människor i städerna i närheten måste stanna inomhus för att luften blir svår att andas.",
+    "nyborjare": "På satellitbilden syns Amazonas djupgröna trädkronor och den slingrande Amazonfloden, men stora delar av landskapet döljs under ett gråvitt dis av rök. Rökslöjorna stiger från skogsbränder som härjar på båda sidor om floden.\n\nSkälet till att den annars fuktiga regnskogen brinner är en svår torka kopplad till väderfenomenet El Niño, som rubbar regnmönstren över tropikerna. När mark och undervegetation torkar ut kan eldar som människor tänt för att röja mark lätt sprida sig utom kontroll.\n\nRöken sveper in städer som Manaus och Santarém i giftiga partiklar. Luftkvaliteten blir snabbt farlig för invånarna, vilket tvingar skolor att stänga och lamslår vardagslivet för miljontals människor medan brandkåren och myndigheterna kämpar mot lågorna.",
+    "entusiast": "Denna satellitbild i naturliga färger fångades den 12 oktober 2026 av instrumentet MODIS (Moderate Resolution Imaging Spectroradiometer) ombord på NASA:s satellit Aqua. Bilden visar hur omfattande plymer av rök från aktiva bränder driver över Amazonfloden och täcker staden Manaus.\n\nDen extrema brandaktiviteten är del av en återkommande brandkaskad i tropikerna orsakad av El Niño. Fenomenet försvagar nederbörden kraftigt; i augusti och september 2026 föll upp till 95 procent mindre regn än normalt kring Manaus. Eftersom regnskogen saknar naturliga anpassningar till eld och åsknedslag sällan startar bränder, orsakas nästan samtliga av mänskliga aktiviteter såsom svedjebruk och betesröjning. Eldarna sprider sig sedan in i uttorkad undervegetation.\n\nForskare från NASA och samarbetsprojekt som MapBiomas använder data från sensorer som MODIS och VIIRS för att kartlägga brandhärdar. Studier visar dock att tät rök och tjocka trädkronor ofta döljer brandfrontens infraröda signatur. I området kring Santarém identifierade forskare upp till 40 procent fler potentiella bränder på marken än vad standardiserade algoritmer fångade upp. Forskarna förutser att brandrisken rör sig norrut mot Venezuela och Guyana under senhösten, innan säsongen kulminerar i södra Amazonas 2027."
+  },
+  "terms": [
+    {
+      "term": "MODIS",
+      "explanation": "Ett satellitinstrument från NASA som mäter synligt och infrarött ljus för att kartlägga jordens yta, atmosfär och bränder."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "Ett återkommande klimatfenomen i Stilla havet som påverkar vindar, temperaturer och nederbördsmönster över hela jorden."
+    },
+    {
+      "term": "PM 2.5",
+      "explanation": "Mikroskopiska luftburna partiklar med en diameter under 2,5 mikrometer som kan tränga djupt ner i människans luftvägar."
+    },
+    {
+      "term": "VIIRS",
+      "explanation": "Ett satellitburet sensorinstrument som samlar mätdata i synligt och infrarött ljus för att upptäcka värmekällor som aktiva skogsbränder."
+    },
+    {
+      "term": "MapBiomas",
+      "explanation": "Ett samarbetsnätverk av forskare och organisationer som kartlägger markanvändning och branddynamik i Brasilien med hjälp av satellitdata."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this picture taken from space. The rich green color is the vast Amazon rainforest, and the dark winding ribbon is the Amazon River. But do you see the pale grey and white clouds drifting over the trees? That is thick smoke rising from wildfires on the ground.\n\nRainforests are usually very wet, but unusual droughts can make the plants dry and ready to catch fire. The smoke becomes so thick that children and adults in nearby towns must stay indoors to breathe clean air.",
+      "nyborjare": "In this satellite image, the deep green expanse of the Amazon rainforest and the winding Amazon River are partially veiled by broad, milky plumes of grey and white smoke. These smoke plumes stream from intense wildfires burning on both sides of the river.\n\nThe typically humid rainforest has dried out due to an intense drought linked to the El Niño climate pattern, which alters global rainfall. Because the understory is parched, fires set by humans to clear land or pasture have quickly escaped into the forest.\n\nThe resulting blanket of smoke trapped cities like Manaus in hazardous air pollution, forcing schools to close and disrupting daily life for millions of residents awaiting the arrival of the rainy season.",
+      "entusiast": "Captured on October 12, 2026, by the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard NASA’s Aqua satellite, this natural-color image reveals dense smoke plumes engulfing the central Amazon and smothering cities such as Manaus.\n\nThe surge in burning follows an El Niño-driven tropical fire cascade, which disrupts regional precipitation patterns. In August and September 2026, rainfall around Manaus fell between 60 and 95 percent below normal, leaving the dense understory critically susceptible to fires escaping from agricultural clearances. Because rainforest ecosystems are not fire-adapted, repeat blazes inflict severe ecological degradation.\n\nNASA scientists tracking these events rely on active-fire detection networks like FIRMS, but high optical smoke thickness and canopy cover frequently obscure the thermal infrared signatures of low-intensity understory blazes. Utilizing fine-scale data from VIIRS, researchers alongside the MapBiomas network identified roughly 40 percent more candidate fires around Santarém than standard automated counts recorded. Scientists project this fire wave will progress northward toward Venezuela and Suriname before culminating in the southern Amazon basin in late 2027."
+    },
+    "terms": [
+      {
+        "term": "MODIS",
+        "explanation": "A NASA satellite instrument measuring visible and infrared radiation to monitor Earth's clouds, oceans, land cover, and active wildfires."
+      },
+      {
+        "term": "El Niño",
+        "explanation": "A climate pattern characterized by unusual ocean warming in the Pacific that disrupts weather and rainfall patterns globally."
+      },
+      {
+        "term": "PM 2.5",
+        "explanation": "Fine inhalable airborne particles with diameters of 2.5 micrometers or smaller that pose serious risks to human respiratory health."
+      },
+      {
+        "term": "VIIRS",
+        "explanation": "An advanced imaging sensor on polar-orbiting satellites designed to collect visible and infrared imagery and detect active fires."
+      },
+      {
+        "term": "MapBiomas",
+        "explanation": "A multi-institutional research network that monitors land use, land cover changes, and fire dynamics across the Amazon."
+      }
+    ],
+    "place": "Amazon, Brazil"
+  }
+}

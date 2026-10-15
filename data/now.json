@@ -1,16 +1,26 @@
 {
- "updated": "2026-10-14T14:39:09.349Z",
+ "updated": "2026-10-15T09:18:22.961Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-14T06:00:00Z",
-   "title_sv": "Orkanen Simon",
-   "title_en": "Hurricane Simon",
+   "date": "2026-10-15T00:00:00Z",
+   "title_sv": "Tropiska stormen Trudy",
+   "title_en": "Tropical Storm Trudy",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 165 km/h",
-   "value_en": "winds of 165 km/h"
+   "value_sv": "vindar på 100 km/h",
+   "value_en": "winds of 100 km/h"
+  },
+  {
+   "kind": "storm",
+   "date": "2026-10-15T00:00:00Z",
+   "title_sv": "Tropiska stormen Simon",
+   "title_en": "Tropical Storm Simon",
+   "where_sv": "Östra Stilla havet",
+   "where_en": "Eastern Pacific",
+   "value_sv": "vindar på 100 km/h",
+   "value_en": "winds of 100 km/h"
   },
   {
    "kind": "storm",
@@ -21,16 +31,6 @@
    "where_en": "Western Pacific",
    "value_sv": "vindar på 95 km/h",
    "value_en": "winds of 95 km/h"
-  },
-  {
-   "kind": "storm",
-   "date": "2026-10-14T06:00:00Z",
-   "title_sv": "Tropiska stormen Trudy",
-   "title_en": "Tropical Storm Trudy",
-   "where_sv": "Östra Stilla havet",
-   "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 75 km/h",
-   "value_en": "winds of 75 km/h"
   },
   {
    "kind": "ice",
