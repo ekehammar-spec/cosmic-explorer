@@ -1,16 +1,1 @@
-{
- "space": {
-  "2026-09-12": {
-   "set": {
-    "title_sv": {"from": "Apollo 11: Solbad på månen", "to": "Apollo 11 fångar solvinden"},
-    "quiz.1.options.0": {"from": "För att bygga skydd mot solvinden", "to": "För att leta efter is under ytan"},
-    "quiz.1.options.2": {"from": "För att väga hur mycket månen väger", "to": "För att mäta strålningen från ytan"},
-    "quiz.2.q": {"from": "Hur skapas månens mörka skuggor på bilden?", "to": "Varför är skuggorna på bilden så skarpa och svarta?"},
-    "quiz.2.options.0": {"from": "Solen skiner från sidan och månen saknar skyddande atmosfär", "to": "Månen saknar luft som sprider ljuset"},
-    "quiz.2.options.1": {"from": "Moln på månen skymmer det starka solljuset", "to": "Månens mörka jord suger upp ljuset"},
-    "quiz.2.options.2": {"from": "Månens yta är målad i svarta färger", "to": "Jorden skymmer en del av solljuset"}
-   }
-  }
- },
- "earth": {}
-}
+{"space":{"2026-10-15":{"set":{},"remove":true}},"earth":{}}
