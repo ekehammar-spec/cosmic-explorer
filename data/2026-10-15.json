@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Chandra Finds Possible Origin of 'Treble Clef' Waves",
-  "title_sv": "Treble Clef-nebulosan",
+  "title": "Webb Data Reveals Dark Matter",
+  "title_sv": "Webb avslöjar mörk materia",
   "media_type": "image",
-  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg?w=1600",
-  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg?w=480",
-  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
-  "link": "https://www.nasa.gov/image-detail/shape-3601-3601/",
-  "credit": "NASA",
-  "taken": "",
-  "src": "iotd",
-  "id": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+  "url": "https://images-assets.nasa.gov/image/PIA26702/PIA26702~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA26702/PIA26702~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA26702/PIA26702~orig.png",
+  "link": "https://images.nasa.gov/details/PIA26702",
+  "credit": "NASA/STScI/J. DePasquale/A. Pagan",
+  "taken": "2026",
+  "src": "library",
+  "id": "PIA26702",
   "px": [
-    1600,
-    1191
+    1724,
+    1920
   ],
-  "w": 480,
-  "h": 357,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGAQIH/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIAAxEEITEFMhITFEFRYXH/xAAYAQEAAwEAAAAAAAAAAAAAAAABAAIDBP/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgMRITH/2gAMAwEAAhEDEQA/APOkUENnOw2wPePGjuIyqEjGeJvTnqS/NoLDjEptK9Y1NZLYqPco5YfE6ceOtq7Y1N2CSb1FO4fW8VKTriUVqfLuWwpsv5JuZ5alXkiadM1SQwxzHeotTClifCeMwhKFk8hObr3uYFzuNoqEIPYqvWf/2Q==",
+  "w": 574,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgEDBv/EACIQAAEEAgEEAwAAAAAAAAAAAAEAAgMREiExBBNBUTJhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABgRAQEBAQEAAAAAAAAAAAAAABEAARIh/9oADAMBAAIRAxEAPwDi+kljjflI0kj4/qPcAeXACysM6frYvQKt2QrdeFHjFk8b45TkgdHiHVZGXKkr8q0BXpYkm0aTjssAPKTiI5LYbrgoNBLCbRG/KG0Tc7I37RMh0Na+lDrSiGTL/9k=",
   "quiz": [
     {
-      "q": "Vad är röntgenstrålning för slags ljus?",
+      "q": "Vad är mörk materia för något?",
       "options": [
-        "Synligt ljus med extremt hög styrka",
-        "Osynlig och högenergetisk elektromagnetisk strålning",
-        "Värmestrålning som bara sänds ut av gas"
+        "En typ av svarta hål som sprids över universum",
+        "En osynlig substans som bara interagerar via gravitation",
+        "Ett moln av kosmisk gas som blockerar allt ljus"
       ],
       "correct": 1,
-      "fact": "Röntgenstrålning är en form av högenergetisk elektromagnetisk strålning som inte kan ses med blotta ögat."
+      "fact": "Mörk materia varken avger eller absorberar ljus, vilket gör den helt osynlig för vanliga teleskop. Den avslöjar sig enbart genom sin dragningskraft."
     },
     {
-      "q": "Vad visar röntgenbilder av rymden oftast?",
+      "q": "Hur kan forskare upptäcka något som är helt osynligt?",
       "options": [
-        "Kall gas som håller på att bilda planeter",
-        "Extremt heta processer som stjärnvindar och explosioner",
-        "Reflekterat solljus från avlägsna asteroider"
-      ],
-      "correct": 1,
-      "fact": "Röntgenobservatorier fångar upp extremt het gas och våldsamma energiflöden i universum."
-    },
-    {
-      "q": "Vad är en stjärnhop i rymden?",
-      "options": [
-        "En samling stjärnor som hålls ihop av gravitation",
-        "Resterna efter en enda stor stjärna som exploderat",
-        "Ett moln av rymdstoft som blockerar allt ljus"
+        "Genom att mäta hur dess gravitation böjer av ljus",
+        "Genom att leta efter värmestrålning från dess yta",
+        "Genom att mäta hur snabbt den kyler ner rymden"
       ],
       "correct": 0,
-      "fact": "Stjärnhopar är stora grupper av stjärnor som är bundna till varandra genom ömsesidig gravitation."
+      "fact": "När ljus från avlägsna galaxer passerar genom områden med mycket mörk materia böjs ljuset av på samma sätt som genom en skev glasruta."
+    },
+    {
+      "q": "Vad är gravitationslinsning för ett fenomen?",
+      "options": [
+        "När stora stjärnor fungerar som förstoringsglas för planeter",
+        "När massiva objekt böjer rymdens väv och snedvrider ljus",
+        "När rymdteleskop använder speciallinser för att se genom stoft"
+      ],
+      "correct": 1,
+      "fact": "Massiva strukturer i universum har så stark gravitation att de kröker själva rymdtiden, vilket gör att bakomliggande galaxers ljus förvrängs."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att rymden är en stor musikalisk sagovärld där stjärnorna spelar musik. Forskare har hittat ett moln av glödande gas som ser precis ut som en G-klav, precis som ett tecken i en notbok. Det är rymdteleskopet Chandra som har tagit en titt på detta spännande mönster som svävar långt borta i mörkret.",
-    "nyborjare": "Astronomer har använt NASA:s Chandra X-ray Observatory för att studera ursprunget till en märklig formation av radiovågor. Formationen har fått smeknamnet Treble Clef eftersom dess unika form påminner om en G-klav. Genom att kombinera röntgenobservationer och radiovågor kan forskarna förstå vilka våldsamma processer i universum som skapar dessa storslagna former.",
-    "entusiast": "Med hjälp av Chandra X-ray Observatory har astronomer undersökt mekanismerna bakom den remarkabla struktur som kallas Treble Clef. Strukturen upptäcktes ursprungligen i radiovågor men studeras i röntgenintervall för att blottlägga ursprunget till den heta gasen och partikelvindarna. Det unika utseendet ger ledtrådar om hur stjärnvindar och magnetfält samverkar i stjärnhopar eller supernovarester, vilket ökar vår förståelse för dynamiken i den interstellära mediumstrukturen."
+    "barn": "Tänk dig att rymden är full av hemliga spöken som vi inte kan se. Det här rymdteleskopet har tagit en bild där forskarna har målat dit var alla dessa osynliga spöken gömmer sig. De syns inte alls med våra ögon men de drar i stjärnor och galaxer precis som en osynlig magnet. Forskarna har letat efter den här mystiska kraften för att förstå hur alla galaxer en gång i tiden kunde bildas.",
+    "nyborjare": "Den här bilden från James Webb-teleskopet visar nästan 800 000 galaxer i stjärnbilden Sextanten. Över bilden ligger en karta i blått som visar var det finns mörk materia. Det är en mystisk och helt osynlig substans som inte avger eller blockerar ljus. Forskarna kan ändå hitta den eftersom den har gravitation som påverkar sin omgivning. När ljus från avlägsna galaxer färdas genom rymden passerar det förbi den osynliga materien och böjs av. Denna effekt kallas svag gravitationslinsning och gör att forskarna kan räkna ut exakt var den mörka materien finns någonstans.",
+    "entusiast": "Forskare har använt data från James Webb-teleskopets Near-Infrared Camera för att kartlägga mörk materia i stjärnbilden Sextanten över en yta på 0,54 kvadratgrader. Eftersom mörk materia varken emitterar, reflekterar eller absorberar ljus är den osynlig för traditionella teleskop. Dess närvaro kan dock härledas genom dess gravitationsinflytande på vanlig materia. Stora klumpformationer av mörk materia kröker rymdtiden, vilket leder till subtila förvrängningar av ljuset från tusentals bakomliggande galaxer genom svag gravitationslinsning. Denna kartläggning är en del av Cosmic Evolution Survey och bygger vidare på tidigare observationer från Hubble-teleskopet. Webb-kartan innehåller omkring tio gånger fler galaxer än markbaserade observationer och dubbelt så många som Hubble-kartan. För att förfina avståndsmätningarna har forskarna även använt data från instrumentet MIRI som är särskilt känsligt för våglängder som kan tränga igenom kosmiska stoftmoln."
   },
   "terms": [
     {
-      "term": "röntgenstrålning",
-      "explanation": "Extremt kortvågigt och högenergetiskt ljus som avslöjar heta processer i universum."
+      "term": "galax",
+      "explanation": "Ett enormt system i rymden som samlar miljarder stjärnor, gas och stoft kring ett gemensamt centrum."
     },
     {
-      "term": "radiovågor",
-      "explanation": "Elektromagnetisk strålning med mycket långa våglängder som används för att studera kalla gasmoln."
+      "term": "gravitation",
+      "explanation": "En naturlig dragningskraft som drar mot varandra alla objekt som har massa i universum."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett instrument placerat ovanför jordens atmosfär för att observera världsrymden."
+      "term": "rymdtid",
+      "explanation": "En gemensam väv av rummets tre dimensioner och tidens en dimension som knyts ihop av fysikaliska lagar."
     },
     {
-      "term": "astronomer",
-      "explanation": "Forskare som studerar himlakroppar och universums fysikaliska ursprung."
+      "term": "kosmisk",
+      "explanation": "Något som rör rymden eller universum i en stor och övergripande skala."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine space as a giant musical wonderland where stars play music. Scientists have found a glowing cloud of gas that looks just like a musical treble clef, like a sign in a songbook. The Chandra space telescope took a peek at this exciting pattern floating far away in the dark.",
-      "nyborjare": "Astronomers have used NASA's Chandra X-ray Observatory to study the origin of a remarkable formation of radio waves. The formation has been nicknamed the Treble Clef because its unique shape resembles a musical symbol. By combining X-ray observations and radio waves, researchers can understand the violent processes in the universe that create these grand shapes.",
-      "entusiast": "Using the Chandra X-ray Observatory, astronomers have investigated the mechanisms behind the remarkable structure known as the Treble Clef. Originally detected in radio waves, the structure is studied in X-ray wavelengths to reveal the origin of the hot gas and particle winds. The unique appearance provides clues about how stellar winds and magnetic fields interact in star clusters or supernova remnants, enhancing our understanding of interstellar medium dynamics."
+      "barn": "Imagine space is full of secret ghosts we cannot see. This space telescope took a picture where scientists painted in blue where all these invisible ghosts are hiding. They do not shine with light, but they pull on stars and galaxies just like an invisible magnet. Scientists hunt for this mysterious force to understand how all galaxies were able to form a long time ago.",
+      "nyborjare": "This image from the James Webb Space Telescope shows nearly 800,000 galaxies in the constellation Sextans. Overlaid on the image is a blue map showing the location of dark matter. This is a mysterious and completely invisible substance that emits or blocks no light. Researchers can still find it because its gravity affects everything around it. When light from distant galaxies travels through space, it passes the invisible matter and becomes bent. This effect is called weak gravitational lensing and lets scientists calculate exactly where dark matter is located.",
+      "entusiast": "Researchers used data from the James Webb Space Telescope's Near-Infrared Camera to map dark matter in the constellation Sextans across an area of 0.54 square degrees. Because dark matter neither emits, reflects, nor absorbs light, it remains invisible to traditional telescopes. Its presence can nonetheless be inferred through its gravitational influence on regular matter. Large clumps of dark matter curve spacetime, leading to subtle distortions of light from thousands of background galaxies via weak gravitational lensing. This map forms part of the Cosmic Evolution Survey, building upon previous observations from the Hubble Space Telescope. The Webb map contains about ten times more galaxies than ground-based surveys and twice as many as the Hubble map. To refine distance measurements, researchers also utilized data from the MIRI instrument which is particularly adept at detecting galaxies obscured by cosmic dust clouds."
     },
     "terms": [
       {
-        "term": "X-ray",
-        "explanation": "Extremely short wavelength and high-energy light that reveals hot processes in the universe."
+        "term": "galaxy",
+        "explanation": "A massive cosmic system bound together by gravity containing billions of stars, gas, and dust."
       },
       {
-        "term": "radio waves",
-        "explanation": "Electromagnetic radiation with very long wavelengths used to study cold gas clouds."
+        "term": "gravity",
+        "explanation": "A natural force of attraction pulling together any objects with mass anywhere in the universe."
       },
       {
-        "term": "space telescope",
-        "explanation": "An instrument placed above earth's atmosphere to observe outer space."
+        "term": "spacetime",
+        "explanation": "A mathematical model combining the three dimensions of space with the single dimension of time."
       },
       {
-        "term": "astronomers",
-        "explanation": "Scientists who study celestial bodies and the physical origins of the universe."
+        "term": "cosmic",
+        "explanation": "Relating to the universe or outer space on a vast scale."
       }
     ],
     "quiz": [
       {
-        "q": "What kind of light is X-ray radiation?",
+        "q": "What is dark matter fundamentally?",
         "options": [
-          "Visible light with extreme brightness",
-          "Invisible and high-energy electromagnetic radiation",
-          "Thermal radiation emitted only by cool gas"
+          "A type of black holes scattered across space",
+          "An invisible substance that interacts only through gravity",
+          "A cloud of cosmic gas blocking all light"
         ],
         "correct": 1,
-        "fact": "X-rays are a form of high-energy electromagnetic radiation that cannot be seen with the naked eye."
+        "fact": "Dark matter neither emits nor absorbs light, making it entirely invisible to traditional telescopes and revealing itself solely through gravity."
       },
       {
-        "q": "What do X-ray images of space usually show?",
+        "q": "How can researchers detect something completely invisible?",
         "options": [
-          "Cold gas forming planets",
-          "Extremely hot processes like stellar winds and explosions",
-          "Reflected sunlight from distant asteroids"
-        ],
-        "correct": 1,
-        "fact": "X-ray observatories capture extremely hot gas and violent energy flows in the universe."
-      },
-      {
-        "q": "What is a star cluster in space?",
-        "options": [
-          "A collection of stars held together by gravity",
-          "The remnant of a single massive exploded star",
-          "A cloud of space dust blocking all light"
+          "By measuring how its gravity bends passing light",
+          "By searching for thermal radiation emitted from its surface",
+          "By measuring how quickly it cools down surrounding space"
         ],
         "correct": 0,
-        "fact": "Star clusters are large groups of stars bound together by mutual gravity."
+        "fact": "As light from distant galaxies travels through space, passing dark matter bends the light paths much like looking through a warped windowpane."
+      },
+      {
+        "q": "What is gravitational lensing?",
+        "options": [
+          "When massive stars act as natural magnifiers for planets",
+          "When massive objects warp spacetime and distort background light",
+          "When space telescopes use special lenses to see through dust"
+        ],
+        "correct": 1,
+        "fact": "Massive structures in the universe possess enough gravity to curve the fabric of spacetime itself, causing background galaxies to appear distorted."
       }
     ]
   }
