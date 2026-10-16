@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-16",
+  "title": "Neptune",
+  "title_sv": "Neptunus",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA02210/PIA02210~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA02210/PIA02210~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA02210/PIA02210~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA02210",
+  "credit": "NASA/JPL",
+  "taken": "1999",
+  "src": "library",
+  "id": "PIA02210",
+  "px": [
+    1000,
+    1000
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAYFB//EAB8QAAICAwADAQEAAAAAAAAAAAECAAMEBRETMXEGEv/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAAMBAQEAAAAAAAAAAAAAAAECAwAREv/aAAwDAQACEQMRAD8A5tESr0Gkx7MNMjIRbHsHQG9AfJpKRo3Bs6UEx06UiUn6PUUY1IvoVayDxlX0R8k3FJmbeTqjhx0ZKfTbqlMNMfIt8DVjgb+ehhJiInRpnq46Bxw7d3u3TLqGPS/kUHpfnOzCiJHcu3o6ogQcG//Z",
+  "quiz": [
+    {
+      "q": "Vilken färg har Neptunus på grund av metangas i atmosfären?",
+      "options": [
+        "Klart blå",
+        "Dammigt röd",
+        "Stark gul"
+      ],
+      "correct": 0,
+      "fact": "Atmosfärens innehåll av metan absorberar rött ljus och reflekterar blått ljus tillbaka ut i rymden."
+    },
+    {
+      "q": "Varför blåser det kraftigare vindar på Neptunus än på jorden?",
+      "options": [
+        "Solen värmer planeten mer",
+        "Atmosfären har mycket mindre friktion",
+        "Planeten saknar en fast yta"
+      ],
+      "correct": 2,
+      "fact": "Utan fast mark som bromsar upp luftmassorna kan vindarna nå enorma hastigheter i de övre gaslagren."
+    },
+    {
+      "q": "Hur långt ut i solsystemet ligger gasjätten Neptunus?",
+      "options": [
+        "Cirka 4,5 miljarder kilometer",
+        "Ungefär 900 miljoner kilometer",
+        "Drygt 15 miljarder kilometer"
+      ],
+      "correct": 0,
+      "fact": "Neptunus är den planet som ligger längst bort från solen i vårt solsystem."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en jättestor, blå glaskula som snurrar långt ute i den svarta rymden. Det är planeten Neptunus. Den är så långt borta från solen att det är iskallt där ute. Runt den blå planeten susar tunna, vita moln som ser ut som små sockerbitar av bomull. Den blå färgen kommer från en gas som gör att hela planeten ser ut som en skimrande karamell.",
+    "nyborjare": "Neptunus är den yttersta av solsystemets åtta planeter och en så kallad gasjätte. År 1989 flög rymdsonden Voyager 2 förbi planeten och tog skarpa bilder som avslöjade en intensivt blå värld. Den blå färgen beror på metangas i atmosfären som suger åt sig rött ljus. Eftersom Neptunus saknar en fast yta kan kraftiga vindar svepa fram i planetens gasskikt och skapa virvlar och ljusa moln av fryst metan.",
+    "entusiast": "Den historiska bilden av Neptunus togs av rymdsonden Voyager 2 den 14 augusti 1989 under dess närmandefas. Som den yttersta isjätten i vårt solsystem uppvisar Neptunus en dynamisk atmosfär trots sitt enorma avstånd från solen på cirka 30 astronomiska enheter. Kontrastförstärkningen i bilden lyfter fram de ljusa, tunna molnen som bildas på hög höjd när metangas kondenserar. Fysikaliskt drivs planetens extremt starka vindar, de kraftigaste i solsystemet, sannolikt av en inre värmekälla i kombination med rotationen."
+  },
+  "terms": [
+    {
+      "term": "gasjätte",
+      "explanation": "En stor planet som till största delen består av gaser i stället för fast sten och metall."
+    },
+    {
+      "term": "metangas",
+      "explanation": "En enkel kolförening som finns i gasform i yttre planeternas kalla atmosfärer."
+    },
+    {
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en himlakropp och hålls kvar av dess dragningskraft."
+    },
+    {
+      "term": "isjätte",
+      "explanation": "En planet som till stor del utgörs av tyngre grundämnen som syre, kol och kväve."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant blue glass marble spinning far out in the dark space. That is the planet Neptune. It is so far away from the Sun that it is freezing cold out there. Thin, white clouds drift around the blue globe, looking like small tufts of cotton candy. The blue color comes from a gas that makes the whole world look like a shimmering piece of candy.",
+      "nyborjare": "Neptune is the outermost of the eight planets in our solar system and classified as an ice giant. In August 1989, the Voyager 2 spacecraft flew past the planet and captured striking images revealing a vibrant blue world. This vivid color is caused by atmospheric methane gas absorbing red light. Because Neptune lacks a solid surface, fierce winds can sweep through its gaseous layers, creating swirling storm systems and bright wisps of high altitude clouds.",
+      "entusiast": "This historical contrast-enhanced image of Neptune was acquired by NASA Voyager 2 on August 14, 1989, during its historic approach. As the outermost ice giant, Neptune features a surprisingly dynamic atmosphere driven by internal heat sources despite its extreme distance from the Sun. The enhanced processing highlights bright, wispy clouds formed by condensed methane crystals high in the troposphere. Analyzing these cloud formations helps planetary scientists study wind dynamics and circulation patterns unique to the outer solar system."
+    },
+    "terms": [
+      {
+        "term": "ice giant",
+        "explanation": "A massive planet composed mostly of heavier elements like oxygen, carbon, and nitrogen rather than hydrogen."
+      },
+      {
+        "term": "methane",
+        "explanation": "A chemical compound existing as a gas that shapes the coloration of outer solar system worlds."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The layers of gases retained by the gravity of a planet or other celestial body."
+      },
+      {
+        "term": "troposphere",
+        "explanation": "The lowest region of a planetary atmosphere where weather phenomena and cloud formation take place."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What gives Neptune its characteristic striking blue color?",
+        "options": [
+          "Methane gas in the atmosphere",
+          "Liquid water oceans on the surface",
+          "Sunlight reflecting off ice sheets"
+        ],
+        "correct": 0,
+        "fact": "Methane in the upper atmosphere absorbs red wavelengths of light and reflects blue back into space."
+      },
+      {
+        "q": "Why can winds reach extreme speeds on Neptune?",
+        "options": [
+          "It orbits very close to the Sun",
+          "The planet lacks a solid surface",
+          "It rotates faster than any other planet"
+        ],
+        "correct": 2,
+        "fact": "Without solid ground to create friction, atmospheric gases can flow with very little resistance."
+      },
+      {
+        "q": "At what distance from the Sun does Neptune orbit?",
+        "options": [
+          "About 4.5 billion kilometers",
+          "Roughly 900 million kilometers",
+          "Over 15 billion kilometers"
+        ],
+        "correct": 0,
+        "fact": "Neptune is the eighth and most distant major planet from the Sun in our solar system."
+      }
+    ]
+  }
+}

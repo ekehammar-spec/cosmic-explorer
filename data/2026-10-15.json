@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Dark Matter Revealed in Webb, Hubble Observations",
-  "title_sv": "Mörk materia i Webb- och Hubble-observationer",
+  "title": "Chandra Finds Possible Origin of 'Treble Clef' Waves",
+  "title_sv": "Treble Clef-nebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA26703/PIA26703~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA26703/PIA26703~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA26703/PIA26703~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA26703",
-  "credit": "NASA/STScI/A. Pagan",
-  "taken": "2026",
-  "src": "library",
-  "id": "PIA26703",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
+  "link": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/shape-3601-3601/",
   "px": [
-    1920,
-    1080
+    1600,
+    1191
   ],
-  "w": 640,
-  "h": 360,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAADAQb/xAAlEAACAgEDAwQDAAAAAAAAAAABAgARAwQSIRMiMRRBQlGBwdH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAGxEAAgMAAwAAAAAAAAAAAAAAAAIBAxEhsdH/2gAMAwEAAhEDEQA/APA+qK4OiFXtYkN7zYOC2LJqBuULwFgWI3kj74mpzu5vI1kDixK1sziQik15TTdDbj7Hu65Ms/SOVcudi4ZNzBKu64gz0VVqLFvj9fmcfOXfcQt14riNN2LjCYI1hJxaeyTS/wAhB5lKTSML1xJw6WyT2fuDbzKUL+dGP//Z",
+  "w": 480,
+  "h": 357,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMGAQIH/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIAAxEEITEFMhITFEFRYXH/xAAYAQEAAwEAAAAAAAAAAAAAAAABAAIDBP/EABoRAQACAwEAAAAAAAAAAAAAAAEAAgMRITH/2gAMAwEAAhEDEQA/APOkUENnOw2wPePGjuIyqEjGeJvTnqS/NoLDjEptK9Y1NZLYqPco5YfE6ceOtq7Y1N2CSb1FO4fW8VKTriUVqfLuWwpsv5JuZ5alXkiadM1SQwxzHeotTClifCeMwhKFk8hObr3uYFzuNoqEIPYqvWf/2Q==",
   "quiz": [
     {
-      "q": "Vad är mörk materia för något?",
+      "q": "Vad är röntgenstrålning för slags ljus?",
       "options": [
-        "En osynlig substans som drar med sig materia",
-        "Ett svart hål i centrum av varje galax",
-        "Rester från universums allra första döda stjärnor"
-      ],
-      "correct": 0,
-      "fact": "Mörk materia är en osynlig komponent som inte avger ljus men vars gravitation påverkar hur vanlig materia fördelas."
-    },
-    {
-      "q": "Varför används rymdteleskop för att studera universum?",
-      "options": [
-        "De svävar närmare stjärnorna för att mäta temperatur",
-        "De undviker jordatmosfären som stör skarpa observationer",
-        "De kan resa till avlägsna galaxer och samla prover"
+        "Synligt ljus med extremt hög styrka",
+        "Osynlig och högenergetisk elektromagnetisk strålning",
+        "Värmestrålning som bara sänds ut av gas"
       ],
       "correct": 1,
-      "fact": "Genom att placera teleskop i rymden undviker forskarna atmosfärens störningar och får betydligt skarpare bilder."
+      "fact": "Röntgenstrålning är en form av högenergetisk elektromagnetisk strålning som inte kan ses med blotta ögat."
     },
     {
-      "q": "Hur bidrar James Webb-teleskopet till rymdforskningen?",
+      "q": "Vad visar röntgenbilder av rymden oftast?",
       "options": [
-        "Det fotograferar enbart planeter inom vårt solsystem",
-        "Det mäter enbart avstånd mellan olika solsystem",
-        "Det ger nya insikter om universums tidiga strukturer"
+        "Kall gas som håller på att bilda planeter",
+        "Extremt heta processer som stjärnvindar och explosioner",
+        "Reflekterat solljus från avlägsna asteroider"
       ],
-      "correct": 2,
-      "fact": "Webb-teleskopet hjälper forskare att förstå universums ursprung och hur mystiska strukturer har byggts upp över tid."
+      "correct": 1,
+      "fact": "Röntgenobservatorier fångar upp extremt het gas och våldsamma energiflöden i universum."
+    },
+    {
+      "q": "Vad är en stjärnhop i rymden?",
+      "options": [
+        "En samling stjärnor som hålls ihop av gravitation",
+        "Resterna efter en enda stor stjärna som exploderat",
+        "Ett moln av rymdstoft som blockerar allt ljus"
+      ],
+      "correct": 0,
+      "fact": "Stjärnhopar är stora grupper av stjärnor som är bundna till varandra genom ömsesidig gravitation."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att rymden är som ett stort trolleri där det mesta är osynligt. Forskarna har tagit två bilder av samma ställe i rymden, en från år 2007 och en nyare. Den nya bilden är mycket skarpare, ungefär som att byta till ett par jättestarka glasögon. Då kan forskarna se hur den osynliga magiska materien drar i stjärnor och planeter utan att vi kan se den med våra vanliga ögon.",
-    "nyborjare": "Dessa två bilder visar samma område i rymden men är tagna med olika instrument. Bilden till vänster togs av Hubble-teleskopet år 2007, och bilden till höger kommer från James Webb-teleskopet. Eftersom det nyare teleskopet har en mycket högre upplösning kan forskarna studera hur den mystiska mörka materien påverkar fördelningen av vanlig materia. Mörk materia är en osynlig komponent som inte sänder ut ljus, men som ändå avslöjar sig genom sin tyngdkraft. Genom att jämföra observationerna från olika år får astronomer nya ledtrådar om hur strukturer i universum har formats.",
-    "entusiast": "Jämförelsen mellan Hubble-teleskopets observationer från 2007 och James Webb-teleskopets data från 2026 ger forskare en unik inblick i universums storskaliga struktur. Mörk materia interagerar inte med elektromagnetisk strålning, vilket gör den osynlig för konventionella instrument, men dess gravitationsinflytande kan kartläggas genom gravitationslinser. Webb-teleskopets förbättrade upplösning och känslighet inom infrarött ljus möjliggör mer exakta mätningar av hur denna osynliga massa formar den synliga materiens distribution. Programmet bakom teleskopet är ett internationellt samarbete mellan NASA, ESA och CSA, där avancerade instrument som MIRI spelar en avgörande roll för att belysa universums tidiga utveckling och ursprung."
+    "barn": "Tänk dig att rymden är en stor musikalisk sagovärld där stjärnorna spelar musik. Forskare har hittat ett moln av glödande gas som ser precis ut som en G-klav, precis som ett tecken i en notbok. Det är rymdteleskopet Chandra som har tagit en titt på detta spännande mönster som svävar långt borta i mörkret.",
+    "nyborjare": "Astronomer har använt NASA:s Chandra X-ray Observatory för att studera ursprunget till en märklig formation av radiovågor. Formationen har fått smeknamnet Treble Clef eftersom dess unika form påminner om en G-klav. Genom att kombinera röntgenobservationer och radiovågor kan forskarna förstå vilka våldsamma processer i universum som skapar dessa storslagna former.",
+    "entusiast": "Med hjälp av Chandra X-ray Observatory har astronomer undersökt mekanismerna bakom den remarkabla struktur som kallas Treble Clef. Strukturen upptäcktes ursprungligen i radiovågor men studeras i röntgenintervall för att blottlägga ursprunget till den heta gasen och partikelvindarna. Det unika utseendet ger ledtrådar om hur stjärnvindar och magnetfält samverkar i stjärnhopar eller supernovarester, vilket ökar vår förståelse för dynamiken i den interstellära mediumstrukturen."
   },
   "terms": [
     {
-      "term": "mörk materia",
-      "explanation": "En osynlig substans i rymden som inte avger ljus men som drar i andra objekt med sin tyngdkraft."
+      "term": "röntgenstrålning",
+      "explanation": "Extremt kortvågigt och högenergetiskt ljus som avslöjar heta processer i universum."
     },
     {
-      "term": "upplösning",
-      "explanation": "Ett mått på hur detaljerad och skarp en bild eller observation är."
+      "term": "radiovågor",
+      "explanation": "Elektromagnetisk strålning med mycket långa våglängder som används för att studera kalla gasmoln."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den dragnskraft som massiva objekt i universum utövar på varandra."
+      "term": "rymdteleskop",
+      "explanation": "Ett instrument placerat ovanför jordens atmosfär för att observera världsrymden."
     },
     {
-      "term": "infrarött ljus",
-      "explanation": "En typ av värmestrålning som mänskliga ögon inte kan se men som rymdteleskop kan uppfatta."
+      "term": "astronomer",
+      "explanation": "Forskare som studerar himlakroppar och universums fysikaliska ursprung."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine space is like a huge magic trick where most things are invisible. Scientists took two pictures of the exact same spot in space, one from 2007 and a newer one. The new picture is much sharper, sort of like putting on a pair of giant super glasses. This helps researchers see how the invisible magic matter pulls on stars and planets without us seeing it with our normal eyes.",
-      "nyborjare": "These two images show the same region in space but were captured using different instruments. The image on the left was taken by the Hubble Space Telescope in 2007, and the image on the right comes from the James Webb Space Telescope. Because the newer telescope has a much higher resolution, scientists can study how mysterious dark matter influences the distribution of ordinary matter. Dark matter is an invisible component that does not emit light, yet reveals itself through gravity. By comparing observations from different years, astronomers gain new clues about how cosmic structures formed.",
-      "entusiast": "The comparison between Hubble Space Telescope observations from 2007 and James Webb Space Telescope data from 2026 provides researchers with unique insight into the large-scale structure of the universe. Dark matter does not interact with electromagnetic radiation, making it invisible to conventional instruments, but its gravitational influence can be mapped through gravitational lensing. Webb's improved resolution and sensitivity in infrared light enable more precise measurements of how this invisible mass shapes the distribution of visible matter. The program behind the telescope is an international collaboration led by NASA with ESA and CSA, where advanced instruments like MIRI play a crucial role in illuminating the early evolution and origins of the universe."
+      "barn": "Imagine space as a giant musical wonderland where stars play music. Scientists have found a glowing cloud of gas that looks just like a musical treble clef, like a sign in a songbook. The Chandra space telescope took a peek at this exciting pattern floating far away in the dark.",
+      "nyborjare": "Astronomers have used NASA's Chandra X-ray Observatory to study the origin of a remarkable formation of radio waves. The formation has been nicknamed the Treble Clef because its unique shape resembles a musical symbol. By combining X-ray observations and radio waves, researchers can understand the violent processes in the universe that create these grand shapes.",
+      "entusiast": "Using the Chandra X-ray Observatory, astronomers have investigated the mechanisms behind the remarkable structure known as the Treble Clef. Originally detected in radio waves, the structure is studied in X-ray wavelengths to reveal the origin of the hot gas and particle winds. The unique appearance provides clues about how stellar winds and magnetic fields interact in star clusters or supernova remnants, enhancing our understanding of interstellar medium dynamics."
     },
     "terms": [
       {
-        "term": "dark matter",
-        "explanation": "An invisible substance in space that emits no light but pulls on other objects with its gravity."
+        "term": "X-ray",
+        "explanation": "Extremely short wavelength and high-energy light that reveals hot processes in the universe."
       },
       {
-        "term": "resolution",
-        "explanation": "A measure of how detailed and sharp an image or observation is."
+        "term": "radio waves",
+        "explanation": "Electromagnetic radiation with very long wavelengths used to study cold gas clouds."
       },
       {
-        "term": "gravity",
-        "explanation": "The pulling force that massive objects in the universe exert on each other."
+        "term": "space telescope",
+        "explanation": "An instrument placed above earth's atmosphere to observe outer space."
       },
       {
-        "term": "infrared light",
-        "explanation": "A type of thermal radiation that human eyes cannot see but space telescopes can detect."
+        "term": "astronomers",
+        "explanation": "Scientists who study celestial bodies and the physical origins of the universe."
       }
     ],
     "quiz": [
       {
-        "q": "What is dark matter?",
+        "q": "What kind of light is X-ray radiation?",
         "options": [
-          "An invisible substance that pulls on matter",
-          "A black hole at the center of every galaxy",
-          "Remnants from the universe's first dead stars"
-        ],
-        "correct": 0,
-        "fact": "Dark matter is an invisible component that emits no light but whose gravity affects how ordinary matter is distributed."
-      },
-      {
-        "q": "Why do we use space telescopes?",
-        "options": [
-          "They float closer to stars to measure temperature",
-          "They avoid Earth's atmosphere which blurs observations",
-          "They can travel to distant galaxies to collect samples"
+          "Visible light with extreme brightness",
+          "Invisible and high-energy electromagnetic radiation",
+          "Thermal radiation emitted only by cool gas"
         ],
         "correct": 1,
-        "fact": "By placing telescopes in space, scientists avoid atmospheric distortion and obtain significantly sharper images."
+        "fact": "X-rays are a form of high-energy electromagnetic radiation that cannot be seen with the naked eye."
       },
       {
-        "q": "How does the James Webb Space Telescope help research?",
+        "q": "What do X-ray images of space usually show?",
         "options": [
-          "It exclusively photographs planets within our solar system",
-          "It strictly measures distances between different star systems",
-          "It provides new insights into early cosmic structures"
+          "Cold gas forming planets",
+          "Extremely hot processes like stellar winds and explosions",
+          "Reflected sunlight from distant asteroids"
         ],
-        "correct": 2,
-        "fact": "The Webb telescope helps scientists understand the origins of the universe and how mysterious structures formed over time."
+        "correct": 1,
+        "fact": "X-ray observatories capture extremely hot gas and violent energy flows in the universe."
+      },
+      {
+        "q": "What is a star cluster in space?",
+        "options": [
+          "A collection of stars held together by gravity",
+          "The remnant of a single massive exploded star",
+          "A cloud of space dust blocking all light"
+        ],
+        "correct": 0,
+        "fact": "Star clusters are large groups of stars bound together by mutual gravity."
       }
     ]
   }

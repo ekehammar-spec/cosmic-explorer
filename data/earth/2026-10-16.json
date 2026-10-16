@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-16",
+  "title": "Nighttime View of California’s Rim Fire",
+  "title_sv": "Nattlig bild av skogsbranden Rim Fire i Kalifornien",
+  "place": "Kalifornien, USA",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001400/GSFC_20171208_Archive_e001400~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001400/GSFC_20171208_Archive_e001400~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001400/GSFC_20171208_Archive_e001400~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001400",
+  "credit": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using VIIRS Day Night Band data",
+  "source": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using VIIRS Day Night Band data.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001400",
+  "archive": true,
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAMFAgb/xAAkEAABAwIGAwEBAAAAAAAAAAABAgMRAAQSEyEiMVEFQXEUMv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzdzc43w2ImjurAawxDgOsfaOHC5cZgEdfKsppYQVEbTu1oOmnClpUgEHTWr2gELyxEjkjijlWwBPA5mnMD81upalCACT8igzrdonCkcqpTil5WEfyPVRnLUFdU5AQ6zqmAaADTWJ6E6oKh7mr+beDVmG0ky6Y1691axUEEM7FIklJwjED1PVY/mn87yBSDta2j77oP//Z",
+  "levels": {
+    "barn": "Tänk dig att titta ner på jorden från rymden mitt i natten. På den här bilden från år 2013 ser du en stor skogsbrand som glöder med ett starkt, vitt ljus. Den lyser till och med starkare än lamporna i städerna i närheten. Det sprider sig också en ljusgrå rök från elden som drar iväg norrut. Brandmän jobbade hårt med att stoppa elden så den inte skulle nå fram till stora träd och hus.",
+    "nyborjare": "Den här satellitbilden från augusti 2013 visar den dramatiska skogsbranden Rim Fire i Kalifornien. Bilden är tagen på natten med hjälp av en speciell teknik som kan uppfatta svagt ljus från rymden. De vitaste och starkaste partierna visar själva eldfronten, vilken faktiskt lyser starkare än stadsljusen i Reno i norr. Runt omkring breder ljusgrå rök ut sig. Elden hotade både bebyggelse och delar av den kända nationalparken Yosemite. Brandmännen kämpade intensivt med att hejda lågorna på både den västra och östra sidan för att skydda naturvärden och samhällen.",
+    "entusiast": "Bilden är insamlad mellan den 23 och 26 augusti 2013 av instrumentet VIIRS, Visible Infrared Imaging Radiometer Suite, som sitter ombord på satelliten Suomi NPP. Det är instrumentets dag-natt-band, en sensor med extrem känslighet för låga ljusnivåer på natten, som gör det möjligt att avbilda lågorna direkt från rymden. De intensivaste delarna av branden lyser vitt och överträffar ljuset från städer som Reno i Nevada. Forskare och brandledare använde dessa nattliga data för att följa hur eldfronten flyttade sig dag för dag beroende på vindar och släckningsinsatser. Branden startade den 17 augusti och växte till att bli den trettonde största i Kalifornien sedan mitten av förra seklet, vilket satte hård press på insatserna att skydda bland annat jätteträden i Yosemite National Park."
+  },
+  "terms": [
+    {
+      "term": "Rim Fire",
+      "explanation": "En stor skogsbrand i Kalifornien som bröt ut i augusti 2013 och hotade Yosemite National Park."
+    },
+    {
+      "term": "Suomi NPP",
+      "explanation": "En satellit som bar instrumentet för att spåra eldens tillväxt via nattliga bilder."
+    },
+    {
+      "term": "Yosemite National Park",
+      "explanation": "En känd amerikansk nationalpark som hotades av skogsbranden."
+    },
+    {
+      "term": "VIIRS",
+      "explanation": "Ett instrument som är extremt känsligt för lågt ljus och gjorde det möjligt att se eldfronten från rymden."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine looking down at Earth from space in the middle of the night. In this picture from 2013, you can see a large forest fire glowing with a bright white light. It shines even brighter than the lights of nearby cities. A pale gray smoke also spreads from the fire and drifts north. Firefighters worked hard to stop the flames from reaching big trees and homes.",
+      "nyborjare": "This satellite image from August 2013 shows the dramatic Rim Fire in California. The picture was taken at night using a special technology capable of detecting faint light from space. The whitest and most intense parts show the fire front itself, which actually glows brighter than the city lights of Reno to the north. Pale gray smoke streams away from the fire. The blaze threatened both communities and parts of the famous Yosemite National Park. Firefighters worked intensively to hold back the flames on both the western and eastern edges to protect natural treasures and towns.",
+      "entusiast": "The image was captured between August 23 and 26, 2013, by the Visible Infrared Imaging Radiometer Suite, or VIIRS, aboard the Suomi NPP satellite. The sensor's day-night band is extremely sensitive to low light levels at night, making it possible to image the fire front directly from space. The brightest parts of the fire glow white, exceeding the lights of cities like Reno, Nevada. Researchers and fire managers used these nighttime data to track how the fire front shifted day by day depending on winds and firefighting efforts. The fire started on August 17 and grew to become the thirteenth largest in California since 1932, putting severe pressure on efforts to protect giant sequoias and other park areas."
+    },
+    "terms": [
+      {
+        "term": "Rim Fire",
+        "explanation": "A major wildfire in California that began in August 2013 and threatened Yosemite National Park."
+      },
+      {
+        "term": "Suomi NPP",
+        "explanation": "A satellite carrying the instrument used to track the fire's growth through nighttime imagery."
+      },
+      {
+        "term": "Yosemite National Park",
+        "explanation": "A renowned American national park that was threatened by the wildfire."
+      },
+      {
+        "term": "VIIRS",
+        "explanation": "An instrument extremely sensitive to low light that made it possible to see the fire front from space."
+      }
+    ],
+    "place": "California, USA"
+  }
+}
