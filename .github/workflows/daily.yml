@@ -2,8 +2,10 @@ name: Dagens bild
 
 on:
   schedule:
-    - cron: "23 4 * * *"    # 06.23 svensk sommartid (05.23 vintertid)
-    - cron: "41 9 * * *"    # reservkörning 11.41 svensk sommartid, ifall den första uteblev
+    # GitHub startar ofta schemalagda jobb flera timmar sent, så första försöket ligger mitt i natten.
+    - cron: "17 0 * * *"    # 02.17 svensk sommartid (01.17 vintertid)
+    - cron: "43 3 * * *"    # första reserv, 05.43 sommartid
+    - cron: "41 9 * * *"    # sista reserv, 11.41 sommartid
   workflow_dispatch:        # kan också startas för hand under fliken Actions
 
 permissions:
