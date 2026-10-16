@@ -140,6 +140,9 @@ const TOPICS = ["hubble nebula", "saturn cassini", "galaxy hubble", "mars surfac
 const CENTERS = ["JPL", "GSFC", "STScI"];   // forskningscentren. Huvudkontorets bilder är mest människor och evenemang.
 const NOT_PHOTO = /illustration|artist|concept|rendering|diagram|graphic|infographic|logo|poster|animation|chart|schematic|spectrum|spectra|\bplot\b|\bgraph\b|simulation|model of|engineers?|technicians?|clean ?room|\bteam\b|launch|rollout|testing|assembly|spacecraft (is|was|being)|press conference|briefing/i;
 // Hopsatta bilder ser trasiga ut i helskärm: jämförelser sida vid sida, kollage, före och efter, bilder med påskrifter.
+// Två teleskop i samma rubrik betyder nästan alltid två bilder sida vid sida.
+const SCOPES = "Webb|Hubble|Chandra|Spitzer|XMM|Euclid|Roman|ALMA|Keck|Gemini|WISE";
+const TWO_SCOPES = new RegExp(`\\b(${SCOPES})\\b[^.]{0,40}(,|\\band\\b|&|\\+)\\s*(NASA'?s\\s+)?\\b(${SCOPES})\\b`, "i");
 const COMPOSITE = /comparison|compared|side[- ]by[- ]side|\bvs\.?\b|versus|montage|collage|mosaic of images|before and after|annotated|labell?ed|\bpanels?\b|\(left\)|\(right\)|images? side/i;
 async function libraryCandidates(topic, center, page) {
   const url = `${LIBRARY}/search?q=${encodeURIComponent(topic)}&media_type=image&center=${center}&page_size=60&page=${page}`;
@@ -150,7 +153,7 @@ async function libraryCandidates(topic, center, page) {
     src: "library", id: d.nasa_id, title: String(d.title || "").trim(), explanation: strip(String(d.description || "")),
     credit: String(d.secondary_creator || d.photographer || "").trim() || "NASA/" + (d.center || center),
     link: "https://images.nasa.gov/details/" + encodeURIComponent(d.nasa_id), taken: String(d.date_created || "").slice(0, 4)
-  })).filter(c => c.id && c.title && c.explanation.length > 200 && nasaOwned(c.credit) && !NOT_PHOTO.test(c.title + " " + c.explanation.slice(0, 400)) && !COMPOSITE.test(c.title));
+  })).filter(c => c.id && c.title && c.explanation.length > 200 && nasaOwned(c.credit) && !NOT_PHOTO.test(c.title + " " + c.explanation.slice(0, 400)) && !COMPOSITE.test(c.title) && !TWO_SCOPES.test(c.title));
 }
 // Arkivet har inte alla storlekar av varje bild, så vi frågar vilka som finns.
 async function libraryAsset(c) {
