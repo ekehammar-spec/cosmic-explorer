@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-17",
+  "title": "NASA Spacecraft Sees 'Pac-Man' on Saturn Moon",
+  "title_sv": "Temperaturkarta och yta på Saturnus måne Mimas",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002072/GSFC_20171208_Archive_e002072~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002072/GSFC_20171208_Archive_e002072~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002072/GSFC_20171208_Archive_e002072~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002072",
+  "credit": "NASA/GSFC",
+  "taken": "2017",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e002072",
+  "px": [
+    1870,
+    949
+  ],
+  "w": 640,
+  "h": 324,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAwUCBAb/xAAhEAACAgICAgMBAAAAAAAAAAABAgMEAAURMSIyEiFBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAIBEQMhMfD/2gAMAwEAAhEDEQA/AMtptGluASynkv6j8GB2+qjrhngP0p4YZLU7oVYVik5Hx6OC2u0SyGWIex5JwBtQ1FKClFJYQT2JRyFJ8V/uKNnRRFaWJAgB6HWXqe4ry0lhn8Jox4vi/YXxIhiVgwPZGVwKsI0v31UVyVWuH//Z",
+  "quiz": [
+    {
+      "q": "Vilken jätteplanet kretsar den lilla ismånen Mimas runt?",
+      "options": [
+        "Saturnus",
+        "Jupiter",
+        "Neptunus"
+      ],
+      "correct": 0,
+      "fact": "Mimas är en av Saturnus innersta större månar och upptäcktes år 1789 av William Herschel."
+    },
+    {
+      "q": "Vad orsakade den enorma sänkan på Mimas yta?",
+      "options": [
+        "Ett kollapsat underjordiskt hav",
+        "En kraftig kollision med en asteroid",
+        "Intensiv vulkanisk aktivitet från manteln"
+      ],
+      "correct": 1,
+      "fact": "Den gigantiska Herschel-kratern bildades när en rymdsten krockade med månen utan att spräcka den."
+    },
+    {
+      "q": "Vad består Mimas yta huvudsakligen av?",
+      "options": [
+        "Fast järn och nickel",
+        "Mörk basaltisk lava",
+        "Mycket kall vattenis"
+      ],
+      "correct": 2,
+      "fact": "Mimas har mycket låg densitet och består nästan uteslutande av frusen vattenis med lite sten."
+    }
+  ],
+  "levels": {
+    "barn": "Det här är Mimas, en liten och iskall måne som snurrar runt planeten Saturnus. Den ser nästan ut som en enorm snöboll i rymden. Till vänster ser du ett jättestort runt märke som kallas krater. Det bildades när en stor rymdsten krockade med månen för länge sedan. Till höger har forskare mätt värmen på månen. De varmare områdena råkade bilda ett mönster som ser ut precis som den klassiska spelfiguren Pac-Man som gapar efter prickar!",
+    "nyborjare": "Mimas är en av Saturnus många ismånar och mäter knappt 400 kilometer tvärs över. År 2010 presenterade forskare dessa mätningar från rymdsonden Cassini. Den vänstra bilden visar månen i vanligt synligt ljus, där den domineras av den 130 kilometer breda Herschel-kratern efter en forntida jättesmäll. Den högra bilden visar en temperaturkarta baserad på infraröd strålning. I stället för jämna temperaturer upptäckte forskarna en oväntad form som påminner om arkadikonen Pac-Man. Det märkliga mönstret beror troligen på att elektronstrålning från Saturnus magnetosfär har packat ihop ytisens kristaller, vilket förändrat hur ytan leder och behåller solvärme.",
+    "entusiast": "Saturnus måne Mimas är mest känd för sitt kraftigt kraterbelagda yttre där nedslagskratern Herschel ger månen dess karakteristiska utseende. Mimas har en medelradie på cirka 198 kilometer och en densitet på endast 1,15 gram per kubikcentimeter, vilket visar att himlakroppen nästan uteslutande består av vattenis med en mycket liten silikatkärna. År 2010 kartlade rymdsonden Cassini månens temperaturer med sitt infraröda spektrometerinstrument. Mätningarna visade en skarp och oväntad termisk anomali med en distinkt V-form som påminner om Pac-Man, snarare än en mjuk temperaturgradient centrerad kring middagssolen vid ekvatorn. Detta fenomen förklaras av att högenergetiska elektroner fångade i Saturnus magnetosfär bombarderar framsidan av månen i dess banrörelse. Strålningen sintrar den porösa ytsnön till kompakt is med betydligt högre termisk tröghet. Den kompakta isen leder ned värme i djupet snabbare under dagen och strålar ut den långsammare, vilket ger nya insikter om rymdvittring på isiga månar."
+  },
+  "terms": [
+    {
+      "term": "Herschel-kratern",
+      "explanation": "En gigantisk nedslagskrater på Mimas, uppkallad efter astronomen William Herschel."
+    },
+    {
+      "term": "synligt ljus",
+      "explanation": "Det elektromagnetiska spektrum som det mänskliga ögat kan uppfatta naturligt."
+    },
+    {
+      "term": "temperaturkarta",
+      "explanation": "En bild som visualiserar temperaturskillnader över en yta med olika färgtoner."
+    },
+    {
+      "term": "magnetosfär",
+      "explanation": "Området runt en planet där dess magnetfält styr elektriskt laddade partiklar."
+    },
+    {
+      "term": "termisk anomali",
+      "explanation": "En lokal avvikelse där temperaturen skiljer sig oväntat mycket från omgivningen."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This is Mimas, a small and freezing moon orbiting the planet Saturn. It looks like a giant snowball floating out in space. On the left side, you can see a huge circular dent called a crater. It formed when a large space rock crashed into the moon long ago. On the right side, scientists measured heat across the moon. The warmer regions happen to look just like the vintage arcade character Pac-Man opening his mouth to chomp!",
+      "nyborjare": "Mimas is one of Saturn's icy moons, measuring just under 400 kilometers across. In 2010, data from NASA's Cassini spacecraft revealed surprising details about this frozen world. The left image shows Mimas in visible light, where the huge 130-kilometer-wide Herschel crater dominates the view after a near-catastrophic collision. The right image is a temperature map created from infrared data. Instead of smooth temperature changes, scientists found an unexpected thermal shape resembling the classic arcade character Pac-Man. This happens because energetic particles in Saturn's magnetic environment altered the surface texture, changing how efficiently the ice holds and spreads solar warmth.",
+      "entusiast": "Saturn's moon Mimas is renowned for its heavily cratered terrain, dominated by the colossal Herschel crater that gives it an uncanny appearance. Mimas has a mean radius of roughly 198 kilometers and a bulk density of just 1.15 grams per cubic centimeter, indicating a composition dominated by water ice with minimal rock. In 2010, thermal mapping from the Cassini spacecraft's infrared spectrometer revealed a startling V-shaped thermal anomaly resembling Pac-Man instead of the expected equatorial solar warming pattern. This temperature structure corresponds to regions of high thermal inertia on the leading hemisphere. High-energy electrons circulating in Saturn's magnetosphere bombard the moon's leading side, sintering the loose, powdery surface ice into dense, hard-packed ice that conducts heat far more rapidly into the subsurface. This unique interaction highlights the dramatic effects of space weathering on outer solar system bodies."
+    },
+    "terms": [
+      {
+        "term": "Herschel crater",
+        "explanation": "A massive impact basin covering a substantial portion of the moon Mimas."
+      },
+      {
+        "term": "visible light",
+        "explanation": "The range of electromagnetic radiation that human eyes can naturally detect."
+      },
+      {
+        "term": "temperature map",
+        "explanation": "A graphic that shows variations in heat and thermal emission across a surface."
+      },
+      {
+        "term": "thermal anomaly",
+        "explanation": "A localized area where temperature deviates significantly from the expected normal values."
+      },
+      {
+        "term": "magnetosphere",
+        "explanation": "A magnetic bubble around a planet that traps and deflects charged particles."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Which giant planet does the small icy moon Mimas orbit?",
+        "options": [
+          "Saturn",
+          "Jupiter",
+          "Neptune"
+        ],
+        "correct": 0,
+        "fact": "Mimas is one of Saturn's inner major moons and was discovered in 1789 by William Herschel."
+      },
+      {
+        "q": "What caused the massive depression on Mimas's surface?",
+        "options": [
+          "A collapsed subsurface ocean",
+          "A powerful collision with an asteroid",
+          "Intense volcanic activity from the mantle"
+        ],
+        "correct": 1,
+        "fact": "The giant Herschel crater formed when a large impactor struck Mimas without shattering it entirely."
+      },
+      {
+        "q": "What is the surface of Mimas primarily made of?",
+        "options": [
+          "Solid iron and nickel",
+          "Dark basaltic lava",
+          "Extremely cold water ice"
+        ],
+        "correct": 2,
+        "fact": "Mimas has a very low density, proving it is composed almost entirely of water ice with little rock."
+      }
+    ]
+  }
+}

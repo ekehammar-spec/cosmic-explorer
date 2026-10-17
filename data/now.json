@@ -1,36 +1,36 @@
 {
- "updated": "2026-10-16T14:12:50.714Z",
+ "updated": "2026-10-17T04:24:55.021Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-16T06:00:00Z",
+   "date": "2026-10-16T18:00:00Z",
+   "title_sv": "Tyfonen Champi",
+   "title_en": "Typhoon Champi",
+   "where_sv": "Västra Stilla havet",
+   "where_en": "Western Pacific",
+   "value_sv": "vindar på 140 km/h",
+   "value_en": "winds of 140 km/h"
+  },
+  {
+   "kind": "storm",
+   "date": "2026-10-16T18:00:00Z",
    "title_sv": "Orkanen Trudy",
    "title_en": "Hurricane Trudy",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 195 km/h",
-   "value_en": "winds of 195 km/h"
+   "value_sv": "vindar på 140 km/h",
+   "value_en": "winds of 140 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-13T18:00:00Z",
-   "title_sv": "Tropiska stormen Koguma",
-   "title_en": "Tropical Storm Koguma",
-   "where_sv": "Västra Stilla havet",
-   "where_en": "Western Pacific",
-   "value_sv": "vindar på 95 km/h",
-   "value_en": "winds of 95 km/h"
-  },
-  {
-   "kind": "storm",
-   "date": "2026-10-16T00:00:00Z",
-   "title_sv": "Tropiska stormen Champi",
-   "title_en": "Tropical Storm Champi",
-   "where_sv": "Västra Stilla havet",
-   "where_en": "Western Pacific",
-   "value_sv": "vindar på 85 km/h",
-   "value_en": "winds of 85 km/h"
+   "date": "2026-10-16T18:00:00Z",
+   "title_sv": "Tropiska stormen 01P",
+   "title_en": "Tropical Storm 01P",
+   "where_sv": "Södra Stilla havet",
+   "where_en": "Southern Pacific",
+   "value_sv": "vindar på 75 km/h",
+   "value_en": "winds of 75 km/h"
   },
   {
    "kind": "ice",

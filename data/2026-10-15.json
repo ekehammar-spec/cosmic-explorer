@@ -1,134 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Webb Data Reveals Dark Matter",
-  "title_sv": "Webb avslöjar mörk materia",
+  "title": "Dust Rings in the Wolf-Rayet 140 System",
+  "title_sv": "Stoftringar runt Wolf-Rayet 140",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA26702/PIA26702~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA26702/PIA26702~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA26702/PIA26702~orig.png",
-  "link": "https://images.nasa.gov/details/PIA26702",
-  "credit": "NASA/STScI/J. DePasquale/A. Pagan",
-  "taken": "2026",
+  "url": "https://images-assets.nasa.gov/image/PIA25432/PIA25432~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA25432/PIA25432~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA25432/PIA25432~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA25432",
+  "credit": "NASA/ESA/CSA/STScl/JPL-Caltech",
+  "taken": "2022",
   "src": "library",
-  "id": "PIA26702",
+  "id": "PIA25432",
   "px": [
-    1724,
-    1920
+    1920,
+    1324
   ],
-  "w": 574,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgEDBv/EACIQAAEEAgEEAwAAAAAAAAAAAAEAAgMREiExBBNBUTJhcf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABgRAQEBAQEAAAAAAAAAAAAAABEAARIh/9oADAMBAAIRAxEAPwDi+kljjflI0kj4/qPcAeXACysM6frYvQKt2QrdeFHjFk8b45TkgdHiHVZGXKkr8q0BXpYkm0aTjssAPKTiI5LYbrgoNBLCbRG/KG0Tc7I37RMh0Na+lDrSiGTL/9k=",
+  "w": 640,
+  "h": 441,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIDBQEEB//EACIQAAIBAwMFAQAAAAAAAAAAAAECAAMRMQQFIRITIkFR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABgRAQADAQAAAAAAAAAAAAAAAAABAiER/9oADAMBAAIRAxEAPwDnvXziMqhjIvctNnakurTvqGpX8gfkoRG8aaUWNzayj3MMBgS73urQd7aUBKYwnz9lCTGuqvXmEUcyZXK4hCaESVnLZN4hMIRMP//Z",
   "quiz": [
     {
-      "q": "Vad är mörk materia för något?",
+      "q": "Vad orsakar de koncentriska ringarna runt stjärnparet?",
       "options": [
-        "En typ av svarta hål som sprids över universum",
-        "En osynlig substans som bara interagerar via gravitation",
-        "Ett moln av kosmisk gas som blockerar allt ljus"
-      ],
-      "correct": 1,
-      "fact": "Mörk materia varken avger eller absorberar ljus, vilket gör den helt osynlig för vanliga teleskop. Den avslöjar sig enbart genom sin dragningskraft."
-    },
-    {
-      "q": "Hur kan forskare upptäcka något som är helt osynligt?",
-      "options": [
-        "Genom att mäta hur dess gravitation böjer av ljus",
-        "Genom att leta efter värmestrålning från dess yta",
-        "Genom att mäta hur snabbt den kyler ner rymden"
+        "Kollisioner mellan kraftiga stjärnvindar",
+        "Pulserande gravitationsvågor från centrum",
+        "Resterna av exploderade månar"
       ],
       "correct": 0,
-      "fact": "När ljus från avlägsna galaxer passerar genom områden med mycket mörk materia böjs ljuset av på samma sätt som genom en skev glasruta."
+      "fact": "När stjärnorna möts i sina banor kolliderar deras gasvindar och pressar samman gas till kosmiskt stoft."
     },
     {
-      "q": "Vad är gravitationslinsning för ett fenomen?",
+      "q": "Hur ofta bildas en ny ring i systemet?",
       "options": [
-        "När stora stjärnor fungerar som förstoringsglas för planeter",
-        "När massiva objekt böjer rymdens väv och snedvrider ljus",
-        "När rymdteleskop använder speciallinser för att se genom stoft"
+        "Varje dygn",
+        "Ungefär vart åttonde år",
+        "En gång per årtusende"
       ],
       "correct": 1,
-      "fact": "Massiva strukturer i universum har så stark gravitation att de kröker själva rymdtiden, vilket gör att bakomliggande galaxers ljus förvrängs."
+      "fact": "Stjärnorna kretsar runt varandra i en avlång bana och möts vart 7,93:e år, vilket skapar en ny ring."
+    },
+    {
+      "q": "Vad händer troligen med en Wolf-Rayet-stjärna när den dör?",
+      "options": [
+        "Krymper stilla till vit dvärg",
+        "Förvandlas till en ny planet",
+        "Exploderar som supernova eller bildar ett svart hål"
+      ],
+      "correct": 2,
+      "fact": "Dessa massiva och åldrande stjärnor slutar ofta sina liv som supernovor eller kollapsar direkt till ett svart hål."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att rymden är full av hemliga spöken som vi inte kan se. Det här rymdteleskopet har tagit en bild där forskarna har målat dit var alla dessa osynliga spöken gömmer sig. De syns inte alls med våra ögon men de drar i stjärnor och galaxer precis som en osynlig magnet. Forskarna har letat efter den här mystiska kraften för att förstå hur alla galaxer en gång i tiden kunde bildas.",
-    "nyborjare": "Den här bilden från James Webb-teleskopet visar nästan 800 000 galaxer i stjärnbilden Sextanten. Över bilden ligger en karta i blått som visar var det finns mörk materia. Det är en mystisk och helt osynlig substans som inte avger eller blockerar ljus. Forskarna kan ändå hitta den eftersom den har gravitation som påverkar sin omgivning. När ljus från avlägsna galaxer färdas genom rymden passerar det förbi den osynliga materien och böjs av. Denna effekt kallas svag gravitationslinsning och gör att forskarna kan räkna ut exakt var den mörka materien finns någonstans.",
-    "entusiast": "Forskare har använt data från James Webb-teleskopets Near-Infrared Camera för att kartlägga mörk materia i stjärnbilden Sextanten över en yta på 0,54 kvadratgrader. Eftersom mörk materia varken emitterar, reflekterar eller absorberar ljus är den osynlig för traditionella teleskop. Dess närvaro kan dock härledas genom dess gravitationsinflytande på vanlig materia. Stora klumpformationer av mörk materia kröker rymdtiden, vilket leder till subtila förvrängningar av ljuset från tusentals bakomliggande galaxer genom svag gravitationslinsning. Denna kartläggning är en del av Cosmic Evolution Survey och bygger vidare på tidigare observationer från Hubble-teleskopet. Webb-kartan innehåller omkring tio gånger fler galaxer än markbaserade observationer och dubbelt så många som Hubble-kartan. För att förfina avståndsmätningarna har forskarna även använt data från instrumentet MIRI som är särskilt känsligt för våglängder som kan tränga igenom kosmiska stoftmoln."
+    "barn": "Titta på de magiska ringarna i rymden! De ser ut som ringar på vattnet när du kastar i en sten, eller som årsringarna i ett stort träd. I mitten bor två jättestora stjärnor som dansar runt varandra. Den ena är en mycket ovanlig Wolf-Rayet-stjärna. Ungefär vart åttonde år kommer stjärnorna riktigt nära varandra. Då krockar deras kraftiga vindar och puffar ut ett helt nytt skal av glödande stoft i rymden. Rymdteleskopet Webb fångade denna fantastiska rymdskatt.",
+    "nyborjare": "Bilden togs 2022 av rymdteleskopet James Webb och visar stjärnsystemet Wolf-Rayet 140, som ligger drygt 5 000 ljusår bort. I centrum kretsar två massiva stjärnor runt varandra i en avlång bana. Den ena är en het och åldrande Wolf-Rayet-stjärna, medan den andra är en tung O-stjärna. Ungefär vart åttonde år passerar stjärnorna mycket nära varandra. När det sker kolliderar deras partikelströmmar, en så kallad stjärnvind från vardera stjärna. Kollisionen komprimerar gasen så att rymdstoft bildas. Varje passage skapar ett nytt skal av stoft som expanderar utåt i rymden. Webb kan se minst 17 sådana ringar tack vare sitt instrument för infrarött ljus, en osynlig värmestrålning som tränger igenom kosmiska slöjor.",
+    "entusiast": "Rymdteleskopet James Webb observerade dubbelstjärnesystemet Wolf-Rayet 140 år 2022 med sitt mellaninfraröda instrument MIRI. Systemet, beläget drygt 5 000 ljusår från jorden, består av en kolrik Wolf-Rayet-stjärna och en massiv stjärna av spektralklass O. De rör sig i en mycket excentrisk bana med en omloppstid på 7,93 år. Vid periastron pressas stjärnornas täta stjärnvind samman i chockfronter där gasen kyls och kondenserar till mikroskopiskt stoft. Webb avslöjar minst 17 koncentriska stoftskal som breder ut sig likt årsringar över mer än ett sekel. Wolf-Rayet-stjärnor har kastat av sig sitt yttre vätehölje och blottat kärnfusionens tyngre grundämnen som kol. Spektrometern MRS visar att stoftet sannolikt utgörs av polycykliska aromatiska kolväten, komplexa organiska kolföreningar som berikar det interstellära mediet. WR 140 är nära slutet av sin livscykel och väntas detonera som en supernova eller kollapsa till ett svart hål. De asymmetriska ringarna beror på variationer i stoftproduktionen och betraktningsvinkeln i förhållande till banplanet."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt system i rymden som samlar miljarder stjärnor, gas och stoft kring ett gemensamt centrum."
+      "term": "Wolf-Rayet-stjärna",
+      "explanation": "En massiv och extremt het stjärna i slutet av sitt liv som kastar ut stora mängder gas i rymden."
     },
     {
-      "term": "gravitation",
-      "explanation": "En naturlig dragningskraft som drar mot varandra alla objekt som har massa i universum."
+      "term": "ljusår",
+      "explanation": "Den sträcka en ljusstråle färdas i rymdens vakuum under ett helt år, ungefär 946 miljarder mil."
     },
     {
-      "term": "rymdtid",
-      "explanation": "En gemensam väv av rummets tre dimensioner och tidens en dimension som knyts ihop av fysikaliska lagar."
+      "term": "stjärnvind",
+      "explanation": "En kontinuerlig ström av laddade partiklar och gas som blåser ut i rymden från en stjärna."
     },
     {
-      "term": "kosmisk",
-      "explanation": "Något som rör rymden eller universum i en stor och övergripande skala."
+      "term": "infrarött ljus",
+      "explanation": "En typ av ljus med längre våglängd än det ögat kan se, vilken ofta uppfattas som värmestrålning."
+    },
+    {
+      "term": "svart hål",
+      "explanation": "Ett område i rymden med så enorm gravitation att ingenting, inte ens ljus, kan ta sig därifrån."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine space is full of secret ghosts we cannot see. This space telescope took a picture where scientists painted in blue where all these invisible ghosts are hiding. They do not shine with light, but they pull on stars and galaxies just like an invisible magnet. Scientists hunt for this mysterious force to understand how all galaxies were able to form a long time ago.",
-      "nyborjare": "This image from the James Webb Space Telescope shows nearly 800,000 galaxies in the constellation Sextans. Overlaid on the image is a blue map showing the location of dark matter. This is a mysterious and completely invisible substance that emits or blocks no light. Researchers can still find it because its gravity affects everything around it. When light from distant galaxies travels through space, it passes the invisible matter and becomes bent. This effect is called weak gravitational lensing and lets scientists calculate exactly where dark matter is located.",
-      "entusiast": "Researchers used data from the James Webb Space Telescope's Near-Infrared Camera to map dark matter in the constellation Sextans across an area of 0.54 square degrees. Because dark matter neither emits, reflects, nor absorbs light, it remains invisible to traditional telescopes. Its presence can nonetheless be inferred through its gravitational influence on regular matter. Large clumps of dark matter curve spacetime, leading to subtle distortions of light from thousands of background galaxies via weak gravitational lensing. This map forms part of the Cosmic Evolution Survey, building upon previous observations from the Hubble Space Telescope. The Webb map contains about ten times more galaxies than ground-based surveys and twice as many as the Hubble map. To refine distance measurements, researchers also utilized data from the MIRI instrument which is particularly adept at detecting galaxies obscured by cosmic dust clouds."
+      "barn": "Look at the magical rings in space! They look like ripples in water when you throw a stone, or tree rings in an ancient trunk. In the middle, two giant stars dance around each other. One of them is a rare Wolf-Rayet star. Roughly every eight years, the stars come very close together. Their powerful winds crash into each other and puff out a brand new shell of glowing dust into deep space.",
+      "nyborjare": "Captured in 2022 by the James Webb Space Telescope, this image shows the star system Wolf-Rayet 140, located just over 5,000 light-years away. In the center, two massive stars orbit each other in an elongated loop. One is an aging Wolf-Rayet star and the other is a massive O-type star. Every 7.9 years, the stars make a close approach. When they do, their fast outflows of gas, known as a stellar wind from each star, collide violently. This compresses the gas and forms microscopic dust. Each orbit produces a new expanding shell of dust. Webb can detect at least 17 distinct rings using infrared light, which reveals warm dust invisible to the human eye.",
+      "entusiast": "Observed in 2022 by the James Webb Space Telescope using its Mid-Infrared Instrument (MIRI), Wolf-Rayet 140 lies roughly 5,000 light-years from Earth. The binary system consists of a carbon-rich Wolf-Rayet star and a massive O-type star traveling on a highly eccentric 7.93-year orbit. During periastron, the intense stellar wind from each star collides, creating dense shock fronts where compressed gas cools and condenses into carbon-rich dust shells. Webb resolves at least 17 concentric rings, acting like a cosmic tree ring record spanning over a century of dust production. Because the Wolf-Rayet star has shed its outer hydrogen layer, it expels heavier elements forged inside, like carbon. Spectroscopic data suggests this dust contains polycyclic aromatic hydrocarbons, enriching the interstellar medium with organic compounds. WR 140 is nearing the final chapter of its evolution and will likely end its life as a supernova or collapse directly into a black hole."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive cosmic system bound together by gravity containing billions of stars, gas, and dust."
+        "term": "Wolf-Rayet star",
+        "explanation": "A massive and intensely hot star near the end of its life that vigorously blows away its outer layers."
       },
       {
-        "term": "gravity",
-        "explanation": "A natural force of attraction pulling together any objects with mass anywhere in the universe."
+        "term": "light-years",
+        "explanation": "The total distance that a beam of light travels through empty space during one full year."
       },
       {
-        "term": "spacetime",
-        "explanation": "A mathematical model combining the three dimensions of space with the single dimension of time."
+        "term": "stellar wind",
+        "explanation": "A continuous, high-speed outflow of gas and charged particles blown into space by a star."
       },
       {
-        "term": "cosmic",
-        "explanation": "Relating to the universe or outer space on a vast scale."
+        "term": "infrared light",
+        "explanation": "A form of light invisible to human eyes that has longer wavelengths and represents radiant heat."
+      },
+      {
+        "term": "black hole",
+        "explanation": "A region of space where matter is packed so densely that nothing, not even light, can escape."
       }
     ],
     "quiz": [
       {
-        "q": "What is dark matter fundamentally?",
+        "q": "What creates the concentric rings around the star pair?",
         "options": [
-          "A type of black holes scattered across space",
-          "An invisible substance that interacts only through gravity",
-          "A cloud of cosmic gas blocking all light"
-        ],
-        "correct": 1,
-        "fact": "Dark matter neither emits nor absorbs light, making it entirely invisible to traditional telescopes and revealing itself solely through gravity."
-      },
-      {
-        "q": "How can researchers detect something completely invisible?",
-        "options": [
-          "By measuring how its gravity bends passing light",
-          "By searching for thermal radiation emitted from its surface",
-          "By measuring how quickly it cools down surrounding space"
+          "Collisions between powerful stellar winds",
+          "Pulsing gravitational waves from the center",
+          "Debris from ancient destroyed moons"
         ],
         "correct": 0,
-        "fact": "As light from distant galaxies travels through space, passing dark matter bends the light paths much like looking through a warped windowpane."
+        "fact": "As the stars approach each other in their orbits, their gaseous winds collide and compress into cosmic dust."
       },
       {
-        "q": "What is gravitational lensing?",
+        "q": "How often is a new dust ring produced?",
         "options": [
-          "When massive stars act as natural magnifiers for planets",
-          "When massive objects warp spacetime and distort background light",
-          "When space telescopes use special lenses to see through dust"
+          "Every single day",
+          "Approximately every eight years",
+          "Once every millennium"
         ],
         "correct": 1,
-        "fact": "Massive structures in the universe possess enough gravity to curve the fabric of spacetime itself, causing background galaxies to appear distorted."
+        "fact": "The stars orbit each other in an elongated loop and meet every 7.93 years, creating a new expanding shell."
+      },
+      {
+        "q": "What will likely happen when a Wolf-Rayet star dies?",
+        "options": [
+          "Shrinks quietly into a white dwarf",
+          "Transforms directly into a new planet",
+          "Explodes as a supernova or black hole"
+        ],
+        "correct": 2,
+        "fact": "These massive evolved stars typically end their lives in a supernova explosion or collapse directly into a black hole."
       }
     ]
   }
