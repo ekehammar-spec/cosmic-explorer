@@ -2,137 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Andromeda Galaxy Imaged by Herschel, Planck, IRAS, COBE",
-  "title_sv": "Andromedagalaxen sedd av Herschel, Planck, IRAS och COBE",
+  "title": "The Eagle Nebula Observed by WISE",
+  "title_sv": "Örnnebulosan sedd av rymdteleskopet WISE",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA25163/PIA25163~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA25163/PIA25163~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA25163/PIA25163~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA25163",
-  "credit": "ESA/NASA/JPL-Caltech/GBT/WSRT/IRAM/C. Clark (STScI)",
+  "url": "https://images-assets.nasa.gov/image/PIA25433/PIA25433~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA25433/PIA25433~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA25433/PIA25433~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA25433",
+  "credit": "NASA/JPL-Caltech",
   "taken": "2022",
   "src": "library",
-  "id": "PIA25163",
+  "id": "PIA25433",
   "px": [
     1920,
-    1079
+    1920
   ],
   "w": 640,
-  "h": 359,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECBAUG/8QAIhAAAQMEAQUBAAAAAAAAAAAAAQACEgMEESEFIjFBUVKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAxJBIv/aAAwDAQACEQMRAD8A4CEtDOT4TdYXUJC3qkeTE4UajunWirdpzd7ati2rJny8ZCS24MetejOiWkgjBHtIntvstW75o3dCFW1oy+wOr9WW8tc7LWxHpSm+otxjVpkSdoQhUQhJoQgP/9k=",
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBQH/xAAjEAACAgAGAwADAAAAAAAAAAABAgADBRESITFBBCJRE2GB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAQBA//EABwRAAICAwEBAAAAAAAAAAAAAAEDABECEyESIv/aAAwDAQACEQMRAD8AIjxw5B5z6M5b4xW3QN9v5Lwr0sg41bibdGF/nZAmRPcOfr6ZKn7PIQtoIAPJlUj6Ywx7B38YAhgua5ENzCV6aTCmhgsTpRxNZRBUzF1+KdoiwvFKqC63aQQvqQYeuOg+hAHYlV7WVgx+bfqYxG0dkyG+TYmpjOKvfaxDlly3Jhu8avYA78ya1y/e0gLlRwcjGCgsUJZk0s7P/9k=",
   "quiz": [
     {
-      "q": "Vad händer i framtiden mellan Vintergatan och Andromedagalaxen?",
+      "q": "Vad kallas den berömda strukturen inuti Örnnebulosan?",
       "options": [
-        "De kolliderar och smälter samman till en.",
-        "De driver allt längre ifrån varandra.",
-        "De lägger sig i stabil cirkelbana."
-      ],
-      "correct": 0,
-      "fact": "Om drygt fyra miljarder år kommer gravitationen dra ihop de två galaxerna till en gemensam jättegalax."
-    },
-    {
-      "q": "Vilket grundämne är vanligast i galaxens enorma gasmoln?",
-      "options": [
-        "Helium",
-        "Väte",
-        "Syre"
-      ],
-      "correct": 1,
-      "fact": "Väte utgör ungefär tre fjärdedelar av all vanlig materia i universum och är bränslet som tänder nya stjärnor."
-    },
-    {
-      "q": "Vad består kosmiskt stoft i rymden framför allt av?",
-      "options": [
-        "Frusen kvävgas och ren vätgas",
-        "Fastfrusen koldioxid och ren ammoniak",
-        "Mikroskopiska korn av kol och kisel"
+        "Kosmiska tornen",
+        "Magellans moln",
+        "Skapelsens pelare"
       ],
       "correct": 2,
-      "fact": "Stoftkorn kastas ut från döende stjärnor och fungerar som byggstenar när nya stjärnor och planeter bildas."
+      "fact": "Strukturen kallas Skapelsens pelare och består av enorma pelare av gas och stoft där nya stjärnor tänds."
+    },
+    {
+      "q": "Vad sker huvudsakligen inuti en stjärnbildande nebulosa som denna?",
+      "options": [
+        "Nya stjärnor föds när gasmoln dras samman",
+        "Gamla stjärnor svalnar och slocknar för alltid",
+        "Planetbanor stabiliseras av starka magnetiska fält"
+      ],
+      "correct": 0,
+      "fact": "När gravitationen får täta fickor av gas och stoft att kollapsa tänds nya stjärnor."
+    },
+    {
+      "q": "Varför är infrarött ljus särskilt användbart för att studera nebulosor?",
+      "options": [
+        "Det böjs kraftigare runt tunga svarta hål",
+        "Det tränger igenom stoft och visar värmestrålning",
+        "Det färdas snabbare genom rymdens mörka vakuum"
+      ],
+      "correct": 1,
+      "fact": "Infrarött ljus tränger igenom det kalla stoftet som annars blockerar vanligt ljus, och avslöjar samtidigt uppvärmt stoft."
     }
   ],
   "levels": {
-    "barn": "Det här är Andromedagalaxen, vår närmaste stora granne i rymden. Den ser ut som en gigantisk snurrande virvel av rök och färgade ljusslingor, ungefär som när man rör runt mjölk i en kopp varm choklad.\n\nFärgerna visar inte vanligt ljus utan osynliga moln av gas och rymdstoft. I det röda och gröna gömmer sig byggmaterialet till nya solar. Rymden är inte alls tom, utan full av fantastiska moln där stjärnor föds.",
-    "nyborjare": "Andromedagalaxen, även känd som M31, ligger cirka 2,5 miljoner ljusår från oss och är den största galaxen i vår lokala galaxhop. Den här bilden visar inte stjärnljus, utan kall gas och mikroskopiskt stoft som kartlagts med infrarött ljus och mikrovågor.\n\nForskare har kombinerat mätningar från flera rymdteleskop, bland annat Herschel och Planck. Rött visar vätgas där nya stjärnor så småningom kan tändas, medan grönt visar iskallt stoft och blått visar något varmare partiklar. Genom att lägga ihop data från rymdteleskop som fångar fina detaljer med data från observatorier som ser diffusa moln får vi en komplett bild av galaxens råmaterial.",
-    "entusiast": "Denna sammansatta bild av Andromedagalaxen (M31) demonstrerar hur flervåglängdsastronomi avslöjar det interstellära mediets struktur. Rymdteleskopet Herschel observerade i det fjärrinfraröda och submillimetriska området mellan 2009 och 2013, vilket gav exceptionell upplösning av stoftstrukturer. Däremot saknade Herschel känslighet för storskaliga, diffusa stoftmoln i galaxens ytterkanter, vilket innebar att upp till 30 procent av stoftemissionen missades.\n\nFör att åtgärda detta kombinerades Herschels observationer med data från mikrovågsobservatoriet Planck samt historiska mätningar från IRAS och COBE. Det röda fältet visar neutral vätgas (HI) kartlagd med markbaserade radioteleskop, bland annat Green Bank Telescope och IRAM 30-metersteleskopet. Grönt representerar kallt interstellärt stoft med temperaturer under 15 kelvin, medan blått spårar varmare stoft som värms upp av stjärnbildningsregioner i spiralarmarna.\n\nGenom att kartlägga stoftets totala massa och fördelning kan astronomer beräkna gas-till-stoft-förhållandet över galaxskivan och förstå hur metallicitet påverkar stjärnbildningens effektivitet i en spiralgalax snarlik Vintergatan."
+    "barn": "Titta på det här färgsprakande molnet i rymden! Det kallas Örnnebulosan och ligger jättelångt bort från oss. Här fungerar rymden nästan som en gigantisk barnkammare för nya stjärnor. Inuti molnet samlas massor av gas och rymdstoft i stora klumpar, precis som när man kramar kramsnö till en snöboll. När klumparna blir tillräckligt tunga och varma tänds de och börjar lysa som stjärnor. Rymdteleskopet WISE tog bilden med en speciell kamera som känner av värme i stället för vanligt ljus.",
+    "nyborjare": "Bilden visar Örnnebulosan, ett vidsträckt område cirka 5 700 ljusår bort där nya stjärnor ständigt bildas. Rymdteleskopet WISE fångade dessa data under sitt huvuduppdrag runt 2010. Människans ögon ser bara synligt ljus, där nebulosans mörka stoftmoln skymmer sikten som en tjock rökridå. Teleskopet är däremot utrustat med instrument som känner av infrarött ljus, en sorts värmestrålning med längre våglängd än det ljus vi kan se. I infrarött ljus blir det kalla stoftet genomskinligt, medan varmare stoft glöder i grönt, gult och rött. Inuti den vita cirkeln syns nebulosans mest berömda formationer, Skapelsens pelare. Teleskopets breda synfält gör att vi kan se hur pelarna hänger samman med hela det gigantiska gasmolnet runtomkring.",
+    "entusiast": "Örnnebulosan, även känd som Messier 16, är en massiv H II-region belägen ungefär 5 700 ljusår bort i stjärnbilden Ormen. Denna infraröda mosaik bygger på mätdata från 2010, insamlade av NASA:s rymdteleskop WISE under dess primära kartläggning innan sonden sattes i dvala och senare återaktiverades som NEOWISE. Medan rymdteleskopen Hubble och James Webb har tagit berömda närbilder av Skapelsens pelare, ger WISE ett ovärderligt vidvinkelperspektiv över nebulosans storskaliga struktur. I optiska våglängder framstår interstellärt stoft som ogenomträngliga silhuetter mot bakomvarande joniserad vätgas. WISE registrerar emellertid infraröd strålning över fyra spektralband. Blått och cyan motsvarar 3,4 och 4,6 mikrometer och domineras av stjärnljus. Grönt och rött representerar 12 och 22 mikrometer, där polycykliska aromatiska kolväten och varmare stoftpartiklar återstrålar energi efter att ha exciterats av intensiv ultraviolett strålning från unga massiva stjärnor. Inuti den markerade vita cirkeln framträder Skapelsens pelare som en subtil gulgrön formation. Mosaiken synliggör den dynamiska återkopplingen där kraftiga stjärnvindar och strålningstryck gröper ur enorma hålrum i den interstellära materian, samtidigt som chockvågor komprimerar gasen längs pelarnas kanter och driver fortsatt stjärnbildning."
   },
   "terms": [
     {
-      "term": "interstellära mediet",
-      "explanation": "Den tunna gas och det mikroskopiska stoft som fyller rymden mellan stjärnorna i en galax."
-    },
-    {
       "term": "infrarött ljus",
-      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus, som ofta sänds ut av svala himlakroppar."
-    },
-    {
-      "term": "mikrovågor",
-      "explanation": "Våglängder mellan infrarött ljus och radiovågor som används för att studera universums allra kallaste materia."
-    },
-    {
-      "term": "spiralgalax",
-      "explanation": "En typ av galax med en platt roterande skiva av gas, stoft och stjärnor ordnade i spiralformade armar."
+      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus, vilken ofta uppfattas som värmestrålning."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
+      "explanation": "Den sträcka en ljusstråle hinner färdas genom rymdens vakuum under ett helt jordår."
+    },
+    {
+      "term": "interstellärt stoft",
+      "explanation": "Mikroskopiska partiklar av fast materia som driver runt i rymden mellan stjärnorna."
+    },
+    {
+      "term": "stjärnbildning",
+      "explanation": "Processen där gravitationen drar samman kalla gas- och stoftmoln tills nya stjärnor tänds."
     }
   ],
   "en": {
     "levels": {
-      "barn": "This is the Andromeda galaxy, our nearest giant cosmic neighbor. It looks like a huge glowing swirl of colored smoke, just like stirring milk into a cup of hot chocolate.\n\nThe bright colors do not show ordinary starlight, but invisible clouds of cold gas and cosmic dust. Inside the red and green ribbons, brand new suns are slowly forming. Space is never empty, but packed with amazing stellar nurseries.",
-      "nyborjare": "The Andromeda galaxy, also cataloged as M31, lies about 2.5 million light-years from Earth and is the largest galaxy in our local group. Instead of direct starlight, this image reveals cold gas and interstellar dust mapped using infrared light and microwaves.\n\nAstronomers merged data from several space telescopes, including Herschel and Planck. Red highlights hydrogen gas that provides raw material for future stars, green shows frigid dust, and blue highlights warmer particles. Combining sharp space observatories with wide-field missions paints an unprecedentedly complete portrait of galaxy evolution.",
-      "entusiast": "This multi-observatory composite of the Andromeda galaxy (M31) highlights the complex architecture of the interstellar medium. The ESA Herschel mission, active from 2009 to 2013, observed far-infrared and submillimeter emissions, resolving fine dust filaments with unmatched spatial resolution. However, Herschel was largely insensitive to broad, diffuse dust emissions, omitting up to 30 percent of total dust glow in outer disc regions.\n\nTo recover this lost flux, Herschel data were combined with wide-field maps from the Planck satellite, IRAS, and COBE. Red traces atomic hydrogen gas recorded by ground facilities including the Green Bank Telescope and the IRAM 30-meter dish. Green marks cold dust grains below 15 kelvin, while blue highlights warmer dust energized by star-forming rings. Analyzing these combined data yields accurate gas-to-dust ratios and clarifies star formation mechanisms across the galactic disc."
+      "barn": "Look at this colorful cloud in deep space! It is called the Eagle Nebula, and it is located very far away from Earth. Space here acts like a giant nursery for baby stars. Inside the cloud, gas and dust clump together, much like packing snow into a heavy snowball. When a clump gets heavy and hot enough, it catches fire and becomes a brand new star. The WISE space telescope took this picture using special vision that detects heat instead of regular light.",
+      "nyborjare": "This image captures the Eagle Nebula, an expansive stellar nursery located roughly 5,700 light-years away. NASA's WISE space telescope gathered this data around 2010 during its primary mission. To human eyes, cosmic dust appears dark and murky, blocking the light behind it like thick smoke. However, WISE detects infrared light, a type of radiation with longer wavelengths than visible light. In infrared wavelengths, cold dust turns transparent while slightly warmer dust glows in shades of green, yellow, and red. Inside the white circle lies the nebula's most famous feature: the Pillars of Creation. Thanks to the wide field of view of WISE, astronomers can see how these iconic pillars connect to the much larger surrounding gas cloud.",
+      "entusiast": "The Eagle Nebula, cataloged as Messier 16 or NGC 6611, is a prominent H II region situated approximately 5,700 light-years away in the constellation Serpens. This infrared mosaic was compiled from observations made around 2010 by NASA's Wide-field Infrared Survey Explorer (WISE) during its primary cryogenic mission, before its later reactivation as NEOWISE. While Hubble and the James Webb Space Telescope provide breathtaking close-ups of the famous Pillars of Creation, WISE reveals the full extent of the surrounding environment. In visible light, cold interstellar dust obscures star-forming pockets behind dense silhouettes. Infrared observations pierce this veil. WISE mapped the region across four distinct wavelength bands: blue and cyan represent 3.4 and 4.6 microns, dominated by starlight, while green and red highlight 12 and 22 microns, where polycyclic aromatic hydrocarbons and warm dust emit strongly under intense ultraviolet radiation from young OB stars. Inside the highlighted circle, the Pillars of Creation emerge as a subtle yellow-green feature. This wide-angle perspective illustrates stellar feedback in action: stellar winds carve out massive cavities, compressing surrounding gas to drive ongoing star formation across the complex."
     },
     "terms": [
       {
-        "term": "interstellar medium",
-        "explanation": "The diffuse mixture of gas and dust grains that permeates the space between stars in a galaxy."
-      },
-      {
         "term": "infrared light",
-        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, emitted by relatively cool cosmic objects."
-      },
-      {
-        "term": "microwaves",
-        "explanation": "A band of electromagnetic waves between infrared and radio, ideal for probing cold gas and relic radiation."
+        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, commonly emitted as heat."
       },
       {
         "term": "light-years",
-        "explanation": "The astronomical distance that light travels through empty space over the course of one year."
+        "explanation": "The distance that light travels through empty space in the course of one Earth year."
+      },
+      {
+        "term": "interstellar dust",
+        "explanation": "Tiny solid grains of carbon, silicates, and ice scattered through the space between stars."
+      },
+      {
+        "term": "star formation",
+        "explanation": "The process by which dense regions within molecular clouds collapse under gravity to form stars."
       }
     ],
     "quiz": [
       {
-        "q": "What will happen in the future between the Milky Way and Andromeda?",
+        "q": "What is the famous structure inside the Eagle Nebula called?",
         "options": [
-          "They will collide and merge into one.",
-          "They will drift further and further apart.",
-          "They will settle into a stable orbit."
-        ],
-        "correct": 0,
-        "fact": "In about four billion years, gravity will draw the two galaxies together into a single giant galaxy."
-      },
-      {
-        "q": "Which element is most abundant in the galaxy's vast gas clouds?",
-        "options": [
-          "Helium",
-          "Hydrogen",
-          "Oxygen"
-        ],
-        "correct": 1,
-        "fact": "Hydrogen makes up about three-quarters of all normal matter in the universe and fuels new stars."
-      },
-      {
-        "q": "What is cosmic dust in space primarily composed of?",
-        "options": [
-          "Frozen nitrogen gas and pure hydrogen",
-          "Frozen carbon dioxide and pure ammonia",
-          "Microscopic grains of carbon and silicon"
+          "The Cosmic Towers",
+          "The Magellanic Clouds",
+          "The Pillars of Creation"
         ],
         "correct": 2,
-        "fact": "Dust grains are shed by dying stars and serve as building blocks for new stars and planets."
+        "fact": "The Pillars of Creation are massive columns of gas and dust where new stars are actively forming."
+      },
+      {
+        "q": "What primarily occurs inside a star-forming nebula like this one?",
+        "options": [
+          "New stars are born as gas clouds collapse",
+          "Aging stars cool down and fade away permanently",
+          "Planetary orbits are stabilized by magnetic fields"
+        ],
+        "correct": 0,
+        "fact": "Gravity compresses dense pockets of interstellar gas and dust until nuclear fusion ignites new stars."
+      },
+      {
+        "q": "Why is infrared light especially useful for studying nebulas?",
+        "options": [
+          "It bends more strongly around massive black holes",
+          "It penetrates cosmic dust and reveals thermal radiation",
+          "It travels faster through the vacuum of space"
+        ],
+        "correct": 1,
+        "fact": "Infrared light cuts through cold dust that blocks visible light, while also revealing warm, glowing dust grains."
       }
     ]
   }
