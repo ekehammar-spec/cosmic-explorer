@@ -2,141 +2,137 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Dust Rings in the Wolf-Rayet 140 System",
-  "title_sv": "Stoftringar runt Wolf-Rayet 140",
+  "title": "Andromeda Galaxy Imaged by Herschel, Planck, IRAS, COBE",
+  "title_sv": "Andromedagalaxen sedd av Herschel, Planck, IRAS och COBE",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA25432/PIA25432~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA25432/PIA25432~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA25432/PIA25432~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA25432",
-  "credit": "NASA/ESA/CSA/STScl/JPL-Caltech",
+  "url": "https://images-assets.nasa.gov/image/PIA25163/PIA25163~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA25163/PIA25163~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA25163/PIA25163~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA25163",
+  "credit": "ESA/NASA/JPL-Caltech/GBT/WSRT/IRAM/C. Clark (STScI)",
   "taken": "2022",
   "src": "library",
-  "id": "PIA25432",
+  "id": "PIA25163",
   "px": [
     1920,
-    1324
+    1079
   ],
   "w": 640,
-  "h": 441,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIDBQEEB//EACIQAAIBAwMFAQAAAAAAAAAAAAECAAMRMQQFIRITIkFR0f/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABgRAQADAQAAAAAAAAAAAAAAAAABAiER/9oADAMBAAIRAxEAPwDnvXziMqhjIvctNnakurTvqGpX8gfkoRG8aaUWNzayj3MMBgS73urQd7aUBKYwnz9lCTGuqvXmEUcyZXK4hCaESVnLZN4hMIRMP//Z",
+  "h": 359,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECBAUG/8QAIhAAAQMEAQUBAAAAAAAAAAAAAQACEgMEESEFIjFBUVKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAxJBIv/aAAwDAQACEQMRAD8A4CEtDOT4TdYXUJC3qkeTE4UajunWirdpzd7ati2rJny8ZCS24MetejOiWkgjBHtIntvstW75o3dCFW1oy+wOr9WW8tc7LWxHpSm+otxjVpkSdoQhUQhJoQgP/9k=",
   "quiz": [
     {
-      "q": "Vad orsakar de koncentriska ringarna runt stjärnparet?",
+      "q": "Vad händer i framtiden mellan Vintergatan och Andromedagalaxen?",
       "options": [
-        "Kollisioner mellan kraftiga stjärnvindar",
-        "Pulserande gravitationsvågor från centrum",
-        "Resterna av exploderade månar"
+        "De kolliderar och smälter samman till en.",
+        "De driver allt längre ifrån varandra.",
+        "De lägger sig i stabil cirkelbana."
       ],
       "correct": 0,
-      "fact": "När stjärnorna möts i sina banor kolliderar deras gasvindar och pressar samman gas till kosmiskt stoft."
+      "fact": "Om drygt fyra miljarder år kommer gravitationen dra ihop de två galaxerna till en gemensam jättegalax."
     },
     {
-      "q": "Hur ofta bildas en ny ring i systemet?",
+      "q": "Vilket grundämne är vanligast i galaxens enorma gasmoln?",
       "options": [
-        "Varje dygn",
-        "Ungefär vart åttonde år",
-        "En gång per årtusende"
+        "Helium",
+        "Väte",
+        "Syre"
       ],
       "correct": 1,
-      "fact": "Stjärnorna kretsar runt varandra i en avlång bana och möts vart 7,93:e år, vilket skapar en ny ring."
+      "fact": "Väte utgör ungefär tre fjärdedelar av all vanlig materia i universum och är bränslet som tänder nya stjärnor."
     },
     {
-      "q": "Vad händer troligen med en Wolf-Rayet-stjärna när den dör?",
+      "q": "Vad består kosmiskt stoft i rymden framför allt av?",
       "options": [
-        "Krymper stilla till vit dvärg",
-        "Förvandlas till en ny planet",
-        "Exploderar som supernova eller bildar ett svart hål"
+        "Frusen kvävgas och ren vätgas",
+        "Fastfrusen koldioxid och ren ammoniak",
+        "Mikroskopiska korn av kol och kisel"
       ],
       "correct": 2,
-      "fact": "Dessa massiva och åldrande stjärnor slutar ofta sina liv som supernovor eller kollapsar direkt till ett svart hål."
+      "fact": "Stoftkorn kastas ut från döende stjärnor och fungerar som byggstenar när nya stjärnor och planeter bildas."
     }
   ],
   "levels": {
-    "barn": "Titta på de magiska ringarna i rymden! De ser ut som ringar på vattnet när du kastar i en sten, eller som årsringarna i ett stort träd. I mitten bor två jättestora stjärnor som dansar runt varandra. Den ena är en mycket ovanlig Wolf-Rayet-stjärna. Ungefär vart åttonde år kommer stjärnorna riktigt nära varandra. Då krockar deras kraftiga vindar och puffar ut ett helt nytt skal av glödande stoft i rymden. Rymdteleskopet Webb fångade denna fantastiska rymdskatt.",
-    "nyborjare": "Bilden togs 2022 av rymdteleskopet James Webb och visar stjärnsystemet Wolf-Rayet 140, som ligger drygt 5 000 ljusår bort. I centrum kretsar två massiva stjärnor runt varandra i en avlång bana. Den ena är en het och åldrande Wolf-Rayet-stjärna, medan den andra är en tung O-stjärna. Ungefär vart åttonde år passerar stjärnorna mycket nära varandra. När det sker kolliderar deras partikelströmmar, en så kallad stjärnvind från vardera stjärna. Kollisionen komprimerar gasen så att rymdstoft bildas. Varje passage skapar ett nytt skal av stoft som expanderar utåt i rymden. Webb kan se minst 17 sådana ringar tack vare sitt instrument för infrarött ljus, en osynlig värmestrålning som tränger igenom kosmiska slöjor.",
-    "entusiast": "Rymdteleskopet James Webb observerade dubbelstjärnesystemet Wolf-Rayet 140 år 2022 med sitt mellaninfraröda instrument MIRI. Systemet, beläget drygt 5 000 ljusår från jorden, består av en kolrik Wolf-Rayet-stjärna och en massiv stjärna av spektralklass O. De rör sig i en mycket excentrisk bana med en omloppstid på 7,93 år. Vid periastron pressas stjärnornas täta stjärnvind samman i chockfronter där gasen kyls och kondenserar till mikroskopiskt stoft. Webb avslöjar minst 17 koncentriska stoftskal som breder ut sig likt årsringar över mer än ett sekel. Wolf-Rayet-stjärnor har kastat av sig sitt yttre vätehölje och blottat kärnfusionens tyngre grundämnen som kol. Spektrometern MRS visar att stoftet sannolikt utgörs av polycykliska aromatiska kolväten, komplexa organiska kolföreningar som berikar det interstellära mediet. WR 140 är nära slutet av sin livscykel och väntas detonera som en supernova eller kollapsa till ett svart hål. De asymmetriska ringarna beror på variationer i stoftproduktionen och betraktningsvinkeln i förhållande till banplanet."
+    "barn": "Det här är Andromedagalaxen, vår närmaste stora granne i rymden. Den ser ut som en gigantisk snurrande virvel av rök och färgade ljusslingor, ungefär som när man rör runt mjölk i en kopp varm choklad.\n\nFärgerna visar inte vanligt ljus utan osynliga moln av gas och rymdstoft. I det röda och gröna gömmer sig byggmaterialet till nya solar. Rymden är inte alls tom, utan full av fantastiska moln där stjärnor föds.",
+    "nyborjare": "Andromedagalaxen, även känd som M31, ligger cirka 2,5 miljoner ljusår från oss och är den största galaxen i vår lokala galaxhop. Den här bilden visar inte stjärnljus, utan kall gas och mikroskopiskt stoft som kartlagts med infrarött ljus och mikrovågor.\n\nForskare har kombinerat mätningar från flera rymdteleskop, bland annat Herschel och Planck. Rött visar vätgas där nya stjärnor så småningom kan tändas, medan grönt visar iskallt stoft och blått visar något varmare partiklar. Genom att lägga ihop data från rymdteleskop som fångar fina detaljer med data från observatorier som ser diffusa moln får vi en komplett bild av galaxens råmaterial.",
+    "entusiast": "Denna sammansatta bild av Andromedagalaxen (M31) demonstrerar hur flervåglängdsastronomi avslöjar det interstellära mediets struktur. Rymdteleskopet Herschel observerade i det fjärrinfraröda och submillimetriska området mellan 2009 och 2013, vilket gav exceptionell upplösning av stoftstrukturer. Däremot saknade Herschel känslighet för storskaliga, diffusa stoftmoln i galaxens ytterkanter, vilket innebar att upp till 30 procent av stoftemissionen missades.\n\nFör att åtgärda detta kombinerades Herschels observationer med data från mikrovågsobservatoriet Planck samt historiska mätningar från IRAS och COBE. Det röda fältet visar neutral vätgas (HI) kartlagd med markbaserade radioteleskop, bland annat Green Bank Telescope och IRAM 30-metersteleskopet. Grönt representerar kallt interstellärt stoft med temperaturer under 15 kelvin, medan blått spårar varmare stoft som värms upp av stjärnbildningsregioner i spiralarmarna.\n\nGenom att kartlägga stoftets totala massa och fördelning kan astronomer beräkna gas-till-stoft-förhållandet över galaxskivan och förstå hur metallicitet påverkar stjärnbildningens effektivitet i en spiralgalax snarlik Vintergatan."
   },
   "terms": [
     {
-      "term": "Wolf-Rayet-stjärna",
-      "explanation": "En massiv och extremt het stjärna i slutet av sitt liv som kastar ut stora mängder gas i rymden."
-    },
-    {
-      "term": "ljusår",
-      "explanation": "Den sträcka en ljusstråle färdas i rymdens vakuum under ett helt år, ungefär 946 miljarder mil."
-    },
-    {
-      "term": "stjärnvind",
-      "explanation": "En kontinuerlig ström av laddade partiklar och gas som blåser ut i rymden från en stjärna."
+      "term": "interstellära mediet",
+      "explanation": "Den tunna gas och det mikroskopiska stoft som fyller rymden mellan stjärnorna i en galax."
     },
     {
       "term": "infrarött ljus",
-      "explanation": "En typ av ljus med längre våglängd än det ögat kan se, vilken ofta uppfattas som värmestrålning."
+      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus, som ofta sänds ut av svala himlakroppar."
     },
     {
-      "term": "svart hål",
-      "explanation": "Ett område i rymden med så enorm gravitation att ingenting, inte ens ljus, kan ta sig därifrån."
+      "term": "mikrovågor",
+      "explanation": "Våglängder mellan infrarött ljus och radiovågor som används för att studera universums allra kallaste materia."
+    },
+    {
+      "term": "spiralgalax",
+      "explanation": "En typ av galax med en platt roterande skiva av gas, stoft och stjärnor ordnade i spiralformade armar."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at the magical rings in space! They look like ripples in water when you throw a stone, or tree rings in an ancient trunk. In the middle, two giant stars dance around each other. One of them is a rare Wolf-Rayet star. Roughly every eight years, the stars come very close together. Their powerful winds crash into each other and puff out a brand new shell of glowing dust into deep space.",
-      "nyborjare": "Captured in 2022 by the James Webb Space Telescope, this image shows the star system Wolf-Rayet 140, located just over 5,000 light-years away. In the center, two massive stars orbit each other in an elongated loop. One is an aging Wolf-Rayet star and the other is a massive O-type star. Every 7.9 years, the stars make a close approach. When they do, their fast outflows of gas, known as a stellar wind from each star, collide violently. This compresses the gas and forms microscopic dust. Each orbit produces a new expanding shell of dust. Webb can detect at least 17 distinct rings using infrared light, which reveals warm dust invisible to the human eye.",
-      "entusiast": "Observed in 2022 by the James Webb Space Telescope using its Mid-Infrared Instrument (MIRI), Wolf-Rayet 140 lies roughly 5,000 light-years from Earth. The binary system consists of a carbon-rich Wolf-Rayet star and a massive O-type star traveling on a highly eccentric 7.93-year orbit. During periastron, the intense stellar wind from each star collides, creating dense shock fronts where compressed gas cools and condenses into carbon-rich dust shells. Webb resolves at least 17 concentric rings, acting like a cosmic tree ring record spanning over a century of dust production. Because the Wolf-Rayet star has shed its outer hydrogen layer, it expels heavier elements forged inside, like carbon. Spectroscopic data suggests this dust contains polycyclic aromatic hydrocarbons, enriching the interstellar medium with organic compounds. WR 140 is nearing the final chapter of its evolution and will likely end its life as a supernova or collapse directly into a black hole."
+      "barn": "This is the Andromeda galaxy, our nearest giant cosmic neighbor. It looks like a huge glowing swirl of colored smoke, just like stirring milk into a cup of hot chocolate.\n\nThe bright colors do not show ordinary starlight, but invisible clouds of cold gas and cosmic dust. Inside the red and green ribbons, brand new suns are slowly forming. Space is never empty, but packed with amazing stellar nurseries.",
+      "nyborjare": "The Andromeda galaxy, also cataloged as M31, lies about 2.5 million light-years from Earth and is the largest galaxy in our local group. Instead of direct starlight, this image reveals cold gas and interstellar dust mapped using infrared light and microwaves.\n\nAstronomers merged data from several space telescopes, including Herschel and Planck. Red highlights hydrogen gas that provides raw material for future stars, green shows frigid dust, and blue highlights warmer particles. Combining sharp space observatories with wide-field missions paints an unprecedentedly complete portrait of galaxy evolution.",
+      "entusiast": "This multi-observatory composite of the Andromeda galaxy (M31) highlights the complex architecture of the interstellar medium. The ESA Herschel mission, active from 2009 to 2013, observed far-infrared and submillimeter emissions, resolving fine dust filaments with unmatched spatial resolution. However, Herschel was largely insensitive to broad, diffuse dust emissions, omitting up to 30 percent of total dust glow in outer disc regions.\n\nTo recover this lost flux, Herschel data were combined with wide-field maps from the Planck satellite, IRAS, and COBE. Red traces atomic hydrogen gas recorded by ground facilities including the Green Bank Telescope and the IRAM 30-meter dish. Green marks cold dust grains below 15 kelvin, while blue highlights warmer dust energized by star-forming rings. Analyzing these combined data yields accurate gas-to-dust ratios and clarifies star formation mechanisms across the galactic disc."
     },
     "terms": [
       {
-        "term": "Wolf-Rayet star",
-        "explanation": "A massive and intensely hot star near the end of its life that vigorously blows away its outer layers."
-      },
-      {
-        "term": "light-years",
-        "explanation": "The total distance that a beam of light travels through empty space during one full year."
-      },
-      {
-        "term": "stellar wind",
-        "explanation": "A continuous, high-speed outflow of gas and charged particles blown into space by a star."
+        "term": "interstellar medium",
+        "explanation": "The diffuse mixture of gas and dust grains that permeates the space between stars in a galaxy."
       },
       {
         "term": "infrared light",
-        "explanation": "A form of light invisible to human eyes that has longer wavelengths and represents radiant heat."
+        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, emitted by relatively cool cosmic objects."
       },
       {
-        "term": "black hole",
-        "explanation": "A region of space where matter is packed so densely that nothing, not even light, can escape."
+        "term": "microwaves",
+        "explanation": "A band of electromagnetic waves between infrared and radio, ideal for probing cold gas and relic radiation."
+      },
+      {
+        "term": "light-years",
+        "explanation": "The astronomical distance that light travels through empty space over the course of one year."
       }
     ],
     "quiz": [
       {
-        "q": "What creates the concentric rings around the star pair?",
+        "q": "What will happen in the future between the Milky Way and Andromeda?",
         "options": [
-          "Collisions between powerful stellar winds",
-          "Pulsing gravitational waves from the center",
-          "Debris from ancient destroyed moons"
+          "They will collide and merge into one.",
+          "They will drift further and further apart.",
+          "They will settle into a stable orbit."
         ],
         "correct": 0,
-        "fact": "As the stars approach each other in their orbits, their gaseous winds collide and compress into cosmic dust."
+        "fact": "In about four billion years, gravity will draw the two galaxies together into a single giant galaxy."
       },
       {
-        "q": "How often is a new dust ring produced?",
+        "q": "Which element is most abundant in the galaxy's vast gas clouds?",
         "options": [
-          "Every single day",
-          "Approximately every eight years",
-          "Once every millennium"
+          "Helium",
+          "Hydrogen",
+          "Oxygen"
         ],
         "correct": 1,
-        "fact": "The stars orbit each other in an elongated loop and meet every 7.93 years, creating a new expanding shell."
+        "fact": "Hydrogen makes up about three-quarters of all normal matter in the universe and fuels new stars."
       },
       {
-        "q": "What will likely happen when a Wolf-Rayet star dies?",
+        "q": "What is cosmic dust in space primarily composed of?",
         "options": [
-          "Shrinks quietly into a white dwarf",
-          "Transforms directly into a new planet",
-          "Explodes as a supernova or black hole"
+          "Frozen nitrogen gas and pure hydrogen",
+          "Frozen carbon dioxide and pure ammonia",
+          "Microscopic grains of carbon and silicon"
         ],
         "correct": 2,
-        "fact": "These massive evolved stars typically end their lives in a supernova explosion or collapse directly into a black hole."
+        "fact": "Dust grains are shed by dying stars and serve as building blocks for new stars and planets."
       }
     ]
   }
