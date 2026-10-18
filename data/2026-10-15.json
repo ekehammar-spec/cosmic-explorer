@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "The Eagle Nebula Observed by WISE",
-  "title_sv": "Örnnebulosan sedd av rymdteleskopet WISE",
+  "title": "Small Magellanic Cloud Imaged by Herschel, Planck, IRAS, COBE",
+  "title_sv": "Lilla magellanska molnet kartlagt i infrarött och mikrovågor",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA25433/PIA25433~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA25433/PIA25433~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA25433/PIA25433~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA25433",
-  "credit": "NASA/JPL-Caltech",
+  "url": "https://images-assets.nasa.gov/image/PIA25164/PIA25164~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA25164/PIA25164~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA25164/PIA25164~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA25164",
+  "credit": "ESA/NASA/JPL-Caltech/CSIRO/NANTEN2/C. Clark (STScI)",
   "taken": "2022",
   "src": "library",
-  "id": "PIA25433",
+  "id": "PIA25164",
   "px": [
     1920,
     1920
   ],
   "w": 640,
   "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBQH/xAAjEAACAgAGAwADAAAAAAAAAAABAgADBRESITFBBCJRE2GB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAQBA//EABwRAAICAwEBAAAAAAAAAAAAAAEDABECEyESIv/aAAwDAQACEQMRAD8AIjxw5B5z6M5b4xW3QN9v5Lwr0sg41bibdGF/nZAmRPcOfr6ZKn7PIQtoIAPJlUj6Ywx7B38YAhgua5ENzCV6aTCmhgsTpRxNZRBUzF1+KdoiwvFKqC63aQQvqQYeuOg+hAHYlV7WVgx+bfqYxG0dkyG+TYmpjOKvfaxDlly3Jhu8avYA78ya1y/e0gLlRwcjGCgsUJZk0s7P/9k=",
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAgMH/8QAIxAAAgEEAgICAwAAAAAAAAAAAQIAAwQRIRIxBUETIjJRgf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAaEQEBAQADAQAAAAAAAAAAAAABABECEhMh/9oADAMBAAIRAxEAPwDnRp4G5rStWqKxA6GdzagObbGRGKyZHpU7dqaKCfy9kRB1yr0w0lBkIkYhzyXjTRJIz2ca7gVwVOI1JI1aPa0jxbkVx9uPf8MoL8Bhw0QdYg77cZQ694iHCp7TrS8nYv400Kw+R2Xlg7Ib9xRvGDs2FAwfQmdOqVbs6kVHzncPu2qJf//Z",
   "quiz": [
     {
-      "q": "Vad kallas den berömda strukturen inuti Örnnebulosan?",
+      "q": "Vad är Lilla magellanska molnet för typ av objekt?",
       "options": [
-        "Kosmiska tornen",
-        "Magellans moln",
-        "Skapelsens pelare"
-      ],
-      "correct": 2,
-      "fact": "Strukturen kallas Skapelsens pelare och består av enorma pelare av gas och stoft där nya stjärnor tänds."
-    },
-    {
-      "q": "Vad sker huvudsakligen inuti en stjärnbildande nebulosa som denna?",
-      "options": [
-        "Nya stjärnor föds när gasmoln dras samman",
-        "Gamla stjärnor svalnar och slocknar för alltid",
-        "Planetbanor stabiliseras av starka magnetiska fält"
+        "En dvärggalax som kretsar kring Vintergatan",
+        "En gigantisk gasplanet bortom Kuiperbältet",
+        "En ung stjärnhop i Vintergatans centrum"
       ],
       "correct": 0,
-      "fact": "När gravitationen får täta fickor av gas och stoft att kollapsa tänds nya stjärnor."
+      "fact": "Lilla magellanska molnet är en av våra närmaste grannar, en dvärggalax bunden av Vintergatans gravitation."
     },
     {
-      "q": "Varför är infrarött ljus särskilt användbart för att studera nebulosor?",
+      "q": "Varför är kosmiskt stoft viktigt för en galax utveckling?",
       "options": [
-        "Det böjs kraftigare runt tunga svarta hål",
-        "Det tränger igenom stoft och visar värmestrålning",
-        "Det färdas snabbare genom rymdens mörka vakuum"
+        "Det hindrar stjärnor från att bildas",
+        "Det är byggmaterial till nya stjärnsystem",
+        "Det kyler ner galaxens mörka materia"
       ],
       "correct": 1,
-      "fact": "Infrarött ljus tränger igenom det kalla stoftet som annars blockerar vanligt ljus, och avslöjar samtidigt uppvärmt stoft."
+      "fact": "När kalla moln av gas och stoft kollapsar under sin egen tyngdkraft föds nya stjärnor och planeter."
+    },
+    {
+      "q": "Hur långt bort ligger Lilla magellanska molnet ungefär?",
+      "options": [
+        "Cirka 25 000 ljusår bort",
+        "Cirka 2,5 miljoner ljusår bort",
+        "Cirka 200 000 ljusår bort"
+      ],
+      "correct": 2,
+      "fact": "På ett avstånd av omkring 200 000 ljusår är dvärggalaxen en av Vintergatans allra närmaste satellitgalaxer."
     }
   ],
   "levels": {
-    "barn": "Titta på det här färgsprakande molnet i rymden! Det kallas Örnnebulosan och ligger jättelångt bort från oss. Här fungerar rymden nästan som en gigantisk barnkammare för nya stjärnor. Inuti molnet samlas massor av gas och rymdstoft i stora klumpar, precis som när man kramar kramsnö till en snöboll. När klumparna blir tillräckligt tunga och varma tänds de och börjar lysa som stjärnor. Rymdteleskopet WISE tog bilden med en speciell kamera som känner av värme i stället för vanligt ljus.",
-    "nyborjare": "Bilden visar Örnnebulosan, ett vidsträckt område cirka 5 700 ljusår bort där nya stjärnor ständigt bildas. Rymdteleskopet WISE fångade dessa data under sitt huvuduppdrag runt 2010. Människans ögon ser bara synligt ljus, där nebulosans mörka stoftmoln skymmer sikten som en tjock rökridå. Teleskopet är däremot utrustat med instrument som känner av infrarött ljus, en sorts värmestrålning med längre våglängd än det ljus vi kan se. I infrarött ljus blir det kalla stoftet genomskinligt, medan varmare stoft glöder i grönt, gult och rött. Inuti den vita cirkeln syns nebulosans mest berömda formationer, Skapelsens pelare. Teleskopets breda synfält gör att vi kan se hur pelarna hänger samman med hela det gigantiska gasmolnet runtomkring.",
-    "entusiast": "Örnnebulosan, även känd som Messier 16, är en massiv H II-region belägen ungefär 5 700 ljusår bort i stjärnbilden Ormen. Denna infraröda mosaik bygger på mätdata från 2010, insamlade av NASA:s rymdteleskop WISE under dess primära kartläggning innan sonden sattes i dvala och senare återaktiverades som NEOWISE. Medan rymdteleskopen Hubble och James Webb har tagit berömda närbilder av Skapelsens pelare, ger WISE ett ovärderligt vidvinkelperspektiv över nebulosans storskaliga struktur. I optiska våglängder framstår interstellärt stoft som ogenomträngliga silhuetter mot bakomvarande joniserad vätgas. WISE registrerar emellertid infraröd strålning över fyra spektralband. Blått och cyan motsvarar 3,4 och 4,6 mikrometer och domineras av stjärnljus. Grönt och rött representerar 12 och 22 mikrometer, där polycykliska aromatiska kolväten och varmare stoftpartiklar återstrålar energi efter att ha exciterats av intensiv ultraviolett strålning från unga massiva stjärnor. Inuti den markerade vita cirkeln framträder Skapelsens pelare som en subtil gulgrön formation. Mosaiken synliggör den dynamiska återkopplingen där kraftiga stjärnvindar och strålningstryck gröper ur enorma hålrum i den interstellära materian, samtidigt som chockvågor komprimerar gasen längs pelarnas kanter och driver fortsatt stjärnbildning."
+    "barn": "Tänk dig ett glittrande moln av rymdstoft ute i rymden! Bilden visar en liten galax som kallas Lilla magellanska molnet. Den snurrar runt vår egen galax precis som månen snurrar runt jorden.\n\nFärgerna visar var det finns gas och stoft. Det röda är vätgas och det gröna är jättekallt stoft, som kalla flingor i en frys. Ur det här kalla stoftet kan nya stjärnor tändas och lysa som små lampor i mörkret.",
+    "nyborjare": "Lilla magellanska molnet är en dvärggalax som ligger ungefär 200 000 ljusår från jorden. Den är en satellitgalax, vilket betyder att den kretsar i en bana runt vår egen galax, Vintergatan. Denna färgglada bild är sammansatt av mätningar från flera rymdteleskop, bland annat Herschel och Planck, för att kartlägga galaxens gas och kosmiska stoft.\n\nRött i bilden visar vätgas, medan grönt och blått avslöjar kallt respektive varmare stoft. Det är i dessa svala, täta moln som nya stjärnor och planetsystem långsamt växer fram. Genom att studera stoftet kan astronomer förstå hur galaxer utvecklas över tid.",
+    "entusiast": "Lilla magellanska molnet (SMC) är en oregelbunden dvärggalax på cirka 200 000 ljusårs avstånd i stjärnbilden Tukanen. Tillsammans med Stora magellanska molnet utgör den ett av de främsta laboratorierna för studier av stjärnbildning vid låg metallicitet. Eftersom galaxen har betydligt lägre halt av tunga grundämnen än Vintergatan påminner dess kemiska miljö om förhållandena i det tidiga universum.\n\nDenna kompositbild förenar data från rymdteleskopen Herschel, Planck, IRAS och COBE tillsammans med markbaserad radioastronomi. Herschel opererade mellan 2009 och 2013 och levererade högupplösta mätningar i det fjärrinfraröda och submillimetriska spektrumet, vilket synliggör filament i stoftmolnen. Herschel missade dock upp till 30 procent av den diffusa strålningen i galaxens glesa utkanter. Genom att addera data från Planck och IRAS återskapas även dessa storskaliga strukturer.\n\nI bilden representerar rött 21-centimetersstrålning från neutral vätgas, uppmätt med radioteleskop i Australien och Chile. Grönt visar kallt interstellärt stoft vid några tiotal kelvin, medan blått markerar varmare stoft som värms upp av intensiv ultraviolett strålning från unga massiva stjärnor."
   },
   "terms": [
     {
-      "term": "infrarött ljus",
-      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus, vilken ofta uppfattas som värmestrålning."
+      "term": "dvärggalax",
+      "explanation": "En mindre galax bestående av några miljarder stjärnor, ofta bunden i en bana kring en större modergalax."
+    },
+    {
+      "term": "satellitgalax",
+      "explanation": "En mindre galax som kretsar kring en större galax på grund av gravitationen."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka en ljusstråle hinner färdas genom rymdens vakuum under ett helt jordår."
+      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
+    },
+    {
+      "term": "metallicitet",
+      "explanation": "Ett astronomiskt mått på andelen grundämnen i ett objekt som är tyngre än väte och helium."
     },
     {
       "term": "interstellärt stoft",
-      "explanation": "Mikroskopiska partiklar av fast materia som driver runt i rymden mellan stjärnorna."
-    },
-    {
-      "term": "stjärnbildning",
-      "explanation": "Processen där gravitationen drar samman kalla gas- och stoftmoln tills nya stjärnor tänds."
+      "explanation": "Mikroskopiska fasta partiklar av kisel, kol och is som svävar i rymden mellan stjärnorna."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this colorful cloud in deep space! It is called the Eagle Nebula, and it is located very far away from Earth. Space here acts like a giant nursery for baby stars. Inside the cloud, gas and dust clump together, much like packing snow into a heavy snowball. When a clump gets heavy and hot enough, it catches fire and becomes a brand new star. The WISE space telescope took this picture using special vision that detects heat instead of regular light.",
-      "nyborjare": "This image captures the Eagle Nebula, an expansive stellar nursery located roughly 5,700 light-years away. NASA's WISE space telescope gathered this data around 2010 during its primary mission. To human eyes, cosmic dust appears dark and murky, blocking the light behind it like thick smoke. However, WISE detects infrared light, a type of radiation with longer wavelengths than visible light. In infrared wavelengths, cold dust turns transparent while slightly warmer dust glows in shades of green, yellow, and red. Inside the white circle lies the nebula's most famous feature: the Pillars of Creation. Thanks to the wide field of view of WISE, astronomers can see how these iconic pillars connect to the much larger surrounding gas cloud.",
-      "entusiast": "The Eagle Nebula, cataloged as Messier 16 or NGC 6611, is a prominent H II region situated approximately 5,700 light-years away in the constellation Serpens. This infrared mosaic was compiled from observations made around 2010 by NASA's Wide-field Infrared Survey Explorer (WISE) during its primary cryogenic mission, before its later reactivation as NEOWISE. While Hubble and the James Webb Space Telescope provide breathtaking close-ups of the famous Pillars of Creation, WISE reveals the full extent of the surrounding environment. In visible light, cold interstellar dust obscures star-forming pockets behind dense silhouettes. Infrared observations pierce this veil. WISE mapped the region across four distinct wavelength bands: blue and cyan represent 3.4 and 4.6 microns, dominated by starlight, while green and red highlight 12 and 22 microns, where polycyclic aromatic hydrocarbons and warm dust emit strongly under intense ultraviolet radiation from young OB stars. Inside the highlighted circle, the Pillars of Creation emerge as a subtle yellow-green feature. This wide-angle perspective illustrates stellar feedback in action: stellar winds carve out massive cavities, compressing surrounding gas to drive ongoing star formation across the complex."
+      "barn": "Imagine a glowing cloud of stardust drifting through space! This picture shows a small galaxy called the Small Magellanic Cloud. It circles our own Milky Way just like the Moon circles the Earth.\n\nThe bright colors show giant clouds of gas and space dust. Red shows hydrogen gas, while green shows freezing cold dust, like frost in a freezer. From this cold dust, brand new stars can ignite and shine bright.",
+      "nyborjare": "The Small Magellanic Cloud is a dwarf galaxy located roughly 200,000 light-years from Earth. It is a satellite galaxy, which means it travels in an orbit around our own Milky Way. This colorful view combines observations from several space observatories, including Herschel and Planck, to map the galaxy's gas and cosmic dust.\n\nRed highlights hydrogen gas, while green and blue reveal cold and warm dust respectively. Within these chilly clouds, new stars and planets gradually take shape. By tracking cosmic dust, astronomers can better understand how galaxies evolve and why star formation rates vary across the universe.",
+      "entusiast": "The Small Magellanic Cloud (SMC) is an irregular dwarf galaxy situated about 200,000 light-years away in the constellation Tucana. Together with the Large Magellanic Cloud, it provides an exceptional natural laboratory for studying low-metallicity star formation. Because the SMC contains far fewer heavy elements than the Milky Way, its environment closely resembles conditions found in the early universe.\n\nThis composite merges far-infrared and submillimeter observations from the Herschel and Planck satellites with historical data from IRAS and COBE, alongside ground-based radio observations. While Herschel operated between 2009 and 2013 to resolve compact dust filaments with high angular resolution, it missed up to 30 percent of the diffuse emission in the faint outskirts. Integrating Planck and IRAS data restored this missing large-scale flux.\n\nIn the final map, red depicts neutral hydrogen gas traced by 21-centimeter radio emission from observatories in Australia and Chile. Green highlights cold interstellar dust at only a few tens of kelvins, whereas blue traces warmer dust energized by massive young stars."
     },
     "terms": [
       {
-        "term": "infrared light",
-        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, commonly emitted as heat."
+        "term": "dwarf galaxy",
+        "explanation": "A small galaxy containing up to several billion stars, often orbiting a much larger parent galaxy."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance that light travels through empty space in the course of one Earth year."
+        "term": "satellite galaxy",
+        "explanation": "A galaxy that is gravitationally bound to and orbits a more massive host galaxy."
+      },
+      {
+        "term": "cosmic dust",
+        "explanation": "Tiny solid grains of carbon, silicates, and ice drifting through space."
+      },
+      {
+        "term": "metallicity",
+        "explanation": "The abundance of chemical elements present in an astronomical object that are heavier than hydrogen and helium."
       },
       {
         "term": "interstellar dust",
-        "explanation": "Tiny solid grains of carbon, silicates, and ice scattered through the space between stars."
-      },
-      {
-        "term": "star formation",
-        "explanation": "The process by which dense regions within molecular clouds collapse under gravity to form stars."
+        "explanation": "Microscopic solid particles dispersed throughout the space between stars in a galaxy."
       }
     ],
     "quiz": [
       {
-        "q": "What is the famous structure inside the Eagle Nebula called?",
+        "q": "What type of astronomical object is the Small Magellanic Cloud?",
         "options": [
-          "The Cosmic Towers",
-          "The Magellanic Clouds",
-          "The Pillars of Creation"
-        ],
-        "correct": 2,
-        "fact": "The Pillars of Creation are massive columns of gas and dust where new stars are actively forming."
-      },
-      {
-        "q": "What primarily occurs inside a star-forming nebula like this one?",
-        "options": [
-          "New stars are born as gas clouds collapse",
-          "Aging stars cool down and fade away permanently",
-          "Planetary orbits are stabilized by magnetic fields"
+          "A dwarf galaxy orbiting the Milky Way",
+          "A giant gas planet beyond Kuiper belt",
+          "A young star cluster near galactic center"
         ],
         "correct": 0,
-        "fact": "Gravity compresses dense pockets of interstellar gas and dust until nuclear fusion ignites new stars."
+        "fact": "The Small Magellanic Cloud is one of our closest galactic neighbours, bound by the Milky Way's gravity."
       },
       {
-        "q": "Why is infrared light especially useful for studying nebulas?",
+        "q": "Why is cosmic dust crucial for a galaxy's evolution?",
         "options": [
-          "It bends more strongly around massive black holes",
-          "It penetrates cosmic dust and reveals thermal radiation",
-          "It travels faster through the vacuum of space"
+          "It prevents stars from collapsing",
+          "It provides raw material for star systems",
+          "It cools down the galactic dark matter"
         ],
         "correct": 1,
-        "fact": "Infrared light cuts through cold dust that blocks visible light, while also revealing warm, glowing dust grains."
+        "fact": "New stars and planetary systems coalesce from dense, cold clouds of interstellar gas and dust."
+      },
+      {
+        "q": "Approximately how far away is the Small Magellanic Cloud?",
+        "options": [
+          "About 25,000 light-years away",
+          "About 2.5 million light-years away",
+          "About 200,000 light-years away"
+        ],
+        "correct": 2,
+        "fact": "Located roughly 200,000 light-years from Earth, it is among the Milky Way's nearest satellite galaxies."
       }
     ]
   }

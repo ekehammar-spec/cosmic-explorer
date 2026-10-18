@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-17T13:10:43.611Z",
+ "updated": "2026-10-18T04:32:45.049Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-17T06:00:00Z",
-   "title_sv": "Tyfonen Champi",
-   "title_en": "Typhoon Champi",
+   "date": "2026-10-17T18:00:00Z",
+   "title_sv": "Supertyfonen Champi",
+   "title_en": "Super Typhoon Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 215 km/h",
-   "value_en": "winds of 215 km/h"
+   "value_sv": "vindar på 240 km/h",
+   "value_en": "winds of 240 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-17T06:00:00Z",
+   "date": "2026-10-17T12:00:00Z",
    "title_sv": "Orkanen Trudy",
    "title_en": "Hurricane Trudy",
    "where_sv": "Östra Stilla havet",
@@ -24,19 +24,19 @@
   },
   {
    "kind": "storm",
-   "date": "2026-10-17T06:00:00Z",
-   "title_sv": "Tropiska stormen 01P",
-   "title_en": "Tropical Storm 01P",
+   "date": "2026-10-17T18:00:00Z",
+   "title_sv": "Tropiska cyklonen 01P",
+   "title_en": "Tropical Cyclone 01P",
    "where_sv": "Södra Stilla havet",
    "where_en": "Southern Pacific",
-   "value_sv": "vindar på 110 km/h",
-   "value_en": "winds of 110 km/h"
+   "value_sv": "vindar på 120 km/h",
+   "value_en": "winds of 120 km/h"
   },
   {
    "kind": "ice",
-   "date": "2026-10-09T00:00:00Z",
-   "title_sv": "Isberget B52",
-   "title_en": "Iceberg B52",
+   "date": "2026-10-15T00:00:00Z",
+   "title_sv": "Isberget A85",
+   "title_en": "Iceberg A85",
    "where_sv": "Södra ishavet, vid Antarktis",
    "where_en": "Southern Ocean, near Antarctica",
    "value_sv": "",

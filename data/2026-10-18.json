@@ -1,0 +1,139 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-18",
+  "title": "Sonified: Eagle Nebula Pillars",
+  "title_sv": "Örnnebulosans pelare",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SonifiedEagleNebulaPillars.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SonifiedEagleNebulaPillars.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SonifiedEagleNebulaPillars.jpg?w=3048&h=1708&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+  "credit": "NASA, ESA, & The Hubble Heritage Project ( STScI / AURA ); Sonification: NASA, CXC, SAO, K. Arcand, M. Russo & A. Santaguida",
+  "taken": "",
+  "src": "apod",
+  "id": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+  "w": 480,
+  "h": 269,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYD/8QAKBAAAQQABQMDBQAAAAAAAAAAAQACAxEEBRIhMRMiQTJRwUNhgaHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMAAf/EABsRAAMAAwEBAAAAAAAAAAAAAAABAhESMiEx/9oADAMBAAIRAxEAPwDF5QeqZGyW5oFD7J9gsHE5j9MTbY3Ue0bpHkf1zRPHynQxckReRGDFG0B3g1e5XdkkZJ14Q/AQFrqi9Jp3btfss/msTI3RhoA54TzLpXzYZz7sGYv0k14q/wBpVnsegxGwbvj8JZVTkDTitTtke3WrbZvynkIAgxBoX00IUaKz9K2B4nHsf4qWbta6N5LQdLCRY44QhOeQ30f/2Q==",
+  "quiz": [
+    {
+      "q": "Vad består de mörka pelarna i Örnnebulosan huvudsakligen av?",
+      "options": [
+        "Fast sten och fruset stoft",
+        "Kall gas och interstellärt stoft",
+        "Rent flytande väte under tryck"
+      ],
+      "correct": 1,
+      "fact": "Pelarna är enorma rymdmoln av kall vätgas och stoft där nya stjärnor gradvis bildas."
+    },
+    {
+      "q": "Vilken process pågår för fullt djupt inne i pelarna?",
+      "options": [
+        "Nya stjärnor föds ur gasmolnen",
+        "Två supermassiva svarta hål smälter samman",
+        "Döende stjärnor exploderar som supernovor"
+      ],
+      "correct": 0,
+      "fact": "Täta gasklumpar kollapsar under sin egen tyngdkraft och utvecklas till nyfödda stjärnor."
+    },
+    {
+      "q": "Hur påverkas pelarna av strålningen från närliggande stjärnor?",
+      "options": [
+        "De dras snabbt inåt magnetiskt",
+        "De expanderar och svalnar plötsligt",
+        "De nöts långsamt bort och eroderar"
+      ],
+      "correct": 2,
+      "fact": "Intensivt ultraviolett ljus från unga stjärnor hettar upp gasen och eroderar sakta bort pelarna."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig gigantiska torn i rymden som är gjorda av rök och gas. Tornen kallas ofta för Skapelsens pelare och ligger i en nebulosa som heter Örnnebulosan. De är så enormt höga att en rymdraket skulle behöva resa i flera miljoner år för att nå toppen. Inne i dessa mörka torn föds nya stjärnor, precis som vår egen sol en gång föddes. När stjärnorna tänds börjar de lysa starkt och blåser sakta bort röken omkring sig, ungefär som när du blåser ut ett ljus.",
+    "nyborjare": "Örnnebulosan, även känd som M16, ligger cirka 6 500 ljusår bort i stjärnbilden Ormen. Bilden visar de berömda kosmiska pelarna som består av tät, kall gas och rymdstoft. Dessa tornliknande strukturer sträcker sig flera ljusår ut i rymden och fungerar som kosmiska barnkammare. Djupt inne i pelarna drar gravitationen ihop materialet tills nya stjärnor tänds. Samtidigt pågår en kamp mot klockan. I närheten finns unga, massiva stjärnor som skickar ut kraftig ultraviolett strålning och hårda stjärnvindar. Denna intensiva strålning nöter sakta men säkert bort gasen och skulpterar pelarna, vilket gör att de en dag kommer att lösas upp helt. Forskare tror att vårt eget solsystem en gång bildades i en liknande miljö.",
+    "entusiast": "M16, belägen cirka 6 500 ljusår från jorden i stjärnbilden Ormen, är en av de mest studerade stjärnbildningsregionerna. Denna vy kombinerar optiska data från rymdteleskopet Hubble med röntgenobservationer från Chandra. De ikoniska strukturerna sträcker sig flera ljusår i längd och består främst av molekylärt väte och stoft som skyddar det inre materialet mot joniserande strålning. Pelarna fungerar som aktiva stjärnfabriker där täta gasklumpar kollapsar under sin egen gravitation för att bilda protostjärnor. Röntgenstrålningen från Chandra avslöjar att unga, heta stjärnor döljer sig inuti pelarna och i det omgivande stjärnklustret NGC 6611. Den extrema ultravioletta strålningen och stjärnvindarna från detta kluster driver fotoförångning, en process som kontinuerligt skulpterar och eroderar pelarnas ytterkanter. Forskare beräknar att pelarna gradvis bryts ned och kan försvinna inom några miljoner år, vilket ger en värdefull inblick i de förhållanden som en gång rådde när vårt eget solsystem bildades."
+  },
+  "terms": [
+    {
+      "term": "nebulosa",
+      "explanation": "Ett gigantiskt moln av gas och rymdstoft mellan stjärnorna där nya stjärnor ofta bildas."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Den sträcka som ljuset färdas genom rymden under ett helt år, cirka 9,5 biljoner kilometer."
+    },
+    {
+      "term": "ultraviolett strålning",
+      "explanation": "En osynlig och mycket energirik form av ljus som strålar från heta stjärnor."
+    },
+    {
+      "term": "protostjärnor",
+      "explanation": "Tidiga utvecklingsstadier av stjärnor som fortfarande samlar på sig materia innan kärnfusion startar."
+    },
+    {
+      "term": "fotoförångning",
+      "explanation": "En process där energirik strålning från stjärnor värmer upp och blåser bort gasmoln."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine giant towers in outer space made entirely of smoke and gas. These towers are located in a nebula called the Eagle Nebula. They are so tall that a rocket would have to travel for millions of years just to reach the top. Deep inside these dark towers, new stars are being born, just like our own Sun once was. As they begin to shine, they gently blow away the surrounding dust, like blowing out a candle on a cake.",
+      "nyborjare": "The Eagle Nebula, also cataloged as M16, is located about 6,500 light-years away in the constellation Serpens. The image displays towering columns of cold gas and cosmic dust that stretch several light-years across space. These structures act as stellar nurseries where dense pockets of matter collapse under gravity to form new stars. However, the pillars are engaged in a race against time. Nearby massive young stars unleash intense ultraviolet radiation and powerful stellar winds. This continuous erosion slowly carves and evaporates the dusty columns, ensuring that they will eventually be destroyed. Astronomers believe that our own Solar System formed billions of years ago in a similarly turbulent environment.",
+      "entusiast": "Situated approximately 6,500 light-years from Earth in the constellation Serpens, M16 is a premier laboratory for studying star formation. This multiwavelength composite integrates optical observations from Hubble with X-ray data from the Chandra Observatory. The towering columns consist predominantly of cold molecular hydrogen and dust, serving as active sites where dense gas pockets undergo gravitational collapse into protostars. High-energy X-ray imaging pierces the obscuring dust, revealing embedded stellar embryos as well as the energetic cluster NGC 6611. The extreme ultraviolet radiation and stellar winds from this cluster drive photoevaporation, sculpting the dense pillars and steadily stripping away their outer gas layers. Within a few million years, these magnificent structures will likely disperse entirely, offering a fleeting glimpse into the disruptive environments that forged our own Sun."
+    },
+    "terms": [
+      {
+        "term": "nebula",
+        "explanation": "A vast interstellar cloud of gas and dust where stars are frequently born."
+      },
+      {
+        "term": "light-years",
+        "explanation": "The astronomical distance that light travels through space in one Earth year."
+      },
+      {
+        "term": "ultraviolet radiation",
+        "explanation": "High-energy electromagnetic radiation emitted by extremely hot, massive stars."
+      },
+      {
+        "term": "protostars",
+        "explanation": "Early stages in stellar evolution before nuclear fusion fully ignites in the core."
+      },
+      {
+        "term": "photoevaporation",
+        "explanation": "The process where intense ionizing radiation strips away and disperses gas clouds."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What are the dark pillars in the Eagle Nebula mainly composed of?",
+        "options": [
+          "Solid rock and frozen planetary debris",
+          "Cold gas and interstellar dust",
+          "Liquid hydrogen under high pressure"
+        ],
+        "correct": 1,
+        "fact": "The pillars are vast clouds of cold molecular hydrogen and dust where newborn stars originate."
+      },
+      {
+        "q": "Which process is actively taking place deep inside the pillars?",
+        "options": [
+          "New stars are forming from collapsing gas",
+          "Supermassive black holes are actively merging",
+          "Dying stars are exploding as supernovas"
+        ],
+        "correct": 0,
+        "fact": "Dense pockets of cold gas collapse under their own gravity to trigger star formation."
+      },
+      {
+        "q": "How does intense radiation from nearby stars affect the pillars?",
+        "options": [
+          "It pulls them inwards using strong magnetism",
+          "It causes them to expand and cool",
+          "It gradually erodes and disperses them"
+        ],
+        "correct": 2,
+        "fact": "Energetic ultraviolet light heats the gas and slowly erodes the pillars until they disperse."
+      }
+    ]
+  }
+}

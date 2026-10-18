@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-18",
+  "media_type": "image",
+  "title": "Örnnebulosans pelare",
+  "title_en": "Sonified: Eagle Nebula Pillars",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SonifiedEagleNebulaPillars.jpg?w=480&h=480&fit=clip"
+ },
+ {
   "date": "2026-10-17",
   "media_type": "image",
   "title": "Temperaturkarta och yta på Saturnus måne Mimas",
@@ -16,9 +23,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Örnnebulosan sedd av rymdteleskopet WISE",
-  "title_en": "The Eagle Nebula Observed by WISE",
-  "thumb": "https://images-assets.nasa.gov/image/PIA25433/PIA25433~small.jpg"
+  "title": "Lilla magellanska molnet kartlagt i infrarött och mikrovågor",
+  "title_en": "Small Magellanic Cloud Imaged by Herschel, Planck, IRAS, COBE",
+  "thumb": "https://images-assets.nasa.gov/image/PIA25164/PIA25164~small.jpg"
  },
  {
   "date": "2026-10-14",
