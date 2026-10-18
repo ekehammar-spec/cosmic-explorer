@@ -2,141 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Small Magellanic Cloud Imaged by Herschel, Planck, IRAS, COBE",
-  "title_sv": "Lilla magellanska molnet kartlagt i infrarött och mikrovågor",
+  "title": "Triangulum Galaxy Imaged by Herschel, Planck, IRAS, COBE",
+  "title_sv": "Triangelgalaxen sedd av Herschel, Planck, IRAS och COBE",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA25164/PIA25164~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA25164/PIA25164~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA25164/PIA25164~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA25164",
-  "credit": "ESA/NASA/JPL-Caltech/CSIRO/NANTEN2/C. Clark (STScI)",
+  "url": "https://images-assets.nasa.gov/image/PIA25165/PIA25165~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA25165/PIA25165~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA25165/PIA25165~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA25165",
+  "credit": "ESA/NASA/JPL-Caltech/GBT/VLA/IRAM/C. Clark (STScI)",
   "taken": "2022",
   "src": "library",
-  "id": "PIA25164",
+  "id": "PIA25165",
   "px": [
     1920,
-    1920
+    1079
   ],
   "w": 640,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAgMH/8QAIxAAAgEEAgICAwAAAAAAAAAAAQIAAwQRIRIxBUETIjJRgf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAaEQEBAQADAQAAAAAAAAAAAAABABECEhMh/9oADAMBAAIRAxEAPwDnRp4G5rStWqKxA6GdzagObbGRGKyZHpU7dqaKCfy9kRB1yr0w0lBkIkYhzyXjTRJIz2ca7gVwVOI1JI1aPa0jxbkVx9uPf8MoL8Bhw0QdYg77cZQ694iHCp7TrS8nYv400Kw+R2Xlg7Ib9xRvGDs2FAwfQmdOqVbs6kVHzncPu2qJf//Z",
+  "h": 359,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUEAQf/xAAhEAACAQMEAwEAAAAAAAAAAAAAAQIDBAUREjFhEyEiQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAECEUH/2gAMAwEAAhEDEQA/APNihQxdSvFbHq316J5TxeVlYz+k5R6ZNt4quMlzZ1rVrywaT4f4zOXcllqV7SaUYrc29NOCGxWZ6TGOAApIGAB//9k=",
   "quiz": [
     {
-      "q": "Vad är Lilla magellanska molnet för typ av objekt?",
+      "q": "Vilken typ av galax är Triangelgalaxen?",
       "options": [
-        "En dvärggalax som kretsar kring Vintergatan",
-        "En gigantisk gasplanet bortom Kuiperbältet",
-        "En ung stjärnhop i Vintergatans centrum"
+        "En spiralgalax",
+        "En elliptisk galax",
+        "En linsformad galax"
       ],
       "correct": 0,
-      "fact": "Lilla magellanska molnet är en av våra närmaste grannar, en dvärggalax bunden av Vintergatans gravitation."
+      "fact": "Triangelgalaxen, eller M33, är en spiralgalax med vackra armar fyllda av gas och stoft."
     },
     {
-      "q": "Varför är kosmiskt stoft viktigt för en galax utveckling?",
+      "q": "Vilken galaxgrupp tillhör Triangelgalaxen tillsammans med Vintergatan?",
       "options": [
-        "Det hindrar stjärnor från att bildas",
-        "Det är byggmaterial till nya stjärnsystem",
-        "Det kyler ner galaxens mörka materia"
+        "Virgohopen",
+        "Lokala gruppen",
+        "Centaurushopen"
       ],
       "correct": 1,
-      "fact": "När kalla moln av gas och stoft kollapsar under sin egen tyngdkraft föds nya stjärnor och planeter."
+      "fact": "Lokala gruppen består av ett femtiotal galaxer där Vintergatan, Andromeda och Triangeln är de största."
     },
     {
-      "q": "Hur långt bort ligger Lilla magellanska molnet ungefär?",
+      "q": "Varför studeras stoftmoln i galaxer med infrarött ljus?",
       "options": [
-        "Cirka 25 000 ljusår bort",
-        "Cirka 2,5 miljoner ljusår bort",
-        "Cirka 200 000 ljusår bort"
+        "För att mäta galaxens ålder",
+        "För att hitta svarta hål",
+        "För att avslöja var stjärnor föds"
       ],
       "correct": 2,
-      "fact": "På ett avstånd av omkring 200 000 ljusår är dvärggalaxen en av Vintergatans allra närmaste satellitgalaxer."
+      "fact": "Infrarött ljus tränger igenom kalla stoftmoln där nyfödda stjärnor värmer upp sin omgivning."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett glittrande moln av rymdstoft ute i rymden! Bilden visar en liten galax som kallas Lilla magellanska molnet. Den snurrar runt vår egen galax precis som månen snurrar runt jorden.\n\nFärgerna visar var det finns gas och stoft. Det röda är vätgas och det gröna är jättekallt stoft, som kalla flingor i en frys. Ur det här kalla stoftet kan nya stjärnor tändas och lysa som små lampor i mörkret.",
-    "nyborjare": "Lilla magellanska molnet är en dvärggalax som ligger ungefär 200 000 ljusår från jorden. Den är en satellitgalax, vilket betyder att den kretsar i en bana runt vår egen galax, Vintergatan. Denna färgglada bild är sammansatt av mätningar från flera rymdteleskop, bland annat Herschel och Planck, för att kartlägga galaxens gas och kosmiska stoft.\n\nRött i bilden visar vätgas, medan grönt och blått avslöjar kallt respektive varmare stoft. Det är i dessa svala, täta moln som nya stjärnor och planetsystem långsamt växer fram. Genom att studera stoftet kan astronomer förstå hur galaxer utvecklas över tid.",
-    "entusiast": "Lilla magellanska molnet (SMC) är en oregelbunden dvärggalax på cirka 200 000 ljusårs avstånd i stjärnbilden Tukanen. Tillsammans med Stora magellanska molnet utgör den ett av de främsta laboratorierna för studier av stjärnbildning vid låg metallicitet. Eftersom galaxen har betydligt lägre halt av tunga grundämnen än Vintergatan påminner dess kemiska miljö om förhållandena i det tidiga universum.\n\nDenna kompositbild förenar data från rymdteleskopen Herschel, Planck, IRAS och COBE tillsammans med markbaserad radioastronomi. Herschel opererade mellan 2009 och 2013 och levererade högupplösta mätningar i det fjärrinfraröda och submillimetriska spektrumet, vilket synliggör filament i stoftmolnen. Herschel missade dock upp till 30 procent av den diffusa strålningen i galaxens glesa utkanter. Genom att addera data från Planck och IRAS återskapas även dessa storskaliga strukturer.\n\nI bilden representerar rött 21-centimetersstrålning från neutral vätgas, uppmätt med radioteleskop i Australien och Chile. Grönt visar kallt interstellärt stoft vid några tiotal kelvin, medan blått markerar varmare stoft som värms upp av intensiv ultraviolett strålning från unga massiva stjärnor."
+    "barn": "Tänk dig ett jättelikt hjul av stjärnor som snurrar sakta i rymden. Det här är Triangelgalaxen, en granne till vår egen Vintergata. Den ser nästan ut som ett glittrande fyrverkeri i rymdmörkret!\n\nI bilden visar de röda färgerna väldiga moln av vätgas, medan det gröna och blå är kosmiskt stoft. Stoftet är som pyttesmå sandkorn som flyter runt mellan stjärnorna. Här inne i de kalla molnen föds nya solar hela tiden.",
+    "nyborjare": "Triangelgalaxen, även känd som Messier 33 eller M33, är en spiralgalax som ligger ungefär tre miljoner ljusår från jorden. Tillsammans med Vintergatan och Andromedagalaxen är den en av de största medlemmarna i Lokala gruppen av galaxer.\n\nDen här sammansatta bilden visar galaxens råmaterial för framtida stjärnor. Rött visar vätgas, medan grönt och blått representerar kallt respektive varmare stoft. För att fånga hela galaxens stoftmängd har astronomer kombinerat mätningar från flera rymdteleskop, bland annat Herschel och IRAS, med markbaserade radioteleskop. Genom att studera rymdstoft i infrarött ljus kan forskare förstå hur gas dras samman för att bilda nya stjärngenerationer.",
+    "entusiast": "Triangelgalaxen (M33) är den tredje största medlemmen i Lokala gruppen och bjuder på ett utmärkt laboratorium för studier av stjärnbildning. Denna flerfärgade mosaik kombinerar långvågiga observationer från fyra rymdteleskop: Herschel, Planck, IRAS och COBE, samt markbaserad radioastronomi av neutral vätgas.\n\nHerschels instrumentering i det fjärrinfraröda området erbjöd enastående upplösning av stoftstrukturer i liten skala, men saknade känslighet för diffust stoft i galaxens glesa ytterkanter. Där missades upp till 30 procent av stoftemissionen. Genom att integrera data från Planck och äldre uppdrag som IRAS och COBE återskapas en fullständig bild av stoftets massa och temperaturgradient. Rött representerar neutral vätgas, medan grönt och blått visar kallt respektive varmt interstellärt stoft som värms upp av strålningen från unga stjärnor."
   },
   "terms": [
     {
-      "term": "dvärggalax",
-      "explanation": "En mindre galax bestående av några miljarder stjärnor, ofta bunden i en bana kring en större modergalax."
+      "term": "Triangelgalaxen",
+      "explanation": "En närbelägen spiralgalax cirka tre miljoner ljusår från jorden i stjärnbilden Triangeln."
     },
     {
-      "term": "satellitgalax",
-      "explanation": "En mindre galax som kretsar kring en större galax på grund av gravitationen."
+      "term": "spiralgalax",
+      "explanation": "En platt, roterande galax med armar av stjärnor, gas och stoft som slingrar sig utåt från centrum."
     },
     {
-      "term": "ljusår",
-      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
+      "term": "Lokala gruppen",
+      "explanation": "Den samling av ett femtiotal galaxer i rymden där Vintergatan, Andromeda och Triangelgalaxen ingår."
     },
     {
-      "term": "metallicitet",
-      "explanation": "Ett astronomiskt mått på andelen grundämnen i ett objekt som är tyngre än väte och helium."
+      "term": "vätgas",
+      "explanation": "Den enklaste och vanligaste gasen i universum och det primära bränslet för stjärnor."
     },
     {
       "term": "interstellärt stoft",
-      "explanation": "Mikroskopiska fasta partiklar av kisel, kol och is som svävar i rymden mellan stjärnorna."
+      "explanation": "Mikroskopiska fasta partiklar av kol och silikat som svävar i rymden mellan stjärnorna."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a glowing cloud of stardust drifting through space! This picture shows a small galaxy called the Small Magellanic Cloud. It circles our own Milky Way just like the Moon circles the Earth.\n\nThe bright colors show giant clouds of gas and space dust. Red shows hydrogen gas, while green shows freezing cold dust, like frost in a freezer. From this cold dust, brand new stars can ignite and shine bright.",
-      "nyborjare": "The Small Magellanic Cloud is a dwarf galaxy located roughly 200,000 light-years from Earth. It is a satellite galaxy, which means it travels in an orbit around our own Milky Way. This colorful view combines observations from several space observatories, including Herschel and Planck, to map the galaxy's gas and cosmic dust.\n\nRed highlights hydrogen gas, while green and blue reveal cold and warm dust respectively. Within these chilly clouds, new stars and planets gradually take shape. By tracking cosmic dust, astronomers can better understand how galaxies evolve and why star formation rates vary across the universe.",
-      "entusiast": "The Small Magellanic Cloud (SMC) is an irregular dwarf galaxy situated about 200,000 light-years away in the constellation Tucana. Together with the Large Magellanic Cloud, it provides an exceptional natural laboratory for studying low-metallicity star formation. Because the SMC contains far fewer heavy elements than the Milky Way, its environment closely resembles conditions found in the early universe.\n\nThis composite merges far-infrared and submillimeter observations from the Herschel and Planck satellites with historical data from IRAS and COBE, alongside ground-based radio observations. While Herschel operated between 2009 and 2013 to resolve compact dust filaments with high angular resolution, it missed up to 30 percent of the diffuse emission in the faint outskirts. Integrating Planck and IRAS data restored this missing large-scale flux.\n\nIn the final map, red depicts neutral hydrogen gas traced by 21-centimeter radio emission from observatories in Australia and Chile. Green highlights cold interstellar dust at only a few tens of kelvins, whereas blue traces warmer dust energized by massive young stars."
+      "barn": "Imagine a giant wheel of stars spinning quietly in deep space. This is the Triangulum Galaxy, a close neighbor to our own Milky Way. It looks like a glowing firework in the dark!\n\nIn this picture, the red colors show massive clouds of hydrogen gas, while the green and blue show cosmic dust. This dust is made of tiny specks floating between the stars. Deep inside these cold clouds, brand new baby stars are being born all the time.",
+      "nyborjare": "The Triangulum Galaxy, also known as Messier 33 or M33, is a spiral galaxy located roughly three million light-years from Earth. Together with the Milky Way and the Andromeda Galaxy, it is one of the largest members of our Local Group of galaxies.\n\nThis composite image reveals the raw ingredients for future stars. Red indicates hydrogen gas, while green and blue highlight cold and warmer dust. To capture the full extent of the galaxy's dust, astronomers combined data from several space telescopes, including Herschel and IRAS, with ground-based radio telescopes. Studying dust in infrared light allows scientists to see how gas gathers to build new generations of stars.",
+      "entusiast": "The Triangulum Galaxy (M33) is the third-largest member of the Local Group and serves as an ideal laboratory for studying star formation. This composite mosaic combines long-wavelength observations from four space observatories—Herschel, Planck, IRAS, and COBE—with ground-based measurements of neutral hydrogen gas.\n\nHerschel's far-infrared instrumentation provided superb resolution of small-scale dust structures, but struggled to detect diffuse emissions in the galaxy's tenuous outskirts, missing up to 30 percent of the dust light. Integrating data from Planck, IRAS, and COBE recovered this missing flux, producing a complete picture of dust mass and temperature distribution. Red traces neutral hydrogen gas, while green and blue map cold and warmer interstellar dust heated by radiation from young stars."
     },
     "terms": [
       {
-        "term": "dwarf galaxy",
-        "explanation": "A small galaxy containing up to several billion stars, often orbiting a much larger parent galaxy."
+        "term": "Triangulum Galaxy",
+        "explanation": "A nearby spiral galaxy located about three million light-years from Earth in the constellation Triangulum."
       },
       {
-        "term": "satellite galaxy",
-        "explanation": "A galaxy that is gravitationally bound to and orbits a more massive host galaxy."
+        "term": "spiral galaxy",
+        "explanation": "A flat, rotating galaxy featuring pinwheel arms of stars, gas, and dust winding outward from the core."
       },
       {
-        "term": "cosmic dust",
-        "explanation": "Tiny solid grains of carbon, silicates, and ice drifting through space."
+        "term": "Local Group",
+        "explanation": "The gravitational gathering of several dozen galaxies that includes the Milky Way, Andromeda, and Triangulum."
       },
       {
-        "term": "metallicity",
-        "explanation": "The abundance of chemical elements present in an astronomical object that are heavier than hydrogen and helium."
+        "term": "hydrogen gas",
+        "explanation": "The lightest and most abundant chemical element in the universe, serving as primary stellar fuel."
       },
       {
         "term": "interstellar dust",
-        "explanation": "Microscopic solid particles dispersed throughout the space between stars in a galaxy."
+        "explanation": "Microscopic solid grains of carbon and silicates floating through the space between stars."
       }
     ],
     "quiz": [
       {
-        "q": "What type of astronomical object is the Small Magellanic Cloud?",
+        "q": "What type of galaxy is the Triangulum Galaxy?",
         "options": [
-          "A dwarf galaxy orbiting the Milky Way",
-          "A giant gas planet beyond Kuiper belt",
-          "A young star cluster near galactic center"
+          "A spiral galaxy",
+          "An elliptical galaxy",
+          "A lenticular galaxy"
         ],
         "correct": 0,
-        "fact": "The Small Magellanic Cloud is one of our closest galactic neighbours, bound by the Milky Way's gravity."
+        "fact": "The Triangulum Galaxy, or M33, is a spiral galaxy with sweeping arms of gas and dust."
       },
       {
-        "q": "Why is cosmic dust crucial for a galaxy's evolution?",
+        "q": "Which galaxy group does Triangulum belong to with our galaxy?",
         "options": [
-          "It prevents stars from collapsing",
-          "It provides raw material for star systems",
-          "It cools down the galactic dark matter"
+          "Virgo Cluster",
+          "Local Group",
+          "Centaurus Cluster"
         ],
         "correct": 1,
-        "fact": "New stars and planetary systems coalesce from dense, cold clouds of interstellar gas and dust."
+        "fact": "The Local Group consists of dozens of galaxies, with Andromeda, the Milky Way, and Triangulum being the largest."
       },
       {
-        "q": "Approximately how far away is the Small Magellanic Cloud?",
+        "q": "Why do astronomers study dust clouds using infrared light?",
         "options": [
-          "About 25,000 light-years away",
-          "About 2.5 million light-years away",
-          "About 200,000 light-years away"
+          "To measure a galaxy's age",
+          "To locate hidden black holes",
+          "To reveal where stars form"
         ],
         "correct": 2,
-        "fact": "Located roughly 200,000 light-years from Earth, it is among the Milky Way's nearest satellite galaxies."
+        "fact": "Infrared light passes through cold dust clouds where baby stars ignite and warm their surroundings."
       }
     ]
   }
