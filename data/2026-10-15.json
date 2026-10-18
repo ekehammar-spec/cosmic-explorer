@@ -2,141 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Triangulum Galaxy Imaged by Herschel, Planck, IRAS, COBE",
-  "title_sv": "Triangelgalaxen sedd av Herschel, Planck, IRAS och COBE",
+  "title": "Galaxy Cluster Abell 1689",
+  "title_sv": "Galaxhopen Abell 1689",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA25165/PIA25165~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA25165/PIA25165~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA25165/PIA25165~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA25165",
-  "credit": "ESA/NASA/JPL-Caltech/GBT/VLA/IRAM/C. Clark (STScI)",
-  "taken": "2022",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002174/GSFC_20171208_Archive_e002174~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002174/GSFC_20171208_Archive_e002174~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002174/GSFC_20171208_Archive_e002174~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002174",
+  "credit": "NASA/GSFC",
+  "taken": "2017",
   "src": "library",
-  "id": "PIA25165",
+  "id": "GSFC_20171208_Archive_e002174",
   "px": [
     1920,
-    1079
+    1695
   ],
   "w": 640,
-  "h": 359,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUEAQf/xAAhEAACAQMEAwEAAAAAAAAAAAAAAQIDBAUREjFhEyEiQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAECEUH/2gAMAwEAAhEDEQA/APNihQxdSvFbHq316J5TxeVlYz+k5R6ZNt4quMlzZ1rVrywaT4f4zOXcllqV7SaUYrc29NOCGxWZ6TGOAApIGAB//9k=",
+  "h": 565,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQCBQYA/8QAKRAAAgIBAgQGAgMAAAAAAAAAAQIDEQAEIRIiMVEFE0FhcYEUkVKh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQEBAQEBAQAAAAAAAAAAAAABAAIREiH/2gAMAwEAAhEDEQA/AMZBEPNqV1ANi3vbb95FYWUMy3/Ei6sdsJE4MnNTAKd2NUe475f+HR6WTTOuojWivGHPU+g/vMtb8/awGzsMMsnNBGQY7LMpPT/MCY3SwxKmgaN7/WWbStp9UxTg4JDwsAKBHxgvENRHNIqacqUQUDw8N+5vGaVjhKKrCRArpbVuD0vHIG/H1SxyAzJZUCM7OfY/rK0nfJBiSx6H2xp2kZzUltnflscgFHpsb7YtSsCeLy1+CQCfS/rOm5fKI3tAd/vBl2Ni+5wCFv/Z",
   "quiz": [
     {
-      "q": "Vilken typ av galax är Triangelgalaxen?",
+      "q": "Vad är egentligen en galaxhop?",
       "options": [
-        "En spiralgalax",
-        "En elliptisk galax",
-        "En linsformad galax"
-      ],
-      "correct": 0,
-      "fact": "Triangelgalaxen, eller M33, är en spiralgalax med vackra armar fyllda av gas och stoft."
-    },
-    {
-      "q": "Vilken galaxgrupp tillhör Triangelgalaxen tillsammans med Vintergatan?",
-      "options": [
-        "Virgohopen",
-        "Lokala gruppen",
-        "Centaurushopen"
+        "En samling stjärnor i en nebulosa",
+        "Tusentals galaxer samlade av gravitationen",
+        "Ett område där nya stjärnor tänds"
       ],
       "correct": 1,
-      "fact": "Lokala gruppen består av ett femtiotal galaxer där Vintergatan, Andromeda och Triangeln är de största."
+      "fact": "En galaxhop är en av universums största strukturer och hålls samman av gravitationen."
     },
     {
-      "q": "Varför studeras stoftmoln i galaxer med infrarött ljus?",
+      "q": "Vad orsakar de utdragna ljusbågarna i bilden?",
       "options": [
-        "För att mäta galaxens ålder",
-        "För att hitta svarta hål",
-        "För att avslöja var stjärnor föds"
+        "Gravitation som böjer bakomliggande galaxers ljus",
+        "Het gas som kastas ut från galaxerna",
+        "Optiska reflexer inuti teleskopets linser"
+      ],
+      "correct": 0,
+      "fact": "Fenomenet kallas gravitationell linsverkan och uppstår när hopens enorma massa böjer ljuset från avlägsna galaxer."
+    },
+    {
+      "q": "Vad består merparten av galaxhopens massa av?",
+      "options": [
+        "Lysande stjärnor och planeter",
+        "Täta stoftmoln mellan galaxerna",
+        "Osynlig mörk materia"
       ],
       "correct": 2,
-      "fact": "Infrarött ljus tränger igenom kalla stoftmoln där nyfödda stjärnor värmer upp sin omgivning."
+      "fact": "Mörk materia utgör lejonparten av massan i galaxhopar och avslöjar sig genom sin gravitationella dragkraft."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättelikt hjul av stjärnor som snurrar sakta i rymden. Det här är Triangelgalaxen, en granne till vår egen Vintergata. Den ser nästan ut som ett glittrande fyrverkeri i rymdmörkret!\n\nI bilden visar de röda färgerna väldiga moln av vätgas, medan det gröna och blå är kosmiskt stoft. Stoftet är som pyttesmå sandkorn som flyter runt mellan stjärnorna. Här inne i de kalla molnen föds nya solar hela tiden.",
-    "nyborjare": "Triangelgalaxen, även känd som Messier 33 eller M33, är en spiralgalax som ligger ungefär tre miljoner ljusår från jorden. Tillsammans med Vintergatan och Andromedagalaxen är den en av de största medlemmarna i Lokala gruppen av galaxer.\n\nDen här sammansatta bilden visar galaxens råmaterial för framtida stjärnor. Rött visar vätgas, medan grönt och blått representerar kallt respektive varmare stoft. För att fånga hela galaxens stoftmängd har astronomer kombinerat mätningar från flera rymdteleskop, bland annat Herschel och IRAS, med markbaserade radioteleskop. Genom att studera rymdstoft i infrarött ljus kan forskare förstå hur gas dras samman för att bilda nya stjärngenerationer.",
-    "entusiast": "Triangelgalaxen (M33) är den tredje största medlemmen i Lokala gruppen och bjuder på ett utmärkt laboratorium för studier av stjärnbildning. Denna flerfärgade mosaik kombinerar långvågiga observationer från fyra rymdteleskop: Herschel, Planck, IRAS och COBE, samt markbaserad radioastronomi av neutral vätgas.\n\nHerschels instrumentering i det fjärrinfraröda området erbjöd enastående upplösning av stoftstrukturer i liten skala, men saknade känslighet för diffust stoft i galaxens glesa ytterkanter. Där missades upp till 30 procent av stoftemissionen. Genom att integrera data från Planck och äldre uppdrag som IRAS och COBE återskapas en fullständig bild av stoftets massa och temperaturgradient. Rött representerar neutral vätgas, medan grönt och blått visar kallt respektive varmt interstellärt stoft som värms upp av strålningen från unga stjärnor."
+    "barn": "Titta noga på bilden! Varje liten gulvit fläck är inte en ensam stjärna, utan en hel galax fylld med miljarder solar. Tillsammans bildar de en gigantisk familj som kallas galaxhop.\n\nDe konstiga, böjda strecken runt mitten ser nästan ut som repor i glaset. I själva verket fungerar den tunga galaxhopen som ett enormt förstoringsglas i rymden. Den böjer ljuset från andra galaxer som ligger ännu längre bort.",
+    "nyborjare": "Denna bild från 2010 visar Abell 1689, en av universums mest massiva kända galaxhopar, belägen cirka 2,5 miljarder ljusår bort. En galaxhop består av hundratals eller tusentals galaxer som hålls samman av gravitationen.\n\nDet mest iögonfallande i bilden är de tunna, krökta ljusbågarna. Dessa är optiska illusioner orsakade av gravitationell linsverkan. Hopens enorma massa kröker rumtiden och böjer ljusstrålarna från mycket mer avlägsna galaxer bakom den, precis som en enorm lins. Fenomenet förutsades av Albert Einstein i hans allmänna relativitetsteori. Bilden användes även i studier av storskaliga kosmiska rörelser, där forskare undersökte hur hopar rör sig genom universum.",
+    "entusiast": "Abell 1689, som uppmärksammades i denna studie från 2010 vid en rödförskjutning på z = 0,181, är ett av de mest spektakulära exemplen på gravitationell linsverkan i det observerbara universum. Galaxhopen innehåller tusentals galaxer och ett massivt interklustermedium av röntgenstrålande gas. Dess totala massa domineras dock helt av mörk materia.\n\nDen sammanlagda massan kröker rummet så kraftigt att bakgrundsgalaxer förvrängs till bågar och mångfaldiga spegelbilder. Genom att kartlägga dessa linser kan astronomer med hög precision rekonstruera massfördelningen och testa kosmologiska modeller för mörk materia och mörk energi.\n\nÅr 2010 analyserade forskare ledda av Alexander Kashlinsky rörelsen hos Abell 1689 och andra avlägsna galaxhopar. Genom att mäta den kinematiska Sunyaev-Zeldovich-effekten i den kosmiska bakgrundsstrålningen spårade man ett gemensamt massflöde, populärt kallat mörkt flöde. Denna rörelse sträcker sig över miljarder ljusår och har väckt intensiva diskussioner om storskaliga strukturer och eventuell gravitationell påverkan bortom det observerbara universums horisont."
   },
   "terms": [
     {
-      "term": "Triangelgalaxen",
-      "explanation": "En närbelägen spiralgalax cirka tre miljoner ljusår från jorden i stjärnbilden Triangeln."
+      "term": "galaxhop",
+      "explanation": "En gigantisk samling av hundratals till tusentals galaxer som hålls samman av sin gemensamma gravitation."
     },
     {
-      "term": "spiralgalax",
-      "explanation": "En platt, roterande galax med armar av stjärnor, gas och stoft som slingrar sig utåt från centrum."
+      "term": "gravitationell linsverkan",
+      "explanation": "Ett fenomen där ett massivt objekts gravitation böjer och förstärker ljuset från mer avlägsna bakgrundsobjekt."
     },
     {
-      "term": "Lokala gruppen",
-      "explanation": "Den samling av ett femtiotal galaxer i rymden där Vintergatan, Andromeda och Triangelgalaxen ingår."
+      "term": "mörk materia",
+      "explanation": "En osynlig form av materia som inte sänder ut ljus men vars gravitation påverkar synliga stjärnor och galaxer."
     },
     {
-      "term": "vätgas",
-      "explanation": "Den enklaste och vanligaste gasen i universum och det primära bränslet för stjärnor."
+      "term": "rödförskjutning",
+      "explanation": "Ett mått på hur ljusets våglängd har dragits ut till följd av universums expansion eller objektets hastighet."
     },
     {
-      "term": "interstellärt stoft",
-      "explanation": "Mikroskopiska fasta partiklar av kol och silikat som svävar i rymden mellan stjärnorna."
+      "term": "mörkt flöde",
+      "explanation": "En hypotetisk gemensam rörelse hos avlägsna galaxhopar som färdas i en och samma riktning genom rymden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant wheel of stars spinning quietly in deep space. This is the Triangulum Galaxy, a close neighbor to our own Milky Way. It looks like a glowing firework in the dark!\n\nIn this picture, the red colors show massive clouds of hydrogen gas, while the green and blue show cosmic dust. This dust is made of tiny specks floating between the stars. Deep inside these cold clouds, brand new baby stars are being born all the time.",
-      "nyborjare": "The Triangulum Galaxy, also known as Messier 33 or M33, is a spiral galaxy located roughly three million light-years from Earth. Together with the Milky Way and the Andromeda Galaxy, it is one of the largest members of our Local Group of galaxies.\n\nThis composite image reveals the raw ingredients for future stars. Red indicates hydrogen gas, while green and blue highlight cold and warmer dust. To capture the full extent of the galaxy's dust, astronomers combined data from several space telescopes, including Herschel and IRAS, with ground-based radio telescopes. Studying dust in infrared light allows scientists to see how gas gathers to build new generations of stars.",
-      "entusiast": "The Triangulum Galaxy (M33) is the third-largest member of the Local Group and serves as an ideal laboratory for studying star formation. This composite mosaic combines long-wavelength observations from four space observatories—Herschel, Planck, IRAS, and COBE—with ground-based measurements of neutral hydrogen gas.\n\nHerschel's far-infrared instrumentation provided superb resolution of small-scale dust structures, but struggled to detect diffuse emissions in the galaxy's tenuous outskirts, missing up to 30 percent of the dust light. Integrating data from Planck, IRAS, and COBE recovered this missing flux, producing a complete picture of dust mass and temperature distribution. Red traces neutral hydrogen gas, while green and blue map cold and warmer interstellar dust heated by radiation from young stars."
+      "barn": "Look closely at this sparkling view! Each yellowish blob is not just a single star, but an entire galaxy holding billions of suns. Together, they gather like a giant family called a galaxy cluster.\n\nThe thin, curved streaks near the middle look like scratches on glass. In reality, the heavy cluster acts like a giant cosmic magnifying glass. It bends light coming from even more distant galaxies far behind it.",
+      "nyborjare": "Presented in 2010, this view highlights Abell 1689, one of the most massive known galaxy clusters, located about 2.5 billion light-years away. A galaxy cluster contains hundreds or thousands of individual galaxies held together by mutual gravity.\n\nThe most striking features in the image are the faint, curved arcs. These are optical distortions caused by gravitational lensing. The enormous mass of the cluster bends spacetime, deflecting light from background galaxies located much further away. This magnifying effect was predicted by Albert Einstein in his general theory of relativity. Astronomers also use clusters like this to investigate cosmic motion across immense distances in space.",
+      "entusiast": "Abell 1689, highlighted in 2010 research at a redshift of z = 0.181, is one of the premier gravitational lensing laboratories in the observable universe. The cluster hosts thousands of member galaxies embedded within an intracluster medium of hot, X-ray emitting gas. However, its overall mass profile is completely dominated by dark matter.\n\nThis colossal concentration of mass curves surrounding spacetime so severely that background galaxies are magnified and sheared into extended arcs. By mapping these distorted images, astrophysicists can reconstruct the cluster's mass distribution and place strict constraints on models of structure formation and dark energy.\n\nIn 2010, researchers led by Alexander Kashlinsky evaluated Abell 1689 alongside hundreds of distant clusters. Utilizing the kinematic Sunyaev-Zeldovich effect in the cosmic microwave background, they traced a collective velocity field known as dark flow. This unexplained bulk drift spans billions of light-years, sparking debate regarding cosmological homogeneity and potential gravitational tugs originating beyond the observable horizon."
     },
     "terms": [
       {
-        "term": "Triangulum Galaxy",
-        "explanation": "A nearby spiral galaxy located about three million light-years from Earth in the constellation Triangulum."
+        "term": "galaxy cluster",
+        "explanation": "A massive gravitationally bound system comprising hundreds to thousands of galaxies and diffuse hot gas."
       },
       {
-        "term": "spiral galaxy",
-        "explanation": "A flat, rotating galaxy featuring pinwheel arms of stars, gas, and dust winding outward from the core."
+        "term": "gravitational lensing",
+        "explanation": "The bending and magnification of light from a distant source as it passes a massive foreground object."
       },
       {
-        "term": "Local Group",
-        "explanation": "The gravitational gathering of several dozen galaxies that includes the Milky Way, Andromeda, and Triangulum."
+        "term": "dark matter",
+        "explanation": "A non-luminous component of the universe that does not interact with light but exerts gravitational attraction."
       },
       {
-        "term": "hydrogen gas",
-        "explanation": "The lightest and most abundant chemical element in the universe, serving as primary stellar fuel."
+        "term": "redshift",
+        "explanation": "The elongation of electromagnetic wavelengths toward redder frequencies caused by cosmic expansion or relative motion."
       },
       {
-        "term": "interstellar dust",
-        "explanation": "Microscopic solid grains of carbon and silicates floating through the space between stars."
+        "term": "dark flow",
+        "explanation": "A controversial observed bulk motion of distant galaxy clusters streaming across the cosmos in a unified direction."
       }
     ],
     "quiz": [
       {
-        "q": "What type of galaxy is the Triangulum Galaxy?",
+        "q": "What is a galaxy cluster?",
         "options": [
-          "A spiral galaxy",
-          "An elliptical galaxy",
-          "A lenticular galaxy"
-        ],
-        "correct": 0,
-        "fact": "The Triangulum Galaxy, or M33, is a spiral galaxy with sweeping arms of gas and dust."
-      },
-      {
-        "q": "Which galaxy group does Triangulum belong to with our galaxy?",
-        "options": [
-          "Virgo Cluster",
-          "Local Group",
-          "Centaurus Cluster"
+          "A group of stars inside a nebula",
+          "Thousands of galaxies bound by gravity",
+          "A region where new stars ignite"
         ],
         "correct": 1,
-        "fact": "The Local Group consists of dozens of galaxies, with Andromeda, the Milky Way, and Triangulum being the largest."
+        "fact": "A galaxy cluster is one of the largest gravitationally bound structures in the universe."
       },
       {
-        "q": "Why do astronomers study dust clouds using infrared light?",
+        "q": "What causes the curved arcs seen around the center?",
         "options": [
-          "To measure a galaxy's age",
-          "To locate hidden black holes",
-          "To reveal where stars form"
+          "Gravity bending light from distant background galaxies",
+          "Hot gas ejected outward from central galaxies",
+          "Internal optical reflections inside the telescope lens"
+        ],
+        "correct": 0,
+        "fact": "Gravitational lensing occurs when immense mass warps spacetime and bends the path of passing light."
+      },
+      {
+        "q": "What makes up most of the cluster's total mass?",
+        "options": [
+          "Luminous stars and orbiting planetary systems",
+          "Dense dust clouds drifting between galaxies",
+          "Invisible dark matter"
         ],
         "correct": 2,
-        "fact": "Infrared light passes through cold dust clouds where baby stars ignite and warm their surroundings."
+        "fact": "Dark matter accounts for the vast majority of mass in galaxy clusters, dwarfing normal matter."
       }
     ]
   }
