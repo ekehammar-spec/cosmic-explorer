@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-19",
+  "title": "MESSENGER Views Mercury Horizon",
+  "title_sv": "Merkurius horisont sedd av MESSENGER",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA10176/PIA10176~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA10176/PIA10176~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA10176/PIA10176~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA10176",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+  "taken": "2008",
+  "src": "library",
+  "id": "PIA10176",
+  "px": [
+    1016,
+    1024
+  ],
+  "w": 635,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAECBgf/xAAlEAABAwMCBwEBAAAAAAAAAAABAAIDBBEhEjEFE0FCUWGRcaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A82QhMqPg1TUAPeOTGe54yfwIFqmhpJ58xxuI87D6uig4bSUuQ0SvHdJn+LFRUl8ZaCACNvSC3Q8IpqBoeQJZRjmOGAfQU80zWg9XImkOlxtjoL/UtnlsNINzbfyUEc9QbapDpb46hLJZnFpcMtAsbraqfolD32cALAePdlSlmL7jYX+oP//Z",
+  "quiz": [
+    {
+      "q": "Vilken planet i vårt solsystem kretsar allra närmast solen?",
+      "options": [
+        "Merkurius",
+        "Venus",
+        "Mars"
+      ],
+      "correct": 0,
+      "fact": "Merkurius är solsystemets innersta planet och kretsar bara cirka 58 miljoner kilometer från solen."
+    },
+    {
+      "q": "Vad kännetecknar Merkurius tunna hölje av gaser?",
+      "options": [
+        "Det är en extremt tät koldioxidatmosfär",
+        "Det är en ytterst tunn exosfär",
+        "Det består helt av vattenånga och metan"
+      ],
+      "correct": 1,
+      "fact": "Merkurius har ingen tät atmosfär utan en flyktig exosfär där atomer ständigt blåses bort i rymden."
+    },
+    {
+      "q": "Vad orsakar Merkurius extrema temperaturskillnader mellan dag och natt?",
+      "options": [
+        "Växthuseffekten från en tjock atmosfär",
+        "Planetens ovanligt starka magnetfält",
+        "Bristen på atmosfär och den långsamma rotationen"
+      ],
+      "correct": 2,
+      "fact": "Utan en isolerande atmosfär stiger temperaturen till över 400 grader på dagen och sjunker till minus 180 på natten."
+    }
+  ],
+  "levels": {
+    "barn": "Titta noga på den här grå och steniga världen. Det är planeten Merkurius, som ligger allra närmast solen. Den ser nästan ut som vår egen måne, full av runda gropar som kallas kratrar. Groparna blev till när rymdstenar kraschade rakt in i planeten för länge sedan. Rymdsonden MESSENGER åkte dit för att fotografera. På Merkurius finns ingen luft att andas, och där blir det stekhett som i en ugn på dagen och iskallt som i en frys på natten.",
+    "nyborjare": "År 2008 genomförde NASA-sonden MESSENGER en historisk första förbiflygning av Merkurius, solsystemets innersta planet. Bilden visar en svepande vy över planetens kraterkantade horisont mot den svarta rymden. Merkurius saknar en skyddande atmosfär och har istället bara en tunn exosfär. Detta gör att ytan utsätts för enorma temperaturväxlingar och ett konstant bombardemang av solvinden. Eftersom det varken finns vind eller flytande vatten som eroderar berggrunden är landskapet bevarat sedan miljarder år tillbaka. De otaliga nedslagskratrarna vittnar om solsystemets våldsamma ungdom när asteroider ständigt krockade med planeterna.",
+    "entusiast": "Under sin första gravitationsassisterade förbiflygning i januari 2008 fångade sonden MESSENGER denna mosaik med sin smalvinkelskamera NAC, en del av kamerasystemet MDIS. Bilden avslöjar Merkurius kraterrika yta i skarp belysning vid terminatorn, där solens låga vinkel framhäver höjdskillnader och förkastningsbranter. Merkurius skiljer sig markant från andra stenplaneter genom sin ovanligt stora järnkärna, som utgör mer än 60 procent av planetens totala massa. Det resulterar i en överraskande hög densitet och ett svagt globalt magnetfält. Bristen på en verklig atmosfär innebär att ytan exponeras direkt för rymdvittring, mikrometeoriter och solvindens partiklar, vilket skapar en mycket flyktig exosfär av natrium, kalium och helium."
+  },
+  "terms": [
+    {
+      "term": "nedslagskrater",
+      "explanation": "En skålformad fördjupning i marken som uppstått när en meteorit eller asteroid slagit ner med hög hastighet."
+    },
+    {
+      "term": "exosfär",
+      "explanation": "Ett extremt tunt gaslager kring en himlakropp där atomerna rör sig fritt utan att krocka med varandra."
+    },
+    {
+      "term": "förbiflygning",
+      "explanation": "En passage där en rymdsond flyger nära en himlakropp för att samla mätdata eller ändra kurs."
+    },
+    {
+      "term": "MESSENGER",
+      "explanation": "En amerikansk rymdsond som utforskade Merkurius mellan åren 2004 och 2015."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Take a look at this rocky, gray world. This is the planet Mercury, which is closest to the Sun. It looks a lot like our Moon, covered in round pits called craters. Those craters formed when space rocks crashed right into the ground long ago. A robotic spacecraft named MESSENGER flew close by to take this picture. There is no air to breathe on Mercury, and it gets as hot as an oven by day and colder than a freezer by night.",
+      "nyborjare": "In 2008, NASA's MESSENGER spacecraft conducted a historic first flyby of Mercury, the innermost planet in the solar system. This image shows a sweeping mosaic across the cratered horizon set against the darkness of deep space. Mercury lacks a substantial atmosphere and only possesses an extremely tenuous exosphere. Because there is no air or liquid water to erode the surface, features remain intact for billions of years. The countless impact craters seen across the landscape bear witness to the violent collisions that shaped the early solar system.",
+      "entusiast": "During its first gravity-assist flyby in January 2008, the MESSENGER spacecraft captured this mosaic using the Narrow Angle Camera of its MDIS imaging system. The view emphasizes Mercury's heavily cratered surface near the terminator, where oblique sunlight highlights topography and tectonic scarps. Mercury is unique among terrestrial planets due to its disproportionately large iron core, making up over 60 percent of its total mass. Without a dense atmosphere to insulate the crust, surface material interacts directly with the solar wind, continuously sustaining a transient exosphere composed of atoms sputtered from the surface."
+    },
+    "terms": [
+      {
+        "term": "impact crater",
+        "explanation": "A bowl-shaped depression formed when a meteorite or asteroid strikes a planetary surface at high speed."
+      },
+      {
+        "term": "exosphere",
+        "explanation": "An extremely thin layer of gas around a celestial body where atoms rarely collide with one another."
+      },
+      {
+        "term": "flyby",
+        "explanation": "A mission trajectory in which a spacecraft passes close to a body without entering orbit."
+      },
+      {
+        "term": "MESSENGER",
+        "explanation": "A NASA robotic probe that orbited and mapped the planet Mercury between 2004 and 2015."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Which planet in our solar system orbits closest to the Sun?",
+        "options": [
+          "Mercury",
+          "Venus",
+          "Mars"
+        ],
+        "correct": 0,
+        "fact": "Mercury is the innermost planet of our solar system, orbiting roughly 58 million kilometers from the Sun."
+      },
+      {
+        "q": "How is Mercury's tenuous gas envelope best described?",
+        "options": [
+          "A dense carbon dioxide atmosphere",
+          "An extremely thin exosphere",
+          "A thick layer of water vapor"
+        ],
+        "correct": 1,
+        "fact": "Mercury lacks a true atmosphere, possessing only a fragile exosphere where particles are easily lost to space."
+      },
+      {
+        "q": "Why does Mercury experience extreme temperature shifts between day and night?",
+        "options": [
+          "A runaway greenhouse effect in the air",
+          "Its powerful and shifting magnetic field",
+          "The lack of atmosphere and slow rotation"
+        ],
+        "correct": 2,
+        "fact": "Without an atmosphere to trap heat, day temperatures soar past 400 degrees Celsius while nights plunge to minus 180."
+      }
+    ]
+  }
+}

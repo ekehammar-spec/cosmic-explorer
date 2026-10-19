@@ -2,141 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Galaxy Cluster Abell 1689",
-  "title_sv": "Galaxhopen Abell 1689",
+  "title": "Hubble Sees 'Island Universe' in the Coma Cluster",
+  "title_sv": "Spiralgalaxen NGC 4911 i Comahopen",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002174/GSFC_20171208_Archive_e002174~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002174/GSFC_20171208_Archive_e002174~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002174/GSFC_20171208_Archive_e002174~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002174",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002070/GSFC_20171208_Archive_e002070~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002070/GSFC_20171208_Archive_e002070~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002070/GSFC_20171208_Archive_e002070~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002070",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e002174",
+  "id": "GSFC_20171208_Archive_e002070",
   "px": [
-    1920,
-    1695
+    1280,
+    1109
   ],
   "w": 640,
-  "h": 565,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQCBQYA/8QAKRAAAgIBAgQGAgMAAAAAAAAAAQIDEQAEIRIiMVEFE0FhcYEUkVKh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQEBAQEBAQAAAAAAAAAAAAABAAIREiH/2gAMAwEAAhEDEQA/AMZBEPNqV1ANi3vbb95FYWUMy3/Ei6sdsJE4MnNTAKd2NUe475f+HR6WTTOuojWivGHPU+g/vMtb8/awGzsMMsnNBGQY7LMpPT/MCY3SwxKmgaN7/WWbStp9UxTg4JDwsAKBHxgvENRHNIqacqUQUDw8N+5vGaVjhKKrCRArpbVuD0vHIG/H1SxyAzJZUCM7OfY/rK0nfJBiSx6H2xp2kZzUltnflscgFHpsb7YtSsCeLy1+CQCfS/rOm5fKI3tAd/vBl2Ni+5wCFv/Z",
+  "h": 554,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwUBAAf/xAAkEAABBAAGAgMBAAAAAAAAAAABAAIDEQQFEiExUSJBFBVhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/APP20SFXy/L5Mc4RQNLn80CpshhqMxarryB7VrKcdJlWJEjS0ktB2N/qqB+qe84hshZGYR5F7q/naivYGucOaVjNsZ8meSYDSXmyozub7SkZeyaKcN2IJQkbLvaKebEOl0gkkNFC/Q6RFzdJsG62rtY95eQTWwA2FIzyg//Z",
   "quiz": [
     {
-      "q": "Vad är egentligen en galaxhop?",
+      "q": "Vad händer oftast när två jämnstora galaxer krockar?",
       "options": [
-        "En samling stjärnor i en nebulosa",
-        "Tusentals galaxer samlade av gravitationen",
-        "Ett område där nya stjärnor tänds"
-      ],
-      "correct": 1,
-      "fact": "En galaxhop är en av universums största strukturer och hålls samman av gravitationen."
-    },
-    {
-      "q": "Vad orsakar de utdragna ljusbågarna i bilden?",
-      "options": [
-        "Gravitation som böjer bakomliggande galaxers ljus",
-        "Het gas som kastas ut från galaxerna",
-        "Optiska reflexer inuti teleskopets linser"
+        "De bildar en stor elliptisk galax",
+        "De studsar ifrån varandra oskadda",
+        "De förvandlas båda till svarta hål"
       ],
       "correct": 0,
-      "fact": "Fenomenet kallas gravitationell linsverkan och uppstår när hopens enorma massa böjer ljuset från avlägsna galaxer."
+      "fact": "Galaxkrockar är långsamma processer där stjärnornas banor blandas om så att en rundare elliptisk galax bildas."
     },
     {
-      "q": "Vad består merparten av galaxhopens massa av?",
+      "q": "Vad avslöjar de rosa och rödaktiga molnen i spiralgalaxer?",
       "options": [
-        "Lysande stjärnor och planeter",
-        "Täta stoftmoln mellan galaxerna",
-        "Osynlig mörk materia"
+        "Att galaxen håller på att lösas upp",
+        "Områden där nya stjärnor tänds",
+        "Rester av exploderade supermassiva svarta hål"
+      ],
+      "correct": 1,
+      "fact": "Rosa områden består av vätgas som lyser upp när heta, nyfödda stjärnor strålar i gasmolnen."
+    },
+    {
+      "q": "Varför är spiralgalaxer ovanligare i mitten av täta galaxhoper?",
+      "options": [
+        "Mörker hindrar spiralarmar från att bildas",
+        "Det saknas stjärnor i hopens mitt",
+        "Gravitation från grannar sliter sönder spiralarmarna"
       ],
       "correct": 2,
-      "fact": "Mörk materia utgör lejonparten av massan i galaxhopar och avslöjar sig genom sin gravitationella dragkraft."
+      "fact": "I täta hopar sliter förbipasserande galaxers gravitationskrafter bort gas och spiralarmar."
     }
   ],
   "levels": {
-    "barn": "Titta noga på bilden! Varje liten gulvit fläck är inte en ensam stjärna, utan en hel galax fylld med miljarder solar. Tillsammans bildar de en gigantisk familj som kallas galaxhop.\n\nDe konstiga, böjda strecken runt mitten ser nästan ut som repor i glaset. I själva verket fungerar den tunga galaxhopen som ett enormt förstoringsglas i rymden. Den böjer ljuset från andra galaxer som ligger ännu längre bort.",
-    "nyborjare": "Denna bild från 2010 visar Abell 1689, en av universums mest massiva kända galaxhopar, belägen cirka 2,5 miljarder ljusår bort. En galaxhop består av hundratals eller tusentals galaxer som hålls samman av gravitationen.\n\nDet mest iögonfallande i bilden är de tunna, krökta ljusbågarna. Dessa är optiska illusioner orsakade av gravitationell linsverkan. Hopens enorma massa kröker rumtiden och böjer ljusstrålarna från mycket mer avlägsna galaxer bakom den, precis som en enorm lins. Fenomenet förutsades av Albert Einstein i hans allmänna relativitetsteori. Bilden användes även i studier av storskaliga kosmiska rörelser, där forskare undersökte hur hopar rör sig genom universum.",
-    "entusiast": "Abell 1689, som uppmärksammades i denna studie från 2010 vid en rödförskjutning på z = 0,181, är ett av de mest spektakulära exemplen på gravitationell linsverkan i det observerbara universum. Galaxhopen innehåller tusentals galaxer och ett massivt interklustermedium av röntgenstrålande gas. Dess totala massa domineras dock helt av mörk materia.\n\nDen sammanlagda massan kröker rummet så kraftigt att bakgrundsgalaxer förvrängs till bågar och mångfaldiga spegelbilder. Genom att kartlägga dessa linser kan astronomer med hög precision rekonstruera massfördelningen och testa kosmologiska modeller för mörk materia och mörk energi.\n\nÅr 2010 analyserade forskare ledda av Alexander Kashlinsky rörelsen hos Abell 1689 och andra avlägsna galaxhopar. Genom att mäta den kinematiska Sunyaev-Zeldovich-effekten i den kosmiska bakgrundsstrålningen spårade man ett gemensamt massflöde, populärt kallat mörkt flöde. Denna rörelse sträcker sig över miljarder ljusår och har väckt intensiva diskussioner om storskaliga strukturer och eventuell gravitationell påverkan bortom det observerbara universums horisont."
+    "barn": "Titta på den fina snurran i rymden! Det är en jättelik galax som heter NGC 4911 och består av miljarder stjärnor. Den ser ut som ett glittrande hjul som snurrar runt i mörkret. De rosa fläckarna i armarna är barnkammare där nya stjärnor tänds. Men den är inte ensam därute. En annan galax i närheten drar i den med osynliga krafter, ungefär som när två kompisar råkar dra i samma leksak.",
+    "nyborjare": "Bilden togs av rymdteleskopet Hubble mellan 2006 och 2009 och visar spiralgalaxen NGC 4911. Galaxen ligger cirka 320 miljoner ljusår bort i Comahopen, en tät samling av omkring tusen galaxer. I mitten syns mörka stråk av stoft och gas mot ljusa stjärnhopar. De rosa molnen visar att heta, unga stjärnor håller på att bildas. Eftersom galaxerna i Comahopen ligger så tätt drar de i varandra med sin gravitation. En mindre granngalax till höger sliter redan i spiralarmarna och deformerar dem. När sådana krockar sker i hopens täta centrum smälter galaxerna ofta samman och bildar i stället en slät elliptisk galax.",
+    "entusiast": "Denna bild från rymdteleskopet Hubble krävde 28 timmars exponeringstid under åren 2006 till 2009 och togs med kamerorna WFPC2 och ACS. I centrum syns NGC 4911, en spiralgalax som vi ser rakt framifrån på ett avstånd av 320 miljoner ljusår i stjärnbilden Berenikes hår. Galaxen ingår i Comahopen, en av de tätaste kända galaxhoparna i det närbelägna universum. I galaxens innersta framträder stoftstråk mot nyfödda stjärnhopar och joniserat väte, vilket vittnar om intensiv stjärnbildning. I de yttre delarna ser man dock tydliga spår av gravitationsstörningar. Gravitationskraften från grannen NGC 4911A uppe till höger sliter loss gas och stjärnor ur spiralarmarna i långa tidvattensvansar. Materialet sprids ut i hopen och berikar den intergalaktiska rymden. Processer som denna driver galaxers morfologiska utveckling i täta miljöer, där upprepade sammanslagningar till sist omvandlar spiraler till en jättelik elliptisk galax."
   },
   "terms": [
     {
-      "term": "galaxhop",
-      "explanation": "En gigantisk samling av hundratals till tusentals galaxer som hålls samman av sin gemensamma gravitation."
+      "term": "Comahopen",
+      "explanation": "En tät samling av omkring tusen galaxer som ligger 320 miljoner ljusår från jorden."
     },
     {
-      "term": "gravitationell linsverkan",
-      "explanation": "Ett fenomen där ett massivt objekts gravitation böjer och förstärker ljuset från mer avlägsna bakgrundsobjekt."
+      "term": "spiralgalax",
+      "explanation": "En platt, roterande stjärnstad med armar av gas och nyfödda stjärnor som virvlar runt centrum."
     },
     {
-      "term": "mörk materia",
-      "explanation": "En osynlig form av materia som inte sänder ut ljus men vars gravitation påverkar synliga stjärnor och galaxer."
+      "term": "elliptisk galax",
+      "explanation": "En sfärisk eller oval stjärnsamling som saknar spiralarmar och ofta bildats genom galaxsammanslagningar."
     },
     {
-      "term": "rödförskjutning",
-      "explanation": "Ett mått på hur ljusets våglängd har dragits ut till följd av universums expansion eller objektets hastighet."
+      "term": "gravitation",
+      "explanation": "Den universella kraft som gör att all massa dras mot annan massa i rymden."
     },
     {
-      "term": "mörkt flöde",
-      "explanation": "En hypotetisk gemensam rörelse hos avlägsna galaxhopar som färdas i en och samma riktning genom rymden."
+      "term": "stjärnbildning",
+      "explanation": "Den fysikaliska process där kalla gasmoln i rymden dras samman av tyngdkraften tills nya stjärnor tänds."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look closely at this sparkling view! Each yellowish blob is not just a single star, but an entire galaxy holding billions of suns. Together, they gather like a giant family called a galaxy cluster.\n\nThe thin, curved streaks near the middle look like scratches on glass. In reality, the heavy cluster acts like a giant cosmic magnifying glass. It bends light coming from even more distant galaxies far behind it.",
-      "nyborjare": "Presented in 2010, this view highlights Abell 1689, one of the most massive known galaxy clusters, located about 2.5 billion light-years away. A galaxy cluster contains hundreds or thousands of individual galaxies held together by mutual gravity.\n\nThe most striking features in the image are the faint, curved arcs. These are optical distortions caused by gravitational lensing. The enormous mass of the cluster bends spacetime, deflecting light from background galaxies located much further away. This magnifying effect was predicted by Albert Einstein in his general theory of relativity. Astronomers also use clusters like this to investigate cosmic motion across immense distances in space.",
-      "entusiast": "Abell 1689, highlighted in 2010 research at a redshift of z = 0.181, is one of the premier gravitational lensing laboratories in the observable universe. The cluster hosts thousands of member galaxies embedded within an intracluster medium of hot, X-ray emitting gas. However, its overall mass profile is completely dominated by dark matter.\n\nThis colossal concentration of mass curves surrounding spacetime so severely that background galaxies are magnified and sheared into extended arcs. By mapping these distorted images, astrophysicists can reconstruct the cluster's mass distribution and place strict constraints on models of structure formation and dark energy.\n\nIn 2010, researchers led by Alexander Kashlinsky evaluated Abell 1689 alongside hundreds of distant clusters. Utilizing the kinematic Sunyaev-Zeldovich effect in the cosmic microwave background, they traced a collective velocity field known as dark flow. This unexplained bulk drift spans billions of light-years, sparking debate regarding cosmological homogeneity and potential gravitational tugs originating beyond the observable horizon."
+      "barn": "Look at this giant glowing pinwheel in space! This is a galaxy called NGC 4911, filled with billions of bright stars. It looks like a shiny wheel spinning in the dark. The pink spots in its winding arms are nurseries where baby stars are born. But this galaxy is not alone. Another galaxy nearby is pulling on its edges, like two friends gently tugging on opposite sides of a blanket.",
+      "nyborjare": "Captured by the Hubble Space Telescope between 2006 and 2009, this image shows the spiral galaxy NGC 4911. It lies roughly 320 million light-years away within the Coma Cluster, a massive swarm of nearly one thousand galaxies. Near the center, dark lanes of dust and gas stand out against bright star clusters. Glowing pink clouds highlight regions of active star formation. Because galaxies in the cluster are packed so closely together, their gravity pulls on one another. An adjacent companion galaxy to the upper right is already stripping and distorting NGC 4911's outer spiral arms. Over time, repeated mergers in cluster centers reshape gas-rich spirals into a single elliptical galaxy.",
+      "entusiast": "This natural-color view combines 28 hours of exposure time collected between 2006 and 2009 with Hubble's WFPC2 and ACS instruments. Located 320 million light-years away in the constellation Coma Berenices, NGC 4911 is a face-on spiral galaxy situated deep inside the Coma Cluster. The cluster is one of the densest known galactic environments, harboring nearly 1,000 member galaxies. NGC 4911's core exhibits intricate dust lanes silhouetted by luminous newborn clusters and glowing H II regions, indicators of intense star formation. However, its outskirts reveal profound gravitational disruption. The gravitational pull of companion galaxy NGC 4911A to the upper right is pulling delicate tidal arcs from the outer arms. Stripped gas and stars will eventually disperse into the intracluster medium. Such interactions drive galactic evolution in high-density environments, where frequent collisions ultimately transform delicate spirals into a massive elliptical galaxy."
     },
     "terms": [
       {
-        "term": "galaxy cluster",
-        "explanation": "A massive gravitationally bound system comprising hundreds to thousands of galaxies and diffuse hot gas."
+        "term": "Coma Cluster",
+        "explanation": "A dense collection of nearly one thousand galaxies located roughly 320 million light-years from Earth."
       },
       {
-        "term": "gravitational lensing",
-        "explanation": "The bending and magnification of light from a distant source as it passes a massive foreground object."
+        "term": "spiral galaxy",
+        "explanation": "A rotating, disk-shaped galaxy featuring winding spiral arms of young stars, dust, and gas."
       },
       {
-        "term": "dark matter",
-        "explanation": "A non-luminous component of the universe that does not interact with light but exerts gravitational attraction."
+        "term": "elliptical galaxy",
+        "explanation": "A smooth, rounded galaxy of stars that lacks spiral structure and typically contains older stellar populations."
       },
       {
-        "term": "redshift",
-        "explanation": "The elongation of electromagnetic wavelengths toward redder frequencies caused by cosmic expansion or relative motion."
+        "term": "star formation",
+        "explanation": "The process by which dense clouds of interstellar gas and dust collapse to create new stars."
       },
       {
-        "term": "dark flow",
-        "explanation": "A controversial observed bulk motion of distant galaxy clusters streaming across the cosmos in a unified direction."
+        "term": "gravity",
+        "explanation": "The fundamental attraction force that pulls matter together throughout the universe."
       }
     ],
     "quiz": [
       {
-        "q": "What is a galaxy cluster?",
+        "q": "What usually happens when two galaxies of similar mass merge?",
         "options": [
-          "A group of stars inside a nebula",
-          "Thousands of galaxies bound by gravity",
-          "A region where new stars ignite"
-        ],
-        "correct": 1,
-        "fact": "A galaxy cluster is one of the largest gravitationally bound structures in the universe."
-      },
-      {
-        "q": "What causes the curved arcs seen around the center?",
-        "options": [
-          "Gravity bending light from distant background galaxies",
-          "Hot gas ejected outward from central galaxies",
-          "Internal optical reflections inside the telescope lens"
+          "They form a giant elliptical galaxy",
+          "They bounce off each other undamaged",
+          "They both collapse into black holes"
         ],
         "correct": 0,
-        "fact": "Gravitational lensing occurs when immense mass warps spacetime and bends the path of passing light."
+        "fact": "Galaxy collisions slowly randomize stellar orbits, reshaping spirals into a rounded elliptical galaxy."
       },
       {
-        "q": "What makes up most of the cluster's total mass?",
+        "q": "What do pink and reddish clouds reveal in spiral galaxies?",
         "options": [
-          "Luminous stars and orbiting planetary systems",
-          "Dense dust clouds drifting between galaxies",
-          "Invisible dark matter"
+          "The galaxy is currently tearing apart",
+          "Regions where new stars are forming",
+          "Remnants of exploded supermassive black holes"
+        ],
+        "correct": 1,
+        "fact": "Pink clouds are glowing hydrogen gas energized by ultraviolet light from hot newborn stars."
+      },
+      {
+        "q": "Why are spiral galaxies less common in dense cluster centers?",
+        "options": [
+          "Complete darkness halts the formation process",
+          "Cluster cores completely lack any stars",
+          "Gravitational tides from neighboring galaxies disrupt them"
         ],
         "correct": 2,
-        "fact": "Dark matter accounts for the vast majority of mass in galaxy clusters, dwarfing normal matter."
+        "fact": "Close gravitational interactions in dense clusters strip away spiral arms and gas from galaxies."
       }
     ]
   }

@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-19",
+  "title": "Autumn Paints Poland’s Bieszczady Mountains",
+  "title_sv": "Hösten färgar Bieszczadybergen i Polen",
+  "place": "Bieszczady, Polen",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland&#039;s-bieszczady-mountains/poland_bieszczady_oli2_20261008.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland&#039;s-bieszczady-mountains/poland_bieszczady_oli2_20261008.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland&#039;s-bieszczady-mountains/poland_bieszczady_oli2_20261008.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+  "levels": {
+    "barn": "Från rymden ser bergen ut som en mjuk matta av varma färger. Skogarna lyser i gult, orange och rött medan de allra högsta bergskammarna är ljusbruna och vissna. Det är höst i nationalparken Bieszczady i Polen. Träden här tappar sin gröna färg när luften blir kallare och dagarna kortare inför vintern.\n\nUppe på de trädlösa topparna syns gräsmarker som också har gulnat. Nere bland de färgsprakande träden vandrar björnar, lodjur och vilda visenter som letar efter mat innan snön faller.",
+    "nyborjare": "Satellitbilden visar ett kuperat bergslandskap där höstfärgerna breder ut sig över sluttningarna. De gyllene och roströda fälten är lövskogar, framför allt vanlig bok och tysklönn. När höstkylan kommer och dagsljuset minskar bryts klorofyllet ner, det gröna ämnet som växter använder för att omvandla solljus till näring. Då framträder i stället bladens gula och röda färgämnen.\n\nSkogen sträcker sig upp till omkring 1 000 till 1 260 meters höjd över havet. Ovanför trädgränsen skiftar färgerna till blekbrunt längs bergskammarna. Dessa öppna områden kallas polonina, vilket är ett slaviskt ord för subalpina ängar med gräs och buskage.\n\nOmrådet rymmer en del av Unescos skyddade urskogar av bok. Här lever också ett rikt djurliv med brunbjörnar och återintroducerade europeiska visenter.",
+    "entusiast": "Denna bild i naturliga färger togs den 8 oktober 2026 av instrumentet OLI ombord på satelliten Landsat 9. Genom att registrera reflekterat solljus i synliga och infraröda våglängder fångar sensorn vegetationens fenologiska skifte i Bieszczadys nationalpark i sydöstra Polen.\n\nOmrådets skogar domineras av vanlig bok, Fagus sylvatica, tillsammans med bland annat tysklönn. Träden minskar sin klorofyllproduktion som svar på sjunkande temperaturer och avtagande dagslängd, vilket exponerar karotenoider och antocyaniner. Boken spreds norrut från isolerade tillflyktsorter i Karpaterna och Alperna efter den senaste istiden och återbeskogade den europeiska kontinenten. Delar av nationalparken ingår därför i Unescos nätverk av ursprungliga bokskogar.\n\nI bilden framträder även en tydlig höjdzonering. Bokskogen når sin övre gräns mellan 1 000 och 1 260 meter över havet. Ovanför tar subalpina ängar vid, lokalt benämnda polonina, vilka sträcker sig som beigefärgade band längs bergskammarna öster och sydost om toppen Smerek. Dessa höglänta gräsmarker och busksnår av rönn och al har tappat sin sommargrönska. För forskare ger satellitdata värdefull information om skogarnas tillstånd och livsmiljöer för sällsynta arter som visent, brunbjörn och lodjur."
+  },
+  "terms": [
+    {
+      "term": "klorofyll",
+      "explanation": "Det gröna färgämne i växternas blad som fångar upp solenergi under fotosyntesen."
+    },
+    {
+      "term": "polonina",
+      "explanation": "En slavisk beteckning för öppna, subalpina bergsängar ovanför trädgränsen i Karpaterna."
+    },
+    {
+      "term": "bok",
+      "explanation": "Ett lövträd som dominerar Centraleuropas tempererade skogar och tål varierande klimat."
+    },
+    {
+      "term": "visent",
+      "explanation": "Ett europeiskt vildoxdjur som återintroducerades i Bieszczadybergen under 1960-talet."
+    },
+    {
+      "term": "OLI",
+      "explanation": "Ett optiskt instrument på Landsat 9 som fotograferar jordytan i flera våglängdsband."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "From space, the mountains look like a soft blanket of warm autumn colors. The forests glow in bright yellow, orange, and red, while the highest ridges appear pale tan. This is Bieszczady National Park in Poland. Trees here lose their green color as the weather cools and days grow shorter before winter.\n\nAbove the tree line, mountain meadows have dried out and turned brown. Down in the colorful woods, bears, lynx, and wild bison roam looking for food.",
+      "nyborjare": "This satellite image shows rolling mountains blanketed by vibrant autumn foliage. The golden and reddish slopes are deciduous forests, primarily European beech and sycamore maple. As temperatures drop and daylight wanes, trees halt production of chlorophyll, the green molecule used to make food through photosynthesis. This allows yellow and red pigments to show through.\n\nThe forests climb up to about 1,000 to 1,260 meters in elevation. Above this boundary, the landscape shifts to tan along the ridge tops. These open grasslands and shrubby areas are known as polonina, a Slavic term for subalpine mountain meadows.\n\nThe region preserves ancient beech forests recognized by UNESCO. It also offers a sanctuary for charismatic wildlife, including brown bears and European bison that were reintroduced here during the 1960s.",
+      "entusiast": "Captured on October 8, 2026, by the Operational Land Imager (OLI) aboard the Landsat 9 satellite, this natural-color image highlights the seasonal phenological shift in Poland’s Bieszczady National Park. By measuring reflected sunlight across visible and infrared spectral bands, the sensor reveals the transition of deciduous canopy across the rugged terrain of the Carpathian Mountains.\n\nEuropean beech (Fagus sylvatica) dominates the lower and middle slopes, mingled with sycamore maple. As photoperiod shrinks and temperatures fall, the breakdown of chlorophyll unmasks vibrant carotenoids and anthocyanins. Historically, European beech expanded northward across the continent from glacial refugia in the Carpathians and Alps, earning portions of the park UNESCO World Heritage status.\n\nThe image distinctly captures ecological zonation. Beech forests cease between 1,000 and 1,260 meters elevation, giving way to subalpine meadows known locally as polonina. These ridges, visible as pale tan ribbons east-southeast of Smerek, consist of grasses and shrub thickets of rowan, willow, and alder that have senesced. Satellite observations like Landsat provide scientists with vital data to monitor forest health, phenology, and habitat corridors for vulnerable mammals such as the Eurasian lynx, brown bear, and reintroduced European bison."
+    },
+    "terms": [
+      {
+        "term": "chlorophyll",
+        "explanation": "The green pigment inside plant cells responsible for absorbing light energy during photosynthesis."
+      },
+      {
+        "term": "polonina",
+        "explanation": "A Slavic term for subalpine mountain meadows found above the timberline in the Carpathians."
+      },
+      {
+        "term": "European beech",
+        "explanation": "A deciduous tree species that spread across Europe following the retreat of ice-age glaciers."
+      },
+      {
+        "term": "European bison",
+        "explanation": "A large wild herbivore reintroduced to the Carpathian Mountains during the 1960s."
+      },
+      {
+        "term": "OLI",
+        "explanation": "The Operational Land Imager, an optical sensor on Landsat satellites capturing multispectral Earth imagery."
+      }
+    ],
+    "place": "Bieszczady Mountains, Poland"
+  }
+}

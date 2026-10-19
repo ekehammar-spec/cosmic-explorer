@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-19",
+  "media_type": "image",
+  "title": "Merkurius horisont sedd av MESSENGER",
+  "title_en": "MESSENGER Views Mercury Horizon",
+  "thumb": "https://images-assets.nasa.gov/image/PIA10176/PIA10176~small.jpg"
+ },
+ {
   "date": "2026-10-18",
   "media_type": "image",
   "title": "Örnnebulosans pelare",
@@ -23,9 +30,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Galaxhopen Abell 1689",
-  "title_en": "Galaxy Cluster Abell 1689",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002174/GSFC_20171208_Archive_e002174~small.jpg"
+  "title": "Spiralgalaxen NGC 4911 i Comahopen",
+  "title_en": "Hubble Sees 'Island Universe' in the Coma Cluster",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002070/GSFC_20171208_Archive_e002070~small.jpg"
  },
  {
   "date": "2026-10-14",
