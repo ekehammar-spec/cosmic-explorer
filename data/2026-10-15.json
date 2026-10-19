@@ -1,142 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Sees 'Island Universe' in the Coma Cluster",
-  "title_sv": "Spiralgalaxen NGC 4911 i Comahopen",
+  "title": "Hubble Uncovering the Secrets of the Quintuplet Cluster",
+  "title_sv": "Quintetthopen",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002070/GSFC_20171208_Archive_e002070~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002070/GSFC_20171208_Archive_e002070~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002070/GSFC_20171208_Archive_e002070~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002070",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000679/GSFC_20171208_Archive_e000679~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000679/GSFC_20171208_Archive_e000679~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000679/GSFC_20171208_Archive_e000679~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000679",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e002070",
+  "id": "GSFC_20171208_Archive_e000679",
   "px": [
     1280,
-    1109
+    1142
   ],
   "w": 640,
-  "h": 554,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwUBAAf/xAAkEAABBAAGAgMBAAAAAAAAAAABAAIDEQQFEiExUSJBFBVhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/APP20SFXy/L5Mc4RQNLn80CpshhqMxarryB7VrKcdJlWJEjS0ktB2N/qqB+qe84hshZGYR5F7q/naivYGucOaVjNsZ8meSYDSXmyozub7SkZeyaKcN2IJQkbLvaKebEOl0gkkNFC/Q6RFzdJsG62rtY95eQTWwA2FIzyg//Z",
+  "h": 571,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAgEEAwUG/8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIRAAMSITFBBBNRImGBFHGRwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDkLpDOoWSADMaUrPaAXBpJGojY+1EI3cW2xO8MQJ/NbH6RrXS98MrJJiQJHxUVTYZmNSdtRHzT6ZcSc9mPI0FK3ZEyC2Wwkceak+pyoga6gbiqgIjJBMAnXLgVbF1XW2r54ADLTb7f2q4Y9oCdwNaSubobIADwPagx3brl5YeoxBJ4FEAC9k1xSZmPNO6BKr4EzzUW4NxkxAGX6pR//9k=",
   "quiz": [
     {
-      "q": "Vad händer oftast när två jämnstora galaxer krockar?",
+      "q": "Vad är en ljusstark blå variabel?",
       "options": [
-        "De bildar en stor elliptisk galax",
-        "De studsar ifrån varandra oskadda",
-        "De förvandlas båda till svarta hål"
+        "En sällsynt och extremt ljusstark massiv stjärna",
+        "En typ av planet med flytande blå gas",
+        "Ett svart hål som slukar blå stjärnor"
       ],
       "correct": 0,
-      "fact": "Galaxkrockar är långsamma processer där stjärnornas banor blandas om så att en rundare elliptisk galax bildas."
+      "fact": "En ljusstark blå variabel är en mycket sällsynt och massiv stjärna som kastar bort materia och lyser extremt starkt under en kort livstid."
     },
     {
-      "q": "Vad avslöjar de rosa och rödaktiga molnen i spiralgalaxer?",
+      "q": "Varför upptäcktes Quintetthopen först 1990?",
       "options": [
-        "Att galaxen håller på att lösas upp",
-        "Områden där nya stjärnor tänds",
-        "Rester av exploderade supermassiva svarta hål"
+        "Den bildades efter ett jättelikt teleskophaveri",
+        "Tjockt stoft döljer dess synliga ljus",
+        "Stjärnorna rör sig för snabbt för kameror"
       ],
       "correct": 1,
-      "fact": "Rosa områden består av vätgas som lyser upp när heta, nyfödda stjärnor strålar i gasmolnen."
+      "fact": "Hopen ligger nära galaxens centrum där stora mängder interstellärt stoft blockerar det synliga ljuset, vilket krävde infraröda observationer för att avslöja den."
     },
     {
-      "q": "Varför är spiralgalaxer ovanligare i mitten av täta galaxhoper?",
+      "q": "Vad händer med tunga stjärnor när deras bränsle tar slut?",
       "options": [
-        "Mörker hindrar spiralarmar från att bildas",
-        "Det saknas stjärnor i hopens mitt",
-        "Gravitation från grannar sliter sönder spiralarmarna"
+        "De drar ihop sig till kalla vita dvärgar",
+        "De sprängs i en våldsam supernova",
+        "De omvandlas till jättelika planeter"
       ],
-      "correct": 2,
-      "fact": "I täta hopar sliter förbipasserande galaxers gravitationskrafter bort gas och spiralarmar."
+      "correct": 1,
+      "fact": "Massiva stjärnor förbrukar sitt bränsle i en enorm hastighet och avslutar sina liv i dramatiska supernovautbrott som frigör enorma mängder energi."
     }
   ],
   "levels": {
-    "barn": "Titta på den fina snurran i rymden! Det är en jättelik galax som heter NGC 4911 och består av miljarder stjärnor. Den ser ut som ett glittrande hjul som snurrar runt i mörkret. De rosa fläckarna i armarna är barnkammare där nya stjärnor tänds. Men den är inte ensam därute. En annan galax i närheten drar i den med osynliga krafter, ungefär som när två kompisar råkar dra i samma leksak.",
-    "nyborjare": "Bilden togs av rymdteleskopet Hubble mellan 2006 och 2009 och visar spiralgalaxen NGC 4911. Galaxen ligger cirka 320 miljoner ljusår bort i Comahopen, en tät samling av omkring tusen galaxer. I mitten syns mörka stråk av stoft och gas mot ljusa stjärnhopar. De rosa molnen visar att heta, unga stjärnor håller på att bildas. Eftersom galaxerna i Comahopen ligger så tätt drar de i varandra med sin gravitation. En mindre granngalax till höger sliter redan i spiralarmarna och deformerar dem. När sådana krockar sker i hopens täta centrum smälter galaxerna ofta samman och bildar i stället en slät elliptisk galax.",
-    "entusiast": "Denna bild från rymdteleskopet Hubble krävde 28 timmars exponeringstid under åren 2006 till 2009 och togs med kamerorna WFPC2 och ACS. I centrum syns NGC 4911, en spiralgalax som vi ser rakt framifrån på ett avstånd av 320 miljoner ljusår i stjärnbilden Berenikes hår. Galaxen ingår i Comahopen, en av de tätaste kända galaxhoparna i det närbelägna universum. I galaxens innersta framträder stoftstråk mot nyfödda stjärnhopar och joniserat väte, vilket vittnar om intensiv stjärnbildning. I de yttre delarna ser man dock tydliga spår av gravitationsstörningar. Gravitationskraften från grannen NGC 4911A uppe till höger sliter loss gas och stjärnor ur spiralarmarna i långa tidvattensvansar. Materialet sprids ut i hopen och berikar den intergalaktiska rymden. Processer som denna driver galaxers morfologiska utveckling i täta miljöer, där upprepade sammanslagningar till sist omvandlar spiraler till en jättelik elliptisk galax."
+    "barn": "Långt in i Vintergatan finns en tätt packad samling med glödande stjärnor som kallas för en stjärnhop. Vissa av stjärnorna här är gigantiska och lyser så starkt att de bränner upp sitt bränsle i rasande fart. Snart kommer de att explodera i jättelika fyrverkerier som kallas supernovor och sprida sitt stoft ut i rymden.",
+    "nyborjare": "Denna fascinerande stjärnhop kallas Quintetthopen och rymmer hundratals unga och massiva stjärnor nära galaxens centrum. Eftersom hopens synliga ljus blockeras av tjockt kosmiskt stoft kunde den inte upptäckas förrän år 1990 med hjälp av infrarött ljus. Den infraröda tekniken gör det möjligt att se rakt igenom stoftmolnen. Här finns extremt sällsynta stjärnor som den enorma Pistolstjärnan, men också stora röda superjättar som närmar sig slutet av sina liv. Denna historiska bild från 1999 visar hur Hubble-teleskopets prestanda har utvecklats genom åren.",
+    "entusiast": "Quintetthopen är en av galaxens mest extrema stjärnpopulationer, belägen endast etthundra ljusår från Vintergatans galaktiska centrum. Hopens närhet till centralt stoft gjorde den okänd fram till 1990 då infraröda observationer avslöjade dess existens. Systemet innehåller två sällsynta ljusstarka blå variabler, inklusive den massiva Pistolstjärnan som lyser upp en omgivande nebulosa. Förekomsten av ett flertal röda superjättar indikerar en genomsnittlig ålder på omkring fyra miljoner år för hela hopen. Dessa tunga stjärnor befinner sig i slutskedet av sin evolution och förväntas explodera som supernovor eller hypernovor inom en miljon till tre miljoner år, vilket kommer att frigöra energi som värmer den omgivande interstellära gasen och stoftet. Bilden från 1999 visar tydligt kapaciteten hos Hubble-teleskopet i det infraröda spektrumet."
   },
   "terms": [
     {
-      "term": "Comahopen",
-      "explanation": "En tät samling av omkring tusen galaxer som ligger 320 miljoner ljusår från jorden."
+      "term": "stjärnhop",
+      "explanation": "En stor samling stjärnor som hålls samman av sin egen ömsesidiga gravitation."
     },
     {
-      "term": "spiralgalax",
-      "explanation": "En platt, roterande stjärnstad med armar av gas och nyfödda stjärnor som virvlar runt centrum."
+      "term": "supernova",
+      "explanation": "En extremt kraftfull och ljusstark explosion som markerar slutet på en massiv stjärnas liv."
     },
     {
-      "term": "elliptisk galax",
-      "explanation": "En sfärisk eller oval stjärnsamling som saknar spiralarmar och ofta bildats genom galaxsammanslagningar."
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och stoft ute i rymden."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den universella kraft som gör att all massa dras mot annan massa i rymden."
-    },
-    {
-      "term": "stjärnbildning",
-      "explanation": "Den fysikaliska process där kalla gasmoln i rymden dras samman av tyngdkraften tills nya stjärnor tänds."
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset färdas på ett helt år i tom rymd."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this giant glowing pinwheel in space! This is a galaxy called NGC 4911, filled with billions of bright stars. It looks like a shiny wheel spinning in the dark. The pink spots in its winding arms are nurseries where baby stars are born. But this galaxy is not alone. Another galaxy nearby is pulling on its edges, like two friends gently tugging on opposite sides of a blanket.",
-      "nyborjare": "Captured by the Hubble Space Telescope between 2006 and 2009, this image shows the spiral galaxy NGC 4911. It lies roughly 320 million light-years away within the Coma Cluster, a massive swarm of nearly one thousand galaxies. Near the center, dark lanes of dust and gas stand out against bright star clusters. Glowing pink clouds highlight regions of active star formation. Because galaxies in the cluster are packed so closely together, their gravity pulls on one another. An adjacent companion galaxy to the upper right is already stripping and distorting NGC 4911's outer spiral arms. Over time, repeated mergers in cluster centers reshape gas-rich spirals into a single elliptical galaxy.",
-      "entusiast": "This natural-color view combines 28 hours of exposure time collected between 2006 and 2009 with Hubble's WFPC2 and ACS instruments. Located 320 million light-years away in the constellation Coma Berenices, NGC 4911 is a face-on spiral galaxy situated deep inside the Coma Cluster. The cluster is one of the densest known galactic environments, harboring nearly 1,000 member galaxies. NGC 4911's core exhibits intricate dust lanes silhouetted by luminous newborn clusters and glowing H II regions, indicators of intense star formation. However, its outskirts reveal profound gravitational disruption. The gravitational pull of companion galaxy NGC 4911A to the upper right is pulling delicate tidal arcs from the outer arms. Stripped gas and stars will eventually disperse into the intracluster medium. Such interactions drive galactic evolution in high-density environments, where frequent collisions ultimately transform delicate spirals into a massive elliptical galaxy."
+      "barn": "Deep inside the Milky Way there is a tightly packed collection of glowing stars called a star cluster. Some of the stars here are gigantic and shine so brightly that they burn through their fuel at a furious speed. Soon they will explode in giant cosmic fireworks called supernovas and scatter their dust out into space.",
+      "nyborjare": "This fascinating star cluster is called the Quintuplet Cluster and houses hundreds of young and massive stars near the center of our galaxy. Because the cluster's visible light is blocked by thick cosmic dust, it remained unknown until 1990 when it was revealed by infrared observations. Infrared technology makes it possible to see right through the dust clouds. Here we find extremely rare stars like the massive Pistol Star, as well as large red supergiants approaching the end of their lives. This historical image from 1999 demonstrates how the performance of the Hubble telescope has developed over time.",
+      "entusiast": "The Quintuplet Cluster is one of the galaxy's most extreme stellar populations, located just one hundred light-years from the galactic center of the Milky Way. The cluster's proximity to central dust kept it unknown until 1990 when infrared observations uncovered its existence. The system contains two rare luminous blue variables, including the massive Pistol Star which illuminates an ambient nebula. The presence of several red supergiants indicates an average age of about four million years for the entire cluster. These heavy stars are in the final stages of their evolution and are expected to explode as supernovas or hypernovas within one to three million years, releasing energy that will heat the surrounding interstellar gas and dust. The 1999 image clearly displays the capabilities of the Hubble telescope in the infrared spectrum."
     },
     "terms": [
       {
-        "term": "Coma Cluster",
-        "explanation": "A dense collection of nearly one thousand galaxies located roughly 320 million light-years from Earth."
+        "term": "star cluster",
+        "explanation": "A large collection of stars held together by their mutual gravitational attraction."
       },
       {
-        "term": "spiral galaxy",
-        "explanation": "A rotating, disk-shaped galaxy featuring winding spiral arms of young stars, dust, and gas."
+        "term": "supernova",
+        "explanation": "An extremely powerful and luminous explosion marking the end of a massive star's life."
       },
       {
-        "term": "elliptical galaxy",
-        "explanation": "A smooth, rounded galaxy of stars that lacks spiral structure and typically contains older stellar populations."
+        "term": "nebula",
+        "explanation": "A vast cloud of gas and dust out in space."
       },
       {
-        "term": "star formation",
-        "explanation": "The process by which dense clouds of interstellar gas and dust collapse to create new stars."
-      },
-      {
-        "term": "gravity",
-        "explanation": "The fundamental attraction force that pulls matter together throughout the universe."
+        "term": "light-year",
+        "explanation": "The distance that light travels in one Earth year through empty space."
       }
     ],
     "quiz": [
       {
-        "q": "What usually happens when two galaxies of similar mass merge?",
+        "q": "What is a luminous blue variable?",
         "options": [
-          "They form a giant elliptical galaxy",
-          "They bounce off each other undamaged",
-          "They both collapse into black holes"
+          "A rare and extremely bright massive star",
+          "A type of planet with liquid blue gas",
+          "A black hole devouring blue stars"
         ],
         "correct": 0,
-        "fact": "Galaxy collisions slowly randomize stellar orbits, reshaping spirals into a rounded elliptical galaxy."
+        "fact": "A luminous blue variable is a very rare and massive star that ejects matter and shines extremely brightly during a short lifetime."
       },
       {
-        "q": "What do pink and reddish clouds reveal in spiral galaxies?",
+        "q": "Why was the Quintuplet Cluster discovered only in 1990?",
         "options": [
-          "The galaxy is currently tearing apart",
-          "Regions where new stars are forming",
-          "Remnants of exploded supermassive black holes"
+          "It formed after a giant telescope failure",
+          "Thick dust blocks its visible light",
+          "The stars move too fast for cameras"
         ],
         "correct": 1,
-        "fact": "Pink clouds are glowing hydrogen gas energized by ultraviolet light from hot newborn stars."
+        "fact": "The cluster is located near the galactic center where large amounts of interstellar dust block visible light, requiring infrared observations to reveal it."
       },
       {
-        "q": "Why are spiral galaxies less common in dense cluster centers?",
+        "q": "What happens to heavy stars when their fuel runs out?",
         "options": [
-          "Complete darkness halts the formation process",
-          "Cluster cores completely lack any stars",
-          "Gravitational tides from neighboring galaxies disrupt them"
+          "They contract into cold white dwarfs",
+          "They explode in a violent supernova",
+          "They transform into giant planets"
         ],
-        "correct": 2,
-        "fact": "Close gravitational interactions in dense clusters strip away spiral arms and gas from galaxies."
+        "correct": 1,
+        "fact": "Massive stars consume their fuel at a tremendous rate and end their lives in dramatic supernova explosions that release immense amounts of energy."
       }
     ]
   }
