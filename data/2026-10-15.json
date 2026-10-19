@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Uncovering the Secrets of the Quintuplet Cluster",
-  "title_sv": "Quintetthopen",
+  "title": "Hubble Sees an Ancient Globular Cluster",
+  "title_sv": "NGC 6535",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000679/GSFC_20171208_Archive_e000679~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000679/GSFC_20171208_Archive_e000679~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000679/GSFC_20171208_Archive_e000679~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000679",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000846/GSFC_20171208_Archive_e000846~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000846/GSFC_20171208_Archive_e000846~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000846/GSFC_20171208_Archive_e000846~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000846",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000679",
+  "id": "GSFC_20171208_Archive_e000846",
   "px": [
     1280,
-    1142
+    1265
   ],
   "w": 640,
-  "h": 571,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAgEEAwUG/8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIRAAMSITFBBBNRImGBFHGRwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDkLpDOoWSADMaUrPaAXBpJGojY+1EI3cW2xO8MQJ/NbH6RrXS98MrJJiQJHxUVTYZmNSdtRHzT6ZcSc9mPI0FK3ZEyC2Wwkceak+pyoga6gbiqgIjJBMAnXLgVbF1XW2r54ADLTb7f2q4Y9oCdwNaSubobIADwPagx3brl5YeoxBJ4FEAC9k1xSZmPNO6BKr4EzzUW4NxkxAGX6pR//9k=",
+  "h": 632,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABAEAAgf/xAAlEAABAwMDBAMBAAAAAAAAAAABAAIRAyExBEFREhMiYTJxgbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOelpBvHOVYzKrCQ6RkYTaDQ1/bDadaYixzwMIofbe4FwEgCT03ge+FoQC+Gbm02TKjK+n62eYBHS5uJE7/qI4fU7oM2Jm82CTQqeXxEm/7wiAgOkC3tUmQLCf6gZqtQdQ8udId7IA+kMmb4UnOJ5UBvlB//2Q==",
   "quiz": [
     {
-      "q": "Vad är en ljusstark blå variabel?",
+      "q": "Vad är en klotformig stjärnhop?",
       "options": [
-        "En sällsynt och extremt ljusstark massiv stjärna",
-        "En typ av planet med flytande blå gas",
-        "Ett svart hål som slukar blå stjärnor"
+        "En tätt samlad grupp stjärnor i galaxers utkanter",
+        "Ett moln av gas där nya stjärnor föds",
+        "Resterna efter en stjärnas våldsamma supernovaexplosion"
       ],
       "correct": 0,
-      "fact": "En ljusstark blå variabel är en mycket sällsynt och massiv stjärna som kastar bort materia och lyser extremt starkt under en kort livstid."
+      "fact": "Klotformiga stjärnhopar består av hundratusentals gamla stjärnor som hålls samman av gravitationen i en sfärisk form."
     },
     {
-      "q": "Varför upptäcktes Quintetthopen först 1990?",
+      "q": "Varför ser stjärnorna i en gammal hop ofta gula ut?",
       "options": [
-        "Den bildades efter ett jättelikt teleskophaveri",
-        "Tjockt stoft döljer dess synliga ljus",
-        "Stjärnorna rör sig för snabbt för kameror"
+        "De lyser igenom ett tjockt lager av rymdstoft",
+        "De innehåller mest äldre stjärnor med lägre temperatur",
+        "De har just bildats ur kalla gasmoln"
       ],
       "correct": 1,
-      "fact": "Hopen ligger nära galaxens centrum där stora mängder interstellärt stoft blockerar det synliga ljuset, vilket krävde infraröda observationer för att avslöja den."
+      "fact": "Dessa stjärnhopar är mycket gamla och de tunga, blå stjärnorna har för längesedan dött ut, vilket lämnar kvar gulaktiga äldre stjärnor."
     },
     {
-      "q": "Vad händer med tunga stjärnor när deras bränsle tar slut?",
+      "q": "Hur skapas den runda formen hos en stjärnhop?",
       "options": [
-        "De drar ihop sig till kalla vita dvärgar",
-        "De sprängs i en våldsam supernova",
-        "De omvandlas till jättelika planeter"
+        "Genom att stjärnorna trycks ihop av yttre magnetfält",
+        "Genom att den centrala massan drar stjärnorna inåt",
+        "Genom att rotationen tvingar stjärnorna i en cirkel"
       ],
       "correct": 1,
-      "fact": "Massiva stjärnor förbrukar sitt bränsle i en enorm hastighet och avslutar sina liv i dramatiska supernovautbrott som frigör enorma mängder energi."
+      "fact": "Den stora sammanlagda massan i hoppets rika mitt utövar en stark dragningskraft som drar stjärnorna mot ett gemensamt centrum."
     }
   ],
   "levels": {
-    "barn": "Långt in i Vintergatan finns en tätt packad samling med glödande stjärnor som kallas för en stjärnhop. Vissa av stjärnorna här är gigantiska och lyser så starkt att de bränner upp sitt bränsle i rasande fart. Snart kommer de att explodera i jättelika fyrverkerier som kallas supernovor och sprida sitt stoft ut i rymden.",
-    "nyborjare": "Denna fascinerande stjärnhop kallas Quintetthopen och rymmer hundratals unga och massiva stjärnor nära galaxens centrum. Eftersom hopens synliga ljus blockeras av tjockt kosmiskt stoft kunde den inte upptäckas förrän år 1990 med hjälp av infrarött ljus. Den infraröda tekniken gör det möjligt att se rakt igenom stoftmolnen. Här finns extremt sällsynta stjärnor som den enorma Pistolstjärnan, men också stora röda superjättar som närmar sig slutet av sina liv. Denna historiska bild från 1999 visar hur Hubble-teleskopets prestanda har utvecklats genom åren.",
-    "entusiast": "Quintetthopen är en av galaxens mest extrema stjärnpopulationer, belägen endast etthundra ljusår från Vintergatans galaktiska centrum. Hopens närhet till centralt stoft gjorde den okänd fram till 1990 då infraröda observationer avslöjade dess existens. Systemet innehåller två sällsynta ljusstarka blå variabler, inklusive den massiva Pistolstjärnan som lyser upp en omgivande nebulosa. Förekomsten av ett flertal röda superjättar indikerar en genomsnittlig ålder på omkring fyra miljoner år för hela hopen. Dessa tunga stjärnor befinner sig i slutskedet av sin evolution och förväntas explodera som supernovor eller hypernovor inom en miljon till tre miljoner år, vilket kommer att frigöra energi som värmer den omgivande interstellära gasen och stoftet. Bilden från 1999 visar tydligt kapaciteten hos Hubble-teleskopet i det infraröda spektrumet."
+    "barn": "Tänk dig en jättestor boll som är fullpackad med glittrande små diamanter långt ut i rymden. Så ser en stjärnhop ut. Den sitter ihop som en stor svärm av bin, fast stjärnorna snurrar runt i mörkret. Många av stjärnorna här är jättegamla och lyser med ett gulaktigt sken, som gamla mysiga lampor som har brunnit i väldigt många år.",
+    "nyborjare": "Bilden visar den klotformiga stjärnhopen NGC 6535, belägen tjugotvå tusen ljusår bort i stjärnbilden Ormen. En stjärnhop är en tätt samlad grupp av stjärnor som hålls samman av gravitationen och kretsar kring en galax. Den engelske astronomen John Russell Hind upptäckte hopen redan år 1852 med hjälp av ett enkelt teleskop, där den då såg ut som en svag, dimmig fläck. Denna typ av objekt bildades samtidigt som värdgalaxen och saknar nyfödda stjärnor, vilket förklarar varför de åldrande gula stjärnorna dominerar.",
+    "entusiast": "NGC 6535 är ett klassiskt exempel på en klotformig stjärnhop som mäter ett ljusår i diameter och befinner sig på tjugotvå tusen ljusårs avstånd i stjärnbilden Serpens. Hopens enorma massa i det centrala området genererar ett gravitationsfält som drar stjärnorna inåt och formar det karakteristiska klotet. Eftersom dessa objekt bildades under galaxens tidiga barndom innehåller de främst äldre stjärnor med låg metallicitet, och någon pågående stjärnbildning har aldrig observerats i dem. Upptäckten gjordes år 1852 av John Russell Hind som såg den som en svag fläck. Moderna observationer med instrument som Advanced Camera for Surveys och Wide Field Camera 3 på rymdteleskopet Hubble avslöjar i stället dess tusentals stjärnor i enastående detalj."
   },
   "terms": [
     {
       "term": "stjärnhop",
-      "explanation": "En stor samling stjärnor som hålls samman av sin egen ömsesidiga gravitation."
-    },
-    {
-      "term": "supernova",
-      "explanation": "En extremt kraftfull och ljusstark explosion som markerar slutet på en massiv stjärnas liv."
-    },
-    {
-      "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och stoft ute i rymden."
+      "explanation": "En stor samling stjärnor som hålls ihop av sin gemensamma dragningskraft."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som ljuset färdas på ett helt år i tom rymd."
+      "explanation": "Det avstånd som ljuset hinner färdas på ett helt år."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den osynliga kraft som drar mot varandra och håller ihop himlakroppar."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "En avancerad kikare som placerats ute i rymden för att ta skarpa bilder utan jordens atmosfär i vägen."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Deep inside the Milky Way there is a tightly packed collection of glowing stars called a star cluster. Some of the stars here are gigantic and shine so brightly that they burn through their fuel at a furious speed. Soon they will explode in giant cosmic fireworks called supernovas and scatter their dust out into space.",
-      "nyborjare": "This fascinating star cluster is called the Quintuplet Cluster and houses hundreds of young and massive stars near the center of our galaxy. Because the cluster's visible light is blocked by thick cosmic dust, it remained unknown until 1990 when it was revealed by infrared observations. Infrared technology makes it possible to see right through the dust clouds. Here we find extremely rare stars like the massive Pistol Star, as well as large red supergiants approaching the end of their lives. This historical image from 1999 demonstrates how the performance of the Hubble telescope has developed over time.",
-      "entusiast": "The Quintuplet Cluster is one of the galaxy's most extreme stellar populations, located just one hundred light-years from the galactic center of the Milky Way. The cluster's proximity to central dust kept it unknown until 1990 when infrared observations uncovered its existence. The system contains two rare luminous blue variables, including the massive Pistol Star which illuminates an ambient nebula. The presence of several red supergiants indicates an average age of about four million years for the entire cluster. These heavy stars are in the final stages of their evolution and are expected to explode as supernovas or hypernovas within one to three million years, releasing energy that will heat the surrounding interstellar gas and dust. The 1999 image clearly displays the capabilities of the Hubble telescope in the infrared spectrum."
+      "barn": "Imagine a giant ball packed full of glittering little diamonds far out in space. That is what a star cluster looks like. It is held together like a big swarm of bees, except the stars are shining brightly in the darkness. Many of the stars here are very old and glow with a yellowish light, much like cozy old lamps that have been burning for many years.",
+      "nyborjare": "The image captures the globular cluster NGC 6535, located twenty-two thousand light-years away in the constellation of Serpens. A star cluster is a tightly bound group of stars held together by gravity, orbiting a galaxy. English astronomer John Russell Hind discovered the cluster back in 1852 using a simple telescope, where it appeared as a faint smudge. This type of object formed at the same time as the host galaxy and lacks newborn stars, which explains why aging yellow stars dominate.",
+      "entusiast": "NGC 6535 is a classic example of a globular cluster measuring one light-year across and situated twenty-two thousand light-years away in the constellation Serpens. The cluster's immense mass in the rich stellar center generates a gravitational field that pulls stars inward, forming a spherical ball. Because these objects formed during the early epoch of the galaxy they primarily contain older stars with very low metallicity, and no ongoing star formation has ever been observed within them. The discovery was made in 1852 by John Russell Hind who observed it as a faint smudge. Modern observations using instruments like the Advanced Camera for Surveys and Wide Field Camera 3 on the Hubble Space Telescope instead reveal its thousands of stars in stunning detail."
     },
     "terms": [
       {
-        "term": "star cluster",
+        "term": "cluster",
         "explanation": "A large collection of stars held together by their mutual gravitational attraction."
       },
       {
-        "term": "supernova",
-        "explanation": "An extremely powerful and luminous explosion marking the end of a massive star's life."
-      },
-      {
-        "term": "nebula",
-        "explanation": "A vast cloud of gas and dust out in space."
-      },
-      {
         "term": "light-year",
-        "explanation": "The distance that light travels in one Earth year through empty space."
+        "explanation": "The distance that a beam of light travels in a single year."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The invisible force of attraction between masses that holds celestial bodies together."
+      },
+      {
+        "term": "telescope",
+        "explanation": "An optical instrument designed to make distant objects appear magnified and clearer."
       }
     ],
     "quiz": [
       {
-        "q": "What is a luminous blue variable?",
+        "q": "What is a globular cluster?",
         "options": [
-          "A rare and extremely bright massive star",
-          "A type of planet with liquid blue gas",
-          "A black hole devouring blue stars"
+          "A densely packed group of stars in galactic outskirts",
+          "A cloud of gas where new stars are born",
+          "The remnants after a violent supernova explosion"
         ],
         "correct": 0,
-        "fact": "A luminous blue variable is a very rare and massive star that ejects matter and shines extremely brightly during a short lifetime."
+        "fact": "Globular clusters consist of hundreds of thousands of old stars held together by gravity in a spherical shape."
       },
       {
-        "q": "Why was the Quintuplet Cluster discovered only in 1990?",
+        "q": "Why do stars in an old cluster often look yellow?",
         "options": [
-          "It formed after a giant telescope failure",
-          "Thick dust blocks its visible light",
-          "The stars move too fast for cameras"
+          "They shine through a thick layer of space dust",
+          "They contain mostly older stars with lower temperatures",
+          "They have just formed out of cold gas clouds"
         ],
         "correct": 1,
-        "fact": "The cluster is located near the galactic center where large amounts of interstellar dust block visible light, requiring infrared observations to reveal it."
+        "fact": "These clusters are very old, meaning the massive blue stars have long since died, leaving behind yellowish aging stars."
       },
       {
-        "q": "What happens to heavy stars when their fuel runs out?",
+        "q": "How is the round shape of a star cluster created?",
         "options": [
-          "They contract into cold white dwarfs",
-          "They explode in a violent supernova",
-          "They transform into giant planets"
+          "By external magnetic fields pressing the stars together",
+          "By the central mass pulling the stars inward",
+          "By rotation forcing the stars into a circle"
         ],
         "correct": 1,
-        "fact": "Massive stars consume their fuel at a tremendous rate and end their lives in dramatic supernova explosions that release immense amounts of energy."
+        "fact": "The large combined mass in the rich center of the cluster exerts a strong gravitational pull drawing stars toward a common core."
       }
     ]
   }

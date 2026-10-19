@@ -1,36 +1,36 @@
 {
- "updated": "2026-10-19T09:24:07.797Z",
+ "updated": "2026-10-19T16:39:01.445Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-19T00:00:00Z",
+   "date": "2026-10-19T12:00:00Z",
    "title_sv": "Supertyfonen Champi",
    "title_en": "Super Typhoon Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 250 km/h",
-   "value_en": "winds of 250 km/h"
+   "value_sv": "vindar på 260 km/h",
+   "value_en": "winds of 260 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-19T00:00:00Z",
-   "title_sv": "Orkanen Trudy",
-   "title_en": "Hurricane Trudy",
+   "date": "2026-10-19T12:00:00Z",
+   "title_sv": "Tropiska stormen Trudy",
+   "title_en": "Tropical Storm Trudy",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 140 km/h",
-   "value_en": "winds of 140 km/h"
+   "value_sv": "vindar på 95 km/h",
+   "value_en": "winds of 95 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-18T18:00:00Z",
+   "date": "2026-10-19T06:00:00Z",
    "title_sv": "Tropiska stormen Wati",
    "title_en": "Tropical Storm Wati",
    "where_sv": "Södra Stilla havet",
    "where_en": "Southern Pacific",
-   "value_sv": "vindar på 100 km/h",
-   "value_en": "winds of 100 km/h"
+   "value_sv": "vindar på 85 km/h",
+   "value_en": "winds of 85 km/h"
   },
   {
    "kind": "ice",
