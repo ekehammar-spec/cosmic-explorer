@@ -1,142 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Sees a Youthful Cluster",
-  "title_sv": "Den unga stjärnhopen NGC 1783",
+  "title": "Hubble Frontier Fields view of MACSJ0717.5+3745",
+  "title_sv": "Galaxhop MACSJ0717.5+3745",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000635/GSFC_20171208_Archive_e000635~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000635/GSFC_20171208_Archive_e000635~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000635/GSFC_20171208_Archive_e000635~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000635",
+  "url": "https://images-assets.nasa.gov/image/hubble-spies-big-bang-frontiers_22202541749_o/hubble-spies-big-bang-frontiers_22202541749_o~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-spies-big-bang-frontiers_22202541749_o/hubble-spies-big-bang-frontiers_22202541749_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-spies-big-bang-frontiers_22202541749_o/hubble-spies-big-bang-frontiers_22202541749_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-spies-big-bang-frontiers_22202541749_o",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2015",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000635",
+  "id": "hubble-spies-big-bang-frontiers_22202541749_o",
   "px": [
     1280,
-    753
+    1108
   ],
   "w": 640,
-  "h": 376,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgb/xAAjEAABAwQCAQUAAAAAAAAAAAABAAIRAwQhMQUSFCJBUWFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AOHpCTkSFa4+x8gjqInSi03Rhut/JVjjL51ucOiExDk7A20iM/WlFqAz+q7f3nkjvJJOVEqj1TkHcoaKBTqRI6mcoQoRtznEwSYSiYDx7QEIUX//2Q==",
+  "h": 554,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGgABAAMAAwAAAAAAAAAAAAAABAECAwAFBv/EACcQAAICAQMDAwUBAAAAAAAAAAECAxEABBIxIUFRBSJxFCORobHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERUXH/2gAMAwEAAhEDEQA/APEaPSPPezcfNf7rmkekUyMJ3EYCtV927DG+kawenq2pV1Lj27GF3fJyn10ZMoeFHMnDNyvxmbeLIPqdHJDp0eSYVLyncEcAjOvkAO0mzQqj2x6aiRzt3FmawQa4Pe/PFZhFpnlQ7PcaLEVxWJeniom3BgaBJBBu663iF1AWdZHQECrDiwTXHx0wVbQSCQdt5yBBJOqHg+PjNYhU+qWY2Y0IHUiq/njtkpJuAEaJt6t0HuAHnCFQGC9uh/WSR9xks11H4yWGv//Z",
   "quiz": [
     {
-      "q": "Vad håller samman stjärnorna i en klotformig stjärnhop?",
+      "q": "Vad är en galaxhop?",
       "options": [
-        "Deras gemensamma gravitation",
-        "Ett supermassivt centralt hål",
-        "Kraftiga magnetfält mellan stjärnorna"
-      ],
-      "correct": 0,
-      "fact": "Klotformiga stjärnhopar binds samman av sin egen gravitation, vilket ger dem deras täta och runda form."
-    },
-    {
-      "q": "Varför är stjärnhopen NGC 1783 ovanlig för sin typ?",
-      "options": [
-        "Den saknar helt tunga grundämnen",
-        "Den är ovanligt ung",
-        "Den saknar helt stjärnor med solmassa"
+        "En samling stjärnor som kretsar kring ett svart hål",
+        "Ett system av tiotals till tusentals galaxer bundna av gravitation",
+        "En gigantisk gasmoln där nya stjärnor föds i rymden"
       ],
       "correct": 1,
-      "fact": "De flesta klotformiga stjärnhopar är över tio miljarder år gamla, men NGC 1783 är yngre än 1,5 miljarder år."
+      "fact": "Galaxhopar är de största kosmiska strukturerna som hålls samman av gravitation i universum."
     },
     {
-      "q": "I vilken närbelägen galax ligger stjärnhopen NGC 1783?",
+      "q": "Hur fungerar gravitationslinsning?",
       "options": [
-        "Andromedagalaxen",
-        "Triangelgalaxen",
-        "Stora magellanska molnet"
+        "Massiva objekt kröker rymdtiden och böjer ljuset från bakomliggande källor",
+        "Stora teleskop använder enorma linser av glas för att förstora bilden",
+        "Kosmiskt stoft reflekters mot ljusstarka stjärnor och skapar spegelbilder"
       ],
-      "correct": 2,
-      "fact": "NGC 1783 ligger i Stora magellanska molnet, en dvärggalax som kretsar kring Vintergatan."
+      "correct": 0,
+      "fact": "Enligt Einsteins allmänna relativitetsteori dras rymden och tiden samman av stor massa, vilket gör att ljus färdas längs böjda banor."
+    },
+    {
+      "q": "Varför studerar astronomer galaxhopar med stark massa?",
+      "options": [
+        "För att mäta förekomsten av mörk materia i universum",
+        "För att hitta bevis på liv på exoplaneter bakom hopen",
+        "För att beräkna exakta avstånd till Vintergatans mittpunkt"
+      ],
+      "correct": 0,
+      "fact": "Eftersom den synliga materien inte räcker till för att skapa så stark gravitation avslöjar linserna var den osynliga mörka materien finns."
     }
   ],
   "levels": {
-    "barn": "Titta på den här glittrande bollen av stjärnor! Den kallas för en klotformig stjärnhop och liknar en gigantisk snöglob full av lysande solar.\n\nAlla stjärnorna hålls ihop av gravitation, precis som när kompisar kramas i en stor grupp. Många sådana här stjärnhopar är urgamla och tändes nästan samtidigt som universum blev till. Men den här hopen är som ett litet barn bland sina släktingar, för den bildades för bara drygt en miljard år sedan.",
-    "nyborjare": "Den här bilden togs år 2015 av rymdteleskopet Hubble och visar NGC 1783, en klotformig stjärnhop i Stora magellanska molnet ungefär 160 000 ljusår bort. En klotformig stjärnhop är en tät, rund samling av tusentals stjärnor som hålls samman av gravitation och kretsar kring en galax.\n\nDet som gör just NGC 1783 speciell är dess unga ålder. De flesta sådana hopar bildades för över tio miljarder år sedan när universum var ungt. Den här hopen är däremot yngre än 1,5 miljarder år. Forskare har upptäckt att stjärnor bildades här i minst två olika omgångar. När massiva stjärnor exploderade blåstes gasen först bort, men fylldes senare på igen så att fler solar kunde tändas.",
-    "entusiast": "Denna bild från 2015 togs med kameran ACS ombord på rymdteleskopet Hubble och visar NGC 1783 i Stora magellanska molnet, cirka 160 000 ljusår bort i stjärnbilden Svärdfisken. Hopen har en uppskattad massa på 170 000 solmassor och uppvisar en tydlig sfärisk symmetri med hög stjärntäthet i kärnan.\n\nMedan typiska klotformiga stjärnhopar i Vintergatans halo är urgamla reliker med åldrar över 10 miljarder år, är NGC 1783 anmärkningsvärt ung med en ålder under 1,5 miljarder år. Genom fotometriska analyser av stjärnornas färg och luminositet har astronomer kunnat kartlägga hopens stjärnbildningshistoria.\n\nObservationerna visar att stjärnor bildats under minst två separata epoker med 50 till 100 miljoner års mellanrum. Den första generationens massiva stjärnor exploderade som supernovor och rensade hopen på gas. Därefter återställdes gasreservoaren gradvis genom massförlust från mer långlivade stjärnor med lägre massa. Denna gas sjönk mot det täta centrumet och antände en andra generation stjärnor."
+    "barn": "Tänk dig att rymden är som en stor studsmatta. Om man lägger något jättetungt mitt på mattan sjunker den ner och drar till sig andra saker. Precis så gör en galaxhop i rymden. Den är så väldigt tung att den fungerar som ett jättestort förstoringsglas. När ljuset från stjärnor långt bakom hopen åker förbi blir det böjt och utdraget så att vi kan se saker som annars hade varit alldeles för små för att upptäcka.",
+    "nyborjare": "Den här bilden visar galaxhop MACSJ0717.5+3745, som är en av de mest massiva ansamlingarna av galaxer vi känner till. Hopen fungerar som en gigantisk kosmisk lins på grund av sin enorma massa. Fenomenet kallas gravitationslinsning och inträffar när ett tungt objekt kröker rumtiden omkring sig. Ljuset från bakomliggande objekt som passerar hopen böjs och förstoras, vilket gör att astronomer kan studera avlägsna galaxer som annars hade varit osynliga. Detta gör MACSJ0717 till den största kända gravitationslinsen som mäter största ytan på himlen.",
+    "entusiast": "MACSJ0717.5+3745 är en av de sex galaxhopar som studeras inom det avancerade programmet Hubble Frontier Fields. Med hjälp av rymdteleskopet Hubble har programmet producerat de djupaste bilderna av gravitationslinsning någonsin. Hopens extrema massa skapar en kraftfull krökning av rumtiden, vilket ger upphov till stark gravitationslinsning. Detta förstorar ljuset från bakomliggande galaxer från det tidiga universum. Genom att analysera hur ljuset förvrids kan forskare kartlägga fördelningen av både baryonisk och mörk materia i hopen med exceptionell noggrannhet, vilket ger insikter i storskaliga strukturers bildande."
   },
   "terms": [
     {
-      "term": "klotformig stjärnhop",
-      "explanation": "En tät och klotrund samling av tusentals till miljontals stjärnor som hålls samman av gravitation."
+      "term": "galaxhop",
+      "explanation": "En stor samling av galaxer som hålls samman genom ömsesidig dragningskraft i rymden."
     },
     {
-      "term": "Stora magellanska molnet",
-      "explanation": "En dvärggalax som kretsar kring Vintergatan och syns tydligt på södra halvklotets stjärnhimmel."
+      "term": "gravitationslinsning",
+      "explanation": "När ett massivt föremål böjer ljuset från bakomliggande källor genom sin starka tyngdkraft."
     },
     {
-      "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas i rymdens vakuum under ett helt år."
+      "term": "rymdteleskop",
+      "explanation": "Ett optiskt instrument som placerats i omloppsbana ovanför jordens atmosfär för att observera världsalltet."
     },
     {
-      "term": "galax",
-      "explanation": "Ett gigantiskt system av stjärnor, gas, stoft och mörk materia som binds samman av gravitation."
-    },
-    {
-      "term": "luminositet",
-      "explanation": "Den sammanlagda mängd ljusenergi som en stjärna strålar ut i rymden per tidsenhet."
+      "term": "mörk materia",
+      "explanation": "En osynlig typ av materia som inte avger ljus men vars gravitation påverkar himlakroppar."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this glittering ball of stars! It is called a globular cluster, and it looks just like a giant snow globe filled with shining suns.\n\nAll the stars are held together by gravity, like friends huddling in a huge hug. Many star clusters like this are ancient, almost as old as the universe itself. But this one is like a youngster compared to the others, having formed just over a billion years ago.",
-      "nyborjare": "Captured in 2015 by the Hubble Space Telescope, this image shows NGC 1783, a globular cluster in the Large Magellanic Cloud about 160,000 light-years away. A globular cluster is a dense, spherical collection of stars bound together by gravity that orbits a galaxy.\n\nWhat makes NGC 1783 remarkable is its age. Most globular clusters formed more than ten billion years ago when galaxies were very young. In contrast, NGC 1783 is less than 1.5 billion years old. Astronomers discovered that stars formed here in at least two separate bursts. Massive stars blew away gas when exploding, but gentler stars later replenished the fuel to ignite new suns.",
-      "entusiast": "Imaged in 2015 by the Advanced Camera for Surveys aboard the Hubble Space Telescope, NGC 1783 is a massive globular cluster located in the Large Magellanic Cloud within the constellation Dorado. Situated nearly 160,000 light-years from Earth, it contains roughly 170,000 solar masses and displays the characteristic symmetrical shape and dense core typical of globular clusters.\n\nWhile Milky Way globular clusters are typically ancient relics exceeding ten billion years of age, NGC 1783 is exceptionally youthful at under 1.5 billion years old. Photometric studies measuring the color and luminosity of its individual stars revealed a multi-generational star formation history.\n\nThe cluster experienced at least two star-forming episodes separated by 50 to 100 million years. During the initial burst, short-lived massive stars ended their lives in energetic explosions, expelling remaining gas. Over time, longer-lived lower-mass stars shed gas via stellar winds, replenishing the central gravitational reservoir. As this gas settled into the dense core, it triggered a secondary phase of star formation."
+      "barn": "Imagine that space is like a big trampoline. If you place something really heavy in the middle, it sags and pulls other things toward it. That is just how a galaxy cluster works in space. It is so extremely heavy that it acts like a giant magnifying glass. When light from stars far behind the cluster passes by, it gets bent and stretched so we can see things that would otherwise be way too small to discover.",
+      "nyborjare": "This image shows the galaxy cluster MACSJ0717.5+3745, which is one of the most massive collections of galaxies known. The cluster acts as a giant cosmic lens due to its immense mass. This phenomenon is called gravitational lensing and occurs when a heavy object warps spacetime around it. Light from background objects passing the cluster is bent and magnified, allowing astronomers to study distant galaxies that would otherwise be invisible. This makes MACSJ0717 the largest known gravitational lens measuring the largest area of the sky.",
+      "entusiast": "MACSJ0717.5+3745 is one of the six galaxy clusters studied under the advanced Hubble Frontier Fields program. Using the Hubble Space Telescope, the program has produced the deepest images of gravitational lensing ever made. The cluster's extreme mass creates a powerful curvature of spacetime, resulting in strong gravitational lensing. This magnifies light from background galaxies from the early universe. By analyzing how the light is distorted, researchers can map the distribution of both baryonic and dark matter within the cluster with exceptional accuracy, providing insights into large-scale structure formation."
     },
     "terms": [
       {
-        "term": "globular cluster",
-        "explanation": "A spherical, densely packed collection of stars bound together by their own gravity."
+        "term": "galaxy cluster",
+        "explanation": "A large collection of galaxies held together by mutual gravitational attraction in space."
       },
       {
-        "term": "Large Magellanic Cloud",
-        "explanation": "A satellite dwarf galaxy orbiting the Milky Way, visible in the southern night sky."
+        "term": "gravitational lensing",
+        "explanation": "When a massive object bends light from background sources through its strong gravity."
       },
       {
-        "term": "light-years",
-        "explanation": "An astronomical unit of distance representing how far light travels in one year."
+        "term": "space telescope",
+        "explanation": "An optical instrument placed in orbit above Earth's atmosphere to observe the cosmos."
       },
       {
-        "term": "galaxy",
-        "explanation": "A vast gravitationally bound system consisting of stars, stellar remnants, gas, dust, and dark matter."
-      },
-      {
-        "term": "luminosity",
-        "explanation": "The total amount of electromagnetic energy emitted by a star per unit of time."
+        "term": "dark matter",
+        "explanation": "An invisible type of matter that emits no light but whose gravity affects celestial bodies."
       }
     ],
     "quiz": [
       {
-        "q": "What binds the stars in a globular cluster together?",
+        "q": "What is a galaxy cluster?",
         "options": [
-          "Their mutual gravity",
-          "A supermassive central black hole",
-          "Intense magnetic fields between stars"
-        ],
-        "correct": 0,
-        "fact": "Globular clusters are held together by their own gravity, which gives them their dense and symmetrical shape."
-      },
-      {
-        "q": "Why is the star cluster NGC 1783 unusual?",
-        "options": [
-          "It lacks heavy elements entirely",
-          "It is unusually young",
-          "It lacks solar-mass stars completely"
+          "A collection of stars orbiting a central black hole",
+          "A system of tens to thousands of galaxies bound by gravity",
+          "A giant gas cloud where new stars are born in space"
         ],
         "correct": 1,
-        "fact": "Most globular clusters are over ten billion years old, but NGC 1783 is less than 1.5 billion years old."
+        "fact": "Galaxy clusters are the largest cosmic structures held together by gravity in the universe."
       },
       {
-        "q": "In which nearby galaxy is NGC 1783 located?",
+        "q": "How does gravitational lensing work?",
         "options": [
-          "Andromeda Galaxy",
-          "Triangulum Galaxy",
-          "Large Magellanic Cloud"
+          "Massive objects warp spacetime and bend light from background sources",
+          "Large telescopes use giant glass lenses to magnify the image",
+          "Cosmic dust reflects bright starlight to create mirror images"
         ],
-        "correct": 2,
-        "fact": "NGC 1783 resides in the Large Magellanic Cloud, a satellite galaxy orbiting the Milky Way."
+        "correct": 0,
+        "fact": "According to Einstein's general theory of relativity, heavy mass curves space and time, forcing light along curved paths."
+      },
+      {
+        "q": "Why do astronomers study massive galaxy clusters?",
+        "options": [
+          "To measure the presence of dark matter in the universe",
+          "To find evidence of life on exoplanets behind the cluster",
+          "To calculate precise distances to the center of the Milky Way"
+        ],
+        "correct": 0,
+        "fact": "Since visible matter is insufficient to create such strong gravity, the lenses reveal where invisible dark matter resides."
       }
     ]
   }
