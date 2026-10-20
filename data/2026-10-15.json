@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Frontier Fields view of MACSJ0717.5+3745",
-  "title_sv": "Galaxhop MACSJ0717.5+3745",
+  "title": "A Lot of Galaxies Need Guarding in this NASA Hubble View",
+  "title_sv": "Galaxhop Abell 370",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-spies-big-bang-frontiers_22202541749_o/hubble-spies-big-bang-frontiers_22202541749_o~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-spies-big-bang-frontiers_22202541749_o/hubble-spies-big-bang-frontiers_22202541749_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-spies-big-bang-frontiers_22202541749_o/hubble-spies-big-bang-frontiers_22202541749_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-spies-big-bang-frontiers_22202541749_o",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000056/GSFC_20171208_Archive_e000056~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000056/GSFC_20171208_Archive_e000056~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000056/GSFC_20171208_Archive_e000056~orig.png",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000056",
   "credit": "NASA/GSFC",
-  "taken": "2015",
+  "taken": "2017",
   "src": "library",
-  "id": "hubble-spies-big-bang-frontiers_22202541749_o",
+  "id": "GSFC_20171208_Archive_e000056",
   "px": [
-    1280,
-    1108
+    1725,
+    1920
   ],
-  "w": 640,
-  "h": 554,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGgABAAMAAwAAAAAAAAAAAAAABAECAwAFBv/EACcQAAICAQMDAwUBAAAAAAAAAAECAxEABBIxIUFRBSJxFCORobHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERUXH/2gAMAwEAAhEDEQA/APEaPSPPezcfNf7rmkekUyMJ3EYCtV927DG+kawenq2pV1Lj27GF3fJyn10ZMoeFHMnDNyvxmbeLIPqdHJDp0eSYVLyncEcAjOvkAO0mzQqj2x6aiRzt3FmawQa4Pe/PFZhFpnlQ7PcaLEVxWJeniom3BgaBJBBu663iF1AWdZHQECrDiwTXHx0wVbQSCQdt5yBBJOqHg+PjNYhU+qWY2Y0IHUiq/njtkpJuAEaJt6t0HuAHnCFQGC9uh/WSR9xks11H4yWGv//Z",
+  "w": 575,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAMFBgL/xAAqEAACAgEEAQMBCQAAAAAAAAABAgMRBAASITETBUFhURQiMmJxocHw8f/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAAMBAQEAAAAAAAAAAAAAAAABESESQf/aAAwDAQACEQMRAD8A4nx5ORs3JI9GtvPf0+NKjx8eFkeSZdyU48Ys39DfFiteMXMyPsngSYIqv5Aem3dcHS8XDhlywC4Ee4Cwb/XQbEkQhDmGZlkovREZ7ck6I6S+RtygNZuxfOtT1qGDFyzJjbHhV9pUGif5rRzkQzkvJJ4fYRhSaA1X0moCwnWKU7mcKVNEHkGuP7863p5MXH9LhOOVaY3uLVYscf7rm0Rty7dwXux3Y71aSaPxSLB5R1RJ/F3ZNcdVqapqwpluVylWOVZio4ZBwfev31WH098mJZjlQpv5pm57971PHihfAmeTIKTKQyR1w/zftWgqyV9/ff5a0ucBdP/Z",
   "quiz": [
     {
       "q": "Vad är en galaxhop?",
       "options": [
-        "En samling stjärnor som kretsar kring ett svart hål",
-        "Ett system av tiotals till tusentals galaxer bundna av gravitation",
-        "En gigantisk gasmoln där nya stjärnor föds i rymden"
+        "Ett moln av gas och stoft",
+        "En samling galaxer förenade av gravitation",
+        "En ensam galax med ovanligt mycket materia"
       ],
       "correct": 1,
-      "fact": "Galaxhopar är de största kosmiska strukturerna som hålls samman av gravitation i universum."
+      "fact": "En galaxhop består av hundratals eller tusentals galaxer som hålls samman av sin gemensamma gravitation."
     },
     {
-      "q": "Hur fungerar gravitationslinsning?",
+      "q": "Vad händer när ljus passerar en tung galaxhop?",
       "options": [
-        "Massiva objekt kröker rymdtiden och böjer ljuset från bakomliggande källor",
-        "Stora teleskop använder enorma linser av glas för att förstora bilden",
-        "Kosmiskt stoft reflekters mot ljusstarka stjärnor och skapar spegelbilder"
+        "Det sugs in och försvinner helt",
+        "Det böjs av av stark gravitation",
+        "Det delas upp i regnbågens alla färger"
       ],
-      "correct": 0,
-      "fact": "Enligt Einsteins allmänna relativitetsteori dras rymden och tiden samman av stor massa, vilket gör att ljus färdas längs böjda banor."
+      "correct": 1,
+      "fact": "Enligt den allmänna relativitetsteorin kan enorma massor böja rumtiden och fungera som en gravitationslins för ljus."
     },
     {
-      "q": "Varför studerar astronomer galaxhopar med stark massa?",
+      "q": "Varför ser vissa galaxer blåaktiga ut?",
       "options": [
-        "För att mäta förekomsten av mörk materia i universum",
-        "För att hitta bevis på liv på exoplaneter bakom hopen",
-        "För att beräkna exakta avstånd till Vintergatans mittpunkt"
+        "De innehåller mest unga och varma stjärnor",
+        "De rör sig mycket snabbt bort från oss",
+        "De är omgivna av stora mängder is"
       ],
       "correct": 0,
-      "fact": "Eftersom den synliga materien inte räcker till för att skapa så stark gravitation avslöjar linserna var den osynliga mörka materien finns."
+      "fact": "Unga stjärnor är mycket varma och strålar mest i blått ljus, till skillnad från äldre stjärnor som är rödare."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att rymden är som en stor studsmatta. Om man lägger något jättetungt mitt på mattan sjunker den ner och drar till sig andra saker. Precis så gör en galaxhop i rymden. Den är så väldigt tung att den fungerar som ett jättestort förstoringsglas. När ljuset från stjärnor långt bakom hopen åker förbi blir det böjt och utdraget så att vi kan se saker som annars hade varit alldeles för små för att upptäcka.",
-    "nyborjare": "Den här bilden visar galaxhop MACSJ0717.5+3745, som är en av de mest massiva ansamlingarna av galaxer vi känner till. Hopen fungerar som en gigantisk kosmisk lins på grund av sin enorma massa. Fenomenet kallas gravitationslinsning och inträffar när ett tungt objekt kröker rumtiden omkring sig. Ljuset från bakomliggande objekt som passerar hopen böjs och förstoras, vilket gör att astronomer kan studera avlägsna galaxer som annars hade varit osynliga. Detta gör MACSJ0717 till den största kända gravitationslinsen som mäter största ytan på himlen.",
-    "entusiast": "MACSJ0717.5+3745 är en av de sex galaxhopar som studeras inom det avancerade programmet Hubble Frontier Fields. Med hjälp av rymdteleskopet Hubble har programmet producerat de djupaste bilderna av gravitationslinsning någonsin. Hopens extrema massa skapar en kraftfull krökning av rumtiden, vilket ger upphov till stark gravitationslinsning. Detta förstorar ljuset från bakomliggande galaxer från det tidiga universum. Genom att analysera hur ljuset förvrids kan forskare kartlägga fördelningen av både baryonisk och mörk materia i hopen med exceptionell noggrannhet, vilket ger insikter i storskaliga strukturers bildande."
+    "barn": "Tänk dig ett jättestort legobyggge långt ut i rymden. Där sitter flera hundra galaxer tillsammans i ett gäng, som om de höll varandra i hand. Hela gänget klamrar sig fast vid varandra med osynliga gummiband som drar i dem. Galaxerna ser ut som små glittrande snurror och stjärnstoft. Långt därbakom lyser andra galaxer som har blivit utdragna och sneda eftersom de tittar genom ett magiskt förstoringsglas.",
+    "nyborjare": "Bilden visar galaxhopen Abell 370, som är en väldig samling av flera hundra galaxer som hålls samman av gravitationen. De ljusa, gulvita galaxerna är jättelika elliptiska system som innehåller hundratals miljarder äldre stjärnor. Blåaktiga spiralgalaxer rymmer i stället yngre och hetare stjärnor. De märkliga bågarna av blått ljus är i själva verket mycket avlägsna galaxer som ligger bakom hopen. Hela hopen fungerar som en gigantisk gravitationslins i rymden som böjer, förstorar och sträcker ut ljuset från de mer avlägsna objekten, ungefär som ett knasigt spegelkabinett.",
+    "entusiast": "Abell 370 är en massiv galaxhop som utgör ett perfekt laboratorium för studier av gravitationslinser och kosmisk storskalig struktur. Hopen uppvisar hundratals medlemmar dominerade av ljusstarka, massiva elliptiska galaxer med äldre stjärnpopulationer, samt stjärnbildande spiralgalaxer. De karakteristiska blå bågarna är gravitationellt linsade bilder av avlägsna bakgrundsgalaxer. Den enorma massa som hopen besitter skapar en gravitationspotential som böjer rums-tidskurvaturen kraftigt. Detta gör det möjligt att observera ljus från galaxer i det tidiga universum som annars hade varit alldeles för svaga för att upptäckas, vilket ger avgörande insikter om galaxernas tidiga utveckling och universums mörka materia."
   },
   "terms": [
     {
+      "term": "galax",
+      "explanation": "Ett enormt system i rymden som binder samman miljarder stjärnor, gas och stoft med hjälp av gravitation."
+    },
+    {
       "term": "galaxhop",
-      "explanation": "En stor samling av galaxer som hålls samman genom ömsesidig dragningskraft i rymden."
+      "explanation": "En gigantisk samling av flera hundra eller tusen galaxer som hålls samman av ömsesidig dragningskraft."
     },
     {
-      "term": "gravitationslinsning",
-      "explanation": "När ett massivt föremål böjer ljuset från bakomliggande källor genom sin starka tyngdkraft."
+      "term": "elliptisk",
+      "explanation": "Formen hos äldre stjärnsystem som liknar en utdragen boll eller ett ägg utan spiralarmar."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett optiskt instrument som placerats i omloppsbana ovanför jordens atmosfär för att observera världsalltet."
+      "term": "spiralgalax",
+      "explanation": "En skivformad samling stjärnor som har vackra armar som slingrar sig ut från mitten."
     },
     {
-      "term": "mörk materia",
-      "explanation": "En osynlig typ av materia som inte avger ljus men vars gravitation påverkar himlakroppar."
+      "term": "gravitationslins",
+      "explanation": "Ett enormt massivt objekt i rymden vars starka dragningskraft böjer och förstorar ljuset från bakomliggande himlakroppar."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine that space is like a big trampoline. If you place something really heavy in the middle, it sags and pulls other things toward it. That is just how a galaxy cluster works in space. It is so extremely heavy that it acts like a giant magnifying glass. When light from stars far behind the cluster passes by, it gets bent and stretched so we can see things that would otherwise be way too small to discover.",
-      "nyborjare": "This image shows the galaxy cluster MACSJ0717.5+3745, which is one of the most massive collections of galaxies known. The cluster acts as a giant cosmic lens due to its immense mass. This phenomenon is called gravitational lensing and occurs when a heavy object warps spacetime around it. Light from background objects passing the cluster is bent and magnified, allowing astronomers to study distant galaxies that would otherwise be invisible. This makes MACSJ0717 the largest known gravitational lens measuring the largest area of the sky.",
-      "entusiast": "MACSJ0717.5+3745 is one of the six galaxy clusters studied under the advanced Hubble Frontier Fields program. Using the Hubble Space Telescope, the program has produced the deepest images of gravitational lensing ever made. The cluster's extreme mass creates a powerful curvature of spacetime, resulting in strong gravitational lensing. This magnifies light from background galaxies from the early universe. By analyzing how the light is distorted, researchers can map the distribution of both baryonic and dark matter within the cluster with exceptional accuracy, providing insights into large-scale structure formation."
+      "barn": "Imagine a giant lego build far out in space. Hundreds of galaxies sit together in a group, holding hands with invisible rubber bands pulling on them. The galaxies look like tiny sparkling pinwheels and stardust. Far behind them, other galaxies shine brightly, stretched out and crooked because you are looking at them through a magical magnifying glass.",
+      "nyborjare": "The image shows the galaxy cluster Abell 370, which is a vast collection of several hundred galaxies held together by gravity. The bright, yellow-white galaxies are giant elliptical systems containing hundreds of billions of older stars. Bluish spiral galaxies instead house younger and hotter stars. The strange arcs of blue light are actually very distant galaxies located behind the cluster. The entire cluster acts as a giant gravitational lens in space that bends, magnifies, and stretches the light from more remote objects, much like a funhouse mirror.",
+      "entusiast": "Abell 370 is a massive galaxy cluster serving as an ideal laboratory for studying gravitational lensing and cosmic large-scale structure. The cluster exhibits hundreds of members dominated by luminous, massive elliptical galaxies with older stellar populations, alongside star-forming spiral galaxies. The characteristic blue arcs are gravitationally lensed images of distant background galaxies. The immense mass of the cluster creates a gravitational potential that severely warps spacetime curvature. This enables the observation of light from early universe galaxies that would otherwise be far too faint to detect, yielding crucial insights into early galaxy evolution and dark matter."
     },
     "terms": [
       {
+        "term": "galaxy",
+        "explanation": "A massive system in space binding together billions of stars, gas, and dust through gravity."
+      },
+      {
         "term": "galaxy cluster",
-        "explanation": "A large collection of galaxies held together by mutual gravitational attraction in space."
+        "explanation": "A gigantic collection of several hundred or thousand galaxies held together by mutual gravitational attraction."
       },
       {
-        "term": "gravitational lensing",
-        "explanation": "When a massive object bends light from background sources through its strong gravity."
+        "term": "elliptical",
+        "explanation": "The shape of older stellar systems resembling an elongated sphere or egg without spiral arms."
       },
       {
-        "term": "space telescope",
-        "explanation": "An optical instrument placed in orbit above Earth's atmosphere to observe the cosmos."
+        "term": "spiral galaxy",
+        "explanation": "A disk-shaped collection of stars featuring sweeping arms winding outward from the center."
       },
       {
-        "term": "dark matter",
-        "explanation": "An invisible type of matter that emits no light but whose gravity affects celestial bodies."
+        "term": "gravitational lens",
+        "explanation": "An immensely massive object in space whose strong gravity bends and magnifies light from background celestial bodies."
       }
     ],
     "quiz": [
       {
         "q": "What is a galaxy cluster?",
         "options": [
-          "A collection of stars orbiting a central black hole",
-          "A system of tens to thousands of galaxies bound by gravity",
-          "A giant gas cloud where new stars are born in space"
+          "A cloud of interstellar gas and dust",
+          "A collection of galaxies bound by gravity",
+          "A single galaxy with unusual mass"
         ],
         "correct": 1,
-        "fact": "Galaxy clusters are the largest cosmic structures held together by gravity in the universe."
+        "fact": "A galaxy cluster consists of hundreds or thousands of galaxies held together by their mutual gravitational pull."
       },
       {
-        "q": "How does gravitational lensing work?",
+        "q": "What happens when light passes a heavy galaxy cluster?",
         "options": [
-          "Massive objects warp spacetime and bend light from background sources",
-          "Large telescopes use giant glass lenses to magnify the image",
-          "Cosmic dust reflects bright starlight to create mirror images"
+          "It gets pulled in and completely disappears",
+          "It bends due to strong gravitational forces",
+          "It splits into all the colors of the rainbow"
         ],
-        "correct": 0,
-        "fact": "According to Einstein's general theory of relativity, heavy mass curves space and time, forcing light along curved paths."
+        "correct": 1,
+        "fact": "According to general relativity, enormous masses warp spacetime and act as a gravitational lens for background light."
       },
       {
-        "q": "Why do astronomers study massive galaxy clusters?",
+        "q": "Why do some galaxies appear bluish?",
         "options": [
-          "To measure the presence of dark matter in the universe",
-          "To find evidence of life on exoplanets behind the cluster",
-          "To calculate precise distances to the center of the Milky Way"
+          "They contain mostly young and hot stars",
+          "They are moving away from us very fast",
+          "They are surrounded by vast amounts of ice"
         ],
         "correct": 0,
-        "fact": "Since visible matter is insufficient to create such strong gravity, the lenses reveal where invisible dark matter resides."
+        "fact": "Young stars are extremely hot and emit most of their light in the blue spectrum, unlike older redder stars."
       }
     ]
   }
