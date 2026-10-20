@@ -1,0 +1,139 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-20",
+  "title": "Martian Dawn",
+  "title_sv": "Gryning på Mars",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp",
+  "link": "https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/",
+  "px": [
+    1600,
+    876
+  ],
+  "w": 480,
+  "h": 262,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAARACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAECBwUG/8QAJBAAAgEDBAEFAQAAAAAAAAAAAQIAAwQSERMhMTIFFSJBcVH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAMAwEAAhEDEQA/APfM6qCWYAD7J0izXENkMT0deDMt9zvXXR6wYH+rIoXdzRZmWqeewSSJjJWp71MgkVEIHfyHEneplQ24mJ6OQ0mZ1PU7qq3DKn4sdvfXNHLJtwNzow6/Iytc0eUZ8BCE2gXxknoQhCP/2Q==",
+  "quiz": [
+    {
+      "q": "Vad kallas en bergsrygg som slipats fram av vind?",
+      "options": [
+        "Yardang",
+        "Drumlin",
+        "Dolin"
+      ],
+      "correct": 0,
+      "fact": "En yardang är en långsträckt bergsformation som skulpterats ur berggrunden av ihållande vinderosion och sand."
+    },
+    {
+      "q": "Vilken process är i dag viktigast för erosion på Mars?",
+      "options": [
+        "Havsströmmar och tidvatten",
+        "Vindburen sand och stoftstormar",
+        "Rinnande floder av smältvatten"
+      ],
+      "correct": 1,
+      "fact": "Eftersom flytande vatten saknas på Mars kalla yta är vinden den dominerande kraften som nöter ner berget."
+    },
+    {
+      "q": "Vad består Mars tunna atmosfär huvudsakligen av?",
+      "options": [
+        "Metangas",
+        "Kvävgas",
+        "Koldioxid"
+      ],
+      "correct": 2,
+      "fact": "Mars atmosfär består till cirka 95 procent av koldioxid, med endast små spår av kväve och argon."
+    }
+  ],
+  "levels": {
+    "barn": "Titta på de spetsiga klipporna! Det här är en plats på den röda planeten Mars. Där finns inga träd, inga blommor och inget rinnande vatten. Men det blåser massor av vind!\n\nNär vinden blåser i tusentals år drar den med sig små sandkorn som fungerar som sandpapper mot berget. Stenarna slipas sakta tills de ser ut som vassa båtar eller drakryggar. Rymdbilen Curiosity rullar runt här och fotograferar för att hjälpa forskarna att förstå planetens hemligheter.",
+    "nyborjare": "Den här bilden visar ett fascinerande marsianskt landskap fångat av NASA:s rover Curiosity. De skarpa klippformationerna kallas för yardanger. En yardang är en långsträckt bergsrygg som skulpterats fram ur berggrunden genom långvarig vinderosion, där framblåsande sandkorn sakta slipar bort mjukare bergarter.\n\nPå den kalla och torra planeten Mars finns det inget flytande vatten på ytan. Därför har vinden blivit den absolut viktigaste geologiska kraften som omformar landskapet. Forskare studerar dessa klippor vid berget Mount Sharp i Gale-kratern för att förstå hur vindmönstren har förändrats över miljontals år och vilka sedimentlager som bygger upp Mars historia.",
+    "entusiast": "Denna närbild är tagen av NASA:s marsrover Curiosity i Gale-kratern, vid foten av berget Mount Sharp. Bilden framhäver yardanger, vindslipade bergsryggar vars strömlinjeformade konturer avslöjar den dominerande vindriktningen under eoner av eolisk erosion. Dessa formationer uppstår när abrasiva sandpartiklar, drivna av marsianska vindar, successivt eroderar svagare sediment och lämnar kvar mer motståndskraftiga bergsryggar.\n\nDet yardangbärande lagret på Mount Sharp är av särskilt intresse för planetgeologer. Lagret tros bestå av stelnad vulkanisk aska eller vindavsatta sandstenar som markerar en övergångsperiod i planetens klimathistoria. Under denna epok torkade Mars ut och övergick från en potentiellt beboelig värld med sjöar till det extremt torra ökenlandskap vi ser i dag. Genom att analysera bergets skiktning och mineralogi med rovern undersöker forskarna hur snabbt denna klimatomvandling skedde och hur Mars atmosfär har interagerat med dess yta över geologiska tidsskalor."
+  },
+  "terms": [
+    {
+      "term": "yardang",
+      "explanation": "En långsträckt bergsrygg som skulpterats fram ur berggrunden av vindburen sand och ihållande vinderosion."
+    },
+    {
+      "term": "vinderosion",
+      "explanation": "En geologisk process där vinden nöter ner och formar berg och mark genom att blåsa partiklar mot ytan."
+    },
+    {
+      "term": "Curiosity",
+      "explanation": "En hjulförsedd robot och ett rullande laboratorium från NASA som har utforskat Mars sedan 2012."
+    },
+    {
+      "term": "Gale-kratern",
+      "explanation": "En stor nedslagskrater på Mars där Curiosity landade för att undersöka spår av tidigare vatten och miljöer."
+    },
+    {
+      "term": "Mount Sharp",
+      "explanation": "Det massiva centralberget i Gale-kratern vars bergslager fungerar som en historisk geologisk tidslinje."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at these sharp, pointed rocks! This is a real view from the red planet, Mars. There are no plants, trees, or rushing rivers here. But there is plenty of wind!\n\nOver thousands of years, howling winds push tiny grains of sand that act like sandpaper against the rock. Slowly, they carve the stone into shapes that look like boat hulls or dragon ridges. NASA's robot explorer Curiosity took this picture while rolling around the rocky desert.",
+      "nyborjare": "This stunning scene shows a wind-sculpted Martian landscape photographed by NASA's Curiosity rover. The sharp, elongated rock formations are known as yardangs. A yardang forms when relentless winds blow abrasive sand grains across bedrock over millions of years, wearing down softer rock and leaving behind streamlined ridges.\n\nBecause Mars is a frozen desert without liquid surface water today, wind is the dominant geological force shaping its landscape. Planetary scientists study these structures on the slopes of Mount Sharp within Gale Crater. By examining how these yardangs formed, researchers can map ancient wind patterns and learn how climate shifts transformed Mars from a wet world into a dry wasteland.",
+      "entusiast": "Captured by NASA's Curiosity rover, this image highlights a field of yardangs on the slopes of Mount Sharp inside Gale Crater. Yardangs are classic eolian landforms carved into consolidated strata by wind erosion. Persistent unidirectional winds carrying abrasive saltating sand grains scour away weaker materials, sculpting the resistant rock into streamlined, boat-shaped ridges aligned with ancient atmospheric flows.\n\nThe yardang-bearing unit on Mount Sharp is of major interest to planetary scientists because it marks a critical transition in Martian geologic history. These layers are thought to consist of lithified volcanic ash or cemented eolian sandstones deposited during the planet's transition from an earlier, potentially habitable lacustrine environment to the hyper-arid desert seen today. By studying the morphology and stratigraphy of these structures, researchers aim to constrain the timing of this planetary desiccation and understand the sedimentological processes that shaped the Martian surface."
+    },
+    "terms": [
+      {
+        "term": "yardang",
+        "explanation": "An elongated ridge of bedrock carved and streamlined by the abrasive action of windblown sand."
+      },
+      {
+        "term": "Curiosity",
+        "explanation": "A car-sized NASA rover exploring Gale Crater on Mars to investigate past habitability."
+      },
+      {
+        "term": "Gale Crater",
+        "explanation": "A large Martian impact basin hosting a central mound of layered sedimentary rocks."
+      },
+      {
+        "term": "Mount Sharp",
+        "explanation": "The towering central mountain within Gale Crater that preserves billions of years of Martian geological history."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a bedrock ridge sculpted by wind called?",
+        "options": [
+          "Yardang",
+          "Drumlin",
+          "Sinkhole"
+        ],
+        "correct": 0,
+        "fact": "A yardang is an elongated bedrock feature carved and streamlined by windblown sand."
+      },
+      {
+        "q": "Which process currently drives most erosion on Mars?",
+        "options": [
+          "Ocean currents and tides",
+          "Windblown sand and dust storms",
+          "Flowing streams of meltwater"
+        ],
+        "correct": 1,
+        "fact": "Because liquid surface water is absent on modern Mars, wind is the primary force shaping the terrain."
+      },
+      {
+        "q": "What gas primarily makes up the Martian atmosphere?",
+        "options": [
+          "Methane",
+          "Nitrogen",
+          "Carbon dioxide"
+        ],
+        "correct": 2,
+        "fact": "The thin atmosphere of Mars consists of roughly 95 percent carbon dioxide, with traces of nitrogen and argon."
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-20",
+  "title": "The Human Fingerprint on Earth’s Water Cycle",
+  "title_sv": "Människans avtryck på jordens vattenkretslopp",
+  "place": "Globalt",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+  "credit": "NASA Earth Observatory/Michala Garrison, based on data from O’Neill, M.M., et al .",
+  "source": "",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+  "w": 480,
+  "h": 331,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgf/xAAmEAACAQQCAQIHAAAAAAAAAAABAgMAERIhEzEEUZEiIzJhcYGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAQADAQAAAAAAAAAAAAAAAAERITFB/9oADAMBAAIRAxEAPwDoLzOkwTFSDsEHftSk5hOZH8sGMA/KCr3+e9VRgwJYtc7tqlInPE2mjN9MuifvUGG81VcoSAw1Y02BVb4hc262aTHCxiPJEshL3F/QdVTGcQFItrr0pMhh6N6mjPkYAARKBoC5P9oopexfGo5JsH5FTIHWLGxHtTlyP1Bf0aKK1eszcf/Z",
+  "levels": {
+    "barn": "Kartan visar vår jord med färgade fält på kontinenterna. Färgerna visar var sötvatten i marken, sjöar och floder har ökat eller minskat under mer än tjugo år. Där människor pumpar upp väldigt mycket grundvatten för att vattna åkrar har vattnet minskat. Det syns som tydliga områden på kartan, till exempel i Indien och Nordamerika. På andra ställen har människor byggt stora dammar som samlar upp vatten, eller planterat grödor som gör att mer vatten stannar kvar i jorden.",
+    "nyborjare": "Kartan visar jordens landytor där färgskiftningar markerar hur den totala vattenmängden på land har förändrats mellan 2002 och 2025. Vattnet finns i floder, sjöar, markfuktighet och underjordiska grundvattenmagasin, så kallade akviferer. Forskare vid NASA har analyserat satellitdata för att skilja naturliga klimatvariationer från människans direkta påverkan. Resultatet pekar ut fyrtio regioner på jorden där förändringarna kopplas direkt till mänskliga aktiviteter. I områden med intensiv konstbevattning, såsom Kaliforniens Central Valley och norra Indien, har hårt pumpande av grundvatten skapat kraftiga vattenförluster. På andra platser har vattenreserverna i stället vuxit. Det beror bland annat på stora uppdämda vattenreservoarer som Bogutjanydammen i Ryssland, eller på förändrad markanvändning där regnbevattnade grödor har hjälpt marken att behålla fukten.",
+    "entusiast": "Kartan återger långsiktiga trender i markens vattenlagring över jordens kontinenter mellan april 2002 och november 2025, där kontrasterande färger markerar ökningar och minskningar i vattenmassan. Uppgifterna bygger på satellituppdragen GRACE och GRACE-FO, vilka består av två satelliter som flyger i tandem. När den främre satelliten passerar över en region med högre massa, exempelvis från stora mängder vatten eller is, drar gravitationen svagt i den och ändrar avståndet mellan farkosterna. Genom att kombinera över tjugo års banpassager har forskarna kunnat kartlägga grundvatten, markfukt och ytvatten med fem till tio gånger högre rumslig upplösning än tidigare studier. Den förbättrade upplösningen synliggör fyrtio regioner där antropogena faktorer har styrt trenderna starkare än naturliga klimatvariationer. Hård grundvattenpumpning för jordbruksbevattning har orsakat omfattande förluster i norra Indien, mexikanska Chihuahua och USA:s High Plains. I norra Indien förklarar smältande glaciärer i Himalaya endast 15 procent av minskningen, medan resten främst beror på bevattningsuttag. Samtidigt har vattenlagringen ökat i andra regioner, exempelvis kring den väldiga Bogutjanydammen vid floden Angara i Ryssland, längs den otätade Karakumkanalen i Turkmenistan samt i savannområden i Afrika söder om Sahara där hirsodling ersatt naturlig vegetation. Studien ger forskarna nya möjligheter att särskilja hur lokala dammbyggen, vattenomledningar och förändrad markanvändning påverkar hydrologin nedströms."
+  },
+  "terms": [
+    {
+      "term": "GRACE",
+      "explanation": "Satellituppdrag från NASA och Tyskland som mäter variationer i jordens tyngdkraft för att spåra vatten- och ismassor."
+    },
+    {
+      "term": "akvifer",
+      "explanation": "Ett geologiskt lager under markytan som innehåller och kan transportera grundvatten."
+    },
+    {
+      "term": "Karakumkanalen",
+      "explanation": "En stor kanal i Turkmenistan som leder flodvatten genom öknen för att möjliggöra konstbevattning inom jordbruket."
+    },
+    {
+      "term": "Bogutjanydammen",
+      "explanation": "En stor rysk vattenreservoar anlagd vid floden Angara under 2000-talet."
+    },
+    {
+      "term": "konstbevattning",
+      "explanation": "Konstgjord tillförsel av vatten till odlingsmark för att förbättra eller möjliggöra grödors tillväxt."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The map shows our Earth with colorful patches across the continents. These colors show where freshwater on land, in lakes, and under the ground has increased or decreased over more than twenty years. In places where farmers pump up lots of groundwater to water crops, the water levels have dropped significantly. This stands out clearly in places like northern India and California. In other regions, water storage has risen because people built large dams or grew crops that hold water in the soil.",
+      "nyborjare": "This map illustrates Earth’s land surfaces, using color variations to display shifts in terrestrial water storage between 2002 and 2025. This includes water held in lakes, rivers, soil moisture, and underground aquifers. NASA researchers analyzed data from twin satellites to distinguish natural climate variability from direct human influence. They identified 40 regions across the globe where long-term trends strongly align with human activities. In areas dominated by groundwater-irrigated farmland, such as California’s Central Valley and northern India, excessive pumping has caused severe water storage declines. Elsewhere, water storage has increased due to human engineering and agriculture. Examples include large water bodies like the Boguchany Reservoir in Russia, leakage along unlined canals, and agricultural shifts where rainfed crops help trap and direct water into shallow aquifers.",
+      "entusiast": "The map depicts long-term trends in terrestrial water storage across global continents from April 2002 to November 2025, with contrasting colors revealing regional water gains and losses. Data were acquired by the GRACE and GRACE-FO satellite missions, each consisting of two satellites flying in tandem. As the leading spacecraft passes over a region of greater mass, such as concentrated water or ice, slight gravitational fluctuations alter the distance between the two probes. By stacking more than two decades of satellite passes, researchers mapped groundwater, surface water, and soil moisture at five to ten times greater spatial resolution than previous studies. This refined resolution revealed 40 regions where human activities correlated more strongly with storage trends than any climate variable did. Excessive groundwater pumping for irrigation drove sharp declines in northern India, Mexico’s Chihuahua state, and the American High Plains. In northern India, retreating Himalayan glaciers explained only 15 percent of the water loss, with the rest tied to agricultural extraction. Conversely, water storage expanded near large infrastructure projects like the Boguchany Reservoir on Russia’s Angara River, along the unlined Karakum Canal in Turkmenistan, and across parts of sub-Saharan Africa where rainfed millet cultivation helped raise local groundwater tables despite below-average rainfall."
+    },
+    "terms": [
+      {
+        "term": "GRACE",
+        "explanation": "A satellite mission using twin spacecraft to detect subtle changes in Earth's gravitational pull to track water mass."
+      },
+      {
+        "term": "aquifer",
+        "explanation": "An underground layer of water-bearing rock, sand, or gravel that stores and yields groundwater."
+      },
+      {
+        "term": "Karakum Canal",
+        "explanation": "A massive, largely unlined canal diverting river water across Turkmenistan's desert for agricultural irrigation."
+      },
+      {
+        "term": "Boguchany Reservoir",
+        "explanation": "A major artificial water reservoir impounded on Russia's Angara River during the early 21st century."
+      },
+      {
+        "term": "terrestrial water storage",
+        "explanation": "The total sum of all water stored on land, including groundwater, soil moisture, surface water, and snow."
+      }
+    ],
+    "place": "Global"
+  }
+}

@@ -1,26 +1,16 @@
 {
- "updated": "2026-10-19T16:39:01.445Z",
+ "updated": "2026-10-20T05:01:53.899Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-19T12:00:00Z",
+   "date": "2026-10-20T00:00:00Z",
    "title_sv": "Supertyfonen Champi",
    "title_en": "Super Typhoon Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 260 km/h",
-   "value_en": "winds of 260 km/h"
-  },
-  {
-   "kind": "storm",
-   "date": "2026-10-19T12:00:00Z",
-   "title_sv": "Tropiska stormen Trudy",
-   "title_en": "Tropical Storm Trudy",
-   "where_sv": "Östra Stilla havet",
-   "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 95 km/h",
-   "value_en": "winds of 95 km/h"
+   "value_sv": "vindar på 240 km/h",
+   "value_en": "winds of 240 km/h"
   },
   {
    "kind": "storm",
@@ -31,6 +21,16 @@
    "where_en": "Southern Pacific",
    "value_sv": "vindar på 85 km/h",
    "value_en": "winds of 85 km/h"
+  },
+  {
+   "kind": "storm",
+   "date": "2026-10-20T00:00:00Z",
+   "title_sv": "Tropiska lågtrycket Trudy",
+   "title_en": "Tropical Depression Trudy",
+   "where_sv": "Östra Stilla havet",
+   "where_en": "Eastern Pacific",
+   "value_sv": "vindar på 55 km/h",
+   "value_en": "winds of 55 km/h"
   },
   {
    "kind": "ice",
@@ -51,16 +51,6 @@
    "where_en": "",
    "value_sv": "810 hektar",
    "value_en": "810 hectares"
-  },
-  {
-   "kind": "fire",
-   "date": "2026-10-09T19:26:00Z",
-   "title_sv": "Skogsbrand i Sheridan, Wyoming",
-   "title_en": "Wildfire in Sheridan, Wyoming",
-   "where_sv": "",
-   "where_en": "",
-   "value_sv": "670 hektar",
-   "value_en": "670 hectares"
   }
  ]
 }
