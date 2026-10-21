@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-21T04:46:28.292Z",
+ "updated": "2026-10-21T09:04:02.379Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-20T18:00:00Z",
+   "date": "2026-10-21T00:00:00Z",
    "title_sv": "Supertyfonen Champi",
    "title_en": "Super Typhoon Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 295 km/h",
-   "value_en": "winds of 295 km/h"
+   "value_sv": "vindar på 285 km/h",
+   "value_en": "winds of 285 km/h"
   },
   {
    "kind": "storm",

@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "A home for old stars",
-  "title_sv": "Ett hem för gamla stjärnor",
+  "title": "Uncovering the secrets of the Quintuplet Cluster",
+  "title_sv": "Quintetthopen",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-checks-out-a-home-for-old-stars_23521659649_o/hubble-checks-out-a-home-for-old-stars_23521659649_o~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-checks-out-a-home-for-old-stars_23521659649_o/hubble-checks-out-a-home-for-old-stars_23521659649_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-checks-out-a-home-for-old-stars_23521659649_o/hubble-checks-out-a-home-for-old-stars_23521659649_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-checks-out-a-home-for-old-stars_23521659649_o",
+  "url": "https://images-assets.nasa.gov/image/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o",
   "credit": "NASA/GSFC",
   "taken": "2015",
   "src": "library",
-  "id": "hubble-checks-out-a-home-for-old-stars_23521659649_o",
+  "id": "hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o",
   "px": [
     1280,
-    1091
+    1142
   ],
   "w": 640,
-  "h": 545,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAiEAEAAQMEAgMBAAAAAAAAAAABAgARIQMEMUESIiNRYRP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AOFIhCLGXs3EtxRoQ+NbmOr80LTgMBTC2qhstOMkFxxnuotQl5afqTlK9+uWgziQjFMjhL1b3m1jtYxY5eR5Gouuv9ET27WruxMhRujJtinYazaF8NuQ5/WkGcglAbRW9qJBSz2FGhO6+u6kWJKT4n3fNIzlK69/daZPml20nP7msTPlY9DxQObNv//Z",
+  "h": 571,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAgEEAwUG/8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIRAAMSITFBBBNRImGBFHGRwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDkLpDOoWSADMaUrPaAXBpJGojY+1EI3cW2xO8MQJ/NbH6RrXS98MrJJiQJHxUVTYZmNSdtRHzT6ZcSc9mPI0FK3ZEyC2Wwkceak+pyoga6gbiqgIjJBMAnXLgVbF1XW2r54ADLTb7f2q4Y9oCdwNaSubobIADwPagx3brl5YeoxBJ4FEAC9k1xSZmPNO6BKr4EzzUW4NxkxAGX6pR//9k=",
   "quiz": [
     {
-      "q": "Varför har de flesta stjärnorna i klotformiga stjärnhopar en rödaktig färg?",
+      "q": "Vad är en ljusblå variabel stjärna?",
       "options": [
-        "De är gamla och relativt svala stjärnor.",
-        "De rör sig bort i hög hastighet.",
-        "De omges av täta moln av stoft."
+        "En ovanlig och extremt ljusstark jättestjärna",
+        "En stjärna som byter färg varje dygn",
+        "En ung stjärna i ett svart hål"
       ],
       "correct": 0,
-      "fact": "Klotformiga stjärnhopar bildades tidigt i galaxens historia, så de kortlivade blå stjärnorna har redan dött ut och bara äldre, svalare stjärnor finns kvar."
+      "fact": "Ljusblå variabla stjärnor är extremt massiva, sällsynta och lyser med enorm styrka under en mycket kort livstid."
     },
     {
-      "q": "Vad håller samman stjärnorna i en klotformig stjärnhop?",
+      "q": "Vad händer när massiva stjärnor når slutet?",
       "options": [
-        "Starka magnetiska fält mellan stjärnorna.",
-        "Stjärnornas egen gemensamma gravitationskraft.",
-        "Ett yttre tryck från het gas."
+        "De drar ihop sig till kalla planeter",
+        "De exploderar i våldsamma supernovor",
+        "De slocknar långsamt utan några spår"
       ],
       "correct": 1,
-      "fact": "Den ömsesidiga tyngdkraften mellan hopens hundratusentals stjärnor binder samman dem i en stabil sfärisk form i miljarder år."
+      "fact": "Massiva stjärnor förbrukar sitt bränsle snabbt och avslutar sina liv i kraftiga supernovor som kastar ut ämnen i rymden."
     },
     {
-      "q": "Vad orsakar de röntgenblixtar som ofta upptäcks i stjärnhopen?",
+      "q": "Varför upptäcktes Quintetthopen sent?",
       "options": [
-        "Kollisioner mellan stora stenplaneter.",
-        "Kärnreaktioner på ytan av vita dvärgar.",
-        "Neutronstjärnor som suger åt sig gas från grannstjärnor."
+        "Den ligger i Vintergatans yttre tomrum",
+        "Tjockt stoft döljer dess synliga ljus",
+        "Den bildades först under tidigt 2000-tal"
       ],
-      "correct": 2,
-      "fact": "När en kompakt neutronstjärna drar till sig materia från en följeslagarstjärna hettas gasen upp till miljontals grader och avger kraftig röntgenstrålning."
+      "correct": 1,
+      "fact": "Stjärnhopen ligger nära Vintergatans centrum där kosmiskt stoft blockerar det synliga ljuset, vilket krävde infraröda observationer."
     }
   ],
   "levels": {
-    "barn": "Titta noga på den här bilden! Det ser ut som en glittrande snöglob full av stjärnor. Det här kallas för en klotformig stjärnhop och heter Terzan 1. Den ligger jättelångt bort i rymden, ungefär tjugotusen ljusår från oss. Här bor omkring hundratusen stjärnor som hålls ihop av gravitationen. De flesta stjärnorna här är väldigt gamla och lyser rött eller orange, ungefär som glödande kolbitar i en lägereld. De starkt lysande blå stjärnorna du ser ligger mycket närmare oss och råkar bara vara i vägen.",
-    "nyborjare": "Den här bilden visar Terzan 1, en klotformig stjärnhop som ligger ungefär 20 000 ljusår från jorden i stjärnbilden Skorpionen. En sådan hop är en tät, klotformad svärm av omkring hundratusen stjärnor som hålls samman av sin egen tyngdkraft. Vintergatan rymmer cirka 150 kända klotformiga stjärnhopar, medan jättelika galaxer kan ha flera tusen. Stjärnorna i Terzan 1 hör till de äldsta i vår galax och tändes redan när Vintergatan började bildas. Därför har de flesta en rödaktig färg. De få klart blå stjärnorna i bilden tillhör inte alls hopen, utan är förgrundsstjärnor som ligger mycket närmare jorden. I hopen finns även par av stjärnor där en kompakt neutronstjärna drar till sig gas från en granne, vilket skapar utbrott av energirik röntgenstrålning.",
-    "entusiast": "Rymdteleskopet Hubble fångade denna detaljerade vy av Terzan 1 med instrumentet Wide Field Planetary Camera 2. Denna klotformiga stjärnhop befinner sig omkring 20 000 ljusår bort i stjärnbilden Skorpionen och utgör en värdefull relik från Vintergatans tidigaste skede. Typiska klotformiga hopar spänner över några hundra ljusår i diameter och binder samman runt hundratusen stjärnor genom inbördes gravitation. Medan Vintergatan rymmer omkring 150 kända hopar kan jättelika elliptiska galaxer innehålla tiotusentals. Den dominerande rödaktiga tonen hos stjärnorna i bilden avslöjar deras ansenliga ålder. De kortlivade, heta och massiva blå stjärnorna dog ut via supernovaexplosioner för miljarder år sedan, vilket lämnar kvar långlivade stjärnor med låg massa på huvudserien samt röda jättar. De få skarpa blå stjärnorna som framträder i fältet tillhör inte hopen, utan är fältstjärnor i Vintergatans skiva som råkar ligga i siktlinjen. Terzan 1 utmärker sig även som en känd källa till energirik röntgenstrålning. Denna strålning alstras i täta dubbelstjärnesystem där en kompakt neutronstjärna ackreterar gas från en vanlig stjärna. När materialet faller in mot neutronstjärnans djupa gravitationsbrunn hettas det upp till tiotals miljoner grader, vilket utlöser kraftiga utbrott av röntgenstrålning innan systemet återgår till en lugnare fas."
+    "barn": "Tänk dig ett jättestort glödande bollhav i rymden! Den här bilden visar en samling med massor av brinnande stjärnor som ligger ganska nära mitten av vår galax. En del av stjärnorna är så stora och hungriga att de äter upp sitt bränsle jättefort. Snart kommer de att smälla av som stora fyrverkerier.",
+    "nyborjare": "Denna rymdbild visar Quintetthopen, en stjärnhop som upptäcktes år 1990. Hopen ligger bara 100 ljusår från mitten av vår galax, Vintergatan. Eftersom ett tjockt lager kosmiskt stoft blockerar det vanliga synliga ljuset i området behövde astronomer använda infrarött ljus för att se igenom stoftet. Här finns hundratals massiva stjärnor, inklusive extremt sällsynta ljusblå variabla stjärnor som Pistolstjärnan. De tunga stjärnorna bränner sitt bränsle i otrolig takt och förväntas explodera som supernovor inom några miljoner år.",
+    "entusiast": "Quintetthopen är en kompakt stjärnhop belägen cirka 100 ljusår från Vintergatans galaktiska centrum. Den upptäcktes 1990 genom infraröda observationer och döljs i det synliga spektrumet av det täta interstellära stoftet i galaxens centrala regioner. Hopen rymmer hundratals unga, massiva stjärnor, däribland två sällsynta ljusblå variabla stjärnor: Pistolstjärnan och V4650 Sgr. Pistolstjärnan lyser upp den omgivande Pistolnebulosan och räknas till galaxens mest ljusstarka objekt. Med en uppskattad ålder på fyra miljoner år innehåller hopen även flera röda superjättar på gränsen till sina supernova- eller hypernovastadier. Dessa stjärnors våldsamma utveckling värmer upp det omgivande interstellära mediet med enorma energimängder."
   },
   "terms": [
     {
-      "term": "klotformig stjärnhop",
-      "explanation": "En klotformad och mycket tät samling av tiotusentals till miljontals gamla stjärnor som hålls ihop av gravitation."
+      "term": "stjärnhop",
+      "explanation": "En sammanhållen grupp av stjärnor som hålls kvar på samma plats av sin gemensamma dragningskraft."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett helt jordår, cirka 9,5 biljoner kilometer."
+      "explanation": "Den sträcka som en ljusstråle färdas på ett helt jordår i rymdens tomrum."
     },
     {
-      "term": "neutronstjärna",
-      "explanation": "En extremt tät rest av en kollapsad massiv stjärna, där atomerna har tryckts samman till neutroner."
+      "term": "infrarött",
+      "explanation": "Osynlig värmestrålning med längre våglängd än det mänskliga ögat kan uppfatta."
     },
     {
-      "term": "röntgenstrålning",
-      "explanation": "En form av osynlig och mycket energirik elektromagnetisk strålning med kortare våglängd än ultraviolett ljus."
+      "term": "supernova",
+      "explanation": "En våldsam och extremt ljusstark explosion som markerar slutet för en tung stjärnas liv."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Take a close look at this sparkling picture! It looks like a glowing snow globe filled with stars. This object is called a globular cluster, named Terzan 1. It is located about 20,000 light-years away from Earth. Inside, around a hundred thousand stars huddle together, bound by their own gravity. Most of these stars are very old and glow with an orange or reddish light, like dying embers in a cozy campfire. The bright blue stars do not belong to the cluster; they just happen to sit in the foreground!",
-      "nyborjare": "This image captures Terzan 1, a globular cluster located roughly 20,000 light-years away in the constellation Scorpius. A globular cluster is a tightly packed, spherical swarm of roughly one hundred thousand stars bound together by mutual gravity. The Milky Way is home to around 150 known clusters like this one. The stars in Terzan 1 are among the oldest in our galaxy, having formed during the earliest stages of the Milky Way. This ancient age gives them their reddish glow. The few bright blue stars scattered across the image are foreground stars located much closer to us. Terzan 1 is also a known source of X-rays, produced when a dense neutron star pulls gas from a companion star in a binary system.",
-      "entusiast": "Captured by the Hubble Space Telescope using the Wide Field Planetary Camera 2, this image reveals the globular cluster Terzan 1. Situated roughly 20,000 light-years from Earth in Scorpius, this compact stellar system provides a window into the early evolutionary history of the Milky Way. Spanning a few hundred light-years across, typical globular clusters contain about a hundred thousand stars bound by mutual gravitational attraction. While our galaxy hosts approximately 150 such clusters, giant elliptical galaxies can harbor thousands. The predominantly reddish hues reflect an ancient stellar population. Massive, short-lived blue stars exhausted their nuclear fuel billions of years ago, leaving behind low-mass main-sequence stars and red giants. The prominent blue stars in the field are unrelated foreground stars in the galactic disk. Astronomers also study Terzan 1 because it emits high-energy X-ray radiation. These emissions originate from low-mass X-ray binaries, where an ultradense neutron star accretes material from an ordinary stellar companion. Infalling material heats up dramatically in the neutron star's gravitational well, triggering intense X-ray outbursts. After the outburst, the system cools into a quiescent phase until sufficient material accumulates to ignite another flare."
+      "barn": "Imagine a giant glowing ball pit out in space! This picture shows a cluster filled with lots of burning stars located quite close to the middle of our galaxy. Some of these stars are so big and hungry that they burn through their fuel really fast. Soon they will pop like massive fireworks.",
+      "nyborjare": "This space image reveals the Quintuplet Cluster, a stellar cluster discovered in 1990. The cluster is situated just 100 light-years from the center of our galaxy, the Milky Way. Because a thick layer of cosmic dust blocks normal visible light in this region, astronomers had to use infrared light to see right through the dust. It hosts hundreds of massive stars, including extremely rare luminous blue variable stars like the Pistol Star. These heavy stars burn their fuel at an incredible speed and are expected to explode as supernovae within a few million years.",
+      "entusiast": "The Quintuplet Cluster is a compact stellar grouping located approximately 100 light-years from the Galactic Centre. Discovered in 1990 via infrared observations, the cluster is obscured in the optical spectrum by dense interstellar dust in the central regions of the galaxy. It houses hundreds of young, massive stars, including two rare luminous blue variable stars: the Pistol Star and V4650 Sgr. The Pistol Star illuminates the surrounding Pistol Nebula and ranks among the most luminous objects in the galaxy. With an estimated age of four million years, the cluster also contains several red supergiants on the verge of supernova or hypernova stages, injecting vast amounts of energy into the surrounding interstellar medium."
     },
     "terms": [
       {
-        "term": "globular cluster",
-        "explanation": "A dense, spherical collection of up to millions of ancient stars bound together by mutual gravity."
+        "term": "cluster",
+        "explanation": "A gravitationally bound collection of stars traveling together through space."
       },
       {
-        "term": "neutron star",
-        "explanation": "The collapsed, extremely dense core left behind after a massive star explodes as a supernova."
+        "term": "light-years",
+        "explanation": "The enormous distance that a beam of light travels through empty space during one Earth year."
       },
       {
-        "term": "binary system",
-        "explanation": "A pair of gravitationally bound stars that orbit around their common center of mass."
+        "term": "infrared",
+        "explanation": "Invisible thermal radiation with wavelengths longer than what the human eye can perceive."
       },
       {
-        "term": "gravity",
-        "explanation": "The universal attractive force that pulls objects with mass toward one another."
+        "term": "supernova",
+        "explanation": "A violent and extraordinarily bright explosion marking the final evolutionary stage of a massive star."
       }
     ],
     "quiz": [
       {
-        "q": "Why do most stars in globular clusters have a reddish color?",
+        "q": "What is a luminous blue variable star?",
         "options": [
-          "They are old and relatively cool stars.",
-          "They are moving away at high speed.",
-          "They are obscured by dense dust clouds."
+          "An unusual and extremely luminous giant star",
+          "A star that changes its color daily",
+          "A young star trapped inside a black hole"
         ],
         "correct": 0,
-        "fact": "Globular clusters formed billions of years ago, meaning short-lived hot blue stars have already died, leaving older and redder stars."
+        "fact": "Luminous blue variable stars are extremely massive, rare, and shine with immense intensity during a very short lifetime."
       },
       {
-        "q": "What holds the stars together inside a globular cluster?",
+        "q": "What happens when massive stars reach their end?",
         "options": [
-          "Strong magnetic fields between the stars.",
-          "The stars' mutual gravitational attraction.",
-          "External pressure from surrounding hot gas."
+          "They shrink into cold rocky planets",
+          "They explode in violent supernovae",
+          "They fade away slowly without leaving traces"
         ],
         "correct": 1,
-        "fact": "Mutual gravity binds hundreds of thousands of stars together into a tight, spherical swarm lasting billions of years."
+        "fact": "Massive stars consume their fuel rapidly and end their lives in powerful supernovae that eject material into space."
       },
       {
-        "q": "What triggers the X-ray outbursts detected in the cluster?",
+        "q": "Why was the Quintuplet Cluster discovered late?",
         "options": [
-          "Collisions between rocky exoplanets.",
-          "Nuclear reactions on white dwarfs.",
-          "A neutron star pulling material from a companion."
+          "It is located in the outer void of the galaxy",
+          "Dense cosmic dust blocks its visible light",
+          "It formed only recently in the early 2000s"
         ],
-        "correct": 2,
-        "fact": "As a dense neutron star accretes gas from a companion star, the infalling gas superheats and unleashes powerful X-rays."
+        "correct": 1,
+        "fact": "The cluster lies near the center of the Milky Way where cosmic dust blocks visible light, requiring infrared observations."
       }
     ]
   }
