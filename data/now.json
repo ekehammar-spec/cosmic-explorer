@@ -1,16 +1,26 @@
 {
- "updated": "2026-10-21T09:04:02.379Z",
+ "updated": "2026-10-21T14:39:41.038Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-21T00:00:00Z",
+   "date": "2026-10-21T06:00:00Z",
    "title_sv": "Supertyfonen Champi",
    "title_en": "Super Typhoon Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 285 km/h",
-   "value_en": "winds of 285 km/h"
+   "value_sv": "vindar på 280 km/h",
+   "value_en": "winds of 280 km/h"
+  },
+  {
+   "kind": "storm",
+   "date": "2026-10-21T06:00:00Z",
+   "title_sv": "Tropiska stormen 02S",
+   "title_en": "Tropical Storm 02S",
+   "where_sv": "Södra Indiska oceanen",
+   "where_en": "Southern Indian Ocean",
+   "value_sv": "vindar på 85 km/h",
+   "value_en": "winds of 85 km/h"
   },
   {
    "kind": "storm",
@@ -21,16 +31,6 @@
    "where_en": "Southern Pacific",
    "value_sv": "vindar på 85 km/h",
    "value_en": "winds of 85 km/h"
-  },
-  {
-   "kind": "storm",
-   "date": "2026-10-20T18:00:00Z",
-   "title_sv": "Tropiska stormen 02S",
-   "title_en": "Tropical Storm 02S",
-   "where_sv": "Södra Indiska oceanen",
-   "where_en": "Southern Indian Ocean",
-   "value_sv": "vindar på 75 km/h",
-   "value_en": "winds of 75 km/h"
   },
   {
    "kind": "ice",

@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Uncovering the secrets of the Quintuplet Cluster",
-  "title_sv": "Quintetthopen",
+  "title": "Bursting at the seams",
+  "title_sv": "NGC 1569",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o",
+  "url": "https://images-assets.nasa.gov/image/27403698983_e4b085480f_o/27403698983_e4b085480f_o~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/27403698983_e4b085480f_o/27403698983_e4b085480f_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/27403698983_e4b085480f_o/27403698983_e4b085480f_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/27403698983_e4b085480f_o",
   "credit": "NASA/GSFC",
-  "taken": "2015",
+  "taken": "2016",
   "src": "library",
-  "id": "hubble-uncovering-the-secrets-of-the-quintuplet-cluster_19779352405_o",
+  "id": "27403698983_e4b085480f_o",
   "px": [
     1280,
-    1142
+    1198
   ],
   "w": 640,
-  "h": 571,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAgEEAwUG/8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIRAAMSITFBBBNRImGBFHGRwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDkLpDOoWSADMaUrPaAXBpJGojY+1EI3cW2xO8MQJ/NbH6RrXS98MrJJiQJHxUVTYZmNSdtRHzT6ZcSc9mPI0FK3ZEyC2Wwkceak+pyoga6gbiqgIjJBMAnXLgVbF1XW2r54ADLTb7f2q4Y9oCdwNaSubobIADwPagx3brl5YeoxBJ4FEAC9k1xSZmPNO6BKr4EzzUW4NxkxAGX6pR//9k=",
+  "h": 599,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgD/xAAjEAACAgEEAgIDAAAAAAAAAAABAgMRAAQSITFBUQUiMmGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHBEAAgMBAAMAAAAAAAAAAAAAAAECESEDEiJB/9oADAMBAAIRAxEAPwDGRAF6HvHp4HTaZBRKg8+RgIAjAEjn2MpHTSzMoRWcbfHPAwr2w2lFw34SJYQi0xA80D3i0igL+8el3KzKyXXdjFZ2BT8dpqu+8mpjVSVnQyFWGXtEzz0I745q6AGZtD/cu/H6ow6RgB9m810MMnWofNeSpgtfC0DyFgSpsZK1DGxuq9vrrHdXIzbixN9jnxkyUknLHXbJ0aiqR//Z",
   "quiz": [
     {
-      "q": "Vad är en ljusblå variabel stjärna?",
+      "q": "Vad är en starburstgalax?",
       "options": [
-        "En ovanlig och extremt ljusstark jättestjärna",
-        "En stjärna som byter färg varje dygn",
-        "En ung stjärna i ett svart hål"
+        "En galax som håller på att explodera",
+        "En galax som bildar stjärnor i extremt hög takt",
+        "En galax som har kolliderat med ett svart hål"
+      ],
+      "correct": 1,
+      "fact": "En starburstgalax kännetecknas av en ovanligt intensiv stjärnbildning som är mycket högre än i normala galaxer."
+    },
+    {
+      "q": "Hur skapas supernovarester?",
+      "options": [
+        "När stora stjärnor får slut på bränsle och exploderar",
+        "När små planeter dras in i en stjärna",
+        "När gasmoln kyls ner till noll grader"
       ],
       "correct": 0,
-      "fact": "Ljusblå variabla stjärnor är extremt massiva, sällsynta och lyser med enorm styrka under en mycket kort livstid."
+      "fact": "Supernovarester är de energirika och expanderande resterna efter att massiva stjärnor har exploderat."
     },
     {
-      "q": "Vad händer när massiva stjärnor når slutet?",
+      "q": "Vad är en stjärnhop?",
       "options": [
-        "De drar ihop sig till kalla planeter",
-        "De exploderar i våldsamma supernovor",
-        "De slocknar långsamt utan några spår"
+        "En ensam stjärna omgiven av kometer",
+        "En stor samling stjärnor som hålls ihop av gravitation",
+        "Ett moln av rymddamm utan några stjärnor"
       ],
       "correct": 1,
-      "fact": "Massiva stjärnor förbrukar sitt bränsle snabbt och avslutar sina liv i kraftiga supernovor som kastar ut ämnen i rymden."
-    },
-    {
-      "q": "Varför upptäcktes Quintetthopen sent?",
-      "options": [
-        "Den ligger i Vintergatans yttre tomrum",
-        "Tjockt stoft döljer dess synliga ljus",
-        "Den bildades först under tidigt 2000-tal"
-      ],
-      "correct": 1,
-      "fact": "Stjärnhopen ligger nära Vintergatans centrum där kosmiskt stoft blockerar det synliga ljuset, vilket krävde infraröda observationer."
+      "fact": "En stjärnhop är en grupp stjärnor som bildades tillsammans och binds samman av sin gemensamma gravitation."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättestort glödande bollhav i rymden! Den här bilden visar en samling med massor av brinnande stjärnor som ligger ganska nära mitten av vår galax. En del av stjärnorna är så stora och hungriga att de äter upp sitt bränsle jättefort. Snart kommer de att smälla av som stora fyrverkerier.",
-    "nyborjare": "Denna rymdbild visar Quintetthopen, en stjärnhop som upptäcktes år 1990. Hopen ligger bara 100 ljusår från mitten av vår galax, Vintergatan. Eftersom ett tjockt lager kosmiskt stoft blockerar det vanliga synliga ljuset i området behövde astronomer använda infrarött ljus för att se igenom stoftet. Här finns hundratals massiva stjärnor, inklusive extremt sällsynta ljusblå variabla stjärnor som Pistolstjärnan. De tunga stjärnorna bränner sitt bränsle i otrolig takt och förväntas explodera som supernovor inom några miljoner år.",
-    "entusiast": "Quintetthopen är en kompakt stjärnhop belägen cirka 100 ljusår från Vintergatans galaktiska centrum. Den upptäcktes 1990 genom infraröda observationer och döljs i det synliga spektrumet av det täta interstellära stoftet i galaxens centrala regioner. Hopen rymmer hundratals unga, massiva stjärnor, däribland två sällsynta ljusblå variabla stjärnor: Pistolstjärnan och V4650 Sgr. Pistolstjärnan lyser upp den omgivande Pistolnebulosan och räknas till galaxens mest ljusstarka objekt. Med en uppskattad ålder på fyra miljoner år innehåller hopen även flera röda superjättar på gränsen till sina supernova- eller hypernovastadier. Dessa stjärnors våldsamma utveckling värmer upp det omgivande interstellära mediet med enorma energimängder."
+    "barn": "Tänk dig en jättestor guldgruva fast uppe i rymden! Den här lilla galaxen sprudlar av liv och tillverkar nya stjärnor i ett rasande tempo. Inne i de glittrande molnen finns gigantiska stjärnhopar som lyser starkt. Hela galaxen pumpar ut stjärnor hundra gånger snabbare än vår egen Vintergata. År 2008 kikade teleskopet Hubble närmare på den här gnistrande skatten för att mäta hur långt bort den ligger.",
+    "nyborjare": "Den här bilden från rymdteleskopet Hubble visar den lilla galaxen NGC 1569, som ligger elva miljoner ljusår bort i stjärnbilden Giraffen. Galaxen kallas för en starburstgalax eftersom den bildar nya stjärnor i en oerhört snabb takt. Under nästan 100 miljoner år har den producerat stjärnor mer än hundra gånger snabbare än Vintergatan. Inuti galaxen syns mäktiga stjärnhopar som lyser i blått. Dessa omges av enorma gasbubblor som har skapats av flera supernovor, det vill säga jättestora stjärnor som har exploderat. År 2008 kunde astronomer använda skarpare kameror för att mäta avståndet mer exakt och förstå att galaxen påverkas av andra närliggande galaxer.",
+    "entusiast": "NGC 1569 är en dvärggalax i stjärnbilden Giraffen och ett skolexempel på en starburstgalax. Galaxen uppvisar en extrem stjärnbildningshastighet som har pågått i nästan 100 miljoner år, driven av kompression av gas som troligen orsakas av tidvattenkrafter och gravitationsinteraktioner inom IC 342-galaxgruppen. År 2008 observerades galaxens kärna och utkanter med Hubbleteleskopets Advanced Camera for Surveys. Genom att identifiera enskilda röda jättar kunde astronomer omberäkna avståndet till ungefär elva miljoner ljusår, vilket placerar systemet 1,5 gånger längre bort än tidigare uppskattat. I bilden syns flera superstjärnhopar, varav en är en överlagring av två massiva kluster. Dessa lysande blåa objekt innehåller vardera över en miljon stjärnor och ligger inbäddade i kaviteter av het gas som har blåsts ut av upprepade supernovor."
   },
   "terms": [
     {
-      "term": "stjärnhop",
-      "explanation": "En sammanhållen grupp av stjärnor som hålls kvar på samma plats av sin gemensamma dragningskraft."
+      "term": "galax",
+      "explanation": "Ett enormt system av miljarder stjärnor, gas, stoft och mörk materia som hålls samman av gravitationen."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas på ett helt jordår i rymdens tomrum."
+      "explanation": "Det avstånd som en ljusstråle färdas på ett helt jordår, vilket motsvarar ungefär 9460 miljarder kilometer."
     },
     {
-      "term": "infrarött",
-      "explanation": "Osynlig värmestrålning med längre våglängd än det mänskliga ögat kan uppfatta."
+      "term": "stjärnhop",
+      "explanation": "En tät samling stjärnor som bildades ur samma gasmoln och binds samman av ömsesidig gravitation."
     },
     {
       "term": "supernova",
-      "explanation": "En våldsam och extremt ljusstark explosion som markerar slutet för en tung stjärnas liv."
+      "explanation": "Den våldsamma och ljusstarka explosion som inträffar när en massiv stjärna har förbrukat sitt bränsle."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant glowing ball pit out in space! This picture shows a cluster filled with lots of burning stars located quite close to the middle of our galaxy. Some of these stars are so big and hungry that they burn through their fuel really fast. Soon they will pop like massive fireworks.",
-      "nyborjare": "This space image reveals the Quintuplet Cluster, a stellar cluster discovered in 1990. The cluster is situated just 100 light-years from the center of our galaxy, the Milky Way. Because a thick layer of cosmic dust blocks normal visible light in this region, astronomers had to use infrared light to see right through the dust. It hosts hundreds of massive stars, including extremely rare luminous blue variable stars like the Pistol Star. These heavy stars burn their fuel at an incredible speed and are expected to explode as supernovae within a few million years.",
-      "entusiast": "The Quintuplet Cluster is a compact stellar grouping located approximately 100 light-years from the Galactic Centre. Discovered in 1990 via infrared observations, the cluster is obscured in the optical spectrum by dense interstellar dust in the central regions of the galaxy. It houses hundreds of young, massive stars, including two rare luminous blue variable stars: the Pistol Star and V4650 Sgr. The Pistol Star illuminates the surrounding Pistol Nebula and ranks among the most luminous objects in the galaxy. With an estimated age of four million years, the cluster also contains several red supergiants on the verge of supernova or hypernova stages, injecting vast amounts of energy into the surrounding interstellar medium."
+      "barn": "Imagine a giant sparkle factory far out in space! This small galaxy is bursting with life and making new stars super fast. Inside the glowing clouds there are huge groups of stars shining brightly. The whole galaxy pumps out stars a hundred times faster than our own Milky Way. In 2008, the Hubble telescope took a closer look at this glittering treasure to see how far away it is.",
+      "nyborjare": "This image from the Hubble Space Telescope shows the small galaxy NGC 1569, located eleven million light-years away in the constellation Camelopardalis. The galaxy is known as a starburst galaxy because it is forming new stars at an extremely rapid pace. For nearly 100 million years, it has produced stars more than a hundred times faster than the Milky Way. Inside the galaxy, powerful star clusters shine in bright blue. These are surrounded by enormous gas bubbles created by multiple supernovae, which are massive stars that have exploded. In 2008, astronomers used sharper cameras to measure the distance more precisely and understand that the galaxy is influenced by neighboring galaxies.",
+      "entusiast": "NGC 1569 is a dwarf galaxy in the constellation Camelopardalis and a textbook example of a starburst galaxy. The system exhibits an extreme starburst phase lasting nearly 100 million years, fueled by gas compression likely triggered by tidal forces within the IC 342 galaxy group. In 2008, observations using the Hubble Space Telescope and its Advanced Camera for Surveys resolved individual red giant branch stars, allowing astronomers to recalculate the distance to about eleven million light-years, placing the system 1.5 times further away than previously thought. The image reveals several super star clusters, including one formed by the superposition of two massive clusters. Each contains over a million stars and resides within gas cavities carved out by repeated supernovae."
     },
     "terms": [
       {
-        "term": "cluster",
-        "explanation": "A gravitationally bound collection of stars traveling together through space."
+        "term": "galaxy",
+        "explanation": "A massive system containing billions of stars, gas, dust, and dark matter held together by gravity."
       },
       {
-        "term": "light-years",
-        "explanation": "The enormous distance that a beam of light travels through empty space during one Earth year."
+        "term": "light-year",
+        "explanation": "The distance that a beam of light travels in one Earth year, equal to roughly 9.46 trillion kilometers."
       },
       {
-        "term": "infrared",
-        "explanation": "Invisible thermal radiation with wavelengths longer than what the human eye can perceive."
+        "term": "star cluster",
+        "explanation": "A dense group of stars that formed from the same gas cloud and are bound by mutual gravity."
       },
       {
         "term": "supernova",
-        "explanation": "A violent and extraordinarily bright explosion marking the final evolutionary stage of a massive star."
+        "explanation": "The powerful and luminous explosion that occurs when a massive star exhausts its nuclear fuel."
       }
     ],
     "quiz": [
       {
-        "q": "What is a luminous blue variable star?",
+        "q": "What is a starburst galaxy?",
         "options": [
-          "An unusual and extremely luminous giant star",
-          "A star that changes its color daily",
-          "A young star trapped inside a black hole"
+          "A galaxy that is currently exploding",
+          "A galaxy forming stars at an extremely high rate",
+          "A galaxy that collided with a black hole"
+        ],
+        "correct": 1,
+        "fact": "A starburst galaxy is characterized by an unusually intense rate of star formation compared to normal galaxies."
+      },
+      {
+        "q": "How are supernova remnants created?",
+        "options": [
+          "When massive stars run out of fuel and explode",
+          "When small planets are pulled into a star",
+          "When gas clouds cool down to zero degrees"
         ],
         "correct": 0,
-        "fact": "Luminous blue variable stars are extremely massive, rare, and shine with immense intensity during a very short lifetime."
+        "fact": "Supernova remnants are the energetic and expanding remains left behind after massive stars explode."
       },
       {
-        "q": "What happens when massive stars reach their end?",
+        "q": "What is a star cluster?",
         "options": [
-          "They shrink into cold rocky planets",
-          "They explode in violent supernovae",
-          "They fade away slowly without leaving traces"
+          "A single star surrounded by comets",
+          "A large collection of stars held together by gravity",
+          "A cloud of cosmic dust without any stars"
         ],
         "correct": 1,
-        "fact": "Massive stars consume their fuel rapidly and end their lives in powerful supernovae that eject material into space."
-      },
-      {
-        "q": "Why was the Quintuplet Cluster discovered late?",
-        "options": [
-          "It is located in the outer void of the galaxy",
-          "Dense cosmic dust blocks its visible light",
-          "It formed only recently in the early 2000s"
-        ],
-        "correct": 1,
-        "fact": "The cluster lies near the center of the Milky Way where cosmic dust blocks visible light, requiring infrared observations."
+        "fact": "A star cluster is a group of stars formed together and bound by their mutual gravitational attraction."
       }
     ]
   }
