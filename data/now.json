@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-20T14:32:09.055Z",
+ "updated": "2026-10-21T04:46:28.292Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-20T06:00:00Z",
+   "date": "2026-10-20T18:00:00Z",
    "title_sv": "Supertyfonen Champi",
    "title_en": "Super Typhoon Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 250 km/h",
-   "value_en": "winds of 250 km/h"
+   "value_sv": "vindar på 295 km/h",
+   "value_en": "winds of 295 km/h"
   },
   {
    "kind": "storm",
@@ -24,13 +24,13 @@
   },
   {
    "kind": "storm",
-   "date": "2026-10-20T00:00:00Z",
-   "title_sv": "Tropiska lågtrycket Trudy",
-   "title_en": "Tropical Depression Trudy",
-   "where_sv": "Östra Stilla havet",
-   "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 55 km/h",
-   "value_en": "winds of 55 km/h"
+   "date": "2026-10-20T18:00:00Z",
+   "title_sv": "Tropiska stormen 02S",
+   "title_en": "Tropical Storm 02S",
+   "where_sv": "Södra Indiska oceanen",
+   "where_en": "Southern Indian Ocean",
+   "value_sv": "vindar på 75 km/h",
+   "value_en": "winds of 75 km/h"
   },
   {
    "kind": "ice",
@@ -44,13 +44,23 @@
   },
   {
    "kind": "fire",
-   "date": "2026-10-10T14:58:00Z",
-   "title_sv": "Skogsbrand i Cassia, Idaho",
-   "title_en": "Wildfire in Cassia, Idaho",
+   "date": "2026-10-15T17:11:00Z",
+   "title_sv": "Skogsbrand i San Diego, California",
+   "title_en": "Wildfire in San Diego, California",
    "where_sv": "",
    "where_en": "",
-   "value_sv": "810 hektar",
-   "value_en": "810 hectares"
+   "value_sv": "1 320 hektar",
+   "value_en": "1,320 hectares"
+  },
+  {
+   "kind": "fire",
+   "date": "2026-10-16T20:14:00Z",
+   "title_sv": "Skogsbrand i Mendocino, California",
+   "title_en": "Wildfire in Mendocino, California",
+   "where_sv": "",
+   "where_en": "",
+   "value_sv": "550 hektar",
+   "value_en": "550 hectares"
   }
  ]
 }

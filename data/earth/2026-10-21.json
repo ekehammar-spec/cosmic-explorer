@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-21",
+  "title": "Extratropical Cyclone Whips Past Iceland",
+  "title_sv": "Extratropisk cyklon sveper förbi Island",
+  "place": "Island, Nordatlanten",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory image by Michala Garrison, using VIIRS data from NASA EOSDIS LANCE , GIBS/Worldview , and the Joint Polar Satellite System (JPSS).",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
+  "w": 480,
+  "h": 413,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAYFAAP/xAAoEAACAQMCBAYDAAAAAAAAAAABAgMABBESIQUTMWEGFCJBUYEzQnH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A1OBq4sgzjrsm3UZ2+qXfy8izc6dTYJxj4ocnE4rWKzt7MrNLMgK7+lU92JpUIOnmXMplZ22HQDsBVTApLhrmRDqCFRu2Nt65GjlJiucMoGoZ/XFOYQXRkiXZ069qm7q1lsLueZjriEZBOeme1FGaGCW0hMI5TjaUoCSy9vik2fFfLKYDIs0YPp52QfoiiL+aUewB6V58ORZL9VcZBPSgqOGF55pbxl0hlCqMYz3rH8R3bQX1sAQUlBDx/PsapIvTbLjb+VNeIY1M0LEZIIIP3UK//9k=",
+  "levels": {
+    "barn": "På bilden ser du ett jättelikt vitt moln som snurrar över det mörka havet. Molnet ser nästan ut som ett enormt kommatecken på himlen. Mitt i virveln ligger Island, som delvis syns genom molntäcket.\n\nDet här är en kraftig höststorm som har bildats över havet. Den förde med sig hårda vindar, regn och snö till människorna på Island. Från satelliten i rymden ser den väldiga stormen nästan ut som ett vackert mönster i vitt och blått.",
+    "nyborjare": "Satellitbilden visar en väldig virvel av vita moln som breder ut sig över det mörka vattnet i Nordatlanten, precis intill Island. Stormmolnen bildar ett karakteristiskt kommatecken, vilket är typiskt för en extratropisk cyklon. Detta är ett kraftigt lågtryckssystem som ofta uppstår när varm och kall luft möts utanför tropikerna.\n\nStormen började som orkanen Isaias i Nordamerika. När resterna rörde sig österut längs jetströmmen sjönk lufttrycket dramatiskt på bara ett dygn, en process som kallas explosiv cyklogenes. När stormen nådde Island den 14 oktober uppmättes vindbyar på över 200 kilometer i timmen nära vulkanen Eyjafjallajökull. Den förde även med sig snöblandat regn och orsakade inställda färjor så långt bort som i Skottland.",
+    "entusiast": "Denna bild togs den 14 oktober av instrumentet VIIRS ombord på satelliten NOAA-21. Bilden visar en mäktig extratropisk cyklon med en asymmetrisk, kommaformad molnstruktur som sveper tätt förbi södra och östra Island.\n\nSystemet har sitt ursprung i orkanen Isaias. När stormresterna fångades upp av jetströmmen över Nordatlanten genomgick de en extremt snabb fördjupning, känd som explosiv cyklogenes eller bombogenes. Lufttrycket föll med mer än 50 hektopascal på 24 timmar, vilket är ungefär dubbelt så mycket som gränsvärdet för fenomenet. Enligt meteorologer kan systemet ha slagit ett lufttrycksrekord för oktober på Island som stått sig sedan 1963.\n\nVIIRS samlar in data i flera spektralband inom synligt ljus och infrarött, vilket gör det möjligt att i detalj studera molnens struktur och stormens utveckling. När cyklonen strök förbi kusten registrerades vindbyar på 205 kilometer i timmen vid vulkanen Eyjafjallajökull samt medelvindar på 150 kilometer i timmen på en kustnära ö. Systemets påverkan sträckte sig ända till nordvästra Skottland där vindbyar på 90 kilometer i timmen ledde till inställda färjelinjer."
+  },
+  "terms": [
+    {
+      "term": "extratropisk cyklon",
+      "explanation": "Ett roterande lågtryckssystem utanför tropikerna som kännetecknas av väderfronter och kommaformade molnmönster."
+    },
+    {
+      "term": "jetström",
+      "explanation": "En kraftig och snabb luftström på hög höjd i atmosfären som styr vädersystem."
+    },
+    {
+      "term": "explosiv cyklogenes",
+      "explanation": "En snabb väderprocess där ett lågtrycks centrala lufttryck sjunker kraftigt under ett dygn."
+    },
+    {
+      "term": "VIIRS",
+      "explanation": "Ett rymdburet mätinstrument som observerar jorden i synligt och infrarött ljus."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "In this picture, you can see a giant white cloud swirling across the dark ocean. The cloud looks like a huge comma drawn in the sky. Iceland sits right next to the giant swirl.\n\nThis is a powerful autumn storm that formed over the ocean. It brought strong winds, rain, and snow to Iceland. From high up in space, the fierce storm looks like a calm and beautiful spiral of white and blue.",
+      "nyborjare": "The satellite image shows an enormous spiral of white clouds stretching across the dark waters of the North Atlantic Ocean right past Iceland. The clouds form an asymmetrical comma shape, which is typical for an extratropical cyclone. This is a powerful low-pressure weather system that develops when warm and cold air masses meet outside the tropics.\n\nThe storm originated as Hurricane Isaias in North America. As its remnants traveled eastward along the jet stream, the central air pressure plummeted rapidly in a process called explosive cyclogenesis. When it grazed Iceland on October 14, wind gusts reached over 200 kilometers per hour near the Eyjafjallajökull volcano. The system brought snow, sleet, and damaging winds to Iceland, and even disrupted ferry routes in Scotland.",
+      "entusiast": "Captured on the afternoon of October 14 by the VIIRS instrument aboard the NOAA-21 satellite, this image shows an extratropical cyclone with a prominent comma-shaped cloud pattern brushing past Iceland.\n\nThe weather system evolved from the remnants of Hurricane Isaias after moving across the Atlantic along the jet stream. Over a 24-hour period, the system underwent rapid intensification known as explosive cyclogenesis or bombogenesis, dropping by more than 50 hectopascals. This drop was approximately double the qualifying threshold and likely broke an Icelandic October low barometric pressure record that had stood since 1963.\n\nVIIRS collects imagery across visible and infrared bands, enabling scientists to observe cloud structures, circulation dynamics, and severe storm evolution from space. As the cyclone brushed the coast, gusts reached 205 kilometers per hour near the Eyjafjallajökull volcano, while sustained winds of 150 kilometers per hour hit a nearby offshore island. The sprawling system also generated gusts up to 90 kilometers per hour in northwestern Scotland, leading to several ferry cancellations."
+    },
+    "terms": [
+      {
+        "term": "extratropical cyclone",
+        "explanation": "A low-pressure weather system outside the tropics characterized by frontal boundaries and comma-shaped clouds."
+      },
+      {
+        "term": "jet stream",
+        "explanation": "A narrow band of strong, fast winds high in the atmosphere that steers storms."
+      },
+      {
+        "term": "explosiv cyklogenes",
+        "explanation": "A rapid intensification of a cyclone where atmospheric pressure drops significantly within 24 hours."
+      },
+      {
+        "term": "VIIRS",
+        "explanation": "A satellite sensor that gathers visible and infrared data to monitor Earth's weather and environment."
+      }
+    ],
+    "place": "Iceland, North Atlantic"
+  }
+}

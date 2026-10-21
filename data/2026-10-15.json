@@ -1,142 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "A Lot of Galaxies Need Guarding in this NASA Hubble View",
-  "title_sv": "Galaxhop Abell 370",
+  "title": "A home for old stars",
+  "title_sv": "Ett hem för gamla stjärnor",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000056/GSFC_20171208_Archive_e000056~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000056/GSFC_20171208_Archive_e000056~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000056/GSFC_20171208_Archive_e000056~orig.png",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000056",
+  "url": "https://images-assets.nasa.gov/image/hubble-checks-out-a-home-for-old-stars_23521659649_o/hubble-checks-out-a-home-for-old-stars_23521659649_o~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-checks-out-a-home-for-old-stars_23521659649_o/hubble-checks-out-a-home-for-old-stars_23521659649_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-checks-out-a-home-for-old-stars_23521659649_o/hubble-checks-out-a-home-for-old-stars_23521659649_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-checks-out-a-home-for-old-stars_23521659649_o",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2015",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000056",
+  "id": "hubble-checks-out-a-home-for-old-stars_23521659649_o",
   "px": [
-    1725,
-    1920
+    1280,
+    1091
   ],
-  "w": 575,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAMFBgL/xAAqEAACAgEEAQMBCQAAAAAAAAABAgMRBAASITETBUFhURQiMmJxocHw8f/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAAMBAQEAAAAAAAAAAAAAAAABESESQf/aAAwDAQACEQMRAD8A4nx5ORs3JI9GtvPf0+NKjx8eFkeSZdyU48Ys39DfFiteMXMyPsngSYIqv5Aem3dcHS8XDhlywC4Ee4Cwb/XQbEkQhDmGZlkovREZ7ck6I6S+RtygNZuxfOtT1qGDFyzJjbHhV9pUGif5rRzkQzkvJJ4fYRhSaA1X0moCwnWKU7mcKVNEHkGuP7863p5MXH9LhOOVaY3uLVYscf7rm0Rty7dwXux3Y71aSaPxSLB5R1RJ/F3ZNcdVqapqwpluVylWOVZio4ZBwfev31WH098mJZjlQpv5pm57971PHihfAmeTIKTKQyR1w/zftWgqyV9/ff5a0ucBdP/Z",
+  "w": 640,
+  "h": 545,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAiEAEAAQMEAgMBAAAAAAAAAAABAgARIQMEMUESIiNRYRP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AOFIhCLGXs3EtxRoQ+NbmOr80LTgMBTC2qhstOMkFxxnuotQl5afqTlK9+uWgziQjFMjhL1b3m1jtYxY5eR5Gouuv9ET27WruxMhRujJtinYazaF8NuQ5/WkGcglAbRW9qJBSz2FGhO6+u6kWJKT4n3fNIzlK69/daZPml20nP7msTPlY9DxQObNv//Z",
   "quiz": [
     {
-      "q": "Vad är en galaxhop?",
+      "q": "Varför har de flesta stjärnorna i klotformiga stjärnhopar en rödaktig färg?",
       "options": [
-        "Ett moln av gas och stoft",
-        "En samling galaxer förenade av gravitation",
-        "En ensam galax med ovanligt mycket materia"
-      ],
-      "correct": 1,
-      "fact": "En galaxhop består av hundratals eller tusentals galaxer som hålls samman av sin gemensamma gravitation."
-    },
-    {
-      "q": "Vad händer när ljus passerar en tung galaxhop?",
-      "options": [
-        "Det sugs in och försvinner helt",
-        "Det böjs av av stark gravitation",
-        "Det delas upp i regnbågens alla färger"
-      ],
-      "correct": 1,
-      "fact": "Enligt den allmänna relativitetsteorin kan enorma massor böja rumtiden och fungera som en gravitationslins för ljus."
-    },
-    {
-      "q": "Varför ser vissa galaxer blåaktiga ut?",
-      "options": [
-        "De innehåller mest unga och varma stjärnor",
-        "De rör sig mycket snabbt bort från oss",
-        "De är omgivna av stora mängder is"
+        "De är gamla och relativt svala stjärnor.",
+        "De rör sig bort i hög hastighet.",
+        "De omges av täta moln av stoft."
       ],
       "correct": 0,
-      "fact": "Unga stjärnor är mycket varma och strålar mest i blått ljus, till skillnad från äldre stjärnor som är rödare."
+      "fact": "Klotformiga stjärnhopar bildades tidigt i galaxens historia, så de kortlivade blå stjärnorna har redan dött ut och bara äldre, svalare stjärnor finns kvar."
+    },
+    {
+      "q": "Vad håller samman stjärnorna i en klotformig stjärnhop?",
+      "options": [
+        "Starka magnetiska fält mellan stjärnorna.",
+        "Stjärnornas egen gemensamma gravitationskraft.",
+        "Ett yttre tryck från het gas."
+      ],
+      "correct": 1,
+      "fact": "Den ömsesidiga tyngdkraften mellan hopens hundratusentals stjärnor binder samman dem i en stabil sfärisk form i miljarder år."
+    },
+    {
+      "q": "Vad orsakar de röntgenblixtar som ofta upptäcks i stjärnhopen?",
+      "options": [
+        "Kollisioner mellan stora stenplaneter.",
+        "Kärnreaktioner på ytan av vita dvärgar.",
+        "Neutronstjärnor som suger åt sig gas från grannstjärnor."
+      ],
+      "correct": 2,
+      "fact": "När en kompakt neutronstjärna drar till sig materia från en följeslagarstjärna hettas gasen upp till miljontals grader och avger kraftig röntgenstrålning."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättestort legobyggge långt ut i rymden. Där sitter flera hundra galaxer tillsammans i ett gäng, som om de höll varandra i hand. Hela gänget klamrar sig fast vid varandra med osynliga gummiband som drar i dem. Galaxerna ser ut som små glittrande snurror och stjärnstoft. Långt därbakom lyser andra galaxer som har blivit utdragna och sneda eftersom de tittar genom ett magiskt förstoringsglas.",
-    "nyborjare": "Bilden visar galaxhopen Abell 370, som är en väldig samling av flera hundra galaxer som hålls samman av gravitationen. De ljusa, gulvita galaxerna är jättelika elliptiska system som innehåller hundratals miljarder äldre stjärnor. Blåaktiga spiralgalaxer rymmer i stället yngre och hetare stjärnor. De märkliga bågarna av blått ljus är i själva verket mycket avlägsna galaxer som ligger bakom hopen. Hela hopen fungerar som en gigantisk gravitationslins i rymden som böjer, förstorar och sträcker ut ljuset från de mer avlägsna objekten, ungefär som ett knasigt spegelkabinett.",
-    "entusiast": "Abell 370 är en massiv galaxhop som utgör ett perfekt laboratorium för studier av gravitationslinser och kosmisk storskalig struktur. Hopen uppvisar hundratals medlemmar dominerade av ljusstarka, massiva elliptiska galaxer med äldre stjärnpopulationer, samt stjärnbildande spiralgalaxer. De karakteristiska blå bågarna är gravitationellt linsade bilder av avlägsna bakgrundsgalaxer. Den enorma massa som hopen besitter skapar en gravitationspotential som böjer rums-tidskurvaturen kraftigt. Detta gör det möjligt att observera ljus från galaxer i det tidiga universum som annars hade varit alldeles för svaga för att upptäckas, vilket ger avgörande insikter om galaxernas tidiga utveckling och universums mörka materia."
+    "barn": "Titta noga på den här bilden! Det ser ut som en glittrande snöglob full av stjärnor. Det här kallas för en klotformig stjärnhop och heter Terzan 1. Den ligger jättelångt bort i rymden, ungefär tjugotusen ljusår från oss. Här bor omkring hundratusen stjärnor som hålls ihop av gravitationen. De flesta stjärnorna här är väldigt gamla och lyser rött eller orange, ungefär som glödande kolbitar i en lägereld. De starkt lysande blå stjärnorna du ser ligger mycket närmare oss och råkar bara vara i vägen.",
+    "nyborjare": "Den här bilden visar Terzan 1, en klotformig stjärnhop som ligger ungefär 20 000 ljusår från jorden i stjärnbilden Skorpionen. En sådan hop är en tät, klotformad svärm av omkring hundratusen stjärnor som hålls samman av sin egen tyngdkraft. Vintergatan rymmer cirka 150 kända klotformiga stjärnhopar, medan jättelika galaxer kan ha flera tusen. Stjärnorna i Terzan 1 hör till de äldsta i vår galax och tändes redan när Vintergatan började bildas. Därför har de flesta en rödaktig färg. De få klart blå stjärnorna i bilden tillhör inte alls hopen, utan är förgrundsstjärnor som ligger mycket närmare jorden. I hopen finns även par av stjärnor där en kompakt neutronstjärna drar till sig gas från en granne, vilket skapar utbrott av energirik röntgenstrålning.",
+    "entusiast": "Rymdteleskopet Hubble fångade denna detaljerade vy av Terzan 1 med instrumentet Wide Field Planetary Camera 2. Denna klotformiga stjärnhop befinner sig omkring 20 000 ljusår bort i stjärnbilden Skorpionen och utgör en värdefull relik från Vintergatans tidigaste skede. Typiska klotformiga hopar spänner över några hundra ljusår i diameter och binder samman runt hundratusen stjärnor genom inbördes gravitation. Medan Vintergatan rymmer omkring 150 kända hopar kan jättelika elliptiska galaxer innehålla tiotusentals. Den dominerande rödaktiga tonen hos stjärnorna i bilden avslöjar deras ansenliga ålder. De kortlivade, heta och massiva blå stjärnorna dog ut via supernovaexplosioner för miljarder år sedan, vilket lämnar kvar långlivade stjärnor med låg massa på huvudserien samt röda jättar. De få skarpa blå stjärnorna som framträder i fältet tillhör inte hopen, utan är fältstjärnor i Vintergatans skiva som råkar ligga i siktlinjen. Terzan 1 utmärker sig även som en känd källa till energirik röntgenstrålning. Denna strålning alstras i täta dubbelstjärnesystem där en kompakt neutronstjärna ackreterar gas från en vanlig stjärna. När materialet faller in mot neutronstjärnans djupa gravitationsbrunn hettas det upp till tiotals miljoner grader, vilket utlöser kraftiga utbrott av röntgenstrålning innan systemet återgår till en lugnare fas."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt system i rymden som binder samman miljarder stjärnor, gas och stoft med hjälp av gravitation."
+      "term": "klotformig stjärnhop",
+      "explanation": "En klotformad och mycket tät samling av tiotusentals till miljontals gamla stjärnor som hålls ihop av gravitation."
     },
     {
-      "term": "galaxhop",
-      "explanation": "En gigantisk samling av flera hundra eller tusen galaxer som hålls samman av ömsesidig dragningskraft."
+      "term": "ljusår",
+      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett helt jordår, cirka 9,5 biljoner kilometer."
     },
     {
-      "term": "elliptisk",
-      "explanation": "Formen hos äldre stjärnsystem som liknar en utdragen boll eller ett ägg utan spiralarmar."
+      "term": "neutronstjärna",
+      "explanation": "En extremt tät rest av en kollapsad massiv stjärna, där atomerna har tryckts samman till neutroner."
     },
     {
-      "term": "spiralgalax",
-      "explanation": "En skivformad samling stjärnor som har vackra armar som slingrar sig ut från mitten."
-    },
-    {
-      "term": "gravitationslins",
-      "explanation": "Ett enormt massivt objekt i rymden vars starka dragningskraft böjer och förstorar ljuset från bakomliggande himlakroppar."
+      "term": "röntgenstrålning",
+      "explanation": "En form av osynlig och mycket energirik elektromagnetisk strålning med kortare våglängd än ultraviolett ljus."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant lego build far out in space. Hundreds of galaxies sit together in a group, holding hands with invisible rubber bands pulling on them. The galaxies look like tiny sparkling pinwheels and stardust. Far behind them, other galaxies shine brightly, stretched out and crooked because you are looking at them through a magical magnifying glass.",
-      "nyborjare": "The image shows the galaxy cluster Abell 370, which is a vast collection of several hundred galaxies held together by gravity. The bright, yellow-white galaxies are giant elliptical systems containing hundreds of billions of older stars. Bluish spiral galaxies instead house younger and hotter stars. The strange arcs of blue light are actually very distant galaxies located behind the cluster. The entire cluster acts as a giant gravitational lens in space that bends, magnifies, and stretches the light from more remote objects, much like a funhouse mirror.",
-      "entusiast": "Abell 370 is a massive galaxy cluster serving as an ideal laboratory for studying gravitational lensing and cosmic large-scale structure. The cluster exhibits hundreds of members dominated by luminous, massive elliptical galaxies with older stellar populations, alongside star-forming spiral galaxies. The characteristic blue arcs are gravitationally lensed images of distant background galaxies. The immense mass of the cluster creates a gravitational potential that severely warps spacetime curvature. This enables the observation of light from early universe galaxies that would otherwise be far too faint to detect, yielding crucial insights into early galaxy evolution and dark matter."
+      "barn": "Take a close look at this sparkling picture! It looks like a glowing snow globe filled with stars. This object is called a globular cluster, named Terzan 1. It is located about 20,000 light-years away from Earth. Inside, around a hundred thousand stars huddle together, bound by their own gravity. Most of these stars are very old and glow with an orange or reddish light, like dying embers in a cozy campfire. The bright blue stars do not belong to the cluster; they just happen to sit in the foreground!",
+      "nyborjare": "This image captures Terzan 1, a globular cluster located roughly 20,000 light-years away in the constellation Scorpius. A globular cluster is a tightly packed, spherical swarm of roughly one hundred thousand stars bound together by mutual gravity. The Milky Way is home to around 150 known clusters like this one. The stars in Terzan 1 are among the oldest in our galaxy, having formed during the earliest stages of the Milky Way. This ancient age gives them their reddish glow. The few bright blue stars scattered across the image are foreground stars located much closer to us. Terzan 1 is also a known source of X-rays, produced when a dense neutron star pulls gas from a companion star in a binary system.",
+      "entusiast": "Captured by the Hubble Space Telescope using the Wide Field Planetary Camera 2, this image reveals the globular cluster Terzan 1. Situated roughly 20,000 light-years from Earth in Scorpius, this compact stellar system provides a window into the early evolutionary history of the Milky Way. Spanning a few hundred light-years across, typical globular clusters contain about a hundred thousand stars bound by mutual gravitational attraction. While our galaxy hosts approximately 150 such clusters, giant elliptical galaxies can harbor thousands. The predominantly reddish hues reflect an ancient stellar population. Massive, short-lived blue stars exhausted their nuclear fuel billions of years ago, leaving behind low-mass main-sequence stars and red giants. The prominent blue stars in the field are unrelated foreground stars in the galactic disk. Astronomers also study Terzan 1 because it emits high-energy X-ray radiation. These emissions originate from low-mass X-ray binaries, where an ultradense neutron star accretes material from an ordinary stellar companion. Infalling material heats up dramatically in the neutron star's gravitational well, triggering intense X-ray outbursts. After the outburst, the system cools into a quiescent phase until sufficient material accumulates to ignite another flare."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system in space binding together billions of stars, gas, and dust through gravity."
+        "term": "globular cluster",
+        "explanation": "A dense, spherical collection of up to millions of ancient stars bound together by mutual gravity."
       },
       {
-        "term": "galaxy cluster",
-        "explanation": "A gigantic collection of several hundred or thousand galaxies held together by mutual gravitational attraction."
+        "term": "neutron star",
+        "explanation": "The collapsed, extremely dense core left behind after a massive star explodes as a supernova."
       },
       {
-        "term": "elliptical",
-        "explanation": "The shape of older stellar systems resembling an elongated sphere or egg without spiral arms."
+        "term": "binary system",
+        "explanation": "A pair of gravitationally bound stars that orbit around their common center of mass."
       },
       {
-        "term": "spiral galaxy",
-        "explanation": "A disk-shaped collection of stars featuring sweeping arms winding outward from the center."
-      },
-      {
-        "term": "gravitational lens",
-        "explanation": "An immensely massive object in space whose strong gravity bends and magnifies light from background celestial bodies."
+        "term": "gravity",
+        "explanation": "The universal attractive force that pulls objects with mass toward one another."
       }
     ],
     "quiz": [
       {
-        "q": "What is a galaxy cluster?",
+        "q": "Why do most stars in globular clusters have a reddish color?",
         "options": [
-          "A cloud of interstellar gas and dust",
-          "A collection of galaxies bound by gravity",
-          "A single galaxy with unusual mass"
-        ],
-        "correct": 1,
-        "fact": "A galaxy cluster consists of hundreds or thousands of galaxies held together by their mutual gravitational pull."
-      },
-      {
-        "q": "What happens when light passes a heavy galaxy cluster?",
-        "options": [
-          "It gets pulled in and completely disappears",
-          "It bends due to strong gravitational forces",
-          "It splits into all the colors of the rainbow"
-        ],
-        "correct": 1,
-        "fact": "According to general relativity, enormous masses warp spacetime and act as a gravitational lens for background light."
-      },
-      {
-        "q": "Why do some galaxies appear bluish?",
-        "options": [
-          "They contain mostly young and hot stars",
-          "They are moving away from us very fast",
-          "They are surrounded by vast amounts of ice"
+          "They are old and relatively cool stars.",
+          "They are moving away at high speed.",
+          "They are obscured by dense dust clouds."
         ],
         "correct": 0,
-        "fact": "Young stars are extremely hot and emit most of their light in the blue spectrum, unlike older redder stars."
+        "fact": "Globular clusters formed billions of years ago, meaning short-lived hot blue stars have already died, leaving older and redder stars."
+      },
+      {
+        "q": "What holds the stars together inside a globular cluster?",
+        "options": [
+          "Strong magnetic fields between the stars.",
+          "The stars' mutual gravitational attraction.",
+          "External pressure from surrounding hot gas."
+        ],
+        "correct": 1,
+        "fact": "Mutual gravity binds hundreds of thousands of stars together into a tight, spherical swarm lasting billions of years."
+      },
+      {
+        "q": "What triggers the X-ray outbursts detected in the cluster?",
+        "options": [
+          "Collisions between rocky exoplanets.",
+          "Nuclear reactions on white dwarfs.",
+          "A neutron star pulling material from a companion."
+        ],
+        "correct": 2,
+        "fact": "As a dense neutron star accretes gas from a companion star, the infalling gas superheats and unleashes powerful X-rays."
       }
     ]
   }

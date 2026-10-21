@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-21",
+  "title": "Obscured by Rings",
+  "title_sv": "Titan skymd av Saturnus ringar",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA14923/PIA14923~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA14923/PIA14923~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA14923/PIA14923~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA14923",
+  "credit": "NASA/JPL-Caltech/Space Science Institute",
+  "taken": "2012",
+  "src": "library",
+  "id": "PIA14923",
+  "px": [
+    1000,
+    1000
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUBAgMEB//EACoQAAAFAgMGBwAAAAAAAAAAAAABAgMEERIFEyEGFVJTkdFBUYGSk5Sx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/AObADLdSuGV9ZXcZY+FNZhnJTPNFNCbjamfqYOkUFAAzXhSrzy25dvhdHOv6K7pd5cn4D7iqI0c5zmL9xhvhW0D0DD5MNSTcbeO4jrqlVKdAlADWVpRinC6nXFKMzWrU/MReviV1FQDQH//Z",
+  "quiz": [
+    {
+      "q": "Vad gör månen Titan unik bland solsystemets alla månar?",
+      "options": [
+        "Den har en tjock atmosfär",
+        "Den har ett starkt magnetfält",
+        "Den har flytande vattenhav på ytan"
+      ],
+      "correct": 0,
+      "fact": "Titan är den enda månen i solsystemet med en betydande, tät atmosfär, som till största delen består av kväve."
+    },
+    {
+      "q": "Vad består Saturnus ringar till allra största del av?",
+      "options": [
+        "Metanis och ammoniak",
+        "Vanlig vattenis",
+        "Mörkt stenstoft och kisel"
+      ],
+      "correct": 1,
+      "fact": "Saturnus ringar består till mer än 99 procent av rent fruset vatten, från mikroskopiska korn till meterstora isblock."
+    },
+    {
+      "q": "Vilken vätska bildar sjöar och regn på Titans yta?",
+      "options": [
+        "Flytande koldioxid",
+        "Flytande svavelsyra",
+        "Flytande metan och etan"
+      ],
+      "correct": 2,
+      "fact": "På grund av kylan på minus 180 grader fungerar kolväten som metan ungefär som vatten gör på jorden."
+    }
+  ],
+  "levels": {
+    "barn": "Här kikar Saturnus stora måne Titan fram bakom planetens vackra ringar. Ringarna ser ut som tunna streck framför månen, precis som spjälorna i en persienn. Titan är väldigt speciell eftersom den är inbäddad i en tjock, orange gasdimma. Längst ner på månen syns en virvel i luften, ungefär som när vatten snurrar runt och sugs ner i ett badkarsavlopp.",
+    "nyborjare": "Saturnus tunna ringar skär tvärs över bilden och döljer delvis den stora månen Titan. Bilden togs år 2012 av rymdsonden Cassini, som kretsade kring ringplaneten i över ett decennium. Titan skiljer sig från alla andra månar genom sin täta atmosfär, som mestadels består av kväve och skapar ett disigt, orange täcke. Längst ner vid sydpolen syns en polarvirvel, en väldig storm som bildades i månens övre luftlager när årstiderna skiftade på Titan.",
+    "entusiast": "I denna vy från rymdsonden Cassini år 2012 framträder Titans disiga atmosfär bakom Saturnus vidsträckta ringsystem. Längst ner vid Titans sydpol syns den nyligen bildade polarvirveln, en gigantisk atmosfärisk virvel som uppstod i stratosfären efter att södra halvklotet övergick i höst. Titan har en atmosfär med högre tryck vid ytan än jordens, dominerad av kväve och metan. Solens ultravioletta strålning bryter ner dessa gaser i den övre atmosfären, vilket skapar komplexa organiska molekyler kallade tholiner. Dessa aerosoler bildar det karakteristiska fotokemiska diset som döljer månens yta i synligt ljus. Saturnus ringar, huvudsakligen bestående av ren vattenis, skär över siktlinjen och demonstrerar hur ytterst tunna de är i förhållande till sin enorma bredd på tiotusentals kilometer."
+  },
+  "terms": [
+    {
+      "term": "polarvirvel",
+      "explanation": "Ett storskaligt och ihållande lågtrycksområde med snurrande vindar över en himlakropps polartrakter."
+    },
+    {
+      "term": "stratosfären",
+      "explanation": "Ett stabilt skikt i atmosfären som ligger ovanför det nedersta väderskiktet troposfären."
+    },
+    {
+      "term": "tholiner",
+      "explanation": "Komplexa organiska molekyler som bildas när solens strålning bryter ner enkla kolväten och kväve."
+    },
+    {
+      "term": "vattenis",
+      "explanation": "Fruset vatten i fast form, vilket utgör huvuddelen av många månar och ringar i yttre solsystemet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Here, Saturn's giant moon Titan peeks out from behind the planet's rings. The rings slice in front of the moon like the slats of a window blind. Titan is very special because it wears a thick coat of orange gas and clouds. Down at the bottom, a swirling vortex spins in the air, just like bathwater spinning down a drain.",
+      "nyborjare": "Saturn's thin rings cut across this view, partially obscuring the giant moon Titan. The image was captured in 2012 by NASA's Cassini spacecraft, which explored the Saturnian system for over a decade. Titan stands out among all solar system moons because of its dense atmosphere, mostly made of nitrogen, which envelops the world in an orange smog. Near the bottom, at the south pole, a newly formed polar vortex is visible, created as the seasons shifted on the giant moon.",
+      "entusiast": "In this 2012 view from NASA's Cassini spacecraft, Titan's hazy globe is partially masked by Saturn's expansive ring plane. Near Titan's south pole, a prominent polar vortex is visible in the upper atmosphere, a circulation pattern that developed as the moon's southern hemisphere transitioned into autumn. Titan possesses a dense, nitrogen-rich atmosphere with a surface pressure fifty percent higher than Earth's. Solar ultraviolet radiation breaks down atmospheric methane and nitrogen, driving complex photochemistry that produces organic compounds called tholins. These photochemical aerosols form the enveloping haze layer seen here. Meanwhile, Saturn's rings, composed almost entirely of water ice, showcase their razor-thin profile as they intersect the line of sight."
+    },
+    "terms": [
+      {
+        "term": "polar vortex",
+        "explanation": "A large-scale, persistent cyclone centered near the polar regions of a planet or moon."
+      },
+      {
+        "term": "tholin",
+        "explanation": "Complex organic molecules formed by solar ultraviolet light reacting with simple carbon and nitrogen compounds."
+      },
+      {
+        "term": "water ice",
+        "explanation": "Solid, frozen water that dominates the composition of many outer solar system moons and rings."
+      },
+      {
+        "term": "aerosol",
+        "explanation": "Tiny solid particles or liquid droplets suspended within a gaseous atmosphere."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What makes Saturn's moon Titan unique among all solar system moons?",
+        "options": [
+          "It has a dense atmosphere",
+          "It has a strong magnetic field",
+          "It has liquid water oceans on its surface"
+        ],
+        "correct": 0,
+        "fact": "Titan is the only moon in the solar system with a substantial, dense atmosphere, composed mainly of nitrogen."
+      },
+      {
+        "q": "What are Saturn's rings primarily made of?",
+        "options": [
+          "Methane ice and ammonia",
+          "Ordinary water ice",
+          "Dark silicate rock dust"
+        ],
+        "correct": 1,
+        "fact": "Saturn's rings consist of more than 99 percent pure frozen water ice, ranging from tiny dust grains to house-sized chunks."
+      },
+      {
+        "q": "What liquid forms lakes and rivers on the surface of Titan?",
+        "options": [
+          "Liquid carbon dioxide",
+          "Liquid sulfuric acid",
+          "Liquid methane and ethane"
+        ],
+        "correct": 2,
+        "fact": "At surface temperatures of minus 180 degrees Celsius, hydrocarbons like methane and ethane flow as liquids."
+      }
+    ]
+  }
+}
