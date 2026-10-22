@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-22T08:57:45.842Z",
+ "updated": "2026-10-22T14:42:08.705Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-22T00:00:00Z",
+   "date": "2026-10-22T06:00:00Z",
    "title_sv": "Tyfonen Champi",
    "title_en": "Typhoon Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 215 km/h",
-   "value_en": "winds of 215 km/h"
+   "value_sv": "vindar på 195 km/h",
+   "value_en": "winds of 195 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-21T18:00:00Z",
+   "date": "2026-10-22T06:00:00Z",
    "title_sv": "Tropiska stormen Agueda",
    "title_en": "Tropical Storm Agueda",
    "where_sv": "Södra Indiska oceanen",

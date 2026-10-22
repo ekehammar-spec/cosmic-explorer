@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Peering into the past",
-  "title_sv": "Gravitationslinsen SDSS J0928+2031",
+  "title": "Dark Matter Core Defies Explanation",
+  "title_sv": "Galaxhopen Abell 520",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/potw1903a/potw1903a~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/potw1903a/potw1903a~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/potw1903a/potw1903a~orig.jpg",
-  "link": "https://images.nasa.gov/details/potw1903a",
-  "credit": "ESA/Hubble & NASA",
-  "taken": "2019",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001774/GSFC_20171208_Archive_e001774~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001774/GSFC_20171208_Archive_e001774~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001774/GSFC_20171208_Archive_e001774~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001774",
+  "credit": "NASA/GSFC",
+  "taken": "2017",
   "src": "library",
-  "id": "potw1903a",
+  "id": "GSFC_20171208_Archive_e001774",
   "px": [
-    1920,
-    1369
+    1280,
+    823
   ],
   "w": 640,
-  "h": 456,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCAwEEBv/EACQQAAIBAwQCAgMAAAAAAAAAAAECEQADEgQhMUETcRRRIjJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8A4JsBdBtFioj9hvTC5oh8JL58Vsj8SgaWY8yRS62RME4jsxNWpcDQHyHQj69e6mqivxncxt2ehWGLcSSKd6e5oDor6XQ63jGOJ22+6W6oEsrFVSQAMRGw7pOtpjUAkMeIqS3MWJUD0wmiiqYkt91Bht25BFRa4WjIkx/aKKYP/9k=",
+  "h": 411,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAnEAACAQQBAgUFAAAAAAAAAAABAgMABAURISJBEhQVMVETYYGRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAfEQABAwQDAQAAAAAAAAAAAAAAAQMRAhIiMQQhMkL/2gAMAwEAAhEDEQA/AIGLwjX9q5ifTEcr81v0KaJW6d+E8it2OVeweDy0bxiVN9XAbkjY+3FU7vJOiI8jBXf3FVbbSbaqifJmy5tOyH6NNf3XgijKcd6mZDHSY65aGbTEd1PFXZM1ICfLsVIU+3x3qLeXclz1ytsn91q/cJoLCy3lsUkkrWokaV2MLrHGCdhV0TofmmXN5NcshlfZA96KKSMkUb5ETHSrqui2t45cLf3Dg/UheJUO+zE7/lFFBsKn/9k=",
   "quiz": [
     {
-      "q": "Vad orsakar de böjda ljusbågarna kring galaxerna i bildens mitt?",
+      "q": "Vad är mörk materia för något?",
       "options": [
-        "Enorm gravitation som kröker ljusets bana",
-        "Gas som kastas ut vid supernovor",
-        "Rymdstoft som reflekterar ljus från stjärnor"
+        "En osynlig substans som dominerar universums massa",
+        "Ett svart hål som slukar alla omgivande stjärnor",
+        "Tätt stoft som helt blockerar allt synligt ljus"
       ],
       "correct": 0,
-      "fact": "Fenomenet kallas gravitationslinsning och uppstår när en enorm massa kröker rymden och böjer ljuset från objekt bakom sig."
+      "fact": "Mörk materia är osynlig för våra instrument men avslöjar sin närvaro genom sin gravitation."
     },
     {
-      "q": "Vilken känd fysiker förutspådde fenomenet med gravitationslinser?",
+      "q": "Hur kan forskare mäta osynlig materia i rymden?",
       "options": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Edwin Hubble"
+        "Genom att studera stjärnornas magnetfält",
+        "Genom att observera så kallad gravitationslinsning",
+        "Genom att mäta temperaturen på den heta gasen"
       ],
       "correct": 1,
-      "fact": "Albert Einstein förutspådde gravitationslinser i sin allmänna relativitetsteori från 1915."
+      "fact": "Gravitationslinsning uppstår när massiva objekt böjer av ljuset från mer avlägsna bakgrundsobjekt."
     },
     {
-      "q": "Varför är gravitationslinser särskilt användbara för astronomer?",
+      "q": "Vad är en galaxhop?",
       "options": [
-        "De gör svarta hål direkt synliga",
-        "De hindrar ljusföroreningar från vår atmosfär",
-        "De förstorar och förstärker avlägsna objekt"
+        "En ensam gammal stjärna omgiven av planeter",
+        "En stor samling galaxer som hålls ihop av gravitation",
+        "Ett moln av gas som bildar nya stjärnor"
       ],
       "correct": 2,
-      "fact": "Gravitationen fungerar som ett naturligt förstoringsglas som gör extremt avlägsna och ljussvaga galaxer synliga för våra teleskop."
+      "fact": "Galaxhopar är några av universums största strukturer och binds samman av ömsesidig dragningskraft."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar genom botten på ett tjockt dricksglas. Allt bakom glaset ser böjt och lite konstigt ut. Ungefär så fungerar det i rymden här.\n\nI mitten av bilden ser du två jättestora galaxer. De är så tunga att deras dragningskraft böjer själva rymden. Ljuset från andra galaxer långt bakom dem tvingas ta en krokig väg för att nå fram till oss. Därför ser de bakomliggande galaxerna ut som böjda, lysande bågar runt de stora galaxerna.",
-    "nyborjare": "I den här rymdbilden från rymdteleskopet Hubble ser vi ett system som kallas SDSS J0928+2031. I centrum ligger två massiva galaxer som tillhör en stor galaxhop.\n\nHela galaxhopen har en så enorm gravitation att den kröker rummet omkring sig. När ljus från ännu mer avlägsna galaxer passerar galaxhopen på sin väg mot jorden böjs ljusstrålarna. Detta fenomen kallas gravitationslinsning.\n\nGravitationen fungerar precis som ett kosmiskt förstoringsglas. Den både förstorar och förstärker ljuset från bakgrundsobjekt som annars hade varit alldeles för ljussvaga för att vi skulle kunna se dem. Runt de två centrala galaxerna syns detta tydligt som tunna, böjda bågar av ljus. Tack vare detta kan forskare studera hur stjärnor föds i universums barndom.",
-    "entusiast": "Bilden visar gravitationslinssystemet SDSS J0928+2031, observerat av Hubbleteleskopet som en del av Sloan Giant Arcs Survey. I förgrunden dominerar två jättelika elliptiska galaxer i kärnan av en massiv galaxhop.\n\nEnligt Einsteins allmänna relativitetsteori deformerar massa rumtiden. Här böjer den sammanlagda massan från galaxhopen, bestående av både synlig materia och mörk materia, ljuset från bakomliggande källor. Denna gravitationslinsning skapar starkt förvrängda bilder av bakgrundsgalaxer, vilka syns som karakteristiska bågar runt centrum.\n\nFenomenet fungerar som ett kraftfullt naturligt teleskop. Den astrofysiska förstoringen ger en vinkelupplösning och ljusstyrka som vida överstiger vad markbundna eller rymdbaserade observatorier klarar på egen hand. Genom att modellera massfördelningen i den linsande galaxhopen kan astronomer återskapa bakgrundsgalaxernas verkliga form och studera stjärnbildning under universums tidiga epoker."
+    "barn": "Tänk dig att jättestora gäng med stjärnor som kallas galaxer krockar med varandra i rymden. Det blir en våldsam smäll där moln av het gas bromsas in, men den osynliga mörka materien bara åker rakt igenom som ett spöke. Forskarna har fotograferat detta med ett rymdteleskop för att förstå hur den osynliga materien uppför sig när den kolliderar.",
+    "nyborjare": "År 2012 släppte NASA en sammansatt bild som visar den våldsamma krocken i galaxhopen Abell 520. När gigantiska ansamlingar av galaxer krockar händer något märkligt med innehållet. Den normala materien, som består av het gas, saktar in i krocken. Den mörka materien, som är en osynlig substans som utgör huvuddelen av universums massa, beter sig annorlunda och fortsätter framåt. Forskare kan kartlägga detta osynliga material genom gravitationslinsning, där ljuset från bakgrundsobjekt böjs av massan längs vägen. Det här mötet utmanar våra grundläggande teorier om hur mörk materia och galaxer hänger ihop.",
+    "entusiast": "Abell 520 ligger på ett avstånd av 2,4 miljarder ljusår och har bildats genom en våldsam kollision mellan massiva galaxhopar. Den bild som publicerades av NASA år 2012 kombinerar observationer från Hubble-teleskopet och Canada-France-Hawaii Telescope med data från Chandra X-ray Observatory. Genom att mäta gravitationslinsning från Hubble Wide Field Planetary Camera 2 kunde astronomer kartlägga massfördelningen i hopen. De upptäckte att en klump av mörk materia befinner sig nära den heta gasen där få galaxer syns, vilket bekräftar tidigare observationer av ett så kallat mörkt kärnområde. Detta strider mot standardmodellen som förutsäger att galaxer ska förbli förankrade i den mörka materien även under extrema kollisioner, vilket gör Abell 520 till ett intensivt forskningsobjekt inom astrofysiken."
   },
   "terms": [
     {
       "term": "galaxhop",
-      "explanation": "En gravitationellt bunden samling av tiotals till tusentals galaxer, het gas och mörk materia."
+      "explanation": "En enorm samling av galaxer som hålls samman av sin gemensamma dragningskraft."
     },
     {
       "term": "gravitationslinsning",
-      "explanation": "Ett fenomen där ett massivt objekts gravitation böjer och förstorar ljuset från bakomliggande källor i rymden."
+      "explanation": "En optisk effekt där tunga objekt i rymden böjer av ljuset från bakomliggande källor."
     },
     {
       "term": "mörk materia",
-      "explanation": "En osynlig form av materia som inte avger eller reflekterar ljus men vars gravitation påverkar universum."
+      "explanation": "En okänd och osynlig typ av materia som utgör merparten av universums totala massa."
     },
     {
-      "term": "relativitetsteori",
-      "explanation": "Albert Einsteins fysikaliska teori som beskriver hur massa och energi kröker rumtiden och skapar gravitation."
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat astronomiskt instrument som placerats i omloppsbana ovanför jordens atmosfär för att observera världsalltet."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine looking through the thick glass bottom of a drinking cup. Everything behind it looks curved and bent out of shape. Something very similar happens out in deep space here.\n\nIn the middle of the picture sit two giant galaxies. They are so heavy that their gravity bends space itself. Light from other galaxies far behind them has to take a curved path to reach us. That is why those distant galaxies look like glowing, curved arcs around the big galaxies.",
-      "nyborjare": "In this image captured by the Hubble Space Telescope, we see a cosmic system named SDSS J0928+2031. Near the center sit two massive galaxies that belong to a large galaxy cluster.\n\nThe entire galaxy cluster possesses such immense gravity that it warps the surrounding space. When light from much more distant galaxies travels past the cluster on its way to Earth, its path is bent. This phenomenon is known as gravitational lensing.\n\nGravity acts like a natural magnifying glass, brightening and enlarging background objects that would otherwise be far too faint to see. Around the central pair, this effect appears as narrow, curved streaks of light. This allows astronomers to investigate how stars formed in the distant past.",
-      "entusiast": "This image captures the gravitational lensing system SDSS J0928+2031, observed by the Hubble Space Telescope as part of the Sloan Giant Arcs Survey. The foreground is dominated by two giant elliptical galaxies embedded within the dense core of a galaxy cluster.\n\nAccording to general relativity, massive structures warp spacetime. The combined mass of the cluster, including visible baryonic matter and dark matter, deflects photons emitted by background sources. This lensing produces distorted, magnified images of remote galaxies, visible as prominent arcs flanking the core.\n\nGravitational lenses serve as invaluable natural telescopes in observational cosmology. The magnification provides spatial resolution and signal-to-noise ratios that unassisted instruments cannot achieve alone. By constructing precise lens models of the foreground mass distribution, astronomers can reconstruct the intrinsic morphology and star-forming regions of early galaxies."
+      "barn": "Imagine giant groups of stars called galaxies crashing into each other out in space. It is a violent collision where clouds of hot gas slow down, but the invisible dark matter just passes right through like a ghost. Scientists have photographed this using a space telescope to understand how invisible matter behaves when it collides.",
+      "nyborjare": "In 2012, NASA released a composite image showing the violent collision in the galaxy cluster Abell 520. When gigantic collections of galaxies crash, something strange happens to their contents. Normal matter, consisting of hot gas, slows down in the impact. Dark matter, which is an invisible substance making up most of the universe mass, behaves differently and keeps moving forward. Scientists can map this invisible material through gravitational lensing, where light from background objects is bent by the mass along the path. This encounter challenges our basic theories of how dark matter and galaxies connect.",
+      "entusiast": "Abell 520 resides 2.4 billion light-years away and was formed through a violent collision between massive galaxy clusters. The image published by NASA in 2012 combines observations from the Hubble Space Telescope and the Canada-France-Hawaii Telescope with data from the Chandra X-ray Observatory. By measuring gravitational lensing from Hubble Wide Field Planetary Camera 2, astronomers mapped the mass distribution within the cluster. They discovered that a clump of dark matter resides near the hot gas where very few galaxies are found, confirming previous observations of a dark matter core. This result challenges standard theories predicting that galaxies remain anchored to dark matter even during shock collisions, making Abell 520 an intense focus of astrophysical research."
     },
     "terms": [
       {
         "term": "galaxy cluster",
-        "explanation": "A massive, gravitationally bound structure containing hundreds to thousands of galaxies, hot gas, and dark matter."
+        "explanation": "A massive collection of galaxies bound together by mutual gravitational attraction."
       },
       {
         "term": "gravitational lensing",
-        "explanation": "The bending and magnification of light from a distant source as it passes near a massive cosmic body."
+        "explanation": "An optical effect where heavy objects in space bend the light originating from background sources."
       },
       {
         "term": "dark matter",
-        "explanation": "An invisible form of matter that does not emit or interact with light, detectable only through its gravitational pull."
+        "explanation": "An unknown and invisible type of matter comprising the majority of the universe total mass."
       },
       {
-        "term": "general relativity",
-        "explanation": "Albert Einstein's theory describing gravitation as the curvature of spacetime caused by mass and energy."
+        "term": "space telescope",
+        "explanation": "An advanced astronomical instrument placed in orbit above earth atmosphere to observe the cosmos."
       }
     ],
     "quiz": [
       {
-        "q": "What causes the curved light arcs around the central galaxies?",
+        "q": "What is dark matter?",
         "options": [
-          "Immense gravity bending the path of light",
-          "Gas ejected during powerful supernova explosions",
-          "Cosmic dust reflecting bright starlight"
+          "An invisible substance that dominates the universe mass",
+          "A black hole that swallows all surrounding stars",
+          "Dense dust that completely blocks all visible light"
         ],
         "correct": 0,
-        "fact": "The phenomenon is called gravitational lensing and occurs when intense gravity curves space and bends passing light."
+        "fact": "Dark matter is invisible to our instruments but reveals its presence through gravity."
       },
       {
-        "q": "Which famous physicist predicted the existence of gravitational lenses?",
+        "q": "How can scientists measure invisible matter in space?",
         "options": [
-          "Isaac Newton",
-          "Albert Einstein",
-          "Edwin Hubble"
+          "By studying the magnetic fields of stars",
+          "By observing a phenomenon called gravitational lensing",
+          "By measuring the temperature of the hot gas"
         ],
         "correct": 1,
-        "fact": "Albert Einstein predicted gravitational lensing in his 1915 general theory of relativity."
+        "fact": "Gravitational lensing occurs when massive objects bend the light coming from more distant background sources."
       },
       {
-        "q": "Why are gravitational lenses especially useful for astronomers?",
+        "q": "What is a galaxy cluster?",
         "options": [
-          "They make black holes directly visible",
-          "They prevent atmospheric light pollution",
-          "They magnify and brighten distant objects"
+          "A single old star surrounded by planets",
+          "A massive collection of galaxies held together by gravity",
+          "A cloud of gas that forms new stars"
         ],
         "correct": 2,
-        "fact": "Gravity acts as a natural zoom lens, making extremely distant and faint galaxies visible to our telescopes."
+        "fact": "Galaxy clusters are some of the largest structures in the universe and are bound by mutual attraction."
       }
     ]
   }
