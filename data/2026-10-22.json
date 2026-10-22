@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-22",
+  "title": "Webb Captures Stellar Jets",
+  "title_sv": "Webb fångar jetstrålar från unga stjärnor i NGC 7129",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png",
+  "link": "https://www.nasa.gov/image-detail/55572978759-545472774e-o/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/55572978759-545472774e-o/",
+  "px": [
+    1600,
+    1492
+  ],
+  "w": 480,
+  "h": 447,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUDAgf/xAAmEAACAQQCAQMFAQAAAAAAAAABAhEAAwQhBTFBEiJRExUyYXGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMTEiExQf/aAAwDAQACEQMRAD8AKcbiHIuPb0PZ+R8VlfxPpCVBmex1SbEt8azqrH0sdEWz18zNIfsfGvhG3bEuV0xO/wBVLyx8Qyxv6eXuhUSRArGN0v5TgHtXFtiBAliTqKgZuBcxGMoPQeiDNKQ4S9oQ8dx9u4gZ2CkH4pPau2sIyh8T6T11QO5l5OCVVWEOgcAT0awyORyCGtOxkHZDVk1Svsfminm80xuP03u03ZH8qblZz32M6JA1HdTmYlh/tcliXB8+K1qkDslVWf/Z",
+  "quiz": [
+    {
+      "q": "Vad kallas en stjärna under sitt allra tidigaste utvecklingsstadium?",
+      "options": [
+        "Protostjärna",
+        "Vit dvärg",
+        "Neutronstjärna"
+      ],
+      "correct": 0,
+      "fact": "En protostjärna samlar fortfarande massa från sitt omgivande moln innan stabil fusion startat."
+    },
+    {
+      "q": "Vilket grundämne utgör den största delen av stjärnbildande moln?",
+      "options": [
+        "Syre",
+        "Kväve",
+        "Väte"
+      ],
+      "correct": 2,
+      "fact": "Väte är det lättaste och absolut vanligaste grundämnet i universum."
+    },
+    {
+      "q": "Varför skjuter nyfödda stjärnor ut kraftiga jetstrålar i rymden?",
+      "options": [
+        "Stjärnan håller på att explodera som supernova",
+        "Magnetfält styr ut material som faller in",
+        "Planeter krockar och pulveriseras nära stjärnan"
+      ],
+      "correct": 1,
+      "fact": "När gas dras mot stjärnan leds en del ut i snabba strålar av starka magnetfält."
+    }
+  ],
+  "levels": {
+    "barn": "Här ser vi en kosmisk barnkammare som heter NGC 7129. I mitten håller nya stjärnor på att födas inuti stora moln av gas och rymdstoft. När en babystjärna växer blir den jättevarm och börjar spotta ut rymdgas åt två håll, precis som när du råkar blåsa bubblor genom ett sugrör! De röda stråken visar gas som krockar med molnet runtomkring. Teleskopet James Webb kan se rakt igenom dimman och visa oss rymdens allra nyaste solar.",
+    "nyborjare": "Rymdteleskopet James Webb har fotograferat stjärnbildningsregionen NGC 7129, som ligger ungefär 3 000 ljusår bort i stjärnbilden Kefeus. Här bildas nya solar ur ett tätt moln av gas och stoft. Inuti denna nebulosa finns flera unga stjärnor som ännu samlar på sig materia. I detta tidiga stadium kallas stjärnan för en protostjärna. Runt stjärnan roterar gas i en virvlande skiva, och starka magnetfält slungar ut en del av materialet i en smal jetstråle från varje pol. De gyllene partierna i bilden visar glödande, hett atomärt väte. De röda områdena består istället av svalare molekylärt väte, som hettas upp när chockvågor från jetstrålarna plöjer genom det omgivande gasmolnet.",
+    "entusiast": "Den reflektionsnebulosa och stjärnbildningsregion som kallas NGC 7129 ligger på ett avstånd av cirka 3 300 ljusår i stjärnbilden Kefeus. Detta område hyser en ung stjärnhop som bara är några miljoner år gammal, där processerna kring stjärnfödsel fortfarande pågår för fullt. Tack vare James Webb-teleskopets infraröda känslighet kan astronomer blicka djupt in i de annars ogenomträngliga stoftmolnen. Bilden kartlägger samspelet mellan unga stjärnor och det interstellära mediet. De gyllene tonerna spårar joniserat och exciterat atomärt väte nära de centrala stjärnorna, där ultraviolett strålning och stjärnvindar dominerar. De dramatiska röda strukturerna avslöjar däremot molekylärt väte som exciterats av kraftiga chockvågor. När en inbäddad protostjärna drar till sig material via en ackretionsskiva kanaliseras en bråkdel av gasen bort i magnetohydrodynamiska bipolära utflöden. Varje sådan jetstråle rör sig i hundratals kilometer per sekund och kolliderar med det omgivande mediet, vilket skapar så kallade Herbig-Haro-objekt. Observationer som denna hjälper forskare att förstå hur impulsmoment transporteras bort från unga stjärnsystem och hur stjärnvindar reglerar framtida stjärnbildning."
+  },
+  "terms": [
+    {
+      "term": "protostjärna",
+      "explanation": "Ett tidigt utvecklingsstadium hos en stjärna innan kärnfusionen av väte har kommit igång i dess centrum."
+    },
+    {
+      "term": "nebulosa",
+      "explanation": "Ett gigantiskt interstellärt moln av gas och rymdstoft där nya stjärnor ofta bildas eller rester efter döda stjärnor sprids."
+    },
+    {
+      "term": "jetstråle",
+      "explanation": "En smal och extremt snabb ström av materia som slungas ut från polerna hos ett kompakt astronomiskt objekt."
+    },
+    {
+      "term": "molekylärt väte",
+      "explanation": "Gas bestående av två väteatomer bundna till varandra, vilket utgör huvuddelen av de kalla moln där stjärnor föds."
+    },
+    {
+      "term": "ackretionsskiva",
+      "explanation": "En roterande skiva av gas och stoft som kretsar kring och faller in mot en central himlakropp."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This picture shows a cosmic nursery called NGC 7129. Inside big clouds of space dust and gas, brand new stars are being born! When a baby star grows, it gets very hot and spits out gas in two directions, like blowing bubbles through a straw. The glowing red streaks show where this rushing gas crashes into the cool surrounding cloud. The James Webb Space Telescope can peer right through the dust to show us the newest stars in space.",
+      "nyborjare": "NASA’s James Webb Space Telescope captured this stunning view of NGC 7129, a star-forming region located roughly 3,000 light-years away in the constellation Cepheus.\n\nInside this glowing nebula, young stars are currently condensing out of cold gas and dust. A star in this earliest developmental stage is known as a protostar. Magnetic fields funnel infalling matter and launch it into space as a powerful stellar jet from each pole. The golden areas highlight hot, atomic hydrogen gas energised by stellar radiation. Meanwhile, the bright red structures reveal cooler molecular hydrogen, excited and shocked as high-speed outflows slam into the surrounding interstellar environment.",
+      "entusiast": "Located approximately 3,300 light-years away in the constellation Cepheus, NGC 7129 is a reflection nebula surrounding an extremely young open cluster only a few million years old.\n\nUsing infrared observations, the James Webb Space Telescope penetrates obscuring dust lanes to reveal the complex dynamics of star formation. The golden hue traces hot, atomic hydrogen gas shaped by intense ultraviolet radiation and stellar winds from massive cluster members. In contrast, the vibrant red filaments highlight shock-excited molecular hydrogen. As an embedded protostar accretes material from its circumstellar accretion disk, magnetohydrodynamic forces launch collimated bipolar outflows into the ambient medium. These supersonic jets produce bow shocks and Herbig-Haro objects, regulating local star formation by driving turbulent feedback and expelling excess angular momentum."
+    },
+    "terms": [
+      {
+        "term": "protostar",
+        "explanation": "An early stage of stellar development before nuclear fusion of hydrogen ignites in the core."
+      },
+      {
+        "term": "nebula",
+        "explanation": "A vast interstellar cloud of gas and dust where new stars often form or stellar remnants disperse."
+      },
+      {
+        "term": "stellar jet",
+        "explanation": "A narrow, high-speed stream of gas ejected along the rotational axis of a forming star."
+      },
+      {
+        "term": "molecular hydrogen",
+        "explanation": "Gas composed of pairs of hydrogen atoms, making up the cold dense clouds where stars are born."
+      },
+      {
+        "term": "accretion disk",
+        "explanation": "A rotating structure of gas and dust spiraling inward toward a central astronomical object."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a developing star called in its earliest phase?",
+        "options": [
+          "Protostar",
+          "White dwarf",
+          "Neutron star"
+        ],
+        "correct": 0,
+        "fact": "A protostar gathers mass from its parent molecular cloud before nuclear fusion begins."
+      },
+      {
+        "q": "Which chemical element dominates cosmic clouds where stars form?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "correct": 2,
+        "fact": "Hydrogen is the lightest and by far the most abundant element in the universe."
+      },
+      {
+        "q": "Why do newborn stars shoot powerful jets into space?",
+        "options": [
+          "The star is exploding in a supernova",
+          "Magnetic fields redirect infalling material outward",
+          "Colliding planets shatter near the stellar surface"
+        ],
+        "correct": 1,
+        "fact": "Strong magnetic fields channel gas away from the accretion disk along the stellar poles."
+      }
+    ]
+  }
+}

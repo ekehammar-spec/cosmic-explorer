@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-22",
+  "title": "East Peak Fire Burn Scar, Colorado",
+  "title_sv": "Brandärr efter branden vid East Peak, Colorado",
+  "place": "Colorado, USA",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001431",
+  "credit": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using Landsat data from the U",
+  "source": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using Landsat data from the U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001431",
+  "archive": true,
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgQFBgD/xAAmEAACAgEDBAICAwAAAAAAAAABAgMRAAQSIRMiMUFRYQUyQnGh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAGxEBAQEAAgMAAAAAAAAAAAAAAQIAESESMUH/2gAMAwEAAhEDEQA/AKaat2c9S46FD4OORakMhJ5JHmslTSEyOygWrUf8yg+oSLTb+wBjX1QwkqPbpi+KRc1piW/JaeQOoESnqUOTfgX6GVX1DONwoJmej1BjgeeQqUZuQObGVGdZNMrg7RW4Ygr5tQK72YldZJHXaOnuDkAeTxeEFM8q9Q9iqOK4HOHPFtjJph2n9uKJNDOXthQEn2f6wteXpwonl5xlEaIRs+6yBVefnHtNqes/S3UL/kPWL6ZFobuWIokisBRHHqWcm1AsD19ZUDGRIx3v/9k=",
+  "levels": {
+    "barn": "Titta på satellitbilden över bergen i södra Colorado från sommaren 2013. Marken har fått märkliga färger eftersom bilden är tagen med ett rymdinstrument som ser osynligt ljus. Det mörkröda fältet mitt i bilden visar ett brandärr där en skogsbrand har dragit fram. Blixten slog ner och startade elden i skogen. De ljusorangea stråken visar platser där det fortfarande brann aktivt när bilden togs. De mörkgröna områdena runtomkring är oskadd skog, och de ljusgröna fälten är öppna gräsmarker. Branden hann sprida sig över 5 500 hektar mark innan den stoppades.",
+    "nyborjare": "Den här satellitbilden fångade skogsbranden East Peak i södra Colorado i juni 2013. Bilden är en så kallad falskfärgsbild, vilket innebär att satelliten har mätt våglängder av ljus som det mänskliga ögat inte kan se och översatt dem till tydliga färger. Det mörkröda fältet visar ett brandärr, det vill säga mark där elden redan har bränt bort växtligheten och lämnat efter sig aska och bar jord. Längs kanterna syns klara orangea partier där skogen fortfarande brann aktivt när satelliten passerade ovanför. Omgivande frisk natur framträder också tydligt: mörkgröna områden är tät skog medan ljusgröna ytor representerar gräsmarker. Branden startade efter ett blixtnedslag den 19 juni och spred sig snabbt i den torra terrängen. På sex dagar brann nästan 5 500 hektar mark nära staden Trinidad.",
+    "entusiast": "Den 22 juni 2013 fotograferade satelliten Landsat 8 branden vid East Peak nära staden Trinidad i södra Colorado. Bilden registrerades av satellitens instrument OLI, som står för Operational Land Imager, och återges som en falskfärgsbild. Genom att kombinera kortvågigt infrarött ljus med nära-infrarött och synligt ljus kan instrumentet tränga igenom rök och tydligt urskilja förändringar på markytan. I denna kombination framträder det förkolnade brandärret i mörkrött, eftersom bränd jord och aska reflekterar dessa våglängder på ett helt annat sätt än levande växtlighet. Områden med aktiv förbränning lyser i intensivt orange på grund av den starka värmestrålningen från eldfronterna. Oskadad barrskog framträder i mörkgrönt, medan öppna gräsmarker syns i ljusare gröna nyanser. Branden antändes av ett blixtnedslag den 19 juni 2013 och växte snabbt i det kuperade landskapet. Fram till den 25 juni hade elden ödelagt nästan 5 500 hektar skogs- och gräsmark. Satellitdata från USGS och NASA är ett ovärderligt verktyg för forskare och myndigheter för att beräkna brandens intensitet, övervaka dess spridning och planera framtida återhämtningsinsatser för ekosystemet."
+  },
+  "terms": [
+    {
+      "term": "falskfärgsbild",
+      "explanation": "En bild som återger osynliga våglängder som synliga färger för att framhäva strukturer och markegenskaper."
+    },
+    {
+      "term": "brandärr",
+      "explanation": "Ett mörkt avtryck i landskapet efter en brand där växtlighet har förstörts och marken blottats."
+    },
+    {
+      "term": "Landsat 8",
+      "explanation": "En amerikansk satellit i omloppsbana som samlar in detaljerade data om jordens yta och miljöförändringar."
+    },
+    {
+      "term": "Operational Land Imager",
+      "explanation": "Ett optiskt instrument på Landsat 8 som fångar detaljerade satellitbilder i synligt och infrarött ljus."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this satellite picture of the mountains in southern Colorado from 2013. The land has unusual colors because the image was captured with a special space camera. The dark red patch in the middle shows a burn scar where a forest fire swept across the terrain. A lightning strike started the fire in the woods. The bright orange spots reveal places where the fire was still burning. Dark green areas are healthy forests, and light green spaces are grasslands.",
+      "nyborjare": "This satellite image captured the East Peak wildfire in southern Colorado in June 2013. It is a false-color image, meaning the satellite detected wavelengths of light invisible to the human eye and assigned them distinct colors to make features clear. The large dark red shape marks a burn scar, an area where the fire stripped away vegetation. Bright orange zones highlight active fire lines that were burning when the satellite flew over. Undamaged surroundings are also visible: dark green patches represent thick forest, while light green areas show open grasslands. The blaze was ignited by lightning on June 19 and spread quickly across dry terrain, consuming nearly 5,500 hectares of land near Trinidad within six days.",
+      "entusiast": "On June 22, 2013, the Operational Land Imager (OLI) aboard the Landsat 8 satellite captured this false-color view of the East Peak fire burning near Trinidad in southern Colorado. This composite combines shortwave infrared, near-infrared, and visible green light, allowing the sensor to penetrate smoke plumes and accurately chart ground conditions. The newly formed burn scar appears dark red because charred earth and ash reflect infrared radiation differently than healthy vegetation. Active burning fronts glow bright orange due to intense thermal radiation emitted by the flames. Intact forests appear dark green, while surrounding grasslands stand out in pale green. Triggered by a lightning strike on June 19, 2013, the blaze expanded rapidly across the landscape. By June 25, it had scorched roughly 5,500 hectares of forest and grassland. Such satellite datasets from USGS and NASA provide critical support for assessing burn severity, tracking fire dynamics, and supporting post-fire land management."
+    },
+    "terms": [
+      {
+        "term": "false-color image",
+        "explanation": "An image that maps non-visible wavelengths into visible colors to highlight environmental and surface features."
+      },
+      {
+        "term": "burn scar",
+        "explanation": "The visible swath of charred ground and destroyed vegetation left behind after a wildfire."
+      },
+      {
+        "term": "Landsat 8",
+        "explanation": "An Earth-observing satellite designed to monitor natural resources and landscape changes across the planet."
+      },
+      {
+        "term": "Operational Land Imager",
+        "explanation": "An optical sensor aboard Landsat 8 that measures visible, near-infrared, and shortwave infrared light."
+      }
+    ],
+    "place": "Colorado, USA"
+  }
+}
