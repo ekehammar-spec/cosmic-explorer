@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "A galactic mega-merger",
-  "title_sv": "Galaktisk jättekollision i NGC 3597",
+  "title": "Peering into the past",
+  "title_sv": "Gravitationslinsen SDSS J0928+2031",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-views-a-galactic-mega-merger_24314964401_o/hubble-views-a-galactic-mega-merger_24314964401_o~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-views-a-galactic-mega-merger_24314964401_o/hubble-views-a-galactic-mega-merger_24314964401_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-views-a-galactic-mega-merger_24314964401_o/hubble-views-a-galactic-mega-merger_24314964401_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-views-a-galactic-mega-merger_24314964401_o",
-  "credit": "NASA/GSFC",
-  "taken": "2016",
+  "url": "https://images-assets.nasa.gov/image/potw1903a/potw1903a~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/potw1903a/potw1903a~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/potw1903a/potw1903a~orig.jpg",
+  "link": "https://images.nasa.gov/details/potw1903a",
+  "credit": "ESA/Hubble & NASA",
+  "taken": "2019",
   "src": "library",
-  "id": "hubble-views-a-galactic-mega-merger_24314964401_o",
+  "id": "potw1903a",
   "px": [
-    1280,
-    1216
+    1920,
+    1369
   ],
   "w": 640,
-  "h": 608,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgUDBAYB/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQACAxEEIQVBEhMiMXH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AwLIi8aCL1EdKXGOq0P1N+Nwo82cMkmLW1WhtVuKEQYT0uOZQW1zODx8WMyMljePFZzKx2M8q+lS6bM6WRvIVmHKfEQWkghUgUYclkydyUzx8nE2qskziN9qK7sjoICbR4X//2Q==",
+  "h": 456,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUCAwEEBv/EACQQAAIBAwQCAgMAAAAAAAAAAAECEQADEgQhMUETcRRRIjJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8A4JsBdBtFioj9hvTC5oh8JL58Vsj8SgaWY8yRS62RME4jsxNWpcDQHyHQj69e6mqivxncxt2ehWGLcSSKd6e5oDor6XQ63jGOJ22+6W6oEsrFVSQAMRGw7pOtpjUAkMeIqS3MWJUD0wmiiqYkt91Bht25BFRa4WjIkx/aKKYP/9k=",
   "quiz": [
     {
-      "q": "Vad händer oftast med gasmolnen när två galaxer krockar?",
+      "q": "Vad orsakar de böjda ljusbågarna kring galaxerna i bildens mitt?",
       "options": [
-        "De kastas ut och försvinner helt.",
-        "De pressas samman och tänder nya stjärnor.",
-        "De hettas upp och förhindrar stjärnbildning."
-      ],
-      "correct": 1,
-      "fact": "Kolliderande gasmoln komprimeras kraftigt av krocken, vilket sätter igång en intensiv våg av ny stjärnbildning."
-    },
-    {
-      "q": "Vilken form får två spiralgalaxer oftast efter en krock?",
-      "options": [
-        "De smälter samman till en elliptisk galax.",
-        "De bildar en ännu större spiralgalax.",
-        "De slits sönder till tunna ringar."
+        "Enorm gravitation som kröker ljusets bana",
+        "Gas som kastas ut vid supernovor",
+        "Rymdstoft som reflekterar ljus från stjärnor"
       ],
       "correct": 0,
-      "fact": "Kollisionen rör om stjärnornas banor så att spiralmönstret försvinner och en rundad, elliptisk galax bildas."
+      "fact": "Fenomenet kallas gravitationslinsning och uppstår när en enorm massa kröker rymden och böjer ljuset från objekt bakom sig."
     },
     {
-      "q": "Varför kallas gamla elliptiska galaxer ibland för röda och döda?",
+      "q": "Vilken känd fysiker förutspådde fenomenet med gravitationslinser?",
       "options": [
-        "Deras stjärnor slukas helt av svarta hål.",
-        "De består enbart av svalnande stoftmoln.",
-        "De har slutat att bilda nya stjärnor."
+        "Isaac Newton",
+        "Albert Einstein",
+        "Edwin Hubble"
+      ],
+      "correct": 1,
+      "fact": "Albert Einstein förutspådde gravitationslinser i sin allmänna relativitetsteori från 1915."
+    },
+    {
+      "q": "Varför är gravitationslinser särskilt användbara för astronomer?",
+      "options": [
+        "De gör svarta hål direkt synliga",
+        "De hindrar ljusföroreningar från vår atmosfär",
+        "De förstorar och förstärker avlägsna objekt"
       ],
       "correct": 2,
-      "fact": "När en galax saknar kall gas upphör stjärnbildningen, och kvar finns bara långlivade, rödaktiga stjärnor."
+      "fact": "Gravitationen fungerar som ett naturligt förstoringsglas som gör extremt avlägsna och ljussvaga galaxer synliga för våra teleskop."
     }
   ],
   "levels": {
-    "barn": "Tänk dig två jättestora snurror gjorda av stjärnor som krockar i rymden. Det är precis vad som händer här med galaxen NGC 3597! När galaxerna krockar stöter inte själva stjärnorna ihop, för det finns så mycket tomrum emellan dem. Däremot krockar enorma moln av gas och rymdstoft. Molnen pressas ihop som kramsnö och börjar glöda när massor av nya stjärnor tänds. Med tiden kommer hela röran att smälta samman till en enda jättestor och rund stjärnfamilj.",
-    "nyborjare": "Bilden från rymdteleskopet Hubble togs 2016 och visar galaxen NGC 3597, belägen ungefär 150 miljoner ljusår från jorden i stjärnbilden Bägaren. Det vi ser är efterdyningarna av en kosmisk jättekollision mellan två stora galaxer. Krocken har rört om ordentligt bland galaxernas gas och stoft. När gasmolnen pressas samman utlöses en intensiv stjärnbildning. I det glödande kaoset bildas täta fickor av materia som var och en med tiden blir till en klothop, en tät sfär av miljontals stjärnor. Sådana sammanslagningar förändrar galaxernas utseende för alltid. Spiralarmar slits sönder och stjärnorna sprids ut i en jämnare svärm. NGC 3597 håller långsamt på att förvandlas till en elliptisk galax, en vanlig slutstation för krockande galaxer i universum.",
-    "entusiast": "Rymdteleskopet Hubble fångade denna dramatiska vy av NGC 3597 år 2016. Galaxen ligger cirka 150 miljoner ljusår bort i stjärnbilden Bägaren och utgör en fascinerande studie i galaxutveckling genom hierarkisk sammanslagning. Här bevittnar astronomer det turbulenta övergångsskedet när två massiva föregångare smälter samman till en gigantisk elliptisk galax. Många äldre elliptiska galaxer i det lokala universumet betraktas som passiva fossil, ofta kallade röda och döda, eftersom deras kalla gas för länge sedan förbrukats eller blåsts bort, vilket har stoppat all ny stjärnbildning. De domineras därför av gamla, rödaktiga stjärnor. NGC 3597 upplever däremot en sista ungdomlig blomstring. Kollisionen har komprimerat gasreserverna och utlöst kraftiga stjärnutbrott. Bland de mest spännande detaljerna finns dussintals förtätningar av gas och unga stjärnor, så kallade proto-klothopar. Dessa täta fickor kommer att kollapsa under sin egen gravitation och utvecklas till fullvärdiga klothopar som kretsar kring galaxens kärna. Genom att studera NGC 3597 får astronomer en sällsynt inblick i hur tidiga elliptiska galaxer och deras tillhörande klothopar en gång formades under universums tidigare epoker."
+    "barn": "Tänk dig att du tittar genom botten på ett tjockt dricksglas. Allt bakom glaset ser böjt och lite konstigt ut. Ungefär så fungerar det i rymden här.\n\nI mitten av bilden ser du två jättestora galaxer. De är så tunga att deras dragningskraft böjer själva rymden. Ljuset från andra galaxer långt bakom dem tvingas ta en krokig väg för att nå fram till oss. Därför ser de bakomliggande galaxerna ut som böjda, lysande bågar runt de stora galaxerna.",
+    "nyborjare": "I den här rymdbilden från rymdteleskopet Hubble ser vi ett system som kallas SDSS J0928+2031. I centrum ligger två massiva galaxer som tillhör en stor galaxhop.\n\nHela galaxhopen har en så enorm gravitation att den kröker rummet omkring sig. När ljus från ännu mer avlägsna galaxer passerar galaxhopen på sin väg mot jorden böjs ljusstrålarna. Detta fenomen kallas gravitationslinsning.\n\nGravitationen fungerar precis som ett kosmiskt förstoringsglas. Den både förstorar och förstärker ljuset från bakgrundsobjekt som annars hade varit alldeles för ljussvaga för att vi skulle kunna se dem. Runt de två centrala galaxerna syns detta tydligt som tunna, böjda bågar av ljus. Tack vare detta kan forskare studera hur stjärnor föds i universums barndom.",
+    "entusiast": "Bilden visar gravitationslinssystemet SDSS J0928+2031, observerat av Hubbleteleskopet som en del av Sloan Giant Arcs Survey. I förgrunden dominerar två jättelika elliptiska galaxer i kärnan av en massiv galaxhop.\n\nEnligt Einsteins allmänna relativitetsteori deformerar massa rumtiden. Här böjer den sammanlagda massan från galaxhopen, bestående av både synlig materia och mörk materia, ljuset från bakomliggande källor. Denna gravitationslinsning skapar starkt förvrängda bilder av bakgrundsgalaxer, vilka syns som karakteristiska bågar runt centrum.\n\nFenomenet fungerar som ett kraftfullt naturligt teleskop. Den astrofysiska förstoringen ger en vinkelupplösning och ljusstyrka som vida överstiger vad markbundna eller rymdbaserade observatorier klarar på egen hand. Genom att modellera massfördelningen i den linsande galaxhopen kan astronomer återskapa bakgrundsgalaxernas verkliga form och studera stjärnbildning under universums tidiga epoker."
   },
   "terms": [
     {
-      "term": "elliptisk galax",
-      "explanation": "En rund eller oval galax som ofta domineras av gamla stjärnor och saknar tydliga spiralarmar."
+      "term": "galaxhop",
+      "explanation": "En gravitationellt bunden samling av tiotals till tusentals galaxer, het gas och mörk materia."
     },
     {
-      "term": "klothop",
-      "explanation": "En tät och klotformad samling av hundratusentals eller miljontals stjärnor som hålls samman av gravitationen."
+      "term": "gravitationslinsning",
+      "explanation": "Ett fenomen där ett massivt objekts gravitation böjer och förstorar ljuset från bakomliggande källor i rymden."
     },
     {
-      "term": "stjärnbildning",
-      "explanation": "Processen där kalla och täta gasmoln drar ihop sig och hettas upp för att tända nya stjärnor."
+      "term": "mörk materia",
+      "explanation": "En osynlig form av materia som inte avger eller reflekterar ljus men vars gravitation påverkar universum."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den grundläggande kraft som gör att föremål med massa attraherar varandra över avstånd i universum."
+      "term": "relativitetsteori",
+      "explanation": "Albert Einsteins fysikaliska teori som beskriver hur massa och energi kröker rumtiden och skapar gravitation."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine two giant spinning pinwheels of stars crashing together in space. That is exactly what is happening to the galaxy NGC 3597! When galaxies crash, the stars themselves rarely hit each other because space is so vast. However, giant clouds of gas and dust smash together. They get squeezed tightly like packed snow and ignite, creating sparkling new baby stars. Over time, the whole swirling mess will settle down into a huge, smooth ball of stars.",
-      "nyborjare": "Captured by the Hubble Space Telescope in 2016, this image reveals NGC 3597, located roughly 150 million light-years away in the constellation Crater. We are witnessing the aftermath of a massive cosmic collision between two sizable galaxies. The merger has churned up interstellar gas and dust. As these clouds compress, they trigger intense star formation. Within this chaotic glow, dense pockets of material form that will eventually become a globular cluster, a tightly packed sphere containing millions of stars. Collisions like this permanently reshape galaxies. Spiral arms are ripped apart, scattering stars into a smoother swarm. NGC 3597 is slowly evolving into a giant elliptical galaxy, a common cosmic destiny for colliding systems.",
-      "entusiast": "The Hubble Space Telescope captured this dramatic view of NGC 3597 in 2016. Located roughly 150 million light-years away in the constellation Crater, this galaxy offers astronomers a compelling laboratory for studying hierarchical galactic evolution. Here, we observe the chaotic transitional phase as two massive progenitor galaxies merge into a giant elliptical galaxy. Many older ellipticals in the nearby universe are nicknamed red and dead because their cool gas reservoirs were exhausted long ago, completely shutting down star formation and leaving only aging, red stellar populations. In contrast, NGC 3597 is undergoing a final burst of youth. The violent collision has compressed available gas reserves, triggering powerful starburst activity. Among the most intriguing features are dozens of dense pockets known as proto-globular clusters. These will eventually collapse under gravity into mature globular cluster systems that orbit the galactic center. By observing NGC 3597, astronomers gain valuable insights into the mechanisms that forged early elliptical galaxies and their star cluster populations across cosmic time."
+      "barn": "Imagine looking through the thick glass bottom of a drinking cup. Everything behind it looks curved and bent out of shape. Something very similar happens out in deep space here.\n\nIn the middle of the picture sit two giant galaxies. They are so heavy that their gravity bends space itself. Light from other galaxies far behind them has to take a curved path to reach us. That is why those distant galaxies look like glowing, curved arcs around the big galaxies.",
+      "nyborjare": "In this image captured by the Hubble Space Telescope, we see a cosmic system named SDSS J0928+2031. Near the center sit two massive galaxies that belong to a large galaxy cluster.\n\nThe entire galaxy cluster possesses such immense gravity that it warps the surrounding space. When light from much more distant galaxies travels past the cluster on its way to Earth, its path is bent. This phenomenon is known as gravitational lensing.\n\nGravity acts like a natural magnifying glass, brightening and enlarging background objects that would otherwise be far too faint to see. Around the central pair, this effect appears as narrow, curved streaks of light. This allows astronomers to investigate how stars formed in the distant past.",
+      "entusiast": "This image captures the gravitational lensing system SDSS J0928+2031, observed by the Hubble Space Telescope as part of the Sloan Giant Arcs Survey. The foreground is dominated by two giant elliptical galaxies embedded within the dense core of a galaxy cluster.\n\nAccording to general relativity, massive structures warp spacetime. The combined mass of the cluster, including visible baryonic matter and dark matter, deflects photons emitted by background sources. This lensing produces distorted, magnified images of remote galaxies, visible as prominent arcs flanking the core.\n\nGravitational lenses serve as invaluable natural telescopes in observational cosmology. The magnification provides spatial resolution and signal-to-noise ratios that unassisted instruments cannot achieve alone. By constructing precise lens models of the foreground mass distribution, astronomers can reconstruct the intrinsic morphology and star-forming regions of early galaxies."
     },
     "terms": [
       {
-        "term": "elliptical galaxy",
-        "explanation": "A smooth, round or oval galaxy that mainly contains older stars and lacks distinct spiral arms."
+        "term": "galaxy cluster",
+        "explanation": "A massive, gravitationally bound structure containing hundreds to thousands of galaxies, hot gas, and dark matter."
       },
       {
-        "term": "globular cluster",
-        "explanation": "A dense, spherical swarm of hundreds of thousands to millions of stars tightly bound by gravity."
+        "term": "gravitational lensing",
+        "explanation": "The bending and magnification of light from a distant source as it passes near a massive cosmic body."
       },
       {
-        "term": "star formation",
-        "explanation": "The astrophysical process where dense clouds of interstellar gas collapse under gravity to ignite new stars."
+        "term": "dark matter",
+        "explanation": "An invisible form of matter that does not emit or interact with light, detectable only through its gravitational pull."
       },
       {
-        "term": "gravity",
-        "explanation": "The fundamental natural force by which all physical bodies with mass attract one another through space."
+        "term": "general relativity",
+        "explanation": "Albert Einstein's theory describing gravitation as the curvature of spacetime caused by mass and energy."
       }
     ],
     "quiz": [
       {
-        "q": "What usually happens to gas clouds when galaxies collide?",
+        "q": "What causes the curved light arcs around the central galaxies?",
         "options": [
-          "They are expelled and vanish completely.",
-          "They compress and trigger new star formation.",
-          "They overheat and prevent any star birth."
-        ],
-        "correct": 1,
-        "fact": "Colliding gas clouds are strongly compressed by the impact, triggering an intense wave of new star formation."
-      },
-      {
-        "q": "What shape do spiral galaxies usually take after colliding?",
-        "options": [
-          "They merge into a large elliptical galaxy.",
-          "They create an even larger spiral galaxy.",
-          "They tear apart into thin rings."
+          "Immense gravity bending the path of light",
+          "Gas ejected during powerful supernova explosions",
+          "Cosmic dust reflecting bright starlight"
         ],
         "correct": 0,
-        "fact": "The collision scrambles stellar orbits, destroying the spiral structure to form a rounded elliptical galaxy."
+        "fact": "The phenomenon is called gravitational lensing and occurs when intense gravity curves space and bends passing light."
       },
       {
-        "q": "Why are old elliptical galaxies sometimes called red and dead?",
+        "q": "Which famous physicist predicted the existence of gravitational lenses?",
         "options": [
-          "Their stars are swallowed by black holes.",
-          "They consist entirely of cooling dust clouds.",
-          "They have stopped forming new stars."
+          "Isaac Newton",
+          "Albert Einstein",
+          "Edwin Hubble"
+        ],
+        "correct": 1,
+        "fact": "Albert Einstein predicted gravitational lensing in his 1915 general theory of relativity."
+      },
+      {
+        "q": "Why are gravitational lenses especially useful for astronomers?",
+        "options": [
+          "They make black holes directly visible",
+          "They prevent atmospheric light pollution",
+          "They magnify and brighten distant objects"
         ],
         "correct": 2,
-        "fact": "Without cold gas, star formation ceases, leaving behind only long-lived, reddish stars."
+        "fact": "Gravity acts as a natural zoom lens, making extremely distant and faint galaxies visible to our telescopes."
       }
     ]
   }
