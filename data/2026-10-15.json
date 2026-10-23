@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Hotbed of Vigorous Star Formation",
-  "title_sv": "Intensiv stjärnbildning i galaxen NGC 1569",
+  "title": "Hubble Gets a Celestial Boost",
+  "title_sv": "Gravitationell linsverkan i galaxhopen SDSS J0915+3826",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000275/GSFC_20171208_Archive_e000275~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000275/GSFC_20171208_Archive_e000275~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000275/GSFC_20171208_Archive_e000275~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000275",
+  "url": "https://images-assets.nasa.gov/image/potw1844a/potw1844a~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/potw1844a/potw1844a~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/potw1844a/potw1844a~orig.jpg",
+  "link": "https://images.nasa.gov/details/potw1844a",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2019",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000275",
+  "id": "potw1844a",
   "px": [
     1280,
-    1198
+    1011
   ],
   "w": 640,
-  "h": 599,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgD/xAAjEAACAgEEAgIDAAAAAAAAAAABAgMRAAQSITFBUQUiMmGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHBEAAgMBAAMAAAAAAAAAAAAAAAECESEDEiJB/9oADAMBAAIRAxEAPwDGRAF6HvHp4HTaZBRKg8+RgIAjAEjn2MpHTSzMoRWcbfHPAwr2w2lFw34SJYQi0xA80D3i0igL+8el3KzKyXXdjFZ2BT8dpqu+8mpjVSVnQyFWGXtEzz0I745q6AGZtD/cu/H6ow6RgB9m810MMnWofNeSpgtfC0DyFgSpsZK1DGxuq9vrrHdXIzbixN9jnxkyUknLHXbJ0aiqR//Z",
+  "h": 505,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwEABAf/xAAhEAACAgEDBQEAAAAAAAAAAAABAgADERIhIgQxQVFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFh/9oADAMBAAIRAxEAPwDzvv7JjU9NZcwCKWJIAAGYYbByNp0UW2UszowRyO58SVZoLBpOhhyXIh4MSzkWYtls7n3INGrkDj4ZRM/kS2xbCCqBcAA48/YQ7zCBdW0gIzvvJNA//9k=",
   "quiz": [
     {
-      "q": "Vad kännetecknar en så kallad starburstgalax?",
+      "q": "Vad är en gravitationell lins?",
       "options": [
-        "Den slungar ut planeter i rymden.",
-        "Den bildar stjärnor i extrem takt.",
-        "Den består enbart av gamla stjärnor."
+        "En artificiell satellit med optiska glaslinser",
+        "Massiva objekt som böjer rumtiden och ljuset",
+        "Ett moln av rymdstoft som förstorar stjärnor"
       ],
       "correct": 1,
-      "fact": "En starburstgalax bildar stjärnor exceptionellt snabbt, ofta på grund av gravitationell påverkan från andra galaxer."
+      "fact": "Ett massivt objekt som en galaxhop skapar en stark gravitation som böjer och förstorar ljuset från bakomliggande galaxer."
     },
     {
-      "q": "Vilken färg dominerar ofta i unga, massiva stjärnhopar?",
+      "q": "Varför använder astronomer gravitationella linser?",
       "options": [
-        "Röd",
-        "Gul",
-        "Blå"
-      ],
-      "correct": 2,
-      "fact": "Unga och mycket massiva stjärnor är extremt heta och strålar med ett intensivt blått ljus."
-    },
-    {
-      "q": "Vad händer med gasen i krockande galaxer?",
-      "options": [
-        "Den komprimeras och bildar nya stjärnor.",
-        "Den kyls ned och försvinner helt.",
-        "Den förvandlas direkt till mörk materia."
+        "För att se mycket avlägsna och svaga galaxer",
+        "För att mäta exakt temperatur på stjärnors ytor",
+        "För att bromsa in ljusets hastighet i rymden"
       ],
       "correct": 0,
-      "fact": "Gravitationen pressar samman gasmolnen tills de kollapsar och tänder en ny generation stjärnor."
+      "fact": "Linsverkan fungerar som ett gigantiskt förstoringsglas som gör det möjligt att studera tidiga och avlägsna galaxer."
+    },
+    {
+      "q": "Hur lång tid har ljuset färdats från dessa avlägsna galaxer?",
+      "options": [
+        "Upp till 11,5 miljarder år",
+        "Endast några få tusen år",
+        "Exakt 13,8 miljarder år"
+      ],
+      "correct": 0,
+      "fact": "Ljuset från dessa objekt har tagit upp till 11,5 miljarder år på sig att nå fram till jorden."
     }
   ],
   "levels": {
-    "barn": "Titta på det här glittrande fyrverkeriet i rymden! Det är en liten galax som heter NGC 1569. Den fungerar som en riktig stjärnfabrik som arbetar för fullt dygnet runt. Här föds nya stjärnor i ett rasande tempo, precis som när popcorn poppar hej vilt i en het kastrull. De ljusblå klumparna du ser är jättestora grupper av heta stjärnbarn som håller ihop. När några av de allra största stjärnorna blev gamla exploderade de och blåste bort gasen runt omkring, som jättelika såpbubblor i rymden.",
-    "nyborjare": "På den här bilden, som togs av rymdteleskopet Hubble år 2008, ser vi galaxen NGC 1569. Den klassas som en starburstgalax, vilket innebär att den bildar nya stjärnor i en exceptionellt hög takt. Under nästan 100 miljoner år har stjärnor bildats här över hundra gånger snabbare än i vår egen Vintergata. I galaxens centrum lyser gigantiska blå områden upp rymden. Varje sådan stjärnhop rymmer över en miljon unga, heta stjärnor. Våldsamma explosioner från döende jättestjärnor, där varje smäll kallas en supernova, har blåst ut enorma tomrum i den omgivande gasen. Forskare misstänker att gravitationskrafter från en närliggande galaxgrupp har pressat samman gasen i NGC 1569 och satt igång denna dramatiska stjärnbildning.",
-    "entusiast": "Dvärggalaxen NGC 1569 är ett av de mest extrema exemplen på en starburstgalax i vårt kosmiska närområde. När rymdteleskopet Hubble observerade galaxen år 2008 med instrumentet Advanced Camera for Surveys kunde astronomer tränga igenom dess kaotiska kärna och kartlägga enskilda stjärnor. Genom att identifiera stjärnor av typen röd jätte lyckades forskarna göra en mycket precis avståndsbestämning. Mätningarna visade att galaxen befinner sig cirka 11 miljoner ljusår bort, vilket är 1,5 gånger längre bort än tidigare beräknat, och att den tillhör galaxgruppen IC 342. Gravitationella tidvattenkrafter från denna grupp tros komprimera galaxens kalla gasmoln och driva den intensiva stjärnbildningen som pågått i nästan 100 miljoner år. I centrum syns massiva superhopar med över en miljon stjärnor vardera, varav en ljuspunkt i själva verket är två överlappande hopar. Upprepade utbrott från supernovor har gröpt ur gigantiska kaviteter i det interstellära mediet och format galaxens morfologi."
+    "barn": "Tänk dig att du tittar genom ett bubbligt glasfönster som gör att allt ser konstigt och förstorat ut. Rymdteleskopet Hubble kan använda rymdens egna tunga hopar av stjärnor som ett jättestort förstoringsglas. På så sätt kan forskarna kika på galaxer som ligger så långt borta att ljuset har tagit miljarder år på sig att nå oss.",
+    "nyborjare": "Rymdteleskopet Hubble har utnyttjat ett fascinerande kosmiskt fenomen som kallas gravitationell linsverkan för att få en unik inblick i universums barndom. När en enorm massa, till exempel en galaxhop, befinner sig framför en avlägsen ljuskälla böjs det förbipasserande ljuset på grund av den starka dragningskraften. Denna kosmiska lins förstorar ljuset från galaxer som ligger bakom hopen. Ljuset från dessa avlägsna objekt har tagit upp till 11,5 miljarder år att nå jorden. Det ger astronomerna en sällsynt chans att studera hur stjärnor bildades tidigt i universums historia, inklusive hur stora de var och hur mycket ljus de skickade ut.",
+    "entusiast": "Bilden illustrerar hur rymdteleskopet Hubble drar nytta av stark gravitationell linsverkan orsakad av förgrundsgalaxhopen SDSS J0915+3826. Enligt den allmänna relativitetsteorin kröker massiva objekt rumtiden, vilket gör att banorna för fotoner från mer avlägsna bakgrundsobjekt avlänkas och förstärks. I det här fallet fungerar galaxhopen som ett naturligt optiskt instrument. Detta gör det möjligt för forskare att analysera stjärnbildande klumpar i galaxer vars ljus har färdats i upp till 11,5 miljarder år, det vill säga från universums tidiga skeden. Metoden ger noggranna uppskattningar av fysiska egenskaper såsom luminositet, massa och stjärnpopulationer i system som annars skulle vara svåra att observera på sådana enorma kosmologiska avstånd."
   },
   "terms": [
     {
-      "term": "starburstgalax",
-      "explanation": "En galax som genomgår en fas av extremt intensiv och snabb stjärnbildning."
+      "term": "galaxhop",
+      "explanation": "En enorm samling av tusentals galaxer som hålls samman av sin gemensamma gravitation."
     },
     {
-      "term": "stjärnhop",
-      "explanation": "En tät samling av stjärnor som hålls samman av sin inbördes gravitation."
+      "term": "gravitationell linsverkan",
+      "explanation": "När ett massivt objekt böjer rumtiden så att ljuset från bakomliggande källor kröks och förstoras."
     },
     {
-      "term": "supernova",
-      "explanation": "En våldsam explosion som markerar slutet på en massiv stjärnas liv."
+      "term": "luminositet",
+      "explanation": "Ett mått på den totala mängden energi som en stjärna eller galax strålar ut per sekund."
     },
     {
-      "term": "röd jätte",
-      "explanation": "En åldrande, uppsvälld och svalare stjärna i ett sent utvecklingsstadium."
+      "term": "rumtiden",
+      "explanation": "Det fyrdimensionella vävverk som kombinerar rymdens tre dimensioner med tidens dimension."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this sparkling firework show in space! This little galaxy is called NGC 1569. It acts like a busy star factory working at full speed. New stars are born here at an amazing pace, popping up just like popcorn in a hot pot. The bright blue clumps you see are huge groups of glowing baby stars gathered together. When some of the biggest stars grew old, they exploded and blasted away the surrounding gas, blowing giant bubbles across space.",
-      "nyborjare": "In this image captured by the Hubble Space Telescope in 2008, we see the dwarf galaxy NGC 1569. It is classified as a starburst galaxy, which means it produces stars at an extraordinarily high rate. For nearly 100 million years, stars have formed here over one hundred times faster than in our Milky Way. In the galactic core, brilliant blue regions light up the scene. Each massive star cluster contains more than a million young stars. Violent explosions of dying massive stars, each known as a supernova, have carved out huge cavities in the surrounding gas. Astronomers suspect that gravitational tugs from a nearby galaxy group compressed the gas within NGC 1569 and triggered this frenzy.",
-      "entusiast": "Dwarf galaxy NGC 1569 is one of the most active starburst systems in our cosmic neighborhood. When the Hubble Space Telescope observed the galaxy in 2008 using the Advanced Camera for Surveys, astronomers resolved individual stars in both the crowded core and the outer fringes. By pinpointing stars in the red giant phase, researchers established a far more accurate distance of approximately 11 million light-years. This confirmed NGC 1569 as a member of the IC 342 galaxy group. Gravitational interactions within this group are believed to compress the interstellar gas, driving gravitational collapse and rapid star formation. In the center, three super star clusters shine brilliantly, including one luminous point that is actually two massive clusters superimposed. Energetic stellar winds and multiple supernova explosions have blown giant cavities in the gas, sculpting the galaxy's dramatic structure."
+      "barn": "Imagine looking through a bubbly window glass that makes everything look strange and magnified. The Hubble Space Telescope can use heavy cosmic galaxy clusters as a giant magnifying glass. This lets scientists peer at galaxies that are located so far away that their light has taken billions of years to reach us.",
+      "nyborjare": "The Hubble Space Telescope has utilized a fascinating cosmic phenomenon known as gravitational lensing to gain a unique insight into the infancy of the universe. When an enormous mass, such as a galaxy cluster, lies in front of a distant light source, passing light is bent due to strong gravity. This cosmic lens magnifies the light from galaxies positioned behind the cluster. The light from these distant objects has taken up to 11.5 billion years to reach Earth, giving astronomers a rare chance to study how stars formed early in cosmic history.",
+      "entusiast": "The image illustrates how the Hubble Space Telescope takes advantage of strong gravitational lensing caused by the foreground galaxy cluster SDSS J0915+3826. According to general relativity, massive objects warp spacetime, causing photon paths from background sources to deflect and amplify. In this case, the cluster acts as a natural optical instrument. This permits researchers to analyze star-forming clumps in galaxies whose light has traveled for up to 11.5 billion years, offering precise estimates of physical properties such as luminosity and stellar populations."
     },
     "terms": [
       {
-        "term": "starburst galaxy",
-        "explanation": "A galaxy experiencing an exceptionally high rate of star formation."
+        "term": "galaxy cluster",
+        "explanation": "A massive collection of thousands of galaxies held together by their mutual gravitational attraction."
       },
       {
-        "term": "star cluster",
-        "explanation": "A dense group of stars bound together by mutual gravity."
+        "term": "gravitational lensing",
+        "explanation": "When a massive object warps spacetime so that light from background sources is bent and magnified."
       },
       {
-        "term": "supernova",
-        "explanation": "A powerful explosion that occurs at the end of a massive star's life."
+        "term": "luminosity",
+        "explanation": "A measure of the total amount of energy emitted by a star or galaxy per second."
       },
       {
-        "term": "red giant",
-        "explanation": "An aging, expanded, and relatively cool star near the end of its life."
+        "term": "spacetime",
+        "explanation": "The four-dimensional fabric combining the three dimensions of space with the dimension of time."
       }
     ],
     "quiz": [
       {
-        "q": "What characterizes a starburst galaxy?",
+        "q": "What is a gravitational lens?",
         "options": [
-          "It ejects planets into outer space.",
-          "It forms stars at an extreme rate.",
-          "It consists solely of ancient stars."
+          "An artificial satellite with optical glass lenses",
+          "Massive objects that warp spacetime and light",
+          "A cloud of space dust magnifying background stars"
         ],
         "correct": 1,
-        "fact": "A starburst galaxy creates new stars at a furious pace, often triggered by gravitational encounters."
+        "fact": "A massive object such as a galaxy cluster creates a strong gravitational field that bends and magnifies light."
       },
       {
-        "q": "What color dominates in young, massive star clusters?",
+        "q": "Why do astronomers use gravitational lenses?",
         "options": [
-          "Red",
-          "Yellow",
-          "Blue"
-        ],
-        "correct": 2,
-        "fact": "Young, massive stars are exceptionally hot and radiate intensely in blue wavelengths."
-      },
-      {
-        "q": "What happens to galactic gas during gravitational interactions?",
-        "options": [
-          "It compresses and triggers star formation.",
-          "It cools down and vanishes completely.",
-          "It transforms instantly into dark matter."
+          "To observe very distant and faint galaxies",
+          "To measure the exact temperature of star surfaces",
+          "To slow down the speed of light in space"
         ],
         "correct": 0,
-        "fact": "Gravitational compression squeezes gas clouds until they collapse, igniting new generations of stars."
+        "fact": "Lensing acts like a giant magnifying glass allowing the study of early and distant galaxies."
+      },
+      {
+        "q": "How long has the light traveled from these distant galaxies?",
+        "options": [
+          "Up to 11.5 billion years",
+          "Only a few thousand years",
+          "Exactly 13.8 billion years"
+        ],
+        "correct": 0,
+        "fact": "The light from these objects has taken up to 11.5 billion years to reach Earth."
       }
     ]
   }

@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-23T04:55:36.809Z",
+ "updated": "2026-10-23T08:55:59.970Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-22T18:00:00Z",
+   "date": "2026-10-23T00:00:00Z",
    "title_sv": "Tyfonen Champi",
    "title_en": "Typhoon Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 175 km/h",
-   "value_en": "winds of 175 km/h"
+   "value_sv": "vindar på 165 km/h",
+   "value_en": "winds of 165 km/h"
   },
   {
    "kind": "storm",
