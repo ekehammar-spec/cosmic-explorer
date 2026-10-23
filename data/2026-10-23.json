@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-23",
+  "title": "Spiral's Edge",
+  "title_sv": "Spiralgalaxen NGC 1827 sedd från kanten",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg",
+  "link": "https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/",
+  "credit": "NASA",
+  "taken": "2020",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/",
+  "px": [
+    1600,
+    1551
+  ],
+  "w": 480,
+  "h": 465,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAQUCAwAEBv/EACAQAQACAgEFAQEAAAAAAAAAAAEAAgMRBAUhIjFRYRL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOAGpSw13Z9O/UhLKYr5HVTbGnD6K5BtyMhhqd+/tgKAXsG9/ktrxclhdaCOsz07hDXFvLf6xTyeZbKuvGvwgHDzHAeFT+vrIZubmyq2vZ3+zXglBVfcEyGwCgifSQf/2Q==",
+  "quiz": [
+    {
+      "q": "Varför ser galaxen ut som en smal skiva på bilden?",
+      "options": [
+        "Den saknar spiralarmar helt",
+        "Vi betraktar den rakt från kanten",
+        "Den slits isär av gravitation"
+      ],
+      "correct": 1,
+      "fact": "När en platt spiralgalax betraktas rakt från sidan ser den ut som en smal, utsträckt strimma av ljus."
+    },
+    {
+      "q": "Vad består de mörka stråken i galaxens mitt av?",
+      "options": [
+        "Kosmiskt stoft som skymmer stjärnljuset",
+        "Tomma områden där stjärnor saknas",
+        "Skuggor från ett gigantiskt svart hål"
+      ],
+      "correct": 0,
+      "fact": "Täta moln av rymdstoft absorberar det synliga ljuset från stjärnorna som ligger längre in i galaxskivan."
+    },
+    {
+      "q": "Hur lång tid tar galaxens ljus till jorden?",
+      "options": [
+        "Cirka 37 000 år",
+        "Cirka 370 000 år",
+        "Cirka 37 miljoner år"
+      ],
+      "correct": 2,
+      "fact": "Galaxen ligger 37 miljoner ljusår bort, vilket betyder att ljuset har färdats i 37 miljoner år."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en stor och rund pannkaka full av lysande stjärnor. Om du tittar på pannkakan rakt uppifrån ser den rund och platt ut. Men om du vänder pannkakan och kikar på den från kanten ser den plötsligt ut som ett smalt streck. Det är precis så vi ser galaxen NGC 1827 här!\n\nDen här galaxen snurrar ute i rymden jättelångt bort. Mitt i galaxen syns mörka ränder. Det är stora moln av kosmiskt stoft som skymmer stjärnorna bakom.",
+    "nyborjare": "Den här bilden från rymdteleskopet Hubble togs år 2020 och visar spiralgalaxen NGC 1827. Galaxen ligger ungefär 37 miljoner ljusår bort i stjärnbilden Duvan. Vi ser galaxen rakt från kanten, vilket gör att dess normalt breda skiva flyter ihop till ett tunt band av ljus.\n\nEtt ljusår är den sträcka som ljuset färdas under ett år. Det betyder att ljuset vi fångar i dag började sin resa när jorden såg helt annorlunda ut. Längs galaxens mitt syns mörka stråk av kosmiskt stoft. Det är kalla moln som skymmer stjärnljuset, men där bildas också nya stjärnor när gasen drar ihop sig.",
+    "entusiast": "År 2020 publicerade Hubbleteleskopet denna skarpa observation av NGC 1827, en mellanliggande spiralgalax belägen cirka 37 miljoner ljusår bort i stjärnbilden Duvan. Att betrakta en skivgalax från kanten ger astronomer ett utmärkt tillfälle att undersöka dess vertikala struktur och det interstellära mediet.\n\nI stället för öppna spiralarmar framträder här ett komplext nätverk av stoftband. Dessa mörka stråk består av mikroskopiska partiklar av kol och silikat som effektivt absorberar det optiska ljuset från bakomliggande stjärnor i galaxskivan. Kärnområdet domineras av äldre stjärnpopulationer i den centrala bulan, medan stoftet och stjärnbildningen är koncentrerade till det tunna planet.\n\nObservationer av galaxer sedda från kanten är avgörande för att kartlägga stoftets absorption samt förstå hur gas och stjärnvindar rör sig i och kring galaxskivor."
+  },
+  "terms": [
+    {
+      "term": "spiralgalax",
+      "explanation": "En roterande stjärnansamling med en platt skiva och böjda armar som sträcker sig utåt från mitten."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Ett astronomiskt längdmått som motsvarar den sträcka ljuset hinner färdas i vakuum på ett år."
+    },
+    {
+      "term": "kosmiskt stoft",
+      "explanation": "Små mikroskopiska partiklar av fast materia som svävar i rymden mellan stjärnorna."
+    },
+    {
+      "term": "interstellärt medium",
+      "explanation": "Den gas och det stoft som fyller det till synes tomma rummet mellan stjärnorna i en galax."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant, glowing pancake filled with billions of shining stars. If you look at the pancake from above, it looks round and wide. But if you hold it up and look right at its edge, it suddenly appears like a thin line. That is exactly how we see galaxy NGC 1827!\n\nThis galaxy is floating in deep space far away. Across its center, you can spot dark stripes. Those are large clouds of cosmic dust hiding the stars behind them.",
+      "nyborjare": "Captured by the Hubble Space Telescope and released in 2020, this image shows the spiral galaxy NGC 1827. Located about 37 million light-years away in the constellation Columba, the galaxy is tilted edge-on toward us. Because of this perspective, its broad disk looks like a narrow streak of light.\n\nA light-year is the distance light travels in one Earth year, meaning this image shows how the galaxy looked 37 million years ago. Dark lanes of cosmic dust cut through its center. These cold clouds obscure starlight, but they also hold the raw ingredients needed to form brand new stars.",
+      "entusiast": "Released in 2020, this Hubble Space Telescope observation highlights NGC 1827, an intermediate spiral galaxy situated approximately 37 million light-years away in Columba. Viewing a disk galaxy edge-on gives astronomers an ideal perspective to study its vertical profile and the interstellar medium.\n\nInstead of sweeping spiral arms, the edge-on vantage reveals prominent dust lanes slicing across the plane. These lanes consist of tiny carbon and silicate grains that absorb optical light from the dense stellar background. While older stars inhabit the subtle central bulge, ongoing star formation remains concentrated in the disk.\n\nStudying galaxies in this edge-on orientation allows astronomers to assess dust extinction, analyze stellar scale heights, and trace galactic winds expanding into the halo."
+    },
+    "terms": [
+      {
+        "term": "spiral galaxy",
+        "explanation": "A rotating cosmic disk of stars, gas, and dust featuring curved arms wrapping around a bright center."
+      },
+      {
+        "term": "light-year",
+        "explanation": "An astronomical unit of distance equal to the span light traverses through a vacuum in one year."
+      },
+      {
+        "term": "cosmic dust",
+        "explanation": "Microscopic solid grains floating in space that absorb visible starlight and seed new star systems."
+      },
+      {
+        "term": "interstellar medium",
+        "explanation": "The diffuse gas and solid particles that occupy the vast space between stars in a galaxy."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Why does this galaxy appear as a thin disk?",
+        "options": [
+          "It has no spiral arms at all",
+          "We are viewing it directly edge-on",
+          "It is being torn apart by gravity"
+        ],
+        "correct": 1,
+        "fact": "When a flat spiral galaxy is viewed directly from its side, its disk appears as a thin band of light."
+      },
+      {
+        "q": "What causes the dark lanes across the galaxy?",
+        "options": [
+          "Cosmic dust blocking starlight from behind",
+          "Empty pockets where stars are missing",
+          "Shadows cast by a giant black hole"
+        ],
+        "correct": 0,
+        "fact": "Dense clouds of interstellar dust absorb the visible light emitted by stars located deeper within the disk."
+      },
+      {
+        "q": "How long does light take from NGC 1827?",
+        "options": [
+          "About 37,000 years",
+          "About 370,000 years",
+          "About 37 million years"
+        ],
+        "correct": 2,
+        "fact": "Located roughly 37 million light-years away, its starlight takes 37 million years to reach our telescopes."
+      }
+    ]
+  }
+}

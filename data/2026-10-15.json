@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Dark Matter Core Defies Explanation",
-  "title_sv": "Galaxhopen Abell 520",
+  "title": "Hubble Hotbed of Vigorous Star Formation",
+  "title_sv": "Intensiv stjärnbildning i galaxen NGC 1569",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001774/GSFC_20171208_Archive_e001774~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001774/GSFC_20171208_Archive_e001774~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001774/GSFC_20171208_Archive_e001774~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001774",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000275/GSFC_20171208_Archive_e000275~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000275/GSFC_20171208_Archive_e000275~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000275/GSFC_20171208_Archive_e000275~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000275",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e001774",
+  "id": "GSFC_20171208_Archive_e000275",
   "px": [
     1280,
-    823
+    1198
   ],
   "w": 640,
-  "h": 411,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAnEAACAQQBAgUFAAAAAAAAAAABAgMABAURISJBEhQVMVETYYGRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAfEQABAwQDAQAAAAAAAAAAAAAAAQMRAhIiMQQhMkL/2gAMAwEAAhEDEQA/AIGLwjX9q5ifTEcr81v0KaJW6d+E8it2OVeweDy0bxiVN9XAbkjY+3FU7vJOiI8jBXf3FVbbSbaqifJmy5tOyH6NNf3XgijKcd6mZDHSY65aGbTEd1PFXZM1ICfLsVIU+3x3qLeXclz1ytsn91q/cJoLCy3lsUkkrWokaV2MLrHGCdhV0TofmmXN5NcshlfZA96KKSMkUb5ETHSrqui2t45cLf3Dg/UheJUO+zE7/lFFBsKn/9k=",
+  "h": 599,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgD/xAAjEAACAgEEAgIDAAAAAAAAAAABAgMRAAQSITFBUQUiMmGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/8QAHBEAAgMBAAMAAAAAAAAAAAAAAAECESEDEiJB/9oADAMBAAIRAxEAPwDGRAF6HvHp4HTaZBRKg8+RgIAjAEjn2MpHTSzMoRWcbfHPAwr2w2lFw34SJYQi0xA80D3i0igL+8el3KzKyXXdjFZ2BT8dpqu+8mpjVSVnQyFWGXtEzz0I745q6AGZtD/cu/H6ow6RgB9m810MMnWofNeSpgtfC0DyFgSpsZK1DGxuq9vrrHdXIzbixN9jnxkyUknLHXbJ0aiqR//Z",
   "quiz": [
     {
-      "q": "Vad är mörk materia för något?",
+      "q": "Vad kännetecknar en så kallad starburstgalax?",
       "options": [
-        "En osynlig substans som dominerar universums massa",
-        "Ett svart hål som slukar alla omgivande stjärnor",
-        "Tätt stoft som helt blockerar allt synligt ljus"
-      ],
-      "correct": 0,
-      "fact": "Mörk materia är osynlig för våra instrument men avslöjar sin närvaro genom sin gravitation."
-    },
-    {
-      "q": "Hur kan forskare mäta osynlig materia i rymden?",
-      "options": [
-        "Genom att studera stjärnornas magnetfält",
-        "Genom att observera så kallad gravitationslinsning",
-        "Genom att mäta temperaturen på den heta gasen"
+        "Den slungar ut planeter i rymden.",
+        "Den bildar stjärnor i extrem takt.",
+        "Den består enbart av gamla stjärnor."
       ],
       "correct": 1,
-      "fact": "Gravitationslinsning uppstår när massiva objekt böjer av ljuset från mer avlägsna bakgrundsobjekt."
+      "fact": "En starburstgalax bildar stjärnor exceptionellt snabbt, ofta på grund av gravitationell påverkan från andra galaxer."
     },
     {
-      "q": "Vad är en galaxhop?",
+      "q": "Vilken färg dominerar ofta i unga, massiva stjärnhopar?",
       "options": [
-        "En ensam gammal stjärna omgiven av planeter",
-        "En stor samling galaxer som hålls ihop av gravitation",
-        "Ett moln av gas som bildar nya stjärnor"
+        "Röd",
+        "Gul",
+        "Blå"
       ],
       "correct": 2,
-      "fact": "Galaxhopar är några av universums största strukturer och binds samman av ömsesidig dragningskraft."
+      "fact": "Unga och mycket massiva stjärnor är extremt heta och strålar med ett intensivt blått ljus."
+    },
+    {
+      "q": "Vad händer med gasen i krockande galaxer?",
+      "options": [
+        "Den komprimeras och bildar nya stjärnor.",
+        "Den kyls ned och försvinner helt.",
+        "Den förvandlas direkt till mörk materia."
+      ],
+      "correct": 0,
+      "fact": "Gravitationen pressar samman gasmolnen tills de kollapsar och tänder en ny generation stjärnor."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att jättestora gäng med stjärnor som kallas galaxer krockar med varandra i rymden. Det blir en våldsam smäll där moln av het gas bromsas in, men den osynliga mörka materien bara åker rakt igenom som ett spöke. Forskarna har fotograferat detta med ett rymdteleskop för att förstå hur den osynliga materien uppför sig när den kolliderar.",
-    "nyborjare": "År 2012 släppte NASA en sammansatt bild som visar den våldsamma krocken i galaxhopen Abell 520. När gigantiska ansamlingar av galaxer krockar händer något märkligt med innehållet. Den normala materien, som består av het gas, saktar in i krocken. Den mörka materien, som är en osynlig substans som utgör huvuddelen av universums massa, beter sig annorlunda och fortsätter framåt. Forskare kan kartlägga detta osynliga material genom gravitationslinsning, där ljuset från bakgrundsobjekt böjs av massan längs vägen. Det här mötet utmanar våra grundläggande teorier om hur mörk materia och galaxer hänger ihop.",
-    "entusiast": "Abell 520 ligger på ett avstånd av 2,4 miljarder ljusår och har bildats genom en våldsam kollision mellan massiva galaxhopar. Den bild som publicerades av NASA år 2012 kombinerar observationer från Hubble-teleskopet och Canada-France-Hawaii Telescope med data från Chandra X-ray Observatory. Genom att mäta gravitationslinsning från Hubble Wide Field Planetary Camera 2 kunde astronomer kartlägga massfördelningen i hopen. De upptäckte att en klump av mörk materia befinner sig nära den heta gasen där få galaxer syns, vilket bekräftar tidigare observationer av ett så kallat mörkt kärnområde. Detta strider mot standardmodellen som förutsäger att galaxer ska förbli förankrade i den mörka materien även under extrema kollisioner, vilket gör Abell 520 till ett intensivt forskningsobjekt inom astrofysiken."
+    "barn": "Titta på det här glittrande fyrverkeriet i rymden! Det är en liten galax som heter NGC 1569. Den fungerar som en riktig stjärnfabrik som arbetar för fullt dygnet runt. Här föds nya stjärnor i ett rasande tempo, precis som när popcorn poppar hej vilt i en het kastrull. De ljusblå klumparna du ser är jättestora grupper av heta stjärnbarn som håller ihop. När några av de allra största stjärnorna blev gamla exploderade de och blåste bort gasen runt omkring, som jättelika såpbubblor i rymden.",
+    "nyborjare": "På den här bilden, som togs av rymdteleskopet Hubble år 2008, ser vi galaxen NGC 1569. Den klassas som en starburstgalax, vilket innebär att den bildar nya stjärnor i en exceptionellt hög takt. Under nästan 100 miljoner år har stjärnor bildats här över hundra gånger snabbare än i vår egen Vintergata. I galaxens centrum lyser gigantiska blå områden upp rymden. Varje sådan stjärnhop rymmer över en miljon unga, heta stjärnor. Våldsamma explosioner från döende jättestjärnor, där varje smäll kallas en supernova, har blåst ut enorma tomrum i den omgivande gasen. Forskare misstänker att gravitationskrafter från en närliggande galaxgrupp har pressat samman gasen i NGC 1569 och satt igång denna dramatiska stjärnbildning.",
+    "entusiast": "Dvärggalaxen NGC 1569 är ett av de mest extrema exemplen på en starburstgalax i vårt kosmiska närområde. När rymdteleskopet Hubble observerade galaxen år 2008 med instrumentet Advanced Camera for Surveys kunde astronomer tränga igenom dess kaotiska kärna och kartlägga enskilda stjärnor. Genom att identifiera stjärnor av typen röd jätte lyckades forskarna göra en mycket precis avståndsbestämning. Mätningarna visade att galaxen befinner sig cirka 11 miljoner ljusår bort, vilket är 1,5 gånger längre bort än tidigare beräknat, och att den tillhör galaxgruppen IC 342. Gravitationella tidvattenkrafter från denna grupp tros komprimera galaxens kalla gasmoln och driva den intensiva stjärnbildningen som pågått i nästan 100 miljoner år. I centrum syns massiva superhopar med över en miljon stjärnor vardera, varav en ljuspunkt i själva verket är två överlappande hopar. Upprepade utbrott från supernovor har gröpt ur gigantiska kaviteter i det interstellära mediet och format galaxens morfologi."
   },
   "terms": [
     {
-      "term": "galaxhop",
-      "explanation": "En enorm samling av galaxer som hålls samman av sin gemensamma dragningskraft."
+      "term": "starburstgalax",
+      "explanation": "En galax som genomgår en fas av extremt intensiv och snabb stjärnbildning."
     },
     {
-      "term": "gravitationslinsning",
-      "explanation": "En optisk effekt där tunga objekt i rymden böjer av ljuset från bakomliggande källor."
+      "term": "stjärnhop",
+      "explanation": "En tät samling av stjärnor som hålls samman av sin inbördes gravitation."
     },
     {
-      "term": "mörk materia",
-      "explanation": "En okänd och osynlig typ av materia som utgör merparten av universums totala massa."
+      "term": "supernova",
+      "explanation": "En våldsam explosion som markerar slutet på en massiv stjärnas liv."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett avancerat astronomiskt instrument som placerats i omloppsbana ovanför jordens atmosfär för att observera världsalltet."
+      "term": "röd jätte",
+      "explanation": "En åldrande, uppsvälld och svalare stjärna i ett sent utvecklingsstadium."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine giant groups of stars called galaxies crashing into each other out in space. It is a violent collision where clouds of hot gas slow down, but the invisible dark matter just passes right through like a ghost. Scientists have photographed this using a space telescope to understand how invisible matter behaves when it collides.",
-      "nyborjare": "In 2012, NASA released a composite image showing the violent collision in the galaxy cluster Abell 520. When gigantic collections of galaxies crash, something strange happens to their contents. Normal matter, consisting of hot gas, slows down in the impact. Dark matter, which is an invisible substance making up most of the universe mass, behaves differently and keeps moving forward. Scientists can map this invisible material through gravitational lensing, where light from background objects is bent by the mass along the path. This encounter challenges our basic theories of how dark matter and galaxies connect.",
-      "entusiast": "Abell 520 resides 2.4 billion light-years away and was formed through a violent collision between massive galaxy clusters. The image published by NASA in 2012 combines observations from the Hubble Space Telescope and the Canada-France-Hawaii Telescope with data from the Chandra X-ray Observatory. By measuring gravitational lensing from Hubble Wide Field Planetary Camera 2, astronomers mapped the mass distribution within the cluster. They discovered that a clump of dark matter resides near the hot gas where very few galaxies are found, confirming previous observations of a dark matter core. This result challenges standard theories predicting that galaxies remain anchored to dark matter even during shock collisions, making Abell 520 an intense focus of astrophysical research."
+      "barn": "Look at this sparkling firework show in space! This little galaxy is called NGC 1569. It acts like a busy star factory working at full speed. New stars are born here at an amazing pace, popping up just like popcorn in a hot pot. The bright blue clumps you see are huge groups of glowing baby stars gathered together. When some of the biggest stars grew old, they exploded and blasted away the surrounding gas, blowing giant bubbles across space.",
+      "nyborjare": "In this image captured by the Hubble Space Telescope in 2008, we see the dwarf galaxy NGC 1569. It is classified as a starburst galaxy, which means it produces stars at an extraordinarily high rate. For nearly 100 million years, stars have formed here over one hundred times faster than in our Milky Way. In the galactic core, brilliant blue regions light up the scene. Each massive star cluster contains more than a million young stars. Violent explosions of dying massive stars, each known as a supernova, have carved out huge cavities in the surrounding gas. Astronomers suspect that gravitational tugs from a nearby galaxy group compressed the gas within NGC 1569 and triggered this frenzy.",
+      "entusiast": "Dwarf galaxy NGC 1569 is one of the most active starburst systems in our cosmic neighborhood. When the Hubble Space Telescope observed the galaxy in 2008 using the Advanced Camera for Surveys, astronomers resolved individual stars in both the crowded core and the outer fringes. By pinpointing stars in the red giant phase, researchers established a far more accurate distance of approximately 11 million light-years. This confirmed NGC 1569 as a member of the IC 342 galaxy group. Gravitational interactions within this group are believed to compress the interstellar gas, driving gravitational collapse and rapid star formation. In the center, three super star clusters shine brilliantly, including one luminous point that is actually two massive clusters superimposed. Energetic stellar winds and multiple supernova explosions have blown giant cavities in the gas, sculpting the galaxy's dramatic structure."
     },
     "terms": [
       {
-        "term": "galaxy cluster",
-        "explanation": "A massive collection of galaxies bound together by mutual gravitational attraction."
+        "term": "starburst galaxy",
+        "explanation": "A galaxy experiencing an exceptionally high rate of star formation."
       },
       {
-        "term": "gravitational lensing",
-        "explanation": "An optical effect where heavy objects in space bend the light originating from background sources."
+        "term": "star cluster",
+        "explanation": "A dense group of stars bound together by mutual gravity."
       },
       {
-        "term": "dark matter",
-        "explanation": "An unknown and invisible type of matter comprising the majority of the universe total mass."
+        "term": "supernova",
+        "explanation": "A powerful explosion that occurs at the end of a massive star's life."
       },
       {
-        "term": "space telescope",
-        "explanation": "An advanced astronomical instrument placed in orbit above earth atmosphere to observe the cosmos."
+        "term": "red giant",
+        "explanation": "An aging, expanded, and relatively cool star near the end of its life."
       }
     ],
     "quiz": [
       {
-        "q": "What is dark matter?",
+        "q": "What characterizes a starburst galaxy?",
         "options": [
-          "An invisible substance that dominates the universe mass",
-          "A black hole that swallows all surrounding stars",
-          "Dense dust that completely blocks all visible light"
-        ],
-        "correct": 0,
-        "fact": "Dark matter is invisible to our instruments but reveals its presence through gravity."
-      },
-      {
-        "q": "How can scientists measure invisible matter in space?",
-        "options": [
-          "By studying the magnetic fields of stars",
-          "By observing a phenomenon called gravitational lensing",
-          "By measuring the temperature of the hot gas"
+          "It ejects planets into outer space.",
+          "It forms stars at an extreme rate.",
+          "It consists solely of ancient stars."
         ],
         "correct": 1,
-        "fact": "Gravitational lensing occurs when massive objects bend the light coming from more distant background sources."
+        "fact": "A starburst galaxy creates new stars at a furious pace, often triggered by gravitational encounters."
       },
       {
-        "q": "What is a galaxy cluster?",
+        "q": "What color dominates in young, massive star clusters?",
         "options": [
-          "A single old star surrounded by planets",
-          "A massive collection of galaxies held together by gravity",
-          "A cloud of gas that forms new stars"
+          "Red",
+          "Yellow",
+          "Blue"
         ],
         "correct": 2,
-        "fact": "Galaxy clusters are some of the largest structures in the universe and are bound by mutual attraction."
+        "fact": "Young, massive stars are exceptionally hot and radiate intensely in blue wavelengths."
+      },
+      {
+        "q": "What happens to galactic gas during gravitational interactions?",
+        "options": [
+          "It compresses and triggers star formation.",
+          "It cools down and vanishes completely.",
+          "It transforms instantly into dark matter."
+        ],
+        "correct": 0,
+        "fact": "Gravitational compression squeezes gas clouds until they collapse, igniting new generations of stars."
       }
     ]
   }

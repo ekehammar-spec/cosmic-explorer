@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-23",
+  "media_type": "image",
+  "title": "Spiralgalaxen NGC 1827 sedd från kanten",
+  "title_en": "Spiral's Edge",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=480"
+ },
+ {
   "date": "2026-10-22",
   "media_type": "image",
   "title": "Webb fångar jetstrålar från unga stjärnor i NGC 7129",
@@ -51,9 +58,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Galaxhopen Abell 520",
-  "title_en": "Dark Matter Core Defies Explanation",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001774/GSFC_20171208_Archive_e001774~small.jpg"
+  "title": "Intensiv stjärnbildning i galaxen NGC 1569",
+  "title_en": "Hubble Hotbed of Vigorous Star Formation",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000275/GSFC_20171208_Archive_e000275~small.jpg"
  },
  {
   "date": "2026-10-14",

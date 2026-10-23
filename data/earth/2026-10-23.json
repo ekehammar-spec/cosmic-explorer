@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-23",
+  "title": "El Niño Then and Now",
+  "title_sv": "El Niño förr och nu",
+  "place": "Stilla havet",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+  "credit": "NASA Earth Observatory / Lauren Dauphin",
+  "source": "NASA Earth Observatory maps by Lauren Dauphin, using NASA-SSH altimetry data provided by Josh Willis, Severine Fournier, and Kevin Marlis, NASA/JPL-Caltech.",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+  "w": 480,
+  "h": 363,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAgQF/8QAJhAAAgIBAwMEAwEAAAAAAAAAAQIDBAAFERIGIXETMUFhIoHRUf/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAAH/xAAbEQEAAwEAAwAAAAAAAAAAAAABAAIREgMhMf/aAAwDAQACEQMRAD8AnlOrJduQ1oRvJKwVfJym0+kqNSCGP05Wnbu8hQHf+DJvpYB1CFefpljxD77cSfY5UdNp63T01eFhJpeRJR2B3H+h++/7zIc6s4L1hNLXemaZgYogK7AFwPyQ+cQb2kvRkmimkUSREgj4OUiwOo7Eb13qVQjfLvuCP1k310Spqs0U7iSWI8HYHcbj+e2HRX0xr+MrXdnOBIO47HH7p/rWxHUjgu1km4DisgmWMkfYb384YYobBZlrXXFlazxUa0cLMNvVMyyFfABPf7xAZizFmJJJ3JPzhhkV+S7GZP/Z",
+  "levels": {
+    "barn": "Kartan visar Stilla havet sett från rymden. De röda och vita fälten visar var havsvattnet är varmare och buktar uppåt som en stor kulle. Det blå vattnet är lite svalare och lägre. När det varma vattnet samlas vid Sydamerika kallas det för El Niño. Varmt vatten tar nämligen mer plats än kallt vatten, och då stiger havsytan. Detta väderfenomen händer vartannat till vart sjunde år och kan förändra vädret på hela jorden med både kraftigt regn och torka.",
+    "nyborjare": "Kartan visar höjdskillnader på havsytan i Stilla havet. Rött visar områden där havet står ovanligt högt, vitt visar normal nivå och blått visar att havsytan är lägre än vanligt. Färgerna avslöjar ett kraftigt El Niño-fenomen, ett naturligt klimatmönster som återkommer vartannat till vart sjunde år. Normalt blåser passadvindarna det varma ytvattnet västerut mot Asien. När vindarna avtar rör sig det varma vattnet österut mot Sydamerika. Eftersom varmt vatten expanderar höjer det havsytan med flera decimeter. Genom att mäta havets höjd med satelliter kan forskare följa värmens rörelser. År 2026 utvecklades El Niño snabbt och liknar det starka fenomenet från 1997. Sådana händelser påverkar vädret globalt och kan leda till kraftiga regn i vissa regioner och torka eller skogsbränder i andra.",
+    "entusiast": "Kartan visar avvikelser i havsytans höjd över ekvatoriella Stilla havet mätta med satellitaltimetri. Rött indikerar en positiv höjdanomali där varmt vatten har expanderat termiskt, vitt representerar normala förhållanden och blått visar en negativ anomali. Data från oktober 1997 samlades in av satelliten TOPEX/Poseidon, medan mätningarna från oktober 2026 kommer från Sentinel-6 Michael Freilich. Satelliternas radarhöjdmätare sänder mikrovågspulser mot havsytan och mäter reflektionstiden med millimeterprecision. Genom att subtrahera säsongsvariationer och långsiktiga trender kan forskare isolera El Niño-signalen. Under normala förhållanden driver passadvindarna varmt ytvatten västerut, vilket skapar en lutning där havsytan är högre i västra Stilla havet. När vindarna försvagas uppstår en återkopplingsmekanism mellan atmosfär och hav, vilket låter en puls av varmt vatten vandra österut mot Sydamerikas kust. Jämförelsen mellan 1997, 2015 och 2026 visar att varje El Niño har ett unikt förlopp. År 2015 nådde det varma vattnet inte hela vägen fram till Sydamerika på samma sätt som 1997 och 2026. Eftersom mätningarna har pågått i 35 år med överlappande satellitbanor kan forskare vid NASA:s Jet Propulsion Laboratory jämföra aktuella anomalier med historiska data. NOAA bedömde i oktober 2026 att sannolikheten för en mycket stark El Niño vintern 2026–2027 var 83 procent, med potentiella konsekvenser i form av översvämningar och torka över flera kontinenter."
+  },
+  "terms": [
+    {
+      "term": "satellitaltimetri",
+      "explanation": "Mätmetod från rymden där radarpulser mäter avståndet till havsytan för att kartlägga dess exakta höjd."
+    },
+    {
+      "term": "höjdanomali",
+      "explanation": "En avvikelse i havsytans faktiska nivå jämfört med det normala genomsnittet för området."
+    },
+    {
+      "term": "passadvind",
+      "explanation": "Ihållande vindar kring ekvatorn som normalt driver varmt havsvatten västerut över Stilla havet."
+    },
+    {
+      "term": "TOPEX/Poseidon",
+      "explanation": "En fransk-amerikansk forskningssatellit som sköts upp 1992 för att mäta havsytans topografi med radar."
+    },
+    {
+      "term": "Sentinel-6 Michael Freilich",
+      "explanation": "En modern jordobservationssatellit som mäter havsnivåer och havsytans höjd med mycket hög precision."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The map shows the Pacific Ocean viewed from space. The red and white areas show where the sea is warmer and bulges upward like a hill. The blue areas show cooler water that sits lower. When this warm water gathers near South America, it is called El Niño. Warm water takes up more space than cold water, so the sea surface rises. This happens every few years and changes weather around the world, bringing heavy rain or drought.",
+      "nyborjare": "This map shows sea surface height anomalies across the Pacific Ocean. Red areas indicate where sea level is higher than average, white indicates normal conditions, and blue shows lower areas. These patterns reveal El Niño, a natural climate pattern occurring every two to seven years. Trade winds normally blow warm water toward the western Pacific. When those winds weaken, warm water pulses eastward toward South America. Because water expands as it warms, this heat buildup lifts the sea surface. Radar altimetry satellites measure ocean height to track these shifts. In October 2026, sea levels resembled the powerful 1997 El Niño. Such events disrupt global weather, causing heavy rainfall and coastal flooding in some regions while driving severe drought in others.",
+      "entusiast": "These maps show sea surface height anomalies across the equatorial Pacific measured by satellite altimetry. Red indicates positive height anomalies driven by thermal expansion in warm waters, white shows normal sea levels, and blue indicates negative anomalies. The October 1997 data were collected by the TOPEX/Poseidon mission, while October 2026 data come from the Sentinel-6 Michael Freilich satellite. Radar altimeters pulse microwave signals toward the ocean and time the reflection to determine surface height with remarkable precision. By removing seasonal cycles and long-term trends, oceanographers isolate short-term variations linked to the El Niño–Southern Oscillation. Normally, trade winds hold warm water in the western Pacific. When these winds weaken, an ocean-atmosphere feedback loop sends a pulse of warm water east toward South America. Unlike the 2015 event, where warm water did not reach the South American coast as completely, 2026 closely mirrors 1997. With a 35-year record of overlapping satellite missions, researchers at NASA's Jet Propulsion Laboratory can directly evaluate current events against past heavyweights. In October 2026, NOAA projected an 83 percent chance of a strong El Niño lasting through early 2027, with the potential to shift weather patterns worldwide."
+    },
+    "terms": [
+      {
+        "term": "satellite altimetry",
+        "explanation": "A spaceborne technique that uses radar pulses to precisely measure sea surface height across the globe."
+      },
+      {
+        "term": "height anomaly",
+        "explanation": "A deviation in ocean surface elevation from the long-term average level for that specific region."
+      },
+      {
+        "term": "trade winds",
+        "explanation": "Persistent easterly winds along the equator that push warm surface waters across the tropical Pacific."
+      },
+      {
+        "term": "TOPEX/Poseidon",
+        "explanation": "A joint NASA and CNES satellite mission launched in 1992 to measure ocean surface topography."
+      },
+      {
+        "term": "Sentinel-6 Michael Freilich",
+        "explanation": "An Earth-observing satellite launched to monitor global sea levels and ocean topography with high-precision radar altimetry."
+      }
+    ],
+    "place": "Pacific Ocean"
+  }
+}
