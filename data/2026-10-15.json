@@ -1,134 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Gets a Celestial Boost",
-  "title_sv": "Gravitationell linsverkan i galaxhopen SDSS J0915+3826",
+  "title": "Hubble Checks out a Home for Old Stars",
+  "title_sv": "Klotformiga stjärnhopen Terzan 1",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/potw1844a/potw1844a~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/potw1844a/potw1844a~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/potw1844a/potw1844a~orig.jpg",
-  "link": "https://images.nasa.gov/details/potw1844a",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000498/GSFC_20171208_Archive_e000498~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000498/GSFC_20171208_Archive_e000498~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000498/GSFC_20171208_Archive_e000498~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000498",
   "credit": "NASA/GSFC",
-  "taken": "2019",
+  "taken": "2017",
   "src": "library",
-  "id": "potw1844a",
+  "id": "GSFC_20171208_Archive_e000498",
   "px": [
     1280,
-    1011
+    1091
   ],
   "w": 640,
-  "h": 505,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwEABAf/xAAhEAACAgEDBQEAAAAAAAAAAAABAgADERIhIgQxQVFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFh/9oADAMBAAIRAxEAPwDzvv7JjU9NZcwCKWJIAAGYYbByNp0UW2UszowRyO58SVZoLBpOhhyXIh4MSzkWYtls7n3INGrkDj4ZRM/kS2xbCCqBcAA48/YQ7zCBdW0gIzvvJNA//9k=",
+  "h": 545,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAiEAEAAQMEAgMBAAAAAAAAAAABAgARIQMEMUESIiNRYRP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AOFIhCLGXs3EtxRoQ+NbmOr80LTgMBTC2qhstOMkFxxnuotQl5afqTlK9+uWgziQjFMjhL1b3m1jtYxY5eR5Gouuv9ET27WruxMhRujJtinYazaF8NuQ5/WkGcglAbRW9qJBSz2FGhO6+u6kWJKT4n3fNIzlK69/daZPml20nP7msTPlY9DxQObNv//Z",
   "quiz": [
     {
-      "q": "Vad är en gravitationell lins?",
+      "q": "Varför har de flesta stjärnorna i hopen rödaktig färg?",
       "options": [
-        "En artificiell satellit med optiska glaslinser",
-        "Massiva objekt som böjer rumtiden och ljuset",
-        "Ett moln av rymdstoft som förstorar stjärnor"
+        "De är gamla och svalare stjärnor.",
+        "De är täckta av tjockt stoft.",
+        "De rör sig bort i hög fart."
+      ],
+      "correct": 0,
+      "fact": "Stjärnorna i klotformiga stjärnhopar hör till universums äldsta och lyser med ett rödaktigt sken när de åldras."
+    },
+    {
+      "q": "Vad håller ihop stjärnorna i en klotformig stjärnhop?",
+      "options": [
+        "Galaxens kraftiga magnetfält.",
+        "Stjärnornas gemensamma gravitationskraft.",
+        "Trycket från het rymdgas."
       ],
       "correct": 1,
-      "fact": "Ett massivt objekt som en galaxhop skapar en stark gravitation som böjer och förstorar ljuset från bakomliggande galaxer."
+      "fact": "Den ömsesidiga gravitationen mellan stjärnorna binder samman dem i en tät sfär."
     },
     {
-      "q": "Varför använder astronomer gravitationella linser?",
+      "q": "Vad orsakar röntgenstrålningen som upptäckts i Terzan 1?",
       "options": [
-        "För att se mycket avlägsna och svaga galaxer",
-        "För att mäta exakt temperatur på stjärnors ytor",
-        "För att bromsa in ljusets hastighet i rymden"
+        "Planeter som kolliderar med varandra.",
+        "Kärnreaktioner i nyfödda stjärnor.",
+        "En neutronstjärna som slukar grannstjärnans gas."
       ],
-      "correct": 0,
-      "fact": "Linsverkan fungerar som ett gigantiskt förstoringsglas som gör det möjligt att studera tidiga och avlägsna galaxer."
-    },
-    {
-      "q": "Hur lång tid har ljuset färdats från dessa avlägsna galaxer?",
-      "options": [
-        "Upp till 11,5 miljarder år",
-        "Endast några få tusen år",
-        "Exakt 13,8 miljarder år"
-      ],
-      "correct": 0,
-      "fact": "Ljuset från dessa objekt har tagit upp till 11,5 miljarder år på sig att nå fram till jorden."
+      "correct": 2,
+      "fact": "En tät neutronstjärna drar till sig material från en kompanjonstjärna, vilket hettar upp gasen så att röntgenstrålning uppstår."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar genom ett bubbligt glasfönster som gör att allt ser konstigt och förstorat ut. Rymdteleskopet Hubble kan använda rymdens egna tunga hopar av stjärnor som ett jättestort förstoringsglas. På så sätt kan forskarna kika på galaxer som ligger så långt borta att ljuset har tagit miljarder år på sig att nå oss.",
-    "nyborjare": "Rymdteleskopet Hubble har utnyttjat ett fascinerande kosmiskt fenomen som kallas gravitationell linsverkan för att få en unik inblick i universums barndom. När en enorm massa, till exempel en galaxhop, befinner sig framför en avlägsen ljuskälla böjs det förbipasserande ljuset på grund av den starka dragningskraften. Denna kosmiska lins förstorar ljuset från galaxer som ligger bakom hopen. Ljuset från dessa avlägsna objekt har tagit upp till 11,5 miljarder år att nå jorden. Det ger astronomerna en sällsynt chans att studera hur stjärnor bildades tidigt i universums historia, inklusive hur stora de var och hur mycket ljus de skickade ut.",
-    "entusiast": "Bilden illustrerar hur rymdteleskopet Hubble drar nytta av stark gravitationell linsverkan orsakad av förgrundsgalaxhopen SDSS J0915+3826. Enligt den allmänna relativitetsteorin kröker massiva objekt rumtiden, vilket gör att banorna för fotoner från mer avlägsna bakgrundsobjekt avlänkas och förstärks. I det här fallet fungerar galaxhopen som ett naturligt optiskt instrument. Detta gör det möjligt för forskare att analysera stjärnbildande klumpar i galaxer vars ljus har färdats i upp till 11,5 miljarder år, det vill säga från universums tidiga skeden. Metoden ger noggranna uppskattningar av fysiska egenskaper såsom luminositet, massa och stjärnpopulationer i system som annars skulle vara svåra att observera på sådana enorma kosmologiska avstånd."
+    "barn": "Här ser du en jättelik boll full av stjärnor som heter Terzan 1. Den kallas för en klotformig stjärnhop. Tänk dig en glittrande snöglob, fast i rymden och fylld med hundratusen stjärnor istället för snöflingor! De flesta stjärnorna i bollen lyser med ett rött sken eftersom de är jättegamla och har lyst i miljarder år. Några få blå stjärnor ser extra ljusa ut, men de råkar bara ligga närmare oss.",
+    "nyborjare": "Bilden visar Terzan 1, en klotformig stjärnhop som ligger cirka 20 000 ljusår bort i stjärnbilden Skorpionen. Vintergatan rymmer omkring 150 sådana hopar. De är täta, sfäriska samlingar av hundratusentals stjärnor som hålls samman av sin egen gravitation. De rödaktiga stjärnorna hör till hopens ursprungliga befolkning och är bland de äldsta objekten i vår galax. De bildades när galaxen var ung och ger astronomer ledtrådar om hur galaxer utvecklades i tidernas begynnelse. De klarblå stjärnorna i bilden tillhör inte hopen, utan råkar ligga i förgrunden mellan oss och Terzan 1. Hopen sänder också ut kraftig röntgenstrålning från heta dubbelstjärnor.",
+    "entusiast": "Rymdteleskopet Hubble fångade denna vy av Terzan 1 med kameran WFPC2. Hopen är belägen ungefär 20 000 ljusår från jorden i stjärnbilden Skorpionen. Klotformiga stjärnhopar är dynamiska laboratorier där stjärntätheten i kärnan kan vara tusentals gånger högre än i solens grannskap. Denna extrema täthet ökar sannolikheten för nära möten och bildandet av exotiska dubbelstjärnor. Terzan 1 är en känd källa till röntgenstrålning som genereras i röntgendubbelstjärnor med låg massa. I dessa system drar en kompakt neutronstjärna gravitationellt till sig materia från en vanlig följeslagare. När gasen faller in mot ytan frigörs enorma mängder energi i form av röntgenutbrott. Därefter inträder en lugnare fas där objektet svalnar innan kretsloppet upprepas. Eftersom stjärnorna i Terzan 1 bildades under Vintergatans tidigaste epok ger deras metallfattiga sammansättning och ålder viktiga ledtrådar om galaxens tidiga kemiska och dynamiska utveckling."
   },
   "terms": [
     {
-      "term": "galaxhop",
-      "explanation": "En enorm samling av tusentals galaxer som hålls samman av sin gemensamma gravitation."
+      "term": "klotformig stjärnhop",
+      "explanation": "En tät, sfärisk samling av tiotusentals till miljontals gamla stjärnor som binds samman av gravitation."
     },
     {
-      "term": "gravitationell linsverkan",
-      "explanation": "När ett massivt objekt böjer rumtiden så att ljuset från bakomliggande källor kröks och förstoras."
+      "term": "ljusår",
+      "explanation": "Den sträcka som ljuset färdas i vakuum under ett år, cirka 9,46 biljoner kilometer."
     },
     {
-      "term": "luminositet",
-      "explanation": "Ett mått på den totala mängden energi som en stjärna eller galax strålar ut per sekund."
+      "term": "gravitation",
+      "explanation": "Den universella kraft som gör att kroppar med massa dras mot varandra."
     },
     {
-      "term": "rumtiden",
-      "explanation": "Det fyrdimensionella vävverk som kombinerar rymdens tre dimensioner med tidens dimension."
+      "term": "röntgenstrålning",
+      "explanation": "Mycket energirik elektromagnetisk strålning med kortare våglängd än ultraviolett ljus."
+    },
+    {
+      "term": "neutronstjärna",
+      "explanation": "Den extremt kompakta och täta resten efter en massiv stjärna som exploderat i en supernova."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine looking through a bubbly window glass that makes everything look strange and magnified. The Hubble Space Telescope can use heavy cosmic galaxy clusters as a giant magnifying glass. This lets scientists peer at galaxies that are located so far away that their light has taken billions of years to reach us.",
-      "nyborjare": "The Hubble Space Telescope has utilized a fascinating cosmic phenomenon known as gravitational lensing to gain a unique insight into the infancy of the universe. When an enormous mass, such as a galaxy cluster, lies in front of a distant light source, passing light is bent due to strong gravity. This cosmic lens magnifies the light from galaxies positioned behind the cluster. The light from these distant objects has taken up to 11.5 billion years to reach Earth, giving astronomers a rare chance to study how stars formed early in cosmic history.",
-      "entusiast": "The image illustrates how the Hubble Space Telescope takes advantage of strong gravitational lensing caused by the foreground galaxy cluster SDSS J0915+3826. According to general relativity, massive objects warp spacetime, causing photon paths from background sources to deflect and amplify. In this case, the cluster acts as a natural optical instrument. This permits researchers to analyze star-forming clumps in galaxies whose light has traveled for up to 11.5 billion years, offering precise estimates of physical properties such as luminosity and stellar populations."
+      "barn": "This is a giant ball of stars named Terzan 1. It is called a globular cluster. Picture a sparkling snow globe floating in space, but packed with about a hundred thousand stars instead of snowflakes! Most stars in the cluster look red because they are very old. The few bright blue sparkles do not belong to the ball at all; they are just neighbor stars sitting much closer to our telescope.",
+      "nyborjare": "This image showcases Terzan 1, a globular cluster located about 20,000 light-years away in the constellation Scorpius. The Milky Way hosts around 150 such clusters. They are tightly bound, spherical swarms of hundreds of thousands of stars held together by mutual gravitation. The reddish stars are the true residents and rank among the oldest stars in our galaxy, having formed when the Milky Way was young. Studying them helps scientists decode how galaxies originally took shape. The bright blue stars in the view are foreground stars that simply lie along our line of sight. Terzan 1 also produces strong X-ray emission from interacting pairs of stars.",
+      "entusiast": "Captured by the Hubble Space Telescope using WFPC2, this view highlights Terzan 1, situated roughly 20,000 light-years from Earth in Scorpius. Globular clusters are dense stellar laboratories where stellar density near the core can be thousands of times higher than in the solar neighborhood. This crowded environment fosters dynamical interactions and the creation of exotic binaries. Terzan 1 is notable as an X-ray source powered by low-mass X-ray binaries. In these systems, a compact neutron star strips material from an ordinary stellar companion. Accretion onto the relativistic primary triggers luminous X-ray outbursts, followed by quiescent cooling phases as matter replenishes. Because these cluster stars formed during the Milky Way's infancy, their low metallicity and age provide valuable constraints on early galactic formation."
     },
     "terms": [
       {
-        "term": "galaxy cluster",
-        "explanation": "A massive collection of thousands of galaxies held together by their mutual gravitational attraction."
+        "term": "globular cluster",
+        "explanation": "A densely packed, spherical collection of ancient stars bound together by their mutual gravitational pull."
       },
       {
-        "term": "gravitational lensing",
-        "explanation": "When a massive object warps spacetime so that light from background sources is bent and magnified."
+        "term": "light-years",
+        "explanation": "A unit of astronomical distance equal to the distance light travels in one year."
       },
       {
-        "term": "luminosity",
-        "explanation": "A measure of the total amount of energy emitted by a star or galaxy per second."
+        "term": "gravitation",
+        "explanation": "The fundamental force of attraction acting between all masses in the universe."
       },
       {
-        "term": "spacetime",
-        "explanation": "The four-dimensional fabric combining the three dimensions of space with the dimension of time."
+        "term": "neutron star",
+        "explanation": "The ultra-dense remnant collapsed core of a massive star destroyed in a supernova explosion."
+      },
+      {
+        "term": "X-ray",
+        "explanation": "A highly energetic form of electromagnetic radiation with wavelengths shorter than ultraviolet light."
       }
     ],
     "quiz": [
       {
-        "q": "What is a gravitational lens?",
+        "q": "Why do most stars in the cluster appear reddish?",
         "options": [
-          "An artificial satellite with optical glass lenses",
-          "Massive objects that warp spacetime and light",
-          "A cloud of space dust magnifying background stars"
+          "They are old and cooler stars.",
+          "They are shrouded in cosmic dust.",
+          "They are moving away rapidly."
+        ],
+        "correct": 0,
+        "fact": "Globular cluster stars are ancient and naturally glow with a cooler, reddish light."
+      },
+      {
+        "q": "What holds the stars in a globular cluster together?",
+        "options": [
+          "A strong galactic magnetic field.",
+          "Their mutual gravitational attraction.",
+          "Pressure from hot interstellar gas."
         ],
         "correct": 1,
-        "fact": "A massive object such as a galaxy cluster creates a strong gravitational field that bends and magnifies light."
+        "fact": "Mutual gravity keeps hundreds of thousands of stars tightly bound into a spherical swarm."
       },
       {
-        "q": "Why do astronomers use gravitational lenses?",
+        "q": "What causes the X-rays detected from Terzan 1?",
         "options": [
-          "To observe very distant and faint galaxies",
-          "To measure the exact temperature of star surfaces",
-          "To slow down the speed of light in space"
+          "Planets colliding with each other.",
+          "Nuclear reactions in newborn stars.",
+          "A neutron star feeding on its companion."
         ],
-        "correct": 0,
-        "fact": "Lensing acts like a giant magnifying glass allowing the study of early and distant galaxies."
-      },
-      {
-        "q": "How long has the light traveled from these distant galaxies?",
-        "options": [
-          "Up to 11.5 billion years",
-          "Only a few thousand years",
-          "Exactly 13.8 billion years"
-        ],
-        "correct": 0,
-        "fact": "The light from these objects has taken up to 11.5 billion years to reach Earth."
+        "correct": 2,
+        "fact": "Matter pulled from a companion star onto a dense neutron star heats up and releases X-ray bursts."
       }
     ]
   }
