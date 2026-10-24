@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-24",
+  "title": "At the centre of the tuning fork",
+  "title_sv": "Linsgalaxen Mrk 820",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/a-galaxy-at-the-center-of-the-hubble-tuning-fork_22206278923_o/a-galaxy-at-the-center-of-the-hubble-tuning-fork_22206278923_o~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/a-galaxy-at-the-center-of-the-hubble-tuning-fork_22206278923_o/a-galaxy-at-the-center-of-the-hubble-tuning-fork_22206278923_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/a-galaxy-at-the-center-of-the-hubble-tuning-fork_22206278923_o/a-galaxy-at-the-center-of-the-hubble-tuning-fork_22206278923_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/a-galaxy-at-the-center-of-the-hubble-tuning-fork_22206278923_o",
+  "credit": "NASA/GSFC",
+  "taken": "2015",
+  "src": "library",
+  "id": "a-galaxy-at-the-center-of-the-hubble-tuning-fork_22206278923_o",
+  "px": [
+    1280,
+    669
+  ],
+  "w": 640,
+  "h": 334,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMEAAf/xAAdEAACAgMBAQEAAAAAAAAAAAABAgMEABEhMUES/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOesoH56Dsb58w4YnnkCICWPgwQhIPQNDfTjK1h60yyRnTKdg4Gs1ZazlJUKkfDicqvXpr0xkmYsx9OS4H//2Q==",
+  "quiz": [
+    {
+      "q": "Vad kännetecknar en linsformad galax?",
+      "options": [
+        "Den saknar tydliga spiralarmar men har en skiva.",
+        "Den består nästan uteslutande av mörk materia.",
+        "Den har alltid fyra symmetriska spiralarmar."
+      ],
+      "correct": 0,
+      "fact": "Linsformade galaxer har en platt skiva precis som spiralgalaxer, men saknar framträdande spiralarmar och har mycket lite aktiv stjärnbildning."
+    },
+    {
+      "q": "Vad klassificerar astronomer med Hubbles stämgaffeldiagram?",
+      "options": [
+        "Hur snabbt olika galaxer rör sig.",
+        "Olika galaxers yttre form och struktur.",
+        "Vilka grundämnen som finns i stjärnorna."
+      ],
+      "correct": 1,
+      "fact": "Hubbles stämgaffeldiagram är ett klassificeringssystem som delar in galaxer i elliptiska, linsformade och spiralformade utifrån deras observerade form."
+    },
+    {
+      "q": "Varför syns stjärnan i bildens nederkant så tydligt?",
+      "options": [
+        "Den genomgår just nu ett kraftigt utbrott.",
+        "Den är universums mest ljusstarka kända stjärna.",
+        "Den ligger i Vintergatan mycket närmare oss."
+      ],
+      "correct": 2,
+      "fact": "Ljusa enskilda stjärnor i sådana här bilder är förgrundsstjärnor i vår egen galax som råkar ligga i siktlinjen mot de avlägsna galaxerna."
+    }
+  ],
+  "levels": {
+    "barn": "Möt galaxen Mrk 820! En galax är en jättelik samling av miljarder stjärnor, planeter och rymdstoft som svävar tillsammans i den mörka rymden.\n\nMrk 820 är en speciell sort som kallas linsgalax. Den ser ut ungefär som en platt pannkaka med en tjock bulle i mitten. Den har inga snurrande armar som vår egen Vintergata, men den är inte heller rund som en boll. Den är som en spännande blandning mitt emellan!",
+    "nyborjare": "I mitten av bilden syns galaxen Mrk 820. Den klassificeras som en linsformad galax, vilket är en övergångsform mellan runda elliptiska galaxer och vindlande spiralgalaxer.\n\nAstronomer använder ofta modellen Hubbles stämgaffel för att ordna galaxer efter deras visuella form. Handtaget består av elliptiska galaxer och delar sig sedan i två skänklar med spiralgalaxer. Precis där stämgaffeln delar sig hamnar linsgalaxerna. Mrk 820 har en platt skiva och en rund gloria av stjärnor, men saknar de väl synliga spiralarmarna som pryder Vintergatan.\n\nNästan alla små ljusfläckar i bakgrunden är andra avlägsna galaxer. Den starka ljuspunkten längst ner är en förgrundsstjärna i Vintergatan som råkar hamna i synfältet.",
+    "entusiast": "Centrumobjektet är Mrk 820 (Markarian 820), en linsformad galax av morfologisk typ S0. I Edwin Hubbles klassifikationssystem, den berömda stämgaffeln, intar S0-galaxer en central övergångsroll mellan tidiga elliptiska system och sena spiralgalaxer.\n\nLinsgalaxer har kvar en utpräglad skivkomponent och en central galaxbula, men deras interstellära medium har i stort sett tömts på kall molekylär gas. Följden blir att stjärnbildningen har avstannat drastiskt jämfört med gasrika spiralgalaxer. Vid en noggrann analys av Mrk 820 framträder dock svaga antydningar till en inbäddad spiralstruktur i den cirkulära stjärnhalon, vilket kan peka på tidigare gravitationella störningar eller en spiralgalax som nyligen släckts.\n\nI det omgivande fältet syns ett representativt tvärsnitt av universums morfologi, från kompakta elliptiska system till asymmetriska spiraler. Den dominerande stjärnan TYC 4386-787-1 i fältets nederkant är en typisk förgrundsstjärna i Vintergatan som påminner om projektionseffekternas betydelse vid extragalaktiska observationer."
+  },
+  "terms": [
+    {
+      "term": "linsformad galax",
+      "explanation": "En galax med skivform som saknar framträdande spiralarmar och har låg stjärnbildningstakt."
+    },
+    {
+      "term": "Hubbles stämgaffel",
+      "explanation": "Ett klassificeringssystem som delar in galaxer i grupper utifrån deras synliga form och struktur."
+    },
+    {
+      "term": "spiralgalaxer",
+      "explanation": "En typ av galaxer med en platt skiva och virvlande armar av stjärnor och gas."
+    },
+    {
+      "term": "förgrundsstjärna",
+      "explanation": "En närbelägen stjärna i Vintergatan som råkar ligga i siktlinjen framför mer avlägsna rymdobjekt."
+    },
+    {
+      "term": "galaxbula",
+      "explanation": "Den täta och sfäriska samlingen av gamla stjärnor som bildar centrum i skivgalaxer."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Meet the galaxy Mrk 820! A galaxy is a giant city of billions of stars, planets, and cosmic dust floating together in space.\n\nMrk 820 is a special kind called a lenticular galaxy. It looks like a round pancake with a thick bump right in the middle. It does not have swirling arms like our Milky Way, but it is not completely round like a ball either. Instead, it sits right in the middle as a fascinating cosmic hybrid!",
+      "nyborjare": "At the center of this view sits the galaxy Mrk 820. It is classified as a lenticular galaxy, an intermediate shape between smooth elliptical galaxies and sweeping spiral galaxies.\n\nAstronomers often use a classification system known as Hubble's tuning fork to organize galaxies by appearance. The handle contains elliptical galaxies, which look like smooth glowing spheres. Where the handle splits into two prongs of spiral galaxies, lenticular galaxies take their place. Mrk 820 features a flattened disk and a rounded halo of stars, but lacks the prominent spiral arms seen in our own Milky Way.\n\nNearly every smudge and speck scattered across the background is another distant galaxy. The brilliant pinpoint of light near the bottom is a foreground star inside our own galaxy.",
+      "entusiast": "The central object is Mrk 820 (Markarian 820), a lenticular galaxy classified as morphological type S0. In Edwin Hubble's classification scheme, the famed tuning fork, S0 galaxies occupy a pivotal transitional position between early-type elliptical systems and late-type spiral galaxies.\n\nLenticular galaxies retain a prominent disk component and a central galactic bulge, but their interstellar medium has largely been stripped of cold molecular gas. As a result, star formation has halted or dropped significantly compared to gas-rich spirals. A detailed look at Mrk 820 reveals subtle remnants of an embedded spiral structure within its stellar halo, potentially pointing to past gravitational interactions or a quenched spiral progenitor.\n\nThe surrounding field displays an exceptional cross-section of cosmic morphology, from compact ellipticals to disturbed spirals. The prominent star TYC 4386-787-1 at the bottom serves as a classic reminder of projection effects: a single Milky Way star outshining clusters of galaxies hundreds of millions of light-years away."
+    },
+    "terms": [
+      {
+        "term": "lenticular galaxy",
+        "explanation": "A disk galaxy that has exhausted most of its gas and lacks distinct spiral arms."
+      },
+      {
+        "term": "Hubble's tuning fork",
+        "explanation": "A diagram used by astronomers to categorize galaxies based on their observed visual shape."
+      },
+      {
+        "term": "spiral galaxies",
+        "explanation": "Disk-shaped galaxies characterized by winding arms of stars, interstellar gas, and dust."
+      },
+      {
+        "term": "foreground star",
+        "explanation": "A star within the Milky Way that appears aligned in front of distant extragalactic objects."
+      },
+      {
+        "term": "galactic bulge",
+        "explanation": "A dense, spherical swarm of stars located at the center of disk galaxies."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What characterizes a lenticular galaxy?",
+        "options": [
+          "It lacks spiral arms but has a disk.",
+          "It consists almost entirely of dark matter.",
+          "It always has four symmetrical spiral arms."
+        ],
+        "correct": 0,
+        "fact": "Lenticular galaxies have a flat galactic disk like spiral galaxies, but they lack prominent arms and have very little ongoing star formation."
+      },
+      {
+        "q": "What do astronomers classify with Hubble's tuning fork?",
+        "options": [
+          "How quickly different galaxies are moving away.",
+          "The visual shape and structure of galaxies.",
+          "The chemical elements found inside distant stars."
+        ],
+        "correct": 1,
+        "fact": "Hubble's tuning fork is a classification diagram that organizes galaxies into elliptical, lenticular, and spiral categories based on their observed shape."
+      },
+      {
+        "q": "Why does the star at the bottom appear so bright?",
+        "options": [
+          "It is undergoing an enormous stellar explosion.",
+          "It is the most luminous known star.",
+          "It lies within the Milky Way, much closer."
+        ],
+        "correct": 2,
+        "fact": "Bright pinpoint stars visible across deep-sky images are foreground stars within our own galaxy that lie directly along our line of sight."
+      }
+    ]
+  }
+}

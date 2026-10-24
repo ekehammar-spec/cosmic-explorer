@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-24",
+  "title": "Sea Ice in the Bellingshausen Sea",
+  "title_sv": "Havsis i Bellingshausenhavet",
+  "place": "Bellingshausenhavet, Antarktis",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000582/GSFC_20171208_Archive_e000582~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000582/GSFC_20171208_Archive_e000582~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000582/GSFC_20171208_Archive_e000582~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000582",
+  "credit": "NASA Earth Observatory",
+  "source": "Credit: NASA Earth Observatory",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000582",
+  "archive": true,
+  "px": [
+    1024,
+    768
+  ],
+  "w": 640,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAH/8QAGBABAQEBAQAAAAAAAAAAAAAAAAEhETH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0goXzAIslmqXs0gCkCCQP//Z",
+  "levels": {
+    "barn": "Bilden visar is som flyter i havet nära Antarktis. Den är tagen den 5 november 2014 från ett flygplan som flög ganska lågt över vattnet. Det mesta du ser är ny havsis som har bildats under året. Längst till höger syns ett större och tjockare isblock. Det har brutit sig loss från den stora inlandsisen och blivit ett isberg. Isen ser ut att ligga ganska tätt i det kalla vattnet.",
+    "nyborjare": "Den här bilden från den 5 november 2014 visar ett område med havsis i Bellingshausenhavet utanför Antarktis. Fotot togs från ett forskningsflygplan på 328 meters höjd med en digital kamera som satt i flygplanets buk. Det mesta som syns i bilden är ettårig havsis, vilket är is som har bildats under det aktuella årets kalla säsong. Till höger syns ett större och äldre isblock. Det har en gång varit en del av den antarktiska inlandsisen men brutit sig loss och bildat ett isberg. Havsisen runt kontinenten brukar nå sin största utbredning i september och sin minsta i februari.",
+    "entusiast": "Fotot fångades den 5 november 2014 under NASA:s Operation IceBridge. Kameran som användes var ett Digital Mapping System, en digital kamera monterad i buken på forskningsflygplanet DC-8 för att avbilda terrängen nedanför. Flygplanet flög på en låg höjd av 328 meter över Bellingshausenhavet. Bilden visar huvudsakligen ettårig havsis som befann sig i sin årliga smältperiod. Havsisen kring Antarktis når vanligtvis sin maximala utbredning i september och sitt minimum i februari. Det stora isblocket till höger är äldre och tjockare och har tidigare suttit ihop med inlandsisen i Antarktis. När bilden togs hade detta block brutit sig loss och bildat ett isberg, och dess närhet till shelfisen antyder att det kunde röra sig om ett relativt nytt isberg."
+  },
+  "terms": [
+    {
+      "term": "Bellingshausenhavet",
+      "explanation": "Ett havsområde beläget vid Antarktis där mycket av den observerade havsisen fanns."
+    },
+    {
+      "term": "Operation IceBridge",
+      "explanation": "Ett forskningsinitiativ från NASA vars flygplan användes för att samla in mätningar och bilder."
+    },
+    {
+      "term": "Digital Mapping System",
+      "explanation": "Ett digitalt kamerasystem monterat i forskningsflygplanets buk för att fotografera underliggande terräng."
+    },
+    {
+      "term": "inlandsisen i Antarktis",
+      "explanation": "Den väldiga inlandsis som täcker Antarktis och som det stora isberget en gång satt fast i."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows ice floating in the ocean near Antarctica. It was taken on November 5, 2014, from an airplane flying quite low above the water. Most of what you see is new sea ice that formed during the year. Farther to the right, there is a larger and thicker block of ice. It broke away from the large ice sheet and became an iceberg.",
+      "nyborjare": "This photograph from November 5, 2014, shows an area of sea ice in the Bellingshausen Sea off the coast of Antarctica. The photo was captured from a research aircraft at an altitude of 328 meters using a digital camera installed in the belly of the plane. Most of the view displays first-year sea ice, which is ice formed during the current year's cold cycle. To the right, a larger and older block of ice is visible. It was once part of the Antarctic Ice Sheet but broke away to form an iceberg.",
+      "entusiast": "The photograph was acquired on November 5, 2014, during NASA's Operation IceBridge. The camera used was the Digital Mapping System, a digital camera installed in the belly of the research aircraft DC-8 to capture images of the terrain below. The aircraft flew at an altitude of 328 meters over the Bellingshausen Sea. The image primarily shows first-year sea ice undergoing its annual melt cycle. Sea ice around the continent typically peaks in September and reaches a minimum in February. The large block of ice on the right is older and thicker, having once been attached to the Antarctic Ice Sheet before breaking away to form an iceberg close to the ice sheet."
+    },
+    "terms": [
+      {
+        "term": "Bellingshausen Sea",
+        "explanation": "A body of water in the Southern Ocean where the sea ice was photographed."
+      },
+      {
+        "term": "Operation IceBridge",
+        "explanation": "A NASA research campaign utilizing aircraft to survey polar ice."
+      },
+      {
+        "term": "Digital Mapping System",
+        "explanation": "A digital camera system installed in research aircraft to capture imagery of the terrain below."
+      },
+      {
+        "term": "Antarctic Ice Sheet",
+        "explanation": "The massive ice sheet covering Antarctica from which the iceberg originally broke away."
+      }
+    ],
+    "place": "Bellingshausen Sea, Antarctica"
+  }
+}

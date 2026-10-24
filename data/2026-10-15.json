@@ -1,142 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Checks out a Home for Old Stars",
-  "title_sv": "Klotformiga stjärnhopen Terzan 1",
+  "title": "Hubble Catches a Transformation in the Virgo Constellation",
+  "title_sv": "Galaxen NGC 4388 i Jungfruns stjärnbild",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000498/GSFC_20171208_Archive_e000498~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000498/GSFC_20171208_Archive_e000498~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000498/GSFC_20171208_Archive_e000498~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000498",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000151/GSFC_20171208_Archive_e000151~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000151/GSFC_20171208_Archive_e000151~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000151/GSFC_20171208_Archive_e000151~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000151",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000498",
+  "id": "GSFC_20171208_Archive_e000151",
   "px": [
     1280,
-    1091
+    901
   ],
   "w": 640,
-  "h": 545,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAiEAEAAQMEAgMBAAAAAAAAAAABAgARIQMEMUESIiNRYRP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AOFIhCLGXs3EtxRoQ+NbmOr80LTgMBTC2qhstOMkFxxnuotQl5afqTlK9+uWgziQjFMjhL1b3m1jtYxY5eR5Gouuv9ET27WruxMhRujJtinYazaF8NuQ5/WkGcglAbRW9qJBSz2FGhO6+u6kWJKT4n3fNIzlK69/daZPml20nP7msTPlY9DxQObNv//Z",
+  "h": 450,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMFBgIEB//EACIQAAIBAwQCAwAAAAAAAAAAAAECAAMEEQUhMXESURQiQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A54RjggzIKTGUqLOdhJ/SdFFxVVahK+9uO/UCCSi5GMHeM+Ow5UjuWjUBZ6cDTQUWcbAqfKVy6ujUYnO0ByVlt8FB9uoNqlwqsqOVB5x+whA0Kld3OSSYhmJhCQf/2Q==",
   "quiz": [
     {
-      "q": "Varför har de flesta stjärnorna i hopen rödaktig färg?",
+      "q": "Vad kallas en grupp med tusentals samlade galaxer?",
       "options": [
-        "De är gamla och svalare stjärnor.",
-        "De är täckta av tjockt stoft.",
-        "De rör sig bort i hög fart."
+        "En galaxhop",
+        "En stjärnhop",
+        "En galaxarm"
       ],
       "correct": 0,
-      "fact": "Stjärnorna i klotformiga stjärnhopar hör till universums äldsta och lyser med ett rödaktigt sken när de åldras."
+      "fact": "En galaxhop är en stor samling av galaxer som hålls samman av gravitationskrafter."
     },
     {
-      "q": "Vad håller ihop stjärnorna i en klotformig stjärnhop?",
+      "q": "Vilken form har galaxen NGC 4388 trots sitt utseende?",
       "options": [
-        "Galaxens kraftiga magnetfält.",
-        "Stjärnornas gemensamma gravitationskraft.",
-        "Trycket från het rymdgas."
+        "En elliptisk galax",
+        "En spiralgalax",
+        "En oregelbunden galax"
       ],
       "correct": 1,
-      "fact": "Den ömsesidiga gravitationen mellan stjärnorna binder samman dem i en tät sfär."
+      "fact": "Trots att dess yttre ser slätt ut klassificeras den som en spiralgalax."
     },
     {
-      "q": "Vad orsakar röntgenstrålningen som upptäckts i Terzan 1?",
+      "q": "Vad visar de klara blå fläckarna i galaxen?",
       "options": [
-        "Planeter som kolliderar med varandra.",
-        "Kärnreaktioner i nyfödda stjärnor.",
-        "En neutronstjärna som slukar grannstjärnans gas."
+        "Gamla och kalla stjärnor",
+        "Unga och nyfödda stjärnor",
+        "Områden helt utan materia"
       ],
       "correct": 2,
-      "fact": "En tät neutronstjärna drar till sig material från en kompanjonstjärna, vilket hettar upp gasen så att röntgenstrålning uppstår."
+      "fact": "De blå fläckarna markerar områden där nya stjärnor nyligen har bildats."
     }
   ],
   "levels": {
-    "barn": "Här ser du en jättelik boll full av stjärnor som heter Terzan 1. Den kallas för en klotformig stjärnhop. Tänk dig en glittrande snöglob, fast i rymden och fylld med hundratusen stjärnor istället för snöflingor! De flesta stjärnorna i bollen lyser med ett rött sken eftersom de är jättegamla och har lyst i miljarder år. Några få blå stjärnor ser extra ljusa ut, men de råkar bara ligga närmare oss.",
-    "nyborjare": "Bilden visar Terzan 1, en klotformig stjärnhop som ligger cirka 20 000 ljusår bort i stjärnbilden Skorpionen. Vintergatan rymmer omkring 150 sådana hopar. De är täta, sfäriska samlingar av hundratusentals stjärnor som hålls samman av sin egen gravitation. De rödaktiga stjärnorna hör till hopens ursprungliga befolkning och är bland de äldsta objekten i vår galax. De bildades när galaxen var ung och ger astronomer ledtrådar om hur galaxer utvecklades i tidernas begynnelse. De klarblå stjärnorna i bilden tillhör inte hopen, utan råkar ligga i förgrunden mellan oss och Terzan 1. Hopen sänder också ut kraftig röntgenstrålning från heta dubbelstjärnor.",
-    "entusiast": "Rymdteleskopet Hubble fångade denna vy av Terzan 1 med kameran WFPC2. Hopen är belägen ungefär 20 000 ljusår från jorden i stjärnbilden Skorpionen. Klotformiga stjärnhopar är dynamiska laboratorier där stjärntätheten i kärnan kan vara tusentals gånger högre än i solens grannskap. Denna extrema täthet ökar sannolikheten för nära möten och bildandet av exotiska dubbelstjärnor. Terzan 1 är en känd källa till röntgenstrålning som genereras i röntgendubbelstjärnor med låg massa. I dessa system drar en kompakt neutronstjärna gravitationellt till sig materia från en vanlig följeslagare. När gasen faller in mot ytan frigörs enorma mängder energi i form av röntgenutbrott. Därefter inträder en lugnare fas där objektet svalnar innan kretsloppet upprepas. Eftersom stjärnorna i Terzan 1 bildades under Vintergatans tidigaste epok ger deras metallfattiga sammansättning och ålder viktiga ledtrådar om galaxens tidiga kemiska och dynamiska utveckling."
+    "barn": "Tänk dig en stor snurra långt ute i rymden som har blivit lite bråkig. Den här galaxen ser ut som en slät boll i kanten men har vackra armar i mitten fulla av blå prickar. Prickarna är faktiskt helt nya stjärnor som just har tänts likt små glödlampor. Den bor i en stor familj med massor av andra galaxer som ibland drar och sliter i varandra.",
+    "nyborjare": "I Jungfruns stjärnbild ligger en enorm samling som kallas för en galaxhop med över 1 300 galaxer. En av dem är spiralgalaxen NGC 4388 som befinner sig sextio miljoner ljusår bort från oss. Galaxen har fått en märklig identitet eftersom den dras med i tyngdkraften från sina många grannar. Medan dess yttre ser slätt ut som en elliptisk galax har mitten tydliga spiralarmar med unga, blå stjärnor som nyligen har bildats genom intensiv stjärnbildning.",
+    "entusiast": "Fångad av NASA och ESA med rymdteleskopet Hubbles Wide Field Camera 3 visar denna bild upp galaxen NGC 4388 i Jungfruns stjärnbild. Medlemmar i den massiva galaxhopen Virgo Cluster upplever ofta våldsamma effekter. NGC 4388 befinner sig sextio miljoner ljusår bort och uppvisar en paradoxal morfologi. Dess yttre regioner är släta och påminner om en elliptisk galax, men dess kärna har symmetriska stoftband och aktiva spiralarmar där unga stjärnor indikerar färska skurar av stjärnbildning. Dessa ovanliga särdrag tros vara resultatet av gravitationella interaktioner med andra medlemmar i hopen, såsom tidvattenkrafter, förbipasserande kollisioner eller galaktisk kannibalism som helt kan omdana en galax inre struktur."
   },
   "terms": [
     {
-      "term": "klotformig stjärnhop",
-      "explanation": "En tät, sfärisk samling av tiotusentals till miljontals gamla stjärnor som binds samman av gravitation."
+      "term": "galax",
+      "explanation": "Ett enormt system av stjärnor, gas, stoft och mörk materia som hålls samman av tyngdkraften."
+    },
+    {
+      "term": "spiralgalax",
+      "explanation": "En typ av galax som har en roterande skiva med ljusstarka spiralarmar som sträcker sig ut från kärnan."
+    },
+    {
+      "term": "elliptisk galax",
+      "explanation": "En äggformad eller klotformad samling stjärnor som saknar tydliga spiralarmar."
+    },
+    {
+      "term": "galaxhop",
+      "explanation": "En stor grupp av galaxer som är bundna till varandra genom ömsesidig gravitation."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som ljuset färdas i vakuum under ett år, cirka 9,46 biljoner kilometer."
-    },
-    {
-      "term": "gravitation",
-      "explanation": "Den universella kraft som gör att kroppar med massa dras mot varandra."
-    },
-    {
-      "term": "röntgenstrålning",
-      "explanation": "Mycket energirik elektromagnetisk strålning med kortare våglängd än ultraviolett ljus."
-    },
-    {
-      "term": "neutronstjärna",
-      "explanation": "Den extremt kompakta och täta resten efter en massiv stjärna som exploderat i en supernova."
+      "explanation": "Det avstånd som ljuset hinner färdas under ett helt jordår."
     }
   ],
   "en": {
     "levels": {
-      "barn": "This is a giant ball of stars named Terzan 1. It is called a globular cluster. Picture a sparkling snow globe floating in space, but packed with about a hundred thousand stars instead of snowflakes! Most stars in the cluster look red because they are very old. The few bright blue sparkles do not belong to the ball at all; they are just neighbor stars sitting much closer to our telescope.",
-      "nyborjare": "This image showcases Terzan 1, a globular cluster located about 20,000 light-years away in the constellation Scorpius. The Milky Way hosts around 150 such clusters. They are tightly bound, spherical swarms of hundreds of thousands of stars held together by mutual gravitation. The reddish stars are the true residents and rank among the oldest stars in our galaxy, having formed when the Milky Way was young. Studying them helps scientists decode how galaxies originally took shape. The bright blue stars in the view are foreground stars that simply lie along our line of sight. Terzan 1 also produces strong X-ray emission from interacting pairs of stars.",
-      "entusiast": "Captured by the Hubble Space Telescope using WFPC2, this view highlights Terzan 1, situated roughly 20,000 light-years from Earth in Scorpius. Globular clusters are dense stellar laboratories where stellar density near the core can be thousands of times higher than in the solar neighborhood. This crowded environment fosters dynamical interactions and the creation of exotic binaries. Terzan 1 is notable as an X-ray source powered by low-mass X-ray binaries. In these systems, a compact neutron star strips material from an ordinary stellar companion. Accretion onto the relativistic primary triggers luminous X-ray outbursts, followed by quiescent cooling phases as matter replenishes. Because these cluster stars formed during the Milky Way's infancy, their low metallicity and age provide valuable constraints on early galactic formation."
+      "barn": "Imagine a giant spinning pinwheel far out in space that looks a bit confused. This galaxy looks smooth on the outside like a ball, but has beautiful arms in the middle full of blue dots. Those dots are actually brand new stars lighting up like tiny bulbs. It lives in a huge family with many other galaxies that sometimes pull on each other.",
+      "nyborjare": "In the constellation of Virgo lies a massive collection called a galaxy cluster containing more than 1 300 galaxies. One of them is the spiral galaxy NGC 4388, located sixty million light-years away from us. The galaxy has taken on a strange identity because it is affected by the gravity of its many neighbors. While its outer parts look smooth like an elliptical galaxy, the center has clear spiral arms with young, blue stars that formed recently through star formation.",
+      "entusiast": "Captured by NASA and ESA using the Hubble Space Telescope's Wide Field Camera 3, this image shows the galaxy NGC 4388 in the Virgo constellation. Members of the massive Virgo Cluster often experience dramatic environmental effects. Located sixty million light-years away, NGC 4388 exhibits a paradoxical morphology. Its outer regions appear smooth, resembling an elliptical galaxy, yet its core displays symmetric dust lanes and active spiral arms where young stars indicate recent bursts of star formation. These unusual features are believed to stem from gravitational interactions with other galaxies in the cluster, such as tidal forces, collisions, or galactic cannibalism that can thoroughly alter a galaxy's structure."
     },
     "terms": [
       {
-        "term": "globular cluster",
-        "explanation": "A densely packed, spherical collection of ancient stars bound together by their mutual gravitational pull."
+        "term": "galaxy",
+        "explanation": "A massive system of stars, gas, dust, and dark matter bound together by gravity."
       },
       {
-        "term": "light-years",
-        "explanation": "A unit of astronomical distance equal to the distance light travels in one year."
+        "term": "spiral galaxy",
+        "explanation": "A type of galaxy featuring a rotating disk with bright spiral arms extending from the core."
       },
       {
-        "term": "gravitation",
-        "explanation": "The fundamental force of attraction acting between all masses in the universe."
+        "term": "elliptical galaxy",
+        "explanation": "An egg-shaped or spherical collection of stars lacking distinct spiral arms."
       },
       {
-        "term": "neutron star",
-        "explanation": "The ultra-dense remnant collapsed core of a massive star destroyed in a supernova explosion."
+        "term": "galaxy cluster",
+        "explanation": "A large group of galaxies bound together by mutual gravitational attraction."
       },
       {
-        "term": "X-ray",
-        "explanation": "A highly energetic form of electromagnetic radiation with wavelengths shorter than ultraviolet light."
+        "term": "light-year",
+        "explanation": "The distance that light travels through a vacuum in one Earth year."
       }
     ],
     "quiz": [
       {
-        "q": "Why do most stars in the cluster appear reddish?",
+        "q": "What is a massive collection of bound galaxies called?",
         "options": [
-          "They are old and cooler stars.",
-          "They are shrouded in cosmic dust.",
-          "They are moving away rapidly."
+          "A galaxy cluster",
+          "A star cluster",
+          "A spiral arm"
         ],
         "correct": 0,
-        "fact": "Globular cluster stars are ancient and naturally glow with a cooler, reddish light."
+        "fact": "A galaxy cluster is a large collection of galaxies held together by gravitational forces."
       },
       {
-        "q": "What holds the stars in a globular cluster together?",
+        "q": "What type of galaxy is NGC 4388 classified as?",
         "options": [
-          "A strong galactic magnetic field.",
-          "Their mutual gravitational attraction.",
-          "Pressure from hot interstellar gas."
+          "An elliptical galaxy",
+          "A spiral galaxy",
+          "An irregular galaxy"
         ],
         "correct": 1,
-        "fact": "Mutual gravity keeps hundreds of thousands of stars tightly bound into a spherical swarm."
+        "fact": "Despite mixed features in its outer and inner regions, it is classified as a spiral galaxy."
       },
       {
-        "q": "What causes the X-rays detected from Terzan 1?",
+        "q": "What do the bright blue speckles in the arms indicate?",
         "options": [
-          "Planets colliding with each other.",
-          "Nuclear reactions in newborn stars.",
-          "A neutron star feeding on its companion."
+          "Old and cold stars",
+          "Young and newly formed stars",
+          "Areas completely devoid of matter"
         ],
         "correct": 2,
-        "fact": "Matter pulled from a companion star onto a dense neutron star heats up and releases X-ray bursts."
+        "fact": "The blue speckles mark locations where young stars have recently formed."
       }
     ]
   }
