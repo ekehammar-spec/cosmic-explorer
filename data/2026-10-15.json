@@ -1,142 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Catches a Transformation in the Virgo Constellation",
-  "title_sv": "Galaxen NGC 4388 i Jungfruns stjärnbild",
+  "title": "Evolution in slow motion",
+  "title_sv": "NGC 3921: Galaxkrock i slowmotion",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000151/GSFC_20171208_Archive_e000151~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000151/GSFC_20171208_Archive_e000151~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000151/GSFC_20171208_Archive_e000151~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000151",
+  "url": "https://images-assets.nasa.gov/image/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2015",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000151",
+  "id": "hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o",
   "px": [
     1280,
-    901
+    1225
   ],
   "w": 640,
-  "h": 450,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMFBgIEB//EACIQAAIBAwQCAwAAAAAAAAAAAAECAAMEEQUhMXESURQiQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A54RjggzIKTGUqLOdhJ/SdFFxVVahK+9uO/UCCSi5GMHeM+Ow5UjuWjUBZ6cDTQUWcbAqfKVy6ujUYnO0ByVlt8FB9uoNqlwqsqOVB5x+whA0Kld3OSSYhmJhCQf/2Q==",
+  "h": 612,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAgEDBAUGB//EACQQAAICAgEDBAMAAAAAAAAAAAECABEDBCESEzEFBlFhQXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A59icJkViquAeVbwfqPDEM+U9lSqk2FJuv7GAJofbumNxyoIDeBcgqs2iyYywYEjyJEI6eDNH6oi6iZEsF+VJBuZtuTc0hT00tWTXN/P1JujtZNZg+JirfIMgXCVysgsNrYfMvVkNkm5XN5MPuF2VWPF1+oOQBcjAGwCRZ/MD/9k=",
   "quiz": [
     {
-      "q": "Vad kallas en grupp med tusentals samlade galaxer?",
+      "q": "Vad händer oftast när två stora spiralgalaxer krockar?",
       "options": [
-        "En galaxhop",
-        "En stjärnhop",
-        "En galaxarm"
+        "De smälter samman till en elliptisk galax",
+        "Stjärnorna krockar och förintas i explosioner",
+        "De studsar bort från varandra igen"
       ],
       "correct": 0,
-      "fact": "En galaxhop är en stor samling av galaxer som hålls samman av gravitationskrafter."
+      "fact": "Galaxer smälter oftast samman till en stor elliptisk galax eftersom stjärnorna sällan kolliderar direkt med varandra."
     },
     {
-      "q": "Vilken form har galaxen NGC 4388 trots sitt utseende?",
+      "q": "Varför bildas nya stjärnor när två galaxer kolliderar?",
       "options": [
-        "En elliptisk galax",
-        "En spiralgalax",
-        "En oregelbunden galax"
+        "Svarta hål slungar ut färdiga stjärnor",
+        "Gas och stoft pressas samman kraftigt",
+        "Kosmisk strålning värmer upp tom rymd"
       ],
       "correct": 1,
-      "fact": "Trots att dess yttre ser slätt ut klassificeras den som en spiralgalax."
+      "fact": "Kolliderande gasmoln komprimeras kraftigt av gravitation och chockvågor, vilket sätter igång en intensiv våg av stjärnfödslar."
     },
     {
-      "q": "Vad visar de klara blå fläckarna i galaxen?",
+      "q": "I vilken stjärnbild ligger det krockande galaxparet NGC 3921?",
       "options": [
-        "Gamla och kalla stjärnor",
-        "Unga och nyfödda stjärnor",
-        "Områden helt utan materia"
+        "Orion",
+        "Cassiopeia",
+        "Stora björnen"
       ],
       "correct": 2,
-      "fact": "De blå fläckarna markerar områden där nya stjärnor nyligen har bildats."
+      "fact": "NGC 3921 ligger i stjärnbilden Stora björnen på ungefär 270 miljoner ljusårs avstånd."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor snurra långt ute i rymden som har blivit lite bråkig. Den här galaxen ser ut som en slät boll i kanten men har vackra armar i mitten fulla av blå prickar. Prickarna är faktiskt helt nya stjärnor som just har tänts likt små glödlampor. Den bor i en stor familj med massor av andra galaxer som ibland drar och sliter i varandra.",
-    "nyborjare": "I Jungfruns stjärnbild ligger en enorm samling som kallas för en galaxhop med över 1 300 galaxer. En av dem är spiralgalaxen NGC 4388 som befinner sig sextio miljoner ljusår bort från oss. Galaxen har fått en märklig identitet eftersom den dras med i tyngdkraften från sina många grannar. Medan dess yttre ser slätt ut som en elliptisk galax har mitten tydliga spiralarmar med unga, blå stjärnor som nyligen har bildats genom intensiv stjärnbildning.",
-    "entusiast": "Fångad av NASA och ESA med rymdteleskopet Hubbles Wide Field Camera 3 visar denna bild upp galaxen NGC 4388 i Jungfruns stjärnbild. Medlemmar i den massiva galaxhopen Virgo Cluster upplever ofta våldsamma effekter. NGC 4388 befinner sig sextio miljoner ljusår bort och uppvisar en paradoxal morfologi. Dess yttre regioner är släta och påminner om en elliptisk galax, men dess kärna har symmetriska stoftband och aktiva spiralarmar där unga stjärnor indikerar färska skurar av stjärnbildning. Dessa ovanliga särdrag tros vara resultatet av gravitationella interaktioner med andra medlemmar i hopen, såsom tidvattenkrafter, förbipasserande kollisioner eller galaktisk kannibalism som helt kan omdana en galax inre struktur."
+    "barn": "Tänk dig två jättelika degklumpar som knådas ihop till en enda stor bulle. Precis så fungerar galaxparet NGC 3921! För länge sedan var de två skilda galaxer med miljarder stjärnor. Sedan krockade de med varandra i rymden. Krocken tar hundratals miljoner år, så allting rör sig superlångsamt. När gasen i galaxerna trycktes ihop tändes massor av nya stjärnor. Nu håller de två galaxerna på att smälta samman till en enda jättegalax.",
+    "nyborjare": "Bilden från 2015 visar galaxparet NGC 3921 i stjärnbilden Stora björnen. Här ser vi två skivgalaxer som befinner sig i slutskedet av en våldsam sammanslagning. Kollisionen inleddes för omkring 700 miljoner år sedan när galaxerna drogs mot varandra genom gravitation.\n\nNär galaxer kolliderar krockar stjärnorna ytterst sällan direkt, eftersom avstånden mellan dem är enorma. Däremot slås de vidsträckta molnen av gas och stoft samman. Denna kosmiska chockvåg pressar ihop gasen och startar en intensiv stjärnbildning. I centrum har rymdteleskopet Hubble upptäckt mer än tusen unga stjärnhopar. Med tiden kommer det kaotiska systemet att lugna ner sig och bilda en elliptisk galax.",
+    "entusiast": "Det interagerande systemet NGC 3921 i stjärnbilden Stora björnen fångades i denna detaljrika observation från 2015 av rymdteleskopet Hubble. Systemet består av två massmässigt likvärdiga skivgalaxer som inledde sin kollision för ungefär 700 miljoner år sedan.\n\nBilden uppvisar karakteristiska tecken på en sen sammanslagningsfas. Gravitationella tidvattenkrafter har slitit ut långsträckta svansar och slingor av stjärnor och gas, vilket skapar systemets störda morfologi. Medan enskilda stjärnor passerar förbi varandra utan fysisk kontakt på grund av den låga stjärntätheten, genomgår den interstellära gasen stark hydrodynamisk kompression. Denna chockvåg har utlöst en intensiv starburst, där Hubble har identifierat över tusen nybildade stjärnhopar i kärnområdet.\n\nNGC 3921 utgör ett värdefullt laboratorium för att studera övergången från spiralgalaxer till en elliptisk galax. Observationer av sådana system ger avgörande insikter i hur hierarkisk strukturuppbyggnad formar universum över kosmologiska tidsskalor, en process som även väntar Vintergatan och Andromedagalaxen om några miljarder år."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt system av stjärnor, gas, stoft och mörk materia som hålls samman av tyngdkraften."
-    },
-    {
-      "term": "spiralgalax",
-      "explanation": "En typ av galax som har en roterande skiva med ljusstarka spiralarmar som sträcker sig ut från kärnan."
-    },
-    {
       "term": "elliptisk galax",
-      "explanation": "En äggformad eller klotformad samling stjärnor som saknar tydliga spiralarmar."
+      "explanation": "En typ av galax med rund eller oval form som främst består av äldre stjärnor och har lite ny stjärnbildning."
     },
     {
-      "term": "galaxhop",
-      "explanation": "En stor grupp av galaxer som är bundna till varandra genom ömsesidig gravitation."
+      "term": "stjärnbildning",
+      "explanation": "Den fysikaliska process där täta moln av gas och stoft i rymden drar ihop sig och bildar nya stjärnor."
     },
     {
-      "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas under ett helt jordår."
+      "term": "starburst",
+      "explanation": "En period av exceptionellt intensiv bildning av nya stjärnor i en galax, ofta utlöst av en galaxkollision."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den universella kraft som gör att all massa i rymden dras till annan massa och håller samman galaxer."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant spinning pinwheel far out in space that looks a bit confused. This galaxy looks smooth on the outside like a ball, but has beautiful arms in the middle full of blue dots. Those dots are actually brand new stars lighting up like tiny bulbs. It lives in a huge family with many other galaxies that sometimes pull on each other.",
-      "nyborjare": "In the constellation of Virgo lies a massive collection called a galaxy cluster containing more than 1 300 galaxies. One of them is the spiral galaxy NGC 4388, located sixty million light-years away from us. The galaxy has taken on a strange identity because it is affected by the gravity of its many neighbors. While its outer parts look smooth like an elliptical galaxy, the center has clear spiral arms with young, blue stars that formed recently through star formation.",
-      "entusiast": "Captured by NASA and ESA using the Hubble Space Telescope's Wide Field Camera 3, this image shows the galaxy NGC 4388 in the Virgo constellation. Members of the massive Virgo Cluster often experience dramatic environmental effects. Located sixty million light-years away, NGC 4388 exhibits a paradoxical morphology. Its outer regions appear smooth, resembling an elliptical galaxy, yet its core displays symmetric dust lanes and active spiral arms where young stars indicate recent bursts of star formation. These unusual features are believed to stem from gravitational interactions with other galaxies in the cluster, such as tidal forces, collisions, or galactic cannibalism that can thoroughly alter a galaxy's structure."
+      "barn": "Imagine two giant balls of dough being kneaded together into one single big bun. That is exactly how this galaxy pair called NGC 3921 works! Long ago, they were two separate galaxies full of billions of stars. Then they crashed into each other in space. This collision takes hundreds of millions of years, so everything moves super slowly. When cosmic gas was squeezed together, thousands of new stars were born. Now both galaxies are melting together into one giant galaxy.",
+      "nyborjare": "This image from 2015 shows the galaxy pair NGC 3921, located in the constellation Ursa Major. Here we see two disc galaxies in the late stages of a collision. The crash began about 700 million years ago when the pair was drawn together through gravity.\n\nWhen galaxies collide, stars almost never hit one another directly because empty space between them is so vast. However, giant clouds of gas and dust do smash together. This cosmic shockwave compresses the gas and triggers rapid star formation. At the center of the merger, the Hubble Space Telescope revealed over a thousand young star clusters. Over time, the distorted system will settle down to form a smooth elliptical galaxy.",
+      "entusiast": "The interacting system NGC 3921, located approximately 270 million light-years away in Ursa Major, was captured in this detailed 2015 observation from the Hubble Space Telescope. The system consists of two disc galaxies of comparable mass that began merging roughly 700 million years ago.\n\nThe image displays unmistakable signatures of a late-stage galactic merger, including extended tidal tails and loops created by gravitational forces. While individual stars pass by each other unharmed due to low stellar density, the interstellar medium undergoes severe hydrodynamic compression. This shock has ignited a powerful starburst, with Hubble resolving over a thousand young, luminous star clusters within the core.\n\nNGC 3921 serves as an ideal nearby laboratory to investigate the transformation of spiral systems into an elliptical galaxy. Studying such mergers provides fundamental insights into hierarchical structure formation across cosmological timescales, a fate that also awaits our Milky Way when it collides with Andromeda."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system of stars, gas, dust, and dark matter bound together by gravity."
-      },
-      {
-        "term": "spiral galaxy",
-        "explanation": "A type of galaxy featuring a rotating disk with bright spiral arms extending from the core."
-      },
-      {
         "term": "elliptical galaxy",
-        "explanation": "An egg-shaped or spherical collection of stars lacking distinct spiral arms."
+        "explanation": "A smooth, rounded type of galaxy composed mainly of older stars with very little ongoing star formation."
       },
       {
-        "term": "galaxy cluster",
-        "explanation": "A large group of galaxies bound together by mutual gravitational attraction."
+        "term": "star formation",
+        "explanation": "The astrophysical process by which dense clouds of interstellar gas and dust collapse to create new stars."
       },
       {
-        "term": "light-year",
-        "explanation": "The distance that light travels through a vacuum in one Earth year."
+        "term": "starburst",
+        "explanation": "A period of exceptionally rapid and intense creation of new stars, often triggered by colliding galaxies."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The fundamental attractive force between masses that governs the orbits and collisions of celestial bodies."
       }
     ],
     "quiz": [
       {
-        "q": "What is a massive collection of bound galaxies called?",
+        "q": "What usually happens when two large spiral galaxies collide?",
         "options": [
-          "A galaxy cluster",
-          "A star cluster",
-          "A spiral arm"
+          "They merge into an elliptical galaxy",
+          "Stars collide and destroy each other",
+          "They bounce off each other into space"
         ],
         "correct": 0,
-        "fact": "A galaxy cluster is a large collection of galaxies held together by gravitational forces."
+        "fact": "Galaxies usually merge into an elliptical galaxy because stars rarely collide directly due to vast distances between them."
       },
       {
-        "q": "What type of galaxy is NGC 4388 classified as?",
+        "q": "Why do new stars form when two galaxies collide?",
         "options": [
-          "An elliptical galaxy",
-          "A spiral galaxy",
-          "An irregular galaxy"
+          "Black holes expel fully formed stars",
+          "Gas and dust are compressed violently",
+          "Cosmic rays heat up empty space"
         ],
         "correct": 1,
-        "fact": "Despite mixed features in its outer and inner regions, it is classified as a spiral galaxy."
+        "fact": "Giant colliding gas clouds are compressed by gravity and shock waves, triggering the rapid birth of thousands of stars."
       },
       {
-        "q": "What do the bright blue speckles in the arms indicate?",
+        "q": "In which constellation does the merging galaxy pair NGC 3921 lie?",
         "options": [
-          "Old and cold stars",
-          "Young and newly formed stars",
-          "Areas completely devoid of matter"
+          "Orion",
+          "Cassiopeia",
+          "Ursa Major"
         ],
         "correct": 2,
-        "fact": "The blue speckles mark locations where young stars have recently formed."
+        "fact": "NGC 3921 is located about 270 million light-years away in the constellation of Ursa Major."
       }
     ]
   }
