@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Evolution in slow motion",
-  "title_sv": "NGC 3921: Galaxkrock i slowmotion",
+  "title": "A youthful cluster",
+  "title_sv": "NGC 1783",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o",
+  "url": "https://images-assets.nasa.gov/image/hubble-sees-a-youthful-cluster_20330747093_o/hubble-sees-a-youthful-cluster_20330747093_o~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-sees-a-youthful-cluster_20330747093_o/hubble-sees-a-youthful-cluster_20330747093_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-sees-a-youthful-cluster_20330747093_o/hubble-sees-a-youthful-cluster_20330747093_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-sees-a-youthful-cluster_20330747093_o",
   "credit": "NASA/GSFC",
   "taken": "2015",
   "src": "library",
-  "id": "hubble-observes-galaxies-evolution-in-slow-motion_21332929580_o",
+  "id": "hubble-sees-a-youthful-cluster_20330747093_o",
   "px": [
     1280,
-    1225
+    753
   ],
   "w": 640,
-  "h": 612,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAgEDBAUGB//EACQQAAICAgEDBAMAAAAAAAAAAAECABEDBCESEzEFBlFhQXGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A59icJkViquAeVbwfqPDEM+U9lSqk2FJuv7GAJofbumNxyoIDeBcgqs2iyYywYEjyJEI6eDNH6oi6iZEsF+VJBuZtuTc0hT00tWTXN/P1JujtZNZg+JirfIMgXCVysgsNrYfMvVkNkm5XN5MPuF2VWPF1+oOQBcjAGwCRZ/MD/9k=",
+  "h": 376,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgb/xAAjEAABAwQCAQUAAAAAAAAAAAABAAIRAwQhMQUSFCJBUWFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AOHpCTkSFa4+x8gjqInSi03Rhut/JVjjL51ucOiExDk7A20iM/WlFqAz+q7f3nkjvJJOVEqj1TkHcoaKBTqRI6mcoQoRtznEwSYSiYDx7QEIUX//2Q==",
   "quiz": [
     {
-      "q": "Vad händer oftast när två stora spiralgalaxer krockar?",
+      "q": "Vad är en klotformig stjärnhop?",
       "options": [
-        "De smälter samman till en elliptisk galax",
-        "Stjärnorna krockar och förintas i explosioner",
-        "De studsar bort från varandra igen"
-      ],
-      "correct": 0,
-      "fact": "Galaxer smälter oftast samman till en stor elliptisk galax eftersom stjärnorna sällan kolliderar direkt med varandra."
-    },
-    {
-      "q": "Varför bildas nya stjärnor när två galaxer kolliderar?",
-      "options": [
-        "Svarta hål slungar ut färdiga stjärnor",
-        "Gas och stoft pressas samman kraftigt",
-        "Kosmisk strålning värmer upp tom rymd"
+        "En ensam stjärna som håller på att dö",
+        "Täta samlingar av stjärnor som hålls ihop av gravitation",
+        "En samling planeter som kretsar runt ett svart hål"
       ],
       "correct": 1,
-      "fact": "Kolliderande gasmoln komprimeras kraftigt av gravitation och chockvågor, vilket sätter igång en intensiv våg av stjärnfödslar."
+      "fact": "Klotformiga stjärnhopar är tätt packade grupper av hundratusentals stjärnor som binds samman av sin egen ömsesidiga dragningskraft."
     },
     {
-      "q": "I vilken stjärnbild ligger det krockande galaxparet NGC 3921?",
+      "q": "Hur skapas nya stjärnor inuti en stjärnhop?",
       "options": [
-        "Orion",
-        "Cassiopeia",
-        "Stora björnen"
+        "Genom att interstellär gas pressas samman och tätheten ökar",
+        "När stora planeter kolliderar och smälter samman",
+        "Genom att äldre stjärnor spricker itu i mindre delar"
       ],
-      "correct": 2,
-      "fact": "NGC 3921 ligger i stjärnbilden Stora björnen på ungefär 270 miljoner ljusårs avstånd."
+      "correct": 0,
+      "fact": "Stjärnor föds när stora moln av gas och stoft drar ihop sig på grund av gravitationen tills trycket startar kärnfusion."
+    },
+    {
+      "q": "Var ligger det Stora magellanska molnet?",
+      "options": [
+        "Inne i kärnan av Vintergatan",
+        "Som en satellitgalax till vår egen galax",
+        "Långt bort i stjärnbilden Stora hunden"
+      ],
+      "correct": 1,
+      "fact": "Stora magellanska molnet är en mindre dvärggalax som kretsar runt vår egen galax Vintergatan."
     }
   ],
   "levels": {
-    "barn": "Tänk dig två jättelika degklumpar som knådas ihop till en enda stor bulle. Precis så fungerar galaxparet NGC 3921! För länge sedan var de två skilda galaxer med miljarder stjärnor. Sedan krockade de med varandra i rymden. Krocken tar hundratals miljoner år, så allting rör sig superlångsamt. När gasen i galaxerna trycktes ihop tändes massor av nya stjärnor. Nu håller de två galaxerna på att smälta samman till en enda jättegalax.",
-    "nyborjare": "Bilden från 2015 visar galaxparet NGC 3921 i stjärnbilden Stora björnen. Här ser vi två skivgalaxer som befinner sig i slutskedet av en våldsam sammanslagning. Kollisionen inleddes för omkring 700 miljoner år sedan när galaxerna drogs mot varandra genom gravitation.\n\nNär galaxer kolliderar krockar stjärnorna ytterst sällan direkt, eftersom avstånden mellan dem är enorma. Däremot slås de vidsträckta molnen av gas och stoft samman. Denna kosmiska chockvåg pressar ihop gasen och startar en intensiv stjärnbildning. I centrum har rymdteleskopet Hubble upptäckt mer än tusen unga stjärnhopar. Med tiden kommer det kaotiska systemet att lugna ner sig och bilda en elliptisk galax.",
-    "entusiast": "Det interagerande systemet NGC 3921 i stjärnbilden Stora björnen fångades i denna detaljrika observation från 2015 av rymdteleskopet Hubble. Systemet består av två massmässigt likvärdiga skivgalaxer som inledde sin kollision för ungefär 700 miljoner år sedan.\n\nBilden uppvisar karakteristiska tecken på en sen sammanslagningsfas. Gravitationella tidvattenkrafter har slitit ut långsträckta svansar och slingor av stjärnor och gas, vilket skapar systemets störda morfologi. Medan enskilda stjärnor passerar förbi varandra utan fysisk kontakt på grund av den låga stjärntätheten, genomgår den interstellära gasen stark hydrodynamisk kompression. Denna chockvåg har utlöst en intensiv starburst, där Hubble har identifierat över tusen nybildade stjärnhopar i kärnområdet.\n\nNGC 3921 utgör ett värdefullt laboratorium för att studera övergången från spiralgalaxer till en elliptisk galax. Observationer av sådana system ger avgörande insikter i hur hierarkisk strukturuppbyggnad formar universum över kosmologiska tidsskalor, en process som även väntar Vintergatan och Andromedagalaxen om några miljarder år."
+    "barn": "Tänk dig en gigantiskt stor boll som glittrar i mörkret av tusentals och åter tusentals pyttesmå diamanter. Det är precis så här en stjärnhop ser ut när den tittar fram på himlen. Stjärnorna sitter så tätt packade att det nästan ser ut som en lysande sockervaddstuss långt borta i rymden.",
+    "nyborjare": "Bilden visar stjärnhopen NGC 1783 som först observerades av John Herschel redan år 1835. Den befinner sig på ett avstånd av nästan 160 000 ljusår från jorden i det Stora magellanska molnet, som är en satellitgalax till Vintergatan. NGC 1783 är en klotformig stjärnhop, vilket innebär att den utgörs av en tät samling stjärnor som hålls samman av sin egen tyngdkraft. Astronomer tror att hopen är under 1,5 miljarder år gammal, vilket är mycket ungt för att vara en sådan här struktur. Under sin historia har den bildat stjärnor i omgångar tack vare att gas har ansamlats i dess mitt.",
+    "entusiast": "NGC 1783 är en av de största klotformiga stjärnhoparna i det Stora magellanska molnet och fångades här av rymdteleskopet Hubble med kameran Advanced Camera for Surveys. Med en massa som motsvarar omkring 170 000 gånger solens massa uppvisar hopen den typiska symmetriska formen och centrala stjärntätheten för sin klass. Genom att mäta enskilda stjärnors färg och ljusstyrka har forskare kunnat urskilja att hopen har genomgått minst två distinkta perioder av stjärnbildning separerade med 50 till 100 miljoner år. Detta kretslopp drivs av att massiva stjärnor från den första formationstoppen exploderar som supernovor och blåser bort den omgivande gasen, varefter mindre massiva stjärnor långsamt fyller på gasreservoaren igen tills en ny fas kan ta vid."
   },
   "terms": [
     {
-      "term": "elliptisk galax",
-      "explanation": "En typ av galax med rund eller oval form som främst består av äldre stjärnor och har lite ny stjärnbildning."
+      "term": "stjärnhop",
+      "explanation": "En stor och sammanhängande grupp av stjärnor som bildats tillsammans och binds samman av ömsesidig gravitation."
     },
     {
-      "term": "stjärnbildning",
-      "explanation": "Den fysikaliska process där täta moln av gas och stoft i rymden drar ihop sig och bildar nya stjärnor."
+      "term": "galax",
+      "explanation": "Ett enormt system i rymden som samlar miljarder stjärnor, gas, stoft och mörk materia kring ett gemensamt centrum."
     },
     {
-      "term": "starburst",
-      "explanation": "En period av exceptionellt intensiv bildning av nya stjärnor i en galax, ofta utlöst av en galaxkollision."
+      "term": "supernova",
+      "explanation": "Den våldsamma och extremt ljusstarka explosionen av en döende massiv stjärna som lyser upp kosmos."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den universella kraft som gör att all massa i rymden dras till annan massa och håller samman galaxer."
+      "term": "ljusår",
+      "explanation": "Det avstånd som en ljusstråle hinner färdas på ett helt jordår i det tomma rymdvakuumet."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine two giant balls of dough being kneaded together into one single big bun. That is exactly how this galaxy pair called NGC 3921 works! Long ago, they were two separate galaxies full of billions of stars. Then they crashed into each other in space. This collision takes hundreds of millions of years, so everything moves super slowly. When cosmic gas was squeezed together, thousands of new stars were born. Now both galaxies are melting together into one giant galaxy.",
-      "nyborjare": "This image from 2015 shows the galaxy pair NGC 3921, located in the constellation Ursa Major. Here we see two disc galaxies in the late stages of a collision. The crash began about 700 million years ago when the pair was drawn together through gravity.\n\nWhen galaxies collide, stars almost never hit one another directly because empty space between them is so vast. However, giant clouds of gas and dust do smash together. This cosmic shockwave compresses the gas and triggers rapid star formation. At the center of the merger, the Hubble Space Telescope revealed over a thousand young star clusters. Over time, the distorted system will settle down to form a smooth elliptical galaxy.",
-      "entusiast": "The interacting system NGC 3921, located approximately 270 million light-years away in Ursa Major, was captured in this detailed 2015 observation from the Hubble Space Telescope. The system consists of two disc galaxies of comparable mass that began merging roughly 700 million years ago.\n\nThe image displays unmistakable signatures of a late-stage galactic merger, including extended tidal tails and loops created by gravitational forces. While individual stars pass by each other unharmed due to low stellar density, the interstellar medium undergoes severe hydrodynamic compression. This shock has ignited a powerful starburst, with Hubble resolving over a thousand young, luminous star clusters within the core.\n\nNGC 3921 serves as an ideal nearby laboratory to investigate the transformation of spiral systems into an elliptical galaxy. Studying such mergers provides fundamental insights into hierarchical structure formation across cosmological timescales, a fate that also awaits our Milky Way when it collides with Andromeda."
+      "barn": "Imagine a giant ball glittering in the darkness with thousands and thousands of tiny diamonds. That is exactly what this star cluster looks like when it shines in the sky. The stars sit so tightly packed together that it almost looks like a glowing ball of cotton candy far away in space.",
+      "nyborjare": "The image shows the globular cluster NGC 1783, first observed by John Herschel back in 1835. It is located nearly 160,000 light-years from Earth in the Large Magellanic Cloud, a satellite galaxy of the Milky Way. NGC 1783 is a globular cluster, meaning it is a dense collection of stars held together by its own gravity. Astronomers believe the cluster is under one and a half billion years old, which is very young for this type of object. Throughout its history, it has formed stars in distinct periods thanks to gas accumulating in its center.",
+      "entusiast": "NGC 1783 is one of the largest globular clusters in the Large Magellanic Cloud and was captured here by the Hubble Space Telescope using its Advanced Camera for Surveys. With a mass of around 170,000 times that of the Sun, the cluster displays the typical symmetrical shape and central stellar concentration of its class. By measuring the color and brightness of individual stars, researchers have deduced that the cluster has undergone at least two distinct periods of star formation separated by 50 to 100 million years. This cycle is driven by massive stars from the first burst exploding as supernovae and blowing away surrounding gas, after which less massive stars slowly replenish the gas reservoir until a new phase can take place."
     },
     "terms": [
       {
-        "term": "elliptical galaxy",
-        "explanation": "A smooth, rounded type of galaxy composed mainly of older stars with very little ongoing star formation."
+        "term": "cluster",
+        "explanation": "A large and cohesive group of stars born together and bound by mutual gravitational forces."
       },
       {
-        "term": "star formation",
-        "explanation": "The astrophysical process by which dense clouds of interstellar gas and dust collapse to create new stars."
+        "term": "galaxy",
+        "explanation": "A massive system in space gathering billions of stars, gas, dust, and dark matter around a common center."
       },
       {
-        "term": "starburst",
-        "explanation": "A period of exceptionally rapid and intense creation of new stars, often triggered by colliding galaxies."
+        "term": "supernova",
+        "explanation": "The violent and extremely luminous explosion of a dying massive star that lights up the cosmos."
       },
       {
-        "term": "gravity",
-        "explanation": "The fundamental attractive force between masses that governs the orbits and collisions of celestial bodies."
+        "term": "light-years",
+        "explanation": "The distance that a beam of light travels in a single Earth year through the vacuum of space."
       }
     ],
     "quiz": [
       {
-        "q": "What usually happens when two large spiral galaxies collide?",
+        "q": "What is a globular cluster?",
         "options": [
-          "They merge into an elliptical galaxy",
-          "Stars collide and destroy each other",
-          "They bounce off each other into space"
-        ],
-        "correct": 0,
-        "fact": "Galaxies usually merge into an elliptical galaxy because stars rarely collide directly due to vast distances between them."
-      },
-      {
-        "q": "Why do new stars form when two galaxies collide?",
-        "options": [
-          "Black holes expel fully formed stars",
-          "Gas and dust are compressed violently",
-          "Cosmic rays heat up empty space"
+          "A single star that is fading away",
+          "Dense collections of stars held by gravity",
+          "A group of planets orbiting a black hole"
         ],
         "correct": 1,
-        "fact": "Giant colliding gas clouds are compressed by gravity and shock waves, triggering the rapid birth of thousands of stars."
+        "fact": "Globular clusters are densely packed groups of hundreds of thousands of stars bound together by their mutual gravitational attraction."
       },
       {
-        "q": "In which constellation does the merging galaxy pair NGC 3921 lie?",
+        "q": "How do new stars form inside a cluster?",
         "options": [
-          "Orion",
-          "Cassiopeia",
-          "Ursa Major"
+          "When interstellar gas is compressed and density rises",
+          "As massive planets collide and melt together",
+          "By older stars cracking apart into smaller pieces"
         ],
-        "correct": 2,
-        "fact": "NGC 3921 is located about 270 million light-years away in the constellation of Ursa Major."
+        "correct": 0,
+        "fact": "Stars are born when massive clouds of gas and dust contract due to gravity until the internal pressure triggers nuclear fusion."
+      },
+      {
+        "q": "Where is the Large Magellanic Cloud located?",
+        "options": [
+          "Deep inside the core of the Milky Way",
+          "As a satellite galaxy orbiting our own galaxy",
+          "Far away in the constellation of Canis Major"
+        ],
+        "correct": 1,
+        "fact": "The Large Magellanic Cloud is a smaller dwarf galaxy that orbits our own Milky Way galaxy."
       }
     ]
   }

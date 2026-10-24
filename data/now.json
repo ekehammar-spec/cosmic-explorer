@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-24T04:43:40.689Z",
+ "updated": "2026-10-24T13:43:18.998Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-23T18:00:00Z",
-   "title_sv": "Tyfonen Champi",
-   "title_en": "Typhoon Champi",
-   "where_sv": "Västra Stilla havet",
-   "where_en": "Western Pacific",
+   "date": "2026-10-24T06:00:00Z",
+   "title_sv": "Orkanen Vance",
+   "title_en": "Hurricane Vance",
+   "where_sv": "Östra Stilla havet",
+   "where_en": "Eastern Pacific",
    "value_sv": "vindar på 175 km/h",
    "value_en": "winds of 175 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-23T12:00:00Z",
-   "title_sv": "Orkanen Vance",
-   "title_en": "Hurricane Vance",
-   "where_sv": "Östra Stilla havet",
-   "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 140 km/h",
-   "value_en": "winds of 140 km/h"
+   "date": "2026-10-24T06:00:00Z",
+   "title_sv": "Tropiska stormen Champi",
+   "title_en": "Tropical Storm Champi",
+   "where_sv": "Västra Stilla havet",
+   "where_en": "Western Pacific",
+   "value_sv": "vindar på 100 km/h",
+   "value_en": "winds of 100 km/h"
   },
   {
    "kind": "storm",
