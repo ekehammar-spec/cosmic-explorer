@@ -2,141 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Views a Galaxy Fit to Burst",
-  "title_sv": "Stjärnutbrott i galaxen NGC 3125",
+  "title": "Hubble Sees Spiral Bridge of Young Stars Between Two Ancient Galaxies",
+  "title_sv": "Hubble ser en spiralformad bro av unga stjärnor mellan två urgamla galaxer",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000262/GSFC_20171208_Archive_e000262~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000262/GSFC_20171208_Archive_e000262~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000262/GSFC_20171208_Archive_e000262~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000262",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001033/GSFC_20171208_Archive_e001033~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001033/GSFC_20171208_Archive_e001033~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001033/GSFC_20171208_Archive_e001033~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001033",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000262",
+  "id": "GSFC_20171208_Archive_e001033",
   "px": [
-    1280,
-    1072
+    1920,
+    1318
   ],
   "w": 640,
-  "h": 536,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgECAwQFB//EACEQAAICAgIDAAMAAAAAAAAAAAECAAMEERIxBSFBFCJx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwDnyLsy/j4rOR67kOPXyYQp8TjKyqX2EHbb1JfS8qszDhBK+R9LM25OJ1uE/lHpV2WvQUE6/kGsqzbnRgNRwZh2KlgLdfYXWZlH4FIxmB5j9x9B+bgQncvXk1mtUPFWrBIH3ub4bnURPn5JFh0d7+zKZ9mJYxJ9ncZEIbP/2Q==",
+  "h": 439,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBAgb/xAAhEAEAAgICAgIDAAAAAAAAAAABAhEAIQMxEkETUSJhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8CQt8Tv7+spGEo0ikka/Gx9aycGO/JRCyjtzqHIxlBJNx6/WEdfBL5CEmMKHctdZOUZRQneiwX13lObllzcryTkspNsn25KlF21lQW21X+5gbxjA3VHeKxjCP//Z",
   "quiz": [
     {
-      "q": "Vad kännetecknar en så kallad starburstgalax?",
+      "q": "Vad avslöjar den blåvita färgen hos stjärnhoparna?",
       "options": [
-        "Den bildar stjärnor i ovanligt hög takt.",
-        "Den består enbart av döende supernovor.",
-        "Den kolliderar ständigt med mörk materia."
+        "Att stjärnorna är unga och mycket heta.",
+        "Att stjärnorna består mestadels av vattenis.",
+        "Att stjärnorna håller på att slockna."
       ],
       "correct": 0,
-      "fact": "I en starburstgalax förbrukas gasreserverna i rasande takt för att tända tusentals nya stjärnor."
+      "fact": "Stora och nybildade stjärnor lyser med ett intensivt, blåvitt sken eftersom de har extremt höga yttemperaturer."
     },
     {
-      "q": "Vilken färg har de hetaste och yngsta stjärnorna i en galax?",
+      "q": "Vad orsakar de böjda blå bågarna i bakgrunden?",
       "options": [
-        "Djupt röda",
-        "Klarblå",
-        "Klart gröna"
+        "Rymdstoft som reflekterar ljus från stjärnor.",
+        "Tung gravitation som kröker mer avlägset ljus.",
+        "Kraftiga magnetfält som styr heta gasströmmar."
       ],
       "correct": 1,
-      "fact": "Mycket heta och massiva stjärnor strålar ut mest energi vid korta våglängder och lyser därför starkt blått."
+      "fact": "Fenomenet kallas gravitationslinsning och uppstår när hopens enorma massa böjer ljuset från galaxer långt bakom den."
     },
     {
-      "q": "Vad är en klotformig stjärnhop som omger galaxer?",
+      "q": "Hur hålls galaxer samman i en stor galaxhop?",
       "options": [
-        "En svärm av främmande kometer",
-        "Ett tätt kluster av unga gasplaneter",
-        "En urgammal samling av hundratusentals stjärnor"
+        "Genom solvindar från nybildade stjärnor.",
+        "Genom kraftfulla kosmiska magnetfält.",
+        "Genom gravitationen från synlig och mörk materia."
       ],
       "correct": 2,
-      "fact": "Klotformiga stjärnhopar är uråldriga sfäriska stjärnsystem som kretsar i galaxers yttre delar likt satelliter."
+      "fact": "Gravitationen från både stjärnor, gas och osynlig mörk materia binder samman alla galaxer i en hop."
     }
   ],
   "levels": {
-    "barn": "Titta på den här galaxen! Den heter NGC 3125 och glittrar som ett helt tivoli av ljus. Just nu föds massor av nya stjärnor där inne i heta gasmoln. De nyfödda stjärnorna lyser i en klarblå färg. Runt kanten syns små vita suddiga bollar. Det är inte enstaka stjärnor, utan jättelika klotformiga stjärnhopar där hundratusentals gamla stjärnor håller ihop som glittrande snöbollar ute i rymdens mörker.",
-    "nyborjare": "Bilden togs av rymdteleskopet Hubble 2016 och visar galaxen NGC 3125, belägen ungefär 50 miljoner ljusår bort i stjärnbilden Luftpumpen. Detta är en så kallad starburstgalax. Här pågår en våldsam och intensiv stjärnbildning där enorma mängder gas komprimeras och tänder nya stjärnor i rasande takt. De heta, unga stjärnorna lyser med ett skarpt blått sken i galaxens rosa hjärta. Längs galaxens utkant syns suddiga vita prickar. De är inte enskilda stjärnor utan klotformiga stjärnhopar. Dessa är uråldriga, täta samlingar av hundratusentals stjärnor som kretsar runt galaxens centrum, precis som de över 150 klotformiga stjärnhoparna som omger vår egen Vintergata.",
-    "entusiast": "I denna observation från rymdteleskopet Hubble, tagen 2016, framträder kärnan i NGC 3125 i stjärnbilden Luftpumpen på ett avstånd av 50 miljoner ljusår. Galaxen upptäcktes av John Herschel 1835 och sträcker sig över 15 000 ljusår. Trots att dess struktur liknar de magellanska molnen är den oerhört mycket mer energirik och ljusstark, klassificerad som en extrem starburstgalax. I galaxens rosaskiftande centrum pågår våldsamma stjärnutbrott där täta gasmoln kollapsar och bildar massiva stjärnor. Bland dessa stjärnanhopningar återfinns NGC 3125-A1, en av de mest extrema stjärnhoparna av Wolf-Rayet-stjärnor i vårt närområde. Dessa massiva stjärnor förlorar snabbt sin massa via kraftiga stjärnvindar innan de exploderar som supernovor. Utspridda i galaxens halo syns diffusa vita formationer som utgörs av klotformiga stjärnhopar. Dessa gravitationellt bundna sfärer innehåller hundratusentals gamla stjärnor från galaxens tidiga historia. Genom att studera NGC 3125 får astronomer värdefulla insikter i hur kompakta dvärggalaxer utvecklas under perioder av explosiv stjärnbildning."
+    "barn": "Titta noga mitt i bilden! Där ser du två jättestora, gamla galaxer som snurrar runt varandra. Mellan dem slingrar sig ett glittrande pärlband som är gjort av nyfödda, blåvita stjärnor. Det ser nästan ut som glittriga pärlor på ett snöre som virvlar runt som en korkskruv. Runt omkring syns böjda blå streck. De fungerar som ett magiskt förstoringsglas i rymden och visar andra galaxer som ligger ännu längre bort bakom dem.",
+    "nyborjare": "År 2014 fotograferade rymdteleskopet Hubble den täta galaxhopen SDSS J1531+3414 i stjärnbilden Norra kronan. I centrum av hopen håller två gigantiska elliptiska galaxer på att smälta samman. Mellan deras kärnor slingrar sig en 100 000 ljusår lång bro som liknar ett pärlband. Pärlorna är i själva verket superhopar av nyfödda, heta stjärnor som lyser intensivt blåvitt. Avståndet mellan varje pärla är cirka 3 000 ljusår, fördelade med anmärkningsvärd precision. Hopens enorma gravitation fungerar dessutom som en gravitationslins, vilket kröker ljuset från avlägsna bakgrundsgalaxer till utsträckta blå bågar.",
+    "entusiast": "Observationer från rymdteleskopet Hubble från 2014 visar galaxhopen SDSS J1531+3414, belägen i stjärnbilden Norra kronan. Hopen domineras av massiva elliptiska galaxer vars gravitationella potential ger upphov till stark gravitationslinsning. Detta skapar de karakteristiska bågformade formationerna av bakomliggande källor. I systemets absoluta centrum pågår en fusion mellan två gigantiska elliptiska galaxer. Kring kärnorna observeras en 100 000 ljusår lång korkskruvsformad struktur bestående av superhopar med heta O- och B-stjärnor. Stjärnbildningsprocessen uppvisar Jeans-instabilitet i en komprimerad gassträng, där hoparna uppträder periodiskt med jämna intervall om cirka 3 000 ljusår. Detta unika fenomen ger viktig insikt i hur stjärnbildning triggas under storskaliga galaxkollisioner."
   },
   "terms": [
     {
-      "term": "starburstgalax",
-      "explanation": "En galax som bildar nya stjärnor i en exceptionellt hög och intensiv takt."
+      "term": "galaxhop",
+      "explanation": "En gigantisk samling av hundratals eller tusentals galaxer som hålls samman av gravitationen."
+    },
+    {
+      "term": "elliptisk galax",
+      "explanation": "En rund eller oval galax som huvudsakligen rymmer äldre stjärnor och mycket lite gas."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
+      "explanation": "Den sträcka som ljuset färdas genom rymden under ett helt år."
     },
     {
-      "term": "klotformiga stjärnhopar",
-      "explanation": "Täta, sfäriska samlingar av hundratusentals uråldriga stjärnor som kretsar kring en galaxkärna."
-    },
-    {
-      "term": "Wolf-Rayet-stjärnor",
-      "explanation": "Mycket massiva och heta stjärnor som kastar ut stora mängder gas i rymden."
-    },
-    {
-      "term": "halo",
-      "explanation": "Det vidsträckta, sfäriska område av stjärnor och mörk materia som omger en galax."
+      "term": "gravitationslins",
+      "explanation": "Ett massivt objekt vars gravitationsfält böjer och förstärker ljuset från mer avlägsna bakomliggande källor."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this galaxy! It is called NGC 3125, and it sparkles like a glowing carnival in space. Right now, lots of baby stars are bursting to life inside super-hot gas clouds. These brand-new stars shine bright blue. Around the edges, you can see fuzzy white dots. They are not single stars, but giant globular clusters holding hundreds of thousands of stars together like glowing snowballs in the dark.",
-      "nyborjare": "Captured by the Hubble Space Telescope in 2016, this image reveals the galaxy NGC 3125, located about 50 million light-years away in the constellation Antlia. It is an extraordinary starburst galaxy. Here, stars are forming at a frantic pace as giant gas clouds collapse into vibrant new suns. The youngest, hottest stars scatter bright blue light across the galaxy's rosy central core.  Around the galaxy's perimeter, the fuzzy white dots are not individual stars, but globular clusters. These are ancient, densely packed spheres containing hundreds of thousands of stars that orbit galactic centers like tiny moons, much like the 150 clusters orbiting the Milky Way.",
-      "entusiast": "Captured by the Hubble Space Telescope in 2016, this view highlights the energetic core of NGC 3125, situated 50 million light-years away in the constellation Antlia. Spanning roughly 15,000 light-years across, NGC 3125 bears structural similarities to the Magellanic Clouds, yet it is vastly more luminous and energetically active, classified as a prominent starburst galaxy.  The rose-tinted core is driven by intense bursts of star formation where vast clouds of gas fuel massive stellar nurseries. Notably, NGC 3125 harbors NGC 3125-A1, one of the most extreme clusters of Wolf-Rayet stars in the nearby universe. These massive stars lose mass through fierce stellar winds and end their rapid lifespans in cataclysmic supernova explosions.  Perched throughout the galactic halo, the fuzzy white blobs are ancient globular clusters. Each contains hundreds of thousands of gravitationally bound stars dating back to the early eras of cosmic history. Studying NGC 3125 provides vital clues about how compact dwarf galaxies evolve under the influence of extreme feedback and rapid starburst events."
+      "barn": "Look closely at the center of the picture! There are two giant, old galaxies dancing around each other. Between them winds a shiny string of pearls made of baby stars that glow blue and white. It twists like a corkscrew through space. Around the galaxies, you can also spot blue curved streaks. Gravity acts like a cosmic magnifying glass, bending the light from galaxies that hide even further away in the background.",
+      "nyborjare": "In 2014, the Hubble Space Telescope captured the dense galaxy cluster SDSS J1531+3414 in the constellation Corona Borealis. At the heart of the cluster, two giant elliptical galaxies are merging. Wrapping around their cores is a 100,000-light-year-long bridge resembling a string of pearls. These pearls are super star clusters filled with brilliant, newly born stars spaced about 3,000 light-years apart. The immense gravity of the cluster also creates a gravitational lens, warping the light of distant background galaxies into glowing blue streaks and arcs.",
+      "entusiast": "Captured by Hubble in 2014, the galaxy cluster SDSS J1531+3414 in Corona Borealis showcases strong gravitational lensing, warping background galaxies into vivid blue arcs. At the cluster core lies an ongoing merger between two massive elliptical galaxies. Wrapping around the cores is a 100,000-light-year corkscrew structure containing evenly spaced super star clusters. Separated by roughly 3,000 light-years, these clusters reflect Jeans-like gravitational instabilities in cooled gas filaments, offering rare insight into starburst triggers during major cluster mergers."
     },
     "terms": [
       {
-        "term": "starburst galaxy",
-        "explanation": "A galaxy undergoing an exceptionally high and rapid rate of star formation."
+        "term": "galaxy cluster",
+        "explanation": "A massive cosmic structure containing hundreds to thousands of galaxies bound by gravity."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance that a beam of light travels through space in one full year."
+        "term": "elliptical galaxy",
+        "explanation": "A smooth, egg-shaped galaxy populated mainly by older stars with scarce cold gas."
       },
       {
-        "term": "globular clusters",
-        "explanation": "Ancient and dense spherical collections of hundreds of thousands of stars orbiting a galaxy."
+        "term": "light-year",
+        "explanation": "The total distance that light travels through space in one full year."
       },
       {
-        "term": "Wolf-Rayet stars",
-        "explanation": "Extremely massive and hot stars that rapidly lose mass via powerful stellar winds."
-      },
-      {
-        "term": "halo",
-        "explanation": "The vast and sparse spherical region of stars and gas surrounding a galaxy."
+        "term": "gravitational lens",
+        "explanation": "A huge concentration of mass that bends and magnifies light from distant background objects."
       }
     ],
     "quiz": [
       {
-        "q": "What defines a starburst galaxy?",
+        "q": "What does the blue-white color of the clusters reveal?",
         "options": [
-          "It forms stars at an unusually rapid rate.",
-          "It consists only of dying supernovas.",
-          "It continuously collides with dark matter."
+          "The stars are young and extremely hot.",
+          "The stars consist primarily of water ice.",
+          "The stars are cooling down and dying."
         ],
         "correct": 0,
-        "fact": "In a starburst galaxy, gas reserves are consumed at a frantic pace to ignite thousands of newborn stars."
+        "fact": "Massive, newly born stars burn hot and shine with an intense blue-white color."
       },
       {
-        "q": "What color are the hottest and youngest stars in a galaxy?",
+        "q": "What causes the curved blue arcs in the background?",
         "options": [
-          "Deep red",
-          "Bright blue",
-          "Vivid green"
+          "Space dust reflecting light from nearby stars.",
+          "Heavy gravity bending the light of distant galaxies.",
+          "Powerful magnetic fields guiding hot gas streams."
         ],
         "correct": 1,
-        "fact": "Very hot and massive stars radiate most of their energy at shorter wavelengths, glowing intensely blue."
+        "fact": "Known as gravitational lensing, the massive cluster bends and magnifies light coming from galaxies behind it."
       },
       {
-        "q": "What is a globular cluster orbiting a galaxy?",
+        "q": "How are galaxies held together in a large cluster?",
         "options": [
-          "A swarm of rogue comets",
-          "A dense cluster of young gas planets",
-          "An ancient collection of hundreds of thousands of stars"
+          "Through solar winds from newly formed stars.",
+          "Through powerful cosmic magnetic fields.",
+          "Through gravity from visible and dark matter."
         ],
         "correct": 2,
-        "fact": "Globular clusters are ancient spherical swarms of stars that orbit galactic centers like tiny satellites."
+        "fact": "Mutual gravity from galaxies, hot gas, and invisible dark matter binds the cluster together."
       }
     ]
   }
