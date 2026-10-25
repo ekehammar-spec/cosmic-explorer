@@ -2,149 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Catches a Spiral in the Air Pump",
-  "title_sv": "Spiralgalaxen IC 2560 i Luftpumpen",
+  "title": "Hubble Views a Galaxy Fit to Burst",
+  "title_sv": "Stjärnutbrott i galaxen NGC 3125",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001368/GSFC_20171208_Archive_e001368~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001368/GSFC_20171208_Archive_e001368~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001368/GSFC_20171208_Archive_e001368~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001368",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000262/GSFC_20171208_Archive_e000262~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000262/GSFC_20171208_Archive_e000262~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000262/GSFC_20171208_Archive_e000262~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000262",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e001368",
+  "id": "GSFC_20171208_Archive_e000262",
   "px": [
     1280,
-    693
+    1072
   ],
   "w": 640,
-  "h": 346,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAIhAAAgIABgIDAAAAAAAAAAAAAQIAAwQFESExURJBEyJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A4JKSTsJupyy63YDfoCZacQUbXmNaM7aohl1VxwQIIpfJrqx9gwPREXW0hSQddRG2Izq7EWedjszdxXfd8lhYwrMPUsHuEIRNeT+GUvzCEo//2Q==",
+  "h": 536,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgECAwQFB//EACEQAAICAgIDAAMAAAAAAAAAAAECAAMEERIxBSFBFCJx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwDnyLsy/j4rOR67kOPXyYQp8TjKyqX2EHbb1JfS8qszDhBK+R9LM25OJ1uE/lHpV2WvQUE6/kGsqzbnRgNRwZh2KlgLdfYXWZlH4FIxmB5j9x9B+bgQncvXk1mtUPFWrBIH3ub4bnURPn5JFh0d7+zKZ9mJYxJ9ncZEIbP/2Q==",
   "quiz": [
     {
-      "q": "Vad driver den extremt ljusstarka kärnan i galaxen?",
+      "q": "Vad kännetecknar en så kallad starburstgalax?",
       "options": [
-        "Ett supermassivt svart hål i centrum",
-        "Enorma mängder exploderande stjärnor",
-        "Reflekterat ljus från närliggande galaxer"
+        "Den bildar stjärnor i ovanligt hög takt.",
+        "Den består enbart av döende supernovor.",
+        "Den kolliderar ständigt med mörk materia."
       ],
       "correct": 0,
-      "fact": "Aktiviteten i galaxens centrum drivs av het gas som strömmar runt ett supermassivt svart hål."
+      "fact": "I en starburstgalax förbrukas gasreserverna i rasande takt för att tända tusentals nya stjärnor."
     },
     {
-      "q": "Vilken sorts galax är IC 2560?",
+      "q": "Vilken färg har de hetaste och yngsta stjärnorna i en galax?",
       "options": [
-        "En elliptisk jättegalax",
-        "En stavspiralgalax",
-        "En oregelbunden dvärggalax"
+        "Djupt röda",
+        "Klarblå",
+        "Klart gröna"
       ],
       "correct": 1,
-      "fact": "Galaxen har både tydliga spiralarmar och en rak stavformad struktur av stjärnor genom centrum."
+      "fact": "Mycket heta och massiva stjärnor strålar ut mest energi vid korta våglängder och lyser därför starkt blått."
     },
     {
-      "q": "Vad utmärker galaxhopen som IC 2560 tillhör?",
+      "q": "Vad är en klotformig stjärnhop som omger galaxer?",
       "options": [
-        "Den saknar helt mörk materia",
-        "Den rör sig bort från universum",
-        "Den saknar en dominerande jättegalax"
+        "En svärm av främmande kometer",
+        "Ett tätt kluster av unga gasplaneter",
+        "En urgammal samling av hundratusentals stjärnor"
       ],
       "correct": 2,
-      "fact": "Till skillnad från de flesta andra galaxhopar har Luftpumpshopen ingen enskild jättegalax som dominerar."
+      "fact": "Klotformiga stjärnhopar är uråldriga sfäriska stjärnsystem som kretsar i galaxers yttre delar likt satelliter."
     }
   ],
   "levels": {
-    "barn": "Titta på den här jättelika rymdsnurran! Det är en spiralgalax som heter IC 2560. Den består av miljarder stjärnor som snurrar runt tillsammans, precis som en gigantisk karusell av ljus.\\n\\nI mitten finns en rak stav av stjärnor och ett supertungt svart hål. Hålet är så hungrigt att gasen runt det blir supervarm och lyser jättestarkt. Bilden togs av rymdteleskopet Hubble ute i den mörka rymden.",
-    "nyborjare": "Den här bilden från rymdteleskopet Hubble togs 2013 och visar spiralgalaxen IC 2560. Galaxen ligger drygt 110 miljoner ljusår från oss i stjärnbilden Luftpumpen. Den ingår i Luftpumpshopen, en samling av över 200 galaxer som hålls samman av gravitationen.\\n\\nAstronomer klassificerar objektet som en stavspiralgalax eftersom stjärnorna i mitten bildar ett rakt band. Dessutom är den en så kallad Seyfertgalax med en extremt ljusstark galaxkärna. Ljusskenet uppstår när het gas kastas ut från området kring ett centralt svart hål.",
-    "entusiast": "På denna Hubblebild från 2013 framträder IC 2560, en stavspiralgalax belägen cirka 110 miljoner ljusår bort i Luftpumpshopen (Antlia-hopen). Hopen rymmer över 200 galaxer men är ovanlig då den saknar en central, dominerande jättegalax.\\n\\nIC 2560 klassificeras som en Seyfert 2-galax. Kännetecknet är en aktiv galaxkärna med ovanligt starka emissionslinjer från grundämnen som väte, helium, kväve och syre. Kärnans höga luminositet förklaras av ackretion och utflöden av het gas kring ett supermassivt svart hål i galaxens mitt.\\n\\nStrukturen visar väl synliga spiralarmar som sträcker sig ut från en central stav. Den aktiva kärnan är till viss del skymd av stoft och gas i synlinjen, vilket ger upphov till de karaktäristiskt smala emissionslinjerna hos Seyfert 2-objekt."
+    "barn": "Titta på den här galaxen! Den heter NGC 3125 och glittrar som ett helt tivoli av ljus. Just nu föds massor av nya stjärnor där inne i heta gasmoln. De nyfödda stjärnorna lyser i en klarblå färg. Runt kanten syns små vita suddiga bollar. Det är inte enstaka stjärnor, utan jättelika klotformiga stjärnhopar där hundratusentals gamla stjärnor håller ihop som glittrande snöbollar ute i rymdens mörker.",
+    "nyborjare": "Bilden togs av rymdteleskopet Hubble 2016 och visar galaxen NGC 3125, belägen ungefär 50 miljoner ljusår bort i stjärnbilden Luftpumpen. Detta är en så kallad starburstgalax. Här pågår en våldsam och intensiv stjärnbildning där enorma mängder gas komprimeras och tänder nya stjärnor i rasande takt. De heta, unga stjärnorna lyser med ett skarpt blått sken i galaxens rosa hjärta. Längs galaxens utkant syns suddiga vita prickar. De är inte enskilda stjärnor utan klotformiga stjärnhopar. Dessa är uråldriga, täta samlingar av hundratusentals stjärnor som kretsar runt galaxens centrum, precis som de över 150 klotformiga stjärnhoparna som omger vår egen Vintergata.",
+    "entusiast": "I denna observation från rymdteleskopet Hubble, tagen 2016, framträder kärnan i NGC 3125 i stjärnbilden Luftpumpen på ett avstånd av 50 miljoner ljusår. Galaxen upptäcktes av John Herschel 1835 och sträcker sig över 15 000 ljusår. Trots att dess struktur liknar de magellanska molnen är den oerhört mycket mer energirik och ljusstark, klassificerad som en extrem starburstgalax. I galaxens rosaskiftande centrum pågår våldsamma stjärnutbrott där täta gasmoln kollapsar och bildar massiva stjärnor. Bland dessa stjärnanhopningar återfinns NGC 3125-A1, en av de mest extrema stjärnhoparna av Wolf-Rayet-stjärnor i vårt närområde. Dessa massiva stjärnor förlorar snabbt sin massa via kraftiga stjärnvindar innan de exploderar som supernovor. Utspridda i galaxens halo syns diffusa vita formationer som utgörs av klotformiga stjärnhopar. Dessa gravitationellt bundna sfärer innehåller hundratusentals gamla stjärnor från galaxens tidiga historia. Genom att studera NGC 3125 får astronomer värdefulla insikter i hur kompakta dvärggalaxer utvecklas under perioder av explosiv stjärnbildning."
   },
   "terms": [
     {
-      "term": "spiralgalax",
-      "explanation": "En platt, roterande stjärnsamling med lysande armar som ringlar ut från mitten."
-    },
-    {
-      "term": "svart hål",
-      "explanation": "En plats i rymden där gravitationen är så stark att inte ens ljus kan slippa ut."
+      "term": "starburstgalax",
+      "explanation": "En galax som bildar nya stjärnor i en exceptionellt hög och intensiv takt."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett år."
+      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den universella kraft som drar föremål med massa mot varandra."
+      "term": "klotformiga stjärnhopar",
+      "explanation": "Täta, sfäriska samlingar av hundratusentals uråldriga stjärnor som kretsar kring en galaxkärna."
     },
     {
-      "term": "stavspiralgalax",
-      "explanation": "En spiralgalax där stjärnorna i centrum bildar en avlång stavformad struktur."
+      "term": "Wolf-Rayet-stjärnor",
+      "explanation": "Mycket massiva och heta stjärnor som kastar ut stora mängder gas i rymden."
     },
     {
-      "term": "emissionslinjer",
-      "explanation": "Ljusstarka våglängder i ett spektrum som sänds ut av upphettade grundämnen."
+      "term": "halo",
+      "explanation": "Det vidsträckta, sfäriska område av stjärnor och mörk materia som omger en galax."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this giant cosmic pinwheel! It is a spiral galaxy called IC 2560. Billions of stars spin together inside it, swirling like a glowing merry-go-round in the deep black sky.\n\nAcross its bright center lies a straight bar made of stars. Deep inside hides a giant black hole that swallows gas and glows super brightly. This portrait was captured by the Hubble Space Telescope.",
-      "nyborjare": "Captured by the Hubble Space Telescope in 2013, this image shows the spiral galaxy IC 2560. It lies more than 110 million light-years away in the constellation Antlia, the Air Pump. It belongs to the Antlia cluster, a gathering of over 200 galaxies bound together by gravity.\n\nAstronomers classify it as a barred spiral galaxy because of the distinct bar of stars cutting across its middle. It is also an active Seyfert galaxy, featuring a blazing core powered by super-hot gas swirling near a central black hole.",
-      "entusiast": "Captured by Hubble in 2013, IC 2560 is a barred spiral galaxy situated over 110 million light-years away in the Antlia cluster. Comprising more than 200 galaxies bound by gravity, the Antlia cluster is unusual because it lacks a single dominant central galaxy.\n\nIC 2560 is classified as a Seyfert 2 galaxy, an active galactic nucleus exhibiting strong narrow emission lines from hydrogen, helium, nitrogen, and oxygen. The intense nuclear emission is driven by matter accretion and outflows of super-hot gas surrounding a central supermassive black hole, with the central engine partially obscured by obscuring dust along our line of sight."
+      "barn": "Look at this galaxy! It is called NGC 3125, and it sparkles like a glowing carnival in space. Right now, lots of baby stars are bursting to life inside super-hot gas clouds. These brand-new stars shine bright blue. Around the edges, you can see fuzzy white dots. They are not single stars, but giant globular clusters holding hundreds of thousands of stars together like glowing snowballs in the dark.",
+      "nyborjare": "Captured by the Hubble Space Telescope in 2016, this image reveals the galaxy NGC 3125, located about 50 million light-years away in the constellation Antlia. It is an extraordinary starburst galaxy. Here, stars are forming at a frantic pace as giant gas clouds collapse into vibrant new suns. The youngest, hottest stars scatter bright blue light across the galaxy's rosy central core.  Around the galaxy's perimeter, the fuzzy white dots are not individual stars, but globular clusters. These are ancient, densely packed spheres containing hundreds of thousands of stars that orbit galactic centers like tiny moons, much like the 150 clusters orbiting the Milky Way.",
+      "entusiast": "Captured by the Hubble Space Telescope in 2016, this view highlights the energetic core of NGC 3125, situated 50 million light-years away in the constellation Antlia. Spanning roughly 15,000 light-years across, NGC 3125 bears structural similarities to the Magellanic Clouds, yet it is vastly more luminous and energetically active, classified as a prominent starburst galaxy.  The rose-tinted core is driven by intense bursts of star formation where vast clouds of gas fuel massive stellar nurseries. Notably, NGC 3125 harbors NGC 3125-A1, one of the most extreme clusters of Wolf-Rayet stars in the nearby universe. These massive stars lose mass through fierce stellar winds and end their rapid lifespans in cataclysmic supernova explosions.  Perched throughout the galactic halo, the fuzzy white blobs are ancient globular clusters. Each contains hundreds of thousands of gravitationally bound stars dating back to the early eras of cosmic history. Studying NGC 3125 provides vital clues about how compact dwarf galaxies evolve under the influence of extreme feedback and rapid starburst events."
     },
     "terms": [
       {
-        "term": "spiral galaxy",
-        "explanation": "A rotating disk of stars, gas, and dust with winding spiral arms."
-      },
-      {
-        "term": "black hole",
-        "explanation": "A region of spacetime where gravity is so intense that nothing can escape."
+        "term": "starburst galaxy",
+        "explanation": "A galaxy undergoing an exceptionally high and rapid rate of star formation."
       },
       {
         "term": "light-years",
-        "explanation": "The distance that light travels through empty space in one Earth year."
+        "explanation": "The distance that a beam of light travels through space in one full year."
       },
       {
-        "term": "gravity",
-        "explanation": "The fundamental attractive force between all matter and energy in the universe."
+        "term": "globular clusters",
+        "explanation": "Ancient and dense spherical collections of hundreds of thousands of stars orbiting a galaxy."
       },
       {
-        "term": "barred spiral galaxy",
-        "explanation": "A spiral galaxy whose central region exhibits an elongated bar of stars."
+        "term": "Wolf-Rayet stars",
+        "explanation": "Extremely massive and hot stars that rapidly lose mass via powerful stellar winds."
       },
       {
-        "term": "emission lines",
-        "explanation": "Distinct bright wavelengths of light emitted by energized atoms in a gas."
+        "term": "halo",
+        "explanation": "The vast and sparse spherical region of stars and gas surrounding a galaxy."
       }
     ],
     "quiz": [
       {
-        "q": "What powers the extremely bright core of this galaxy?",
+        "q": "What defines a starburst galaxy?",
         "options": [
-          "A supermassive black hole at the center",
-          "Vast quantities of exploding stars",
-          "Reflected light from neighboring galaxies"
+          "It forms stars at an unusually rapid rate.",
+          "It consists only of dying supernovas.",
+          "It continuously collides with dark matter."
         ],
         "correct": 0,
-        "fact": "The activity in the galaxy core is fueled by superheated gas surrounding a central supermassive black hole."
+        "fact": "In a starburst galaxy, gas reserves are consumed at a frantic pace to ignite thousands of newborn stars."
       },
       {
-        "q": "Which type of galaxy is IC 2560?",
+        "q": "What color are the hottest and youngest stars in a galaxy?",
         "options": [
-          "A giant elliptical galaxy",
-          "A barred spiral galaxy",
-          "An irregular dwarf galaxy"
+          "Deep red",
+          "Bright blue",
+          "Vivid green"
         ],
         "correct": 1,
-        "fact": "The galaxy exhibits distinct spiral arms connected to a central, bar-like arrangement of stars."
+        "fact": "Very hot and massive stars radiate most of their energy at shorter wavelengths, glowing intensely blue."
       },
       {
-        "q": "What is unusual about the galaxy cluster containing IC 2560?",
+        "q": "What is a globular cluster orbiting a galaxy?",
         "options": [
-          "It contains no dark matter",
-          "It is moving backwards through space",
-          "It lacks a single dominant galaxy"
+          "A swarm of rogue comets",
+          "A dense cluster of young gas planets",
+          "An ancient collection of hundreds of thousands of stars"
         ],
         "correct": 2,
-        "fact": "Unlike most large clusters, the Antlia cluster has no dominant giant galaxy holding center stage."
+        "fact": "Globular clusters are ancient spherical swarms of stars that orbit galactic centers like tiny satellites."
       }
     ]
   }
