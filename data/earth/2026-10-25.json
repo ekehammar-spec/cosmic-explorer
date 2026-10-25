@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-25",
+  "title": "Soufriere Hills Volcano Resumes Activity",
+  "title_sv": "Vulkanen Soufrière Hills återupptar sin aktivitet",
+  "place": "Montserrat, Karibien",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002176/GSFC_20171208_Archive_e002176~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002176/GSFC_20171208_Archive_e002176~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002176/GSFC_20171208_Archive_e002176~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002176",
+  "credit": "NASA Earth Observatory image by Robert Simmon, using data from the NASA/GSFC/METI/ERSDAC/JAROS, and U",
+  "source": "NASA Earth Observatory image by Robert Simmon, using data from the NASA/GSFC/METI/ERSDAC/JAROS, and U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e002176",
+  "archive": true,
+  "px": [
+    1545,
+    1261
+  ],
+  "w": 640,
+  "h": 522,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAwQH/8QAJBAAAgEDBQABBQAAAAAAAAAAAQIDAAQRBRIhMUFxBhNRYYH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxEhEzH/2gAMAwEAAhEDEQA/AOecg81uhhknaGN0JULuB9weuaqhMUkqCUYXI3YOMijdhDsiFvIFMCyljJHy204Hfv6olxai1EFZYosEXCm2kaNTkD0is3dGtStIpI5poJCyRdFl2lh8fmgmcVkZakwvr87HEgUz/T+rQwWc0DqokZCmCoKuv99zSxUg45HBpiS+jdqZtF0ENCF+7IpVw0wbb8Dsde0n1fcu7cMzEZ9NZ6VFLM4kj//Z",
+  "levels": {
+    "barn": "Här ser vi en ö från rymden i ovanliga färger. Det röda på bilden är träd och växter. Det mörkblå är havet runt omkring. Det gråa är aska, grus och sten från en vulkan som heter Soufrière Hills. År 2010 rasade toppen på vulkanen och het aska forsade ner mot havet. Ön blev faktiskt lite större när allt grus nådde vattnet och stelnade vid stranden. Molnen syns som vita tussar över ön.",
+    "nyborjare": "Satellitbilden visar södra delen av den karibiska ön Montserrat i falska färger den 21 februari 2010. Skog och grönska visas i rött, havet är mörkblått och molnen är vita. De ljusgrå områdena visar spåren efter ett massivt vulkanutbrott från Soufrière Hills. Tio dagar tidigare kollapsade vulkanens lavadom, en kupol av trögflytande lava. Kollapsen utlöste pyroklastiska flöden, vilka är mycket snabba och heta strömmar av gas, aska och stenblock. Flödena rörde sig nedför sluttningarna, jämnade träd med marken och fyllde flera floddalar med färskt material. När de upp till 15 meter tjocka avlagringarna nådde havet vid Trant's Bay växte öns kustlinje ut i havet med upp till 650 meter.",
+    "entusiast": "Bilden togs den 21 februari 2010 med instrumentet ASTER, en avancerad rymdburen sensor för värmestrålning och reflektion, ombord på NASA:s satellit Terra. Genom att kombinera observationer i synligt och infrarött ljus framträder vegetation i kraftigt rött och vatten i nästan svart. Den 11 februari 2010 kollapsade den aktiva lavadomen på toppen av Soufrière Hills. Detta gav upphov till destruktiva pyroklastiska flöden längs den norra flanken. Flödena ödelade byggnader i byn Harris, som hade varit övergiven sedan vulkanen åter vaknade till liv 1995. Montserrat Volcano Observatory noterade att flödena fyllde dalgångarna White River Valley, Tar River Valley och Belham River Valley med nya avlagringar. Även tidigare under året, den 18 januari och 5 februari, hade pyroklastiska flöden nått havet genom Aymers Ghaut samt nära Plymouth. Vid Trant's Bay nådde upp till 15 meter tjocka flöden havet och skapade nytt land som flyttade ut kustlinjen med upp till 650 meter. Genom att jämföra dessa ASTER-data med arkivbilder från mars 2007 kan forskare kartlägga volymen hos vulkaniskt material och studera hur öns landskap omformas av återkommande utbrott."
+  },
+  "terms": [
+    {
+      "term": "lavadom",
+      "explanation": "En brant kupolformad upphöjning som bildas när mycket trögflytande lava pressas upp ur en vulkan."
+    },
+    {
+      "term": "pyroklastiskt flöde",
+      "explanation": "En snabb och extremt het ström av gas, aska och stenblock som forsar nerför en vulkan."
+    },
+    {
+      "term": "falska färger",
+      "explanation": "En bildbehandlingsteknik där osynliga våglängder som infrarött ljus visas med synliga färger för att framhäva detaljer."
+    },
+    {
+      "term": "avlagring",
+      "explanation": "Material som aska, grus och stenrester vilket har lagt sig på marken efter ett flöde."
+    },
+    {
+      "term": "ASTER",
+      "explanation": "Ett högupplöst japansk-amerikanskt bildinstrument ombord på NASA:s jordobservationssatellit Terra."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This view from space shows an island using unusual colors. The bright red sections show trees and green plants. Dark blue is the ocean surrounding the island, and the fluffy white patches are clouds. The gray streaks show rocks, dust, and debris left by a volcano named Soufrière Hills. In 2010, the top of the volcano collapsed and sent hot material sweeping down to the sea, making the island slightly bigger along the shore.",
+      "nyborjare": "This false-color satellite image shows the southern half of the Caribbean island of Montserrat on February 21, 2010. Lush vegetation appears bright red, the surrounding ocean is dark blue, and clouds show up in white. The light gray bands highlight deposits left by an eruption of Soufrière Hills. Ten days earlier, the volcano's summit lava dome collapsed, triggering pyroclastic flows. These fast-moving currents of scorching gas, ash, and rock swept down the slopes, leveling forests and filling river valleys with fresh debris. At Trant's Bay, flows measuring 15 meters thick pushed into the sea, extending the coastline by up to 650 meters.",
+      "entusiast": "Captured on February 21, 2010, by the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) aboard NASA's Terra satellite, this false-color scene highlights the aftermath of a major dome collapse at Soufrière Hills. Vegetation is rendered in vibrant red by incorporating near-infrared wavelengths, while water appears nearly black. The summit lava dome collapsed on February 11, 2010, unleashing massive pyroclastic flows down the northern flank. The flows leveled trees and destroyed structures in Harris, a village abandoned when volcanic activity resumed in 1995. Scientists at the Montserrat Volcano Observatory tracked fresh deposits filling the White River, Tar River, and Belham River valleys. Earlier pulses on January 18 and February 5 had sent material to the coast through Aymers Ghaut and near Plymouth. At Trant's Bay, deposits up to 15 meters thick reached the sea, extending the shoreline by as much as 650 meters. Comparing this scene with baseline data from March 2007 helps researchers quantify structural changes and material transport across the island."
+    },
+    "terms": [
+      {
+        "term": "lava dome",
+        "explanation": "A steep-sided mound formed by the extrusion of thick, highly viscous lava around a volcanic vent."
+      },
+      {
+        "term": "pyroclastic flow",
+        "explanation": "A fast-moving avalanche of extremely hot gas, ash, and volcanic rock fragments."
+      },
+      {
+        "term": "false-color",
+        "explanation": "An imagery technique displaying non-visible wavelengths, such as infrared light, to emphasize specific features."
+      },
+      {
+        "term": "ASTER",
+        "explanation": "A high-resolution imaging instrument aboard NASA's Terra satellite measuring reflected and emitted radiation."
+      },
+      {
+        "term": "deposit",
+        "explanation": "Volcanic debris and rock fragments that settle on land or the seabed after an eruption."
+      }
+    ],
+    "place": "Montserrat, Caribbean"
+  }
+}

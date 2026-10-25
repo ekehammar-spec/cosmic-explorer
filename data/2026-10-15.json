@@ -1,134 +1,150 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "A youthful cluster",
-  "title_sv": "NGC 1783",
+  "title": "Hubble Catches a Spiral in the Air Pump",
+  "title_sv": "Spiralgalaxen IC 2560 i Luftpumpen",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-sees-a-youthful-cluster_20330747093_o/hubble-sees-a-youthful-cluster_20330747093_o~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-sees-a-youthful-cluster_20330747093_o/hubble-sees-a-youthful-cluster_20330747093_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-sees-a-youthful-cluster_20330747093_o/hubble-sees-a-youthful-cluster_20330747093_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-sees-a-youthful-cluster_20330747093_o",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001368/GSFC_20171208_Archive_e001368~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001368/GSFC_20171208_Archive_e001368~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001368/GSFC_20171208_Archive_e001368~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001368",
   "credit": "NASA/GSFC",
-  "taken": "2015",
+  "taken": "2017",
   "src": "library",
-  "id": "hubble-sees-a-youthful-cluster_20330747093_o",
+  "id": "GSFC_20171208_Archive_e001368",
   "px": [
     1280,
-    753
+    693
   ],
   "w": 640,
-  "h": 376,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgb/xAAjEAABAwQCAQUAAAAAAAAAAAABAAIRAwQhMQUSFCJBUWFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AOHpCTkSFa4+x8gjqInSi03Rhut/JVjjL51ucOiExDk7A20iM/WlFqAz+q7f3nkjvJJOVEqj1TkHcoaKBTqRI6mcoQoRtznEwSYSiYDx7QEIUX//2Q==",
+  "h": 346,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAARACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwQG/8QAIhAAAgIABgIDAAAAAAAAAAAAAQIAAwQFESExURJBEyJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A4JKSTsJupyy63YDfoCZacQUbXmNaM7aohl1VxwQIIpfJrqx9gwPREXW0hSQddRG2Izq7EWedjszdxXfd8lhYwrMPUsHuEIRNeT+GUvzCEo//2Q==",
   "quiz": [
     {
-      "q": "Vad är en klotformig stjärnhop?",
+      "q": "Vad driver den extremt ljusstarka kärnan i galaxen?",
       "options": [
-        "En ensam stjärna som håller på att dö",
-        "Täta samlingar av stjärnor som hålls ihop av gravitation",
-        "En samling planeter som kretsar runt ett svart hål"
-      ],
-      "correct": 1,
-      "fact": "Klotformiga stjärnhopar är tätt packade grupper av hundratusentals stjärnor som binds samman av sin egen ömsesidiga dragningskraft."
-    },
-    {
-      "q": "Hur skapas nya stjärnor inuti en stjärnhop?",
-      "options": [
-        "Genom att interstellär gas pressas samman och tätheten ökar",
-        "När stora planeter kolliderar och smälter samman",
-        "Genom att äldre stjärnor spricker itu i mindre delar"
+        "Ett supermassivt svart hål i centrum",
+        "Enorma mängder exploderande stjärnor",
+        "Reflekterat ljus från närliggande galaxer"
       ],
       "correct": 0,
-      "fact": "Stjärnor föds när stora moln av gas och stoft drar ihop sig på grund av gravitationen tills trycket startar kärnfusion."
+      "fact": "Aktiviteten i galaxens centrum drivs av het gas som strömmar runt ett supermassivt svart hål."
     },
     {
-      "q": "Var ligger det Stora magellanska molnet?",
+      "q": "Vilken sorts galax är IC 2560?",
       "options": [
-        "Inne i kärnan av Vintergatan",
-        "Som en satellitgalax till vår egen galax",
-        "Långt bort i stjärnbilden Stora hunden"
+        "En elliptisk jättegalax",
+        "En stavspiralgalax",
+        "En oregelbunden dvärggalax"
       ],
       "correct": 1,
-      "fact": "Stora magellanska molnet är en mindre dvärggalax som kretsar runt vår egen galax Vintergatan."
+      "fact": "Galaxen har både tydliga spiralarmar och en rak stavformad struktur av stjärnor genom centrum."
+    },
+    {
+      "q": "Vad utmärker galaxhopen som IC 2560 tillhör?",
+      "options": [
+        "Den saknar helt mörk materia",
+        "Den rör sig bort från universum",
+        "Den saknar en dominerande jättegalax"
+      ],
+      "correct": 2,
+      "fact": "Till skillnad från de flesta andra galaxhopar har Luftpumpshopen ingen enskild jättegalax som dominerar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en gigantiskt stor boll som glittrar i mörkret av tusentals och åter tusentals pyttesmå diamanter. Det är precis så här en stjärnhop ser ut när den tittar fram på himlen. Stjärnorna sitter så tätt packade att det nästan ser ut som en lysande sockervaddstuss långt borta i rymden.",
-    "nyborjare": "Bilden visar stjärnhopen NGC 1783 som först observerades av John Herschel redan år 1835. Den befinner sig på ett avstånd av nästan 160 000 ljusår från jorden i det Stora magellanska molnet, som är en satellitgalax till Vintergatan. NGC 1783 är en klotformig stjärnhop, vilket innebär att den utgörs av en tät samling stjärnor som hålls samman av sin egen tyngdkraft. Astronomer tror att hopen är under 1,5 miljarder år gammal, vilket är mycket ungt för att vara en sådan här struktur. Under sin historia har den bildat stjärnor i omgångar tack vare att gas har ansamlats i dess mitt.",
-    "entusiast": "NGC 1783 är en av de största klotformiga stjärnhoparna i det Stora magellanska molnet och fångades här av rymdteleskopet Hubble med kameran Advanced Camera for Surveys. Med en massa som motsvarar omkring 170 000 gånger solens massa uppvisar hopen den typiska symmetriska formen och centrala stjärntätheten för sin klass. Genom att mäta enskilda stjärnors färg och ljusstyrka har forskare kunnat urskilja att hopen har genomgått minst två distinkta perioder av stjärnbildning separerade med 50 till 100 miljoner år. Detta kretslopp drivs av att massiva stjärnor från den första formationstoppen exploderar som supernovor och blåser bort den omgivande gasen, varefter mindre massiva stjärnor långsamt fyller på gasreservoaren igen tills en ny fas kan ta vid."
+    "barn": "Titta på den här jättelika rymdsnurran! Det är en spiralgalax som heter IC 2560. Den består av miljarder stjärnor som snurrar runt tillsammans, precis som en gigantisk karusell av ljus.\\n\\nI mitten finns en rak stav av stjärnor och ett supertungt svart hål. Hålet är så hungrigt att gasen runt det blir supervarm och lyser jättestarkt. Bilden togs av rymdteleskopet Hubble ute i den mörka rymden.",
+    "nyborjare": "Den här bilden från rymdteleskopet Hubble togs 2013 och visar spiralgalaxen IC 2560. Galaxen ligger drygt 110 miljoner ljusår från oss i stjärnbilden Luftpumpen. Den ingår i Luftpumpshopen, en samling av över 200 galaxer som hålls samman av gravitationen.\\n\\nAstronomer klassificerar objektet som en stavspiralgalax eftersom stjärnorna i mitten bildar ett rakt band. Dessutom är den en så kallad Seyfertgalax med en extremt ljusstark galaxkärna. Ljusskenet uppstår när het gas kastas ut från området kring ett centralt svart hål.",
+    "entusiast": "På denna Hubblebild från 2013 framträder IC 2560, en stavspiralgalax belägen cirka 110 miljoner ljusår bort i Luftpumpshopen (Antlia-hopen). Hopen rymmer över 200 galaxer men är ovanlig då den saknar en central, dominerande jättegalax.\\n\\nIC 2560 klassificeras som en Seyfert 2-galax. Kännetecknet är en aktiv galaxkärna med ovanligt starka emissionslinjer från grundämnen som väte, helium, kväve och syre. Kärnans höga luminositet förklaras av ackretion och utflöden av het gas kring ett supermassivt svart hål i galaxens mitt.\\n\\nStrukturen visar väl synliga spiralarmar som sträcker sig ut från en central stav. Den aktiva kärnan är till viss del skymd av stoft och gas i synlinjen, vilket ger upphov till de karaktäristiskt smala emissionslinjerna hos Seyfert 2-objekt."
   },
   "terms": [
     {
-      "term": "stjärnhop",
-      "explanation": "En stor och sammanhängande grupp av stjärnor som bildats tillsammans och binds samman av ömsesidig gravitation."
+      "term": "spiralgalax",
+      "explanation": "En platt, roterande stjärnsamling med lysande armar som ringlar ut från mitten."
     },
     {
-      "term": "galax",
-      "explanation": "Ett enormt system i rymden som samlar miljarder stjärnor, gas, stoft och mörk materia kring ett gemensamt centrum."
-    },
-    {
-      "term": "supernova",
-      "explanation": "Den våldsamma och extremt ljusstarka explosionen av en döende massiv stjärna som lyser upp kosmos."
+      "term": "svart hål",
+      "explanation": "En plats i rymden där gravitationen är så stark att inte ens ljus kan slippa ut."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som en ljusstråle hinner färdas på ett helt jordår i det tomma rymdvakuumet."
+      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett år."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den universella kraft som drar föremål med massa mot varandra."
+    },
+    {
+      "term": "stavspiralgalax",
+      "explanation": "En spiralgalax där stjärnorna i centrum bildar en avlång stavformad struktur."
+    },
+    {
+      "term": "emissionslinjer",
+      "explanation": "Ljusstarka våglängder i ett spektrum som sänds ut av upphettade grundämnen."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant ball glittering in the darkness with thousands and thousands of tiny diamonds. That is exactly what this star cluster looks like when it shines in the sky. The stars sit so tightly packed together that it almost looks like a glowing ball of cotton candy far away in space.",
-      "nyborjare": "The image shows the globular cluster NGC 1783, first observed by John Herschel back in 1835. It is located nearly 160,000 light-years from Earth in the Large Magellanic Cloud, a satellite galaxy of the Milky Way. NGC 1783 is a globular cluster, meaning it is a dense collection of stars held together by its own gravity. Astronomers believe the cluster is under one and a half billion years old, which is very young for this type of object. Throughout its history, it has formed stars in distinct periods thanks to gas accumulating in its center.",
-      "entusiast": "NGC 1783 is one of the largest globular clusters in the Large Magellanic Cloud and was captured here by the Hubble Space Telescope using its Advanced Camera for Surveys. With a mass of around 170,000 times that of the Sun, the cluster displays the typical symmetrical shape and central stellar concentration of its class. By measuring the color and brightness of individual stars, researchers have deduced that the cluster has undergone at least two distinct periods of star formation separated by 50 to 100 million years. This cycle is driven by massive stars from the first burst exploding as supernovae and blowing away surrounding gas, after which less massive stars slowly replenish the gas reservoir until a new phase can take place."
+      "barn": "Look at this giant cosmic pinwheel! It is a spiral galaxy called IC 2560. Billions of stars spin together inside it, swirling like a glowing merry-go-round in the deep black sky.\n\nAcross its bright center lies a straight bar made of stars. Deep inside hides a giant black hole that swallows gas and glows super brightly. This portrait was captured by the Hubble Space Telescope.",
+      "nyborjare": "Captured by the Hubble Space Telescope in 2013, this image shows the spiral galaxy IC 2560. It lies more than 110 million light-years away in the constellation Antlia, the Air Pump. It belongs to the Antlia cluster, a gathering of over 200 galaxies bound together by gravity.\n\nAstronomers classify it as a barred spiral galaxy because of the distinct bar of stars cutting across its middle. It is also an active Seyfert galaxy, featuring a blazing core powered by super-hot gas swirling near a central black hole.",
+      "entusiast": "Captured by Hubble in 2013, IC 2560 is a barred spiral galaxy situated over 110 million light-years away in the Antlia cluster. Comprising more than 200 galaxies bound by gravity, the Antlia cluster is unusual because it lacks a single dominant central galaxy.\n\nIC 2560 is classified as a Seyfert 2 galaxy, an active galactic nucleus exhibiting strong narrow emission lines from hydrogen, helium, nitrogen, and oxygen. The intense nuclear emission is driven by matter accretion and outflows of super-hot gas surrounding a central supermassive black hole, with the central engine partially obscured by obscuring dust along our line of sight."
     },
     "terms": [
       {
-        "term": "cluster",
-        "explanation": "A large and cohesive group of stars born together and bound by mutual gravitational forces."
+        "term": "spiral galaxy",
+        "explanation": "A rotating disk of stars, gas, and dust with winding spiral arms."
       },
       {
-        "term": "galaxy",
-        "explanation": "A massive system in space gathering billions of stars, gas, dust, and dark matter around a common center."
-      },
-      {
-        "term": "supernova",
-        "explanation": "The violent and extremely luminous explosion of a dying massive star that lights up the cosmos."
+        "term": "black hole",
+        "explanation": "A region of spacetime where gravity is so intense that nothing can escape."
       },
       {
         "term": "light-years",
-        "explanation": "The distance that a beam of light travels in a single Earth year through the vacuum of space."
+        "explanation": "The distance that light travels through empty space in one Earth year."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The fundamental attractive force between all matter and energy in the universe."
+      },
+      {
+        "term": "barred spiral galaxy",
+        "explanation": "A spiral galaxy whose central region exhibits an elongated bar of stars."
+      },
+      {
+        "term": "emission lines",
+        "explanation": "Distinct bright wavelengths of light emitted by energized atoms in a gas."
       }
     ],
     "quiz": [
       {
-        "q": "What is a globular cluster?",
+        "q": "What powers the extremely bright core of this galaxy?",
         "options": [
-          "A single star that is fading away",
-          "Dense collections of stars held by gravity",
-          "A group of planets orbiting a black hole"
-        ],
-        "correct": 1,
-        "fact": "Globular clusters are densely packed groups of hundreds of thousands of stars bound together by their mutual gravitational attraction."
-      },
-      {
-        "q": "How do new stars form inside a cluster?",
-        "options": [
-          "When interstellar gas is compressed and density rises",
-          "As massive planets collide and melt together",
-          "By older stars cracking apart into smaller pieces"
+          "A supermassive black hole at the center",
+          "Vast quantities of exploding stars",
+          "Reflected light from neighboring galaxies"
         ],
         "correct": 0,
-        "fact": "Stars are born when massive clouds of gas and dust contract due to gravity until the internal pressure triggers nuclear fusion."
+        "fact": "The activity in the galaxy core is fueled by superheated gas surrounding a central supermassive black hole."
       },
       {
-        "q": "Where is the Large Magellanic Cloud located?",
+        "q": "Which type of galaxy is IC 2560?",
         "options": [
-          "Deep inside the core of the Milky Way",
-          "As a satellite galaxy orbiting our own galaxy",
-          "Far away in the constellation of Canis Major"
+          "A giant elliptical galaxy",
+          "A barred spiral galaxy",
+          "An irregular dwarf galaxy"
         ],
         "correct": 1,
-        "fact": "The Large Magellanic Cloud is a smaller dwarf galaxy that orbits our own Milky Way galaxy."
+        "fact": "The galaxy exhibits distinct spiral arms connected to a central, bar-like arrangement of stars."
+      },
+      {
+        "q": "What is unusual about the galaxy cluster containing IC 2560?",
+        "options": [
+          "It contains no dark matter",
+          "It is moving backwards through space",
+          "It lacks a single dominant galaxy"
+        ],
+        "correct": 2,
+        "fact": "Unlike most large clusters, the Antlia cluster has no dominant giant galaxy holding center stage."
       }
     ]
   }

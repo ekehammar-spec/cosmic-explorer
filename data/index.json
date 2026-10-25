@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-25",
+  "media_type": "image",
+  "title": "Ricciolikratern: Sprickor och stelnad lava",
+  "title_en": "Riccioli Crater: Cracked, Melted, and Draped",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12950/PIA12950~small.jpg"
+ },
+ {
   "date": "2026-10-24",
   "media_type": "image",
   "title": "Linsgalaxen Mrk 820",
@@ -65,9 +72,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "NGC 1783",
-  "title_en": "A youthful cluster",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-sees-a-youthful-cluster_20330747093_o/hubble-sees-a-youthful-cluster_20330747093_o~small.jpg"
+  "title": "Spiralgalaxen IC 2560 i Luftpumpen",
+  "title_en": "Hubble Catches a Spiral in the Air Pump",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001368/GSFC_20171208_Archive_e001368~small.jpg"
  },
  {
   "date": "2026-10-14",

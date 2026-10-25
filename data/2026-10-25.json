@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-25",
+  "title": "Riccioli Crater: Cracked, Melted, and Draped",
+  "title_sv": "Ricciolikratern: Sprickor och stelnad lava",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA12950/PIA12950~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12950/PIA12950~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA12950/PIA12950~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA12950",
+  "credit": "NASA/GSFC/Arizona State University",
+  "taken": "2010",
+  "src": "library",
+  "id": "PIA12950",
+  "px": [
+    1000,
+    1000
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAJRAAAQMCBAcBAAAAAAAAAAAAAQACEQMhEhMxUQQiMkFhgaFC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMANwTfdQBBDdSfqYGAyT0gSs5rxII5vzsPCBggSZ7fUo1LWCMLnAEq1KnmSAEBWrHKhvWRrskRifI0GiaxgMF3dWyw6ZsPGpQDHGrVqEiMbgXRpOllra3CcsCWWPsJFBmGs1se9vK7PDcOyrSfWc64MDdB//9k=",
+  "quiz": [
+    {
+      "q": "Vad bildade månens släta mörka områden?",
+      "options": [
+        "Nedslag från isiga kometer",
+        "Urgamla flöden av vulkanisk lava",
+        "Kraftig erosion från solvinden"
+      ],
+      "correct": 1,
+      "fact": "För miljarder år sedan var månen vulkaniskt aktiv och basaltisk lava fyllde ut stora sänkor på ytan."
+    },
+    {
+      "q": "Hur uppstår en centraltopp i en stor nedslagskrater?",
+      "options": [
+        "Vulkangaser trycker upp berggrunden",
+        "Rymdstoft samlas långsamt i mitten",
+        "Berggrunden studsar elastiskt uppåt efter smällen"
+      ],
+      "correct": 2,
+      "fact": "Den enorma energin vid nedslaget trycker ihop berggrunden, som direkt fjädrar tillbaka och reser ett berg i mitten."
+    },
+    {
+      "q": "Vad orsakade de allra flesta kratrarna på månen?",
+      "options": [
+        "Kollisioner med asteroider och meteoroidkroppar",
+        "Våldsamma utbrott från forntida vulkaner",
+        "Kollapsade hålrum under den stelnade ytan"
+      ],
+      "correct": 0,
+      "fact": "Eftersom månen saknar väder och plattektonik finns nästan alla spår av rymdnedslag bevarade sedan solsystemets barndom."
+    }
+  ],
+  "levels": {
+    "barn": "På månen finns det massor av kratrar som bildades när rymdstenar kraschade där för jättelänge sedan. Den här bilden visar botten av en stor krater som heter Riccioli. Mitt i kratern finns ett berg, ungefär som när du kastar en sten i vatten och vattendroppar skvätter upp i mitten. Men här stelnade berget direkt. Senare rann det ut glödhet lava som flöt ut som sirap över marken och stelnade till en mörk, slät yta.",
+    "nyborjare": "År 2010 fångade rymdsonden Lunar Reconnaissance Orbiter denna detaljrika vy av Ricciolikratern på månen. Bilden visar gränsen mellan kraterns centraltopp och stelnade vulkaniska lavaflöden. När en stor asteroid träffar månen trycks berggrunden först ihop våldsamt och studsar sedan uppåt igen, vilket bildar ett centralt bergmassiv. Långt efter det ursprungliga nedslaget trängde flytande magma upp från månens inre och fyllde ut delar av kratergolvet. När lavan kyldes ner stelnade den till mörk basalt, som bildar en skarp kontrast mot det ljusare och mer kuperade urberget runt omkring. Månens yta saknar atmosfär och väder, vilket gör att dessa urgamla geologiska spår bevaras orörda under årmiljoner.",
+    "entusiast": "Denna högupplösta bild från 2010 togs av kameran ombord på Lunar Reconnaissance Orbiter och visar botten av Ricciolikratern nära månens västra rand. Området är geologiskt komplext och fångar övergången mellan en utlöpare från kraterns centraltopp och mörka basaltiska lavaflöden. Riccioli är en kraftigt eroderad nedslagskrater från den nektariska eran med en diameter på cirka 146 kilometer. Vid sådana storskaliga nedslag genomgår månskorpan en hydrodynamisk återfjädring som skapar centraltoppar och ringstrukturer, samtidigt som chockvågor genererar smältbergart. Senare under den senimbriska epoken trängde mantelmagma upp genom sprickbildningar i kraterbottnen. De flytande flödena draperade den tidigare topografin och skapade släta partier med låg albedo. På bilden syns hur lavan omringar och delvis dränker den ljusare terrängen. När lavan kyldes krympte materialet, vilket gav upphov till sprickor. Sådana gränszoner ger planetforskare unika möjligheter att kartlägga den tidsmässiga sekvensen av månens vulkanism och nedslagshistoria."
+  },
+  "terms": [
+    {
+      "term": "centraltopp",
+      "explanation": "Ett berg mitt i en nedslagskrater som bildas när marken studsar uppåt efter kollisionen."
+    },
+    {
+      "term": "Lunar Reconnaissance Orbiter",
+      "explanation": "En rymdsond från NASA som kretsar runt månen för att kartlägga dess yta i detalj."
+    },
+    {
+      "term": "basalt",
+      "explanation": "En mörk och finkornig vulkanisk bergart som bildas när lava svalnar och stelnar."
+    },
+    {
+      "term": "albedo",
+      "explanation": "Ett mått på hur mycket ljus en yta reflekterar jämfört med hur mycket den träffas av."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The Moon is covered in craters made when space rocks crashed there long ago. This picture shows the bottom of a huge crater named Riccioli. In the middle of the crater is a mountain peak, formed like when a drop of water splashes upward after you throw a stone into a puddle. Later on, red-hot lava poured across the ground like thick syrup and cooled down into a dark, smooth floor.",
+      "nyborjare": "In 2010, NASA's Lunar Reconnaissance Orbiter captured this detailed view of Riccioli Crater on the Moon. The image shows the boundary between the crater's central peak and cooled volcanic lava flows. When a massive asteroid strikes, the lunar crust compresses violently and then rebounds upward, creating a central mountain. Long after the original impact, molten magma welled up from the Moon's interior to flood parts of the crater floor. As the lava cooled, it hardened into dark basalt, contrasting sharply with the lighter and rougher bedrock around it. Because the Moon lacks weather and an atmosphere, these ancient geologic features remain preserved for billions of years.",
+      "entusiast": "Captured in 2010 by NASA's Lunar Reconnaissance Orbiter, this high-resolution image details the floor of Riccioli Crater near the Moon's western limb. The area is geologically intricate, capturing the boundary where a spur of the central peak meets dark mare basalt deposits. Riccioli is an ancient Nectarian-era impact crater spanning approximately 146 kilometers across. In impacts of this magnitude, hydrodynamic rebound of the crust forms central peaks, accompanied by extensive impact melt draping the fractured terrain. Later during the Imbrian period, subsurface magma ascended through crustal fractures, pooling across the crater floor. These low-viscosity basaltic flows partially submerged the brighter peak materials, leaving distinct differences in albedo. As the cooling volcanic plains contracted, characteristic stress fractures developed. Such contact zones allow planetary geologists to decipher the stratigraphy and thermal evolution of the lunar crust over billions of years."
+    },
+    "terms": [
+      {
+        "term": "central peak",
+        "explanation": "A mountain at the center of an impact crater formed when compressed bedrock rebounds upward after a collision."
+      },
+      {
+        "term": "Lunar Reconnaissance Orbiter",
+        "explanation": "A robotic NASA spacecraft orbiting the Moon to map its surface in high resolution."
+      },
+      {
+        "term": "basalt",
+        "explanation": "A dark, fine-grained volcanic rock formed from the rapid cooling of lava."
+      },
+      {
+        "term": "albedo",
+        "explanation": "A measure of how much light a surface reflects compared to the total light received."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What created the smooth dark areas on the Moon?",
+        "options": [
+          "Impacts from icy comets",
+          "Ancient flows of volcanic lava",
+          "Strong erosion from solar wind"
+        ],
+        "correct": 1,
+        "fact": "Billions of years ago, widespread volcanic eruptions flooded low-lying basins with basaltic lava that cooled into dark plains."
+      },
+      {
+        "q": "How does a central peak form in a crater?",
+        "options": [
+          "Volcanic gases push the bedrock upward",
+          "Space dust slowly accumulates in the center",
+          "Bedrock elastically rebounds upward after the impact"
+        ],
+        "correct": 2,
+        "fact": "The intense shock of a large impact compresses the crust, which then rebounds upward to form a central mountain."
+      },
+      {
+        "q": "What caused most of the craters on the Moon?",
+        "options": [
+          "Collisions with asteroids and meteoroids",
+          "Violent eruptions from ancient volcanoes",
+          "Collapsed caverns beneath the solidified surface"
+        ],
+        "correct": 0,
+        "fact": "Without an atmosphere, weather, or active plate tectonics, the Moon preserves ancient collision scars from space debris."
+      }
+    ]
+  }
+}
