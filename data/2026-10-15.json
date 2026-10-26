@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Sees A Smiling Lens",
-  "title_sv": "Galaxhop SDSS J1038+4849",
+  "title": "Hubble Views the Whirling Disk of NGC 4526",
+  "title_sv": "NGC 4526",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000791/GSFC_20171208_Archive_e000791~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000791/GSFC_20171208_Archive_e000791~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000791/GSFC_20171208_Archive_e000791~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000791",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000926/GSFC_20171208_Archive_e000926~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000926/GSFC_20171208_Archive_e000926~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000926/GSFC_20171208_Archive_e000926~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000926",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000791",
+  "id": "GSFC_20171208_Archive_e000926",
   "px": [
     1280,
-    1263
+    1114
   ],
   "w": 640,
-  "h": 631,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQIAAwQH/8QAJRAAAgIBBAEDBQAAAAAAAAAAAQIAEQMEEiFRMRMicUFCgZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFR/9oADAMBAAIRAxEAPwDnxUg1REA8RxRYbBRJPtPgD5l2j0uTV5hiwldxH3NQ/sm9VQVK7dw4YWIp88cTZqNE2mRDkKn1LICtZFd9TITdCh+ol0Na+mFCDduvdZsjqPgyLjyhnXcv1HcqHzXUdHCZgyIDRBAfkfmAGyFol1yDRhsEHuRWZGDKaZTYPUqP/9k=",
+  "h": 557,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAQUGAgME/8QAIBAAAQQCAgMBAAAAAAAAAAAAAQACAwQFESFBEjEyUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AgRET0tjazj6Ccw1GkjhP8biYptA6BREQajwPkrAwOHSv8hjYa4I4Kn7EMYJ0g4Y75YfaYxZxzG6B0VM7KPkf1BQWc0+UcuS2S6Xdpf5FAkoP/9k=",
   "quiz": [
     {
-      "q": "Vad är det som böjer ljuset runt massiva galaxer?",
+      "q": "Vad är en linsformad galax för något?",
       "options": [
-        "Kraftfulla magnetfält i rymden",
-        "Rymdtidens krökning från enorm massa",
-        "Tjocka moln av kosmisk gas"
+        "En galax som har formen av en lins",
+        "En övergångsform mellan spiralgalaxer och elliptiska galaxer",
+        "En liten galax som skapats av en gravitationell lins"
       ],
       "correct": 1,
-      "fact": "Enligt Einsteins allmänna relativitetsteori orsakar massiva objekt en kraftfull krökning av rymdtiden som böjer ljusets väg."
+      "fact": "Linsformade galaxer saknar tydliga spiralarmar men har en skivstruktur, vilket gör att de hamnar mitt emellan spiralgalaxer och elliptiska galaxer."
     },
     {
-      "q": "Vad bildas ibland när en källa, lins och observatör står perfekt i rad?",
+      "q": "Vad finns i mitten av galaxen NGC 4526?",
       "options": [
-        "En perfekt ljusring",
-        "Ett roterande svart hål",
-        "En spegelvänd dubbelgalax"
+        "Ett supermassivt svart hål",
+        "Ett tätt kluster av unga stjärnor",
+        "En stor och aktiv kvasar"
       ],
       "correct": 0,
-      "fact": "När ljuskällan, den massiva linsen och observatören är exakt symmetriskt i linje uppstår en cirkelformad struktur som kallas Einsteinring."
+      "fact": "I galaxens centrum döljer sig ett enormt supermassivt svart hål som väger lika mycket som 450 miljoner solar."
     },
     {
-      "q": "Vilken roll spelar galaxhopar i universum enligt astronomin?",
+      "q": "Hur rör sig gasen i galaxens centrala skiva?",
       "options": [
-        "De fungerar som naturliga förstoringsobjekt",
-        "De skapar nya stjärnor genom kollisioner",
-        "De bromsar galaxernas rörelse i rymden"
+        "Den står nästan helt stilla av gravitationen",
+        "Den faller sakta in mot det svarta hålet",
+        "Den roterar med en enorm hastighet"
       ],
-      "correct": 0,
-      "fact": "Galaxhopar är universums massivaste strukturer och verkar som kosmiska linser som kan förstora, fördela och böja ljuset bakom dem."
+      "correct": 2,
+      "fact": "Gasen, stoftet och stjärnorna i skivan snurrar otroligt snabbt med en hastighet som överstiger 250 kilometer i sekundén."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att rymden är som en stor studsmatta. Om du lägger en jättetung sten i mitten sjunker den ner och drar med sig duken. Universum fungerar på liknande sätt med tunga galaxer. När ljuset från stjärnor långt bakom färdas förbi hopar av galaxer böjs det av på samma sätt som när du tittar in i en rolig spegel på ett tivoli och ansiktet dras ut och ser glatt ut.",
-    "nyborjare": "I mitten av bilden syns en stor galaxhop som ser ut som ett glatt ansikte med lysande ögon och ett leende. Ansiktets ögon består av mycket ljusstarka galaxer, medan de båda kurvorna som bildar leendet faktiskt är ljusbågar. Dessa bågar uppstår genom stark gravitationslinsverkan, en effekt som förklaras av Einsteins allmänna relativitetsteori. Galaxhopar är universums massivaste strukturer och deras enorma dragningskraft kröker rymdtiden runt omkring dem. Detta gör att de fungerar som kosmiska linser som kan förstora och fördela ljuset från objekt som befinner sig långt bakom dem i det tidiga universum.",
-    "entusiast": "Den här bilden visar galaxhopen SDSS J1038+4849 i ett system som studerats med rymdteleskopet Hubble och dess Wide Field and Planetary Camera 2 samt Wide Field Camera 3. Det mest slående draget är illusionen av ett ansikte, där de orangefärgade ögonen utgörs av ljusstarka galaxer och det skenbara leendet är bågar skapade genom stark gravitationslinsverkan. Galaxhopar tillhör universums mest massiva strukturer och deras gravitationspotential är tillräckligt stor för att deformera rymdtiden i en omfattning som förutsägs av Einsteins allmänna relativitetsteori. Denna storskaliga effekt gör det möjligt att studera avlägsna bakgrundsobjekt genom att förstora ljuset från källor som annars hade varit för svaga för att upptäckas. I särskilt gynnsamma fall där källa, lins och observatör ligger på linje uppstår en komplett Einsteinring, vilket ger astronomer ett oumbärligt verktyg för att modellera massfördelningen och blicka djupare in i det tidiga universum än vad som annars vore möjligt."
+    "barn": "Tänk dig en stor snurra långt ute i rymden som lyser svagt som en halo. Den här galaxen är full av stjärnor och stoft som virvlar runt i en väldig fart. Fastän den ser lugn och fredlig ut på bilden är det full fart där inne med både gasmoln som snurrar och stjärnexplosioner som har hänt för länge sedan.",
+    "nyborjare": "Den vackra galaxen NGC 4526 ser fridfull ut med sitt mjuka ljus och sina mörka stoftstråk, men den är faktiskt en mycket dynamisk plats. Den tillhör kategorin linsformade galaxer, vilket är en form som ligger mitt emellan en spiralgalax och en elliptisk galax. I dess mitt döljer sig ett gigantiskt svart hål som väger lika mycket som 450 miljoner solar. Runt detta centrum finns en snabbt roterande skiva av gas och stoft som rör sig med över 250 kilometer i sekundén.",
+    "entusiast": "NGC 4526 är en av de ljusstarkaste linsformade galaxerna i Virgohopen. Dess mest utmärkande drag är en exceptionellt stor och snabbt roterande gasskiva som sträcker sig ut över sju procent av galaxens totala radie. Genom att studera denna rotationsdynamik kunde forskare för första gången beräkna massan hos det centrala supermassiva svarta hålet, som uppskattas till 450 miljoner solmassor. Galaxen har dessutom varit värd för två kända supernovaexplosioner, åren 1969 och 1994. Bilden är tagen med rymdteleskopet Hubbles Wide Field and Planetary Camera 2 och Advanced Camera for Surveys."
   },
   "terms": [
     {
-      "term": "galaxhop",
-      "explanation": "En stor samling av tusentals galaxer som hålls samman av sin gemensamma dragningskraft."
+      "term": "galax",
+      "explanation": "Ett enormt system i rymden som samlar miljarder stjärnor, gas, stoft och mörk materia kring ett gemensamt centrum."
     },
     {
-      "term": "gravitationslinsverkan",
-      "explanation": "När ett massivt objekt böjer ljuset från något som ligger bakom med hjälp av sin tyngdkraft."
+      "term": "supermassivt svart hål",
+      "explanation": "Ett kompakt objekt med så stark gravitationskraft att ingenting, inte ens ljus, kan undkomma dess dragningskraft."
     },
     {
-      "term": "rymdtid",
-      "explanation": "Ett sammanvävt fyrdimensionellt system av rummets tre dimensioner och en tidsdimension."
+      "term": "supernovaexplosion",
+      "explanation": "Den våldsamma och ljusstarka utblomningen som sker när en tung stjärna har nått slutet av sitt liv."
     },
     {
-      "term": "Einsteinring",
-      "explanation": "En ringformad ljusstruktur som bildas när ljuset från en bakomliggande källa böjs runt en massiv kropp."
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat astronomiskt instrument som placerats i omloppsbana ovanför jordatmosfären för att observera universum."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine space is like a large bouncy trampoline. If you place a heavy stone in the middle, it sinks down and pulls the fabric with it. The universe works in a similar way with heavy galaxies. When light from stars far behind travels past clusters of galaxies, it bends in the same way as when you look into a funhouse mirror and your face stretches out to look happy.",
-      "nyborjare": "In the center of this image is a large galaxy cluster that resembles a happy face with glowing eyes and a smile. The eyes of this face are very bright galaxies, while the curved lines forming the smile are actually arcs. These arcs are created by strong gravitational lensing, an effect explained by Einstein's theory of general relativity. Galaxy clusters are the most massive structures in the universe, and their immense gravitational pull warps the spacetime around them. This allows them to act as cosmic lenses that can magnify and bend the light from objects located far behind them in the early universe.",
-      "entusiast": "This image reveals the galaxy cluster SDSS J1038+4849, captured using the Hubble Space Telescope equipped with instruments such as Wide Field and Planetary Camera 2 and Wide Field Camera 3. The most striking feature is the illusion of a face, where the orange eyes consist of luminous galaxies and the curved smile lines are arcs produced by strong gravitational lensing. Galaxy clusters represent some of the most massive structures in the universe, possessing a gravitational potential strong enough to warp spacetime in accordance with Einstein's theory of general relativity. This macroscale phenomenon provides astronomers with powerful cosmic lenses capable of magnifying distant background sources that would otherwise remain undetectable. In rare configurations where the source, lens, and observer align perfectly, a complete Einstein Ring is formed, offering researchers an essential tool to model mass distributions and probe further into the early universe."
+      "barn": "Imagine a giant spinning wheel far out in space that glows softly like a halo. This galaxy is full of stars and dust swirling around at a tremendous speed. Even though it looks peaceful and calm in the picture, it is actually a very busy place with spinning gas clouds and stellar explosions that happened long ago.",
+      "nyborjare": "The beautiful galaxy NGC 4526 looks serene with its soft glow and dark dust lanes, but it is actually a highly dynamic place. It belongs to the category of lenticular galaxies, which is a shape that lies somewhere between a spiral galaxy and an elliptical galaxy. At its center lies a giant black hole with a mass equal to 450 million suns. Surrounding this center is a rapidly rotating disk of gas and dust moving at over 250 kilometers per second.",
+      "entusiast": "NGC 4526 is one of the brightest lenticular galaxies in the Virgo cluster. Its most prominent feature is an exceptionally large and rapidly rotating gas disk that extends across seven percent of the galaxy's total radius. By studying this rotational dynamics, researchers were able to calculate the mass of the central supermassive black hole for the first time, estimated at 450 million solar masses. The galaxy has also hosted two known supernova explosions, in 1969 and 1994. The image was captured using Hubble's Wide Field and Planetary Camera 2 and Advanced Camera for Surveys."
     },
     "terms": [
       {
-        "term": "galaxy cluster",
-        "explanation": "A massive collection of thousands of galaxies held together by mutual gravitational attraction."
+        "term": "galaxy",
+        "explanation": "A massive system in space containing billions of stars, gas, dust, and dark matter bound together by gravity."
       },
       {
-        "term": "gravitational lensing",
-        "explanation": "The bending of light from a distant source around a massive intermediate object due to gravity."
+        "term": "supermassive black hole",
+        "explanation": "A compact object with gravity so strong that nothing, not even light, can escape its pull."
       },
       {
-        "term": "spacetime",
-        "explanation": "The mathematical model that fuses the three dimensions of space with the one dimension of time."
+        "term": "supernova",
+        "explanation": "The violent and luminous explosion that occurs when a massive star reaches the end of its life."
       },
       {
-        "term": "Einstein Ring",
-        "explanation": "A circular ring of light created when background light is bent around a massive foreground lens."
+        "term": "space telescope",
+        "explanation": "An advanced astronomical instrument placed in orbit above Earth's atmosphere to observe the universe."
       }
     ],
     "quiz": [
       {
-        "q": "What bends light around massive galaxies in space?",
+        "q": "What is a lenticular galaxy?",
         "options": [
-          "Powerful magnetic fields in deep space",
-          "Spacetime curvature caused by massive objects",
-          "Thick clouds of cosmic gas and dust"
+          "A galaxy shaped strictly like a lens",
+          "An intermediate stage between spirals and ellipticals",
+          "A small galaxy created by gravitational lensing"
         ],
         "correct": 1,
-        "fact": "According to Einstein's theory of general relativity, massive objects cause a powerful curvature of spacetime that bends the path of light."
+        "fact": "Lenticular galaxies lack clear spiral arms while possessing a disk structure, placing them somewhere between spiral and elliptical galaxies."
       },
       {
-        "q": "What forms sometimes when a source, lens, and observer align?",
+        "q": "What lies at the center of NGC 4526?",
         "options": [
-          "A perfect ring of light",
-          "A rapidly rotating black hole",
-          "A mirrored double galaxy pair"
+          "A colossal supermassive black hole",
+          "A dense cluster of young stars",
+          "A large and active quasar"
         ],
         "correct": 0,
-        "fact": "When the source, the massive lens, and the observer are symmetrically aligned, a circular structure known as an Einstein Ring is produced."
+        "fact": "Hidden in the galaxy's center is an enormous supermassive black hole with the mass of 450 million suns."
       },
       {
-        "q": "What is the primary role of galaxy clusters in the universe?",
+        "q": "How does the gas in the central disk move?",
         "options": [
-          "They act as natural magnifying cosmic lenses",
-          "They create new stars through direct collisions",
-          "They slow down the motion of nearby galaxies"
+          "It remains nearly motionless due to gravity",
+          "It slowly falls inward toward the black hole",
+          "It rotates at an incredible speed"
         ],
-        "correct": 0,
-        "fact": "Galaxy clusters are the most massive structures in the universe and act as cosmic lenses that can magnify, distort, and bend background light."
+        "correct": 2,
+        "fact": "The gas, dust, and stars in the disk spin incredibly fast at speeds exceeding 250 kilometers per second."
       }
     ]
   }
