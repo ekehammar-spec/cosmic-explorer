@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-26",
+  "title": "Lake Tengiz from space",
+  "title_sv": "Sjö Tengiz från rymden",
+  "place": "Kazakstan",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000280/GSFC_20171208_Archive_e000280~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000280/GSFC_20171208_Archive_e000280~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000280/GSFC_20171208_Archive_e000280~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000280",
+  "credit": "NASA Earth Observatory",
+  "source": "Credit: NASA Earth Observatory",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000280",
+  "archive": true,
+  "px": [
+    1920,
+    1277
+  ],
+  "w": 639,
+  "h": 425,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAkEAACAgEDBAIDAAAAAAAAAAABAgMRAAQSIQUxQVETIkKxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIhAxEiMf/aAAwDAQACEQMRAD8AnyaZpIIttkA0caXpqmLa9Wa5AvNpMojVCLB713zs7slFd3pQMRU+STxDZZqLpZjI2NuXyKq8paIrIDA60ykjnziU2rZdC0nKuvge78jO+kdL+aQljW4qP3h3rY5Qq5I8NcEi6ymv4gcb+/GGGFjydrpAul1f1+qCq/uJaaeXcsZcHbXJHvDDNFTzI2dn/9k=",
+  "levels": {
+    "barn": "Bilden visar en stor sjö som ser ljusblå och grön ut uppifrån rymden. Runt sjön finns smala öar och vita stränder som slingrar sig fram. Vattnet har olika färger eftersom vissa små sjöar har färskt vatten medan den stora sjön har saltvatten. Området är ett mycket viktigt hem för tusentals fåglar, till exempel rosa flamingor som trivs bra där.",
+    "nyborjare": "Från omloppsbanan kring jorden fångade en astronaut en bild av sjön Tengiz i norra Kazakstan. Den femtio kilometer långa östra stranden syns genom lätta molnslöjor med sina smala öar och vita stränder. Sjön ligger i ett slutet bäcken där floden Kulanutpes tillför sötvatten som bildar mindre sjöar i närheten, medan vattnet i huvudsjön långsamt avdunstar och blir salt. Vindar rör upp vågor som sprider sediment och salt vilket ger vattnet en ljusblå och grön färg. Området är ett unikt våtmarksområde med över 300 fågelarter, däribland världens norpolsnärmaste population av rosa flamingor. Historiskt sett är platsen även känd för att en rymdkapsel landade där år 1976 och sjönk genom isen under en snöstorm, vilket krävde en lång och svår räddningsaktion.",
+    "entusiast": "En astronaut ombord på Internationella rymdstationen fotograferade den östra stranden av sjön Tengiz i Kazakstan genom ett tunt molntäcke. Bilden ger en överblick över en komplex hydrologi där sötvatten från Kulanutpesfloden rinner in i ett slutet avrinningsområde. I detta system skapas skiftande vattenmiljöer från sötvattensjöar till en större, grund sjö på endast sex meters djup där avdunstning leder till salthaltigt vatten. Starka västliga vindar bildar vågor som dispergerar sediment och salter, vilket förändrar vattnets optiska egenskaper till en ljusare blågrön nyans. Öarnas märkliga och slingrande form kan vara dränkta restpartier av flodens tidigare deltatillägg. Området är klassat som Kazakstans första världsarv och har stor ekologisk betydelse som ett Ramsarområde med hundratals fågelarter, inklusive den nordligaste förekomsten av rosa flamingor. Artikelns historiska referens till sovjetisk rymdfart berättar om den dramatiska räddningen år 1976 då en rymdkapsel av modell Soyuz kraschade genom isen på sjön vid hårt väder och bärgades efter nio timmar."
+  },
+  "terms": [
+    {
+      "term": "Internationella rymdstationen",
+      "explanation": "En rymdstation som kretsar kring jorden och där astronauter bor och utför vetenskapliga experiment."
+    },
+    {
+      "term": "RAMSAR",
+      "explanation": "En internationell konvention för skydd och hållbart nyttjande av våtmarker av internationell betydelse."
+    },
+    {
+      "term": "UNESCO World Heritage Site",
+      "explanation": "Ett kultarv eller naturarv som har valts ut av Unesco för sitt unika värde för mänskligheten."
+    },
+    {
+      "term": "Soyuz",
+      "explanation": "En rymdfarkost som används för att transportera kosmonauter och astronauter till och från rymden."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows a big lake that looks light blue and green from space. Around the lake there are thin islands and white beaches that wind around. The water has different colours because some small lakes have fresh water while the big lake has salt water. The area is a very important home for thousands of birds, such as pink flamingos that enjoy living there.",
+      "nyborjare": "From orbit around the earth, an astronaut captured an image of Lake Tengiz in northern Kazakhstan. The fifty-kilometer-long eastern shore is visible through thin wisps of cloud with its thin islands and white beaches. The lake lies in a closed basin where the Kulanutpes River brings in fresh water that forms smaller lakes nearby, while the water in the main lake slowly evaporates and becomes salty. Winds stir up waves that disperse sediment and salt, giving the water a light blue and green color. The area is a unique wetland with over three hundred bird species, including the northernmost habitat of the pink flamingo. Historically, the location is also famous for a spacecraft that landed there in 1976 and sank through the ice during a snowstorm, requiring a long and difficult rescue operation.",
+      "entusiast": "An astronaut aboard the International Space Station photographed the eastern shore of Lake Tengiz in Kazakhstan through a thin cloud cover. The image provides an overview of a complex hydrology where fresh water from the Kulanutpes River flows into a closed drainage basin. In this system, varying aquatic environments are created, ranging from freshwater lakes to a larger, shallow lake only six meters deep where evaporation leads to saline water. Strong westerly winds generate waves that disperse sediments and salts, altering the optical properties of the water to a brighter blue-green hue. The strange and winding shape of the islands may be drowned remnants of the river's former delta distributaries. The area is classified as Kazakhstan's first World Heritage Site and holds great ecological importance as a Ramsar wetland with hundreds of bird species, including the northernmost habitat of the pink flamingo. The historical reference in the article recounts the dramatic rescue in 1976 when a Soyuz spacecraft crashed through the ice on the lake during severe weather and was salvaged after nine hours."
+    },
+    "terms": [
+      {
+        "term": "International Space Station",
+        "explanation": "A habitable artificial satellite orbiting Earth where astronauts live and conduct scientific research."
+      },
+      {
+        "term": "RAMSAR",
+        "explanation": "An international treaty for the conservation and sustainable use of wetlands of international importance."
+      },
+      {
+        "term": "UNESCO World Heritage Site",
+        "explanation": "A landmark or area selected by UNESCO as having cultural, historical, or scientific significance."
+      },
+      {
+        "term": "Soyuz",
+        "explanation": "A series of spacecraft designed for human spaceflight operated by the Russian space program."
+      }
+    ],
+    "place": "Kazakhstan"
+  }
+}

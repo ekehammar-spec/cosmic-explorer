@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-25T13:58:30.110Z",
+ "updated": "2026-10-26T05:02:22.381Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-25T06:00:00Z",
-   "title_sv": "Orkanen Vance",
-   "title_en": "Hurricane Vance",
+   "date": "2026-10-25T18:00:00Z",
+   "title_sv": "Tropiska stormen Vance",
+   "title_en": "Tropical Storm Vance",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 140 km/h",
-   "value_en": "winds of 140 km/h"
+   "value_sv": "vindar på 110 km/h",
+   "value_en": "winds of 110 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-25T06:00:00Z",
+   "date": "2026-10-25T18:00:00Z",
    "title_sv": "Tropiska stormen Champi",
    "title_en": "Tropical Storm Champi",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 85 km/h",
-   "value_en": "winds of 85 km/h"
+   "value_sv": "vindar på 65 km/h",
+   "value_en": "winds of 65 km/h"
   },
   {
    "kind": "storm",
@@ -44,16 +44,6 @@
   },
   {
    "kind": "fire",
-   "date": "2026-10-15T17:11:00Z",
-   "title_sv": "Skogsbrand i San Diego, California",
-   "title_en": "Wildfire in San Diego, California",
-   "where_sv": "",
-   "where_en": "",
-   "value_sv": "1 320 hektar",
-   "value_en": "1,320 hectares"
-  },
-  {
-   "kind": "fire",
    "date": "2026-10-22T21:45:00Z",
    "title_sv": "Skogsbrand i Hamilton, Florida",
    "title_en": "Wildfire in Hamilton, Florida",
@@ -61,6 +51,16 @@
    "where_en": "",
    "value_sv": "830 hektar",
    "value_en": "830 hectares"
+  },
+  {
+   "kind": "fire",
+   "date": "2026-10-17T23:28:00Z",
+   "title_sv": "Skogsbrand i Sanders, Montana",
+   "title_en": "Wildfire in Sanders, Montana",
+   "where_sv": "",
+   "where_en": "",
+   "value_sv": "680 hektar",
+   "value_en": "680 hectares"
   }
  ]
 }

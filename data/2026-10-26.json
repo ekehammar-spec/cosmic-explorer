@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-26",
+  "title": "Earth-Facing Coronal Holes",
+  "title_sv": "Koronahål vända mot jorden",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA16909/PIA16909~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA16909/PIA16909~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA16909/PIA16909~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA16909",
+  "credit": "NASA/GSFC/Solar Dynamics Observatory",
+  "taken": "2016",
+  "src": "library",
+  "id": "PIA16909",
+  "px": [
+    1200,
+    645
+  ],
+  "w": 640,
+  "h": 344,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAARACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EACUQAAEDAwIGAwAAAAAAAAAAAAEAAgMEBRESIRMxMmFxoQZBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECIRIx/9oADAMBAAIRAxEAPwCN8eqHQ2gZa1zDJuElXStiqDO04Bdl7OYPhTrTcBSSGObLoHjDh+d01WGB+SJmyfbQ3f0o6hq9LYpOcG45DVsEscYDckDSfeExeyYbAyGZmiQPOkE77qdbKgw1HFMrYoYuQdtjwlb1dHXGcYJ4TNm55nukw+88F2lOktaZ1IQqyNA7qWUIQM//2Q==",
+  "quiz": [
+    {
+      "q": "Vad är ett koronahål på solen?",
+      "options": [
+        "En fysisk grop i solytan",
+        "Ett område med öppna magnetfält",
+        "En svalkande skugga från månen"
+      ],
+      "correct": 1,
+      "fact": "Ett koronahål är ett område där solens magnetfält sträcker sig ut i rymden så att het gas kan strömma ut."
+    },
+    {
+      "q": "Vad händer på jorden när solvinden träffar vårt magnetfält?",
+      "options": [
+        "Jordens gravitation ökar tillfälligt",
+        "Månens bana förskjuts något",
+        "Det kan bildas norrsken på himlen"
+      ],
+      "correct": 2,
+      "fact": "När laddade partiklar från solvinden fångas in i jordens magnetfält kolliderar de med atmosfären och skapar polarsken."
+    },
+    {
+      "q": "Varför ser koronahål mörka ut i extremt ultraviolett ljus?",
+      "options": [
+        "Gasen där är svalare och glesare",
+        "Området saknar helt kärnreaktioner",
+        "Ljuset blockeras av solfläckar framför"
+      ],
+      "correct": 0,
+      "fact": "Eftersom het gas fritt strömmar iväg ut i rymden har koronahål lägre densitet och temperatur än omgivningen."
+    }
+  ],
+  "levels": {
+    "barn": "Titta på solen! Den ser ut som en glödande apelsin med två mörka fläckar på magen. De mörka fläckarna kallas koronahål. De är inte hål som man kan ramla ner i. Det är istället dörrar som solen öppnar för att blåsa ut rymdvind! Vinden består av pyttesmå partiklar som rusar genom rymden mot oss. När de kraschar in i jordens osynliga sköld börjar himlen lysa i grönt och lila. Det kallas norrsken!",
+    "nyborjare": "Den här bilden från 2016 visar solen fotograferad i extremt ultraviolett ljus, vilket gör att vi ser dess yttersta atmosfär, koronan. De två stora, mörka områdena i mitten kallas koronahål. Det är inte tomma hål i solytan. I dessa områden är solens magnetfält öppna rakt ut i rymden istället för att böja sig tillbaka mot ytan. Det gör att den heta gasen, solplasmat, lätt kan fly iväg som en snabb solvind. När partiklarna från solvinden når jorden några dagar senare kan de störa satelliter och skapa färgsprakande polarsken över polartrakterna.",
+    "entusiast": "Solen fångades här i november 2016 av rymdteleskopet Solar Dynamics Observatory i extrem ultraviolett våglängd. Bilden visar två prominenta koronahål orienterade mot jorden. Koronahål uppstår i områden där solens magnetiska fältlinjer är unipolära och öppna mot det interplanetära mediet, i kontrast till de slutna magnetiska bågar som binder koronal plasma i aktiva regioner. Eftersom plasma kontinuerligt accelereras utåt som höghastighetsströmmar av solvind uppstår ett lokalt underskott av het, tät gas. Detta gör att områdena framstår som mörka i EUV-spektrumet. När dessa snabba solvindsströmmar når jordens magnetosfär samverkar de med dess magnetfält, vilket ofta komprimerar magnetosfären och inducerar geomagnetiska stormar som ger kraftfulla polarsken och påverkar rymdvädret."
+  },
+  "terms": [
+    {
+      "term": "korona",
+      "explanation": "Solens yttersta och mycket heta atmosfär som sträcker sig miljontals kilometer ut i rymden."
+    },
+    {
+      "term": "koronahål",
+      "explanation": "Område i solens korona där magnetfältet är öppet och het gas strömmar ut i rymden."
+    },
+    {
+      "term": "solvind",
+      "explanation": "En kontinuerlig ström av laddade partiklar som slungas ut från solen i hög hastighet."
+    },
+    {
+      "term": "magnetosfär",
+      "explanation": "Det område runt en himlakropp som domineras av dess eget magnetfält."
+    },
+    {
+      "term": "polarsken",
+      "explanation": "Ljusfenomen på himlen som uppstår när laddade partiklar från rymden träffar atmosfären."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the Sun! It resembles a glowing orange with two dark patches in the middle. These dark areas are called coronal holes. They are not holes you could fall into. Instead, they act like open doors that allow the Sun to blow a gust of space wind! This wind carries tiny particles across space toward us. When they bump into Earth's invisible shield, the sky lights up in bright green and purple colors called auroras!",
+      "nyborjare": "This image from 2016 shows the Sun captured in extreme ultraviolet light, revealing its outer atmosphere known as the corona. The two large dark zones near the center are coronal holes. These are not physical cavities in the Sun's surface. Rather, they are regions where magnetic fields stretch directly into space instead of looping back. This configuration allows hot solar plasma to escape rapidly as solar wind. When these particles reach Earth a few days later, they can trigger colorful auroras.",
+      "entusiast": "Captured in November 2016 by the Solar Dynamics Observatory in extreme ultraviolet wavelengths, this image reveals two prominent Earth-facing coronal holes. Coronal holes form where the Sun's magnetic field lines are unipolar and open out into interplanetary space, unlike the closed loops that trap coronal plasma in active regions. Because plasma continually escapes along these open field lines as high-speed solar wind streams, the region suffers a deficit of dense, hot gas, appearing dark in EUV observations. When these streams collide with Earth's magnetosphere, they induce geomagnetic storms that generate vivid auroras."
+    },
+    "terms": [
+      {
+        "term": "corona",
+        "explanation": "The outermost, extremely hot layer of the Sun's atmosphere extending millions of kilometers into space."
+      },
+      {
+        "term": "coronal holes",
+        "explanation": "Regions in the solar corona where magnetic fields are open, allowing plasma to escape."
+      },
+      {
+        "term": "solar wind",
+        "explanation": "A continuous flow of charged particles released from the Sun into the solar system."
+      },
+      {
+        "term": "magnetosphere",
+        "explanation": "The region around an astronomical body dominated by that body's magnetic field."
+      },
+      {
+        "term": "plasma",
+        "explanation": "A state of matter consisting of superheated, electrically charged gas particles."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a coronal hole on the Sun?",
+        "options": [
+          "A physical crater in the surface",
+          "An area of open magnetic fields",
+          "A shadow cast by the Moon"
+        ],
+        "correct": 1,
+        "fact": "Coronal holes are regions where the Sun's magnetic field opens into space, allowing hot gas to escape."
+      },
+      {
+        "q": "What happens when solar wind hits Earth's magnetic field?",
+        "options": [
+          "Earth's gravity temporarily increases",
+          "The Moon's orbit shifts slightly",
+          "Auroras can form across the sky"
+        ],
+        "correct": 2,
+        "fact": "Charged particles guided by Earth's magnetic field collide with atmospheric gases, producing auroral light."
+      },
+      {
+        "q": "Why do coronal holes appear dark in extreme ultraviolet light?",
+        "options": [
+          "The gas is cooler and thinner",
+          "Nuclear reactions have entirely stopped there",
+          "Foreground sunspots block all the light"
+        ],
+        "correct": 0,
+        "fact": "Because plasma readily escapes into space, coronal holes contain cooler, less dense gas than surrounding areas."
+      }
+    ]
+  }
+}

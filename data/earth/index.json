@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-10-26",
+  "title": "Sjö Tengiz från rymden",
+  "title_en": "Lake Tengiz from space",
+  "place": "Kazakstan",
+  "place_en": "Kazakhstan",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000280/GSFC_20171208_Archive_e000280~small.jpg",
+  "archive": true
+ },
+ {
   "date": "2026-10-25",
   "title": "Vulkanen Soufrière Hills återupptar sin aktivitet",
   "title_en": "Soufriere Hills Volcano Resumes Activity",

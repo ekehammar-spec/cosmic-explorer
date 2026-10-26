@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-26",
+  "media_type": "image",
+  "title": "Koronahål vända mot jorden",
+  "title_en": "Earth-Facing Coronal Holes",
+  "thumb": "https://images-assets.nasa.gov/image/PIA16909/PIA16909~small.jpg"
+ },
+ {
   "date": "2026-10-25",
   "media_type": "image",
   "title": "Ricciolikratern: Sprickor och stelnad lava",
@@ -72,9 +79,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Hubble ser en spiralformad bro av unga stjärnor mellan två urgamla galaxer",
-  "title_en": "Hubble Sees Spiral Bridge of Young Stars Between Two Ancient Galaxies",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001033/GSFC_20171208_Archive_e001033~small.jpg"
+  "title": "Galaxmyller i Bildhuggaren",
+  "title_en": "Swimming in Sculptor",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~small.jpg"
  },
  {
   "date": "2026-10-14",
