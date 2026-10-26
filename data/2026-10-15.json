@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Swimming in Sculptor",
-  "title_sv": "Galaxmyller i Bildhuggaren",
+  "title": "Hubble Sees A Smiling Lens",
+  "title_sv": "Galaxhop SDSS J1038+4849",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-sees-a-legion-of-galaxies_25608651281_o/hubble-sees-a-legion-of-galaxies_25608651281_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-sees-a-legion-of-galaxies_25608651281_o",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000791/GSFC_20171208_Archive_e000791~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000791/GSFC_20171208_Archive_e000791~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000791/GSFC_20171208_Archive_e000791~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000791",
   "credit": "NASA/GSFC",
-  "taken": "2016",
+  "taken": "2017",
   "src": "library",
-  "id": "hubble-sees-a-legion-of-galaxies_25608651281_o",
+  "id": "GSFC_20171208_Archive_e000791",
   "px": [
     1280,
-    1225
+    1263
   ],
   "w": 640,
-  "h": 612,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQIAB//EACAQAAICAgICAwAAAAAAAAAAAAERAAIhURIxIkGB4fD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5+/uUvE2XZ70dSSEUcRI0MbgH5TCUkxapYECXbMAPfbceR4oPi2vUbUIry9EoCSz8QMyc5jgjR3uS41TzA//2Q==",
+  "h": 631,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQIAAwQH/8QAJRAAAgIBBAEDBQAAAAAAAAAAAQIAEQMEEiFRMRMicUFCgZGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFR/9oADAMBAAIRAxEAPwDnxUg1REA8RxRYbBRJPtPgD5l2j0uTV5hiwldxH3NQ/sm9VQVK7dw4YWIp88cTZqNE2mRDkKn1LICtZFd9TITdCh+ol0Na+mFCDduvdZsjqPgyLjyhnXcv1HcqHzXUdHCZgyIDRBAfkfmAGyFol1yDRhsEHuRWZGDKaZTYPUqP/9k=",
   "quiz": [
     {
-      "q": "Vad är de flesta färgstarka prickarna och virvlarna på bilden?",
+      "q": "Vad är det som böjer ljuset runt massiva galaxer?",
       "options": [
-        "Enskilda stjärnor i Vintergatan",
-        "Avlägsna galaxer med miljarder stjärnor",
-        "Gas- och stoftmoln i solsystemet"
+        "Kraftfulla magnetfält i rymden",
+        "Rymdtidens krökning från enorm massa",
+        "Tjocka moln av kosmisk gas"
       ],
       "correct": 1,
-      "fact": "Nästan varje liten ljusfläck på bilden är en hel galax som rymmer miljarder stjärnor, belägen miljontals eller miljarder ljusår bort."
+      "fact": "Enligt Einsteins allmänna relativitetsteori orsakar massiva objekt en kraftfull krökning av rymdtiden som böjer ljusets väg."
     },
     {
-      "q": "Varför ser mycket avlägsna galaxer ofta rödare ut?",
+      "q": "Vad bildas ibland när en källa, lins och observatör står perfekt i rad?",
       "options": [
-        "Universums expansion sträcker ut deras ljus",
-        "De består enbart av svala gasmoln",
-        "Rymddamm reflekterar bort allt blått ljus"
+        "En perfekt ljusring",
+        "Ett roterande svart hål",
+        "En spegelvänd dubbelgalax"
       ],
       "correct": 0,
-      "fact": "När rymden expanderar sträcks ljusvågorna från avlägsna galaxer ut mot rödare våglängder, ett fenomen som kallas rödförskjutning."
+      "fact": "När ljuskällan, den massiva linsen och observatören är exakt symmetriskt i linje uppstår en cirkelformad struktur som kallas Einsteinring."
     },
     {
-      "q": "Vad innebär det att universum är isotropt på stor skala?",
+      "q": "Vilken roll spelar galaxhopar i universum enligt astronomin?",
       "options": [
-        "Det saknar helt gravitation mellan galaxhopar",
-        "Alla galaxer snurrar i samma riktning",
-        "Det ser likadant ut åt alla håll"
+        "De fungerar som naturliga förstoringsobjekt",
+        "De skapar nya stjärnor genom kollisioner",
+        "De bromsar galaxernas rörelse i rymden"
       ],
-      "correct": 2,
-      "fact": "Den kosmologiska principen antar att universum är isotropt och homogent, vilket innebär att det ser likadant ut oavsett åt vilket håll man tittar."
+      "correct": 0,
+      "fact": "Galaxhopar är universums massivaste strukturer och verkar som kosmiska linser som kan förstora, fördela och böja ljuset bakom dem."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar ut genom ett fönster mitt i natten och ser tusentals små glittrande lampor. Men lamporna är inte gatlyktor, utan galaxer! En galax är som en enorm snurrande stad full av miljarder stjärnor. Vår egen sol bor i en galax som heter Vintergatan.\n\nNästan allt du ser på den här bilden är andra galaxer som ligger ofattbart långt bort i rymden. De ser pyttesmå ut eftersom rymden är så ofantligt stor.",
-    "nyborjare": "När rymdteleskopet Hubble riktade sina kameror mot stjärnbilden Bildhuggaren år 2013 fångades denna spektakulära vy av det djupa universum. Nästan varje liten ljuspunkt och spiralformad fläck är en självständig galax, fylld med hundratals miljarder stjärnor. Bara ett fåtal enstaka förgrundsstjärnor tillhör vår egen galax, Vintergatan.\n\nDen här bilden togs som ett parallellt observationsfält intill en gigantisk galaxhop. Genom att titta så djupt ut i kosmos kan astronomer se hur galaxer såg ut när universum var ungt. Eftersom ljuset tar miljarder år på sig att nå fram till oss fungerar teleskopet som en tidsmaskin. Ju längre bort en galax befinner sig, desto längre tillbaka i tiden ser vi.",
-    "entusiast": "Denna observation genomfördes under hösten 2013 som en del av Hubbles ambitiösa Frontier Fields-program. Samtidigt som teleskopets ena kamera studerade den massiva galaxhopen Abell 2744 – även känd som Pandoras box – fotograferade den andra kameran detta intilliggande parallellfält i stjärnbilden Bildhuggaren. Exponeringen når nästan samma extrema djup som det berömda Hubble Ultra-Deep Field och avslöjar tusentals galaxer i olika faser av sin utveckling.\n\nGenom att analysera sådana parallella djupfält kan kosmologer undersöka universums storskaliga struktur och testa hypotesen om att kosmos är homogent och isotropt på mycket stora avstånd. De rödaktiga och förvrängda små prickarna är ofta extremt avlägsna galaxer vars ljus har genomgått kraftig kosmologisk rödförskjutning på grund av rumtidens expansion under flera miljarder ljusår. Dessutom hjälper dessa mätningar forskare att kartlägga galaxernas morfologi och stjärnbildningstakt under tidiga kosmiska epoker, fria från gravitationslinsning från en central galaxhop."
+    "barn": "Tänk dig att rymden är som en stor studsmatta. Om du lägger en jättetung sten i mitten sjunker den ner och drar med sig duken. Universum fungerar på liknande sätt med tunga galaxer. När ljuset från stjärnor långt bakom färdas förbi hopar av galaxer böjs det av på samma sätt som när du tittar in i en rolig spegel på ett tivoli och ansiktet dras ut och ser glatt ut.",
+    "nyborjare": "I mitten av bilden syns en stor galaxhop som ser ut som ett glatt ansikte med lysande ögon och ett leende. Ansiktets ögon består av mycket ljusstarka galaxer, medan de båda kurvorna som bildar leendet faktiskt är ljusbågar. Dessa bågar uppstår genom stark gravitationslinsverkan, en effekt som förklaras av Einsteins allmänna relativitetsteori. Galaxhopar är universums massivaste strukturer och deras enorma dragningskraft kröker rymdtiden runt omkring dem. Detta gör att de fungerar som kosmiska linser som kan förstora och fördela ljuset från objekt som befinner sig långt bakom dem i det tidiga universum.",
+    "entusiast": "Den här bilden visar galaxhopen SDSS J1038+4849 i ett system som studerats med rymdteleskopet Hubble och dess Wide Field and Planetary Camera 2 samt Wide Field Camera 3. Det mest slående draget är illusionen av ett ansikte, där de orangefärgade ögonen utgörs av ljusstarka galaxer och det skenbara leendet är bågar skapade genom stark gravitationslinsverkan. Galaxhopar tillhör universums mest massiva strukturer och deras gravitationspotential är tillräckligt stor för att deformera rymdtiden i en omfattning som förutsägs av Einsteins allmänna relativitetsteori. Denna storskaliga effekt gör det möjligt att studera avlägsna bakgrundsobjekt genom att förstora ljuset från källor som annars hade varit för svaga för att upptäckas. I särskilt gynnsamma fall där källa, lins och observatör ligger på linje uppstår en komplett Einsteinring, vilket ger astronomer ett oumbärligt verktyg för att modellera massfördelningen och blicka djupare in i det tidiga universum än vad som annars vore möjligt."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "En gigantisk samling av miljarder stjärnor, gas och stoft som hålls samman av gravitationen."
-    },
-    {
       "term": "galaxhop",
-      "explanation": "En stor struktur i rymden bestående av hundratals eller tusentals galaxer sammanbundna av gravitation."
+      "explanation": "En stor samling av tusentals galaxer som hålls samman av sin gemensamma dragningskraft."
     },
     {
-      "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
+      "term": "gravitationslinsverkan",
+      "explanation": "När ett massivt objekt böjer ljuset från något som ligger bakom med hjälp av sin tyngdkraft."
     },
     {
-      "term": "rödförskjutning",
-      "explanation": "Ett fenomen där ljusets våglängd sträcks ut mot rött när ljuskällan avlägsnar sig från observatören."
+      "term": "rymdtid",
+      "explanation": "Ett sammanvävt fyrdimensionellt system av rummets tre dimensioner och en tidsdimension."
+    },
+    {
+      "term": "Einsteinring",
+      "explanation": "En ringformad ljusstruktur som bildas när ljuset från en bakomliggande källa böjs runt en massiv kropp."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine looking out of a window late at night and seeing thousands of tiny sparkling lights. Those lights are not street lamps, but entire galaxies! A galaxy is like a giant spinning city filled with billions of stars. Our own Sun lives inside a galaxy called the Milky Way.\n\nAlmost every dot you see in this picture is another galaxy located unimaginably far away in space. They look tiny only because space is so immensely vast.",
-      "nyborjare": "When the Hubble Space Telescope aimed its cameras toward the constellation of Sculptor in 2013, it captured this spectacular view of the deep universe. Nearly every tiny pinpoint of light and delicate spiral is an independent galaxy containing hundreds of billions of stars. Only a handful of foreground stars actually belong to our own home galaxy, the Milky Way.\n\nThis image was captured as a parallel field observation right next to a massive galaxy cluster. Looking this deeply into the cosmos allows astronomers to see what galaxies looked like when the universe was still young. Because light takes billions of years to travel across space, the telescope acts like a cosmic time machine.",
-      "entusiast": "Captured in late 2013 as part of Hubble's Frontier Fields initiative, this parallel field observation peered into deep space within the constellation of Sculptor. While one of the telescope's cameras targeted the giant galaxy cluster Abell 2744—nicknamed Pandora's Box—the second camera simultaneously recorded this adjacent patch of sky. Reaching a sensitivity nearly comparable to the legendary Hubble Ultra-Deep Field, it reveals thousands of ancient galaxies across diverse stages of cosmic evolution.\n\nParallel deep fields provide crucial data for testing the cosmological principle, which posits that the universe is homogeneous and isotropic on the largest scales. Many faint, reddish smudges are extremely remote galaxies whose light has experienced significant cosmological redshift due to cosmic expansion across billions of light-years. Free from the intense gravitational lensing distortions of the central cluster, this field helps astronomers analyze the intrinsic morphology, star formation rates, and merger histories of galaxies near the dawn of the universe."
+      "barn": "Imagine space is like a large bouncy trampoline. If you place a heavy stone in the middle, it sinks down and pulls the fabric with it. The universe works in a similar way with heavy galaxies. When light from stars far behind travels past clusters of galaxies, it bends in the same way as when you look into a funhouse mirror and your face stretches out to look happy.",
+      "nyborjare": "In the center of this image is a large galaxy cluster that resembles a happy face with glowing eyes and a smile. The eyes of this face are very bright galaxies, while the curved lines forming the smile are actually arcs. These arcs are created by strong gravitational lensing, an effect explained by Einstein's theory of general relativity. Galaxy clusters are the most massive structures in the universe, and their immense gravitational pull warps the spacetime around them. This allows them to act as cosmic lenses that can magnify and bend the light from objects located far behind them in the early universe.",
+      "entusiast": "This image reveals the galaxy cluster SDSS J1038+4849, captured using the Hubble Space Telescope equipped with instruments such as Wide Field and Planetary Camera 2 and Wide Field Camera 3. The most striking feature is the illusion of a face, where the orange eyes consist of luminous galaxies and the curved smile lines are arcs produced by strong gravitational lensing. Galaxy clusters represent some of the most massive structures in the universe, possessing a gravitational potential strong enough to warp spacetime in accordance with Einstein's theory of general relativity. This macroscale phenomenon provides astronomers with powerful cosmic lenses capable of magnifying distant background sources that would otherwise remain undetectable. In rare configurations where the source, lens, and observer align perfectly, a complete Einstein Ring is formed, offering researchers an essential tool to model mass distributions and probe further into the early universe."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system of billions of stars, gas, and dust bound together by gravity."
-      },
-      {
         "term": "galaxy cluster",
-        "explanation": "A gravitationally bound structure containing hundreds to thousands of individual galaxies."
+        "explanation": "A massive collection of thousands of galaxies held together by mutual gravitational attraction."
       },
       {
-        "term": "light-year",
-        "explanation": "The distance that light travels through empty space in one Earth year."
+        "term": "gravitational lensing",
+        "explanation": "The bending of light from a distant source around a massive intermediate object due to gravity."
       },
       {
-        "term": "redshift",
-        "explanation": "The lengthening of light waves toward redder wavelengths as an object recedes from the observer."
+        "term": "spacetime",
+        "explanation": "The mathematical model that fuses the three dimensions of space with the one dimension of time."
+      },
+      {
+        "term": "Einstein Ring",
+        "explanation": "A circular ring of light created when background light is bent around a massive foreground lens."
       }
     ],
     "quiz": [
       {
-        "q": "What are most of the colorful specks and swirls in this image?",
+        "q": "What bends light around massive galaxies in space?",
         "options": [
-          "Individual stars within the Milky Way",
-          "Distant galaxies containing billions of stars",
-          "Gas and dust clouds in our solar system"
+          "Powerful magnetic fields in deep space",
+          "Spacetime curvature caused by massive objects",
+          "Thick clouds of cosmic gas and dust"
         ],
         "correct": 1,
-        "fact": "Nearly every smudge of light is an entire galaxy containing billions of stars, situated millions to billions of light-years away."
+        "fact": "According to Einstein's theory of general relativity, massive objects cause a powerful curvature of spacetime that bends the path of light."
       },
       {
-        "q": "Why do very distant galaxies often appear redder?",
+        "q": "What forms sometimes when a source, lens, and observer align?",
         "options": [
-          "The expansion of space stretches their light",
-          "They consist entirely of cool gas clouds",
-          "Cosmic dust reflects away all blue light"
+          "A perfect ring of light",
+          "A rapidly rotating black hole",
+          "A mirrored double galaxy pair"
         ],
         "correct": 0,
-        "fact": "As space expands, light traveling from distant galaxies stretches toward longer, redder wavelengths in a phenomenon known as redshift."
+        "fact": "When the source, the massive lens, and the observer are symmetrically aligned, a circular structure known as an Einstein Ring is produced."
       },
       {
-        "q": "What does it mean that the universe is isotropic on large scales?",
+        "q": "What is the primary role of galaxy clusters in the universe?",
         "options": [
-          "Gravity ceases to exist between galaxy clusters",
-          "All galaxies rotate in the same direction",
-          "It looks on average identical in every direction"
+          "They act as natural magnifying cosmic lenses",
+          "They create new stars through direct collisions",
+          "They slow down the motion of nearby galaxies"
         ],
-        "correct": 2,
-        "fact": "The cosmological principle states that the universe is homogeneous and isotropic, appearing broadly the same no matter which way you look."
+        "correct": 0,
+        "fact": "Galaxy clusters are the most massive structures in the universe and act as cosmic lenses that can magnify, distort, and bend background light."
       }
     ]
   }
