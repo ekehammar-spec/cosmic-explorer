@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-27T05:15:14.211Z",
+ "updated": "2026-10-27T09:32:55.892Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-26T18:00:00Z",
+   "date": "2026-10-27T00:00:00Z",
    "title_sv": "Tyfonen In-fa",
    "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
@@ -14,13 +14,13 @@
   },
   {
    "kind": "storm",
-   "date": "2026-10-26T18:00:00Z",
+   "date": "2026-10-27T00:00:00Z",
    "title_sv": "Tropiska cyklonen Arnab",
    "title_en": "Tropical Cyclone Arnab",
    "where_sv": "Norra Indiska oceanen",
    "where_en": "Northern Indian Ocean",
-   "value_sv": "vindar på 150 km/h",
-   "value_en": "winds of 150 km/h"
+   "value_sv": "vindar på 165 km/h",
+   "value_en": "winds of 165 km/h"
   },
   {
    "kind": "storm",

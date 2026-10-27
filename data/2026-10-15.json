@@ -2,141 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Panta rhei as Seen by Hubble",
-  "title_sv": "Palomar 12",
+  "title": "The beautiful side of IC 335",
+  "title_sv": "Galaxen IC 335",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000767/GSFC_20171208_Archive_e000767~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000767/GSFC_20171208_Archive_e000767~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000767/GSFC_20171208_Archive_e000767~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000767",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000848/GSFC_20171208_Archive_e000848~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000848/GSFC_20171208_Archive_e000848~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000848/GSFC_20171208_Archive_e000848~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000848",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000767",
+  "id": "GSFC_20171208_Archive_e000848",
   "px": [
-    1172,
-    1280
+    1280,
+    1067
   ],
-  "w": 586,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB0DASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgMAAQQH/8QAIhAAAQQCAQQDAAAAAAAAAAAAAQACAxEhMUEEEiJRYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOe5rWFBpRvIpPiiLuMDfukCpGOY7tcQSBwbQo5G+Z7dcXjCDW0FAp7H+FGg0n9WcLT0cA6mVzDLFDTXOt5oYF19oFPdeyaQK3CvlUg//9k=",
+  "w": 640,
+  "h": 533,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAQUAAwf/xAAjEAACAQMDBAMAAAAAAAAAAAAAARECAwQFEkEhM0JRYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDz2Ag7WaraqW9SixiLRbrSyHftfKhgQYAt5mHpst42Y2uFXQ0SblCpbSckHNuXLNuAfD9KHc/ZurU8ByNzuVfYH//Z",
   "quiz": [
     {
-      "q": "Vad är en klotformig stjärnhop?",
+      "q": "Vad kallas galaxer som liknar en platt lins?",
       "options": [
-        "En ensam stjärna med ringar",
-        "En tät samling gamla stjärnor",
-        "En nyfödd nebulosa full av gas"
-      ],
-      "correct": 1,
-      "fact": "En klotformig stjärnhop är ett tätt system av hundratusentals gamla stjärnor som hålls samman av gravitationen."
-    },
-    {
-      "q": "Vad är en dvärggalax?",
-      "options": [
-        "En mindre galax som kretsar kring en större",
-        "Ett annat namn för en döende stjärna",
-        "En galax som saknar egna stjärnor"
+        "Linsformade galaxer",
+        "Elliptiska galaxer",
+        "Oregelbundna galaxer"
       ],
       "correct": 0,
-      "fact": "Dvärggalaxer är mindre galaxer som ofta kretsar kring massivare galaxer som vår egen Vintergata."
+      "fact": "Linsformade galaxer har en skiva och en central bula men saknar tydliga spiralarmar."
     },
     {
-      "q": "Vad menas med tidvattenkrafter i rymden?",
+      "q": "Hur lång tid tar det för ljuset att nå oss härifrån?",
       "options": [
-        "Vågor av vatten på främmande planeter",
-        "Gravitationspåverkan som drar isär ett objekt",
-        "Magnetfält som krockar mellan stjärnor"
+        "600 000 ljusår",
+        "60 miljoner ljusår",
+        "6 miljarder ljusår"
       ],
       "correct": 1,
-      "fact": "Tidvattenkrafter uppstår när en stor himlakropps gravitation drar hårdare i ena sidan av ett annat objekt så att det slits itu."
+      "fact": "Galaxen befinner sig i Fornaxhopens galaxhop på sextio miljoner ljusårs avstånd."
+    },
+    {
+      "q": "Varför är det svårt att klassificera IC 335?",
+      "options": [
+        "Den ses rakt ifrån sidan",
+        "Den ligger bakom en nebulosa",
+        "Den roterar alldeles för snabbt"
+      ],
+      "correct": 0,
+      "fact": "När en galax observeras från kanten döljs dess typiska struktur och spiralarmar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor boll av gnistrande stjärnor som klamrar sig fast långt ut i kanten av vår galax. Denna stjärnhop ser ut som en glittrande diamantboll i rymden. Men den hör egentligen inte hemma här. Den har blivit stulen från en annan liten galax långt borta och släpats hit av osynliga krafter för miljarder år sedan.",
-    "nyborjare": "Bilden visar en klotformig stjärnhop som kallas Palomar 12. Den befinner sig i utkanten av Vintergatans halo, men astronomerna upptäckte att den är ungefär trettio procent yngre än andra stjärnhopar i vår galax. Det visade sig att hopen ursprungligen föddes i en annan galax som kallas Skyttens dvärggalax. För ungefär 1,7 miljarder år sedan slets stjärnhopen loss från sitt hem genom så kallade tidvattenkrafter när den passerade nära vår galax. Nu kretsar den runt Vintergatan som en kosmisk immigrant.",
-    "entusiast": "Det rymdteleskop som tagit bilden med sin Advanced Camera for Surveys har fångat stjärnhopen Palomar 12. Denna galaktiska klotformiga stjärnhop upptäcktes på fotografiska plåtar och ansågs inledningsvis vara en vanlig gammal population i Vintergatans halo. Dess avvikande metallhalt och ålder, som är cirka trettio procent lägre än hos andra galaktiska klotformiga hopar, ledde dock till slutsatsen att den har ett extragalaktiskt ursprung. Ytterligare studier av dess bana visade att den har ackreterats från Skyttens dvärggalax för cirka 1,7 miljarder år sedan. Denna dynamiska händelse orsakades av interaktioner mellan satellitgalaxen och Vintergatan, där gravitationen slet loss stjärnhopen och införlivade den i vår egen galaxhalo."
+    "barn": "Tänk dig en enorm rymdsnurra som har tappat sina glittriga armar. Den här galaxen är som en platt tallrik full med miljarder stjärnor, men eftersom vi tittar precis rakt ifrån kanten ser den ut som ett tunt streck på himlen. Den ligger jättelångt borta, nämligen sextio miljoner ljusår härifrån, och nästan alla stjärnor där inne är gamla och trötta.",
+    "nyborjare": "Denna Hubble-bild visar galaxen IC 335 som ligger sextio miljoner ljusår bort i Fornaxhopen. Från jorden ser vi galaxen exakt från kanten, vilket gör den svår att klassificera eftersom dess spiralarmar döljs. Astronomer brukar kalla den en linsformad galax. Det betyder att den har en tunn stjärnskiva och en central bula ungefär som en spiralgalax, men att den har förbrukat nästan all sin gas. Därför föds det knappt några nya stjärnor där längre, och befolkningen består mest av åldrande solar.",
+    "entusiast": "IC 335 är en linsformad galax av S0-typ som spänner över fyrtiofemtusen ljusår och ingår i Fornaxhopen. Med sin skiva och sin centrala bula påminner den morfologiskt om en spiralgalax, men den saknar ett aktivt interstellärt medium och uppvisar en mycket låg stjärnbildningstakt. Eftersom galaxen ses från kanten blir dess morfologi svårtolkad, vilket gör att den lätt kan förväxlas med en elliptisk galax. S0-galaxer betraktas liksom elliptiska galaxer som tidiga galaxetyper eftersom de utvecklas passivt, men deras ursprung debatteras fortfarande. De kan antingen vara åldrande spiraler som aldrig växelverkat eller resultatet av en tidigare sammanslagning."
   },
   "terms": [
     {
-      "term": "stjärnhop",
-      "explanation": "En stor samling stjärnor som hålls samman av sin egen ömsesidiga gravitation."
+      "term": "galax",
+      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationen och innehåller miljarder stjärnor, gas och stoft."
     },
     {
-      "term": "halo",
-      "explanation": "Ett sfäriskt och glest område av äldre stjärnor och mörk materia som omger en galaxkärna."
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset färdas under ett helt jordår, vilket används för att mäta rymdavstånd."
     },
     {
-      "term": "dvärggalax",
-      "explanation": "En mindre galax som bara innehåller ett fåtal miljarder stjärnor jämfört med en stor galax."
+      "term": "spiralgalax",
+      "explanation": "En stjärnsystemtyp som har en central bula och svepande armar fyllda med unga stjärnor."
     },
     {
-      "term": "tidvattenkrafter",
-      "explanation": "Gravitationskrafter som sträcker och drar isär ett objekt på grund av skillnaden i dragningskraft över dess avstånd."
-    },
-    {
-      "term": "satellitgalax",
-      "explanation": "En mindre galax som kretsar i bana kring en betydligt större galax."
+      "term": "interstellärt medium",
+      "explanation": "Den gas och det stoft som finns i utrymmet mellan stjärnorna i en galax."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant ball of sparkling stars hanging far out at the edge of our galaxy. This star cluster looks like a glittering diamond sphere in space. But it does not actually belong here. It was stolen from another small galaxy far away and dragged here by invisible forces billions of years ago.",
-      "nyborjare": "The image shows a globular cluster known as Palomar 12. It is located on the outskirts of the Milky Way halo, but astronomers discovered that it is about thirty percent younger than other clusters in our galaxy. It turned out that the cluster was originally born in another galaxy called the Sagittarius Dwarf Elliptical galaxy. Around 1.7 billion years ago, the cluster was ripped from its home through tidal interactions as it passed near our galaxy. Now it orbits the Milky Way as a cosmic immigrant.",
-      "entusiast": "The space telescope captured the globular cluster Palomar 12 using its Advanced Camera for Surveys. This galactic globular cluster was initially thought to be a standard old population within the Milky Way halo. However, its anomalous metallicity and younger age led to the conclusion that it has an extragalactic origin. Further studies of its orbit demonstrated that it was accreted from the Sagittarius dwarf galaxy around 1.7 billion years ago. This dynamic event was driven by gravitational interactions between the satellite galaxy and the Milky Way, stripping the cluster away."
+      "barn": "Imagine a giant cosmic spinning top that has lost its glittery arms. This galaxy looks like a flat plate full of billions of stars, but because we are looking at it strictly from the side, it appears as a thin line in space. It is located super far away, sixty million light-years from us, and almost all the stars inside are old and tired.",
+      "nyborjare": "This Hubble image shows the galaxy IC 335, located sixty million light-years away in the Fornax Galaxy Cluster. From Earth, we see the galaxy edge-on, which makes it hard to classify because its spiral arms are hidden. Astronomers usually classify it as an S0 type. This means it has a thin stellar disk and a central bulge much like a spiral galaxy, but it has used up almost all of its gas. Therefore, barely any new stars are born there, and the population consists mostly of aging suns.",
+      "entusiast": "IC 335 is a lenticular galaxy spanning forty-five thousand light-years and is part of the Fornax Galaxy Cluster. With its stellar disk and central bulge, it resembles a spiral galaxy morphologically, yet it lacks an active interstellar medium and exhibits a very low star formation rate. Because the galaxy is viewed edge-on, its morphology is difficult to interpret, leading to potential confusion with elliptical galaxies. S0 galaxies are classified as early-type galaxies because they evolve passively, although their exact origin remains debated as they may represent aging spirals or merger remnants."
     },
     "terms": [
       {
-        "term": "cluster",
-        "explanation": "A large collection of stars held together by their mutual gravitational attraction."
+        "term": "galaxy",
+        "explanation": "A massive system held together by gravity containing billions of stars, gas, and dust."
       },
       {
-        "term": "halo",
-        "explanation": "A spherical and sparse region of older stars and dark matter surrounding a galaxy."
+        "term": "light-year",
+        "explanation": "The distance that light travels through a vacuum in one Earth year."
       },
       {
-        "term": "dwarf galaxy",
-        "explanation": "A smaller galaxy containing only a few billion stars compared to a massive galaxy."
+        "term": "spiral galaxy",
+        "explanation": "A stellar system featuring a central bulge and sweeping arms filled with young stars."
       },
       {
-        "term": "tidal interactions",
-        "explanation": "Gravitational forces that stretch and pull an object apart due to differences in force across its span."
-      },
-      {
-        "term": "satellite galaxy",
-        "explanation": "A smaller galaxy that orbits in a path around a significantly larger parent galaxy."
+        "term": "interstellar medium",
+        "explanation": "The matter that exists in the space between the star systems within a galaxy."
       }
     ],
     "quiz": [
       {
-        "q": "What is a globular cluster?",
+        "q": "What are galaxies shaped like a flat disk called?",
         "options": [
-          "A single star surrounded by bright rings",
-          "A dense collection of ancient stars",
-          "A newborn nebula full of hot gas"
-        ],
-        "correct": 1,
-        "fact": "A globular cluster is a dense system of hundreds of thousands of old stars held together by gravity."
-      },
-      {
-        "q": "What is a dwarf galaxy?",
-        "options": [
-          "A smaller galaxy orbiting a larger one",
-          "Another term for a dying star",
-          "A galaxy completely devoid of stars"
+          "Lenticular galaxies",
+          "Elliptical galaxies",
+          "Irregular galaxies"
         ],
         "correct": 0,
-        "fact": "Dwarf galaxies are smaller galaxies that often orbit more massive galaxies like our own Milky Way."
+        "fact": "Lenticular galaxies feature a stellar disk and a bulge but lack defined spiral arms."
       },
       {
-        "q": "What are tidal forces in space?",
+        "q": "How long does light take to reach us from here?",
         "options": [
-          "Waves of liquid water on alien planets",
-          "Gravitational forces that pull an object apart",
-          "Magnetic fields colliding between stars"
+          "600,000 light-years",
+          "60 million light-years",
+          "6 billion light-years"
         ],
         "correct": 1,
-        "fact": "Tidal forces occur when a massive body's gravity pulls harder on one side of an object, tearing it apart."
+        "fact": "The galaxy is located sixty million light-years away within the Fornax Galaxy Cluster."
+      },
+      {
+        "q": "Why is it difficult to classify IC 335?",
+        "options": [
+          "It is viewed edge-on from Earth",
+          "It is hidden behind a nebula",
+          "It is rotating far too quickly"
+        ],
+        "correct": 0,
+        "fact": "When a galaxy is observed edge-on, its typical structural features and spiral arms are hidden."
       }
     ]
   }
