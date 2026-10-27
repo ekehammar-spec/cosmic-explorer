@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-27",
+  "title": "Ice Mountains and Plains",
+  "title_sv": "Isberg och slätter på Pluto",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA19954/PIA19954~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA19954/PIA19954~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA19954/PIA19954~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA19954",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+  "taken": "2015",
+  "src": "library",
+  "id": "PIA19954",
+  "px": [
+    1083,
+    1007
+  ],
+  "w": 640,
+  "h": 595,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgEAAwX/xAAhEAABBAEEAwEAAAAAAAAAAAABAAIRITEDEkFRImGBof/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APVOPajZbj6qRwgdVmm3c51LJo6m8mFkdzXAG7vCrYKIxxfKLmNcIqOkijZNICR1SvkBUEz+KkCZhAOh+2+1R//Z",
+  "quiz": [
+    {
+      "q": "Vad består bergen på Pluto huvudsakligen av?",
+      "options": [
+        "Fast frusen koldioxid",
+        "Hård frusen vattenis",
+        "Sten och silikatmineral"
+      ],
+      "correct": 1,
+      "fact": "Vid Plutos extrema kyla blir frusen vattenis hård som granit och bygger upp landskapets bergsmassiv."
+    },
+    {
+      "q": "Vad omges de ensamma bergen av på slätten?",
+      "options": [
+        "En glaciär av fruset kväve",
+        "Ett hav av flytande metan",
+        "Ett tjockt lager av stoft"
+      ],
+      "correct": 0,
+      "fact": "Slätten består av kväveis som är mjukare och rör sig som en glaciär kring bergen."
+    },
+    {
+      "q": "Varför saknar den stora slätten nästan helt nedslagskratrar?",
+      "options": [
+        "Atmosfären bränner upp alla inkommande meteoriter",
+        "Plutos gravitation är för svag för kollisioner",
+        "Geologisk aktivitet förnyar markytan hela tiden"
+      ],
+      "correct": 2,
+      "fact": "Långsam konvektion och glaciärrörelser i kväveisen suddar kontinuerligt ut gamla nedslagskratrar."
+    }
+  ],
+  "levels": {
+    "barn": "Långt bort i vårt solsystem finns Pluto. Det är en liten och iskall dvärgplanet. På den här bilden ser vi berg som sticker upp ur en väldig slätt. Men det är inga vanliga berg av sten. Bergen består av hård vattenis! Slätten runt omkring är gjord av kväveis, samma ämne som luften vi andas fast så kallt att det frusit till is. Kväveisen fungerar som en långsam glaciär. Isbergen flyter i den ungefär som isbitar i ett glas saft.",
+    "nyborjare": "När rymdsonden New Horizons flög förbi Pluto år 2015 skickade den hem fantastiska närbilder. Denna bild visar ett område på den jättelika slätten Sputnik Planitia. Här reser sig isolerade berg över ett landskap täckt av kväveis. Forskarna blev mycket förvånade över att bergen består av frusen vattenis. Vid Plutos temperatur på minus 230 grader Celsius blir vattenis hård som granit. Kväveis är däremot mjukare och har högre densitet. Därför kan de väldiga bergen faktiskt flyta omkring i kväveisen, precis som isberg på havet på jorden. Det visar att denna avlägsna dvärgplanet är geologiskt aktiv.",
+    "entusiast": "Under sin historiska förbiflygning i juli 2015 använde sonden New Horizons kameran LORRI för att fånga Plutos komplexa yta med en upplösning ner till 270 meter per pixel. Utsnittet visar en 120 kilometer bred sektion i kanten av Sputnik Planitia, en enorm kväveglaciär som fyller en uråldrig nedslagsbassäng. Två isolerade massiv sticker upp ur den texturerade slätten. Spektroskopiska mätningar visar att berggrunden utgörs av vattenis. Vid Plutos medeltemperatur på cirka 40 kelvin beter sig vattenis mekaniskt som bergarter på jorden. Eftersom vattenis har lägre densitet än omgivande kväveis fungerar bergen som gigantiska isberg som drivs av långsam termisk konvektion i glaciären. Det nästan totala underskottet av nedslagskratrar vittnar om att slätten förnyas kontinuerligt på geologiskt kort tid, driven av Plutos inre värmeflöde."
+  },
+  "terms": [
+    {
+      "term": "vattenis",
+      "explanation": "Vatten i fast form som i rymdens extrema kyla blir lika hårt som bergarter på jorden."
+    },
+    {
+      "term": "kväveis",
+      "explanation": "Fruset kväve som vid extrem kyla bildar mjuka, rörliga glaciärer på ytan av kalla himlakroppar."
+    },
+    {
+      "term": "dvärgplanet",
+      "explanation": "En himlakropp som kretsar runt solen och är rund, men inte har rensat sin egen bana."
+    },
+    {
+      "term": "Sputnik Planitia",
+      "explanation": "En gigantisk slätt av fruset kväve på Pluto som saknar synliga nedslagskratrar."
+    },
+    {
+      "term": "LORRI",
+      "explanation": "En högupplöst teleskopkamera ombord på rymdsonden New Horizons som fotograferade Pluto i detalj."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Far away in our solar system lies Pluto. It is a tiny and freezing dwarf planet. In this picture we see mountains rising from a vast plain. But these are not normal rocky mountains. They are made of solid water ice! The flat plain around them is made of nitrogen ice, which is the same gas we breathe on Earth, frozen solid. The nitrogen ice behaves like a slow glacier. The ice mountains float in it like ice cubes in juice.",
+      "nyborjare": "When the New Horizons spacecraft flew past Pluto in 2015, it sent back stunning close-up images. This image shows an area on the enormous plain known as Sputnik Planitia. Isolated mountains rise above a landscape covered in nitrogen ice. Scientists were amazed to discover that these peaks are made of frozen water ice. At Pluto's surface temperature of minus 230 degrees Celsius, water ice behaves like solid rock. Nitrogen ice is denser and softer, allowing these huge water-ice blocks to float like icebergs. This proved that the remote dwarf planet is geologically active.",
+      "entusiast": "During its historic flyby in July 2015, NASA's New Horizons spacecraft used the LORRI camera to capture Pluto's surface at resolutions down to 270 meters per pixel. This frame captures a 120-kilometer section near the edge of Sputnik Planitia, a vast nitrogen ice glacier filling an ancient impact basin. Two isolated mountains rise from the textured plain. Spectroscopic data confirms that these massifs consist of water ice bedrock. At Pluto's ambient temperature of roughly 40 Kelvin, water ice is mechanically rigid. Because water ice has a lower density than the surrounding nitrogen ice, the mountains act as buoyant icebergs carried by slow convection currents within the glacier, keeping the surface virtually crater-free."
+    },
+    "terms": [
+      {
+        "term": "water ice",
+        "explanation": "Water in solid frozen form, behaving like hard rock at deep space temperatures."
+      },
+      {
+        "term": "nitrogen ice",
+        "explanation": "Solid frozen nitrogen that flows like glaciers under extremely cold planetary conditions."
+      },
+      {
+        "term": "dwarf planet",
+        "explanation": "A celestial body orbiting the Sun that is round but has not cleared its orbit."
+      },
+      {
+        "term": "Sputnik Planitia",
+        "explanation": "A vast plain of frozen nitrogen on Pluto that forms part of its heart-shaped region."
+      },
+      {
+        "term": "LORRI",
+        "explanation": "A high-resolution telescopic camera aboard the New Horizons spacecraft that photographed Pluto in detail."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What are the mountains on Pluto mainly made of?",
+        "options": [
+          "Solid frozen carbon dioxide",
+          "Hard frozen water ice",
+          "Rock and silicate minerals"
+        ],
+        "correct": 1,
+        "fact": "At Pluto's frigid temperatures, water ice behaves like solid bedrock and forms huge mountain ranges."
+      },
+      {
+        "q": "What surrounds the isolated mountains on the plain?",
+        "options": [
+          "A glacier of frozen nitrogen",
+          "A sea of liquid methane",
+          "A thick layer of cosmic dust"
+        ],
+        "correct": 0,
+        "fact": "The surrounding plain consists of nitrogen ice, which is dense and flows like a slow glacier."
+      },
+      {
+        "q": "Why does the vast plain have almost no craters?",
+        "options": [
+          "The atmosphere burns up all incoming meteors",
+          "Pluto's gravity is too weak for collisions",
+          "Geological activity constantly renews the surface"
+        ],
+        "correct": 2,
+        "fact": "Slow convective overturning in the nitrogen ice continuously erases impact scars over time."
+      }
+    ]
+  }
+}

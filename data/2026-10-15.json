@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Views the Whirling Disk of NGC 4526",
-  "title_sv": "NGC 4526",
+  "title": "Panta rhei as Seen by Hubble",
+  "title_sv": "Palomar 12",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000926/GSFC_20171208_Archive_e000926~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000926/GSFC_20171208_Archive_e000926~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000926/GSFC_20171208_Archive_e000926~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000926",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000767/GSFC_20171208_Archive_e000767~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000767/GSFC_20171208_Archive_e000767~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000767/GSFC_20171208_Archive_e000767~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000767",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000926",
+  "id": "GSFC_20171208_Archive_e000767",
   "px": [
-    1280,
-    1114
+    1172,
+    1280
   ],
-  "w": 640,
-  "h": 557,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAQUGAgME/8QAIBAAAQQCAgMBAAAAAAAAAAAAAQACAwQFESFBEjEyUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AgRET0tjazj6Ccw1GkjhP8biYptA6BREQajwPkrAwOHSv8hjYa4I4Kn7EMYJ0g4Y75YfaYxZxzG6B0VM7KPkf1BQWc0+UcuS2S6Xdpf5FAkoP/9k=",
+  "w": 586,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB0DASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgMAAQQH/8QAIhAAAQQCAQQDAAAAAAAAAAAAAQACAxEhMUEEEiJRYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOe5rWFBpRvIpPiiLuMDfukCpGOY7tcQSBwbQo5G+Z7dcXjCDW0FAp7H+FGg0n9WcLT0cA6mVzDLFDTXOt5oYF19oFPdeyaQK3CvlUg//9k=",
   "quiz": [
     {
-      "q": "Vad är en linsformad galax för något?",
+      "q": "Vad är en klotformig stjärnhop?",
       "options": [
-        "En galax som har formen av en lins",
-        "En övergångsform mellan spiralgalaxer och elliptiska galaxer",
-        "En liten galax som skapats av en gravitationell lins"
+        "En ensam stjärna med ringar",
+        "En tät samling gamla stjärnor",
+        "En nyfödd nebulosa full av gas"
       ],
       "correct": 1,
-      "fact": "Linsformade galaxer saknar tydliga spiralarmar men har en skivstruktur, vilket gör att de hamnar mitt emellan spiralgalaxer och elliptiska galaxer."
+      "fact": "En klotformig stjärnhop är ett tätt system av hundratusentals gamla stjärnor som hålls samman av gravitationen."
     },
     {
-      "q": "Vad finns i mitten av galaxen NGC 4526?",
+      "q": "Vad är en dvärggalax?",
       "options": [
-        "Ett supermassivt svart hål",
-        "Ett tätt kluster av unga stjärnor",
-        "En stor och aktiv kvasar"
+        "En mindre galax som kretsar kring en större",
+        "Ett annat namn för en döende stjärna",
+        "En galax som saknar egna stjärnor"
       ],
       "correct": 0,
-      "fact": "I galaxens centrum döljer sig ett enormt supermassivt svart hål som väger lika mycket som 450 miljoner solar."
+      "fact": "Dvärggalaxer är mindre galaxer som ofta kretsar kring massivare galaxer som vår egen Vintergata."
     },
     {
-      "q": "Hur rör sig gasen i galaxens centrala skiva?",
+      "q": "Vad menas med tidvattenkrafter i rymden?",
       "options": [
-        "Den står nästan helt stilla av gravitationen",
-        "Den faller sakta in mot det svarta hålet",
-        "Den roterar med en enorm hastighet"
+        "Vågor av vatten på främmande planeter",
+        "Gravitationspåverkan som drar isär ett objekt",
+        "Magnetfält som krockar mellan stjärnor"
       ],
-      "correct": 2,
-      "fact": "Gasen, stoftet och stjärnorna i skivan snurrar otroligt snabbt med en hastighet som överstiger 250 kilometer i sekundén."
+      "correct": 1,
+      "fact": "Tidvattenkrafter uppstår när en stor himlakropps gravitation drar hårdare i ena sidan av ett annat objekt så att det slits itu."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor snurra långt ute i rymden som lyser svagt som en halo. Den här galaxen är full av stjärnor och stoft som virvlar runt i en väldig fart. Fastän den ser lugn och fredlig ut på bilden är det full fart där inne med både gasmoln som snurrar och stjärnexplosioner som har hänt för länge sedan.",
-    "nyborjare": "Den vackra galaxen NGC 4526 ser fridfull ut med sitt mjuka ljus och sina mörka stoftstråk, men den är faktiskt en mycket dynamisk plats. Den tillhör kategorin linsformade galaxer, vilket är en form som ligger mitt emellan en spiralgalax och en elliptisk galax. I dess mitt döljer sig ett gigantiskt svart hål som väger lika mycket som 450 miljoner solar. Runt detta centrum finns en snabbt roterande skiva av gas och stoft som rör sig med över 250 kilometer i sekundén.",
-    "entusiast": "NGC 4526 är en av de ljusstarkaste linsformade galaxerna i Virgohopen. Dess mest utmärkande drag är en exceptionellt stor och snabbt roterande gasskiva som sträcker sig ut över sju procent av galaxens totala radie. Genom att studera denna rotationsdynamik kunde forskare för första gången beräkna massan hos det centrala supermassiva svarta hålet, som uppskattas till 450 miljoner solmassor. Galaxen har dessutom varit värd för två kända supernovaexplosioner, åren 1969 och 1994. Bilden är tagen med rymdteleskopet Hubbles Wide Field and Planetary Camera 2 och Advanced Camera for Surveys."
+    "barn": "Tänk dig en jättestor boll av gnistrande stjärnor som klamrar sig fast långt ut i kanten av vår galax. Denna stjärnhop ser ut som en glittrande diamantboll i rymden. Men den hör egentligen inte hemma här. Den har blivit stulen från en annan liten galax långt borta och släpats hit av osynliga krafter för miljarder år sedan.",
+    "nyborjare": "Bilden visar en klotformig stjärnhop som kallas Palomar 12. Den befinner sig i utkanten av Vintergatans halo, men astronomerna upptäckte att den är ungefär trettio procent yngre än andra stjärnhopar i vår galax. Det visade sig att hopen ursprungligen föddes i en annan galax som kallas Skyttens dvärggalax. För ungefär 1,7 miljarder år sedan slets stjärnhopen loss från sitt hem genom så kallade tidvattenkrafter när den passerade nära vår galax. Nu kretsar den runt Vintergatan som en kosmisk immigrant.",
+    "entusiast": "Det rymdteleskop som tagit bilden med sin Advanced Camera for Surveys har fångat stjärnhopen Palomar 12. Denna galaktiska klotformiga stjärnhop upptäcktes på fotografiska plåtar och ansågs inledningsvis vara en vanlig gammal population i Vintergatans halo. Dess avvikande metallhalt och ålder, som är cirka trettio procent lägre än hos andra galaktiska klotformiga hopar, ledde dock till slutsatsen att den har ett extragalaktiskt ursprung. Ytterligare studier av dess bana visade att den har ackreterats från Skyttens dvärggalax för cirka 1,7 miljarder år sedan. Denna dynamiska händelse orsakades av interaktioner mellan satellitgalaxen och Vintergatan, där gravitationen slet loss stjärnhopen och införlivade den i vår egen galaxhalo."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt system i rymden som samlar miljarder stjärnor, gas, stoft och mörk materia kring ett gemensamt centrum."
+      "term": "stjärnhop",
+      "explanation": "En stor samling stjärnor som hålls samman av sin egen ömsesidiga gravitation."
     },
     {
-      "term": "supermassivt svart hål",
-      "explanation": "Ett kompakt objekt med så stark gravitationskraft att ingenting, inte ens ljus, kan undkomma dess dragningskraft."
+      "term": "halo",
+      "explanation": "Ett sfäriskt och glest område av äldre stjärnor och mörk materia som omger en galaxkärna."
     },
     {
-      "term": "supernovaexplosion",
-      "explanation": "Den våldsamma och ljusstarka utblomningen som sker när en tung stjärna har nått slutet av sitt liv."
+      "term": "dvärggalax",
+      "explanation": "En mindre galax som bara innehåller ett fåtal miljarder stjärnor jämfört med en stor galax."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett avancerat astronomiskt instrument som placerats i omloppsbana ovanför jordatmosfären för att observera universum."
+      "term": "tidvattenkrafter",
+      "explanation": "Gravitationskrafter som sträcker och drar isär ett objekt på grund av skillnaden i dragningskraft över dess avstånd."
+    },
+    {
+      "term": "satellitgalax",
+      "explanation": "En mindre galax som kretsar i bana kring en betydligt större galax."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant spinning wheel far out in space that glows softly like a halo. This galaxy is full of stars and dust swirling around at a tremendous speed. Even though it looks peaceful and calm in the picture, it is actually a very busy place with spinning gas clouds and stellar explosions that happened long ago.",
-      "nyborjare": "The beautiful galaxy NGC 4526 looks serene with its soft glow and dark dust lanes, but it is actually a highly dynamic place. It belongs to the category of lenticular galaxies, which is a shape that lies somewhere between a spiral galaxy and an elliptical galaxy. At its center lies a giant black hole with a mass equal to 450 million suns. Surrounding this center is a rapidly rotating disk of gas and dust moving at over 250 kilometers per second.",
-      "entusiast": "NGC 4526 is one of the brightest lenticular galaxies in the Virgo cluster. Its most prominent feature is an exceptionally large and rapidly rotating gas disk that extends across seven percent of the galaxy's total radius. By studying this rotational dynamics, researchers were able to calculate the mass of the central supermassive black hole for the first time, estimated at 450 million solar masses. The galaxy has also hosted two known supernova explosions, in 1969 and 1994. The image was captured using Hubble's Wide Field and Planetary Camera 2 and Advanced Camera for Surveys."
+      "barn": "Imagine a giant ball of sparkling stars hanging far out at the edge of our galaxy. This star cluster looks like a glittering diamond sphere in space. But it does not actually belong here. It was stolen from another small galaxy far away and dragged here by invisible forces billions of years ago.",
+      "nyborjare": "The image shows a globular cluster known as Palomar 12. It is located on the outskirts of the Milky Way halo, but astronomers discovered that it is about thirty percent younger than other clusters in our galaxy. It turned out that the cluster was originally born in another galaxy called the Sagittarius Dwarf Elliptical galaxy. Around 1.7 billion years ago, the cluster was ripped from its home through tidal interactions as it passed near our galaxy. Now it orbits the Milky Way as a cosmic immigrant.",
+      "entusiast": "The space telescope captured the globular cluster Palomar 12 using its Advanced Camera for Surveys. This galactic globular cluster was initially thought to be a standard old population within the Milky Way halo. However, its anomalous metallicity and younger age led to the conclusion that it has an extragalactic origin. Further studies of its orbit demonstrated that it was accreted from the Sagittarius dwarf galaxy around 1.7 billion years ago. This dynamic event was driven by gravitational interactions between the satellite galaxy and the Milky Way, stripping the cluster away."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system in space containing billions of stars, gas, dust, and dark matter bound together by gravity."
+        "term": "cluster",
+        "explanation": "A large collection of stars held together by their mutual gravitational attraction."
       },
       {
-        "term": "supermassive black hole",
-        "explanation": "A compact object with gravity so strong that nothing, not even light, can escape its pull."
+        "term": "halo",
+        "explanation": "A spherical and sparse region of older stars and dark matter surrounding a galaxy."
       },
       {
-        "term": "supernova",
-        "explanation": "The violent and luminous explosion that occurs when a massive star reaches the end of its life."
+        "term": "dwarf galaxy",
+        "explanation": "A smaller galaxy containing only a few billion stars compared to a massive galaxy."
       },
       {
-        "term": "space telescope",
-        "explanation": "An advanced astronomical instrument placed in orbit above Earth's atmosphere to observe the universe."
+        "term": "tidal interactions",
+        "explanation": "Gravitational forces that stretch and pull an object apart due to differences in force across its span."
+      },
+      {
+        "term": "satellite galaxy",
+        "explanation": "A smaller galaxy that orbits in a path around a significantly larger parent galaxy."
       }
     ],
     "quiz": [
       {
-        "q": "What is a lenticular galaxy?",
+        "q": "What is a globular cluster?",
         "options": [
-          "A galaxy shaped strictly like a lens",
-          "An intermediate stage between spirals and ellipticals",
-          "A small galaxy created by gravitational lensing"
+          "A single star surrounded by bright rings",
+          "A dense collection of ancient stars",
+          "A newborn nebula full of hot gas"
         ],
         "correct": 1,
-        "fact": "Lenticular galaxies lack clear spiral arms while possessing a disk structure, placing them somewhere between spiral and elliptical galaxies."
+        "fact": "A globular cluster is a dense system of hundreds of thousands of old stars held together by gravity."
       },
       {
-        "q": "What lies at the center of NGC 4526?",
+        "q": "What is a dwarf galaxy?",
         "options": [
-          "A colossal supermassive black hole",
-          "A dense cluster of young stars",
-          "A large and active quasar"
+          "A smaller galaxy orbiting a larger one",
+          "Another term for a dying star",
+          "A galaxy completely devoid of stars"
         ],
         "correct": 0,
-        "fact": "Hidden in the galaxy's center is an enormous supermassive black hole with the mass of 450 million suns."
+        "fact": "Dwarf galaxies are smaller galaxies that often orbit more massive galaxies like our own Milky Way."
       },
       {
-        "q": "How does the gas in the central disk move?",
+        "q": "What are tidal forces in space?",
         "options": [
-          "It remains nearly motionless due to gravity",
-          "It slowly falls inward toward the black hole",
-          "It rotates at an incredible speed"
+          "Waves of liquid water on alien planets",
+          "Gravitational forces that pull an object apart",
+          "Magnetic fields colliding between stars"
         ],
-        "correct": 2,
-        "fact": "The gas, dust, and stars in the disk spin incredibly fast at speeds exceeding 250 kilometers per second."
+        "correct": 1,
+        "fact": "Tidal forces occur when a massive body's gravity pulls harder on one side of an object, tearing it apart."
       }
     ]
   }

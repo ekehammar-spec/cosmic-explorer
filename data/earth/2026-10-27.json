@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-27",
+  "title": "A-81 Reaches South Georgia",
+  "title_sv": "Isberget A-81 når Sydgeorgien",
+  "place": "Sydgeorgien, Sydatlanten",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory image by Michala Garrison, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEBQb/xAApEAACAQMCBQIHAAAAAAAAAAABAgMABBESIQUTIjFRQUJhcZGxwdHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDLdHeVFOScH6VfHLNbcGjNpbtPKRhVXz5NM8UnW6oACcZ8DH2q22sTDZsToMc3UADn03qg5OEcfvHbmSSWiFuxXTv8Krhsr6PitvzLySZlOogqdGPUE10iuhjzcsCibB235f8AP3TyrDHGsrSRhD7iRigklRY1dQOnHY1k2vEZQ0eFXqkC/LNFFIazNlwdhq2O1TIoiuzbvHE8ZI20Y/OKKKC//9k=",
+  "levels": {
+    "barn": "På den här satellitbilden syns det mörkblå havet och vita slöjor av moln. Mitt i det kalla vattnet flyter en jättelik vit isbit som ser ut som en kantig ö. Det är isberget A-81.\n\nDet här isberget lossnade från Antarktis iskant och har glidit fram i havet i över tre år. Nu har det kommit fram till en avlägsen ö som heter Sydgeorgien. Där är vattnet grundare, så det väldiga isberget har börjat sakta in och stöter emot havsbotten.",
+    "nyborjare": "Satellitbilden visar det mörka havet i Sydatlanten där vita molnstråk omger ett väldigt, rektangulärt isflak: isberget A-81. Isberget är ungefär 1 550 kvadratkilometer stort, vilket motsvarar mer än hela Ölands yta.\n\nNär stora ismassor bryts loss från kanten av en glaciär kallas det för kalvning. A-81 kalvade från glaciärisen på Brunt-ishyllan i januari 2023 efter att en spricka växt i årtionden. Därefter fångades isberget av roterande havsströmmar i Weddellhavet och drev 2 300 kilometer norrut. Nu har det nått den isolerade ön Sydgeorgien. Vattnet runt ön är grundare, vilket gör att isbergets undersida stöter i undervattenssockeln och tappar fart.",
+    "entusiast": "Denna bild togs den 20 oktober 2026 av satelliten Terras spektroradiometer MODIS (Moderate Resolution Imaging Spectroradiometer). Den visar isberget A-81 när det passerar den karga ön Sydgeorgien i Scotiahavet, cirka 2 300 kilometer nordnordväst om sitt ursprung.\n\nA-81 bröts loss från Brunt-ishyllan i januari 2023 längs en spricka känd som Chasm 1, vilken började återaktiveras och växa omkring 2012. Efter kalvningen färdades det cirka 1 550 kvadratkilometer stora isberget med den medurs roterande Weddellvirveln längs kusten innan det nådde spetsen på Antarktiska halvön i maj 2026 och styrde norrut.\n\nVid Sydgeorgien saktade A-81 in avsevärt när det började skrapa emot öns grunda kontinentalsockel. Detta havsområde är en välkänd slutstation för antarktiska isberg. Forskare följer utvecklingen noga med hjälp av satellitdata, särskilt eftersom Brunt-ishyllan hyser den brittiska forskningsstationen Halley och nyligen genomgått flera stora kalvningar, däribland isbergen A-74 och A-83."
+  },
+  "terms": [
+    {
+      "term": "kalvning",
+      "explanation": "Processen där stora stycken is bryts loss från glaciärer eller ishyllor och bildar isberg i havet."
+    },
+    {
+      "term": "ishyllor",
+      "explanation": "Tjocka plattformar av glaciäris som flyter på havets yta men fortfarande sitter fast vid landisen."
+    },
+    {
+      "term": "Weddellvirveln",
+      "explanation": "En storskalig, medurs roterande havsström i Weddellhavet utanför Antarktis kust."
+    },
+    {
+      "term": "MODIS",
+      "explanation": "Ett satellitburet optiskt instrument som mäter strålning för att observera jordens atmosfär, land och hav."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "In this satellite picture, you can see the dark blue ocean and swirling white clouds. Right in the middle of the cold water floats a giant, blocky piece of ice that looks like an island. This is Iceberg A-81.\n\nThis iceberg broke away from Antarctica and has been drifting through the waves for over three years. Now it has reached a distant island called South Georgia. Because the water there is shallow, the massive iceberg is slowing down and bumping along the sea floor.",
+      "nyborjare": "This satellite view shows the dark waters of the South Atlantic Ocean, where streaks of white clouds frame a massive, angular slab of ice known as Iceberg A-81. Spanning about 1,550 square kilometers, it is roughly the size of a large island.\n\nWhen chunks of ice detach from an ice shelf, the process is called calving. A-81 calved from the Brunt Ice Shelf in January 2023 after a crack widened over several decades. Ocean currents in the Weddell Sea carried the berg roughly 2,300 kilometers northward. It has now arrived near the remote island of South Georgia, where the underwater continental shelf is slowing the berg down as its deep keel scrapes along the seabed.",
+      "entusiast": "Captured on October 20, 2026, by the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Terra satellite, this image shows Iceberg A-81 approaching the remote island of South Georgia in the Scotia Sea, roughly 2,300 kilometers north-northwest of its origin.\n\nA-81 detached from the Brunt Ice Shelf in January 2023 along a rift known as Chasm 1, which had reactivated around 2012. After calving, the 1,550-square-kilometer tabular iceberg drifted with the clockwise Weddell Gyre along the Antarctic coastline, rounding the Antarctic Peninsula in May 2026 before entering the open South Atlantic.\n\nAs it neared South Georgia, A-81 slowed significantly while bumping along the island's shallow underwater shelf, a natural graveyard for many massive bergs. Scientists track these dynamic events closely from orbit, particularly because the Brunt Ice Shelf hosts the British Antarctic Survey's Halley Research Station and has shed other major bergs including A-74 and A-83."
+    },
+    "terms": [
+      {
+        "term": "calving",
+        "explanation": "The mechanical process where blocks of ice break off from a glacier or ice shelf into water."
+      },
+      {
+        "term": "ice shelf",
+        "explanation": "A thick, floating platform of glacial ice extending from an ice sheet out over the ocean surface."
+      },
+      {
+        "term": "Weddell Gyre",
+        "explanation": "A major clockwise-flowing ocean current system circulating within the Weddell Sea off Antarctica."
+      },
+      {
+        "term": "MODIS",
+        "explanation": "A satellite instrument designed to capture Earth data across numerous visible and infrared spectral bands."
+      }
+    ],
+    "place": "South Georgia, South Atlantic Ocean"
+  }
+}

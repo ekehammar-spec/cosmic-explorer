@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-27",
+  "media_type": "image",
+  "title": "Isberg och slätter på Pluto",
+  "title_en": "Ice Mountains and Plains",
+  "thumb": "https://images-assets.nasa.gov/image/PIA19954/PIA19954~small.jpg"
+ },
+ {
   "date": "2026-10-26",
   "media_type": "image",
   "title": "Koronahål vända mot jorden",
@@ -79,9 +86,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "NGC 4526",
-  "title_en": "Hubble Views the Whirling Disk of NGC 4526",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000926/GSFC_20171208_Archive_e000926~small.jpg"
+  "title": "Palomar 12",
+  "title_en": "Panta rhei as Seen by Hubble",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000767/GSFC_20171208_Archive_e000767~small.jpg"
  },
  {
   "date": "2026-10-14",
