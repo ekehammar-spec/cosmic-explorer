@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "The beautiful side of IC 335",
-  "title_sv": "Galaxen IC 335",
+  "title": "A Hubble Sky Full of Stars",
+  "title_sv": "Stjärnhopen NGC 4833 i Flugan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000848/GSFC_20171208_Archive_e000848~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000848/GSFC_20171208_Archive_e000848~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000848/GSFC_20171208_Archive_e000848~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000848",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000256/GSFC_20171208_Archive_e000256~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000256/GSFC_20171208_Archive_e000256~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000256/GSFC_20171208_Archive_e000256~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000256",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000848",
+  "id": "GSFC_20171208_Archive_e000256",
   "px": [
     1280,
-    1067
+    1261
   ],
   "w": 640,
-  "h": 533,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAQUAAwf/xAAjEAACAQMDBAMAAAAAAAAAAAAAARECAwQFEkEhM0JRYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDz2Ag7WaraqW9SixiLRbrSyHftfKhgQYAt5mHpst42Y2uFXQ0SblCpbSckHNuXLNuAfD9KHc/ZurU8ByNzuVfYH//Z",
+  "h": 630,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUAAgQG/8QAIxAAAgEEAgICAwAAAAAAAAAAAQIRAAMhQRIxUWETIjKh8f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4NUggAhiYONejRVUheseu6lhRP213TBbCETJIn6jZHvxQYGtiCcA7A6oLCVnJI/VNLlhQHbCiJXliaxXCAFUhYDH+0FbJjZg6phadUwZnx4pb8o4wo4jcbNFRgZkEgT6morfdvgnkRhliCTS+9cFzkeMMTMjr3iq/J5brrG6lxHVByH5SQZwY3VH/9k=",
   "quiz": [
     {
-      "q": "Vad kallas galaxer som liknar en platt lins?",
+      "q": "Vad är en klotformig stjärnhop?",
       "options": [
-        "Linsformade galaxer",
-        "Elliptiska galaxer",
-        "Oregelbundna galaxer"
-      ],
-      "correct": 0,
-      "fact": "Linsformade galaxer har en skiva och en central bula men saknar tydliga spiralarmar."
-    },
-    {
-      "q": "Hur lång tid tar det för ljuset att nå oss härifrån?",
-      "options": [
-        "600 000 ljusår",
-        "60 miljoner ljusår",
-        "6 miljarder ljusår"
+        "En ring av unga stjärnor kring ett svart hål",
+        "En tät samling av hundratusentals gamla stjärnor",
+        "En explosion när två stora galaxer krockar"
       ],
       "correct": 1,
-      "fact": "Galaxen befinner sig i Fornaxhopens galaxhop på sextio miljoner ljusårs avstånd."
+      "fact": "En klotformig stjärnhop är ett tätt klot av hundratusentals stjärnor som hålls samman av gravitationen."
     },
     {
-      "q": "Varför är det svårt att klassificera IC 335?",
+      "q": "Varför är stjärnhopar som NGC 4833 intressanta?",
       "options": [
-        "Den ses rakt ifrån sidan",
-        "Den ligger bakom en nebulosa",
-        "Den roterar alldeles för snabbt"
+        "De innehåller några av galaxens äldsta stjärnor",
+        "De bildar nya planeter snabbare än andra områden",
+        "De driver galaxens snabba rotation kring sin axel"
       ],
       "correct": 0,
-      "fact": "När en galax observeras från kanten döljs dess typiska struktur och spiralarmar."
+      "fact": "Dessa gamla kosmiska samlingar hjälper astronomerna att förstå hur Vintergatan bildades och utvecklades över tid."
+    },
+    {
+      "q": "Vad betyder det att ett avstånd är 22 000 ljusår?",
+      "options": [
+        "Ljuset färdas i 22 000 kilometer per sekund",
+        "Det tar 22 000 år för planeterna att kretsa",
+        "Det tar ljuset 22 000 år att nå oss"
+      ],
+      "correct": 2,
+      "fact": "Ett ljusår är den sträcka som ljuset färdas på ett år, vilket gör att vi ser objektet som det såg ut för 22 000 år sedan."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en enorm rymdsnurra som har tappat sina glittriga armar. Den här galaxen är som en platt tallrik full med miljarder stjärnor, men eftersom vi tittar precis rakt ifrån kanten ser den ut som ett tunt streck på himlen. Den ligger jättelångt borta, nämligen sextio miljoner ljusår härifrån, och nästan alla stjärnor där inne är gamla och trötta.",
-    "nyborjare": "Denna Hubble-bild visar galaxen IC 335 som ligger sextio miljoner ljusår bort i Fornaxhopen. Från jorden ser vi galaxen exakt från kanten, vilket gör den svår att klassificera eftersom dess spiralarmar döljs. Astronomer brukar kalla den en linsformad galax. Det betyder att den har en tunn stjärnskiva och en central bula ungefär som en spiralgalax, men att den har förbrukat nästan all sin gas. Därför föds det knappt några nya stjärnor där längre, och befolkningen består mest av åldrande solar.",
-    "entusiast": "IC 335 är en linsformad galax av S0-typ som spänner över fyrtiofemtusen ljusår och ingår i Fornaxhopen. Med sin skiva och sin centrala bula påminner den morfologiskt om en spiralgalax, men den saknar ett aktivt interstellärt medium och uppvisar en mycket låg stjärnbildningstakt. Eftersom galaxen ses från kanten blir dess morfologi svårtolkad, vilket gör att den lätt kan förväxlas med en elliptisk galax. S0-galaxer betraktas liksom elliptiska galaxer som tidiga galaxetyper eftersom de utvecklas passivt, men deras ursprung debatteras fortfarande. De kan antingen vara åldrande spiraler som aldrig växelverkat eller resultatet av en tidigare sammanslagning."
+    "barn": "Tänk dig en stor boll fylld med glittrande diamanter ute i mörka rymden. Det är precis så en stjärnhop ser ut. Hundratusentals stjärnor sitter tätt ihop i ett stort klot. Den här hopen ligger långt borta i stjärnbilden Flugan och lyser vackert på himlen.",
+    "nyborjare": "Bilden visar stjärnhopen NGC 4833, en tät samling av hundratusentals stjärnor som hålls samman av gravitationen. Den ligger tjugoelva tusen ljusår bort i stjärnbilden Flugan. Ett ljusår är den sträcka som ljuset färdas på ett år. Hopen är en av över etthundra femtio kända klotformiga stjärnhopar i vår galax, och den innehåller några av de äldsta stjärnorna vi känner till. Genom att studera sådana gamla stjärnhopar kan astronomerna förstå mer om hur Vintergatan en gång bildades.",
+    "entusiast": "NGC 4833 framträder i denna skarpa bild från rymdteleskopet Hubble. Denna tätt packade klotformiga stjärnhop befinner sig cirka tjugotvå tusen ljusår från jorden i stjärnbilden Flugan. Den tillhör den population av över etthundra femtio kända globulära hopar som kretsar i Vintergatans gloria. Dessa system hyser universums äldsta stjärnpopulationer, vilket gör dem till ovärderliga laboratorier för att studera galaktisk kemisk utveckling och stjärnornas evolution. Genom att mäta åldern på stjärnorna i hopar som NGC 4833 får astrofysikanterna en nedre gräns för galaxens totala ålder och ledtrådar om dess tidiga historia."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationen och innehåller miljarder stjärnor, gas och stoft."
+      "term": "stjärnhop",
+      "explanation": "En stor samling stjärnor som hålls samman av den gemensamma dragningskraften."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som ljuset färdas under ett helt jordår, vilket används för att mäta rymdavstånd."
+      "explanation": "Den enorma sträcka som ljuset hinner färdas under ett helt jordår."
     },
     {
-      "term": "spiralgalax",
-      "explanation": "En stjärnsystemtyp som har en central bula och svepande armar fyllda med unga stjärnor."
+      "term": "gravitation",
+      "explanation": "Den osynliga dragningskraft som drar mot varandra och håller ihop himlakroppar."
     },
     {
-      "term": "interstellärt medium",
-      "explanation": "Den gas och det stoft som finns i utrymmet mellan stjärnorna i en galax."
+      "term": "galax",
+      "explanation": "Ett jättelikt system av stjärnor, gas, stoft och mörk materia som hålls ihop av gravitation."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat instrument placerat i omloppsbana kring jorden för att studera rymden utan störande atmosfär."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant cosmic spinning top that has lost its glittery arms. This galaxy looks like a flat plate full of billions of stars, but because we are looking at it strictly from the side, it appears as a thin line in space. It is located super far away, sixty million light-years from us, and almost all the stars inside are old and tired.",
-      "nyborjare": "This Hubble image shows the galaxy IC 335, located sixty million light-years away in the Fornax Galaxy Cluster. From Earth, we see the galaxy edge-on, which makes it hard to classify because its spiral arms are hidden. Astronomers usually classify it as an S0 type. This means it has a thin stellar disk and a central bulge much like a spiral galaxy, but it has used up almost all of its gas. Therefore, barely any new stars are born there, and the population consists mostly of aging suns.",
-      "entusiast": "IC 335 is a lenticular galaxy spanning forty-five thousand light-years and is part of the Fornax Galaxy Cluster. With its stellar disk and central bulge, it resembles a spiral galaxy morphologically, yet it lacks an active interstellar medium and exhibits a very low star formation rate. Because the galaxy is viewed edge-on, its morphology is difficult to interpret, leading to potential confusion with elliptical galaxies. S0 galaxies are classified as early-type galaxies because they evolve passively, although their exact origin remains debated as they may represent aging spirals or merger remnants."
+      "barn": "Imagine a giant ball filled with glowing diamonds out in the dark space. That is exactly what a star cluster looks like. Hundreds of thousands of stars sit closely together in a large sphere. This cluster is located far away in the constellation of the Fly and shines brightly in the sky.",
+      "nyborjare": "The image shows the star cluster NGC 4833, a dense collection of hundreds of thousands of stars held together by gravity. It is located twenty-two thousand light-years away in the constellation of the Fly. A light-year is the distance that light travels in one year. The cluster is one of over one hundred and fifty known globular clusters in our galaxy, and it contains some of the oldest stars we know of. By studying such ancient star clusters, astronomers can understand more about how the Milky Way once formed.",
+      "entusiast": "NGC 4833 is featured in this sharp image from the space telescope. This tightly packed globular cluster is located approximately twenty-two thousand light-years from Earth in the constellation of the Fly. It belongs to the population of over one hundred and fifty known globular clusters orbiting within the halo of the Milky Way. These systems host some of the oldest stellar populations in the universe, making them invaluable laboratories for studying galactic chemical evolution and stellar evolution. By determining the age of the stars in clusters like NGC 4833, astrophysicists obtain a lower limit for the total age of the galaxy and clues about its early history."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system held together by gravity containing billions of stars, gas, and dust."
+        "term": "cluster",
+        "explanation": "A large collection of stars held together by their mutual gravitational attraction."
       },
       {
         "term": "light-year",
-        "explanation": "The distance that light travels through a vacuum in one Earth year."
+        "explanation": "The enormous distance that light manages to travel during one Earth year."
       },
       {
-        "term": "spiral galaxy",
-        "explanation": "A stellar system featuring a central bulge and sweeping arms filled with young stars."
+        "term": "gravity",
+        "explanation": "The invisible force of attraction that pulls massive objects toward one another."
       },
       {
-        "term": "interstellar medium",
-        "explanation": "The matter that exists in the space between the star systems within a galaxy."
+        "term": "galaxy",
+        "explanation": "A giant system of stars, gas, dust, and dark matter bound together by gravity."
+      },
+      {
+        "term": "telescope",
+        "explanation": "An advanced instrument used to observe distant objects in space by gathering light."
       }
     ],
     "quiz": [
       {
-        "q": "What are galaxies shaped like a flat disk called?",
+        "q": "What is a globular cluster?",
         "options": [
-          "Lenticular galaxies",
-          "Elliptical galaxies",
-          "Irregular galaxies"
-        ],
-        "correct": 0,
-        "fact": "Lenticular galaxies feature a stellar disk and a bulge but lack defined spiral arms."
-      },
-      {
-        "q": "How long does light take to reach us from here?",
-        "options": [
-          "600,000 light-years",
-          "60 million light-years",
-          "6 billion light-years"
+          "A ring of young stars around a black hole",
+          "A tight collection of hundreds of thousands of old stars",
+          "An explosion when two large galaxies collide"
         ],
         "correct": 1,
-        "fact": "The galaxy is located sixty million light-years away within the Fornax Galaxy Cluster."
+        "fact": "A globular cluster is a tightly packed collection of hundreds of thousands of stars held together by gravity."
       },
       {
-        "q": "Why is it difficult to classify IC 335?",
+        "q": "Why are clusters like NGC 4833 interesting?",
         "options": [
-          "It is viewed edge-on from Earth",
-          "It is hidden behind a nebula",
-          "It is rotating far too quickly"
+          "They contain some of the galaxy's oldest stars",
+          "They form new planets faster than other regions",
+          "They drive the rapid rotation of the galaxy"
         ],
         "correct": 0,
-        "fact": "When a galaxy is observed edge-on, its typical structural features and spiral arms are hidden."
+        "fact": "These ancient cosmic collections help astronomers understand how the Milky Way formed and evolved over time."
+      },
+      {
+        "q": "What does a distance of 22,000 light-years mean?",
+        "options": [
+          "Light travels at 22,000 kilometers per second",
+          "It takes planets 22,000 years to orbit",
+          "It takes light 22,000 years to reach us"
+        ],
+        "correct": 2,
+        "fact": "A light-year is the distance light travels in one year, meaning we see the object as it was 22,000 years ago."
       }
     ]
   }
