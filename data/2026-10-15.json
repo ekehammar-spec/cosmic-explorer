@@ -1,142 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Elegant spiral hides a hungry monster",
-  "title_sv": "Stavspiralgalaxen NGC 4639",
+  "title": "ESO 306-17",
+  "title_sv": "ESO 306-17",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002171",
   "credit": "NASA/GSFC",
-  "taken": "2015",
+  "taken": "2017",
   "src": "library",
-  "id": "hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o",
+  "id": "GSFC_20171208_Archive_e002171",
   "px": [
-    1222,
-    1280
+    1920,
+    1908
   ],
-  "w": 611,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgIBAwQF/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIAAxExBSEEEhNBUQYUIjJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABcRAQEBAQAAAAAAAAAAAAAAAAAxASH/2gAMAwEAAhEDEQA/AAK0iRKPDtbbedVKmlVEUD5lsg9vFok0/QDWAVU5mtew3jeAYyFciYtF2saEtCiai2BGR4harTKHeKL4euaTqw7GLuC9SdOio+ptswz+QTeUtQriKE2pav7hWHUvzZ2nhVirLzW7+Zp6wOVks2wNjY4iD//Z",
+  "w": 640,
+  "h": 636,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGB//EACMQAAIBBAEEAwEAAAAAAAAAAAECAAMEESESBTFBkRMiUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A58NjEs29AuR3kdJeRGvU0nSLVajjmcZOyYAo2RVckSnWQL/ZqeqrSo5VGBA8zLXL8nP5AktabbfieI7mFKV4KK6MFrd1EotSVyKbkFl8EiI32tPkVWyr4Zs63217gWbu9NQ7OR5g125HOMRC2Y0mB//Z",
   "quiz": [
     {
-      "q": "Vad kallas en spiralgalax med ett rakt band av stjärnor genom mitten?",
+      "q": "Vad är en elliptisk galax för något?",
       "options": [
-        "Stavspiralgalax",
-        "Ringgalax",
-        "Linsformad galax"
+        "En mogen galaxform utan ny stjärnbildning",
+        "En platt galax med tydliga spiralarmar",
+        "En gasrik galax som håller på att födas"
       ],
       "correct": 0,
-      "fact": "Omkring två tredjedelar av alla spiralgalaxer, inklusive vår egen Vintergata, har en sådan central stav."
+      "fact": "Elliptiska galaxer består främst av äldre stjärnor och saknar den kalla gas som krävs för att bilda nya stjärnor."
     },
     {
-      "q": "Vad döljer sig vanligtvis i centrum av stora galaxer som NGC 4639?",
+      "q": "Varför ser galaxer ofta ut att trängas?",
       "options": [
-        "En ensam jättestjärna",
-        "Ett supermassivt svart hål",
-        "En kompakt mörk nebulosa"
+        "Galaxerna dras ständigt till varandra med våld",
+        "Förgrundsobjekt ligger optiskt framför mer avlägsna",
+        "Rymden är så trång att galaxer krockar dagligen"
       ],
       "correct": 1,
-      "fact": "De flesta stora galaxer rymmer ett supermassivt svart hål i sin kärna som drar till sig omgivande materia."
+      "fact": "Ljuset från bakomliggande objekt passerar förbi närmare himlakroppar som skapar en illusion av att de står nära varandra."
     },
     {
-      "q": "Varför lyser gasen så starkt precis runt ett aktivt svart hål?",
+      "q": "Vad är mörk materia för typ av ämnesform?",
       "options": [
-        "Gasen hettas upp kraftigt av friktion",
-        "Ljuset reflekteras från galaxens stjärnor",
-        "Kärnfusion startar i själva hålet"
+        "Ett tätt moln av kosmisk aska och sot",
+        "Okänd materia som inte sänder ut ljus",
+        "Vanlig gas som har döljts av tunga stjärnor"
       ],
-      "correct": 0,
-      "fact": "När gas och materia faller mot det svarta hålet uppstår extrem friktion som hettar upp gasen så att den strålar i röntgen och synligt ljus."
+      "correct": 1,
+      "fact": "Mörk materia lyser inte alls men avslöjar sin närvaro genom sin starka gravitationspåverkan på synliga objekt."
     }
   ],
   "levels": {
-    "barn": "Titta på den här vackra snurran av stjärnor! Det är en galax som heter NGC 4639. Den ser nästan ut som en virvlande karusell av ljus.\n\nI mitten finns ett rakt band av stjärnor och i de svängda armarna tänds massor av nya stjärnor. Längst in i mitten gömmer sig en riktig glufsare: ett gigantiskt svart hål. Det svarta hålet suger i sig rymdgas som en osynlig dammsugare, fast det inte syns direkt på bilden.",
-    "nyborjare": "Galaxen NGC 4639 ligger drygt 70 miljoner ljusår från oss i stjärnbilden Jungfrun och ingår i den väldiga Jungfruhopen. Bilden visar en stavspiralgalax, där ett tydligt band av stjärnor skär rakt igenom den ljusa kärnan. Cirka två tredjedelar av alla spiralgalaxer har en sådan struktur.\n\nUte i spiralarmarna syns glittrande blå områden där nya stjärnor föds. Men i galaxens mitt döljer sig en aktiv galaxkärna. Där slukar ett supermassivt svart hål omgivande gas. När gasen dras in mot hålet hettas den upp av våldsam friktion och sänder ut energirik röntgenstrålning innan den försvinner över händelsehorisonten.",
-    "entusiast": "NGC 4639 är en stavspiralgalax belägen på cirka 70 miljoner ljusårs avstånd i Jungfruhopens utkant. Den centrala staven är en dynamisk struktur som kanaliserar gas in mot galaxens inre delar och tros vara en naturlig fas i en spiralgalax utveckling. Längs spiralarmarna syns utbredda H II-regioner som spänner över hundratals ljusår, där intensiv stjärnbildning pågår.\n\nGalaxen hyser en aktiv galaxkärna, förkortat AGN. I förhållande till extrema objekt som kvasarer uppvisar NGC 4639 en relativt låg aktivitet, vilket gör den till ett utmärkt studieobjekt för svaga ackretionsprocesser. Det centrala supermassiva svarta hålet drar till sig materia via en ackretionsskiva, där gravitationell potentiell energi omvandlas till termisk strålning. Processen avslöjar sig genom karakteristiska breda emissionslinjer i spektrumet och genom hård röntgenstrålning från områden mycket nära hålets händelsehorisont."
+    "barn": "Tänk dig en stor och rund stjärnboll som flyter ensam i rymden. Den här galaxen är som en jättestor öken av stjärnor där det nästan inte finns några kompisar i närheten. Runt omkring den svävar osynliga moln som håller ihop alltsammans som ett jättestort osynligt klister.",
+    "nyborjare": "Denna bild från Hubble-teleskopet visar den stora elliptiska galaxen ESO 306-17 i södra stjärnhimlen. Även om det ser ut som att den har många grannar är de flesta förgrundsobjekt som ligger mycket närmare oss i linje med galaxen. I verkligheten befinner sig denna galax ganska ensam i ett enormt hav av mörk materia och het gas, vilket gör den till ett spännande mål för forskare som studerar hur galaxer utvecklas i så kallade fossila grupper.",
+    "entusiast": "ESO 306-17 är en massiv elliptisk galax belägen i en gles miljö som ofta kallas en fossil grupp, där man tror att en tidigare grupp av galaxer har slagit sig samman till ett enda jätteobjekt. Observationer med rymdteleskopet Hubble har visat att galaxen omges av enorma mängder mörk materia och het gas. Astronomer använder bilderna för att leta efter dvärggalaxer och ultra-kompakta dvärggalaxer i dess omgivning. Sådana objekt tros ha blivit av med sina yttre stjärnor genom stark tidvattenpåverkan från den centrala jättegalaxen, vilket ger nya insikter om galaxernas utveckling i extremt glesa kosmiska miljöer."
   },
   "terms": [
     {
-      "term": "stavspiralgalax",
-      "explanation": "En typ av spiralgalax där stjärnorna i centrum bildar en rak stavliknande struktur."
+      "term": "galax",
+      "explanation": "Ett enormt system av miljarder stjärnor, gas, stoft och mörk materia som hålls samman av gravitationen."
     },
     {
-      "term": "ljusår",
-      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
+      "term": "elliptisk",
+      "explanation": "En rundad eller oval form som liknar en tillplattad boll."
     },
     {
-      "term": "svart hål",
-      "explanation": "Ett område i rymden med så stark gravitation att inte ens ljus kan ta sig ut därifrån."
+      "term": "förgrundsobjekt",
+      "explanation": "Himlakroppar som ligger närmare betraktaren än de mer avlägsna objekt som syns i bakgrunden."
     },
     {
-      "term": "aktiv galaxkärna",
-      "explanation": "Ett kompakt område i centrum av en galax med extremt hög ljusstyrka orsakad av ett matande svart hål."
+      "term": "mörk materia",
+      "explanation": "Ett mystiskt ämne som inte utsöndrar ljus men vars gravitation påverkar hur himlakroppar rör sig."
     },
     {
-      "term": "ackretionsskiva",
-      "explanation": "En roterande skiva av gas och stoft som samlas runt ett kompakt och massivt objekt."
+      "term": "rymdteleskop",
+      "explanation": "Ett optiskt instrument som placerats ovanför jordens atmosfär för att observera världsrymden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this beautiful pinwheel of stars! It is a galaxy named NGC 4639, spinning like a giant glowing carousel in space.\n\nA straight bar of bright stars cuts across its center, and brand new stars are lighting up along the swirling arms. Deep in the middle hides a hungry monster: a huge black hole. It acts like an invisible vacuum cleaner, pulling in cosmic gas from around it.",
-      "nyborjare": "Galaxy NGC 4639 lies over 70 million light-years away in the constellation Virgo and belongs to the massive Virgo Cluster. The image reveals a barred spiral galaxy, where a clear lane of stars runs directly through the bright central core. About two thirds of spiral galaxies feature such a bar.\n\nAcross the curving arms, clusters of bright young stars are actively forming. Deep in the galaxy’s center lies an active galactic nucleus. There, a supermassive black hole pulls in vast quantities of gas. As matter plunges inward, violent friction superheats the gas, making it blaze with energetic X-rays before crossing into the black hole.",
-      "entusiast": "NGC 4639 is a barred spiral galaxy situated roughly 70 million light-years away within the Virgo Cluster. The prominent stellar bar acts as a dynamic conveyor belt, channeling gas toward the inner regions of the galaxy. This bar structure represents a standard evolutionary phase for many spiral systems. The winding arms are dotted with bright H II regions spanning hundreds of light-years where active star formation occurs.\n\nAt its core, NGC 4639 hosts a low-luminosity active galactic nucleus (AGN). Unlike intensely radiant quasars, this galaxy exhibits a milder accretion regime, offering valuable insight into low-efficiency black hole feeding. Matter falling toward the central supermassive black hole forms an accretion disk, converting gravitational energy into thermal radiation detected via broad emission lines and hard X-ray emissions."
+      "barn": "Imagine a huge and round ball of stars floating all alone out in space. This galaxy is like a giant desert of stars with almost no friends nearby. Around it float invisible clouds holding everything together like a massive invisible glue.",
+      "nyborjare": "This image from the Hubble Space Telescope highlights the large elliptical galaxy ESO 306-17 in the southern sky. Although it looks surrounded by neighbors, most bright objects are foreground features situated much closer to us. In reality, this galaxy lies fairly abandoned in an enormous sea of dark matter and hot gas, making it an exciting target for researchers studying cosmic evolution.",
+      "entusiast": "ESO 306-17 is a massive elliptical galaxy situated in a sparse environment known as a fossil group, where a former galaxy cluster has likely merged into a single giant object. Observations with the Hubble Space Telescope reveal that the galaxy is surrounded by vast reservoirs of dark matter and hot gas. Astronomers use these deep exposures to search for nearby ultra-compact dwarf galaxies. These objects likely lost their outer stars due to strong tidal stripping from the central giant galaxy, offering vital clues about galactic evolution in extreme cosmic environments."
     },
     "terms": [
       {
-        "term": "barred spiral galaxy",
-        "explanation": "A spiral galaxy featuring a central bar-shaped structure composed of stars."
+        "term": "galaxy",
+        "explanation": "A massive system of billions of stars, gas, dust, and dark matter held together by gravity."
       },
       {
-        "term": "light-year",
-        "explanation": "The total distance that a beam of light travels through space in one Earth year."
+        "term": "elliptical",
+        "explanation": "A rounded or oval shape resembling a flattened sphere."
       },
       {
-        "term": "black hole",
-        "explanation": "A region of space where gravity is so strong that nothing, not even light, can escape."
+        "term": "foreground",
+        "explanation": "Celestial bodies positioned closer to the observer than distant background objects."
       },
       {
-        "term": "active galactic nucleus",
-        "explanation": "A compact, energetic central region powered by matter accreting onto a supermassive black hole."
+        "term": "dark matter",
+        "explanation": "Mysterious matter that does not emit light yet exerts a strong gravitational influence."
       },
       {
-        "term": "accretion disk",
-        "explanation": "A rotating flattened disk of gas and dust spiraling inward toward a massive central object."
+        "term": "space telescope",
+        "explanation": "An optical instrument placed above earth atmosphere to observe outer space clearly."
       }
     ],
     "quiz": [
       {
-        "q": "What do astronomers call a spiral galaxy with a straight band of stars across its center?",
+        "q": "What characterizes an elliptical galaxy?",
         "options": [
-          "A barred spiral galaxy",
-          "A ring galaxy",
-          "A lenticular galaxy"
+          "A mature galaxy shape without active star formation",
+          "A flat galaxy featuring distinct spiral arms",
+          "A gas-rich galaxy currently forming new stars"
         ],
         "correct": 0,
-        "fact": "About two thirds of all spiral galaxies, including our Milky Way, possess a central bar structure."
+        "fact": "Elliptical galaxies mainly consist of older stars and lack the cold gas required to form new ones."
       },
       {
-        "q": "What lurks at the center of large galaxies like NGC 4639?",
+        "q": "Why do galaxies often appear crowded together?",
         "options": [
-          "A solitary giant star",
-          "A supermassive black hole",
-          "A dense dark nebula"
+          "Galaxies constantly pull towards each other violently",
+          "Foreground objects lie optically closer along the sightline",
+          "Space is so cramped that galaxies collide daily"
         ],
         "correct": 1,
-        "fact": "Most massive galaxies host a supermassive black hole at their core that pulls in surrounding matter."
+        "fact": "Light from distant background objects passes near closer celestial bodies, creating an illusion of proximity."
       },
       {
-        "q": "Why does matter shine so brightly just outside an active black hole?",
+        "q": "What is dark matter scientifically considered to be?",
         "options": [
-          "Extreme friction heats up infalling gas",
-          "Starlight reflects off surrounding clouds",
-          "Nuclear fusion ignites inside the hole"
+          "A dense cloud of cosmic ash and soot",
+          "Unseen matter that does not emit light",
+          "Regular gas hidden behind heavy stars"
         ],
-        "correct": 0,
-        "fact": "As gas spirals inward, intense gravitational friction heats it to millions of degrees, releasing brilliant light and X-rays."
+        "correct": 1,
+        "fact": "Dark matter does not emit light but reveals its presence through strong gravitational pull on visible objects."
       }
     ]
   }
