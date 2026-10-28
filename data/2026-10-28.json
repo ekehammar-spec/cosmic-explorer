@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-28",
+  "title": "Slicing Before Titan",
+  "title_sv": "Saturnus ringar framför Titan",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA12772/PIA12772~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12772/PIA12772~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA12772/PIA12772~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA12772",
+  "credit": "NASA/JPL/Space Science Institute",
+  "taken": "2011",
+  "src": "library",
+  "id": "PIA12772",
+  "px": [
+    1015,
+    967
+  ],
+  "w": 640,
+  "h": 609,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYCBQf/xAAjEAABBAIBAwUAAAAAAAAAAAABAAIDBAYRBRIxURQiYXGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM2QpbZ4d+p+wvgaElBt65Cyw+QnoZI0ua0A6+kGfoT3mvC0Iq5uU4o4XMIDmxDQcD8JG9vhyCKZcdyh3EwemniMsIJLdd277paQgv8AIMiPKtEUUZih3s77lUCEIP/Z",
+  "quiz": [
+    {
+      "q": "Vad är Titans tjocka atmosfär främst uppbyggd av?",
+      "options": [
+        "Koldioxid",
+        "Kväve",
+        "Syre"
+      ],
+      "correct": 1,
+      "fact": "Titan är den enda månen i solsystemet med en tät atmosfär som till största delen består av kväve, precis som jorden."
+    },
+    {
+      "q": "Varför ser Titans nordpol mörkare ut på bilden?",
+      "options": [
+        "Det råder permanent vintermörker där",
+        "Ett enormt molnhölje täcker polen",
+        "Ytan är täckt av flytande kolväten"
+      ],
+      "correct": 1,
+      "fact": "Månens nordpol har ett karakteristiskt polartäcke av moln och dis som syns tydligt i infrarött och synligt ljus."
+    },
+    {
+      "q": "Vad består Saturnus mäktiga ringar huvudsakligen av?",
+      "options": [
+        "Is och stendelar",
+        "Hoptryckta gaser",
+        "Flytande metan"
+      ],
+      "correct": 0,
+      "fact": "Saturnus ringar utgörs av miljarder partiklar som varierar i storlek från mikroskopiskt damm till stora block, och nästan allt är ren vattenis."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en stor godisring som lägger sig framför en lurvig, orange boll. Så ser det ut när Saturnus jättelika isringar passerar framför månen Titan. Titan är en av Saturnus största månar och den har till och med ett eget litet molntäcke uppe vid polen. Rymdsonden Cassini tog detta fina foto för att hjälpa forskarna att lära sig mer om hur månen och planeten hänger ihop i rymden.",
+    "nyborjare": "Här skär Saturnus berömda ringar tvärs över bilden av månen Titan. Titan är en fascinerande värld med en tjock atmosfär som döljer den fasta ytan. Längst upp på månen syns det nordliga polartäcket, ett mörkt dis som bildas i den kalla polaratmosfären. Den historiska bilden är tagen av rymdsonden Cassini som under många år kretsade kring ringplaneten för att studera dess komplexa system av månar och ringar.",
+    "entusiast": "Den här observationen från Cassini fångar ett geometriskt samspel där Saturnus planetringar skär framför Titan, solsystemets näst största måne. Titan har en diameter på 5 150 kilometer och omges av en tät, kväverik atmosfär med komplexa organiska föreningar. Det tydliga nordliga polartäcket består av dis och moln som varierar med årstiderna på grund av den långa omloppstiden runt solen. Genom att studera dessa ockulterande passager kan astronomer mäta atmosfäriska skikt och partikelstorlekar i både ringarna och månens hölje med stor precision."
+  },
+  "terms": [
+    {
+      "term": "Titan",
+      "explanation": "Saturnus största måne och den enda i solsystemet som har en tät atmosfär."
+    },
+    {
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en himlakropp och hålls kvar av dess gravitation."
+    },
+    {
+      "term": "polartäcke",
+      "explanation": "Ett moln- och dislager som samlas kring en himlakropps poler."
+    },
+    {
+      "term": "rymdfarkost",
+      "explanation": "En obemannad eller bemannad farkost som skickas ut i rymden för vetenskapliga studier."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant icy ring passing in front of a fuzzy, orange ball. That is what it looks like when Saturn's rings cut across the view of the moon Titan. Titan is one of Saturn's biggest moons and it even has a cloudy hood up near the top. The spacecraft Cassini captured this cool picture to help scientists learn more about how moons and planets work in space.",
+      "nyborjare": "Here, Saturn's famous rings slice straight across the view of the moon Titan. Titan is a fascinating world with a thick atmosphere that hides its surface below. Near the top of the moon, the north polar hood is visible as a dark atmospheric cap. This historical image was captured by the Cassini spacecraft, which spent many years orbiting the ringed planet to study its complex system.",
+      "entusiast": "This observation from the Cassini spacecraft captures a geometric alignment where Saturn's planet rings intersect the disk of Titan, the second-largest moon in the solar system. Titan has a diameter of 5,150 kilometers and is shrouded in a dense, nitrogen-rich atmosphere with complex organic chemistry. The prominent north polar hood consists of haze and condensate clouds varying seasonally. By analyzing such occultation geometries, astronomers can probe vertical atmospheric structures and ring particle distributions."
+    },
+    "terms": [
+      {
+        "term": "Titan",
+        "explanation": "Saturn's largest moon and the only one in the solar system with a dense atmosphere."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet or moon and retained by gravity."
+      },
+      {
+        "term": "polar hood",
+        "explanation": "A swirling cap of clouds and haze that forms over the polar regions of a moon or planet."
+      },
+      {
+        "term": "spacecraft",
+        "explanation": "A vehicle designed for travel or operation in outer space for scientific exploration."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is Titan's thick atmosphere primarily composed of?",
+        "options": [
+          "Carbon dioxide",
+          "Nitrogen",
+          "Oxygen"
+        ],
+        "correct": 1,
+        "fact": "Titan is the only moon in the solar system with a dense atmosphere consisting mostly of nitrogen, much like Earth."
+      },
+      {
+        "q": "Why does Titan's north pole appear darker in the image?",
+        "options": [
+          "It experiences permanent winter darkness",
+          "A massive polar hood covers the region",
+          "The surface is covered in liquid hydrocarbons"
+        ],
+        "correct": 1,
+        "fact": "The moon's north pole features a distinct polar hood made of clouds and haze visible in imaging data."
+      },
+      {
+        "q": "What are Saturn's massive rings mainly composed of?",
+        "options": [
+          "Water ice and rocky debris",
+          "Compressed planetary gases",
+          "Liquid methane droplets"
+        ],
+        "correct": 0,
+        "fact": "Saturn's rings are made of billions of particles ranging from microscopic dust to large boulders, almost entirely consisting of water ice."
+      }
+    ]
+  }
+}

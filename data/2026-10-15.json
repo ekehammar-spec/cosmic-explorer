@@ -1,142 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "A Hubble Sky Full of Stars",
-  "title_sv": "Stjärnhopen NGC 4833 i Flugan",
+  "title": "Elegant spiral hides a hungry monster",
+  "title_sv": "Stavspiralgalaxen NGC 4639",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000256/GSFC_20171208_Archive_e000256~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000256/GSFC_20171208_Archive_e000256~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000256/GSFC_20171208_Archive_e000256~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000256",
+  "url": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2015",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000256",
+  "id": "hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o",
   "px": [
-    1280,
-    1261
+    1222,
+    1280
   ],
-  "w": 640,
-  "h": 630,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUAAgQG/8QAIxAAAgEEAgICAwAAAAAAAAAAAQIRAAMhQRIxUWETIjKh8f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4NUggAhiYONejRVUheseu6lhRP213TBbCETJIn6jZHvxQYGtiCcA7A6oLCVnJI/VNLlhQHbCiJXliaxXCAFUhYDH+0FbJjZg6phadUwZnx4pb8o4wo4jcbNFRgZkEgT6morfdvgnkRhliCTS+9cFzkeMMTMjr3iq/J5brrG6lxHVByH5SQZwY3VH/9k=",
+  "w": 611,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgIBAwQF/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIAAxExBSEEEhNBUQYUIjJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABcRAQEBAQAAAAAAAAAAAAAAAAAxASH/2gAMAwEAAhEDEQA/AAK0iRKPDtbbedVKmlVEUD5lsg9vFok0/QDWAVU5mtew3jeAYyFciYtF2saEtCiai2BGR4harTKHeKL4euaTqw7GLuC9SdOio+ptswz+QTeUtQriKE2pav7hWHUvzZ2nhVirLzW7+Zp6wOVks2wNjY4iD//Z",
   "quiz": [
     {
-      "q": "Vad är en klotformig stjärnhop?",
+      "q": "Vad kallas en spiralgalax med ett rakt band av stjärnor genom mitten?",
       "options": [
-        "En ring av unga stjärnor kring ett svart hål",
-        "En tät samling av hundratusentals gamla stjärnor",
-        "En explosion när två stora galaxer krockar"
-      ],
-      "correct": 1,
-      "fact": "En klotformig stjärnhop är ett tätt klot av hundratusentals stjärnor som hålls samman av gravitationen."
-    },
-    {
-      "q": "Varför är stjärnhopar som NGC 4833 intressanta?",
-      "options": [
-        "De innehåller några av galaxens äldsta stjärnor",
-        "De bildar nya planeter snabbare än andra områden",
-        "De driver galaxens snabba rotation kring sin axel"
+        "Stavspiralgalax",
+        "Ringgalax",
+        "Linsformad galax"
       ],
       "correct": 0,
-      "fact": "Dessa gamla kosmiska samlingar hjälper astronomerna att förstå hur Vintergatan bildades och utvecklades över tid."
+      "fact": "Omkring två tredjedelar av alla spiralgalaxer, inklusive vår egen Vintergata, har en sådan central stav."
     },
     {
-      "q": "Vad betyder det att ett avstånd är 22 000 ljusår?",
+      "q": "Vad döljer sig vanligtvis i centrum av stora galaxer som NGC 4639?",
       "options": [
-        "Ljuset färdas i 22 000 kilometer per sekund",
-        "Det tar 22 000 år för planeterna att kretsa",
-        "Det tar ljuset 22 000 år att nå oss"
+        "En ensam jättestjärna",
+        "Ett supermassivt svart hål",
+        "En kompakt mörk nebulosa"
       ],
-      "correct": 2,
-      "fact": "Ett ljusår är den sträcka som ljuset färdas på ett år, vilket gör att vi ser objektet som det såg ut för 22 000 år sedan."
+      "correct": 1,
+      "fact": "De flesta stora galaxer rymmer ett supermassivt svart hål i sin kärna som drar till sig omgivande materia."
+    },
+    {
+      "q": "Varför lyser gasen så starkt precis runt ett aktivt svart hål?",
+      "options": [
+        "Gasen hettas upp kraftigt av friktion",
+        "Ljuset reflekteras från galaxens stjärnor",
+        "Kärnfusion startar i själva hålet"
+      ],
+      "correct": 0,
+      "fact": "När gas och materia faller mot det svarta hålet uppstår extrem friktion som hettar upp gasen så att den strålar i röntgen och synligt ljus."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor boll fylld med glittrande diamanter ute i mörka rymden. Det är precis så en stjärnhop ser ut. Hundratusentals stjärnor sitter tätt ihop i ett stort klot. Den här hopen ligger långt borta i stjärnbilden Flugan och lyser vackert på himlen.",
-    "nyborjare": "Bilden visar stjärnhopen NGC 4833, en tät samling av hundratusentals stjärnor som hålls samman av gravitationen. Den ligger tjugoelva tusen ljusår bort i stjärnbilden Flugan. Ett ljusår är den sträcka som ljuset färdas på ett år. Hopen är en av över etthundra femtio kända klotformiga stjärnhopar i vår galax, och den innehåller några av de äldsta stjärnorna vi känner till. Genom att studera sådana gamla stjärnhopar kan astronomerna förstå mer om hur Vintergatan en gång bildades.",
-    "entusiast": "NGC 4833 framträder i denna skarpa bild från rymdteleskopet Hubble. Denna tätt packade klotformiga stjärnhop befinner sig cirka tjugotvå tusen ljusår från jorden i stjärnbilden Flugan. Den tillhör den population av över etthundra femtio kända globulära hopar som kretsar i Vintergatans gloria. Dessa system hyser universums äldsta stjärnpopulationer, vilket gör dem till ovärderliga laboratorier för att studera galaktisk kemisk utveckling och stjärnornas evolution. Genom att mäta åldern på stjärnorna i hopar som NGC 4833 får astrofysikanterna en nedre gräns för galaxens totala ålder och ledtrådar om dess tidiga historia."
+    "barn": "Titta på den här vackra snurran av stjärnor! Det är en galax som heter NGC 4639. Den ser nästan ut som en virvlande karusell av ljus.\n\nI mitten finns ett rakt band av stjärnor och i de svängda armarna tänds massor av nya stjärnor. Längst in i mitten gömmer sig en riktig glufsare: ett gigantiskt svart hål. Det svarta hålet suger i sig rymdgas som en osynlig dammsugare, fast det inte syns direkt på bilden.",
+    "nyborjare": "Galaxen NGC 4639 ligger drygt 70 miljoner ljusår från oss i stjärnbilden Jungfrun och ingår i den väldiga Jungfruhopen. Bilden visar en stavspiralgalax, där ett tydligt band av stjärnor skär rakt igenom den ljusa kärnan. Cirka två tredjedelar av alla spiralgalaxer har en sådan struktur.\n\nUte i spiralarmarna syns glittrande blå områden där nya stjärnor föds. Men i galaxens mitt döljer sig en aktiv galaxkärna. Där slukar ett supermassivt svart hål omgivande gas. När gasen dras in mot hålet hettas den upp av våldsam friktion och sänder ut energirik röntgenstrålning innan den försvinner över händelsehorisonten.",
+    "entusiast": "NGC 4639 är en stavspiralgalax belägen på cirka 70 miljoner ljusårs avstånd i Jungfruhopens utkant. Den centrala staven är en dynamisk struktur som kanaliserar gas in mot galaxens inre delar och tros vara en naturlig fas i en spiralgalax utveckling. Längs spiralarmarna syns utbredda H II-regioner som spänner över hundratals ljusår, där intensiv stjärnbildning pågår.\n\nGalaxen hyser en aktiv galaxkärna, förkortat AGN. I förhållande till extrema objekt som kvasarer uppvisar NGC 4639 en relativt låg aktivitet, vilket gör den till ett utmärkt studieobjekt för svaga ackretionsprocesser. Det centrala supermassiva svarta hålet drar till sig materia via en ackretionsskiva, där gravitationell potentiell energi omvandlas till termisk strålning. Processen avslöjar sig genom karakteristiska breda emissionslinjer i spektrumet och genom hård röntgenstrålning från områden mycket nära hålets händelsehorisont."
   },
   "terms": [
     {
-      "term": "stjärnhop",
-      "explanation": "En stor samling stjärnor som hålls samman av den gemensamma dragningskraften."
+      "term": "stavspiralgalax",
+      "explanation": "En typ av spiralgalax där stjärnorna i centrum bildar en rak stavliknande struktur."
     },
     {
       "term": "ljusår",
-      "explanation": "Den enorma sträcka som ljuset hinner färdas under ett helt jordår."
+      "explanation": "Den sträcka en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den osynliga dragningskraft som drar mot varandra och håller ihop himlakroppar."
+      "term": "svart hål",
+      "explanation": "Ett område i rymden med så stark gravitation att inte ens ljus kan ta sig ut därifrån."
     },
     {
-      "term": "galax",
-      "explanation": "Ett jättelikt system av stjärnor, gas, stoft och mörk materia som hålls ihop av gravitation."
+      "term": "aktiv galaxkärna",
+      "explanation": "Ett kompakt område i centrum av en galax med extremt hög ljusstyrka orsakad av ett matande svart hål."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett avancerat instrument placerat i omloppsbana kring jorden för att studera rymden utan störande atmosfär."
+      "term": "ackretionsskiva",
+      "explanation": "En roterande skiva av gas och stoft som samlas runt ett kompakt och massivt objekt."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant ball filled with glowing diamonds out in the dark space. That is exactly what a star cluster looks like. Hundreds of thousands of stars sit closely together in a large sphere. This cluster is located far away in the constellation of the Fly and shines brightly in the sky.",
-      "nyborjare": "The image shows the star cluster NGC 4833, a dense collection of hundreds of thousands of stars held together by gravity. It is located twenty-two thousand light-years away in the constellation of the Fly. A light-year is the distance that light travels in one year. The cluster is one of over one hundred and fifty known globular clusters in our galaxy, and it contains some of the oldest stars we know of. By studying such ancient star clusters, astronomers can understand more about how the Milky Way once formed.",
-      "entusiast": "NGC 4833 is featured in this sharp image from the space telescope. This tightly packed globular cluster is located approximately twenty-two thousand light-years from Earth in the constellation of the Fly. It belongs to the population of over one hundred and fifty known globular clusters orbiting within the halo of the Milky Way. These systems host some of the oldest stellar populations in the universe, making them invaluable laboratories for studying galactic chemical evolution and stellar evolution. By determining the age of the stars in clusters like NGC 4833, astrophysicists obtain a lower limit for the total age of the galaxy and clues about its early history."
+      "barn": "Look at this beautiful pinwheel of stars! It is a galaxy named NGC 4639, spinning like a giant glowing carousel in space.\n\nA straight bar of bright stars cuts across its center, and brand new stars are lighting up along the swirling arms. Deep in the middle hides a hungry monster: a huge black hole. It acts like an invisible vacuum cleaner, pulling in cosmic gas from around it.",
+      "nyborjare": "Galaxy NGC 4639 lies over 70 million light-years away in the constellation Virgo and belongs to the massive Virgo Cluster. The image reveals a barred spiral galaxy, where a clear lane of stars runs directly through the bright central core. About two thirds of spiral galaxies feature such a bar.\n\nAcross the curving arms, clusters of bright young stars are actively forming. Deep in the galaxy’s center lies an active galactic nucleus. There, a supermassive black hole pulls in vast quantities of gas. As matter plunges inward, violent friction superheats the gas, making it blaze with energetic X-rays before crossing into the black hole.",
+      "entusiast": "NGC 4639 is a barred spiral galaxy situated roughly 70 million light-years away within the Virgo Cluster. The prominent stellar bar acts as a dynamic conveyor belt, channeling gas toward the inner regions of the galaxy. This bar structure represents a standard evolutionary phase for many spiral systems. The winding arms are dotted with bright H II regions spanning hundreds of light-years where active star formation occurs.\n\nAt its core, NGC 4639 hosts a low-luminosity active galactic nucleus (AGN). Unlike intensely radiant quasars, this galaxy exhibits a milder accretion regime, offering valuable insight into low-efficiency black hole feeding. Matter falling toward the central supermassive black hole forms an accretion disk, converting gravitational energy into thermal radiation detected via broad emission lines and hard X-ray emissions."
     },
     "terms": [
       {
-        "term": "cluster",
-        "explanation": "A large collection of stars held together by their mutual gravitational attraction."
+        "term": "barred spiral galaxy",
+        "explanation": "A spiral galaxy featuring a central bar-shaped structure composed of stars."
       },
       {
         "term": "light-year",
-        "explanation": "The enormous distance that light manages to travel during one Earth year."
+        "explanation": "The total distance that a beam of light travels through space in one Earth year."
       },
       {
-        "term": "gravity",
-        "explanation": "The invisible force of attraction that pulls massive objects toward one another."
+        "term": "black hole",
+        "explanation": "A region of space where gravity is so strong that nothing, not even light, can escape."
       },
       {
-        "term": "galaxy",
-        "explanation": "A giant system of stars, gas, dust, and dark matter bound together by gravity."
+        "term": "active galactic nucleus",
+        "explanation": "A compact, energetic central region powered by matter accreting onto a supermassive black hole."
       },
       {
-        "term": "telescope",
-        "explanation": "An advanced instrument used to observe distant objects in space by gathering light."
+        "term": "accretion disk",
+        "explanation": "A rotating flattened disk of gas and dust spiraling inward toward a massive central object."
       }
     ],
     "quiz": [
       {
-        "q": "What is a globular cluster?",
+        "q": "What do astronomers call a spiral galaxy with a straight band of stars across its center?",
         "options": [
-          "A ring of young stars around a black hole",
-          "A tight collection of hundreds of thousands of old stars",
-          "An explosion when two large galaxies collide"
-        ],
-        "correct": 1,
-        "fact": "A globular cluster is a tightly packed collection of hundreds of thousands of stars held together by gravity."
-      },
-      {
-        "q": "Why are clusters like NGC 4833 interesting?",
-        "options": [
-          "They contain some of the galaxy's oldest stars",
-          "They form new planets faster than other regions",
-          "They drive the rapid rotation of the galaxy"
+          "A barred spiral galaxy",
+          "A ring galaxy",
+          "A lenticular galaxy"
         ],
         "correct": 0,
-        "fact": "These ancient cosmic collections help astronomers understand how the Milky Way formed and evolved over time."
+        "fact": "About two thirds of all spiral galaxies, including our Milky Way, possess a central bar structure."
       },
       {
-        "q": "What does a distance of 22,000 light-years mean?",
+        "q": "What lurks at the center of large galaxies like NGC 4639?",
         "options": [
-          "Light travels at 22,000 kilometers per second",
-          "It takes planets 22,000 years to orbit",
-          "It takes light 22,000 years to reach us"
+          "A solitary giant star",
+          "A supermassive black hole",
+          "A dense dark nebula"
         ],
-        "correct": 2,
-        "fact": "A light-year is the distance light travels in one year, meaning we see the object as it was 22,000 years ago."
+        "correct": 1,
+        "fact": "Most massive galaxies host a supermassive black hole at their core that pulls in surrounding matter."
+      },
+      {
+        "q": "Why does matter shine so brightly just outside an active black hole?",
+        "options": [
+          "Extreme friction heats up infalling gas",
+          "Starlight reflects off surrounding clouds",
+          "Nuclear fusion ignites inside the hole"
+        ],
+        "correct": 0,
+        "fact": "As gas spirals inward, intense gravitational friction heats it to millions of degrees, releasing brilliant light and X-rays."
       }
     ]
   }

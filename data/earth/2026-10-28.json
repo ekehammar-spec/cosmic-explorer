@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-28",
+  "title": "The Land of the Standing-Up Rocks",
+  "title_sv": "De stående klippornas land",
+  "place": "Arizona, USA",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAnEAEAAQQCAAQHAQAAAAAAAAABAgADERIEMRMhQXEFIjJCYYGRwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAZEQEBAQADAAAAAAAAAAAAAAABAAIDESH/2gAMAwEAAhEDEQA/ANX70ozlFfNP4VJ5mZLojF83J371Sv225HZ7Pt7z7VO5UL8HXU17ln/aGOp8isrDWCP0yj2ZqpxrpB8UjFegakeHKezGEYwH0adskYSgSflFBz3+qbcsvt3v/ELuwgDbyiufw1P5HKuX7zsue80UVoFa0svcuXM6M1Hut2uRIYh6ZMvm0UVRL//Z",
+  "levels": {
+    "barn": "Från rymden ser det här bergsområdet ut som ett mönster av gråa och gröna slingor. Det gråa är gammal sten från en jättevulkan som fick ett enormt utbrott för 27 miljoner år sedan. Aska och glödhet sten lade sig som ett tjockt täcke och stelnade.\n\nSedan dess har regn och vind nött på berget i miljontals år. Det har skapat tusentals höga stenpelare som pekar rakt upp mot himlen. De gröna stråken visar dalar där träd och kaktusar växer.",
+    "nyborjare": "Satellitbilden visar Chiricahua National Park i Arizona sedd ovanifrån. De gråaktiga fälten består av en vulkanisk bergart som kallas ryolitisk tuff. Den bildades för cirka 27 miljoner år sedan när en enorm vulkan sprutade ur sig mer än tusen gånger så mycket aska och sten som Mount St. Helens gjorde 1980.\n\nNär magmakammaren tömdes rasade marken in och bildade en 19 kilometer bred sänka, en så kallad kaldera. Med tiden har väder och vind format den hårda stenen till raviner och tusentals lodräta stenpelare. De slingrande mörkgröna banden i bilden är dalar med tät växtlighet, som Bonita Canyon. Eftersom fyra olika ekologiska regioner möts här rymmer parken över tusen olika växtarter.",
+    "entusiast": "Bilden togs den 2 juli 2026 av instrumentet OLI ombord på satelliten Landsat 9. Även om satellitens upplösning inte räcker för att urskilja enskilda stenpelare framträder det vittrade landskapet tydligt i gråa toner, genomkorsat av vegetationsrika raviner som Rhyolite Canyon och Bonita Canyon.\n\nLandskapet härrör från Turkey Creek-kalderan, en 1500 meter djup och 19 kilometer bred kollapsstruktur som uppstod efter kolossala pyroklastiska flöden för 27 miljoner år sedan. Den resulterande ryolitiska tuffen nådde en tjocklek på närmare 500 meter. Vattenerosion och frostsprängning längs vertikala sprickor har mejslat fram dramatiska hoodoos och balanserande stenblock. Området utgör en så kallad sky island i Chiricahuabergen, där isolerade bergstoppar reser sig nästan 3000 meter över havet och skapar en sval tillflyktsort mitt i det omgivande ökenlandskapet."
+  },
+  "terms": [
+    {
+      "term": "ryolitisk tuff",
+      "explanation": "En hård vulkanisk bergart som bildas när aska och pimpsten från explosiva utbrott hettas upp och svetsas samman."
+    },
+    {
+      "term": "kaldera",
+      "explanation": "En stor kittelformad fördjupning i marken som uppstår när markytan ovanför en tömd magmakammare kollapsar."
+    },
+    {
+      "term": "hoodoo",
+      "explanation": "En hög och smal pelare av berg som formats genom långvarig vittring och erosion."
+    },
+    {
+      "term": "sky island",
+      "explanation": "En isolerad bergskedja som reser sig markant över ett omgivande ökenlandskap och hyser unika ekosystem."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "From space, this mountain area looks like a pattern of gray and green ribbons. The gray areas are made of ancient rock from a gigantic volcanic eruption that took place 27 million years ago. A huge blanket of hot ash and stone hardened over the landscape.\n\nSince then, wind and rain have carved the rock into thousands of tall stone towers pointing straight into the sky. The winding green paths show valleys with trees and cacti where plants and animals thrive.",
+      "nyborjare": "This satellite view shows Chiricahua National Park in southeastern Arizona. The gray regions consist of a volcanic rock called welded rhyolitic tuff. It formed roughly 27 million years ago when an immense volcano erupted, scattering vast amounts of ash and pumice across the landscape.\n\nWhen the volcano's magma chamber emptied, the ground collapsed into a 19-kilometer-wide depression known as a caldera. Over millions of years, water and weather sculpted the thick volcanic deposits into canyons and thousands of towering rock spires. The dark green ribbons snaking through the gray rock are tree-filled stream valleys, supported by a rich convergence of four biogeographic zones.",
+      "entusiast": "Captured on July 2, 2026, by the Operational Land Imager (OLI) aboard Landsat 9, this cloud-free scene highlights Chiricahua National Park. While individual spires cannot be resolved, the eroding rhyolitic tuff appears distinctly gray against the vegetated drainages of Rhyolite Canyon and Bonita Canyon.\n\nThe terrain is dominated by the remnants of the Turkey Creek caldera, a 19-kilometer-wide depression formed when massive pyroclastic flows emptied the magma chamber 27 million years ago. These deposits formed welded tuff layers up to 500 meters thick. Subsequent jointing, chemical weathering, and erosion sculpted these beds into dense clusters of hoodoos and perched boulders. Rising nearly 3,000 meters above sea level, this Chiricahua Mountain range acts as a prominent sky island, harboring exceptional biodiversity above the surrounding desert floor."
+    },
+    "terms": [
+      {
+        "term": "rhyolitic tuff",
+        "explanation": "A volcanic rock formed from compacted and welded ash and pumice ejected during explosive eruptions."
+      },
+      {
+        "term": "caldera",
+        "explanation": "A large volcanic depression created when the ground collapses following the emptying of a magma chamber."
+      },
+      {
+        "term": "hoodoo",
+        "explanation": "A tall, thin spire of rock formed by progressive weathering and erosion."
+      },
+      {
+        "term": "sky island",
+        "explanation": "An isolated mountain range that rises dramatically above a surrounding desert lowland."
+      }
+    ],
+    "place": "Arizona, United States"
+  }
+}

@@ -1,36 +1,36 @@
 {
- "updated": "2026-10-27T15:33:06.980Z",
+ "updated": "2026-10-28T06:00:39.359Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-27T06:00:00Z",
-   "title_sv": "Tropiska cyklonen Arnab",
-   "title_en": "Tropical Cyclone Arnab",
-   "where_sv": "Norra Indiska oceanen",
-   "where_en": "Northern Indian Ocean",
-   "value_sv": "vindar på 215 km/h",
-   "value_en": "winds of 215 km/h"
-  },
-  {
-   "kind": "storm",
-   "date": "2026-10-27T06:00:00Z",
+   "date": "2026-10-28T00:00:00Z",
    "title_sv": "Tyfonen In-fa",
    "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 195 km/h",
-   "value_en": "winds of 195 km/h"
+   "value_sv": "vindar på 220 km/h",
+   "value_en": "winds of 220 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-10-27T06:00:00Z",
+   "date": "2026-10-28T00:00:00Z",
+   "title_sv": "Tropiska cyklonen Arnab",
+   "title_en": "Tropical Cyclone Arnab",
+   "where_sv": "Norra Indiska oceanen",
+   "where_en": "Northern Indian Ocean",
+   "value_sv": "vindar på 120 km/h",
+   "value_en": "winds of 120 km/h"
+  },
+  {
+   "kind": "storm",
+   "date": "2026-10-28T00:00:00Z",
    "title_sv": "Tropiska stormen Vance",
    "title_en": "Tropical Storm Vance",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 85 km/h",
-   "value_en": "winds of 85 km/h"
+   "value_sv": "vindar på 65 km/h",
+   "value_en": "winds of 65 km/h"
   },
   {
    "kind": "ice",
@@ -54,13 +54,13 @@
   },
   {
    "kind": "fire",
-   "date": "2026-10-17T23:28:00Z",
-   "title_sv": "Skogsbrand i Sanders, Montana",
-   "title_en": "Wildfire in Sanders, Montana",
+   "date": "2026-10-24T17:10:00Z",
+   "title_sv": "Skogsbrand i Forrest, Mississippi",
+   "title_en": "Wildfire in Forrest, Mississippi",
    "where_sv": "",
    "where_en": "",
-   "value_sv": "680 hektar",
-   "value_en": "680 hectares"
+   "value_sv": "260 hektar",
+   "value_en": "260 hectares"
   }
  ]
 }

@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-28",
+  "media_type": "image",
+  "title": "Saturnus ringar framför Titan",
+  "title_en": "Slicing Before Titan",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12772/PIA12772~small.jpg"
+ },
+ {
   "date": "2026-10-27",
   "media_type": "image",
   "title": "Isberg och slätter på Pluto",
@@ -86,9 +93,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Stjärnhopen NGC 4833 i Flugan",
-  "title_en": "A Hubble Sky Full of Stars",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000256/GSFC_20171208_Archive_e000256~small.jpg"
+  "title": "Stavspiralgalaxen NGC 4639",
+  "title_en": "Elegant spiral hides a hungry monster",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o/hubble-sees-elegant-spiral-hiding-a-hungry-monster_22037110968_o~small.jpg"
  },
  {
   "date": "2026-10-14",
