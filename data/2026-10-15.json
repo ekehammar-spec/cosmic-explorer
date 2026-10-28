@@ -2,141 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "ESO 306-17",
-  "title_sv": "ESO 306-17",
+  "title": "Hubble Captures Massive Dead Disk Galaxy that Challenges Theories of Galaxy Evolution",
+  "title_sv": "Hubble fångar massiv död galax MACS2129-1",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002171/GSFC_20171208_Archive_e002171~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002171",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000033/GSFC_20171208_Archive_e000033~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000033/GSFC_20171208_Archive_e000033~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000033/GSFC_20171208_Archive_e000033~orig.png",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000033",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e002171",
+  "id": "GSFC_20171208_Archive_e000033",
   "px": [
     1920,
-    1908
+    1725
   ],
   "w": 640,
-  "h": 636,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECAwQGB//EACMQAAIBBAEEAwEAAAAAAAAAAAECAAMEESESBTFBkRMiUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A58NjEs29AuR3kdJeRGvU0nSLVajjmcZOyYAo2RVckSnWQL/ZqeqrSo5VGBA8zLXL8nP5AktabbfieI7mFKV4KK6MFrd1EotSVyKbkFl8EiI32tPkVWyr4Zs63217gWbu9NQ7OR5g125HOMRC2Y0mB//Z",
+  "h": 575,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQb/xAAiEAABBAEEAgMAAAAAAAAAAAABAAIRIQMiMWGRElETQoH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDgCDFytYQHguAPB2TOuIiAIFR2q4MfyZWtJALq8nGB2ixDcyGgVYR9oAkk0rZHNx5gcJOmNXs8KUPe+QHF5k88lFbF2D+Kkvdj0jSwdCVMbFK51bBEBJcTN+73TeUmXQXGpSGgjhB//9k=",
   "quiz": [
     {
-      "q": "Vad är en elliptisk galax för något?",
+      "q": "Vad är en galax?",
       "options": [
-        "En mogen galaxform utan ny stjärnbildning",
-        "En platt galax med tydliga spiralarmar",
-        "En gasrik galax som håller på att födas"
+        "En enda jättelik stjärna med planeter",
+        "Ett system av miljarder stjärnor och gas",
+        "Ett moln av enbart gas och stoft"
+      ],
+      "correct": 1,
+      "fact": "En galax hålls samman av gravitation och består av enorma samlingar av stjärnor, gas, stoft och mörk materia."
+    },
+    {
+      "q": "Varför ser galaxer ibland röda ut?",
+      "options": [
+        "Ljuset har färdats långt i universum",
+        "De innehåller bara kalla röda dvärgar",
+        "De har brunnit ut helt och hållet"
       ],
       "correct": 0,
-      "fact": "Elliptiska galaxer består främst av äldre stjärnor och saknar den kalla gas som krävs för att bilda nya stjärnor."
+      "fact": "När ljus färdas genom ett växande universum dras ljusvågorna ut och förskjuts mot den röda delen av spektrumet."
     },
     {
-      "q": "Varför ser galaxer ofta ut att trängas?",
+      "q": "Vad är en gravitationslins?",
       "options": [
-        "Galaxerna dras ständigt till varandra med våld",
-        "Förgrundsobjekt ligger optiskt framför mer avlägsna",
-        "Rymden är så trång att galaxer krockar dagligen"
+        "Ett teleskop med linser av fast glas",
+        "Tung massa som böjer av ljusstrålar",
+        "Ett svart hål som suger in ljus"
       ],
       "correct": 1,
-      "fact": "Ljuset från bakomliggande objekt passerar förbi närmare himlakroppar som skapar en illusion av att de står nära varandra."
-    },
-    {
-      "q": "Vad är mörk materia för typ av ämnesform?",
-      "options": [
-        "Ett tätt moln av kosmisk aska och sot",
-        "Okänd materia som inte sänder ut ljus",
-        "Vanlig gas som har döljts av tunga stjärnor"
-      ],
-      "correct": 1,
-      "fact": "Mörk materia lyser inte alls men avslöjar sin närvaro genom sin starka gravitationspåverkan på synliga objekt."
+      "fact": "Enligt Einsteins relativitetsteori kan extremt tunga massor i rymden fungera som förstoringsglas och böja av ljuset från bakomliggande objekt."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor och rund stjärnboll som flyter ensam i rymden. Den här galaxen är som en jättestor öken av stjärnor där det nästan inte finns några kompisar i närheten. Runt omkring den svävar osynliga moln som håller ihop alltsammans som ett jättestort osynligt klister.",
-    "nyborjare": "Denna bild från Hubble-teleskopet visar den stora elliptiska galaxen ESO 306-17 i södra stjärnhimlen. Även om det ser ut som att den har många grannar är de flesta förgrundsobjekt som ligger mycket närmare oss i linje med galaxen. I verkligheten befinner sig denna galax ganska ensam i ett enormt hav av mörk materia och het gas, vilket gör den till ett spännande mål för forskare som studerar hur galaxer utvecklas i så kallade fossila grupper.",
-    "entusiast": "ESO 306-17 är en massiv elliptisk galax belägen i en gles miljö som ofta kallas en fossil grupp, där man tror att en tidigare grupp av galaxer har slagit sig samman till ett enda jätteobjekt. Observationer med rymdteleskopet Hubble har visat att galaxen omges av enorma mängder mörk materia och het gas. Astronomer använder bilderna för att leta efter dvärggalaxer och ultra-kompakta dvärggalaxer i dess omgivning. Sådana objekt tros ha blivit av med sina yttre stjärnor genom stark tidvattenpåverkan från den centrala jättegalaxen, vilket ger nya insikter om galaxernas utveckling i extremt glesa kosmiska miljöer."
+    "barn": "Tänk dig en jättestor snurra i rymden full av glittrande stjärnor. Men den här snurran har slutat att tillverka nya stjärnbebisar helt och hållet, trots att den snurrar jättefort! Den är som en stor leksaksfabrik som har stängt sina dörrar och slutat bygga nya saker.",
+    "nyborjare": "Astronomer har gjort en oväntad upptäckt med hjälp av Hubble-teleskopet. De har hittat en kompakt och massiv galax som har en skivform och snurrar mycket snabbt. Det mest förvånande är att den slutade bilda nya stjärnor redan några få miljarder år efter Big Bang. Att en sådan här mogen galax fanns så tidigt i universums historia ställer forskarnas teorier om galaxers utveckling på prov. För att kunna studera detta avlägsna objekt har forskarna använt en så kallad gravitationslins, där ett gigantiskt framförliggande galaxhop fungerar som ett naturligt förstoringsglas i rymden. Ljuset från galaxen har färdats så långt att det har rödförskjutits, vilket gör att den ser röd ut på bilderna.",
+    "entusiast": "Genom att kombinera rymdteleskopet Hubble med kraften hos galaxhopen MACS J2129-0741 som agerar gravitationslins har forskare identifierat galaxen MACS2129-1. Detta är det första kända exemplet på en kompakt, massiv och snabbt roterande skivgalax som dog ut mycket tidigt i universums barndom. Galaxen uppvisar en dynamisk massa och stjärnbildningshastighet som utmanar gängse modeller för kosmisk utveckling och tidig stjärnbildningsinhibition. Eftersom objektet befinner sig på ett enormt avstånd har dess spektrum rödforflyttats kraftigt, vilket har krävt avancerad modellering för att rekonstruera dess ursprungliga utseende. Upptäckten belyser komplexiteten i hur massiva galaxer snabbt konsumerar sitt gasförråd och övergår till ett passivt tillstånd."
   },
   "terms": [
     {
       "term": "galax",
-      "explanation": "Ett enormt system av miljarder stjärnor, gas, stoft och mörk materia som hålls samman av gravitationen."
+      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationskrafter och ryms i rymden."
     },
     {
-      "term": "elliptisk",
-      "explanation": "En rundad eller oval form som liknar en tillplattad boll."
+      "term": "gravitationslins",
+      "explanation": "Ett fenomen där enorm massa förvränger och förstorar ljuset från bakomliggande himlakroppar."
     },
     {
-      "term": "förgrundsobjekt",
-      "explanation": "Himlakroppar som ligger närmare betraktaren än de mer avlägsna objekt som syns i bakgrunden."
+      "term": "rödförskjutning",
+      "explanation": "När ljusvågor dras ut och förskjuts mot det röda spektrumet på grund av att källan rör sig bort eller att universum expanderar."
     },
     {
-      "term": "mörk materia",
-      "explanation": "Ett mystiskt ämne som inte utsöndrar ljus men vars gravitation påverkar hur himlakroppar rör sig."
-    },
-    {
-      "term": "rymdteleskop",
-      "explanation": "Ett optiskt instrument som placerats ovanför jordens atmosfär för att observera världsrymden."
+      "term": "spektrum",
+      "explanation": "En uppdelning av elektromagnetisk strålning i olika våglängder och energier."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a huge and round ball of stars floating all alone out in space. This galaxy is like a giant desert of stars with almost no friends nearby. Around it float invisible clouds holding everything together like a massive invisible glue.",
-      "nyborjare": "This image from the Hubble Space Telescope highlights the large elliptical galaxy ESO 306-17 in the southern sky. Although it looks surrounded by neighbors, most bright objects are foreground features situated much closer to us. In reality, this galaxy lies fairly abandoned in an enormous sea of dark matter and hot gas, making it an exciting target for researchers studying cosmic evolution.",
-      "entusiast": "ESO 306-17 is a massive elliptical galaxy situated in a sparse environment known as a fossil group, where a former galaxy cluster has likely merged into a single giant object. Observations with the Hubble Space Telescope reveal that the galaxy is surrounded by vast reservoirs of dark matter and hot gas. Astronomers use these deep exposures to search for nearby ultra-compact dwarf galaxies. These objects likely lost their outer stars due to strong tidal stripping from the central giant galaxy, offering vital clues about galactic evolution in extreme cosmic environments."
+      "barn": "Imagine a giant spinning wheel in space full of glittering stars. But this wheel has completely stopped making new baby stars, even though it spins really fast! It is like a big toy factory that has closed its doors and stopped building new things.",
+      "nyborjare": "Astronomers have made an unexpected discovery using the Hubble Space Telescope. They have found a compact and massive galaxy that has a disk shape and spins very quickly. Most surprisingly, it stopped forming new stars just a few billion years after the Big Bang. Finding such a mature galaxy this early in cosmic history challenges current theories of galaxy evolution. To study this distant object, researchers used a gravitational lens, where a giant foreground galaxy cluster acts as a natural magnifying glass in space. The light from the galaxy has travelled so far that it is redshifted, making it appear red in images.",
+      "entusiast": "By combining the Hubble Space Telescope with the power of galaxy cluster MACS J2129-0741 acting as a gravitational lens, researchers have identified galaxy MACS2129-1. This is the first known example of a compact, massive, and rapidly rotating disk galaxy that quenched its star formation very early in cosmic history. The galaxy exhibits a dynamic mass and stellar population that challenges prevailing models of galaxy evolution and early quenching mechanisms. Because the object is at an immense distance, its spectrum has undergone significant cosmological redshift, requiring advanced modeling to reconstruct its intrinsic morphology. This discovery highlights the complexity of how massive galaxies rapidly exhaust their gas reservoirs and transition into a passive state."
     },
     "terms": [
       {
         "term": "galaxy",
-        "explanation": "A massive system of billions of stars, gas, dust, and dark matter held together by gravity."
+        "explanation": "A massive system of stars, gas, and dark matter held together by gravitational forces."
       },
       {
-        "term": "elliptical",
-        "explanation": "A rounded or oval shape resembling a flattened sphere."
+        "term": "gravitational lens",
+        "explanation": "A distribution of matter that bends and magnifies light from a background source due to its gravitational field."
       },
       {
-        "term": "foreground",
-        "explanation": "Celestial bodies positioned closer to the observer than distant background objects."
+        "term": "redshift",
+        "explanation": "The shifting of light wavelengths toward the red end of the spectrum caused by cosmic expansion or motion."
       },
       {
-        "term": "dark matter",
-        "explanation": "Mysterious matter that does not emit light yet exerts a strong gravitational influence."
-      },
-      {
-        "term": "space telescope",
-        "explanation": "An optical instrument placed above earth atmosphere to observe outer space clearly."
+        "term": "spectrum",
+        "explanation": "The range of wavelengths or frequencies spanned by electromagnetic radiation."
       }
     ],
     "quiz": [
       {
-        "q": "What characterizes an elliptical galaxy?",
+        "q": "What is a galaxy?",
         "options": [
-          "A mature galaxy shape without active star formation",
-          "A flat galaxy featuring distinct spiral arms",
-          "A gas-rich galaxy currently forming new stars"
+          "A single giant star with planets",
+          "A system of billions of stars and gas",
+          "A cloud consisting only of gas and dust"
+        ],
+        "correct": 1,
+        "fact": "A galaxy is held together by gravity and consists of immense collections of stars, gas, dust, and dark matter."
+      },
+      {
+        "q": "Why do galaxies sometimes appear red?",
+        "options": [
+          "The light has travelled far across the universe",
+          "They contain only cold red dwarf stars",
+          "They have burned out completely and utterly"
         ],
         "correct": 0,
-        "fact": "Elliptical galaxies mainly consist of older stars and lack the cold gas required to form new ones."
+        "fact": "As light travels through an expanding universe, the light waves are stretched and shifted toward the red part of the spectrum."
       },
       {
-        "q": "Why do galaxies often appear crowded together?",
+        "q": "What is a gravitational lens?",
         "options": [
-          "Galaxies constantly pull towards each other violently",
-          "Foreground objects lie optically closer along the sightline",
-          "Space is so cramped that galaxies collide daily"
+          "A telescope built with solid glass lenses",
+          "Heavy mass that bends and warps light rays",
+          "A black hole that sucks in all light"
         ],
         "correct": 1,
-        "fact": "Light from distant background objects passes near closer celestial bodies, creating an illusion of proximity."
-      },
-      {
-        "q": "What is dark matter scientifically considered to be?",
-        "options": [
-          "A dense cloud of cosmic ash and soot",
-          "Unseen matter that does not emit light",
-          "Regular gas hidden behind heavy stars"
-        ],
-        "correct": 1,
-        "fact": "Dark matter does not emit light but reveals its presence through strong gravitational pull on visible objects."
+        "fact": "According to Einstein's theory of relativity, extremely massive objects in space can act as magnifying glasses and bend light from background objects."
       }
     ]
   }

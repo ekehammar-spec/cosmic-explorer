@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-28T10:09:05.408Z",
+ "updated": "2026-10-28T16:18:09.089Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-28T00:00:00Z",
-   "title_sv": "Tyfonen In-fa",
-   "title_en": "Typhoon In-fa",
+   "date": "2026-10-28T06:00:00Z",
+   "title_sv": "Supertyfonen In-fa",
+   "title_en": "Super Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 220 km/h",
-   "value_en": "winds of 220 km/h"
+   "value_sv": "vindar på 240 km/h",
+   "value_en": "winds of 240 km/h"
   },
   {
    "kind": "storm",
@@ -24,7 +24,7 @@
   },
   {
    "kind": "storm",
-   "date": "2026-10-28T00:00:00Z",
+   "date": "2026-10-28T06:00:00Z",
    "title_sv": "Tropiska stormen Vance",
    "title_en": "Tropical Storm Vance",
    "where_sv": "Östra Stilla havet",
