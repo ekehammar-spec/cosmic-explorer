@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Sees 'Ghost Light' From Dead Galaxies",
-  "title_sv": "Spöklikt ljus från döda galaxer i Pandoras hop",
+  "title": "The most crowded place in the Milky Way",
+  "title_sv": "Den mest tätpackade platsen i Vintergatan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000914/GSFC_20171208_Archive_e000914~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000914/GSFC_20171208_Archive_e000914~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000914/GSFC_20171208_Archive_e000914~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000914",
+  "url": "https://images-assets.nasa.gov/image/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2015",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000914",
+  "id": "hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o",
   "px": [
-    1711,
-    1920
+    1280,
+    1143
   ],
-  "w": 570,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAAEG/8QAJxAAAgIBAwIGAwEAAAAAAAAAAQIDEQAEEiEFMRMUQVFhgSJxocH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESEx/9oADAMBAAIRAxEAPwDlunR6fVTuG2RIEO0ObqhxR98AIYzC8ah2ctfB7Ae49f8AMCFVJF2SbtwuwD39sr9JiB1EqPEzSbSFF0yt6ZsrAdcyZnJVt2S307F2MjEPtsX6/v6xViNxsEfAPbLnUvMHUvLIdpsBiAB/PrJEsLtK53A2TyTRP1kXVhfJVLlvYfRwuxXaDZ7Vl1Y9V0mVN4p0/Jbo8n1GQ9PqvCVfDJXim5uzeMajqEmqQtLKWIoCz3GNWyhewrAxPJrXajzGpMjubY2T84lqY18dhExkQHhqq8wNE8q+K7LHf5FRZH6wBFkkcj5OBbaG5GrrK9n/2Q==",
+  "w": 640,
+  "h": 571,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAwABAgQFBv/EACYQAAIBAwMEAQUAAAAAAAAAAAECAwARIRIxQQQTUXEFFCJCkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A8ewMbKHRlJyCfyqlkIO2Bknm1KYZZFUytqsAFuTt4pOm6PvdSsWsKWxe9gPdKBMo7TXa+QR4xRrIVuy7jIvxWPyUH03U9kOJLbleDRxaBZVY3/lRXVRwW08HgnB90c/2x3B0kEi/FPIojjDLuSRn1WvLK1m2N8ZFGY58rtM6iy4BuaqRFXTp8fuowsxt5qTIC2bmxpGn/9k=",
   "quiz": [
     {
-      "q": "Vad är det svaga skenet mellan galaxerna i en hop?",
+      "q": "Varför brinner massiva stjärnor ut mycket snabbare än mindre stjärnor?",
       "options": [
-        "Glödande gasmoln som nyligen hettats upp",
-        "Reflekterat ljus från Vintergatans egna stjärnor",
-        "Stjärnor som slitits loss från krossade galaxer"
-      ],
-      "correct": 2,
-      "fact": "När galaxer kolliderar kan starka gravitationskrafter slita loss miljarder stjärnor, som sedan driver fritt omkring i rymden mellan galaxerna."
-    },
-    {
-      "q": "Vad kallas en samling av hundratals eller tusentals galaxer?",
-      "options": [
-        "Galaxhop",
-        "Stjärnhop",
-        "Planetariskt system"
-      ],
-      "correct": 0,
-      "fact": "En galaxhop hålls samman av gravitationen och är en av universums allra största strukturer."
-    },
-    {
-      "q": "Vilken kraft sliter isär galaxer när de passerar nära varandra?",
-      "options": [
-        "Magnetisk avstötning",
-        "Gravitationella tidvattenkrafter",
-        "Strålningstryck från stjärnor"
+        "De har sämre förmåga att hålla värmen",
+        "Det enorma trycket i kärnan ökar förbränningstakten",
+        "Deras starka magnetfält sliter sönder stjärnans kärna"
       ],
       "correct": 1,
-      "fact": "Tidvattenkrafter uppstår när gravitationen drar hårdare i ena sidan av en galax än i den andra, vilket kan slita sönder den helt."
+      "fact": "Större massa ger ett enormt tryck i kärnan, vilket gör att stjärnan förbrukar sitt bränsle på bara några miljoner år."
+    },
+    {
+      "q": "Varför måste astronomer använda infrarött ljus för att se Båghopen?",
+      "options": [
+        "Ljuset böjs bort av supermassiva svarta hål",
+        "Synligt ljus blockeras helt av enorma stoftmoln",
+        "Stjärnorna i hopen sänder enbart ut röntgenstrålning"
+      ],
+      "correct": 1,
+      "fact": "Rymdstoft mellan oss och galaxens mitt sprider det vanliga synliga ljuset, medan infraröd strålning tränger rakt igenom stoftet."
+    },
+    {
+      "q": "Vad förväntas hända med de tyngsta stjärnorna i denna stjärnhop?",
+      "options": [
+        "De svalnar sakta och blir svarta dvärgar",
+        "De krockar och bildar en ny planet",
+        "De exploderar i spektakulära supernovor"
+      ],
+      "correct": 2,
+      "fact": "Stjärnor med tiotals gånger solens massa avslutar sina korta liv i våldsamma supernovaexplosioner."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du bygger ett fint torn av klossar, och så kommer en kompis rusande och råkar välta det så klossarna sprids över hela golvet. Lite så har det gått till här ute i rymden. För mycket länge sedan krockade flera stora galaxer med varandra. De slets sönder i bitar och miljarder stjärnor tappade bort sitt hem. Nu svävar dessa ensamma stjärnor omkring helt fritt i det mörka tomrummet, som ett svagt och spöklikt sken.",
-    "nyborjare": "Den här bilden från rymdteleskopet Hubble offentliggjordes år 2014 och visar Pandoras hop, även känd som Abell 2744. Hopen ligger fyra miljarder ljusår bort och rymmer nästan 500 galaxer. Astronomer upptäckte ett extremt svagt spökljus som glimmar mellan galaxerna. Ljuset kommer inte från någon enskild galax, utan från miljarder övergivna stjärnor. Under loppet av sex miljarder år har minst sex galaxer slitits i stycken av enorma gravitationella tidvattenkrafter när de krockat eller dragits in i hopen. De hemlösa stjärnorna driver nu omkring ensamma i rymden och vittnar om forntida kosmiskt kaos.",
-    "entusiast": "Abell 2744, med smeknamnet Pandoras hop, är en massiv galaxhop belägen cirka fyra miljarder ljusår från jorden. År 2014 analyserade astronomer data från Hubble Frontier Fields och fann ett svagt diffust ljus, så kallat intrahopljus, som genomsyrar det intergalaktiska rummet i hopen. Detta spökljus härstammar från herrelösa stjärnor som har slitits loss från sina modersystem genom kraftfulla gravitationella tidvattenkrafter och dynamisk friktion under upprepade galaxkollisioner. Genom att studera ljusets fördelning och färg kunde forskarna rekonstruera hoparkeologin bakom Abell 2744. Resultaten visar att så många som sex normalstora galaxer har slitits sönder och upplösts i hopen under en tidsrymd av sex miljarder år. Dessa stjärnor hålls nu enbart kvar av hopens gemensamma gravitationsbrunn, som till största delen domineras av mörk materia. Detta ger en unik inblick i hur galaxer utvecklas och transformeras i universums mest extrema miljöer."
+    "barn": "Tänk dig ett jättestort rum där tusentals lysande lampor trängs tätt intill varandra! Den här glittrande stjärnhopen kallas Båghopen och är den mest tätpackade platsen i hela vår galax, Vintergatan.\n\nStjärnorna här är unga, heta och enormt tunga. De lyser så starkt att de gör slut på sitt bränsle väldigt snabbt. Om solen hade bott här inne skulle himlen vara full av bländande stjärnor både dag och natt. Men från jorden kan vi bara se dem med hjälp av särskilda rymdteleskop.",
+    "nyborjare": "Båghopen ligger ungefär 25 000 ljusår bort i stjärnbilden Skytten, alldeles i närheten av Vintergatans centrum. Den här bilden togs år 2015 med rymdteleskopet Hubble och visar galaxens mest kompakta stjärnhop.\n\nStjärnhopen är bara mellan två och fyra miljoner år gammal, vilket är mycket ungt i rymdens tidsskala. Här trängs stjärnorna otroligt tätt. Området runt vår sol har bara en enda grannstjärna inom fyra ljusårs radie, men i samma volym rymmer Båghopen över 100 000 stjärnor.\n\nBland dessa finns omkring 150 av de mest ljusstarka stjärnorna som någonsin upptäckts i Vintergatan. Eftersom tjocka moln av rymdstoft blockerar det vanliga synliga ljuset från galaxens kärna, måste astronomer observera hopen i infrarött ljus.",
+    "entusiast": "Båghopen utgör ett unikt laboratorium för att studera extrem stjärnbildning nära det galaktiska centret. Med en uppskattad ålder på bara två till fyra miljoner år innehåller hopen en ovanligt hög andel mycket massiva stjärnor av spektraltyp O och Wolf-Rayet-stjärnor. Bilden togs år 2015 med rymdteleskopet Hubbles infraröda instrument Wide Field Camera 3 och visar en markant högre upplösning jämfört med äldre observationer från 1999.\n\nTätheten i hopens kärna är extrem: inom en radie motsvarande avståndet mellan solen och Proxima Centauri trängs över 100 000 stjärnor. Minst 150 stjärnor i hopen hör till de absolut mest luminösa stjärnorna som observerats i Vintergatan. Dessa jättar bränner sitt vätebränsle i rasande takt och avslutar sina korta liv i varsin våldsam supernova inom några miljoner år.\n\nEftersom flera generationer av stjärnor snabbt nått slutet på sina liv är den interstellära gasen i området berikad med tyngre grundämnen, så kallad hög metallicitet. Den kraftiga interstellära extinktionen orsakad av molekylmoln längs siktlinjen i Vintergatans plan gör att Båghopen är helt osynlig för blotta ögat och enbart framträder genom mätningar i infrarött, röntgen och radiovåglängder."
   },
   "terms": [
     {
-      "term": "galaxhop",
-      "explanation": "En gigantisk samling av hundratals eller tusentals galaxer som binds samman av gravitation."
-    },
-    {
       "term": "ljusår",
-      "explanation": "Den sträcka en ljusstråle färdas i rymdens vakuum under ett helt jordår."
+      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett år."
     },
     {
-      "term": "tidvattenkrafter",
-      "explanation": "Gravitationsskillnader som drar ojämnt i olika delar av en himlakropp och kan slita sönder den."
+      "term": "stjärnhop",
+      "explanation": "En tät samling av tusentals stjärnor som hålls samman av gravitationen."
     },
     {
-      "term": "mörk materia",
-      "explanation": "Osynlig materia i universum som inte avger ljus men påverkar omgivningen genom sin dragningskraft."
+      "term": "infrarött ljus",
+      "explanation": "Elektromagnetisk strålning med längre våglängd än rött ljus som tränger igenom rymdstoft."
+    },
+    {
+      "term": "supernova",
+      "explanation": "En våldsam explosion som markerar slutet på en massiv stjärnas liv."
+    },
+    {
+      "term": "metallicitet",
+      "explanation": "Ett mått på andelen grundämnen som är tyngre än väte och helium."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine building a tall toy tower, and someone bumps into it so all the blocks scatter across the room. Something similar happened far away in deep space. Long ago, several large galaxies crashed into each other. The violent collisions broke them apart, and billions of stars lost their homes. Now these lonely orphan stars drift freely through the dark space between galaxies, shining with a faint, ghostly glow.",
-      "nyborjare": "Captured in a study released in 2014 by the Hubble Space Telescope, this view shows Pandora's Cluster, also cataloged as Abell 2744. Located four billion light-years away, this massive galaxy cluster contains nearly 500 galaxies. Astronomers noticed a subtle ghostly glow shining between the galaxies. This light does not come from any single galaxy, but from billions of scattered orphan stars. Over six billion years, at least six galaxies were gravitationally torn apart as they plunged into the cluster. The stars now wander alone through intergalactic space, serving as evidence of ancient cosmic mayhem.",
-      "entusiast": "Abell 2744, famously known as Pandora's Cluster, is a complex galaxy cluster located roughly four billion light-years away. In 2014, deep imaging from the Hubble Frontier Fields revealed diffuse intracluster light pervading the space between galaxies. This faint glow originates from orphaned stars stripped from their progenitor galaxies by extreme gravitational tidal forces and dynamical friction during galactic mergers. By mapping this diffuse light, astronomers conducted forensic analysis showing that as many as six distinct galaxies were systematically shredded within the cluster over a span of six billion years. Today, these stars drift unbound to any individual galaxy, tracing the underlying gravitational potential dominated by dark matter."
+      "barn": "Imagine a giant room packed with thousands of glowing lightbulbs crowded together! This sparkling group is called the Arches Cluster, and it is the most crowded place in our entire galaxy, the Milky Way.\n\nThe stars here are young, huge, and very hot. They shine so brightly that they burn out quickly. If our Sun lived here, the sky would be filled with blinding lights day and night. We can only spot them with special space telescopes.",
+      "nyborjare": "The Arches Cluster is located roughly 25,000 light-years away in the constellation Sagittarius, near the heart of the Milky Way. This view was captured in 2015 using the Hubble Space Telescope and reveals the densest known star cluster in our galaxy.\n\nThe cluster is between two and four million years old, which is very young for a celestial object. Its stellar density is staggering: in a space equivalent to the distance from the Sun to its nearest neighbor, the cluster holds over 100,000 stars.\n\nAmong them are at least 150 of the brightest stars ever identified in our galaxy. Because dense clouds of dust hide the cluster from ordinary sight, astronomers must view it using infrared light.",
+      "entusiast": "The Arches Cluster serves as a premier laboratory for examining extreme star formation near the galactic center. With an estimated age of two to four million years, it harbors an exceptional concentration of massive stars, including Wolf-Rayet and early O-type stars. This view was obtained in 2015 by the Hubble Space Telescope using its infrared Wide Field Camera 3, offering vast improvements over data from 1999.\n\nThe core density is astonishing: within a radius matching the distance between our Sun and Proxima Centauri, more than 100,000 stars are packed together. At least 150 stars belong to the most luminous ever identified in the Milky Way. Consuming their core hydrogen rapidly, these stellar powerhouses face inevitable ends as core-collapse supernovas within brief astronomical spans.\n\nRapid stellar winds and explosive deaths have enriched the local gas with heavy elements, yielding unusually high metallicity. Due to severe interstellar extinction in the galactic plane, the cluster remains invisible at optical wavelengths, requiring infrared, radio, and X-ray observations."
     },
     "terms": [
       {
-        "term": "galaxy cluster",
-        "explanation": "A massive gravitationally bound system containing hundreds to thousands of individual galaxies."
+        "term": "light-year",
+        "explanation": "The total distance that a beam of light travels through space in one year."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance that a beam of light travels through empty space in one Earth year."
+        "term": "star cluster",
+        "explanation": "A densely packed group of stars held together by mutual gravitational attraction."
       },
       {
-        "term": "tidal forces",
-        "explanation": "Gravitational variations across an object that stretch and can ultimately tear it apart."
+        "term": "infrared light",
+        "explanation": "Electromagnetic radiation with wavelengths longer than optical light that penetrates cosmic dust."
       },
       {
-        "term": "dark matter",
-        "explanation": "Hypothetical invisible matter that emits no light but exerts measurable gravitational pull across the cosmos."
+        "term": "supernova",
+        "explanation": "The cataclysmic explosion that marks the end of a massive star's life."
+      },
+      {
+        "term": "metallicity",
+        "explanation": "The abundance of elements present in an astronomical object heavier than hydrogen and helium."
       }
     ],
     "quiz": [
       {
-        "q": "What causes the faint glow between galaxies in a cluster?",
+        "q": "Why do massive stars burn through their fuel much faster than smaller stars?",
         "options": [
-          "Glowing gas clouds that recently heated up",
-          "Reflected light from stars in the Milky Way",
-          "Stars ripped away from shredded galaxies"
-        ],
-        "correct": 2,
-        "fact": "Violent gravitational encounters pull billions of stars out of their home galaxies, scattering them across intergalactic space."
-      },
-      {
-        "q": "What do astronomers call a structure containing hundreds of galaxies?",
-        "options": [
-          "Galaxy cluster",
-          "Star cluster",
-          "Planetary system"
-        ],
-        "correct": 0,
-        "fact": "Galaxy clusters are gravitationally bound structures and rank among the largest objects in the universe."
-      },
-      {
-        "q": "Which force tears galaxies apart during close cosmic encounters?",
-        "options": [
-          "Magnetic repulsion",
-          "Gravitational tidal forces",
-          "Stellar radiation pressure"
+          "They are unable to retain internal heat",
+          "Extreme core pressure vastly accelerates fusion rates",
+          "Their strong magnetic fields disrupt star cores"
         ],
         "correct": 1,
-        "fact": "Tidal forces occur when gravity pulls much harder on one side of a galaxy than the other, stretching and disrupting it."
+        "fact": "The immense gravitational pressure in a massive star's core causes it to burn through its fuel in just a few million years."
+      },
+      {
+        "q": "Why must astronomers use infrared light to view the Arches Cluster?",
+        "options": [
+          "Visible light is bent by supermassive black holes",
+          "Gigantic dust clouds obscure all visible light",
+          "The cluster stars only emit X-ray radiation"
+        ],
+        "correct": 1,
+        "fact": "Interstellar dust scatters visible wavelengths, but infrared radiation can easily pass through the dense clouds."
+      },
+      {
+        "q": "What fate awaits the most massive stars in this dense cluster?",
+        "options": [
+          "They gradually cool down into black dwarfs",
+          "They merge together to form rocky planets",
+          "They explode in violent supernova blasts"
+        ],
+        "correct": 2,
+        "fact": "Stars with dozens of times the mass of the Sun end their brief lives in powerful supernova explosions."
       }
     ]
   }
