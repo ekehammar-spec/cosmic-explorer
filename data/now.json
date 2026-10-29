@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-29T10:30:14.147Z",
+ "updated": "2026-10-29T16:42:07.892Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-29T00:00:00Z",
+   "date": "2026-10-29T06:00:00Z",
    "title_sv": "Tyfonen In-fa",
    "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 215 km/h",
-   "value_en": "winds of 215 km/h"
+   "value_sv": "vindar på 220 km/h",
+   "value_en": "winds of 220 km/h"
   },
   {
    "kind": "storm",
@@ -24,13 +24,13 @@
   },
   {
    "kind": "storm",
-   "date": "2026-10-29T00:00:00Z",
-   "title_sv": "Tropiska lågtrycket Vance",
-   "title_en": "Tropical Depression Vance",
+   "date": "2026-10-29T06:00:00Z",
+   "title_sv": "Tropiska stormen Vance",
+   "title_en": "Tropical Storm Vance",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 55 km/h",
-   "value_en": "winds of 55 km/h"
+   "value_sv": "vindar på 65 km/h",
+   "value_en": "winds of 65 km/h"
   },
   {
    "kind": "ice",

@@ -1,142 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "The most crowded place in the Milky Way",
-  "title_sv": "Den mest tätpackade platsen i Vintergatan",
+  "title": "The Topsy-Turvy Galaxy NGC 1313*",
+  "title_sv": "Galaxen NGC 1313",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o",
+  "url": "https://images-assets.nasa.gov/image/astronomers-identify-a-new-mid-size-black-hole_21034848884_o/astronomers-identify-a-new-mid-size-black-hole_21034848884_o~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/astronomers-identify-a-new-mid-size-black-hole_21034848884_o/astronomers-identify-a-new-mid-size-black-hole_21034848884_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/astronomers-identify-a-new-mid-size-black-hole_21034848884_o/astronomers-identify-a-new-mid-size-black-hole_21034848884_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/astronomers-identify-a-new-mid-size-black-hole_21034848884_o",
   "credit": "NASA/GSFC",
-  "taken": "2015",
+  "taken": "2006",
   "src": "library",
-  "id": "hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o",
+  "id": "astronomers-identify-a-new-mid-size-black-hole_21034848884_o",
   "px": [
     1280,
-    1143
+    1154
   ],
   "w": 640,
-  "h": 571,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAwABAgQFBv/EACYQAAIBAwMEAQUAAAAAAAAAAAECAwARIRIxQQQTUXEFFCJCkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A8ewMbKHRlJyCfyqlkIO2Bknm1KYZZFUytqsAFuTt4pOm6PvdSsWsKWxe9gPdKBMo7TXa+QR4xRrIVuy7jIvxWPyUH03U9kOJLbleDRxaBZVY3/lRXVRwW08HgnB90c/2x3B0kEi/FPIojjDLuSRn1WvLK1m2N8ZFGY58rtM6iy4BuaqRFXTp8fuowsxt5qTIC2bmxpGn/9k=",
+  "h": 577,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgMBAgUH/8QAJBAAAgEEAgIBBQAAAAAAAAAAAQIRAAMEIQUSMVETBiJBYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABkRAQACAwAAAAAAAAAAAAAAAAABESExQf/aAAwDAQACEQMRAD8A84AmrjGukaQn8aqmBhvlXlCREwSTEeqTcKtvoyfCzl/tLdoA9HxS6KE3sss9lII91I0x+o+MWwCyjcSaIspB2Iq7GqmAf3SLh+Q+BApAI8Gjg810sVV7KGkrqQDFOBfn8niZgU3rZuBVhh2gUKyrtu5lOyKAs6A0Kw5Y3hbViFdo/m6i5KPHkqSJqxhX/9k=",
   "quiz": [
     {
-      "q": "Varför brinner massiva stjärnor ut mycket snabbare än mindre stjärnor?",
+      "q": "Vad är en stjärnbildande galax?",
       "options": [
-        "De har sämre förmåga att hålla värmen",
-        "Det enorma trycket i kärnan ökar förbränningstakten",
-        "Deras starka magnetfält sliter sönder stjärnans kärna"
+        "En galax som bildar stjärnor i ovanligt hög takt",
+        "En galax som enbart består av nyfödda stjärnor",
+        "En galax som har slutat bilda nya stjärnor helt"
       ],
-      "correct": 1,
-      "fact": "Större massa ger ett enormt tryck i kärnan, vilket gör att stjärnan förbrukar sitt bränsle på bara några miljoner år."
+      "correct": 0,
+      "fact": "En stjärnbildande galax har en extremt hög aktivitet där stora moln av gas omvandlas till nya stjärnor i snabb takt."
     },
     {
-      "q": "Varför måste astronomer använda infrarött ljus för att se Båghopen?",
+      "q": "Vad är nebulosor i astronomiska sammanhang?",
       "options": [
-        "Ljuset böjs bort av supermassiva svarta hål",
-        "Synligt ljus blockeras helt av enorma stoftmoln",
-        "Stjärnorna i hopen sänder enbart ut röntgenstrålning"
+        "Massiva moln av gas och stoft i rymden",
+        "Planeter som ännu inte har hunnit svalna",
+        "Täta ansamlingar av mycket gamla och döda stjärnor"
       ],
-      "correct": 1,
-      "fact": "Rymdstoft mellan oss och galaxens mitt sprider det vanliga synliga ljuset, medan infraröd strålning tränger rakt igenom stoftet."
+      "correct": 0,
+      "fact": "Nebulosor är enorma moln av gas och rymdstoft där nya stjärnor ofta föds och där gamla stjärnor lämnar material efter sig."
     },
     {
-      "q": "Vad förväntas hända med de tyngsta stjärnorna i denna stjärnhop?",
+      "q": "Varför lyser vissa områden i rymden grönt?",
       "options": [
-        "De svalnar sakta och blir svarta dvärgar",
-        "De krockar och bildar en ny planet",
-        "De exploderar i spektakulära supernovor"
+        "Det beror på ljus från joniserat syre",
+        "Det är reflekterat ljus från gröna växter",
+        "Det orsakas av strålning från svarta hål"
       ],
-      "correct": 2,
-      "fact": "Stjärnor med tiotals gånger solens massa avslutar sina korta liv i våldsamma supernovaexplosioner."
+      "correct": 0,
+      "fact": "Grönaktigt sken i nebulosor kommer ofta från gaser som syre som har joniserats av intensiv strålning från heta stjärnor."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättestort rum där tusentals lysande lampor trängs tätt intill varandra! Den här glittrande stjärnhopen kallas Båghopen och är den mest tätpackade platsen i hela vår galax, Vintergatan.\n\nStjärnorna här är unga, heta och enormt tunga. De lyser så starkt att de gör slut på sitt bränsle väldigt snabbt. Om solen hade bott här inne skulle himlen vara full av bländande stjärnor både dag och natt. Men från jorden kan vi bara se dem med hjälp av särskilda rymdteleskop.",
-    "nyborjare": "Båghopen ligger ungefär 25 000 ljusår bort i stjärnbilden Skytten, alldeles i närheten av Vintergatans centrum. Den här bilden togs år 2015 med rymdteleskopet Hubble och visar galaxens mest kompakta stjärnhop.\n\nStjärnhopen är bara mellan två och fyra miljoner år gammal, vilket är mycket ungt i rymdens tidsskala. Här trängs stjärnorna otroligt tätt. Området runt vår sol har bara en enda grannstjärna inom fyra ljusårs radie, men i samma volym rymmer Båghopen över 100 000 stjärnor.\n\nBland dessa finns omkring 150 av de mest ljusstarka stjärnorna som någonsin upptäckts i Vintergatan. Eftersom tjocka moln av rymdstoft blockerar det vanliga synliga ljuset från galaxens kärna, måste astronomer observera hopen i infrarött ljus.",
-    "entusiast": "Båghopen utgör ett unikt laboratorium för att studera extrem stjärnbildning nära det galaktiska centret. Med en uppskattad ålder på bara två till fyra miljoner år innehåller hopen en ovanligt hög andel mycket massiva stjärnor av spektraltyp O och Wolf-Rayet-stjärnor. Bilden togs år 2015 med rymdteleskopet Hubbles infraröda instrument Wide Field Camera 3 och visar en markant högre upplösning jämfört med äldre observationer från 1999.\n\nTätheten i hopens kärna är extrem: inom en radie motsvarande avståndet mellan solen och Proxima Centauri trängs över 100 000 stjärnor. Minst 150 stjärnor i hopen hör till de absolut mest luminösa stjärnorna som observerats i Vintergatan. Dessa jättar bränner sitt vätebränsle i rasande takt och avslutar sina korta liv i varsin våldsam supernova inom några miljoner år.\n\nEftersom flera generationer av stjärnor snabbt nått slutet på sina liv är den interstellära gasen i området berikad med tyngre grundämnen, så kallad hög metallicitet. Den kraftiga interstellära extinktionen orsakad av molekylmoln längs siktlinjen i Vintergatans plan gör att Båghopen är helt osynlig för blotta ögat och enbart framträder genom mätningar i infrarött, röntgen och radiovåglängder."
+    "barn": "Tänk dig ett stort, glittrande moln i rymden där det föds massor av nya stjärnor hela tiden. Det ser ut som ett virvlande bakverk fullt av färgglada strösselbitar. I mitten brinner stjärnorna så starkt att de blåser upp bubblor i gasen runtomkring, som tuggummibubblor som växer sig jättestora innan de spricker.",
+    "nyborjare": "Denna färgstarka bild visar de centrala delarna av en mycket aktiv galax. Här bildas stjärnor i en rasande takt vilket gör att galaxen kallas för en stjärnbildande galax. När stjärnor föds och dör i snabb följd skapar de enorma bubblor av gas som kallas för nebulosor. Vissa av dessa områden lyser i grönt eftersom gasen har joniserats av strålningen från extremt heta stjärnor. Bilden skapades redan i december 2003 med hjälp av ett stort teleskop.",
+    "entusiast": "Bilden fångar de centrala regionerna av NGC 1313, en klassisk stjärnbildande galax med exceptionellt hög stjärnbildningsaktivitet. Det visuella materialet avslöjar ett komplext nätverk av supershell-nebulosor, vilka är enorma gasstrukturer som har blåsts upp och formats av upprepade generationer av stjärnvindar och supernovaexplosioner. De distinkta gröna nebulositeterna markerar områden med stark emission från joniserat syre, vilket tyder på dolda kluster av unga och mycket varma stjärnor. Detta färgkompositfoto togs natten den 16 december 2003 med instrumentet FORS1 monterat på en av enheterna i ESO:s Very Large Telescope vid Cerro Paranal i Chile, och det baseras på observationer genom både bred- och smalbandsfilter."
   },
   "terms": [
     {
-      "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett år."
+      "term": "galax",
+      "explanation": "Ett enormt system i rymden som binder samman miljarder stjärnor, gas, stoft och mörk materia med gravitation."
     },
     {
-      "term": "stjärnhop",
-      "explanation": "En tät samling av tusentals stjärnor som hålls samman av gravitationen."
+      "term": "nebulosa",
+      "explanation": "Ett gigantiskt moln av gas och rymdstoft som finns mellan stjärnorna."
     },
     {
-      "term": "infrarött ljus",
-      "explanation": "Elektromagnetisk strålning med längre våglängd än rött ljus som tränger igenom rymdstoft."
+      "term": "joniserad",
+      "explanation": "Atomer eller molekyler som har förlorat eller tagit upp elektroner och därför har en elektrisk laddning."
     },
     {
-      "term": "supernova",
-      "explanation": "En våldsam explosion som markerar slutet på en massiv stjärnas liv."
-    },
-    {
-      "term": "metallicitet",
-      "explanation": "Ett mått på andelen grundämnen som är tyngre än väte och helium."
+      "term": "supernovaexplosion",
+      "explanation": "Den gigantiska och våldsamma krasch eller explosion som inträffar när en tung stjärna dör."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant room packed with thousands of glowing lightbulbs crowded together! This sparkling group is called the Arches Cluster, and it is the most crowded place in our entire galaxy, the Milky Way.\n\nThe stars here are young, huge, and very hot. They shine so brightly that they burn out quickly. If our Sun lived here, the sky would be filled with blinding lights day and night. We can only spot them with special space telescopes.",
-      "nyborjare": "The Arches Cluster is located roughly 25,000 light-years away in the constellation Sagittarius, near the heart of the Milky Way. This view was captured in 2015 using the Hubble Space Telescope and reveals the densest known star cluster in our galaxy.\n\nThe cluster is between two and four million years old, which is very young for a celestial object. Its stellar density is staggering: in a space equivalent to the distance from the Sun to its nearest neighbor, the cluster holds over 100,000 stars.\n\nAmong them are at least 150 of the brightest stars ever identified in our galaxy. Because dense clouds of dust hide the cluster from ordinary sight, astronomers must view it using infrared light.",
-      "entusiast": "The Arches Cluster serves as a premier laboratory for examining extreme star formation near the galactic center. With an estimated age of two to four million years, it harbors an exceptional concentration of massive stars, including Wolf-Rayet and early O-type stars. This view was obtained in 2015 by the Hubble Space Telescope using its infrared Wide Field Camera 3, offering vast improvements over data from 1999.\n\nThe core density is astonishing: within a radius matching the distance between our Sun and Proxima Centauri, more than 100,000 stars are packed together. At least 150 stars belong to the most luminous ever identified in the Milky Way. Consuming their core hydrogen rapidly, these stellar powerhouses face inevitable ends as core-collapse supernovas within brief astronomical spans.\n\nRapid stellar winds and explosive deaths have enriched the local gas with heavy elements, yielding unusually high metallicity. Due to severe interstellar extinction in the galactic plane, the cluster remains invisible at optical wavelengths, requiring infrared, radio, and X-ray observations."
+      "barn": "Imagine a giant, sparkling cloud in space where lots of new stars are being born all the time. It looks like a swirling pattern filled with colourful candy sprinkles. In the middle, stars burn so brightly that they blow up bubbles in the surrounding gas, just like chewing gum bubbles that grow huge before popping.",
+      "nyborjare": "This colourful image shows the central parts of a very active galaxy. Stars are forming at a furious rate here, which is why it is called a starburst galaxy. When stars are born and die in rapid succession, they create huge gas bubbles known as nebulae. Some of these regions glow in green because the gas has been ionized by radiation from extremely hot stars. The data for this image was captured back in December 2003 using a large telescope.",
+      "entusiast": "The image captures the central regions of NGC 1313, a quintessential starburst galaxy displaying remarkably high star formation activity. The visual data reveals a complex network of supershell nebulae, which are massive gas cocoons inflated and carved out by successive bursts of star formation and stellar winds. The distinct green nebulosities highlight regions emitting strongly in ionized oxygen lines, pointing towards hidden clusters of very young and hot stars. This colour-composite was obtained on the night of 16 December 2003 using the FORS1 instrument on one of the unit telescopes of ESO's Very Large Telescope at Cerro Paranal, utilizing a combination of broad- and narrow-band filters."
     },
     "terms": [
       {
-        "term": "light-year",
-        "explanation": "The total distance that a beam of light travels through space in one year."
+        "term": "galaxy",
+        "explanation": "A massive system in space that holds together billions of stars, gas, dust, and dark matter through gravity."
       },
       {
-        "term": "star cluster",
-        "explanation": "A densely packed group of stars held together by mutual gravitational attraction."
+        "term": "nebula",
+        "explanation": "A giant cloud of gas and space dust found between the stars."
       },
       {
-        "term": "infrared light",
-        "explanation": "Electromagnetic radiation with wavelengths longer than optical light that penetrates cosmic dust."
+        "term": "ionized",
+        "explanation": "Atoms or molecules that have gained or lost electrons and therefore carry an electrical charge."
       },
       {
         "term": "supernova",
-        "explanation": "The cataclysmic explosion that marks the end of a massive star's life."
-      },
-      {
-        "term": "metallicity",
-        "explanation": "The abundance of elements present in an astronomical object heavier than hydrogen and helium."
+        "explanation": "The powerful and luminous explosion marking the dramatic death of a massive star."
       }
     ],
     "quiz": [
       {
-        "q": "Why do massive stars burn through their fuel much faster than smaller stars?",
+        "q": "What is a starburst galaxy?",
         "options": [
-          "They are unable to retain internal heat",
-          "Extreme core pressure vastly accelerates fusion rates",
-          "Their strong magnetic fields disrupt star cores"
+          "A galaxy with an exceptionally high rate of star formation",
+          "A galaxy consisting exclusively of newborn stars",
+          "A galaxy that has completely stopped forming new stars"
         ],
-        "correct": 1,
-        "fact": "The immense gravitational pressure in a massive star's core causes it to burn through its fuel in just a few million years."
+        "correct": 0,
+        "fact": "A starburst galaxy undergoes a high rate of star formation, consuming its gas reserves much faster than normal galaxies."
       },
       {
-        "q": "Why must astronomers use infrared light to view the Arches Cluster?",
+        "q": "What are nebulae in astronomical terms?",
         "options": [
-          "Visible light is bent by supermassive black holes",
-          "Gigantic dust clouds obscure all visible light",
-          "The cluster stars only emit X-ray radiation"
+          "Massive clouds of gas and dust in space",
+          "Planets that have not yet cooled down completely",
+          "Dense clusters of very old and dead stars"
         ],
-        "correct": 1,
-        "fact": "Interstellar dust scatters visible wavelengths, but infrared radiation can easily pass through the dense clouds."
+        "correct": 0,
+        "fact": "Nebulae are giant interstellar clouds of dust and gases where new stars are often born."
       },
       {
-        "q": "What fate awaits the most massive stars in this dense cluster?",
+        "q": "Why do certain regions in space glow green?",
         "options": [
-          "They gradually cool down into black dwarfs",
-          "They merge together to form rocky planets",
-          "They explode in violent supernova blasts"
+          "It is caused by light from ionized oxygen",
+          "It is reflected light from green vegetation",
+          "It is caused by radiation from black holes"
         ],
-        "correct": 2,
-        "fact": "Stars with dozens of times the mass of the Sun end their brief lives in powerful supernova explosions."
+        "correct": 0,
+        "fact": "Green nebulosities often indicate regions emitting light from ionized oxygen gas energized by very hot stars."
       }
     ]
   }
