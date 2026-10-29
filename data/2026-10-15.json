@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Captures Massive Dead Disk Galaxy that Challenges Theories of Galaxy Evolution",
-  "title_sv": "Hubble fångar massiv död galax MACS2129-1",
+  "title": "Hubble Sees 'Ghost Light' From Dead Galaxies",
+  "title_sv": "Spöklikt ljus från döda galaxer i Pandoras hop",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000033/GSFC_20171208_Archive_e000033~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000033/GSFC_20171208_Archive_e000033~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000033/GSFC_20171208_Archive_e000033~orig.png",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000033",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000914/GSFC_20171208_Archive_e000914~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000914/GSFC_20171208_Archive_e000914~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000914/GSFC_20171208_Archive_e000914~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000914",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000033",
+  "id": "GSFC_20171208_Archive_e000914",
   "px": [
-    1920,
-    1725
+    1711,
+    1920
   ],
-  "w": 640,
-  "h": 575,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQb/xAAiEAABBAEEAgMAAAAAAAAAAAABAAIRIQMiMWGRElETQoH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDgCDFytYQHguAPB2TOuIiAIFR2q4MfyZWtJALq8nGB2ixDcyGgVYR9oAkk0rZHNx5gcJOmNXs8KUPe+QHF5k88lFbF2D+Kkvdj0jSwdCVMbFK51bBEBJcTN+73TeUmXQXGpSGgjhB//9k=",
+  "w": 570,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAAEG/8QAJxAAAgIBAwIGAwEAAAAAAAAAAQIDEQAEEiEFMRMUQVFhgSJxocH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESEx/9oADAMBAAIRAxEAPwDlunR6fVTuG2RIEO0ObqhxR98AIYzC8ah2ctfB7Ae49f8AMCFVJF2SbtwuwD39sr9JiB1EqPEzSbSFF0yt6ZsrAdcyZnJVt2S307F2MjEPtsX6/v6xViNxsEfAPbLnUvMHUvLIdpsBiAB/PrJEsLtK53A2TyTRP1kXVhfJVLlvYfRwuxXaDZ7Vl1Y9V0mVN4p0/Jbo8n1GQ9PqvCVfDJXim5uzeMajqEmqQtLKWIoCz3GNWyhewrAxPJrXajzGpMjubY2T84lqY18dhExkQHhqq8wNE8q+K7LHf5FRZH6wBFkkcj5OBbaG5GrrK9n/2Q==",
   "quiz": [
     {
-      "q": "Vad är en galax?",
+      "q": "Vad är det svaga skenet mellan galaxerna i en hop?",
       "options": [
-        "En enda jättelik stjärna med planeter",
-        "Ett system av miljarder stjärnor och gas",
-        "Ett moln av enbart gas och stoft"
+        "Glödande gasmoln som nyligen hettats upp",
+        "Reflekterat ljus från Vintergatans egna stjärnor",
+        "Stjärnor som slitits loss från krossade galaxer"
       ],
-      "correct": 1,
-      "fact": "En galax hålls samman av gravitation och består av enorma samlingar av stjärnor, gas, stoft och mörk materia."
+      "correct": 2,
+      "fact": "När galaxer kolliderar kan starka gravitationskrafter slita loss miljarder stjärnor, som sedan driver fritt omkring i rymden mellan galaxerna."
     },
     {
-      "q": "Varför ser galaxer ibland röda ut?",
+      "q": "Vad kallas en samling av hundratals eller tusentals galaxer?",
       "options": [
-        "Ljuset har färdats långt i universum",
-        "De innehåller bara kalla röda dvärgar",
-        "De har brunnit ut helt och hållet"
+        "Galaxhop",
+        "Stjärnhop",
+        "Planetariskt system"
       ],
       "correct": 0,
-      "fact": "När ljus färdas genom ett växande universum dras ljusvågorna ut och förskjuts mot den röda delen av spektrumet."
+      "fact": "En galaxhop hålls samman av gravitationen och är en av universums allra största strukturer."
     },
     {
-      "q": "Vad är en gravitationslins?",
+      "q": "Vilken kraft sliter isär galaxer när de passerar nära varandra?",
       "options": [
-        "Ett teleskop med linser av fast glas",
-        "Tung massa som böjer av ljusstrålar",
-        "Ett svart hål som suger in ljus"
+        "Magnetisk avstötning",
+        "Gravitationella tidvattenkrafter",
+        "Strålningstryck från stjärnor"
       ],
       "correct": 1,
-      "fact": "Enligt Einsteins relativitetsteori kan extremt tunga massor i rymden fungera som förstoringsglas och böja av ljuset från bakomliggande objekt."
+      "fact": "Tidvattenkrafter uppstår när gravitationen drar hårdare i ena sidan av en galax än i den andra, vilket kan slita sönder den helt."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor snurra i rymden full av glittrande stjärnor. Men den här snurran har slutat att tillverka nya stjärnbebisar helt och hållet, trots att den snurrar jättefort! Den är som en stor leksaksfabrik som har stängt sina dörrar och slutat bygga nya saker.",
-    "nyborjare": "Astronomer har gjort en oväntad upptäckt med hjälp av Hubble-teleskopet. De har hittat en kompakt och massiv galax som har en skivform och snurrar mycket snabbt. Det mest förvånande är att den slutade bilda nya stjärnor redan några få miljarder år efter Big Bang. Att en sådan här mogen galax fanns så tidigt i universums historia ställer forskarnas teorier om galaxers utveckling på prov. För att kunna studera detta avlägsna objekt har forskarna använt en så kallad gravitationslins, där ett gigantiskt framförliggande galaxhop fungerar som ett naturligt förstoringsglas i rymden. Ljuset från galaxen har färdats så långt att det har rödförskjutits, vilket gör att den ser röd ut på bilderna.",
-    "entusiast": "Genom att kombinera rymdteleskopet Hubble med kraften hos galaxhopen MACS J2129-0741 som agerar gravitationslins har forskare identifierat galaxen MACS2129-1. Detta är det första kända exemplet på en kompakt, massiv och snabbt roterande skivgalax som dog ut mycket tidigt i universums barndom. Galaxen uppvisar en dynamisk massa och stjärnbildningshastighet som utmanar gängse modeller för kosmisk utveckling och tidig stjärnbildningsinhibition. Eftersom objektet befinner sig på ett enormt avstånd har dess spektrum rödforflyttats kraftigt, vilket har krävt avancerad modellering för att rekonstruera dess ursprungliga utseende. Upptäckten belyser komplexiteten i hur massiva galaxer snabbt konsumerar sitt gasförråd och övergår till ett passivt tillstånd."
+    "barn": "Tänk dig att du bygger ett fint torn av klossar, och så kommer en kompis rusande och råkar välta det så klossarna sprids över hela golvet. Lite så har det gått till här ute i rymden. För mycket länge sedan krockade flera stora galaxer med varandra. De slets sönder i bitar och miljarder stjärnor tappade bort sitt hem. Nu svävar dessa ensamma stjärnor omkring helt fritt i det mörka tomrummet, som ett svagt och spöklikt sken.",
+    "nyborjare": "Den här bilden från rymdteleskopet Hubble offentliggjordes år 2014 och visar Pandoras hop, även känd som Abell 2744. Hopen ligger fyra miljarder ljusår bort och rymmer nästan 500 galaxer. Astronomer upptäckte ett extremt svagt spökljus som glimmar mellan galaxerna. Ljuset kommer inte från någon enskild galax, utan från miljarder övergivna stjärnor. Under loppet av sex miljarder år har minst sex galaxer slitits i stycken av enorma gravitationella tidvattenkrafter när de krockat eller dragits in i hopen. De hemlösa stjärnorna driver nu omkring ensamma i rymden och vittnar om forntida kosmiskt kaos.",
+    "entusiast": "Abell 2744, med smeknamnet Pandoras hop, är en massiv galaxhop belägen cirka fyra miljarder ljusår från jorden. År 2014 analyserade astronomer data från Hubble Frontier Fields och fann ett svagt diffust ljus, så kallat intrahopljus, som genomsyrar det intergalaktiska rummet i hopen. Detta spökljus härstammar från herrelösa stjärnor som har slitits loss från sina modersystem genom kraftfulla gravitationella tidvattenkrafter och dynamisk friktion under upprepade galaxkollisioner. Genom att studera ljusets fördelning och färg kunde forskarna rekonstruera hoparkeologin bakom Abell 2744. Resultaten visar att så många som sex normalstora galaxer har slitits sönder och upplösts i hopen under en tidsrymd av sex miljarder år. Dessa stjärnor hålls nu enbart kvar av hopens gemensamma gravitationsbrunn, som till största delen domineras av mörk materia. Detta ger en unik inblick i hur galaxer utvecklas och transformeras i universums mest extrema miljöer."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationskrafter och ryms i rymden."
+      "term": "galaxhop",
+      "explanation": "En gigantisk samling av hundratals eller tusentals galaxer som binds samman av gravitation."
     },
     {
-      "term": "gravitationslins",
-      "explanation": "Ett fenomen där enorm massa förvränger och förstorar ljuset från bakomliggande himlakroppar."
+      "term": "ljusår",
+      "explanation": "Den sträcka en ljusstråle färdas i rymdens vakuum under ett helt jordår."
     },
     {
-      "term": "rödförskjutning",
-      "explanation": "När ljusvågor dras ut och förskjuts mot det röda spektrumet på grund av att källan rör sig bort eller att universum expanderar."
+      "term": "tidvattenkrafter",
+      "explanation": "Gravitationsskillnader som drar ojämnt i olika delar av en himlakropp och kan slita sönder den."
     },
     {
-      "term": "spektrum",
-      "explanation": "En uppdelning av elektromagnetisk strålning i olika våglängder och energier."
+      "term": "mörk materia",
+      "explanation": "Osynlig materia i universum som inte avger ljus men påverkar omgivningen genom sin dragningskraft."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant spinning wheel in space full of glittering stars. But this wheel has completely stopped making new baby stars, even though it spins really fast! It is like a big toy factory that has closed its doors and stopped building new things.",
-      "nyborjare": "Astronomers have made an unexpected discovery using the Hubble Space Telescope. They have found a compact and massive galaxy that has a disk shape and spins very quickly. Most surprisingly, it stopped forming new stars just a few billion years after the Big Bang. Finding such a mature galaxy this early in cosmic history challenges current theories of galaxy evolution. To study this distant object, researchers used a gravitational lens, where a giant foreground galaxy cluster acts as a natural magnifying glass in space. The light from the galaxy has travelled so far that it is redshifted, making it appear red in images.",
-      "entusiast": "By combining the Hubble Space Telescope with the power of galaxy cluster MACS J2129-0741 acting as a gravitational lens, researchers have identified galaxy MACS2129-1. This is the first known example of a compact, massive, and rapidly rotating disk galaxy that quenched its star formation very early in cosmic history. The galaxy exhibits a dynamic mass and stellar population that challenges prevailing models of galaxy evolution and early quenching mechanisms. Because the object is at an immense distance, its spectrum has undergone significant cosmological redshift, requiring advanced modeling to reconstruct its intrinsic morphology. This discovery highlights the complexity of how massive galaxies rapidly exhaust their gas reservoirs and transition into a passive state."
+      "barn": "Imagine building a tall toy tower, and someone bumps into it so all the blocks scatter across the room. Something similar happened far away in deep space. Long ago, several large galaxies crashed into each other. The violent collisions broke them apart, and billions of stars lost their homes. Now these lonely orphan stars drift freely through the dark space between galaxies, shining with a faint, ghostly glow.",
+      "nyborjare": "Captured in a study released in 2014 by the Hubble Space Telescope, this view shows Pandora's Cluster, also cataloged as Abell 2744. Located four billion light-years away, this massive galaxy cluster contains nearly 500 galaxies. Astronomers noticed a subtle ghostly glow shining between the galaxies. This light does not come from any single galaxy, but from billions of scattered orphan stars. Over six billion years, at least six galaxies were gravitationally torn apart as they plunged into the cluster. The stars now wander alone through intergalactic space, serving as evidence of ancient cosmic mayhem.",
+      "entusiast": "Abell 2744, famously known as Pandora's Cluster, is a complex galaxy cluster located roughly four billion light-years away. In 2014, deep imaging from the Hubble Frontier Fields revealed diffuse intracluster light pervading the space between galaxies. This faint glow originates from orphaned stars stripped from their progenitor galaxies by extreme gravitational tidal forces and dynamical friction during galactic mergers. By mapping this diffuse light, astronomers conducted forensic analysis showing that as many as six distinct galaxies were systematically shredded within the cluster over a span of six billion years. Today, these stars drift unbound to any individual galaxy, tracing the underlying gravitational potential dominated by dark matter."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system of stars, gas, and dark matter held together by gravitational forces."
+        "term": "galaxy cluster",
+        "explanation": "A massive gravitationally bound system containing hundreds to thousands of individual galaxies."
       },
       {
-        "term": "gravitational lens",
-        "explanation": "A distribution of matter that bends and magnifies light from a background source due to its gravitational field."
+        "term": "light-years",
+        "explanation": "The distance that a beam of light travels through empty space in one Earth year."
       },
       {
-        "term": "redshift",
-        "explanation": "The shifting of light wavelengths toward the red end of the spectrum caused by cosmic expansion or motion."
+        "term": "tidal forces",
+        "explanation": "Gravitational variations across an object that stretch and can ultimately tear it apart."
       },
       {
-        "term": "spectrum",
-        "explanation": "The range of wavelengths or frequencies spanned by electromagnetic radiation."
+        "term": "dark matter",
+        "explanation": "Hypothetical invisible matter that emits no light but exerts measurable gravitational pull across the cosmos."
       }
     ],
     "quiz": [
       {
-        "q": "What is a galaxy?",
+        "q": "What causes the faint glow between galaxies in a cluster?",
         "options": [
-          "A single giant star with planets",
-          "A system of billions of stars and gas",
-          "A cloud consisting only of gas and dust"
+          "Glowing gas clouds that recently heated up",
+          "Reflected light from stars in the Milky Way",
+          "Stars ripped away from shredded galaxies"
         ],
-        "correct": 1,
-        "fact": "A galaxy is held together by gravity and consists of immense collections of stars, gas, dust, and dark matter."
+        "correct": 2,
+        "fact": "Violent gravitational encounters pull billions of stars out of their home galaxies, scattering them across intergalactic space."
       },
       {
-        "q": "Why do galaxies sometimes appear red?",
+        "q": "What do astronomers call a structure containing hundreds of galaxies?",
         "options": [
-          "The light has travelled far across the universe",
-          "They contain only cold red dwarf stars",
-          "They have burned out completely and utterly"
+          "Galaxy cluster",
+          "Star cluster",
+          "Planetary system"
         ],
         "correct": 0,
-        "fact": "As light travels through an expanding universe, the light waves are stretched and shifted toward the red part of the spectrum."
+        "fact": "Galaxy clusters are gravitationally bound structures and rank among the largest objects in the universe."
       },
       {
-        "q": "What is a gravitational lens?",
+        "q": "Which force tears galaxies apart during close cosmic encounters?",
         "options": [
-          "A telescope built with solid glass lenses",
-          "Heavy mass that bends and warps light rays",
-          "A black hole that sucks in all light"
+          "Magnetic repulsion",
+          "Gravitational tidal forces",
+          "Stellar radiation pressure"
         ],
         "correct": 1,
-        "fact": "According to Einstein's theory of relativity, extremely massive objects in space can act as magnifying glasses and bend light from background objects."
+        "fact": "Tidal forces occur when gravity pulls much harder on one side of a galaxy than the other, stretching and disrupting it."
       }
     ]
   }

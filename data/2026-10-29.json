@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-29",
+  "title": "Webb Sees Turbulent Star Nursery",
+  "title_sv": "Webb ser en turbulent stjärnbarnkammare",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
+  "link": "https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/",
+  "px": [
+    1600,
+    1066
+  ],
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAkEAACAQQCAQQDAAAAAAAAAAABAgMABBEhBTESBhNRYTJBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAERAiExcSL/2gAMAwEAAhEDEQA/AEfFWyyp5MASv4qadC1iyom/exk9VFxkdvbiENKobRJz2auySoeRHvBfBBlcjOTU8N81CdRSMVPbqi4RWkDaRlPR+/uk95G0cpjkXDDR/taDkZi8sXsgKWOfgDfdR+oUjhEaDxfz2SBjfzUt2+FctT0zELPJIPJ21ob6prHyMwiHWSCCcboopOX2D10U7i5klYMTgkUXMzvDGpOkGqKKNOUKvyz/2Q==",
+  "quiz": [
+    {
+      "q": "Vad kallas ett rymdområde där nya stjärnor föds?",
+      "options": [
+        "En galaxhop",
+        "En stjärnbarnkammare",
+        "Ett kvasarsystem"
+      ],
+      "correct": 1,
+      "fact": "En stjärnbarnkammare består av täta moln av gas och stoft där nya stjärnor bildas när molnet drar ihop sig."
+    },
+    {
+      "q": "Vilken kraft drar samman gas och stoft så att stjärnor bildas?",
+      "options": [
+        "Gravitationen",
+        "Magnetismen",
+        "Solvinden"
+      ],
+      "correct": 0,
+      "fact": "Gravitationen drar samman utspridd gas och stoft tills trycket och temperaturen blir tillräckligt höga för att en stjärna ska tändas."
+    },
+    {
+      "q": "Varför är infrarött ljus bäst för att studera stjärnbarnkammare?",
+      "options": [
+        "Det böjs inte av tyngdkraft",
+        "Det är alltid varmare än synligt ljus",
+        "Det tränger igenom täta stoftmoln"
+      ],
+      "correct": 2,
+      "fact": "Infrarött ljus har längre våglängd än synligt ljus och passerar obehindrat genom stoft som annars döljer de nyfödda stjärnorna."
+    }
+  ],
+  "levels": {
+    "barn": "Titta på det glödande molnet! Det kallas för en stjärnbarnkammare. Här ute i rymden finns jättestora moln av gas och rymdstoft. Molnen virvlar runt precis som när man rör om i en kastrull med varm choklad.\n\nNär gravitationen trycker ihop gasen ordentligt blir den jättevarm och börjar lysa. Då tänds en helt ny stjärna! Rymdteleskopet James Webb har speciella kameror som kan kika rakt igenom det tjocka stoftet och se hur stjärnorna växer fram.",
+    "nyborjare": "Det som syns här är en stjärnbarnkammare, en kaotisk plats i rymden där nya stjärnor formas. Stora moln av gas och rymdstoft dras samman av sin egen gravitation. När gasen blir tillräckligt tät och het startar kärnfusion, och en ny stjärna tänds.\n\nOmrådet är fullt av turbulens eftersom unga heta stjärnor blåser bort omgivande gas med starka vindar. Vanligt synligt ljus stoppas av allt stoft i molnet, vilket gör att det ser mörkt ut för vanliga teleskop. Rymdteleskopet James Webb använder istället infrarött ljus. Det gör att vi kan blicka rakt in i de täta gasklumparna och studera stjärnfödseln i detalj.",
+    "entusiast": "Den här bilden från James Webb-teleskopet fångar ett turbulent stjärnbildningsområde där stjärnor formas i täta fickor av molekylär gas. Processen drivs av gravitationskollaps i jättelika molekylmoln, men den motverkas och formas av strålningstryck, magnetfält och kraftig turbulens.\n\nEn nybildad protostjärna alstrar kraftiga bipolära utflöden och joniserande strålning som skär ut håligheter och skulpterar molnet. Samtidigt komprimeras intilliggande gas, vilket kan trigga nya generationer av stjärnor.\n\nObservationer i synligt ljus hindras av optisk extinktion orsakad av interstellärt stoft. Med Webbs instrument kan astronomer blicka genom stoftet med infrarött ljus. Det avslöjar detaljer i ackretionsskivor och protostellära kärnor, vilket ger ny kunskap om hur gasens dynamik styr stjärnornas massfördelning."
+  },
+  "terms": [
+    {
+      "term": "stjärnbarnkammare",
+      "explanation": "Ett område i rymden fyllt av gas och stoft där nya stjärnor bildas."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den grundläggande kraft som drar materia mot varandra i universum."
+    },
+    {
+      "term": "kärnfusion",
+      "explanation": "Processen där atomkärnor slås samman under högt tryck och frigör enorm energi."
+    },
+    {
+      "term": "infrarött ljus",
+      "explanation": "Ljus med längre våglängder än synligt rött ljus, osynligt för mänskliga ögon."
+    },
+    {
+      "term": "protostjärna",
+      "explanation": "Ett tidigt utvecklingsstadium hos en stjärna innan stabil kärnfusion har startat i centrum."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this glowing cloud! It is a star nursery where new stars are born. Out in deep space, there are gigantic clouds made of gas and dust. The clouds swirl around just like hot soup being stirred in a pot.\n\nWhen gravity squeezes the gas together, it becomes very hot and starts to shine. That is how a new star is born! The James Webb Space Telescope uses special cameras to see through the thick dust.",
+      "nyborjare": "This image reveals a stellar nursery, a chaotic environment in space where new stars are actively forming. Vast clouds of gas and cosmic dust are pulled together by gravity. As material condenses, temperature and pressure rise until nuclear fusion begins and a star is born.\n\nThe region is turbulent because young, energetic stars blast away surrounding gas with powerful stellar winds. While visible light is blocked by thick dust, the James Webb Space Telescope observes in infrared light. This allows astronomers to peer inside the dense clumps and witness stars taking shape.",
+      "entusiast": "This view from the James Webb Space Telescope highlights a turbulent star-forming region where stars emerge from dense pockets of molecular gas. Star formation is driven by gravitational collapse within giant molecular clouds, balanced by turbulence, magnetic fields, and radiation feedback.\n\nA young protostar generates powerful bipolar outflows and ionizing radiation that sculpt bubbles and pillars in the surrounding nebula. This feedback can disperse gas or compress nearby material to trigger further star formation.\n\nInterstellar dust typically blocks optical observations through strong extinction. Webb overcomes this using infrared light with high-resolution instruments. These observations reveal embedded accretion disks and provide crucial insights into how local turbulence influences star formation."
+    },
+    "terms": [
+      {
+        "term": "stellar nursery",
+        "explanation": "A dense region of gas and dust in space where new stars are actively forming."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The attractive force that pulls matter together across the universe."
+      },
+      {
+        "term": "nuclear fusion",
+        "explanation": "The nuclear process where atomic nuclei combine, releasing massive amounts of energy."
+      },
+      {
+        "term": "infrared light",
+        "explanation": "Electromagnetic radiation with longer wavelengths than visible light, invisible to human eyes."
+      },
+      {
+        "term": "protostar",
+        "explanation": "An early evolutionary phase of a star before stable central nuclear fusion commences."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a cosmic region where new stars are born called?",
+        "options": [
+          "A galaxy cluster",
+          "A star nursery",
+          "A quasar system"
+        ],
+        "correct": 1,
+        "fact": "A star nursery consists of dense clouds of gas and dust where new stars form as material collapses."
+      },
+      {
+        "q": "Which force pulls gas and dust together to form stars?",
+        "options": [
+          "Gravity",
+          "Magnetism",
+          "Solar wind"
+        ],
+        "correct": 0,
+        "fact": "Gravity pulls dispersed gas and dust together until pressure and temperature rise high enough to ignite a star."
+      },
+      {
+        "q": "Why is infrared light ideal for studying star nurseries?",
+        "options": [
+          "It is not bent by gravity",
+          "It is always hotter than visible light",
+          "It penetrates dense clouds of dust"
+        ],
+        "correct": 2,
+        "fact": "Infrared light has longer wavelengths than visible light and passes easily through obscuring cosmic dust."
+      }
+    ]
+  }
+}

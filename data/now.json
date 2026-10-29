@@ -1,36 +1,36 @@
 {
- "updated": "2026-10-28T16:18:09.089Z",
+ "updated": "2026-10-29T05:57:52.945Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-28T06:00:00Z",
-   "title_sv": "Supertyfonen In-fa",
-   "title_en": "Super Typhoon In-fa",
+   "date": "2026-10-29T00:00:00Z",
+   "title_sv": "Tyfonen In-fa",
+   "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 240 km/h",
-   "value_en": "winds of 240 km/h"
-  },
-  {
-   "kind": "storm",
-   "date": "2026-10-28T00:00:00Z",
-   "title_sv": "Tropiska cyklonen Arnab",
-   "title_en": "Tropical Cyclone Arnab",
-   "where_sv": "Norra Indiska oceanen",
-   "where_en": "Northern Indian Ocean",
-   "value_sv": "vindar på 120 km/h",
-   "value_en": "winds of 120 km/h"
+   "value_sv": "vindar på 215 km/h",
+   "value_en": "winds of 215 km/h"
   },
   {
    "kind": "storm",
    "date": "2026-10-28T06:00:00Z",
-   "title_sv": "Tropiska stormen Vance",
-   "title_en": "Tropical Storm Vance",
+   "title_sv": "Tropiska stormen Arnab",
+   "title_en": "Tropical Storm Arnab",
+   "where_sv": "Norra Indiska oceanen",
+   "where_en": "Northern Indian Ocean",
+   "value_sv": "vindar på 100 km/h",
+   "value_en": "winds of 100 km/h"
+  },
+  {
+   "kind": "storm",
+   "date": "2026-10-29T00:00:00Z",
+   "title_sv": "Tropiska lågtrycket Vance",
+   "title_en": "Tropical Depression Vance",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 65 km/h",
-   "value_en": "winds of 65 km/h"
+   "value_sv": "vindar på 55 km/h",
+   "value_en": "winds of 55 km/h"
   },
   {
    "kind": "ice",

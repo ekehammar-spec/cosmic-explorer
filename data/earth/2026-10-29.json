@@ -1,0 +1,65 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-29",
+  "title": "Arnab Strikes India",
+  "title_sv": "Cyklonen Arnab drabbar Indien",
+  "place": "Bengaliska viken, Indien",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory image by Michala Garrison, using VIIRS day-night band data from NASA EOSDIS LANCE , GIBS/Worldview , and the Joint Polar Satellite System (JPSS) .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+  "levels": {
+    "barn": "Satellitbilden är tagen på natten och visar en väldig, virvlande spiral av vita moln ute över mörkt hav. Det är den kraftiga stormen Arnab. Ute i rymden kan speciella satelliter se moln och ljus även när det är mörkt på jorden. Stormen bildades i ett hav som kallas Bengaliska viken och blåste sedan in över kusten i Indien med starka vindar och mycket regn. Myndigheterna hjälpte tiotusentals människor att flytta i säkerhet i förväg så att de inte skulle komma till skada.",
+    "nyborjare": "Denna nattbild visar den tropiska cyklonen Arnab när ovädret roterar över Bengaliska viken på väg mot Indien. De ljusa molnformationerna avtecknar sig tydligt mot det svarta havet och landmassorna intill. När bilden togs uppmättes ihållande vindar på omkring 140 kilometer i timmen. Det indiska meteorologiska institutet klassade stormen som en mycket svår cyklonstorm. När Arnab nådde kusten i delstaten Andhra Pradesh orsakade ovädret omfattande skador på träd, grödor, vägar och elnät, samt översvämmade hem. Tiotusentals invånare i utsatta kustområden hade dock evakuerats före stormens ankomst. Stormen inträffade under ett pågående El Niño-fenomen, ett återkommande klimatmönster i Stilla havet med varmare ytvatten. Forskning visar att sådana förhållanden i atmosfären och havet ofta leder till färre och svagare tropiska cykloner i Bengaliska viken.",
+    "entusiast": "Satellitbilden fångades nattetid den 26 oktober klockan 20.12 universell tid av sensorsviten VIIRS ombord på polarbanesatelliten NOAA-20. Bilden bygger på mätningar från instrumentets dag-natt-band, en specialiserad kanal med extremt hög ljuskänslighet som registrerar reflekterat ljus i synliga och nära infraröda våglängder även under nattens mörkaste timmar. I visualiseringen framträder cyklonens symmetriska spiralarmar och täta centrala molnmassor i stark kontrast mot havets svarta yta. Arnab var säsongens första namngivna storm i norra Indiska oceanen och uppvisade här ihållande vindar på 140 kilometer i timmen. Vid landkänning längs kusten i Andhra Pradesh och Yanam låg vindhastigheten kring 130 kilometer i timmen. Den indiska vädertjänsten klassade ovädret som en mycket svår cyklonstorm, en styrka som motsvarar kategori 1 på orkanskalan Saffir-Simpson. Stormen orsakade omfattande materiella skador, fällde träd, dränkte jordbruksmark och slog ut kraftnät i tätt befolkade distrikt. Forskare studerar Arnab noggrant eftersom stormen uppstod anmärkningsvärt sent och under ett rådande El Niño-tillstånd. Detta fenomen, som präglas av onormalt varma ytvattentemperaturer i centrala och östra Stilla havet, påverkar den atmosfäriska cirkulationen över hela jorden. Forskning visar att El Niño i Bengaliska viken vanligtvis dämpar cyklonaktiviteten och leder till både färre och svagare tropiska oväder."
+  },
+  "terms": [
+    {
+      "term": "VIIRS",
+      "explanation": "En rymdburen sensorsvit som mäter synlig och infraröd strålning från jorden under både dag och natt."
+    },
+    {
+      "term": "Bengaliska viken",
+      "explanation": "Ett stort randhav i norra Indiska oceanen beläget mellan Indien och Sydostasien."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "Ett storskaligt klimatmönster med varmare ytvatten i ekvatoriella Stilla havet som påverkar det globala vädret."
+    },
+    {
+      "term": "dag-natt-band",
+      "explanation": "En mycket ljuskänslig kanal på satellitinstrument som kan registrera synligt och nära infrarött ljus nattetid."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This satellite picture was taken at night and shows a huge, swirling spiral of white clouds over the dark sea. This is the powerful storm Arnab. Out in space, special satellites can see clouds and faint light even in nighttime darkness. The storm formed over the Bay of Bengal and moved toward the coast of India, bringing strong winds and heavy rainfall. Authorities helped tens of thousands of people move to safety beforehand so they would stay protected.",
+      "nyborjare": "This nighttime image shows tropical cyclone Arnab as it swirls over the Bay of Bengal on its way toward India. The bright, spiraling cloud patterns stand out vividly against the dark ocean and adjacent landmasses. When the satellite captured this scene, the storm carried sustained winds of around 140 kilometers per hour. The India Meteorological Department categorized it as a very severe cyclonic storm. Upon making landfall on the coast of Andhra Pradesh, Arnab caused significant damage by uprooting trees, flooding farmland and houses, and disrupting local electrical and transport networks. Tens of thousands of residents were safely evacuated prior to the storm arriving. Arnab developed during an active El Niño, a recurring climate pattern that alters global atmospheric conditions and typically reduces cyclone frequency and intensity in this basin.",
+      "entusiast": "This nighttime satellite image was captured on October 26 at 20:12 Universal Time by the VIIRS sensor aboard the polar-orbiting NOAA-20 satellite. The view relies on data from the sensor's day-night band, a specialized channel capable of detecting faint emissions of visible and near-infrared light in nocturnal conditions. In this display, the storm's organized spiral bands and dense convective core contrast distinctly against the black ocean surface. Arnab was the first named tropical storm of the season in the North Indian Ocean basin, generating sustained winds of 140 kilometers per hour at image capture. Landfall occurred along the Andhra Pradesh and Yanam coast with sustained winds of 130 kilometers per hour, corresponding to a Category 1 hurricane on the Saffir-Simpson wind scale and classified locally as a very severe cyclonic storm. The storm inundated farmland, uprooted trees, and paralyzed transportation and power infrastructure across heavily populated districts. Atmospheric scientists find Arnab particularly notable because it developed unusually late in the season and during an established El Niño phase. Marked by anomalously warm sea surface temperatures in the equatorial Pacific, El Niño modulates atmospheric circulation globally. In the Bay of Bengal, altered environmental conditions during El Niño events generally suppress tropical cyclogenesis, yielding fewer and weaker storms."
+    },
+    "terms": [
+      {
+        "term": "VIIRS",
+        "explanation": "A satellite radiometer suite that captures visible and infrared imagery of Earth during both day and night."
+      },
+      {
+        "term": "Bay of Bengal",
+        "explanation": "A large northern basin of the Indian Ocean bordered by India, Bangladesh, and Myanmar."
+      },
+      {
+        "term": "El Niño",
+        "explanation": "A recurring climate pattern characterized by warmer-than-normal sea surface temperatures across the equatorial Pacific Ocean."
+      },
+      {
+        "term": "day-night band",
+        "explanation": "A highly sensitive imaging sensor band that detects visible and near-infrared light during night conditions."
+      }
+    ],
+    "place": "Bay of Bengal, India"
+  }
+}
