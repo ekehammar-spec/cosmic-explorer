@@ -1,142 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Catches Stellar Exodus in Action",
-  "title_sv": "Stjärnutvandring i stjärnhopen 47 Tucanae",
+  "title": "Hubble's Cosmic Atlas",
+  "title_sv": "Spiralgalaxen NGC 4248",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-catches-stellar-exodus-in-action_17644845341_o/hubble-catches-stellar-exodus-in-action_17644845341_o~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-catches-stellar-exodus-in-action_17644845341_o/hubble-catches-stellar-exodus-in-action_17644845341_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-catches-stellar-exodus-in-action_17644845341_o/hubble-catches-stellar-exodus-in-action_17644845341_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-catches-stellar-exodus-in-action_17644845341_o",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000013",
   "credit": "NASA/GSFC",
-  "taken": "2015",
+  "taken": "2017",
   "src": "library",
-  "id": "hubble-catches-stellar-exodus-in-action_17644845341_o",
+  "id": "GSFC_20171208_Archive_e000013",
   "px": [
-    1920,
-    1879
+    1041,
+    833
   ],
   "w": 640,
-  "h": 626,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQID/8QAJxAAAgEEAgECBwEAAAAAAAAAAQIRAAMEIRJRQSIxEyMyYXGxwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/AJrFHzlA1O/q80WmPzRTtv2KzZsIXABEEiDNPMDE5lhAjr70k04Q3cUBQRokTrv/AGh7tksWYMG1HZGuqqs3DFtSyjZ680gyrLcuTCUBI2YpZh1xsXjAAgKxmOh1NO8PNCwo5FYEbqXt8uVsNEt/aMtZLCCCSBA/E+KS4KDLzfiSCfT7g90izXUgwT7A+oRWrXWCq3hjGqFd9kPBjvxFW3R//9k=",
+  "h": 512,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYBAgADBP/EACEQAAICAAYDAQAAAAAAAAAAAAECAAMEBREhMVESImFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AEgUt1MNLdQnQUOzQmmEw16etgDfRCtQrGs9SjIRGmzJX3K+LjnVTB1+XsFdvUeHIJ0J/O5UQOS4ib1xbLwZwiTGCileZWJwx3lbcezjfeDZBhDX/9k=",
   "quiz": [
     {
-      "q": "Vad blir kvar när en medeltung stjärna slutar lysa?",
+      "q": "Vad är en spiralgalax primärt uppbyggd av?",
       "options": [
-        "En vit dvärg",
-        "Ett svart hål",
-        "En röd superjätte"
-      ],
-      "correct": 0,
-      "fact": "Medeltunga stjärnor som vår sol slutar sina liv som kompakta vita dvärgar när bränslet tar slut."
-    },
-    {
-      "q": "Vad händer med lätta stjärnor i en tät stjärnhop?",
-      "options": [
-        "De dras omedelbart in mot centrum.",
-        "De får högre fart och vandrar utåt.",
-        "De kolliderar och bildar ett svart hål."
+        "Enbart fasta stenblock och is",
+        "Stjärnor, gas och interstellärt stoft",
+        "Koncentrerad flytande plasma och vatten"
       ],
       "correct": 1,
-      "fact": "Genom massegregation knuffas stjärnor med lägre massa ut mot hopens ytterkanter när de stjäl rörelseenergi från tyngre stjärnor."
+      "fact": "Spiralgalaxer består av enorma mängder stjärnor samt gas och stoft som hålls samman av gravitation."
     },
     {
-      "q": "Vad är en klotformig stjärnhop för slags objekt?",
+      "q": "Varför studerar astronomer unga stjärnhopar i galaxer?",
       "options": [
-        "En roterande skiva av stoft och gas.",
-        "En ung galax fylld av gasmoln.",
-        "En tät, rund samling av gamla stjärnor."
+        "För att förstå stjärnornas bildning och evolution",
+        "För att mäta galaxens exakta yttemperatur",
+        "För att hitta spår av främmande civilisationer"
       ],
-      "correct": 2,
-      "fact": "Klotformiga stjärnhopar är mycket gamla och kompakta grupper med hundratusentals stjärnor som hålls samman av gravitationen."
+      "correct": 0,
+      "fact": "Genom att studera hur massiva stjärnor bildas lär sig astronomer mer om universums stjärnbildningshistoria."
+    },
+    {
+      "q": "Vad är det interstellära mediet för något?",
+      "options": [
+        "Det tomma rummet mellan olika galaxkluster",
+        "Gas och stoft som fyller utrymmet mellan stjärnorna",
+        "Ljusstrålningen som färdas från avlägsna kvasarer"
+      ],
+      "correct": 1,
+      "fact": "Det interstellära mediet är den materia i form av gas och stoft som finns i utrymmet mellan stjärnorna."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en lekplats full av barn som springer runt och knuffas lite grann. I rymden finns det också stora bollar av stjärnor, och en sådan kallas för en klotformig stjärnhop. Där trängs hundratusentals stjärnor tätt ihop. När gamla stjärnor blir trötta och tappar vikt förvandlas de till små vita dvärgar. Eftersom de är så lätta knuffas de långsamt iväg från mitten av hopen, ungefär som en lätt badboll som studsar iväg bland tunga fotbollar. Det tar många miljoner år för dem att flytta ut till kanten.",
-    "nyborjare": "År 2015 riktades rymdteleskopet Hubble mot den klotformiga stjärnhopen 47 Tucanae, som ligger 16 700 ljusår från oss. Bilden visar hur en nyskapad vit dvärg sakta vandrar bort från hopens täta centrum. När stjärnor förbrukar sitt kärnbränsle tappar de massa och svalnar. I stjärnhopens myller sker ett slags kosmisk biljard där gravitation styr samspelet mellan stjärnorna. Denna sorteringsprocess kallas massegregation. Lättare stjärnor knuffas till högre hastigheter och rör sig utåt mot utkanten, medan tyngre stjärnor saktar in och sjunker in mot mitten. Det är en långsam utvandring som tar tiotals miljoner år.",
-    "entusiast": "I den klotformiga stjärnhopen 47 Tucanae, belägen cirka 16 700 ljusår bort i stjärnbilden Tukanen, observerade rymdteleskopet Hubble år 2015 en dynamisk process kallad massegregation. Observationerna visade hur nybildade vita dvärgar genomgår en 40 miljoner år lång utvandring från hopens tätpackade kärna mot dess glesare utkanter. Fenomenet drivs av gravitationella tvåkroppsinteraktioner som fungerar likt ett biljardspel. När stjärnor med olika massa möts överförs rörelsemängd genom dynamisk friktion och ekvipartition av kinetisk energi. Tyngre stjärnor förlorar energi och sjunker mot gravitationsbrunnens mitt, medan stjärnor med lägre massa, som till exempel en åldrande vit dvärg, får högre hastighet. Detta tvingar ut deras omloppsbanor mot hopens periferi. Hubbles mätningar gav det första direkta visuella beviset för detta teoretiska transportband i realtid, vilket ger djup förståelse för hur täta stjärnsystem utvecklas dynamiskt över miljarder år."
+    "barn": "Tänk dig en jättestor och glittrande snurra långt ute i rymden. Den här galaxen är full av lysande stjärnor, glödande gas och mörkt stoft som snurrar runt i långsamma virvlar. Det ser ut som ett glimrande fyrverkeri som har fastnat på natthimlen för evigt.",
+    "nyborjare": "Den vackra spiralgalaxen NGC 4248 ligger cirka 24 miljoner ljusår bort i stjärnbilden Jakthundarna. Bilden har tagits med rymdteleskopet Hubble för att bygga upp den första ultravioletta atlasen över närliggande stjärnbildande galaxer. Astronomer studerar galaxens stjärnor, gas och mörka stoft för att förstå hur stjärnor föds och utvecklas över tid. Det ger oss viktig kunskap om universums stjärnbildningshistoria och hur processen påverkas av den omgivande miljön.",
+    "entusiast": "NGC 4248 är en av de närliggande stjärnbildande galaxerna som valts ut för att sammanställa Hubbles första ultravioletta atlas. Med hjälp av instrumentet Wide Field Camera 3 har astronomer fångat de komplexa morfologierna, massorna och strukturerna i detta system på tjugofyra miljoner ljusårs avstånd. UV-observationer är särskilt värdefulla eftersom de avslöjar unga och heta stjärnor som lyser starkt i detta spektrum. Genom att kartlägga hur massiva stjärnor bildas och utvecklas i skiftande miljöer kan forskare koppla samman stjärnhoparnas evolution med värdgalaxens egenskaper och det interstellära mediet, vilket ger en djupare förståelse för stjärnbildningens storskaliga kretslopp i universum."
   },
   "terms": [
     {
-      "term": "vit dvärg",
-      "explanation": "En mycket kompakt och svalnande rest av en stjärna som har förbrukat sitt kärnbränsle."
-    },
-    {
-      "term": "klotformig stjärnhop",
-      "explanation": "En tät, klotrund samling av hundratusentals gamla stjärnor som hålls samman av gravitation."
-    },
-    {
-      "term": "massegregation",
-      "explanation": "En process där tyngre stjärnor sjunker mot centrum medan lättare stjärnor knuffas utåt."
-    },
-    {
-      "term": "gravitation",
-      "explanation": "Den dragningskraft som gör att massor dras mot varandra i universum."
+      "term": "galax",
+      "explanation": "Ett enormt system av miljarder stjärnor, gas och stoft som hålls samman av gravitationen."
     },
     {
       "term": "ljusår",
-      "explanation": "Sträckan som ljuset färdas i rymdens vakuum under ett helt år."
+      "explanation": "Det avstånd som ljuset hinner färdas på ett helt år i det tomma rymdutrymmet."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat astronomiskt instrument som placerats i omloppsbana ovanför jordens atmosfär."
+    },
+    {
+      "term": "interstellära",
+      "explanation": "Det som befinner sig i rymden mellan de enskilda stjärnorna i ett stjärnsystem."
+    },
+    {
+      "term": "morfologier",
+      "explanation": "Läran om himlakroppars och galaxers yttre uppbyggnad och fysiska form."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a crowded playground where kids bump into each other while playing tag. In space, huge balls of stars called a globular cluster behave in a similar way. When old stars run out of fuel, they become small and cool, turning into what astronomers call a white dwarf. Because they are lighter than other stars, collisions gently kick them away from the crowded downtown. Over millions of years, they slowly migrate all the way out to the peaceful suburbs of the cluster.",
-      "nyborjare": "In 2015, the Hubble Space Telescope observed the globular cluster 47 Tucanae, located 16,700 light-years away in the southern sky. The image reveals an exodus of burned-out stellar remnants known as white dwarfs. As aging stars lose mass, gravity drives a cosmic sorting process known as mass segregation. In this stellar billiard game, lighter stars gain momentum from gravitational encounters with heavier neighbors. Consequently, more massive stars sink toward the core, while lighter objects like a white dwarf pick up speed and drift toward the outer edges of the cluster over tens of millions of years.",
-      "entusiast": "Captured by the Hubble Space Telescope in 2015, this view of the dense globular cluster 47 Tucanae, situated roughly 16,700 light-years away in the constellation Tucana, provides direct evidence of mass segregation in action. The data track fledgling white dwarfs migrating over a 40-million-year period from the congested core to the sparsely populated outskirts. This stellar migration is governed by dynamical relaxation and the equipartition of kinetic energy through two-body gravitational encounters. In this process, more massive stars transfer kinetic energy to lower-mass companions, causing heavier stars to sink into the gravitational potential well while lighter stellar remnants accelerate outward. These observations offered astronomers their first definitive look at this theoretical dynamical conveyor belt operating inside an ancient stellar system."
+      "barn": "Imagine a giant glittering pinwheel far out in space. This galaxy is full of shining stars, glowing gas, and dark dust swirling around slowly. It looks like a sparkling firework frozen forever in the night sky.",
+      "nyborjare": "The beautiful spiral galaxy NGC 4248 is located about twenty-four million light-years away in the constellation Canes Venatici. The image was captured by the Hubble Space Telescope to build the first ultraviolet atlas of nearby star-forming galaxies. Astronomers study the stars, gas, and dark dust within the galaxy to understand how stars are born and evolve over time. This gives us important knowledge about the history of star formation in the universe.",
+      "entusiast": "NGC 4248 is one of the nearby star-forming galaxies selected to compile Hubble's first ultraviolet atlas. Using the Wide Field Camera 3 instrument, astronomers captured the complex morphologies, masses, and structures of this system at a distance of twenty-four million light-years. Ultraviolet observations are particularly valuable because they reveal young and hot stars shining brightly in this spectrum. By mapping how massive stars form and evolve in diverse environments, researchers can connect star cluster evolution with host galaxy properties and the interstellar medium, providing a deeper understanding of the grand cycle of star formation."
     },
     "terms": [
       {
-        "term": "white dwarf",
-        "explanation": "A dense, cooling core left behind after a star exhausts its nuclear fuel."
-      },
-      {
-        "term": "globular cluster",
-        "explanation": "A dense, spherical collection of hundreds of thousands of gravitationally bound stars."
-      },
-      {
-        "term": "mass segregation",
-        "explanation": "The dynamical process sorting stars by mass within a stellar system."
-      },
-      {
-        "term": "gravity",
-        "explanation": "The fundamental attractive force between all objects that possess mass."
+        "term": "galaxy",
+        "explanation": "A massive system of billions of stars, gas, and dust held together by gravity."
       },
       {
         "term": "light-years",
-        "explanation": "The total distance that light travels through empty space in a year."
+        "explanation": "The distance that a beam of light travels through empty space in one Earth year."
+      },
+      {
+        "term": "telescope",
+        "explanation": "An advanced astronomical instrument placed in orbit above the atmosphere of the Earth."
+      },
+      {
+        "term": "interstellar",
+        "explanation": "The material and space existing situated between individual stars inside a galaxy."
+      },
+      {
+        "term": "morphologies",
+        "explanation": "The scientific study of the physical form and structural layout of celestial objects."
       }
     ],
     "quiz": [
       {
-        "q": "What remains when a medium-sized star dies?",
+        "q": "What is a spiral galaxy primarily built from?",
         "options": [
-          "A white dwarf",
-          "A black hole",
-          "A red supergiant"
-        ],
-        "correct": 0,
-        "fact": "Stars like our Sun shed their outer layers and leave behind a compact white dwarf."
-      },
-      {
-        "q": "What happens to lighter stars in dense clusters?",
-        "options": [
-          "They quickly sink to the core.",
-          "They gain speed and move outward.",
-          "They collide to form black holes."
+          "Solely solid rock and pure ice blocks",
+          "Stars, gas, and interstellar dust",
+          "Concentrated liquid plasma and water"
         ],
         "correct": 1,
-        "fact": "Through mass segregation, lighter stars steal momentum from heavier ones and migrate toward the cluster outskirts."
+        "fact": "Spiral galaxies consist of immense amounts of stars along with gas and dust held together by gravity."
       },
       {
-        "q": "What is a globular star cluster?",
+        "q": "Why do astronomers study young star clusters in galaxies?",
         "options": [
-          "A rotating disk of cosmic gas.",
-          "A young galaxy forming new stars.",
-          "A dense swarm of ancient stars."
+          "To understand star formation and stellar evolution",
+          "To measure the exact surface temperature of the galaxy",
+          "To search for traces of alien civilizations"
         ],
-        "correct": 2,
-        "fact": "Globular clusters are tightly bound, spherical collections of hundreds of thousands of ancient stars."
+        "correct": 0,
+        "fact": "By studying how massive stars form, astronomers learn more about the star formation history of the universe."
+      },
+      {
+        "q": "What is the interstellar medium?",
+        "options": [
+          "The empty space located between separate galaxy clusters",
+          "Gas and dust filling the space between stars",
+          "Radiation traveling from distant luminous quasars"
+        ],
+        "correct": 1,
+        "fact": "The interstellar medium is the matter in the form of gas and dust found in the space between stars."
       }
     ]
   }
