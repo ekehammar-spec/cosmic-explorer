@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-29T16:42:07.892Z",
+ "updated": "2026-10-30T05:59:12.495Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-29T06:00:00Z",
+   "date": "2026-10-30T00:00:00Z",
    "title_sv": "Tyfonen In-fa",
    "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 220 km/h",
-   "value_en": "winds of 220 km/h"
+   "value_sv": "vindar på 230 km/h",
+   "value_en": "winds of 230 km/h"
   },
   {
    "kind": "storm",
@@ -24,13 +24,13 @@
   },
   {
    "kind": "storm",
-   "date": "2026-10-29T06:00:00Z",
-   "title_sv": "Tropiska stormen Vance",
-   "title_en": "Tropical Storm Vance",
+   "date": "2026-10-30T00:00:00Z",
+   "title_sv": "Tropiska lågtrycket Vance",
+   "title_en": "Tropical Depression Vance",
    "where_sv": "Östra Stilla havet",
    "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 65 km/h",
-   "value_en": "winds of 65 km/h"
+   "value_sv": "vindar på 45 km/h",
+   "value_en": "winds of 45 km/h"
   },
   {
    "kind": "ice",
@@ -54,13 +54,13 @@
   },
   {
    "kind": "fire",
-   "date": "2026-10-24T17:10:00Z",
-   "title_sv": "Skogsbrand i Forrest, Mississippi",
-   "title_en": "Wildfire in Forrest, Mississippi",
+   "date": "2026-10-28T18:02:00Z",
+   "title_sv": "Skogsbrand i Perry, Mississippi",
+   "title_en": "Wildfire in Perry, Mississippi",
    "where_sv": "",
    "where_en": "",
-   "value_sv": "260 hektar",
-   "value_en": "260 hectares"
+   "value_sv": "400 hektar",
+   "value_en": "400 hectares"
   }
  ]
 }

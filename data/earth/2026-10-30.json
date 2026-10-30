@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-30",
+  "title": "Vega Island Frozen in Fright",
+  "title_sv": "Vegaön frusen i skräck",
+  "place": "Weddellhavet, Antarktis",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+  "credit": "NASA Earth Observatory / Lauren Dauphin",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAUGAQMH/8QAJhAAAgEDAwMEAwAAAAAAAAAAAQIRAAMEBRIxEyFBBiJxoSNhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AIkuSCNxC8wOCfiqL03o65eDk5N5Ayn8duVkz5IqcCEuFUhiTAiuj6BaOPouOlxQm0Hg89+f7TRGnTMB8PUcnd0xbuL7AvgA0s1vXMnA1I2umkBQQQ0+fqae5uXjYK3Mi62wkAe4yfgCozWczA1PLFy31bbEBSSoigsaJZZcrHyFddzEiCswODVNfyymoXdOVIVjO8NEdpiPqiimCp71ILiJZTqu1oksiN32fqfIpHs7AzyJoooir//Z",
+  "levels": {
+    "barn": "Titta på den här ön i det kalla havet vid Antarktis. Från rymden ser den nästan ut som en dödskalle i profil. Klippan som sticker upp ur isen ser ut som en mörk ögonhåla. Runt omkring breder vit snö och blågrå glaciäris ut sig.\n\nPå den ena bilden är ön täckt av vit snö. På den andra bilden har mycket snö försvunnit. Då syns den mörka isen och berget under. När det blir varmare smälter snön snabbare, och då förändras öns former.",
+    "nyborjare": "Satellitbilden visar Vegaön i Weddellhavet öster om Antarktiska halvön. Kombinationen av bergsklippor, glaciärer och moräner gör att ön sedd ovanifrån liknar en dödskalle i profil. En nunatak, en bergstopp som sticker upp genom isen, bildar ögonhålan, medan glaciären Bahía del Diablo formar käken.\n\nBilderna visar samma plats under hösten i mars och våren i oktober. På höstbilden ligger ett skyddande täcke av snö över glaciärerna. På vårbilden är snön borta från stora ytor och mörkare is syns. Ovanligt höga vintertemperaturer och kraftiga vindar gjorde att lite snö samlades. Mörk is suger upp mer solenergi än vit snö, vilket gör att avsmältningen tar fart när dagarna blir längre. Forskare har mätt hur glaciärerna här krymper och mer berggrund blottas.",
+    "entusiast": "Dessa satellitbilder från instrumentet OLI (Operational Land Imager) ombord på Landsat 9 visar Vegaön öster om Antarktiska halvön. Registreringarna från den 22 mars 2025 och den 10 oktober 2026 visar övergången mellan sydlig höst och vår. Öns geografi skapar en formation som liknar en dödskalle i profil. Detaljerna utgörs av en nunatak som formar en ögonhåla, en sidomorän som bildar en mun och glaciären Bahía del Diablo som utgör käkbenet.\n\nVårbilden från oktober 2026 avslöjar ovanligt stora ytor av mörkare, exponerad glaciäris. Glaciologer kopplar detta till temperaturer över det normala under vintern 2026, särskilt i juni, i kombination med låg snöackumulation, sublimering och vinderosion. Eftersom bar is har lägre albedo än nysnö absorberar den mer solstrålning, vilket driver på avsmältningen under den annalkande sommaren.\n\nDen första heltäckande kartläggningen av Vegaöns istäcke skedde med hjälp av tidiga Landsat-data och flygfoton som i en studie från 1982 identifierade fyra iskappor och 29 glaciärer. Bahía del Diablo har sedan 1998 övervakats kontinuerligt och uppvisar en ihållande massförlust i linje med övriga glaciärer i området. Platsen har även en historisk koppling: vid Cape Well-met på öns nordvästra del återförenades grupper från den svenska sydpolarexpeditionen våren 1903 efter att deras fartyg förlist i packisen."
+  },
+  "terms": [
+    {
+      "term": "nunatak",
+      "explanation": "En bergstopp eller klippa som sticker upp genom en omgivande glaciär eller inlandsis."
+    },
+    {
+      "term": "sidomorän",
+      "explanation": "En vall av grus, sten och block som avsatts längs sidan av en glaciär."
+    },
+    {
+      "term": "sublimering",
+      "explanation": "En fysikalisk process där snö eller is övergår direkt till vattenånga utan att smälta till vatten."
+    },
+    {
+      "term": "OLI",
+      "explanation": "Ett optiskt instrument på satelliten Landsat 9 som fotograferar jordytan i flera våglängdsband."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this island surrounded by the cold sea near Antarctica. From space, it looks almost like a smiling skull seen from the side. A rock sticking out of the ice looks like a dark eye socket.\n\nOne picture shows the island covered in bright white snow. In the other picture, much of the snow is gone, showing bare ice and dark rocks. Bare ice soaks up more heat from the sun, which can make it melt even faster.",
+      "nyborjare": "This satellite view shows Vega Island in the Weddell Sea east of the Antarctic Peninsula. Combined rock outcrops, glaciers, and moraines give the island the look of a skull in profile. A nunatak, which is a rocky summit jutting above an ice sheet, forms the eye socket, while Bahía del Diablo Glacier creates the jawline.\n\nThe images compare the island during autumn in March and spring in October. The autumn scene shows fresh snow blanketing the ice, while the spring scene reveals exposed, darker ice surfaces. Unusually warm winter temperatures and strong winds limited winter snow accumulation. Because bare ice is darker than fresh snow, it absorbs more solar energy, speeding up melting as summer approaches. Researchers have documented steady ice loss here over recent decades.",
+      "entusiast": "Acquired by the Operational Land Imager (OLI) aboard Landsat 9 on March 22, 2025, and October 10, 2026, these views highlight Vega Island in the Weddell Sea. Glacial geology gives the island the striking appearance of a skull in profile: an isolated nunatak forms the eye socket, a lateral moraine traces the mouth, and Bahía del Diablo Glacier constitutes the jaw.\n\nThe spring 2026 image reveals extensive bare ice rather than seasonal snow cover. Glaciologists attribute this to above-average winter temperatures—especially in June—coupled with minimal accumulation, sublimation, and wind scouring. Bare ice exhibits a lower albedo than snow, meaning it absorbs more solar radiation and accelerates melt as polar daylight lengthens.\n\nLandsat imagery has supported the study of Vega Island since an initial comprehensive survey in 1982 cataloged four ice caps and 29 glaciers. Bahía del Diablo Glacier has been monitored continuously since the 1998–1999 austral summer, showing a sustained decline in mass alongside broader glacier retreat and expanding bedrock exposure across the island. The region also marks a chapter in polar history: Cape Well-met was the site of the dramatic 1903 reunion of stranded members of the Swedish Antarctic Expedition after their ship was lost to pack ice."
+    },
+    "terms": [
+      {
+        "term": "nunatak",
+        "explanation": "A rocky peak or ridge that projects above a surrounding ice sheet or glacier."
+      },
+      {
+        "term": "lateral moraine",
+        "explanation": "A ridge of rock debris deposited along the sides of an active glacier."
+      },
+      {
+        "term": "sublimation",
+        "explanation": "The process where ice or snow transitions directly into water vapor without melting first."
+      },
+      {
+        "term": "OLI",
+        "explanation": "An optical sensor aboard Landsat 9 that images Earth's surface across multiple spectral bands."
+      }
+    ],
+    "place": "Weddell Sea, Antarctica"
+  }
+}

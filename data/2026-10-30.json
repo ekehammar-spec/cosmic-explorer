@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-30",
+  "title": "An Extended Stellar Family",
+  "title_sv": "Nordamerikanebulosan",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA13844/PIA13844~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA13844/PIA13844~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA13844/PIA13844~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA13844",
+  "credit": "NASA/JPL-Caltech",
+  "taken": "2011",
+  "src": "library",
+  "id": "PIA13844",
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABQYCAQME/8QAJhAAAgEEAQIGAwAAAAAAAAAAAQIDAAQREjEhUQUTMkFhkRRCcf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABsRAAMBAQADAAAAAAAAAAAAAAABAwIRITEy/9oADAMBAAIRAxEAPwCLtso4JUP14JpGOBZ1kkkwD2UUfbeoFee1UFnZM+jsQqtypPNFtvguc19c6dFv4NI8BlIXVRk9aw3hsxLaKx16j5/lUrpHDaGIRqx/U9vms2c0UdtMCcnIxt0+qKrafkLaSRIQRxLHBLHyCdz2PsKasJm80KiOwxsfugPDbn8eePbVkBzg9c96YjuwUcx6RxjICjkZ9q1tlsXCjS4KvNs41AyPUCa8dxL5TkBemOTQj3bmQkMcnnHSuZbqVhiQnAFTmLQa9c09n//Z",
+  "quiz": [
+    {
+      "q": "Vad bildas inuti kalla moln av gas och stoft?",
+      "options": [
+        "Nya stjärnor och planetsystem",
+        "Supermassiva svarta hål",
+        "Frusna kometer och asteroider"
+      ],
+      "correct": 0,
+      "fact": "När kalla gas- och stoftmoln dras samman av gravitationen tänds nya stjärnor."
+    },
+    {
+      "q": "Varför används infrarött ljus för att studera stjärnbildningsområden?",
+      "options": [
+        "Det rör sig snabbare genom rymden",
+        "Det tränger igenom täta stoftmoln",
+        "Det gör kalla gasmoln helt osynliga"
+      ],
+      "correct": 1,
+      "fact": "Infraröd strålning har längre våglängd och passerar lättare genom rymdstoft som annars blockerar synligt ljus."
+    },
+    {
+      "q": "Vad händer med nebulosans gas när stjärnor har tänts?",
+      "options": [
+        "Den fryser till kompakt is",
+        "Den blir omedelbart till mörk materia",
+        "Den blåses bort av stjärnvindar"
+      ],
+      "correct": 2,
+      "fact": "Unga och heta stjärnor skapar kraftiga partikelvindar som med tiden skingrar det omgivande gasmolnet."
+    }
+  ],
+  "levels": {
+    "barn": "Titta noga på bilden! Det ser nästan ut som en virvlande dimma full med gnistrande glitter. Det du ser kallas för en nebulosa, och man kan tänka på den som en stor barnkammare för stjärnor.\n\nHär samlas massor av gas och rymdstoft som dras ihop till stora klumpar, ungefär som när man kramar kramsnö till en snöboll. När klumparna blir tillräckligt tunga och varma tänds de och börjar lysa. Då har en alldeles ny stjärna fötts i rymden!",
+    "nyborjare": "Bilden visar en del av Nordamerikanebulosan och togs år 2011 med rymdteleskopet Spitzer. Den kallas ofta för stjärnornas barnkammare eftersom nya solar föds här ur väldiga moln av gas och kosmiskt stoft.\n\nI vanligt ljus ser vi mest ett mörker där stoftet skymmer sikten. Men Spitzer använde infrarött ljus, vilket fungerar som en sorts värmekamera. Den infraröda strålningen tränger rakt igenom de kalla stoftridåerna och avslöjar tusentals dolda unga stjärnor. Många av stjärnorna i bilden är bara omkring en miljon år gamla. Det låter kanske mycket, men i rymdens tidsskala är de som nyfödda bebisar jämfört med vår egen sol, som har lyst i över fyra och en halv miljard år.",
+    "entusiast": "Nordamerikanebulosan, eller NGC 7000, är en stor emissionsnebulosa belägen i stjärnbilden Svanen på ett avstånd av cirka 2 600 ljusår från jorden. Den här bilden togs år 2011 av rymdteleskopet Spitzer och kombinerar observationer i optiskt och infrarött ljus.\n\nMedan optiska teleskop framför allt visar nebulosans joniserade vätgas, tillåter instrument för infrarött ljus astronomerna att blicka djupt in i de kalla stoftpelarna och molekylmolnen. Det interstellära stoftet sprider kortvågig optisk strålning, medan infraröd strålning med längre våglängd kan passera nästan obehindrat.\n\nBilden avslöjar flera stjärnhopar där unga stjärnor befinner sig i tidiga utvecklingsstadier. Många av dessa objekt är omkring en miljon år gamla och omges fortfarande av protoplanetära skivor, där nya exoplaneter håller på att bildas. Kraftig stjärnvind och intensiv ultraviolett strålning från de nyfödda massiva stjärnorna skulpterar nebulosan inifrån, vilket skapar pelarliknande strukturer och så småningom driver bort den återstående gasen. Observationer som denna ger avgörande insikter om hur hela stjärnfamiljer formas i Vintergatans spiralarmar."
+  },
+  "terms": [
+    {
+      "term": "nebulosa",
+      "explanation": "Ett gigantiskt moln av gas och rymdstoft där nya stjärnor ofta bildas."
+    },
+    {
+      "term": "infrarött ljus",
+      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus, som ofta uppfattas som värme."
+    },
+    {
+      "term": "emissionsnebulosa",
+      "explanation": "Ett moln av joniserad gas i rymden som sänder ut ljus på grund av närbelägna stjärnors energi."
+    },
+    {
+      "term": "stjärnvind",
+      "explanation": "Ett flöde av laddade partiklar som kontinuerligt blåser ut i rymden från en stjärna."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look closely at this image! It looks almost like swirling, glowing smoke packed with sparkling glitter. What you are seeing is called a nebula, and it acts like a giant nursery for baby stars.\n\nOut here in space, huge piles of gas and cosmic dust clump together, much like packing snow into a tight snowball. When these clumps grow heavy and hot enough, they ignite and begin to shine. That is how brand-new stars are born!",
+      "nyborjare": "This image captures part of the North America Nebula and was taken in 2011 by NASA's Spitzer Space Telescope. Often described as a stellar nursery, this celestial landscape is a place where new suns condense out of massive clouds of gas and dust.\n\nVisible light telescopes mostly see dark curtains of dust blocking the view. However, Spitzer observed the scene in infrared light, which acts like a cosmic heat-vision camera. Infrared radiation easily pierces the cold dust clouds, unveiling thousands of young, hidden stars. Many of these stellar infants are only about one million years old. While that sounds ancient, they are practically newborns compared to our middle-aged Sun, which has been shining for more than four and a half billion years.",
+      "entusiast": "The North America Nebula, cataloged as NGC 7000, is a prominent emission nebula situated in the constellation Cygnus roughly 2,600 light-years from Earth. Captured in 2011 by the Spitzer Space Telescope, this composite view combines optical and infrared light.\n\nWhile optical instruments primarily highlight ionized hydrogen gas, detectors for infrared light penetrate dense molecular clouds and cosmic dust lanes. Interstellar dust strongly scatters short-wavelength visible light, but longer infrared wavelengths pass through virtually unimpeded.\n\nThis view reveals embedded star clusters where protostars and young stars thrive in early evolutionary stages. Many are around one million years old and still retain protoplanetary disks capable of forming exoplanets. The relentless stellar wind and intense ultraviolet radiation from newborn massive stars erode and sculpt the surrounding gas, carving distinctive pillars and eventually dispersing the molecular cloud. Such environments serve as vital laboratories for understanding the birth of stellar families and planetary systems like our own."
+    },
+    "terms": [
+      {
+        "term": "nebula",
+        "explanation": "A vast interstellar cloud of gas and dust where new stars often form."
+      },
+      {
+        "term": "infrared light",
+        "explanation": "Electromagnetic radiation with longer wavelengths than visible light, commonly associated with heat."
+      },
+      {
+        "term": "emission nebula",
+        "explanation": "A cloud of ionized gas in space that emits its own light from nearby stellar energy."
+      },
+      {
+        "term": "stellar wind",
+        "explanation": "A continuous flow of charged particles ejected into space from a star."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What forms inside cold clouds of gas and dust?",
+        "options": [
+          "New stars and planetary systems",
+          "Supermassive black holes",
+          "Frozen comets and asteroids"
+        ],
+        "correct": 0,
+        "fact": "When cold gas and dust collapse under gravity, new stars ignite and begin their lives."
+      },
+      {
+        "q": "Why is infrared light used to study star-forming regions?",
+        "options": [
+          "It travels faster through deep space",
+          "It penetrates dense cosmic dust clouds",
+          "It makes cold gas completely invisible"
+        ],
+        "correct": 1,
+        "fact": "Infrared radiation has longer wavelengths that easily pass through dust that blocks visible light."
+      },
+      {
+        "q": "What happens to a nebula's gas after stars ignite?",
+        "options": [
+          "It freezes into solid ice",
+          "It instantly becomes dark matter",
+          "It is blown away by stellar winds"
+        ],
+        "correct": 2,
+        "fact": "Young, massive stars produce energetic stellar winds and radiation that gradually disperse surrounding material."
+      }
+    ]
+  }
+}
