@@ -2,137 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Spots a Secluded Starburst Galaxy",
-  "title_sv": "Den isolerade starburstgalaxen MCG+07-33-027",
+  "title": "Hubble Catches Stellar Exodus in Action",
+  "title_sv": "Stjärnutvandring i stjärnhopen 47 Tucanae",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000268/GSFC_20171208_Archive_e000268~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000268/GSFC_20171208_Archive_e000268~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000268/GSFC_20171208_Archive_e000268~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000268",
+  "url": "https://images-assets.nasa.gov/image/hubble-catches-stellar-exodus-in-action_17644845341_o/hubble-catches-stellar-exodus-in-action_17644845341_o~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-catches-stellar-exodus-in-action_17644845341_o/hubble-catches-stellar-exodus-in-action_17644845341_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-catches-stellar-exodus-in-action_17644845341_o/hubble-catches-stellar-exodus-in-action_17644845341_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-catches-stellar-exodus-in-action_17644845341_o",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2015",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000268",
+  "id": "hubble-catches-stellar-exodus-in-action_17644845341_o",
   "px": [
-    1280,
-    829
+    1920,
+    1879
   ],
   "w": 640,
-  "h": 414,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAMEBQECBv/EACEQAAICAgEEAwAAAAAAAAAAAAECAAMEEQUSEyExIlFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDgaqi7AKCSY6/EsqHyEkcTalWSGfWhLPn8zHyWBpRUGvQgU2Fx+Rmrb2VLCpS7fg+5FddHWvUYlz19fQxXfg6ij597gbglT4MyWLKSTuEJFK3CEJUf/9k=",
+  "h": 626,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQID/8QAJxAAAgEEAgECBwEAAAAAAAAAAQIRAAMEIRJRQSIxEyMyYXGxwdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/AJrFHzlA1O/q80WmPzRTtv2KzZsIXABEEiDNPMDE5lhAjr70k04Q3cUBQRokTrv/AGh7tksWYMG1HZGuqqs3DFtSyjZ680gyrLcuTCUBI2YpZh1xsXjAAgKxmOh1NO8PNCwo5FYEbqXt8uVsNEt/aMtZLCCCSBA/E+KS4KDLzfiSCfT7g90izXUgwT7A+oRWrXWCq3hjGqFd9kPBjvxFW3R//9k=",
   "quiz": [
     {
-      "q": "Vad kännetecknar en så kallad starburstgalax?",
+      "q": "Vad blir kvar när en medeltung stjärna slutar lysa?",
       "options": [
-        "Den bildar stjärnor i extremt snabb takt.",
-        "Den saknar helt mörk materia i centrum.",
-        "Den består uteslutande av exploderande supernovor."
+        "En vit dvärg",
+        "Ett svart hål",
+        "En röd superjätte"
       ],
       "correct": 0,
-      "fact": "I en starburstgalax bildas nya stjärnor upp till hundratals gånger snabbare än i vanliga galaxer."
+      "fact": "Medeltunga stjärnor som vår sol slutar sina liv som kompakta vita dvärgar när bränslet tar slut."
     },
     {
-      "q": "Vad brukar oftast sätta igång en kraftig stjärnbildning?",
+      "q": "Vad händer med lätta stjärnor i en tät stjärnhop?",
       "options": [
-        "Galaxens plötsliga kollision med ett svart hål.",
-        "En krock eller växelverkan med en annan galax.",
-        "En våldsam explosion i galaxens allra yttersta kant."
+        "De dras omedelbart in mot centrum.",
+        "De får högre fart och vandrar utåt.",
+        "De kolliderar och bildar ett svart hål."
       ],
       "correct": 1,
-      "fact": "Gravitationskrafter vid galaxkrockar komprimerar gasmoln så att mängder av nya stjärnor tänds samtidigt."
+      "fact": "Genom massegregation knuffas stjärnor med lägre massa ut mot hopens ytterkanter när de stjäl rörelseenergi från tyngre stjärnor."
     },
     {
-      "q": "Vad krävs främst för att en galax ska bilda stjärnor?",
+      "q": "Vad är en klotformig stjärnhop för slags objekt?",
       "options": [
-        "Starka magnetfält som drar till sig materia.",
-        "Närhet till universums allra äldsta stjärnhopar.",
-        "Stora förråd av kall vätgas och stoft."
+        "En roterande skiva av stoft och gas.",
+        "En ung galax fylld av gasmoln.",
+        "En tät, rund samling av gamla stjärnor."
       ],
       "correct": 2,
-      "fact": "Stjärnor föds när gigantiska moln av gas och rymdstoft kollapsar under sin egen tyngdkraft."
+      "fact": "Klotformiga stjärnhopar är mycket gamla och kompakta grupper med hundratusentals stjärnor som hålls samman av gravitationen."
     }
   ],
   "levels": {
-    "barn": "Här ser vi en vacker galax som snurrar som ett gigantiskt rymdhjul långt ute i universum. Galaxen heter MCG+07-33-027 och fungerar som en riktig stjärnfabrik! I vanliga galaxer föds bara några få stjärnor varje år, precis som när man bakar en plåt med kakor i taget. Men den här galaxen har full fart och bakar hundratals nya stjärnor på en och samma gång. Den ljusa pricken bredvid är en stjärna i vår egen galax.",
-    "nyborjare": "Denna bild från rymdteleskopet Hubble offentliggjordes 2016 och visar MCG+07-33-027, en galax belägen cirka 300 miljoner ljusår från oss. Den klassas som en starburstgalax, vilket innebär att den genomgår en intensiv period av stjärnbildning och skapar stjärnor upp till hundra gånger snabbare än en vanlig spiralgalax. Eftersom vi ser den rakt framifrån syns spiralarmarna och de glödande barnkamrarna av gas mycket tydligt. För att driva denna process krävs enorma mängder gas, som förbrukas i rask takt. Det märkliga är att galaxen är isolerad. Normalt utlöses en sådan här stjärnexplosion när två galaxer kolliderar med varandra, men MCG+07-33-027 tycks inte ha några grannar i närheten. Den ljusa punkten till höger är en förgrundsstjärna i Vintergatan.",
-    "entusiast": "Bilden togs med Hubbles Advanced Camera for Surveys (ACS) och presenterades 2016. Den visar MCG+07-33-027, en så kallad fältgalax på ett avstånd av omkring 300 miljoner ljusår. Galaxen är sedd direkt från polen, vilket ger astronomerna en idealisk vy över dess stoftband och spiralarmar. Till skillnad från Vintergatan, där stjärnbildningstakten ligger på några enstaka solmassor per år, upplever MCG+07-33-027 en våldsam starburst där gasreservoaren förbrukas i en rasande takt. Det stora mysteriet är mekanismen bakom processen. I täta galaxhoper komprimeras interstellär gas oftast genom tidvattenskrafter vid kollisioner eller nära passager. MCG+07-33-027 befinner sig dock i en ovanligt tom del av universum utan uppenbara interaktionspartner. Astronomer undersöker därför om en tidigare sammanslagning med en dvärggalax eller intern instabilitet i gasskivan kan ha utlöst stjärnutbrottet. Den starkt lysande ljuskällan till höger är en förgrundsstjärna i Vintergatan med karakteristiska diffraktionsspikar."
+    "barn": "Tänk dig en lekplats full av barn som springer runt och knuffas lite grann. I rymden finns det också stora bollar av stjärnor, och en sådan kallas för en klotformig stjärnhop. Där trängs hundratusentals stjärnor tätt ihop. När gamla stjärnor blir trötta och tappar vikt förvandlas de till små vita dvärgar. Eftersom de är så lätta knuffas de långsamt iväg från mitten av hopen, ungefär som en lätt badboll som studsar iväg bland tunga fotbollar. Det tar många miljoner år för dem att flytta ut till kanten.",
+    "nyborjare": "År 2015 riktades rymdteleskopet Hubble mot den klotformiga stjärnhopen 47 Tucanae, som ligger 16 700 ljusår från oss. Bilden visar hur en nyskapad vit dvärg sakta vandrar bort från hopens täta centrum. När stjärnor förbrukar sitt kärnbränsle tappar de massa och svalnar. I stjärnhopens myller sker ett slags kosmisk biljard där gravitation styr samspelet mellan stjärnorna. Denna sorteringsprocess kallas massegregation. Lättare stjärnor knuffas till högre hastigheter och rör sig utåt mot utkanten, medan tyngre stjärnor saktar in och sjunker in mot mitten. Det är en långsam utvandring som tar tiotals miljoner år.",
+    "entusiast": "I den klotformiga stjärnhopen 47 Tucanae, belägen cirka 16 700 ljusår bort i stjärnbilden Tukanen, observerade rymdteleskopet Hubble år 2015 en dynamisk process kallad massegregation. Observationerna visade hur nybildade vita dvärgar genomgår en 40 miljoner år lång utvandring från hopens tätpackade kärna mot dess glesare utkanter. Fenomenet drivs av gravitationella tvåkroppsinteraktioner som fungerar likt ett biljardspel. När stjärnor med olika massa möts överförs rörelsemängd genom dynamisk friktion och ekvipartition av kinetisk energi. Tyngre stjärnor förlorar energi och sjunker mot gravitationsbrunnens mitt, medan stjärnor med lägre massa, som till exempel en åldrande vit dvärg, får högre hastighet. Detta tvingar ut deras omloppsbanor mot hopens periferi. Hubbles mätningar gav det första direkta visuella beviset för detta teoretiska transportband i realtid, vilket ger djup förståelse för hur täta stjärnsystem utvecklas dynamiskt över miljarder år."
   },
   "terms": [
     {
-      "term": "starburstgalax",
-      "explanation": "En galax som genomgår en period av extremt snabb och intensiv stjärnbildning jämfört med vanliga galaxer."
+      "term": "vit dvärg",
+      "explanation": "En mycket kompakt och svalnande rest av en stjärna som har förbrukat sitt kärnbränsle."
+    },
+    {
+      "term": "klotformig stjärnhop",
+      "explanation": "En tät, klotrund samling av hundratusentals gamla stjärnor som hålls samman av gravitation."
+    },
+    {
+      "term": "massegregation",
+      "explanation": "En process där tyngre stjärnor sjunker mot centrum medan lättare stjärnor knuffas utåt."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den dragningskraft som gör att massor dras mot varandra i universum."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som ljuset färdas i rymdens vakuum under ett år, cirka 9,5 biljoner kilometer."
-    },
-    {
-      "term": "spiralgalax",
-      "explanation": "En platt roterande galax med armar av stjärnor och gas som slingrar sig ut från kärnan."
-    },
-    {
-      "term": "fältgalax",
-      "explanation": "En galax som ligger isolerad i rymden snarare än bunden i en tät galaxhop."
-    },
-    {
-      "term": "förgrundsstjärna",
-      "explanation": "En stjärna i vår egen galax som råkar ligga i siktlinjen framför ett avlägset studieobjekt."
+      "explanation": "Sträckan som ljuset färdas i rymdens vakuum under ett helt år."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Here is a magnificent galaxy spinning like a giant pinwheel deep in space. Its name is MCG+07-33-027, and it acts like a busy cosmic bakery! Normal galaxies only bake a few new stars each year, slow and steady. But this lively galaxy is in a huge hurry, churning out hundreds of newborn stars all at the same time. The bright dot shining on the right is a nearby star in our own Milky Way.",
-      "nyborjare": "Released in 2016 from observations by the Hubble Space Telescope, this image shows MCG+07-33-027, located roughly 300 million light-years away. It is classified as a starburst galaxy, a system producing newborn stars at a pace up to a hundred times faster than standard galaxies. Because it is oriented face-on toward Earth, its winding spiral arms and glowing star-forming regions are displayed with remarkable clarity. Such intense activity requires a massive reservoir of gas that is rapidly consumed. Intriguingly, this object is isolated rather than part of a cluster. While most starbursts are sparked by collisions with neighbors, astronomers are still searching for what ignited this solitary galaxy. The brilliant object to the right is simply a foreground star.",
-      "entusiast": "Captured by Hubble's Advanced Camera for Surveys (ACS) and unveiled in 2016, this portrait depicts MCG+07-33-027, an isolated field galaxy roughly 300 million light-years distant. Viewed face-on, the galaxy provides an unobstructed perspective of its intricate dust lanes and intense star-forming knots. While the Milky Way produces roughly one to two solar masses of stars annually, MCG+07-33-027 undergoes a ferocious starburst that drains its cold interstellar gas reservoir at an unsustainable rate. The primary astrophysical puzzle is the triggering mechanism. Most starburst events are induced by tidal perturbations during galaxy mergers or close flybys in dense environments. As a secluded field galaxy without visible companions, MCG+07-33-027 may have absorbed a minor satellite in the past, or internal secular processes might have funneled gas inward. The dazzling source to the right is an unrelated Milky Way foreground star."
+      "barn": "Imagine a crowded playground where kids bump into each other while playing tag. In space, huge balls of stars called a globular cluster behave in a similar way. When old stars run out of fuel, they become small and cool, turning into what astronomers call a white dwarf. Because they are lighter than other stars, collisions gently kick them away from the crowded downtown. Over millions of years, they slowly migrate all the way out to the peaceful suburbs of the cluster.",
+      "nyborjare": "In 2015, the Hubble Space Telescope observed the globular cluster 47 Tucanae, located 16,700 light-years away in the southern sky. The image reveals an exodus of burned-out stellar remnants known as white dwarfs. As aging stars lose mass, gravity drives a cosmic sorting process known as mass segregation. In this stellar billiard game, lighter stars gain momentum from gravitational encounters with heavier neighbors. Consequently, more massive stars sink toward the core, while lighter objects like a white dwarf pick up speed and drift toward the outer edges of the cluster over tens of millions of years.",
+      "entusiast": "Captured by the Hubble Space Telescope in 2015, this view of the dense globular cluster 47 Tucanae, situated roughly 16,700 light-years away in the constellation Tucana, provides direct evidence of mass segregation in action. The data track fledgling white dwarfs migrating over a 40-million-year period from the congested core to the sparsely populated outskirts. This stellar migration is governed by dynamical relaxation and the equipartition of kinetic energy through two-body gravitational encounters. In this process, more massive stars transfer kinetic energy to lower-mass companions, causing heavier stars to sink into the gravitational potential well while lighter stellar remnants accelerate outward. These observations offered astronomers their first definitive look at this theoretical dynamical conveyor belt operating inside an ancient stellar system."
     },
     "terms": [
       {
-        "term": "starburst galaxy",
-        "explanation": "A galaxy undergoing an extraordinarily high rate of star formation compared to typical galactic systems."
+        "term": "white dwarf",
+        "explanation": "A dense, cooling core left behind after a star exhausts its nuclear fuel."
+      },
+      {
+        "term": "globular cluster",
+        "explanation": "A dense, spherical collection of hundreds of thousands of gravitationally bound stars."
+      },
+      {
+        "term": "mass segregation",
+        "explanation": "The dynamical process sorting stars by mass within a stellar system."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The fundamental attractive force between all objects that possess mass."
       },
       {
         "term": "light-years",
-        "explanation": "The total distance that a beam of light travels through empty space over one Earth year."
-      },
-      {
-        "term": "field galaxy",
-        "explanation": "A galaxy that resides in relative spatial isolation rather than within a gravitationally bound cluster."
-      },
-      {
-        "term": "foreground star",
-        "explanation": "A star situated in our Milky Way that happens to align directly in front of a distant background target."
+        "explanation": "The total distance that light travels through empty space in a year."
       }
     ],
     "quiz": [
       {
-        "q": "What defines a starburst galaxy?",
+        "q": "What remains when a medium-sized star dies?",
         "options": [
-          "It creates stars at an exceptionally rapid rate.",
-          "It completely lacks dark matter in its core.",
-          "It consists entirely of exploding supernovas."
+          "A white dwarf",
+          "A black hole",
+          "A red supergiant"
         ],
         "correct": 0,
-        "fact": "Starburst galaxies form new stars up to hundreds of times faster than typical galaxies."
+        "fact": "Stars like our Sun shed their outer layers and leave behind a compact white dwarf."
       },
       {
-        "q": "What usually triggers intense star formation in a galaxy?",
+        "q": "What happens to lighter stars in dense clusters?",
         "options": [
-          "A sudden collision with a supermassive black hole.",
-          "A collision or gravitational interaction with another galaxy.",
-          "A massive explosion along the outer galactic rim."
+          "They quickly sink to the core.",
+          "They gain speed and move outward.",
+          "They collide to form black holes."
         ],
         "correct": 1,
-        "fact": "Gravitational forces during galactic collisions compress massive gas clouds, triggering simultaneous star births."
+        "fact": "Through mass segregation, lighter stars steal momentum from heavier ones and migrate toward the cluster outskirts."
       },
       {
-        "q": "What raw material is essential for galaxies to form stars?",
+        "q": "What is a globular star cluster?",
         "options": [
-          "Strong magnetic fields that capture loose radiation.",
-          "Close proximity to the oldest globular clusters.",
-          "Vast reservoirs of cold hydrogen gas and dust."
+          "A rotating disk of cosmic gas.",
+          "A young galaxy forming new stars.",
+          "A dense swarm of ancient stars."
         ],
         "correct": 2,
-        "fact": "Stars are born when dense clouds of interstellar gas and dust collapse under gravity."
+        "fact": "Globular clusters are tightly bound, spherical collections of hundreds of thousands of ancient stars."
       }
     ]
   }
