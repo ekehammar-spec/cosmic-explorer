@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-31T09:59:16.677Z",
+ "updated": "2026-10-31T15:30:26.434Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-31T00:00:00Z",
+   "date": "2026-10-31T06:00:00Z",
    "title_sv": "Tyfonen In-fa",
    "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
@@ -24,7 +24,7 @@
   },
   {
    "kind": "ice",
-   "date": "2026-10-22T00:00:00Z",
+   "date": "2026-10-30T00:00:00Z",
    "title_sv": "Isberget A85",
    "title_en": "Iceberg A85",
    "where_sv": "Södra ishavet, vid Antarktis",

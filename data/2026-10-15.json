@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "The Big Bang left a permanent scare in the cosmic background, 5 billion light-years from Earth",
-  "title_sv": "Galaxhop RX J1347.5–1145",
+  "title": "Hubble Revisits a Globular Cluster’s Age",
+  "title_sv": "Stjärnhopen IC 4499",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000125/GSFC_20171208_Archive_e000125~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000125/GSFC_20171208_Archive_e000125~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000125/GSFC_20171208_Archive_e000125~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000125",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001017/GSFC_20171208_Archive_e001017~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001017/GSFC_20171208_Archive_e001017~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001017/GSFC_20171208_Archive_e001017~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001017",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000125",
+  "id": "GSFC_20171208_Archive_e001017",
   "px": [
-    1280,
-    1194
+    1252,
+    1280
   ],
-  "w": 640,
-  "h": 597,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAwECBAb/xAAlEAACAQMDBAIDAAAAAAAAAAABAhEAAxIEIUEiMTJRYXETocH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAgQF/8QAHBEAAQQDAQAAAAAAAAAAAAAAAwABAhIRITEE/9oADAMBAAIRAxEAPwDkndWd3wVJPECBxtQPcCqSNgTtH7pMUCLCmZ7nn0KO4itcxmSdztEfFaBivFsqsMbS0qZksRiYUdvVa0uJqEXTzcW2N1J6ob+Cot6bTrZYvcKXB2XHuKIHBugZfdF5zXfDqZRVbK0Xn/JcDwjCN8RsNqw3CUuZI08dt6dVA09tweokz6q72lKeIHMg/QpyQvHaKE6ujvaq5qERbnUVGKtHriqrIWCZ+BRACRMmGimTdigMDyHPFCETQ4kKS3V//9k=",
+  "w": 626,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAoEAACAQMDAwIHAAAAAAAAAAABAgMAESEEEkEiMXETYQUyUYGx0eH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8A4oKRjqHI80xJBdyVGL3xgCtx7Nm1uo4B5tniqMWnBCXJCyYZyPl/lVElIGL7yCFHUbC+L0BwQzPswTx2B+lWNXphCxHqLIoJ/OKlMAqspUHOM9jTQWFwrhxbxyfaqsGpTJVSyCxIA7Ck/icOj08sS6PUNJ0KWNrWbkUp6wUttHcYuf1SihJOhJ3k3Gfv70g5iBcOz97qFXvfzWJpQVsNzEHBJ4oMpK7cgXHBpR//2Q==",
   "quiz": [
     {
-      "q": "Vad är den kosmiska bakgrundsstrålningen för något?",
+      "q": "Vad är en klotformig stjärnhop?",
       "options": [
-        "Ljus från universums allra första tid",
-        "Reflekterat solljus från Vintergatans yttre kanter",
-        "Strålning från supermassiva svarta hål"
+        "En kompakt samling äldre stjärnor i galaxer",
+        "Ett ungt stjärnsystem som just har bildats",
+        "En planet som kretsar kring en stjärna"
       ],
       "correct": 0,
-      "fact": "Den kosmiska bakgrundsstrålningen är svag mikrovågsstrålning som är resterna av det ursprungliga ljuset från universums barndom."
+      "fact": "Klotformiga stjärnhopar är täta klot av gamla stjärnor som kretsar runt centrum i en galax."
     },
     {
-      "q": "Hur fungerar Sunyaev-Zel’dovich-effekten?",
+      "q": "Hur gammal uppskattas stjärnhopen IC 4499 vara?",
       "options": [
-        "Elektroner i galaxhopar ger bakgrundsstrålningen extra energi",
-        "Sjabbiga stjärnor drar åt sig mörk materia",
-        "Ljus böjs av kring svarta håls horisonter"
+        "Cirka 12 miljarder år",
+        "Omkring 500 miljoner år",
+        "Ungefär 4,5 miljarder år"
       ],
       "correct": 0,
-      "fact": "När ljus från bakgrunden passerar heta elektroner i en galaxhop får fotonerna en liten energiboost."
+      "fact": "Observationer med rymdteleskopet visar att IC 4499 är ungefär 12 miljarder år gammal."
     },
     {
-      "q": "Vad är en galaxhop?",
+      "q": "Varför bildar vissa stjärnhopar flera generationer stjärnor?",
       "options": [
-        "En samling av tusentals galaxer samlade av gravitation",
-        "En enskild galax med extra många stjärnor",
-        "Ett moln av gas mellan två stjärnbilder"
+        "De är så massiva att de fångar gas",
+        "De kolliderar ständigt med andra galaxer",
+        "De saknar helt egen gravitationskraft"
       ],
       "correct": 0,
-      "fact": "Galaxhopar är några av universums största strukturer och hålls samman av gemensam gravitation."
+      "fact": "Större massiva hopar har starkare gravitation som samlar ihop gas och stoft till nya stjärnor."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor familj med tusentals glittrande stjärnstäder som kramar om varandra i rymden. Det är en galaxhop. Bilden visar en sådan koloss långt borta. Forskarna har kikat på den med ett rymdteleskop och hittat spår från universums allra första början. Det är som att hitta en gammal skattkista med ljus från när allting skapades för jättelänge sedan.",
-    "nyborjare": "I den här bilden tittar vi på en av universums mest massiva galaxhopar, som ligger fem miljarder ljusår från jorden. Galaxhopar är enorma samlingar av galaxer som hålls samman av gravitation. Genom att studera hopen kan forskare använda den kosmiska bakgrundsstrålningen. Denna strålning är resterna av ljus från universums födelse för nästan 14 miljarder år sedan. När ljuset färdas genom rymden passerar det hopen och träffar högenergetiska elektroner. Det gör att ljuset får en liten energiboost som vi kan upptäcka med specialinstrument.",
-    "entusiast": "Den här observationen från rymdteleskopet Hubble och ALMA-teleskopet i Chile visar galaxhopen RX J1347.5–1145, belägen fem miljarder ljusår bort. Hopen studerades inom ramen för CLASH-projektet för att kartlägga fördelningen av massa och materia. De blå-lila färgerna markerar data från ALMA, där forskare mäter den termiska Sunyaev-Zel’dovich-effekten. Effekten uppstår när fotoner från den kosmiska bakgrundsstrålningen interagerar med het gas och elektroner i hopens intracellulära medium. Genom att mäta hur dessa mikrovågsfotoner får en energiboost kan astronomer förstå universums storskaliga struktur och galaxhoparnas egenskaper."
+    "barn": "Tänk dig ett jättestort glittrande klot uppe i rymden som är fullproppat med tusentals gamla stjärnor. Det här är en stjärnhop som håller ihop av sin egen dragningskraft. Det ser ut som en glimrande diamantkudde som har fastnat långt ut i mörkret.",
+    "nyborjare": "Den här bilden visar stjärnhopen IC 4499, som är en tät samling äldre stjärnor som kretsar i vår galax. Tidigare mätningar från 1990-talet visade att den verkade förvånansvärt ung. Nyare observationer med rymdteleskopet har dock visat att den i stället är ungefär 12 miljarder år gammal, vilket är i linje med andra liknande stjärnhopar i Vintergatan.",
+    "entusiast": "Bilden är tagen med rymdteleskopet och föreställer den klotformiga stjärnhopen IC 4499. Klotformiga stjärnhopar består av massiva klot av gamla stjärnor i galaxers glorior. Medan mycket tunga stjärnhopar ofta rymmer flera stjärngenerationer på grund av stark gravitation som kan samla in gas, placerar sig IC 4499 i en mellanstorleksklass. Astronomer har inte funnit några spår av multipla generationer här, vilket bekräftar att mindre massiva hopar i regel enbart bildar en enda stjärnpopulation. Det löser också tidigare mysterier kring hopens ålder som först undersöktes på 1990-talet."
   },
   "terms": [
     {
-      "term": "galaxhop",
-      "explanation": "En enorm samling av galaxer som binds samman av gemensam gravitation."
+      "term": "stjärnhop",
+      "explanation": "En stor samling stjärnor som hålls samman av ömsesidig dragningskraft."
     },
     {
-      "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas på ett helt år."
+      "term": "galax",
+      "explanation": "Ett enormt system av stjärnor, gas, stoft och mörk materia som hålls ihop av gravitation."
     },
     {
-      "term": "kosmiska bakgrundsstrålningen",
-      "explanation": "Svag mikrovågsstrålning som fyller hela universum och utgör resterna av ljuset från tidernas begynnelse."
+      "term": "rymdteleskop",
+      "explanation": "Ett optiskt instrument uppskjutet i omloppsbana för att observera universum utan störningar från atmosfären."
     },
     {
-      "term": "elektroner",
-      "explanation": "Mycket små negativt laddade partiklar som rör sig kring atomernas kärnor."
+      "term": "gravitation",
+      "explanation": "Den dragningskraft som massiva kroppar utövar på varandra i universum."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant family of thousands of glittering star cities hugging each other in space. That is a galaxy cluster. This picture shows such a colossal structure far away. Scientists have peeked at it using a space telescope and found traces from the very beginning of the universe. It is like finding an old treasure chest filled with light from when everything was created a very long time ago.",
-      "nyborjare": "In this image, we look at one of the most massive known galaxy clusters, located five billion light-years from Earth. Galaxy clusters are immense collections of galaxies held together by gravity. By studying the cluster, researchers can use the cosmic microwave background. This radiation is the leftover light from the birth of the universe nearly 14 billion years ago. As the light travels through space, it passes through the cluster and hits high-energy electrons, giving the photons a small energy boost that we can detect with special instruments.",
-      "entusiast": "This observation by the Hubble Space Telescope and the ALMA array in Chile features the galaxy cluster RX J1347.5–1145, situated five billion light-years away. The cluster was observed as part of the CLASH survey to map the distribution of mass. The blue-purple hues highlight data from ALMA, where researchers measure the thermal Sunyaev-Zel’dovich effect. This effect occurs when photons from the cosmic microwave background interact with hot gas and electrons within the cluster. By measuring how these microwave photons receive an energy boost, astronomers can understand the large-scale structure of the universe."
+      "barn": "Imagine a giant sparkling ball out in space packed with thousands of old stars. This is a star cluster held together tightly by its own invisible pull. It looks like a shining cushion of glittering diamonds floating far away in the dark.",
+      "nyborjare": "This image shows the star cluster IC 4499, which is a dense gathering of older stars orbiting within our galaxy. Earlier measurements from the 1990s suggested it was surprisingly young. However, newer observations obtained with the space telescope revealed that it is actually around 12 billion years old, matching other similar clusters in the Milky Way.",
+      "entusiast": "The image captured by the space telescope features the globular cluster IC 4499. Globular clusters comprise massive balls of old stars orbiting galactic halos. While very heavy clusters often host multiple stellar generations because strong gravity collects ambient gas, IC 4499 sits in an intermediate mass bracket. Astronomers found no evidence of multiple stellar generations here, supporting the view that less massive clusters typically form only a single stellar population. This resolves earlier puzzles regarding its age first estimated in the 1990s."
     },
     "terms": [
       {
-        "term": "galaxy cluster",
-        "explanation": "An immense collection of galaxies held together by mutual gravity."
+        "term": "cluster",
+        "explanation": "A large collection of stars bound together by mutual gravitational attraction."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance that light travels in one Earth year."
+        "term": "galaxy",
+        "explanation": "A massive system containing stars, gas, dust and dark matter held together by gravity."
       },
       {
-        "term": "cosmic microwave background",
-        "explanation": "Faint radiation filling the entire universe representing the leftover light from the early cosmos."
+        "term": "space telescope",
+        "explanation": "An optical instrument placed in orbit to observe the universe without atmospheric interference."
       },
       {
-        "term": "electrons",
-        "explanation": "Very small negatively charged particles orbiting atomic nuclei."
+        "term": "gravity",
+        "explanation": "The natural phenomenon by which all things with mass are brought toward one another."
       }
     ],
     "quiz": [
       {
-        "q": "What is the cosmic microwave background?",
+        "q": "What is a globular cluster?",
         "options": [
-          "Light from the very earliest universe",
-          "Reflected sunlight from the outer Milky Way",
-          "Radiation from supermassive black holes"
+          "A compact collection of old stars in galaxies",
+          "A young star system that just formed",
+          "A planet orbiting around a single star"
         ],
         "correct": 0,
-        "fact": "The cosmic microwave background is faint microwave radiation left over from the early universe."
+        "fact": "Globular clusters are dense balls of ancient stars orbiting around their host galaxy."
       },
       {
-        "q": "How does the Sunyaev-Zel’dovich effect work?",
+        "q": "How old is the star cluster IC 4499 estimated to be?",
         "options": [
-          "Electrons in galaxy clusters boost background photons",
-          "Unstable stars pull in dark matter",
-          "Light bends around black hole horizons"
+          "About 12 billion years",
+          "Around 500 million years",
+          "Approximately 4.5 billion years"
         ],
         "correct": 0,
-        "fact": "When background light passes through hot electrons in a galaxy cluster, the photons receive a tiny energy boost."
+        "fact": "Observations with the space telescope indicate that IC 4499 is roughly 12 billion years old."
       },
       {
-        "q": "What is a galaxy cluster?",
+        "q": "Why do some star clusters form multiple generations of stars?",
         "options": [
-          "A collection of thousands of galaxies bound by gravity",
-          "A single galaxy with an unusually high star count",
-          "A gas cloud situated between two constellations"
+          "They are massive enough to capture gas",
+          "They constantly collide with other galaxies",
+          "They completely lack any gravitational force"
         ],
         "correct": 0,
-        "fact": "Galaxy clusters are among the largest structures in the universe, held together by mutual gravity."
+        "fact": "More massive clusters have stronger gravity allowing them to gather gas and dust to spawn new stars."
       }
     ]
   }
