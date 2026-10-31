@@ -2,141 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Views a Galactic Mega-merger",
-  "title_sv": "Galaktisk megakollision i NGC 3597",
+  "title": "The Big Bang left a permanent scare in the cosmic background, 5 billion light-years from Earth",
+  "title_sv": "Galaxhop RX J1347.5–1145",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000438/GSFC_20171208_Archive_e000438~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000438/GSFC_20171208_Archive_e000438~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000438/GSFC_20171208_Archive_e000438~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000438",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000125/GSFC_20171208_Archive_e000125~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000125/GSFC_20171208_Archive_e000125~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000125/GSFC_20171208_Archive_e000125~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000125",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000438",
+  "id": "GSFC_20171208_Archive_e000125",
   "px": [
     1280,
-    1216
+    1194
   ],
   "w": 640,
-  "h": 608,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgUDBAYB/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQACAxEEIQVBEhMiMXH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AwLIi8aCL1EdKXGOq0P1N+Nwo82cMkmLW1WhtVuKEQYT0uOZQW1zODx8WMyMljePFZzKx2M8q+lS6bM6WRvIVmHKfEQWkghUgUYclkydyUzx8nE2qskziN9qK7sjoICbR4X//2Q==",
+  "h": 597,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAwECBAb/xAAlEAACAQMDBAIDAAAAAAAAAAABAhEAAxIEIUEiMTJRYXETocH/xAAXAQEAAwAAAAAAAAAAAAAAAAADAgQF/8QAHBEAAQQDAQAAAAAAAAAAAAAAAwABAhIRITEE/9oADAMBAAIRAxEAPwDkndWd3wVJPECBxtQPcCqSNgTtH7pMUCLCmZ7nn0KO4itcxmSdztEfFaBivFsqsMbS0qZksRiYUdvVa0uJqEXTzcW2N1J6ob+Cot6bTrZYvcKXB2XHuKIHBugZfdF5zXfDqZRVbK0Xn/JcDwjCN8RsNqw3CUuZI08dt6dVA09tweokz6q72lKeIHMg/QpyQvHaKE6ujvaq5qERbnUVGKtHriqrIWCZ+BRACRMmGimTdigMDyHPFCETQ4kKS3V//9k=",
   "quiz": [
     {
-      "q": "Vad bildas när två stora galaxer krockar med varandra?",
+      "q": "Vad är den kosmiska bakgrundsstrålningen för något?",
       "options": [
-        "En gigantisk elliptisk galax",
-        "Ett enormt supermassivt svart hål",
-        "En enda vidsträckt spiralgalax"
+        "Ljus från universums allra första tid",
+        "Reflekterat solljus från Vintergatans yttre kanter",
+        "Strålning från supermassiva svarta hål"
       ],
       "correct": 0,
-      "fact": "När galaxer slås samman töms gas och stoft ut och bildar efter hand en jättelik elliptisk galax."
+      "fact": "Den kosmiska bakgrundsstrålningen är svag mikrovågsstrålning som är resterna av det ursprungliga ljuset från universums barndom."
     },
     {
-      "q": "Varför kallas äldre elliptiska galaxer ibland för röda och döda?",
+      "q": "Hur fungerar Sunyaev-Zel’dovich-effekten?",
       "options": [
-        "De saknar helt stjärnor i sina yttre delar.",
-        "De producerar inte längre några nya, blå stjärnor.",
-        "De har svalnat helt och slutat lysa i rymden."
-      ],
-      "correct": 1,
-      "fact": "Dessa galaxer är fullpackade med åldrande, rödare stjärnpopulationer eftersom nybildningen av stjärnor har avstannat."
-    },
-    {
-      "q": "Vad är klotformiga stjärnhopar för något?",
-      "options": [
-        "Täta klot av miljoner stjärnor som kretsar kring galaxer",
-        "Planeter som har fastnat i omlopp kring svarta hål",
-        "Gasmoln som ännu inte har tänts som stjärnor"
+        "Elektroner i galaxhopar ger bakgrundsstrålningen extra energi",
+        "Sjabbiga stjärnor drar åt sig mörk materia",
+        "Ljus böjs av kring svarta håls horisonter"
       ],
       "correct": 0,
-      "fact": "Klotformiga stjärnhopar är stora sfärer packade med miljontals stjärnor som kretsar kring galaxers centrum som satelliter."
+      "fact": "När ljus från bakgrunden passerar heta elektroner i en galaxhop får fotonerna en liten energiboost."
+    },
+    {
+      "q": "Vad är en galaxhop?",
+      "options": [
+        "En samling av tusentals galaxer samlade av gravitation",
+        "En enskild galax med extra många stjärnor",
+        "Ett moln av gas mellan två stjärnbilder"
+      ],
+      "correct": 0,
+      "fact": "Galaxhopar är några av universums största strukturer och hålls samman av gemensam gravitation."
     }
   ],
   "levels": {
-    "barn": "Tänk dig två stora glittrande stjärnhjul som krockar med varandra i rymden. När de slås ihop rör de om i gas och stoft som en jättestor deg. Det gör att massor av helt nya, skinande stjärnor föds i molnen innan allt lugnar ner sig och bildar en enda stor boll av stjärnor.",
-    "nyborjare": "Bilden visar galaxen NGC 3597, som ligger på ett avstånd av ungefär 150 miljoner ljusår i stjärnbilden Bägaren. Den har uppstått genom en kollision mellan två stora galaxer. När galaxer slås samman slås deras gas och stoft ihop, vilket tänder en sista intensiv våg av stjärnbildning. Ur dessa gasmoln bildas täta ansamlingar som så småningom blir klotformiga stjärnhopar, stora sfärer fyllda med miljontals stjärnor som kretsar kring galaxens centrum.",
-    "entusiast": "NGC 3597 är resultatet av en galaktisk megakollision belägen cirka 150 miljoner ljusår bort i stjärnbilden Bägaren. Systemet ger astronomer en unik inblick i hur elliptiska galaxer bildas i universum. När galaxer slås samman sker en kraftkompression av den tillgängliga gasen och stoftet, vilket triggar en intensiv stjärnbildningsvåg innan galaxen utvecklas mot en äldre elliptisk fas. I systemet syns dussintals protoglobulära kluster som kollapsar till fullt utvecklade klotformiga stjärnhopar, vilka kretsar kring galaxkärnan som satelliter fyllda med miljontals stjärnor."
+    "barn": "Tänk dig en jättestor familj med tusentals glittrande stjärnstäder som kramar om varandra i rymden. Det är en galaxhop. Bilden visar en sådan koloss långt borta. Forskarna har kikat på den med ett rymdteleskop och hittat spår från universums allra första början. Det är som att hitta en gammal skattkista med ljus från när allting skapades för jättelänge sedan.",
+    "nyborjare": "I den här bilden tittar vi på en av universums mest massiva galaxhopar, som ligger fem miljarder ljusår från jorden. Galaxhopar är enorma samlingar av galaxer som hålls samman av gravitation. Genom att studera hopen kan forskare använda den kosmiska bakgrundsstrålningen. Denna strålning är resterna av ljus från universums födelse för nästan 14 miljarder år sedan. När ljuset färdas genom rymden passerar det hopen och träffar högenergetiska elektroner. Det gör att ljuset får en liten energiboost som vi kan upptäcka med specialinstrument.",
+    "entusiast": "Den här observationen från rymdteleskopet Hubble och ALMA-teleskopet i Chile visar galaxhopen RX J1347.5–1145, belägen fem miljarder ljusår bort. Hopen studerades inom ramen för CLASH-projektet för att kartlägga fördelningen av massa och materia. De blå-lila färgerna markerar data från ALMA, där forskare mäter den termiska Sunyaev-Zel’dovich-effekten. Effekten uppstår när fotoner från den kosmiska bakgrundsstrålningen interagerar med het gas och elektroner i hopens intracellulära medium. Genom att mäta hur dessa mikrovågsfotoner får en energiboost kan astronomer förstå universums storskaliga struktur och galaxhoparnas egenskaper."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt system av stjärnor, gas, stoft och mörk materia som hålls samman av gravitation."
+      "term": "galaxhop",
+      "explanation": "En enorm samling av galaxer som binds samman av gemensam gravitation."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas på ett helt år i vakuum."
+      "explanation": "Det avstånd som ljuset hinner färdas på ett helt år."
     },
     {
-      "term": "elliptisk galax",
-      "explanation": "En typ av galax med en äggformad eller klotformig struktur som mest innehåller äldre stjärnor."
+      "term": "kosmiska bakgrundsstrålningen",
+      "explanation": "Svag mikrovågsstrålning som fyller hela universum och utgör resterna av ljuset från tidernas begynnelse."
     },
     {
-      "term": "stjärnbildning",
-      "explanation": "Processen där gasmoln dras samman under sin egen tyngdkraft och bildar nya stjärnor."
-    },
-    {
-      "term": "klotformig stjärnhop",
-      "explanation": "En mycket tät samling av miljontals gamla stjärnor som kretsar kring en galax."
+      "term": "elektroner",
+      "explanation": "Mycket små negativt laddade partiklar som rör sig kring atomernas kärnor."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine two large glittering star wheels crashing into each other out in space. When they smash together, they stir up gas and dust like a giant bowl of dough. This triggers the birth of lots of brand new, shining stars in the clouds before everything settles down to form one big sphere of stars.",
-      "nyborjare": "The image shows the galaxy NGC 3597, located approximately 150 million light-years away in the constellation Crater. It is the product of a collision between two good-sized galaxies. When galaxies smash together, their gas and dust pool together, triggering a final flush of youthful star birth. Within this material, dense pockets form that will eventually collapse into fully-fledged globular clusters, large spheres packed with millions of stars orbiting the galactic center.",
-      "entusiast": "NGC 3597 represents a galactic mega-merger situated about 150 million light-years away in the constellation Crater. The system offers astronomers valuable insight into how elliptical galaxies form through the merger of smaller structures. When galaxies collide, gas and compression trigger a final burst of star formation before the system evolves into an aging elliptical population. Dozens of proto-globular clusters are visible within the gas pockets, destined to collapse into massive globular clusters orbiting the galactic nucleus like satellites."
+      "barn": "Imagine a giant family of thousands of glittering star cities hugging each other in space. That is a galaxy cluster. This picture shows such a colossal structure far away. Scientists have peeked at it using a space telescope and found traces from the very beginning of the universe. It is like finding an old treasure chest filled with light from when everything was created a very long time ago.",
+      "nyborjare": "In this image, we look at one of the most massive known galaxy clusters, located five billion light-years from Earth. Galaxy clusters are immense collections of galaxies held together by gravity. By studying the cluster, researchers can use the cosmic microwave background. This radiation is the leftover light from the birth of the universe nearly 14 billion years ago. As the light travels through space, it passes through the cluster and hits high-energy electrons, giving the photons a small energy boost that we can detect with special instruments.",
+      "entusiast": "This observation by the Hubble Space Telescope and the ALMA array in Chile features the galaxy cluster RX J1347.5–1145, situated five billion light-years away. The cluster was observed as part of the CLASH survey to map the distribution of mass. The blue-purple hues highlight data from ALMA, where researchers measure the thermal Sunyaev-Zel’dovich effect. This effect occurs when photons from the cosmic microwave background interact with hot gas and electrons within the cluster. By measuring how these microwave photons receive an energy boost, astronomers can understand the large-scale structure of the universe."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system of stars, gas, dust, and dark matter held together by gravity."
+        "term": "galaxy cluster",
+        "explanation": "An immense collection of galaxies held together by mutual gravity."
       },
       {
-        "term": "light-year",
-        "explanation": "The distance that light travels in a vacuum during one Earth year."
+        "term": "light-years",
+        "explanation": "The distance that light travels in one Earth year."
       },
       {
-        "term": "elliptical galaxy",
-        "explanation": "A type of galaxy with an egg-shaped or rounded profile mainly containing older stars."
+        "term": "cosmic microwave background",
+        "explanation": "Faint radiation filling the entire universe representing the leftover light from the early cosmos."
       },
       {
-        "term": "star birth",
-        "explanation": "The process where clouds of gas collapse under their own gravity to ignite new stars."
-      },
-      {
-        "term": "globular cluster",
-        "explanation": "A tight spherical collection of millions of stars orbiting a galactic core."
+        "term": "electrons",
+        "explanation": "Very small negatively charged particles orbiting atomic nuclei."
       }
     ],
     "quiz": [
       {
-        "q": "What is formed when two large galaxies collide together?",
+        "q": "What is the cosmic microwave background?",
         "options": [
-          "A giant elliptical galaxy",
-          "An immense supermassive black hole",
-          "A single sprawling spiral galaxy"
+          "Light from the very earliest universe",
+          "Reflected sunlight from the outer Milky Way",
+          "Radiation from supermassive black holes"
         ],
         "correct": 0,
-        "fact": "When galaxies merge, their gas and dust pool together and gradually evolve into a giant elliptical galaxy."
+        "fact": "The cosmic microwave background is faint microwave radiation left over from the early universe."
       },
       {
-        "q": "Why are older elliptical galaxies sometimes called red and dead?",
+        "q": "How does the Sunyaev-Zel’dovich effect work?",
         "options": [
-          "They lack any stars in their outer regions.",
-          "They no longer produce new, bluer stars.",
-          "They have cooled down completely and stopped glowing."
-        ],
-        "correct": 1,
-        "fact": "These bloated galaxies are packed full of old and redder stellar populations because new star formation has ceased."
-      },
-      {
-        "q": "What are globular clusters?",
-        "options": [
-          "Dense spheres of millions of stars orbiting galaxies",
-          "Planets trapped in orbits around massive black holes",
-          "Gas clouds that have not yet ignited as stars"
+          "Electrons in galaxy clusters boost background photons",
+          "Unstable stars pull in dark matter",
+          "Light bends around black hole horizons"
         ],
         "correct": 0,
-        "fact": "Globular clusters are large spheres packed tightly full of millions of stars that orbit the centers of galaxies."
+        "fact": "When background light passes through hot electrons in a galaxy cluster, the photons receive a tiny energy boost."
+      },
+      {
+        "q": "What is a galaxy cluster?",
+        "options": [
+          "A collection of thousands of galaxies bound by gravity",
+          "A single galaxy with an unusually high star count",
+          "A gas cloud situated between two constellations"
+        ],
+        "correct": 0,
+        "fact": "Galaxy clusters are among the largest structures in the universe, held together by mutual gravity."
       }
     ]
   }
