@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-30T16:25:08.806Z",
+ "updated": "2026-10-31T05:44:59.059Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-10-30T06:00:00Z",
+   "date": "2026-10-31T00:00:00Z",
    "title_sv": "Tyfonen In-fa",
    "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 230 km/h",
-   "value_en": "winds of 230 km/h"
+   "value_sv": "vindar på 215 km/h",
+   "value_en": "winds of 215 km/h"
   },
   {
    "kind": "storm",

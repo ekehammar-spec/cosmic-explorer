@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-10-31",
+  "title": "Ice Island Calves off Petermann Glacier",
+  "title_sv": "Isö bryts loss från Petermann-glaciären",
+  "place": "Petermann-glaciären, Grönland",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002002/GSFC_20171208_Archive_e002002~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002002/GSFC_20171208_Archive_e002002~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002002/GSFC_20171208_Archive_e002002~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002002",
+  "credit": "NASA Earth Observatory image created by Jesse Allen, using data provided courtesy of NASA/GSFC/METI/ERSDAC/JAROS, and U",
+  "source": "NASA Earth Observatory image created by Jesse Allen, using data provided courtesy of NASA/GSFC/METI/ERSDAC/JAROS, and U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e002002",
+  "archive": true,
+  "px": [
+    1280,
+    847
+  ],
+  "w": 640,
+  "h": 423,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQMEB//EACkQAAIBAgUDAgcAAAAAAAAAAAECBAADBRESITETQXEiYRQjMlGBsfD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAAME/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAxExIf/aAAwDAQACEQMRAD8AdJUopGDKpO+/tS1jc+wD02LIo3cjv7Ad6hJ8+Y+i5IKW220ooAO9aF3DFabmSzEHMljn+a7JnzRi2KV2482fcQnpl7mQQKWYj+/dZJkCTFBZ4jxi6AeptQ43A8/auhRoEWL81LNtGb6nC+o+aV8dlSpk74e0FSGWGYJ0s/kngUXjUolbpjXiEe3YkW7lsaS3I7VWKzHESwYgcZdqKKeynha2kKpmzFuao8csI2g5bgE0UUL4OT//2Q==",
+  "levels": {
+    "barn": "Bilden är tagen från rymden och visar en stor bit is som har brutit sig loss från en glaciär år 2010. På den här bilden är isen ljusblå och vattnet nästan svart. Den stora isbiten flyter långsamt iväg i vattnet efter att den lossnade. Moln syns som vita strimmor ovanför, men man kan ändå se kanterna på den jättestora isön som flöt iväg mot ett sund.",
+    "nyborjare": "Denna satellitbild togs i augusti 2010 och visar en jättelik isö som bröt sig loss från Petermann-glaciären den 5 augusti samma år. Efter lossnandet började isön flyta långsamt ner genom fjorden mot Nares sund. Bilden är en så kallad falskfärgsbild tagen av instrumentet ASTER som sitter på NASA-satelliten Terra. I denna färgkodning syns is i ljusblått, vatten i nästan svart och moln i nästan vitt. Även om tunna moln låg över fjorden syntes den södra kanten av isön tydligt, medan den norra kanten behöll samma form som den hade direkt efter att den bröts loss.",
+    "entusiast": "Satellitbilden togs den 11 augusti 2010 av instrumentet Advanced Spaceborne Thermal Emission and Reflection Radiometer, förkortat ASTER, vilket är placerat ombord på NASA-satelliten Terra. Bilden är en falskfärgsbild där is återges i ljusblått, vatten framstår som nästan svart och moln syns som nästan vita partier. Motivet visar hur en massiv isö, som kalvade från Petermann-glaciären den 5 augusti 2010, flyter långsamt nerför fjorden i riktning mot Nares sund. Trots att ett lager av tunna moln svävade över fjorden kunde den södra kanten av isön urskiljas. Mot norr behöll isöns framkant den exakta form den hade haft några dagar tidigare vid själva kalvningstillfället. Bilden skapades av Jesse Allen vid NASA Earth Observatory med data från NASA, GSFC, METI, ERSDAC, JAROS och US/Japan ASTER Science Team, med bildtext skriven av Michon Scott."
+  },
+  "terms": [
+    {
+      "term": "Petermann-glaciären",
+      "explanation": "En glaciär från vilken en massiv isö bröt sig loss i augusti 2010."
+    },
+    {
+      "term": "ASTER",
+      "explanation": "Ett instrument som sitter på NASA-satelliten Terra och som fångade bilden i falska färger."
+    },
+    {
+      "term": "Terra",
+      "explanation": "En satellit tillhörande NASA som bar instrumentet ASTER."
+    },
+    {
+      "term": "Nares sund",
+      "explanation": "Ett sund dit den stora isön flöt långsamt efter att den lossnade från glaciären."
+    },
+    {
+      "term": "NASA Earth Observatory",
+      "explanation": "En organisation som tillhandahöll satellitbilden skapad av Jesse Allen."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This space image shows a huge piece of ice that broke off a glacier in 2010. In this picture, ice is light blue and water is almost black. The large ice island floats slowly away in the water after breaking off. Clouds look like white streaks above, but you can still see the edges of the giant ice island as it floated toward a strait.",
+      "nyborjare": "This satellite image was taken in August 2010 and shows a gigantic ice island that broke off the Petermann Glacier on August 5 of that same year. After breaking off, the ice island began to float slowly down the fjord toward the Nares Strait. The image is a false-color picture captured by the ASTER instrument on NASA's Terra satellite. In this color scheme, ice appears light blue, water is nearly black, and clouds are nearly white. Although thin clouds hovered over the fjord, the southern margin of the ice island remained visible, while the northern leading edge retained the exact shape it had during the initial calving.",
+      "entusiast": "The satellite image was acquired on August 11, 2010, by the Advanced Spaceborne Thermal Emission and Reflection Radiometer, abbreviated as ASTER, which is an instrument aboard NASA's Terra satellite. The image is a false-color representation where ice is rendered in light blue, water appears nearly black, and clouds show up as nearly white. The subject depicts a massive ice island that calved from the Petermann Glacier on August 5, 2010, floating slowly down the fjord toward the Nares Strait. Despite a bank of thin clouds hovering over the fjord, the southernmost margin of the ice island was still visible. Toward the north, the leading edge of the ice island retained the same shape it had days earlier at the time of the initial calving. The image was created by Jesse Allen at the NASA Earth Observatory using data provided by NASA, GSFC, METI, ERSDAC, JAROS, and the U.S./Japan ASTER Science Team, with a caption written by Michon Scott."
+    },
+    "terms": [
+      {
+        "term": "Petermann Glacier",
+        "explanation": "A glacier from which a massive ice island broke off in August 2010."
+      },
+      {
+        "term": "ASTER",
+        "explanation": "An instrument on NASA's Terra satellite that captured the false-color image."
+      },
+      {
+        "term": "Terra",
+        "explanation": "A NASA satellite carrying the ASTER instrument."
+      },
+      {
+        "term": "Nares Strait",
+        "explanation": "A strait toward which the large ice island floated slowly after breaking off."
+      },
+      {
+        "term": "NASA Earth Observatory",
+        "explanation": "An organization that provided the satellite image created by Jesse Allen."
+      }
+    ],
+    "place": "Petermann Glacier, Greenland"
+  }
+}

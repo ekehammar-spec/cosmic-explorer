@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-10-31",
+  "media_type": "image",
+  "title": "Spiralgalax och gravitationslins sedda av Hubble",
+  "title_en": "NASA's Hubble Marks Way for Roman Space Telescope",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg?w=480"
+ },
+ {
   "date": "2026-10-30",
   "media_type": "image",
   "title": "Nordamerikanebulosan",
@@ -107,9 +114,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Spiralgalaxen NGC 4248",
-  "title_en": "Hubble's Cosmic Atlas",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~small.jpg"
+  "title": "Galaktisk megakollision i NGC 3597",
+  "title_en": "Hubble Views a Galactic Mega-merger",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000438/GSFC_20171208_Archive_e000438~small.jpg"
  },
  {
   "date": "2026-10-14",

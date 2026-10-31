@@ -2,141 +2,141 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble's Cosmic Atlas",
-  "title_sv": "Spiralgalaxen NGC 4248",
+  "title": "Hubble Views a Galactic Mega-merger",
+  "title_sv": "Galaktisk megakollision i NGC 3597",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000013/GSFC_20171208_Archive_e000013~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000013",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000438/GSFC_20171208_Archive_e000438~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000438/GSFC_20171208_Archive_e000438~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000438/GSFC_20171208_Archive_e000438~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000438",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000013",
+  "id": "GSFC_20171208_Archive_e000438",
   "px": [
-    1041,
-    833
+    1280,
+    1216
   ],
   "w": 640,
-  "h": 512,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYBAgADBP/EACEQAAICAAYDAQAAAAAAAAAAAAECAAMEBREhMVESImFx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AEgUt1MNLdQnQUOzQmmEw16etgDfRCtQrGs9SjIRGmzJX3K+LjnVTB1+XsFdvUeHIJ0J/O5UQOS4ib1xbLwZwiTGCileZWJwx3lbcezjfeDZBhDX/9k=",
+  "h": 608,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgUDBAYB/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQACAxEEIQVBEhMiMXH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAREhMf/aAAwDAQACEQMRAD8AwLIi8aCL1EdKXGOq0P1N+Nwo82cMkmLW1WhtVuKEQYT0uOZQW1zODx8WMyMljePFZzKx2M8q+lS6bM6WRvIVmHKfEQWkghUgUYclkydyUzx8nE2qskziN9qK7sjoICbR4X//2Q==",
   "quiz": [
     {
-      "q": "Vad är en spiralgalax primärt uppbyggd av?",
+      "q": "Vad bildas när två stora galaxer krockar med varandra?",
       "options": [
-        "Enbart fasta stenblock och is",
-        "Stjärnor, gas och interstellärt stoft",
-        "Koncentrerad flytande plasma och vatten"
-      ],
-      "correct": 1,
-      "fact": "Spiralgalaxer består av enorma mängder stjärnor samt gas och stoft som hålls samman av gravitation."
-    },
-    {
-      "q": "Varför studerar astronomer unga stjärnhopar i galaxer?",
-      "options": [
-        "För att förstå stjärnornas bildning och evolution",
-        "För att mäta galaxens exakta yttemperatur",
-        "För att hitta spår av främmande civilisationer"
+        "En gigantisk elliptisk galax",
+        "Ett enormt supermassivt svart hål",
+        "En enda vidsträckt spiralgalax"
       ],
       "correct": 0,
-      "fact": "Genom att studera hur massiva stjärnor bildas lär sig astronomer mer om universums stjärnbildningshistoria."
+      "fact": "När galaxer slås samman töms gas och stoft ut och bildar efter hand en jättelik elliptisk galax."
     },
     {
-      "q": "Vad är det interstellära mediet för något?",
+      "q": "Varför kallas äldre elliptiska galaxer ibland för röda och döda?",
       "options": [
-        "Det tomma rummet mellan olika galaxkluster",
-        "Gas och stoft som fyller utrymmet mellan stjärnorna",
-        "Ljusstrålningen som färdas från avlägsna kvasarer"
+        "De saknar helt stjärnor i sina yttre delar.",
+        "De producerar inte längre några nya, blå stjärnor.",
+        "De har svalnat helt och slutat lysa i rymden."
       ],
       "correct": 1,
-      "fact": "Det interstellära mediet är den materia i form av gas och stoft som finns i utrymmet mellan stjärnorna."
+      "fact": "Dessa galaxer är fullpackade med åldrande, rödare stjärnpopulationer eftersom nybildningen av stjärnor har avstannat."
+    },
+    {
+      "q": "Vad är klotformiga stjärnhopar för något?",
+      "options": [
+        "Täta klot av miljoner stjärnor som kretsar kring galaxer",
+        "Planeter som har fastnat i omlopp kring svarta hål",
+        "Gasmoln som ännu inte har tänts som stjärnor"
+      ],
+      "correct": 0,
+      "fact": "Klotformiga stjärnhopar är stora sfärer packade med miljontals stjärnor som kretsar kring galaxers centrum som satelliter."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor och glittrande snurra långt ute i rymden. Den här galaxen är full av lysande stjärnor, glödande gas och mörkt stoft som snurrar runt i långsamma virvlar. Det ser ut som ett glimrande fyrverkeri som har fastnat på natthimlen för evigt.",
-    "nyborjare": "Den vackra spiralgalaxen NGC 4248 ligger cirka 24 miljoner ljusår bort i stjärnbilden Jakthundarna. Bilden har tagits med rymdteleskopet Hubble för att bygga upp den första ultravioletta atlasen över närliggande stjärnbildande galaxer. Astronomer studerar galaxens stjärnor, gas och mörka stoft för att förstå hur stjärnor föds och utvecklas över tid. Det ger oss viktig kunskap om universums stjärnbildningshistoria och hur processen påverkas av den omgivande miljön.",
-    "entusiast": "NGC 4248 är en av de närliggande stjärnbildande galaxerna som valts ut för att sammanställa Hubbles första ultravioletta atlas. Med hjälp av instrumentet Wide Field Camera 3 har astronomer fångat de komplexa morfologierna, massorna och strukturerna i detta system på tjugofyra miljoner ljusårs avstånd. UV-observationer är särskilt värdefulla eftersom de avslöjar unga och heta stjärnor som lyser starkt i detta spektrum. Genom att kartlägga hur massiva stjärnor bildas och utvecklas i skiftande miljöer kan forskare koppla samman stjärnhoparnas evolution med värdgalaxens egenskaper och det interstellära mediet, vilket ger en djupare förståelse för stjärnbildningens storskaliga kretslopp i universum."
+    "barn": "Tänk dig två stora glittrande stjärnhjul som krockar med varandra i rymden. När de slås ihop rör de om i gas och stoft som en jättestor deg. Det gör att massor av helt nya, skinande stjärnor föds i molnen innan allt lugnar ner sig och bildar en enda stor boll av stjärnor.",
+    "nyborjare": "Bilden visar galaxen NGC 3597, som ligger på ett avstånd av ungefär 150 miljoner ljusår i stjärnbilden Bägaren. Den har uppstått genom en kollision mellan två stora galaxer. När galaxer slås samman slås deras gas och stoft ihop, vilket tänder en sista intensiv våg av stjärnbildning. Ur dessa gasmoln bildas täta ansamlingar som så småningom blir klotformiga stjärnhopar, stora sfärer fyllda med miljontals stjärnor som kretsar kring galaxens centrum.",
+    "entusiast": "NGC 3597 är resultatet av en galaktisk megakollision belägen cirka 150 miljoner ljusår bort i stjärnbilden Bägaren. Systemet ger astronomer en unik inblick i hur elliptiska galaxer bildas i universum. När galaxer slås samman sker en kraftkompression av den tillgängliga gasen och stoftet, vilket triggar en intensiv stjärnbildningsvåg innan galaxen utvecklas mot en äldre elliptisk fas. I systemet syns dussintals protoglobulära kluster som kollapsar till fullt utvecklade klotformiga stjärnhopar, vilka kretsar kring galaxkärnan som satelliter fyllda med miljontals stjärnor."
   },
   "terms": [
     {
       "term": "galax",
-      "explanation": "Ett enormt system av miljarder stjärnor, gas och stoft som hålls samman av gravitationen."
+      "explanation": "Ett enormt system av stjärnor, gas, stoft och mörk materia som hålls samman av gravitation."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas på ett helt år i det tomma rymdutrymmet."
+      "explanation": "Det avstånd som ljuset hinner färdas på ett helt år i vakuum."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett avancerat astronomiskt instrument som placerats i omloppsbana ovanför jordens atmosfär."
+      "term": "elliptisk galax",
+      "explanation": "En typ av galax med en äggformad eller klotformig struktur som mest innehåller äldre stjärnor."
     },
     {
-      "term": "interstellära",
-      "explanation": "Det som befinner sig i rymden mellan de enskilda stjärnorna i ett stjärnsystem."
+      "term": "stjärnbildning",
+      "explanation": "Processen där gasmoln dras samman under sin egen tyngdkraft och bildar nya stjärnor."
     },
     {
-      "term": "morfologier",
-      "explanation": "Läran om himlakroppars och galaxers yttre uppbyggnad och fysiska form."
+      "term": "klotformig stjärnhop",
+      "explanation": "En mycket tät samling av miljontals gamla stjärnor som kretsar kring en galax."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant glittering pinwheel far out in space. This galaxy is full of shining stars, glowing gas, and dark dust swirling around slowly. It looks like a sparkling firework frozen forever in the night sky.",
-      "nyborjare": "The beautiful spiral galaxy NGC 4248 is located about twenty-four million light-years away in the constellation Canes Venatici. The image was captured by the Hubble Space Telescope to build the first ultraviolet atlas of nearby star-forming galaxies. Astronomers study the stars, gas, and dark dust within the galaxy to understand how stars are born and evolve over time. This gives us important knowledge about the history of star formation in the universe.",
-      "entusiast": "NGC 4248 is one of the nearby star-forming galaxies selected to compile Hubble's first ultraviolet atlas. Using the Wide Field Camera 3 instrument, astronomers captured the complex morphologies, masses, and structures of this system at a distance of twenty-four million light-years. Ultraviolet observations are particularly valuable because they reveal young and hot stars shining brightly in this spectrum. By mapping how massive stars form and evolve in diverse environments, researchers can connect star cluster evolution with host galaxy properties and the interstellar medium, providing a deeper understanding of the grand cycle of star formation."
+      "barn": "Imagine two large glittering star wheels crashing into each other out in space. When they smash together, they stir up gas and dust like a giant bowl of dough. This triggers the birth of lots of brand new, shining stars in the clouds before everything settles down to form one big sphere of stars.",
+      "nyborjare": "The image shows the galaxy NGC 3597, located approximately 150 million light-years away in the constellation Crater. It is the product of a collision between two good-sized galaxies. When galaxies smash together, their gas and dust pool together, triggering a final flush of youthful star birth. Within this material, dense pockets form that will eventually collapse into fully-fledged globular clusters, large spheres packed with millions of stars orbiting the galactic center.",
+      "entusiast": "NGC 3597 represents a galactic mega-merger situated about 150 million light-years away in the constellation Crater. The system offers astronomers valuable insight into how elliptical galaxies form through the merger of smaller structures. When galaxies collide, gas and compression trigger a final burst of star formation before the system evolves into an aging elliptical population. Dozens of proto-globular clusters are visible within the gas pockets, destined to collapse into massive globular clusters orbiting the galactic nucleus like satellites."
     },
     "terms": [
       {
         "term": "galaxy",
-        "explanation": "A massive system of billions of stars, gas, and dust held together by gravity."
+        "explanation": "A massive system of stars, gas, dust, and dark matter held together by gravity."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance that a beam of light travels through empty space in one Earth year."
+        "term": "light-year",
+        "explanation": "The distance that light travels in a vacuum during one Earth year."
       },
       {
-        "term": "telescope",
-        "explanation": "An advanced astronomical instrument placed in orbit above the atmosphere of the Earth."
+        "term": "elliptical galaxy",
+        "explanation": "A type of galaxy with an egg-shaped or rounded profile mainly containing older stars."
       },
       {
-        "term": "interstellar",
-        "explanation": "The material and space existing situated between individual stars inside a galaxy."
+        "term": "star birth",
+        "explanation": "The process where clouds of gas collapse under their own gravity to ignite new stars."
       },
       {
-        "term": "morphologies",
-        "explanation": "The scientific study of the physical form and structural layout of celestial objects."
+        "term": "globular cluster",
+        "explanation": "A tight spherical collection of millions of stars orbiting a galactic core."
       }
     ],
     "quiz": [
       {
-        "q": "What is a spiral galaxy primarily built from?",
+        "q": "What is formed when two large galaxies collide together?",
         "options": [
-          "Solely solid rock and pure ice blocks",
-          "Stars, gas, and interstellar dust",
-          "Concentrated liquid plasma and water"
-        ],
-        "correct": 1,
-        "fact": "Spiral galaxies consist of immense amounts of stars along with gas and dust held together by gravity."
-      },
-      {
-        "q": "Why do astronomers study young star clusters in galaxies?",
-        "options": [
-          "To understand star formation and stellar evolution",
-          "To measure the exact surface temperature of the galaxy",
-          "To search for traces of alien civilizations"
+          "A giant elliptical galaxy",
+          "An immense supermassive black hole",
+          "A single sprawling spiral galaxy"
         ],
         "correct": 0,
-        "fact": "By studying how massive stars form, astronomers learn more about the star formation history of the universe."
+        "fact": "When galaxies merge, their gas and dust pool together and gradually evolve into a giant elliptical galaxy."
       },
       {
-        "q": "What is the interstellar medium?",
+        "q": "Why are older elliptical galaxies sometimes called red and dead?",
         "options": [
-          "The empty space located between separate galaxy clusters",
-          "Gas and dust filling the space between stars",
-          "Radiation traveling from distant luminous quasars"
+          "They lack any stars in their outer regions.",
+          "They no longer produce new, bluer stars.",
+          "They have cooled down completely and stopped glowing."
         ],
         "correct": 1,
-        "fact": "The interstellar medium is the matter in the form of gas and dust found in the space between stars."
+        "fact": "These bloated galaxies are packed full of old and redder stellar populations because new star formation has ceased."
+      },
+      {
+        "q": "What are globular clusters?",
+        "options": [
+          "Dense spheres of millions of stars orbiting galaxies",
+          "Planets trapped in orbits around massive black holes",
+          "Gas clouds that have not yet ignited as stars"
+        ],
+        "correct": 0,
+        "fact": "Globular clusters are large spheres packed tightly full of millions of stars that orbit the centers of galaxies."
       }
     ]
   }

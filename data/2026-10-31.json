@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-10-31",
+  "title": "NASA's Hubble Marks Way for Roman Space Telescope",
+  "title_sv": "Spiralgalax och gravitationslins sedda av Hubble",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg",
+  "link": "https://www.nasa.gov/image-detail/55606049603-e8822462fe-o/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/55606049603-e8822462fe-o/",
+  "px": [
+    1599,
+    1520
+  ],
+  "w": 480,
+  "h": 456,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECBAf/xAAhEAABBAICAgMAAAAAAAAAAAABAAIDERIhBDFBUWGRwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A52UkJgXeiUAWkC617SRSOkFDQIrtauHy28dkrXRNkEjcd+PlZLVyRmNsbjRD25D7r8VEuNm/aVdoT1j5yUH/2Q==",
+  "quiz": [
+    {
+      "q": "Vad böjer ljuset kring en gravitationslins?",
+      "options": [
+        "Tung massa som kröker rumtiden",
+        "Intensiv strålning från heta stjärnor",
+        "Kraftiga magnetfält i rymdens tomrum"
+      ],
+      "correct": 0,
+      "fact": "Enligt den allmänna relativitetsteorin kröker stora massor rumtiden, vilket får passerande ljus att böjas."
+    },
+    {
+      "q": "Vilken form har galaxen i bildens mitt?",
+      "options": [
+        "Elliptisk galax",
+        "Spiralgalax",
+        "Linsformad galax"
+      ],
+      "correct": 1,
+      "fact": "Centrum pryds av en spiralgalax med tydliga armar som vindlar sig runt kärnan."
+    },
+    {
+      "q": "Vad kallas det när en gravitationslins bildar en ljuscirkel?",
+      "options": [
+        "Saturnusring",
+        "Kromosfär",
+        "Einsteinring"
+      ],
+      "correct": 2,
+      "fact": "Om linsen och bakgrundsobjektet ligger på en rak linje formas ljuset till en så kallad Einsteinring."
+    }
+  ],
+  "levels": {
+    "barn": "Titta på den vackra virveln i mitten! Det är en spiralgalax, som snurrar i rymden ungefär som vatten när du drar ur proppen i badkaret. Den består av miljarder glittrande stjärnor.\n\nUppe i hörnet syns konstiga böjda ljusbågar. Där finns ett enormt och tungt föremål som fungerar som ett gigantiskt förstoringsglas i rymden. Forskare kallar det för en gravitationslins. Den böjer ljuset från avlägsna stjärnor som gömmer sig långt bakom, så att ljuset kröks och sträcks ut.",
+    "nyborjare": "Denna bild från rymdteleskopet Hubble bjuder på två spektakulära fenomen i ett och samma synfält. I mitten framträder en vacker spiralgalax med vindlande armar av stjärnor och stoft.\n\nI det övre högra hörnet syns samtidigt en dramatisk gravitationslins. Fenomenet uppstår när ett mycket massivt objekt, exempelvis en stor galaxhop, kröker den omgivande väven av rumtid. När ljuset från bakomliggande galaxer passerar denna krökning böjs ljusstrålarna på samma sätt som i en optisk glaslins. Effekten förstärker och förvränger det avlägsna ljuset till lysande bågar. Bilden hjälper forskare att förbereda observationer med framtida observatorier som Nancy Grace Roman Space Telescope.",
+    "entusiast": "Detta djupa synfält från rymdteleskopet Hubble demonstrerar samspelet mellan galaxmorfologi och gravitationslinsning. Bildens centrala motiv är en storslagen spiralgalax vars utsträckta armar uppvisar dynamiska densitetsvågor och områden med aktiv stjärnbildning.\n\nI bildens utkant framträder samtidigt en tydlig gravitationslins. Enligt Albert Einsteins allmänna relativitetsteori deformerar massiva strukturer som en galaxhop geometrin hos rumtid. När fotoner från mer avlägsna bakgrundskällor passerar denna gravitationsbrunn följer de krökta banor mot observatören. Detta resulterar i gravitationell mikrolinsning, förstorade ljusbågar och multipla bilder av samma bakomliggande källa.\n\nSådana naturliga kosmiska teleskop låter astronomer utforska tidiga, ljussvaga galaxer som annars vore omöjliga att urskilja. Observationer av denna typ ger värdefull referensdata inför Nancy Grace Roman Space Telescope, vars breda infraröda instrumentering ska kartlägga storskalig linsverkan och fördelningen av mörk materia över vida fält."
+  },
+  "terms": [
+    {
+      "term": "spiralgalax",
+      "explanation": "En roterande galax vars stjärnor och gas bildar utsträckta spiralarmar runt ett tätt centrum."
+    },
+    {
+      "term": "gravitationslins",
+      "explanation": "Ett massivt objekt vars tyngdkraft böjer och förstärker ljuset från mer avlägsna himlakroppar."
+    },
+    {
+      "term": "rumtid",
+      "explanation": "Den fyrdimensionella fysikaliska väv som förenar rummets tre dimensioner med tiden."
+    },
+    {
+      "term": "galaxhop",
+      "explanation": "En gravitationellt bunden samling av hundratals eller tusentals galaxer."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the beautiful swirl right in the center! That is a spiral galaxy, spinning in deep space just like water swirling down a bathtub drain. It holds billions of bright stars.\n\nUp in the corner, you can spot strange curved streaks of light. That is a gravitational lens, which acts like a giant magnifying glass in space. Its immense weight bends light coming from even farther away, stretching it out into bright cosmic arcs!",
+      "nyborjare": "This view from the Hubble Space Telescope captures two extraordinary cosmic features in a single frame. At the center lies an elegant spiral galaxy with graceful arms of stars and interstellar dust.\n\nToward the upper right corner, a vivid gravitational lens distorts the distant backdrop. A gravitational lens forms when an enormous mass, such as a massive galaxy cluster, warps the surrounding fabric of spacetime. As light from galaxies far behind the cluster travels through this curved space, its path bends just like light passing through a glass lens. This natural telescope magnifies faint background objects, providing valuable preparation for future missions like the Nancy Grace Roman Space Telescope.",
+      "entusiast": "This deep field from the Hubble Space Telescope highlights both detailed galactic morphology and the physics of gravitational lensing. The frame is anchored by an expansive spiral galaxy displaying clear density waves and ongoing star formation across its winding arms.\n\nNear the corner of the field, strong gravitational lensing creates magnified, distorted arcs. In accordance with general relativity, the concentrated mass of a foreground galaxy cluster curves local spacetime. Light emitted by distant background galaxies travels along these warped geodesics, producing sheared arcs and multiple images.\n\nThese natural cosmic telescopes enable astronomers to inspect faint, early galaxies that would otherwise remain undetectable. Analyzing these distortions helps map the distribution of dark matter across cosmic scales, laying the groundwork for the wide-field survey capabilities of the upcoming Nancy Grace Roman Space Telescope."
+    },
+    "terms": [
+      {
+        "term": "spiral galaxy",
+        "explanation": "A rotating galaxy with flat spiral arms winding outward from a central core."
+      },
+      {
+        "term": "gravitational lens",
+        "explanation": "A massive celestial object that bends and magnifies light from objects positioned behind it."
+      },
+      {
+        "term": "spacetime",
+        "explanation": "The four-dimensional physical continuum that weaves three-dimensional space together with time."
+      },
+      {
+        "term": "galaxy cluster",
+        "explanation": "A gravitationally bound structure containing hundreds or thousands of individual galaxies."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What bends light around a gravitational lens?",
+        "options": [
+          "Heavy mass that curves spacetime",
+          "Intense radiation from hot stars",
+          "Strong magnetic fields in empty space"
+        ],
+        "correct": 0,
+        "fact": "According to general relativity, massive objects curve spacetime, which deflects the path of passing light."
+      },
+      {
+        "q": "What shape does the galaxy in the center have?",
+        "options": [
+          "Elliptical galaxy",
+          "Spiral galaxy",
+          "Lenticular galaxy"
+        ],
+        "correct": 1,
+        "fact": "The center features an elegant spiral galaxy with distinct winding arms around its nucleus."
+      },
+      {
+        "q": "What is a circular gravitational lens feature called?",
+        "options": [
+          "Saturn ring",
+          "Chromosphere",
+          "Einstein ring"
+        ],
+        "correct": 2,
+        "fact": "When the background source and the lens align precisely, the deflected light forms an Einstein ring."
+      }
+    ]
+  }
+}
