@@ -2,141 +2,145 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Peers into the Most Crowded Place in the Milky Way",
-  "title_sv": "Arches-hopen: Vintergatans mest tätbefolkade plats",
+  "title": "A Star-Formation Laboratory",
+  "title_sv": "Dvärggalaxen NGC 4214",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000717/GSFC_20171208_Archive_e000717~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000717/GSFC_20171208_Archive_e000717~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000717/GSFC_20171208_Archive_e000717~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000717",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/GSFC_20171208_Archive_e001894~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/GSFC_20171208_Archive_e001894~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/GSFC_20171208_Archive_e001894~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001894",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000717",
+  "id": "GSFC_20171208_Archive_e001894",
   "px": [
     1280,
-    1143
+    953
   ],
   "w": 640,
-  "h": 571,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAwABAgQFBv/EACYQAAIBAwMEAQUAAAAAAAAAAAECAwARIRIxQQQTUXEFFCJCkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A8ewMbKHRlJyCfyqlkIO2Bknm1KYZZFUytqsAFuTt4pOm6PvdSsWsKWxe9gPdKBMo7TXa+QR4xRrIVuy7jIvxWPyUH03U9kOJLbleDRxaBZVY3/lRXVRwW08HgnB90c/2x3B0kEi/FPIojjDLuSRn1WvLK1m2N8ZFGY58rtM6iy4BuaqRFXTp8fuowsxt5qTIC2bmxpGn/9k=",
+  "h": 476,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAjEAACAgEEAQUBAAAAAAAAAAABAgARAwQSIUEFEyIxUWHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8Axgw/kkGG43waP38/HfHUup4TIrI3AGT4s81+wSVTCvF4rTnQDUZ85xMxIQVe6h/CKMqAAsCoANbb5jrW7tKfTZiSlqFbkD7iTMPcT9wlrVDWUqJYCjuuRIM/kszLQYihV9mEINqm4TanM+R2Zm3MTyTKj9whNCV//9k=",
   "quiz": [
     {
-      "q": "Varför måste astronomer använda infrarött ljus för att se Arches-hopen?",
+      "q": "Vad består en dvärggalax som NGC 4214 huvudsakligen av?",
       "options": [
-        "Stjärnorna sänder inte ut något synligt ljus alls.",
-        "Täta stoftmoln blockerar det vanliga synliga ljuset.",
-        "Jordens atmosfär reflekterar bort stjärnornas ljus."
+        "En enda gigantisk stjärnhop",
+        "Några miljarder stjärnor, gas och stoft",
+        "Enbart mörk materia och gasmoln"
       ],
       "correct": 1,
-      "fact": "Gigantiska kosmiska stoftmoln mot Vintergatans mitt blockerar synligt ljus, medan infraröd strålning tränger rakt igenom."
+      "fact": "Dvärggalaxer innehåller oftast från några miljoner upp till några miljarder stjärnor, vilket är betydligt färre än i stora spiralgalaxer som Vintergatan."
     },
     {
-      "q": "Hur slutar livet för de tyngsta stjärnorna i Arches-hopen?",
+      "q": "Varför lyser vätgasen i galaxens stjärnbildande områden?",
       "options": [
-        "De krymper långsamt till kalla vita dvärgar.",
-        "De slits i bitar av galaxens gravitation.",
-        "De exploderar i våldsamma supernovor."
+        "Gasen reflekterar ljus från närliggande kometer",
+        "Radioaktivt sönderfall värmer upp stoftet",
+        "Unga heta stjärnor joniserar omgivande gas"
       ],
       "correct": 2,
-      "fact": "De massiva stjärnorna förbrukar sitt bränsle på några få miljoner år och exploderar sedan som supernovor."
+      "fact": "Intensiv ultraviolett strålning från nyfödda massiva stjärnor joniserar vätgasen och får den att glöda kraftigt i rött sken."
     },
     {
-      "q": "Var i vår galax ligger stjärnhopen Arches?",
+      "q": "Vilken stjärntyp representerar ett sent stadium i stjärnors utveckling?",
       "options": [
-        "Nära Vintergatans centrum i stjärnbilden Skytten.",
-        "I galaxens allra yttersta kant bortom spiralarmarna.",
-        "I närheten av vårt eget solsystem i Orionarmen."
+        "Röd superjätte",
+        "Protostjärna",
+        "Blå huvudseriestjärna"
       ],
       "correct": 0,
-      "fact": "Arches-hopen ligger cirka 25 000 ljusår bort, mycket nära det supermassiva svarta hålet i Vintergatans mitt."
+      "fact": "Röda superjättar är åldrande stjärnor med stor massa som har förbrukat vätet i sin kärna och svällt upp enormt."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att alla elever på tusen skolor skulle trängas på en enda liten skolgård. Ungefär så trångt är det i den här glittrande stjärnhopen! Den kallas Arches och är den tätaste stjärnhopen i hela vår galax, Vintergatan.   Här finns massor av jättestora och heta stjärnor som lyser urstarkt. Mellan jorden och stjärnorna finns tjocka moln av rymddamm. Därför måste rymdteleskopet Hubble använda en speciell värmekamera för att kunna se stjärnorna genom dammet.",
-    "nyborjare": "På denna bild från 2015 riktar rymdteleskopet Hubble blicken mot Arches-hopen, den tätaste kända stjärnhopen i Vintergatan. Den ligger ungefär 25 000 ljusår från jorden, nära galaxens hjärta i stjärnbilden Skytten.   Hopen är bara mellan två och fyra miljoner år gammal, vilket är ungt i rymdsammanhang. Trängseln här är otrolig. På en yta motsvarande avståndet mellan solen och dess närmaste grannstjärna trängs över 100 000 stjärnor. Minst 150 av dem hör till galaxens absolut mest ljusstarka.   Trots sin enorma lyskraft kan Arches-hopen inte ses med blotta ögat. Enorma stoftmoln skymmer sikten, och teleskop måste därför fånga infrarött ljus som kan tränga igenom stoftet.",
-    "entusiast": "Arches-hopen representerar ett av de mest extrema stjärnlaboratorierna i vår galax. Denna bild från 2015 togs med rymdteleskopet Hubble i nära infrarött ljus, vilket markerade ett stort tekniskt kliv framåt jämfört med observationer från 1999. På grund av extrem interstellär extinktion från täta stoftmoln i Vintergatans plan är hopen helt osynlig vid optiska våglängder. Astronomer måste därför förlita sig på infraröd strålning, röntgen och radiovågor för att studera den.  Hopen ligger cirka 25 000 ljusår bort i stjärnbilden Skytten, endast 100 ljusår från det supermassiva svarta hålet Sagittarius A*. Med en ålder på bara två till fyra miljoner år är den anmärkningsvärt ung. Stjärntätheten är häpnadsväckande hög: i dess kärna ryms över 100 000 stjärnor inom en radie motsvarande avståndet från solen till Proxima Centauri.  Arches hyser minst 150 extremt massiva Wolf-Rayet-stjärnor och O-stjärnor. Dessa jättar förbränner sitt kärnbränsle i ursinnig takt och lever bara några miljoner år innan de detonerar som supernovor. Den intensiva stjärnvinden och de korta livscyklerna har anrikat den omgivande gasen med ovanligt höga halter av tyngre grundämnen, vilket ger viktiga ledtrådar om stjärnbildning i galaxkärnornas extrema miljöer."
+    "barn": "Titta på den här glittrande rymdstaden! Det är en dvärggalax som kallas NGC 4214. Den är som en lillasyster till vår egen galax Vintergatan. Här föds massor av nya stjärnor i stora, lysande gasmoln. Det ser nästan ut som ett sprakande fyrverkeri på natthimlen. Nyfödda stjärnor blåser bort gasen omkring sig och skapar tomma bubblor i rymden, ungefär som när du blåser såpbubblor. Samtidigt finns det äldre stjärnor som vilar lugnt bredvid de nyfödda bebisstjärnorna.",
+    "nyborjare": "Bilden togs av rymdteleskopet Hubble år 2009 och visar NGC 4214, en dvärggalax ungefär tio miljoner ljusår bort i stjärnbilden Jakthundarna. En dvärggalax är en mindre samling stjärnor jämfört med jättar som Vintergatan, men NGC 4214 sjuder ändå av livlig aktivitet. Området fungerar som ett fantastiskt laboratorium där astronomer kan undersöka hur stjärnbildning startar och utvecklas. I galaxen syns glödande moln av vätgas där nya stjärnor tänds och samlas i täta grupper, vilket kallas en stjärnhop. Unga och heta stjärnor skapar en kraftig stjärnvind som blåser bort den omgivande gasen och gröper ur väldiga hålrum. Samtidigt syns äldre stjärnor, bland annat stjärnor av typen röd superjätte i sena utvecklingsskeden. Eftersom galaxen har gott om vätgas kvar kommer nya stjärnor fortsätta att födas här under lång tid framöver.",
+    "entusiast": "Hubbleteleskopets kamera Wide Field Camera 3 fångade denna detaljerade bild av den oregelbundna dvärggalaxen NGC 4214 i december 2009. Galaxen ligger cirka 10 miljoner ljusår från jorden i stjärnbilden Jakthundarna. Tack vare dess relativa närhet och låga skymning av interstellärt stoft utgör NGC 4214 ett utmärkt laboratorium för att undersöka stjärnutveckling och mekanismerna bakom stjärnbildning i miljöer med låg metallicitet. Observationer i optiskt och nära infrarött ljus avslöjar ett komplext nätverk av joniserat väte kring unga massiva stjärnor. Dessa stjärnor driver intensiva stjärnvindar som tillsammans med supernovor blåser upp gigantiska bubblor och kaviteter i det interstellära mediet. Galaxen genomgår upprepade faser av intensiv stjärnbildning, så kallade starburst-perioder. Förutom nybildade stjärnhopar rymmer NGC 4214 även populationer av mer utvecklade stjärnor, däribland stjärnor av typen röd superjätte och intermediära stjärnor utspridda över hela galaxkroppen. Detta visar att galaxen har genomlevt flera på varandra följande generationer av stjärnfödsel snarare än en enstaka isolerad händelse. Eftersom dvärggalaxen saknar väldefinierade spiralarmar sker processerna i en friare miljö, och med sina rika gasreserver kan stjärnbildning pågå i hundratals miljoner år till."
   },
   "terms": [
     {
+      "term": "dvärggalax",
+      "explanation": "En mindre galax som består av upp till några miljarder stjärnor, till skillnad från större spiralgalaxer."
+    },
+    {
+      "term": "stjärnbildning",
+      "explanation": "Den fysikaliska process där kalla gasmoln i rymden drar ihop sig under gravitationen och bildar nya stjärnor."
+    },
+    {
+      "term": "stjärnvind",
+      "explanation": "Ett flöde av laddade partiklar som kastas ut i rymden med hög fart från en stjärnas atmosfär."
+    },
+    {
       "term": "stjärnhop",
-      "explanation": "En tät samling av stjärnor som hålls samman av sin gemensamma gravitation."
+      "explanation": "En tät grupp av stjärnor som bildats ur samma gasmoln och hålls samman av gravitationen."
+    },
+    {
+      "term": "röd superjätte",
+      "explanation": "En massiv och åldrande stjärna som svällt upp enormt i volym i slutet av sin livscykel."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett helt år."
-    },
-    {
-      "term": "stoftmoln",
-      "explanation": "Stora kosmiska moln av mikroskopiska partiklar och gas som skymmer bakomliggande ljus."
-    },
-    {
-      "term": "supernova",
-      "explanation": "En gigantisk explosion som markerar slutet på en massiv stjärnas liv."
-    },
-    {
-      "term": "infrarött ljus",
-      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus som uppfattas som värme."
+      "explanation": "Den sträcka som ljuset färdas i vakuum under ett helt år, motsvarande cirka 9,46 biljoner kilometer."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine every student from a thousand schools packing onto a single tiny playground. That is how crowded this sparkling star cluster is! It is called the Arches Cluster, and it is the densest star cluster in our galaxy, the Milky Way.   It holds many giant, sizzling stars that shine brilliantly. Thick clouds of space dust sit between Earth and the cluster. Because of this, the Hubble Space Telescope must use a special heat-sensing camera to peer through the dust.",
-      "nyborjare": "In this 2015 image, the Hubble Space Telescope peers into the Arches Cluster, the densest known star cluster in the Milky Way. Located about 25,000 light-years from Earth in the constellation Sagittarius, it sits right near our galactic heart.   The cluster is quite young at just two to four million years old. Its stellar density is mind-boggling: within a radius equal to the distance from our Sun to its nearest neighbor, there would be over 100,000 stars. Around 150 of these stars rank among the brightest ever found.   Despite its brilliance, the cluster is invisible to the naked eye. Gigantic dust clouds obscure visible light, forcing astronomers to rely on infrared detectors to pierce the veil.",
-      "entusiast": "The Arches Cluster is one of the most extreme stellar nurseries in our galaxy. Captured by the Hubble Space Telescope in 2015 using near-infrared instruments, this observation represents a huge technological leap over its 1999 predecessor. Heavy interstellar extinction along the galactic plane conceals the cluster in optical wavelengths, requiring infrared, X-ray, and radio detectors to pierce the dense foreground dust.  Located approximately 25,000 light-years away in Sagittarius, the cluster lies roughly 100 light-years from the supermassive black hole Sagittarius A*. At only two to four million years of age, it boasts unmatched stellar packing: its core contains over 100,000 stars within a volume equivalent to the distance between the Sun and Proxima Centauri.  Arches contains at least 150 massive Wolf-Rayet and O-type stars. Burning through their fuel in mere millions of years, these powerhouses will conclude their brief lifespans as catastrophic supernovae. Their violent stellar winds have heavily enriched the surrounding gas with heavier elements synthesized by preceding stellar generations."
+      "barn": "Look at this sparkling space city! This is a dwarf galaxy called NGC 4214. It is like a smaller sibling to our own Milky Way galaxy. Brand new stars are being born inside massive glowing gas clouds, looking like fireworks in the night sky. As these baby stars grow, they blow away nearby gas and make clear bubbles in space, just like blowing soap bubbles. Older stars also rest quietly alongside the newborn stars.",
+      "nyborjare": "Captured by the Hubble Space Telescope in 2009, this image shows NGC 4214, a dwarf galaxy located roughly 10 million light-years away in the constellation Canes Venatici. A dwarf galaxy contains far fewer stars than giants like the Milky Way, but NGC 4214 is bursting with activity. It serves as an ideal laboratory for studying star formation. Luminous clouds of hydrogen glow brightly where new stars ignite and gather into a star cluster. Young and hot stars unleash a powerful stellar wind, pushing away surrounding gas to carve out large cavities. Older stars are also present, including red supergiant stars in late evolutionary stages. Because the galaxy holds abundant hydrogen, it will continue producing stars far into the future.",
+      "entusiast": "Captured in December 2009 with Hubble's Wide Field Camera 3, this image showcases the irregular dwarf galaxy NGC 4214, situated approximately 10 million light-years away in Canes Venatici. Its proximity and low interstellar extinction provide an exceptional laboratory for examining stellar evolution and star formation within dwarf systems. Optical and near-infrared data reveal complex patterns of ionized hydrogen surrounding massive young stars. Intense radiation and stellar wind have blown clear large cavities and bubbles across the interstellar medium. The galaxy experiences recurring starburst episodes rather than a single isolated burst. Beyond newly formed star clusters, NGC 4214 hosts intermediate-age stars and clusters of red supergiant stars distributed across the disc. This diverse stellar population demonstrates multiple past generations of star formation. Thanks to its rich reservoir of neutral and ionized gas, the galaxy maintains ample fuel to sustain vigorous starbirth for hundreds of millions of years, offering key insights into dwarf galaxy evolutionary cycles."
     },
     "terms": [
       {
+        "term": "dwarf galaxy",
+        "explanation": "A small galaxy composed of up to several billion stars, significantly smaller than large spiral galaxies."
+      },
+      {
+        "term": "star formation",
+        "explanation": "The process by which dense interstellar gas clouds collapse under gravity to create new stars."
+      },
+      {
+        "term": "stellar wind",
+        "explanation": "A continuous flow of charged particles ejected outward into space from the atmosphere of a star."
+      },
+      {
         "term": "star cluster",
-        "explanation": "A group of stars bound together by their mutual gravitational attraction."
+        "explanation": "A gravitationally bound group of stars that formed together from the same parent molecular cloud."
       },
       {
-        "term": "light-year",
-        "explanation": "The distance that light travels through empty space in one calendar year."
-      },
-      {
-        "term": "extinction",
-        "explanation": "The absorption and scattering of electromagnetic radiation by dust and gas in space."
-      },
-      {
-        "term": "supernova",
-        "explanation": "A powerful explosion that occurs during the terminal evolutionary stage of a massive star."
-      },
-      {
-        "term": "infrared",
-        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, often experienced as radiant heat."
+        "term": "red supergiant",
+        "explanation": "An aging, high-mass star that has expanded to enormous proportions near the end of its life."
       }
     ],
     "quiz": [
       {
-        "q": "Why must astronomers use infrared light to view the Arches Cluster?",
+        "q": "What does a dwarf galaxy like NGC 4214 mostly consist of?",
         "options": [
-          "The stars do not emit visible light.",
-          "Dense dust clouds block normal visible light.",
-          "Earth's atmosphere reflects the star light away."
+          "A single giant star cluster",
+          "A few billion stars, gas and dust",
+          "Only dark matter and gas clouds"
         ],
         "correct": 1,
-        "fact": "Giant clouds of cosmic dust toward the galactic center block visible light, while infrared rays pass straight through."
+        "fact": "Dwarf galaxies typically contain between a few million and a few billion stars, far fewer than giant spiral galaxies."
       },
       {
-        "q": "How will the most massive stars in the Arches Cluster end their lives?",
+        "q": "Why does hydrogen gas glow in star-forming regions?",
         "options": [
-          "They slowly shrink into cold white dwarfs.",
-          "They get torn apart by galactic gravity.",
-          "They explode in violent supernovae."
+          "It reflects light from passing comets",
+          "Radioactive decay heats the dust",
+          "Hot young stars ionize surrounding gas"
         ],
         "correct": 2,
-        "fact": "Massive stars consume their nuclear fuel in just a few million years before detonating as supernovae."
+        "fact": "Ultraviolet radiation from massive newborn stars ionizes nearby hydrogen gas, causing it to emit visible light."
       },
       {
-        "q": "Where in our galaxy is the Arches Cluster located?",
+        "q": "Which type of star represents an advanced evolutionary stage?",
         "options": [
-          "Near the Milky Way's center in Sagittarius.",
-          "At the outer edge beyond spiral arms.",
-          "Close to our solar system in Orion."
+          "Red supergiant",
+          "Protostar",
+          "Blue main-sequence star"
         ],
         "correct": 0,
-        "fact": "The cluster is situated roughly 25,000 light-years away, very close to the supermassive black hole at the core."
+        "fact": "Red supergiants are massive aging stars that have exhausted hydrogen in their cores and swollen to huge dimensions."
       }
     ]
   }
