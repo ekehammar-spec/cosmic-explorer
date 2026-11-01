@@ -1,134 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Revisits a Globular Cluster’s Age",
-  "title_sv": "Stjärnhopen IC 4499",
+  "title": "Hubble Peers into the Most Crowded Place in the Milky Way",
+  "title_sv": "Arches-hopen: Vintergatans mest tätbefolkade plats",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001017/GSFC_20171208_Archive_e001017~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001017/GSFC_20171208_Archive_e001017~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001017/GSFC_20171208_Archive_e001017~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001017",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000717/GSFC_20171208_Archive_e000717~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000717/GSFC_20171208_Archive_e000717~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000717/GSFC_20171208_Archive_e000717~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000717",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e001017",
+  "id": "GSFC_20171208_Archive_e000717",
   "px": [
-    1252,
-    1280
+    1280,
+    1143
   ],
-  "w": 626,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAgb/xAAoEAACAQMDAwIHAAAAAAAAAAABAgMAESEEEkEiMXETYQUyUYGx0eH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8A4oKRjqHI80xJBdyVGL3xgCtx7Nm1uo4B5tniqMWnBCXJCyYZyPl/lVElIGL7yCFHUbC+L0BwQzPswTx2B+lWNXphCxHqLIoJ/OKlMAqspUHOM9jTQWFwrhxbxyfaqsGpTJVSyCxIA7Ck/icOj08sS6PUNJ0KWNrWbkUp6wUttHcYuf1SihJOhJ3k3Gfv70g5iBcOz97qFXvfzWJpQVsNzEHBJ4oMpK7cgXHBpR//2Q==",
+  "w": 640,
+  "h": 571,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAwABAgQFBv/EACYQAAIBAwMEAQUAAAAAAAAAAAECAwARIRIxQQQTUXEFFCJCkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A8ewMbKHRlJyCfyqlkIO2Bknm1KYZZFUytqsAFuTt4pOm6PvdSsWsKWxe9gPdKBMo7TXa+QR4xRrIVuy7jIvxWPyUH03U9kOJLbleDRxaBZVY3/lRXVRwW08HgnB90c/2x3B0kEi/FPIojjDLuSRn1WvLK1m2N8ZFGY58rtM6iy4BuaqRFXTp8fuowsxt5qTIC2bmxpGn/9k=",
   "quiz": [
     {
-      "q": "Vad är en klotformig stjärnhop?",
+      "q": "Varför måste astronomer använda infrarött ljus för att se Arches-hopen?",
       "options": [
-        "En kompakt samling äldre stjärnor i galaxer",
-        "Ett ungt stjärnsystem som just har bildats",
-        "En planet som kretsar kring en stjärna"
+        "Stjärnorna sänder inte ut något synligt ljus alls.",
+        "Täta stoftmoln blockerar det vanliga synliga ljuset.",
+        "Jordens atmosfär reflekterar bort stjärnornas ljus."
       ],
-      "correct": 0,
-      "fact": "Klotformiga stjärnhopar är täta klot av gamla stjärnor som kretsar runt centrum i en galax."
+      "correct": 1,
+      "fact": "Gigantiska kosmiska stoftmoln mot Vintergatans mitt blockerar synligt ljus, medan infraröd strålning tränger rakt igenom."
     },
     {
-      "q": "Hur gammal uppskattas stjärnhopen IC 4499 vara?",
+      "q": "Hur slutar livet för de tyngsta stjärnorna i Arches-hopen?",
       "options": [
-        "Cirka 12 miljarder år",
-        "Omkring 500 miljoner år",
-        "Ungefär 4,5 miljarder år"
+        "De krymper långsamt till kalla vita dvärgar.",
+        "De slits i bitar av galaxens gravitation.",
+        "De exploderar i våldsamma supernovor."
       ],
-      "correct": 0,
-      "fact": "Observationer med rymdteleskopet visar att IC 4499 är ungefär 12 miljarder år gammal."
+      "correct": 2,
+      "fact": "De massiva stjärnorna förbrukar sitt bränsle på några få miljoner år och exploderar sedan som supernovor."
     },
     {
-      "q": "Varför bildar vissa stjärnhopar flera generationer stjärnor?",
+      "q": "Var i vår galax ligger stjärnhopen Arches?",
       "options": [
-        "De är så massiva att de fångar gas",
-        "De kolliderar ständigt med andra galaxer",
-        "De saknar helt egen gravitationskraft"
+        "Nära Vintergatans centrum i stjärnbilden Skytten.",
+        "I galaxens allra yttersta kant bortom spiralarmarna.",
+        "I närheten av vårt eget solsystem i Orionarmen."
       ],
       "correct": 0,
-      "fact": "Större massiva hopar har starkare gravitation som samlar ihop gas och stoft till nya stjärnor."
+      "fact": "Arches-hopen ligger cirka 25 000 ljusår bort, mycket nära det supermassiva svarta hålet i Vintergatans mitt."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättestort glittrande klot uppe i rymden som är fullproppat med tusentals gamla stjärnor. Det här är en stjärnhop som håller ihop av sin egen dragningskraft. Det ser ut som en glimrande diamantkudde som har fastnat långt ut i mörkret.",
-    "nyborjare": "Den här bilden visar stjärnhopen IC 4499, som är en tät samling äldre stjärnor som kretsar i vår galax. Tidigare mätningar från 1990-talet visade att den verkade förvånansvärt ung. Nyare observationer med rymdteleskopet har dock visat att den i stället är ungefär 12 miljarder år gammal, vilket är i linje med andra liknande stjärnhopar i Vintergatan.",
-    "entusiast": "Bilden är tagen med rymdteleskopet och föreställer den klotformiga stjärnhopen IC 4499. Klotformiga stjärnhopar består av massiva klot av gamla stjärnor i galaxers glorior. Medan mycket tunga stjärnhopar ofta rymmer flera stjärngenerationer på grund av stark gravitation som kan samla in gas, placerar sig IC 4499 i en mellanstorleksklass. Astronomer har inte funnit några spår av multipla generationer här, vilket bekräftar att mindre massiva hopar i regel enbart bildar en enda stjärnpopulation. Det löser också tidigare mysterier kring hopens ålder som först undersöktes på 1990-talet."
+    "barn": "Tänk dig att alla elever på tusen skolor skulle trängas på en enda liten skolgård. Ungefär så trångt är det i den här glittrande stjärnhopen! Den kallas Arches och är den tätaste stjärnhopen i hela vår galax, Vintergatan.   Här finns massor av jättestora och heta stjärnor som lyser urstarkt. Mellan jorden och stjärnorna finns tjocka moln av rymddamm. Därför måste rymdteleskopet Hubble använda en speciell värmekamera för att kunna se stjärnorna genom dammet.",
+    "nyborjare": "På denna bild från 2015 riktar rymdteleskopet Hubble blicken mot Arches-hopen, den tätaste kända stjärnhopen i Vintergatan. Den ligger ungefär 25 000 ljusår från jorden, nära galaxens hjärta i stjärnbilden Skytten.   Hopen är bara mellan två och fyra miljoner år gammal, vilket är ungt i rymdsammanhang. Trängseln här är otrolig. På en yta motsvarande avståndet mellan solen och dess närmaste grannstjärna trängs över 100 000 stjärnor. Minst 150 av dem hör till galaxens absolut mest ljusstarka.   Trots sin enorma lyskraft kan Arches-hopen inte ses med blotta ögat. Enorma stoftmoln skymmer sikten, och teleskop måste därför fånga infrarött ljus som kan tränga igenom stoftet.",
+    "entusiast": "Arches-hopen representerar ett av de mest extrema stjärnlaboratorierna i vår galax. Denna bild från 2015 togs med rymdteleskopet Hubble i nära infrarött ljus, vilket markerade ett stort tekniskt kliv framåt jämfört med observationer från 1999. På grund av extrem interstellär extinktion från täta stoftmoln i Vintergatans plan är hopen helt osynlig vid optiska våglängder. Astronomer måste därför förlita sig på infraröd strålning, röntgen och radiovågor för att studera den.  Hopen ligger cirka 25 000 ljusår bort i stjärnbilden Skytten, endast 100 ljusår från det supermassiva svarta hålet Sagittarius A*. Med en ålder på bara två till fyra miljoner år är den anmärkningsvärt ung. Stjärntätheten är häpnadsväckande hög: i dess kärna ryms över 100 000 stjärnor inom en radie motsvarande avståndet från solen till Proxima Centauri.  Arches hyser minst 150 extremt massiva Wolf-Rayet-stjärnor och O-stjärnor. Dessa jättar förbränner sitt kärnbränsle i ursinnig takt och lever bara några miljoner år innan de detonerar som supernovor. Den intensiva stjärnvinden och de korta livscyklerna har anrikat den omgivande gasen med ovanligt höga halter av tyngre grundämnen, vilket ger viktiga ledtrådar om stjärnbildning i galaxkärnornas extrema miljöer."
   },
   "terms": [
     {
       "term": "stjärnhop",
-      "explanation": "En stor samling stjärnor som hålls samman av ömsesidig dragningskraft."
+      "explanation": "En tät samling av stjärnor som hålls samman av sin gemensamma gravitation."
     },
     {
-      "term": "galax",
-      "explanation": "Ett enormt system av stjärnor, gas, stoft och mörk materia som hålls ihop av gravitation."
+      "term": "ljusår",
+      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett helt år."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett optiskt instrument uppskjutet i omloppsbana för att observera universum utan störningar från atmosfären."
+      "term": "stoftmoln",
+      "explanation": "Stora kosmiska moln av mikroskopiska partiklar och gas som skymmer bakomliggande ljus."
     },
     {
-      "term": "gravitation",
-      "explanation": "Den dragningskraft som massiva kroppar utövar på varandra i universum."
+      "term": "supernova",
+      "explanation": "En gigantisk explosion som markerar slutet på en massiv stjärnas liv."
+    },
+    {
+      "term": "infrarött ljus",
+      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus som uppfattas som värme."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant sparkling ball out in space packed with thousands of old stars. This is a star cluster held together tightly by its own invisible pull. It looks like a shining cushion of glittering diamonds floating far away in the dark.",
-      "nyborjare": "This image shows the star cluster IC 4499, which is a dense gathering of older stars orbiting within our galaxy. Earlier measurements from the 1990s suggested it was surprisingly young. However, newer observations obtained with the space telescope revealed that it is actually around 12 billion years old, matching other similar clusters in the Milky Way.",
-      "entusiast": "The image captured by the space telescope features the globular cluster IC 4499. Globular clusters comprise massive balls of old stars orbiting galactic halos. While very heavy clusters often host multiple stellar generations because strong gravity collects ambient gas, IC 4499 sits in an intermediate mass bracket. Astronomers found no evidence of multiple stellar generations here, supporting the view that less massive clusters typically form only a single stellar population. This resolves earlier puzzles regarding its age first estimated in the 1990s."
+      "barn": "Imagine every student from a thousand schools packing onto a single tiny playground. That is how crowded this sparkling star cluster is! It is called the Arches Cluster, and it is the densest star cluster in our galaxy, the Milky Way.   It holds many giant, sizzling stars that shine brilliantly. Thick clouds of space dust sit between Earth and the cluster. Because of this, the Hubble Space Telescope must use a special heat-sensing camera to peer through the dust.",
+      "nyborjare": "In this 2015 image, the Hubble Space Telescope peers into the Arches Cluster, the densest known star cluster in the Milky Way. Located about 25,000 light-years from Earth in the constellation Sagittarius, it sits right near our galactic heart.   The cluster is quite young at just two to four million years old. Its stellar density is mind-boggling: within a radius equal to the distance from our Sun to its nearest neighbor, there would be over 100,000 stars. Around 150 of these stars rank among the brightest ever found.   Despite its brilliance, the cluster is invisible to the naked eye. Gigantic dust clouds obscure visible light, forcing astronomers to rely on infrared detectors to pierce the veil.",
+      "entusiast": "The Arches Cluster is one of the most extreme stellar nurseries in our galaxy. Captured by the Hubble Space Telescope in 2015 using near-infrared instruments, this observation represents a huge technological leap over its 1999 predecessor. Heavy interstellar extinction along the galactic plane conceals the cluster in optical wavelengths, requiring infrared, X-ray, and radio detectors to pierce the dense foreground dust.  Located approximately 25,000 light-years away in Sagittarius, the cluster lies roughly 100 light-years from the supermassive black hole Sagittarius A*. At only two to four million years of age, it boasts unmatched stellar packing: its core contains over 100,000 stars within a volume equivalent to the distance between the Sun and Proxima Centauri.  Arches contains at least 150 massive Wolf-Rayet and O-type stars. Burning through their fuel in mere millions of years, these powerhouses will conclude their brief lifespans as catastrophic supernovae. Their violent stellar winds have heavily enriched the surrounding gas with heavier elements synthesized by preceding stellar generations."
     },
     "terms": [
       {
-        "term": "cluster",
-        "explanation": "A large collection of stars bound together by mutual gravitational attraction."
+        "term": "star cluster",
+        "explanation": "A group of stars bound together by their mutual gravitational attraction."
       },
       {
-        "term": "galaxy",
-        "explanation": "A massive system containing stars, gas, dust and dark matter held together by gravity."
+        "term": "light-year",
+        "explanation": "The distance that light travels through empty space in one calendar year."
       },
       {
-        "term": "space telescope",
-        "explanation": "An optical instrument placed in orbit to observe the universe without atmospheric interference."
+        "term": "extinction",
+        "explanation": "The absorption and scattering of electromagnetic radiation by dust and gas in space."
       },
       {
-        "term": "gravity",
-        "explanation": "The natural phenomenon by which all things with mass are brought toward one another."
+        "term": "supernova",
+        "explanation": "A powerful explosion that occurs during the terminal evolutionary stage of a massive star."
+      },
+      {
+        "term": "infrared",
+        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, often experienced as radiant heat."
       }
     ],
     "quiz": [
       {
-        "q": "What is a globular cluster?",
+        "q": "Why must astronomers use infrared light to view the Arches Cluster?",
         "options": [
-          "A compact collection of old stars in galaxies",
-          "A young star system that just formed",
-          "A planet orbiting around a single star"
+          "The stars do not emit visible light.",
+          "Dense dust clouds block normal visible light.",
+          "Earth's atmosphere reflects the star light away."
         ],
-        "correct": 0,
-        "fact": "Globular clusters are dense balls of ancient stars orbiting around their host galaxy."
+        "correct": 1,
+        "fact": "Giant clouds of cosmic dust toward the galactic center block visible light, while infrared rays pass straight through."
       },
       {
-        "q": "How old is the star cluster IC 4499 estimated to be?",
+        "q": "How will the most massive stars in the Arches Cluster end their lives?",
         "options": [
-          "About 12 billion years",
-          "Around 500 million years",
-          "Approximately 4.5 billion years"
+          "They slowly shrink into cold white dwarfs.",
+          "They get torn apart by galactic gravity.",
+          "They explode in violent supernovae."
         ],
-        "correct": 0,
-        "fact": "Observations with the space telescope indicate that IC 4499 is roughly 12 billion years old."
+        "correct": 2,
+        "fact": "Massive stars consume their nuclear fuel in just a few million years before detonating as supernovae."
       },
       {
-        "q": "Why do some star clusters form multiple generations of stars?",
+        "q": "Where in our galaxy is the Arches Cluster located?",
         "options": [
-          "They are massive enough to capture gas",
-          "They constantly collide with other galaxies",
-          "They completely lack any gravitational force"
+          "Near the Milky Way's center in Sagittarius.",
+          "At the outer edge beyond spiral arms.",
+          "Close to our solar system in Orion."
         ],
         "correct": 0,
-        "fact": "More massive clusters have stronger gravity allowing them to gather gas and dust to spawn new stars."
+        "fact": "The cluster is situated roughly 25,000 light-years away, very close to the supermassive black hole at the core."
       }
     ]
   }

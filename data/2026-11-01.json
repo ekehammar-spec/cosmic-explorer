@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-01",
+  "title": "Bouncing, Bounding Boulders!",
+  "title_sv": "Spår efter rullande stenblock på månen",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA12914/PIA12914~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12914/PIA12914~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA12914/PIA12914~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA12914",
+  "credit": "NASA/GSFC/Arizona State University",
+  "taken": "2009",
+  "src": "library",
+  "id": "PIA12914",
+  "px": [
+    1000,
+    1000
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMFAQT/xAAjEAACAgEEAAcAAAAAAAAAAAABEQACAwQhMUESIlFhcYGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIFiQEI3Bfrj7gv8gWNqF1gUsduN+Y4PrqcWnymw8wlChAAIDPpAh2sQVAD65+ZnisX3MNnsoD8OU1vupUw5XVSIinOjTag47Ite8D//2Q==",
+  "quiz": [
+    {
+      "q": "Vad sätter oftast stenblock i rullning på månen?",
+      "options": [
+        "Seismiska skakningar från meteoritnedslag",
+        "Kraftiga stormar och vindar i atmosfären",
+        "Underjordiska vattenströmmar som eroderar berget"
+      ],
+      "correct": 0,
+      "fact": "Månen saknar atmosfär och flytande vatten. Nedslag från rymdstenar skakar marken så att klippblock lossnar."
+    },
+    {
+      "q": "Hur påverkar månens låga gravitation ett rullande stenblock?",
+      "options": [
+        "Blocket stannar omedelbart i backen",
+        "Blocket kan studsa högre och längre",
+        "Blocket lyfter helt ut i rymden"
+      ],
+      "correct": 1,
+      "fact": "Eftersom månens gravitation bara är en sjättedel av jordens tar varje studs längre tid och når högre höjd."
+    },
+    {
+      "q": "Vad kallas det lösa lagret av damm och krossat berg på månen?",
+      "options": [
+        "Pimpsten",
+        "Basalt",
+        "Regolit"
+      ],
+      "correct": 2,
+      "fact": "Regolit täcker nästan hela månytan och har bildats genom miljarder år av meteoritbombardemang."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du rullar en jättestor snöboll nerför en brant backe. På månen händer samma sak, fast med enorma stenar! När en rymdsten krockar med månen kan marken skaka så mycket att stora klippblock lossnar. Stenarna rullar och studsar neråt i den mjuka månsanden. Eftersom månens gravitation är mycket svagare än jordens gör stenarna gigantiska skutt och lämnar prickiga spår efter sig, ungefär som när en gigantisk studsboll studsar fram i sandlådan.",
+    "nyborjare": "Denna bild från rymdsonden Lunar Reconnaissance Orbiter visar spår efter enorma stenblock som har rullat utför en brant sluttning på månen. Eftersom månen saknar vind och regn kan sådana spår bevaras under miljontals år.\n\nNär meteoriter kraschar mot månytan uppstår kraftiga skakningar som fortplantar sig genom marken. Skakningarna får klippblock som balanserar på branta sluttningar och massiv att lossna. Stenarna störtar nedåt och plöjer djupa fåror i det översta lagret av måndamm, kallat regolit. Vissa block rullar jämnt och ritar raka linjer, medan andra studsar fram och skapar serier av gropar. Genom att studera spåren lär sig forskare hur månens mark reagerar på mekanisk påverkan.",
+    "entusiast": "Bilder från NASA:s Lunar Reconnaissance Orbiter visar att månen inte är en geologiskt orörlig värld. Längs branta kraterväggar syns tydliga spår efter fallande stenblock som ibland mäter tiotals meter i diameter.\n\nProcessen startar vanligen med en månbävning som utlöses av ett meteoritnedslag. När ett klippblock sätts i rörelse nedför en sluttning påverkas dess dynamik kraftigt av att gravitationen här är blott en sjättedel av jordens. Den låga tyngdkraften gör att blocken inte bara rullar eller glider, utan slungas upp i ballistiska bågar och gör långa hopp. De resulterande avtrycken i månytan varierar beroende på blockets form och markens lutning: vissa skapar kontinuerliga fåror, medan andra lämnar regelbundna rader av nedslagsgropar.\n\nAtt analysera dessa formationer ger planetologer värdefull kunskap om månens regolit, särskilt dess bärighet och skjuvhållfasthet på olika djup. Dessutom fungerar spåren som relativa klockor. Eftersom mikrometeoriter och solvind sakta suddar ut spåren tyder skarpa linjer på att blocken rullat under geologiskt modern tid."
+  },
+  "terms": [
+    {
+      "term": "Lunar Reconnaissance Orbiter",
+      "explanation": "En rymdsond från NASA som kretsar kring månen för att kartlägga dess yta i hög upplösning."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den dragningskraft som gör att massor dras mot varandra och som håller himlakroppar i omloppsbana."
+    },
+    {
+      "term": "massiv",
+      "explanation": "Ett sammanhängande bergsområde eller en markant upphöjning i landskapet som rör sig som en enhet."
+    },
+    {
+      "term": "regolit",
+      "explanation": "Det lösa täcke av krossat berg och finkornigt damm som vilar ovanpå en himlakropps berggrund."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine rolling a giant snowball down a steep hill. On the Moon, huge rocks do the very same thing! When a space rock crashes into the lunar surface, the ground shakes and dislodges massive boulders. These boulders roll and bounce downhill through the soft dust. Because lunar gravity is much weaker than on Earth, the rocks make enormous leaps, leaving behind dotted trails like marks from a colossal bouncy ball.",
+      "nyborjare": "This image captured by the Lunar Reconnaissance Orbiter shows the tracks left by giant boulders tumbling down a steep lunar slope. Because the Moon has no atmosphere or liquid water, these tracks remain preserved for millions of years.\n\nWhen meteorites strike the Moon, seismic waves shake the surrounding terrain. This shaking dislodges precarious boulders perched on steep slopes and each nearby massif. As they roll, the rocks carve deep furrows into the powdery upper layer called regolith. Some boulders carve continuous straight lines, while others leap repeatedly, leaving distinct chains of pits. Studying these paths helps scientists understand how lunar soil behaves under mechanical stress.",
+      "entusiast": "Observations from the Lunar Reconnaissance Orbiter highlight active geological processes on the Moon, a world often assumed to be completely static. Along steep crater slopes, prominent trails trace the descent of boulders that can measure tens of meters across.\n\nThese mass-wasting events are typically triggered by impact-induced moonquakes. As a boulder rolls, its kinetic behavior is heavily influenced by lunar gravity, which is merely one-sixth of Earth's. Instead of sliding continuously, boulders frequently launch into ballistic trajectories, creating long leaps between impacts. The resulting impressions in the regolith reveal varied morphologies, from smooth trenches to evenly spaced gouges.\n\nMeasuring track geometry and gouge spacing provides planetary scientists with empirical data on regolith cohesion, friction angles, and load-bearing capacity. These trails also serve as relative dating tools, as micrometeorite gardening gradually erases them over millions of years."
+    },
+    "terms": [
+      {
+        "term": "Lunar Reconnaissance Orbiter",
+        "explanation": "A NASA robotic spacecraft orbiting the Moon to map its surface topography and environment."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The attractive force between masses that pulls objects downward toward a celestial body."
+      },
+      {
+        "term": "massif",
+        "explanation": "A distinct, elevated section of a mountain range or crust that moves together as a unit."
+      },
+      {
+        "term": "regolith",
+        "explanation": "The layer of unconsolidated dust and rocky debris covering the solid bedrock of a celestial body."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What most often triggers boulders to roll on the Moon?",
+        "options": [
+          "Seismic shaking from meteorite impacts",
+          "Powerful storms and atmospheric winds",
+          "Underground water currents eroding rock"
+        ],
+        "correct": 0,
+        "fact": "Lacking an atmosphere and liquid water, the Moon relies on vibrations from impacts to dislodge rocks."
+      },
+      {
+        "q": "How does the Moon's lower gravity affect a bouncing boulder?",
+        "options": [
+          "The boulder stops immediately on the slope",
+          "The boulder bounces higher and farther",
+          "The boulder floats away into outer space"
+        ],
+        "correct": 1,
+        "fact": "With only one-sixth of Earth's surface gravity, every bounce covers more distance and takes longer to land."
+      },
+      {
+        "q": "What is the loose layer of dust and fragmented rock on the Moon called?",
+        "options": [
+          "Pumice",
+          "Basalt",
+          "Regolith"
+        ],
+        "correct": 2,
+        "fact": "Regolith blanketed almost the entire lunar surface over billions of years of meteorite bombardment."
+      }
+    ]
+  }
+}

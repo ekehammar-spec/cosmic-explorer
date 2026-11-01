@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-01",
+  "media_type": "image",
+  "title": "Spår efter rullande stenblock på månen",
+  "title_en": "Bouncing, Bounding Boulders!",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12914/PIA12914~small.jpg"
+ },
+ {
   "date": "2026-10-31",
   "media_type": "image",
   "title": "Spiralgalax och gravitationslins sedda av Hubble",
@@ -114,9 +121,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Stjärnhopen IC 4499",
-  "title_en": "Hubble Revisits a Globular Cluster’s Age",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001017/GSFC_20171208_Archive_e001017~small.jpg"
+  "title": "Arches-hopen: Vintergatans mest tätbefolkade plats",
+  "title_en": "Hubble Peers into the Most Crowded Place in the Milky Way",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000717/GSFC_20171208_Archive_e000717~small.jpg"
  },
  {
   "date": "2026-10-14",

@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-01",
+  "title": "Early Melt on the Greenland Ice Sheet",
+  "title_sv": "Tidig smältning på Grönlands inlandsis",
+  "place": "Sydvästra Grönland",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000112/GSFC_20171208_Archive_e000112~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000112/GSFC_20171208_Archive_e000112~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000112/GSFC_20171208_Archive_e000112~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000112",
+  "credit": "NASA Earth Observatory",
+  "source": "Credit: NASA Earth Observatory",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000112",
+  "archive": true,
+  "px": [
+    1920,
+    1280
+  ],
+  "w": 640,
+  "h": 426,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwAEAgb/xAAkEAACAgICAQMFAAAAAAAAAAABAgADESESMUETIlEEI0Jhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A9rai5HJC2B/IT8fSIAwT484+I4yw85Yb/Qg3FC75BGsEiIZxZ9wpWhKjZJPUausPcC5WDXal9YagexyGDj8hNLFKl95JZh0B4iIX6fpR3rEG0k1c875YlKBZ2f0kBA2zBda7nNal2sZmJIxj4lKIf//Z",
+  "levels": {
+    "barn": "Här ser du Grönlands väldiga istäcke fotograferat från rymden i juni år 2016. Det vita och gråa i bilden är snö och is. Mitt i det vita syns klarblå fläckar och slingrande band. Det är stora pölar av smältvatten som har samlats på ytan när sommarsolen har värmt upp isen.\n\nNär det blir varmt smälter isen till vatten som kan rinna ut i havet. Isen blir också mörkare av vattnet, vilket gör att den suger åt sig mer värme och smälter ännu snabbare.",
+    "nyborjare": "Satellitbilden visar ett område en bit inåt land i sydvästra Grönland den 15 juni 2016. Det ljusa istäcket bryts upp av djupblå dammar och stråk av smältvatten. Just detta år började smältningen ovanligt tidigt redan i april, stannade sedan av tillfälligt, för att därefter ta fart igen under maj och kulminera i det vattenrika landskap som syns här.\n\nYtsmältningen påverkar inlandsisen på flera sätt. När smältvattnet bildar sjöar mörknar ytan, vilket minskar dess förmåga att reflektera solljus och leder till att ännu mer is smälter. Vattnet rinner även direkt ut i havet via avrinning och bidrar till havsnivåhöjning. Dessutom kan smältvatten tränga ner genom djupa sprickor till glaciärens botten, vilket tillfälligt smörjer isen så att den rör sig snabbare mot kusten.",
+    "entusiast": "Den 15 juni 2016 fångade satelliten Earth Observing-1 (EO-1) denna vy i naturliga färger över sydvästra Grönlands inlandsis, cirka 120 kilometer sydost om Ilulissat. Bilden togs med instrumentet Advanced Land Imager (ALI), en multispektral sensor som utvecklades för att testa ny teknik för framtida jordobservationssatelliter.\n\nForskare vid Columbia Universitys Lamont-Doherty Earth Observatory noterade att avsmältningen i denna region inleddes ovanligt tidigt i april 2016. Även om förloppet tillfälligt avstannade, återupptogs smältningen i maj och resulterade i de utbredda smältvattensjöarna som dominerar bilden.\n\nObservationer som denna hjälper glaciologer att förstå dynamiken bakom inlandsisens massbalans. Ytvattnet bidrar inte enbart direkt till den globala havsnivåhöjningen genom avrinning. När mörkare smältvatten samlas i sänkor sänks ytans albedo drastiskt, vilket accelererar den lokala absorptionen av solstrålning. Vidare kan smältvatten dräneras vertikalt genom djupa glaciärsprickor, så kallade glaciärbrunnar eller sprickzoner, ända ner till berggrunden. Vid botten fungerar vattnet som ett smörjmedel som minskar friktionen mot underlaget, vilket tillfälligt ökar glaciärens flödeshastighet och indirekt driver på havsnivåhöjningen."
+  },
+  "terms": [
+    {
+      "term": "inlandsis",
+      "explanation": "Ett vidsträckt istäcke som täcker ett helt landområde på mer än 50 000 kvadratkilometer."
+    },
+    {
+      "term": "Advanced Land Imager",
+      "explanation": "Ett multispektralt observationsinstrument som satt ombord på NASA:s satellit Earth Observing-1."
+    },
+    {
+      "term": "Earth Observing-1",
+      "explanation": "En experimentell satellit som NASA sköt upp år 2000 för att testa avancerad rymdteknik."
+    },
+    {
+      "term": "avrinning",
+      "explanation": "Vatten som rinner bort över mark- eller isytan och slutligen når vattendrag eller hav."
+    },
+    {
+      "term": "glaciärspricka",
+      "explanation": "En djup vertikal spricka som uppstår i glaciäris när den rör sig över ojämnt underlag."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Here you see Greenland's massive ice sheet photographed from space in June 2016. The white and grey areas are snow and ice. Among the white, bright blue spots and winding lines appear. These are large ponds of meltwater that collected on the surface as the summer sun warmed the ice.\n\nWhen it gets warm, ice melts into water that flows toward the sea. The water also darkens the ice, making it absorb more sunlight and melt even faster.",
+      "nyborjare": "This satellite image captures an area just inland from the coast of southwestern Greenland on June 15, 2016. The pale ice sheet is dotted with vibrant blue meltwater ponds and streams. That year, melting began unusually early in April, paused briefly, and surged again in May, creating the watery scene seen here.\n\nSurface melting affects the ice sheet in multiple ways. Ponding meltwater darkens the surface, reducing its ability to reflect sunlight and triggering further melt. Runoff also flows directly into the sea, contributing to sea level rise. Additionally, water can plunge through deep crevasses to the glacier bed, temporarily lubricating the ice flow toward the ocean.",
+      "entusiast": "On June 15, 2016, the Advanced Land Imager (ALI) on NASA's Earth Observing-1 (EO-1) satellite captured this natural-color image over southwestern Greenland, roughly 120 kilometers southeast of Ilulissat. ALI served as a technology testbed sensor designed to validate next-generation Earth imaging capabilities.\n\nResearchers at Columbia University's Lamont-Doherty Earth Observatory tracked an early melt onset in this region during April 2016. Although melting paused, it resumed vigorously in May, culminating in extensive ponding across the ice sheet by mid-June.\n\nThese satellite observations provide vital insight into ice sheet mass balance and positive feedback mechanisms. Surface melt directly drives sea level rise through coastal runoff. Moreover, pooling meltwater lowers the surface albedo, which enhances solar radiation absorption and accelerates melting. Water can also drain through crevasses down to the bedrock beneath the glacier. At the bed, high water pressure lubricates the ice-rock interface, temporarily speeding up glacial flow toward the sea and amplifying indirect ice loss."
+    },
+    "terms": [
+      {
+        "term": "Advanced Land Imager",
+        "explanation": "A multispectral imaging instrument operated aboard NASA's Earth Observing-1 satellite to test sensor technology."
+      },
+      {
+        "term": "Earth Observing-1",
+        "explanation": "An experimental NASA satellite launched in 2000 to validate advanced Earth-observation technologies."
+      },
+      {
+        "term": "crevasse",
+        "explanation": "A deep fracture or fissure formed in a glacier or ice sheet due to movement."
+      },
+      {
+        "term": "runoff",
+        "explanation": "Water from melting snow or ice that drains across the surface into streams and oceans."
+      },
+      {
+        "term": "ice sheet",
+        "explanation": "A vast mass of glacial ice covering more than 50,000 square kilometers of land."
+      }
+    ],
+    "place": "Southwestern Greenland"
+  }
+}
