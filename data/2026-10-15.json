@@ -2,145 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "A Star-Formation Laboratory",
-  "title_sv": "Dvärggalaxen NGC 4214",
+  "title": "NASA Find Clues that May Help Identify Dark Matter",
+  "title_sv": "Kolliderande galaxhopar avslöjar mörk materia",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/GSFC_20171208_Archive_e001894~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/GSFC_20171208_Archive_e001894~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/GSFC_20171208_Archive_e001894~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001894",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000752/GSFC_20171208_Archive_e000752~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000752/GSFC_20171208_Archive_e000752~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000752/GSFC_20171208_Archive_e000752~orig.png",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000752",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e001894",
+  "id": "GSFC_20171208_Archive_e000752",
   "px": [
     1280,
-    953
+    771
   ],
   "w": 640,
-  "h": 476,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAjEAACAgEEAQUBAAAAAAAAAAABAgARAwQSIUEFEyIxUWHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8Axgw/kkGG43waP38/HfHUup4TIrI3AGT4s81+wSVTCvF4rTnQDUZ85xMxIQVe6h/CKMqAAsCoANbb5jrW7tKfTZiSlqFbkD7iTMPcT9wlrVDWUqJYCjuuRIM/kszLQYihV9mEINqm4TanM+R2Zm3MTyTKj9whNCV//9k=",
+  "h": 385,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIDAQQG/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQACAxFBBBITMSEiM1Fh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhEhEiJB/9oADAMBAAIRAxEAPwDioYtPNFtLiyXBPRWsWNbLtfYA7VHQu4mytyaoYKiLe4WbJyVa+maR385GlEY+Mmv1VMcccYLiS8+RXSzNp2xuDQfY4RPp+KNhsewsC1Xxb6t5ORkarpItc7YW2a+knRCELPZcJKMHG7s2nlcTVnCEIlnHsM//2Q==",
   "quiz": [
     {
-      "q": "Vad består en dvärggalax som NGC 4214 huvudsakligen av?",
+      "q": "Hur spåras mörk materia när den inte syns?",
       "options": [
-        "En enda gigantisk stjärnhop",
-        "Några miljarder stjärnor, gas och stoft",
-        "Enbart mörk materia och gasmoln"
-      ],
-      "correct": 1,
-      "fact": "Dvärggalaxer innehåller oftast från några miljoner upp till några miljarder stjärnor, vilket är betydligt färre än i stora spiralgalaxer som Vintergatan."
-    },
-    {
-      "q": "Varför lyser vätgasen i galaxens stjärnbildande områden?",
-      "options": [
-        "Gasen reflekterar ljus från närliggande kometer",
-        "Radioaktivt sönderfall värmer upp stoftet",
-        "Unga heta stjärnor joniserar omgivande gas"
-      ],
-      "correct": 2,
-      "fact": "Intensiv ultraviolett strålning från nyfödda massiva stjärnor joniserar vätgasen och får den att glöda kraftigt i rött sken."
-    },
-    {
-      "q": "Vilken stjärntyp representerar ett sent stadium i stjärnors utveckling?",
-      "options": [
-        "Röd superjätte",
-        "Protostjärna",
-        "Blå huvudseriestjärna"
+        "Genom hur dess gravitation böjer av ljus",
+        "Genom radiovågor som den ständigt sänder ut",
+        "Genom att mäta dess ovanligt höga temperatur"
       ],
       "correct": 0,
-      "fact": "Röda superjättar är åldrande stjärnor med stor massa som har förbrukat vätet i sin kärna och svällt upp enormt."
+      "fact": "Mörk materia varken avger eller reflekterar ljus. Astronomer kan bara spåra den genom att observera hur dess gravitation kröker ljuset från mer avlägsna galaxer."
+    },
+    {
+      "q": "Vad består merparten av universums materia av?",
+      "options": [
+        "Lysande stjärnor och heta gasmoln i rymden",
+        "Mörk materia som inte avger något ljus",
+        "Svarta hål i centrum av alla galaxer"
+      ],
+      "correct": 1,
+      "fact": "Ungefär 85 procent av all materia i universum är osynlig mörk materia. Den vanliga materian som bygger upp stjärnor och planeter är bara en liten bråkdel."
+    },
+    {
+      "q": "Vad händer med mörk materia vid galaxkrockar?",
+      "options": [
+        "Den värms upp och sänder ut röntgenljus",
+        "Den splittras i miljontals mindre partikelskurar",
+        "Den glider rakt igenom utan att bromsas"
+      ],
+      "correct": 2,
+      "fact": "Medan den vanliga gasen bromsas in av friktion krockar inte partiklar av mörk materia med varandra, utan fortsätter rakt fram obehindrat."
     }
   ],
   "levels": {
-    "barn": "Titta på den här glittrande rymdstaden! Det är en dvärggalax som kallas NGC 4214. Den är som en lillasyster till vår egen galax Vintergatan. Här föds massor av nya stjärnor i stora, lysande gasmoln. Det ser nästan ut som ett sprakande fyrverkeri på natthimlen. Nyfödda stjärnor blåser bort gasen omkring sig och skapar tomma bubblor i rymden, ungefär som när du blåser såpbubblor. Samtidigt finns det äldre stjärnor som vilar lugnt bredvid de nyfödda bebisstjärnorna.",
-    "nyborjare": "Bilden togs av rymdteleskopet Hubble år 2009 och visar NGC 4214, en dvärggalax ungefär tio miljoner ljusår bort i stjärnbilden Jakthundarna. En dvärggalax är en mindre samling stjärnor jämfört med jättar som Vintergatan, men NGC 4214 sjuder ändå av livlig aktivitet. Området fungerar som ett fantastiskt laboratorium där astronomer kan undersöka hur stjärnbildning startar och utvecklas. I galaxen syns glödande moln av vätgas där nya stjärnor tänds och samlas i täta grupper, vilket kallas en stjärnhop. Unga och heta stjärnor skapar en kraftig stjärnvind som blåser bort den omgivande gasen och gröper ur väldiga hålrum. Samtidigt syns äldre stjärnor, bland annat stjärnor av typen röd superjätte i sena utvecklingsskeden. Eftersom galaxen har gott om vätgas kvar kommer nya stjärnor fortsätta att födas här under lång tid framöver.",
-    "entusiast": "Hubbleteleskopets kamera Wide Field Camera 3 fångade denna detaljerade bild av den oregelbundna dvärggalaxen NGC 4214 i december 2009. Galaxen ligger cirka 10 miljoner ljusår från jorden i stjärnbilden Jakthundarna. Tack vare dess relativa närhet och låga skymning av interstellärt stoft utgör NGC 4214 ett utmärkt laboratorium för att undersöka stjärnutveckling och mekanismerna bakom stjärnbildning i miljöer med låg metallicitet. Observationer i optiskt och nära infrarött ljus avslöjar ett komplext nätverk av joniserat väte kring unga massiva stjärnor. Dessa stjärnor driver intensiva stjärnvindar som tillsammans med supernovor blåser upp gigantiska bubblor och kaviteter i det interstellära mediet. Galaxen genomgår upprepade faser av intensiv stjärnbildning, så kallade starburst-perioder. Förutom nybildade stjärnhopar rymmer NGC 4214 även populationer av mer utvecklade stjärnor, däribland stjärnor av typen röd superjätte och intermediära stjärnor utspridda över hela galaxkroppen. Detta visar att galaxen har genomlevt flera på varandra följande generationer av stjärnfödsel snarare än en enstaka isolerad händelse. Eftersom dvärggalaxen saknar väldefinierade spiralarmar sker processerna i en friare miljö, och med sina rika gasreserver kan stjärnbildning pågå i hundratals miljoner år till."
+    "barn": "Tänk dig två spöken som rusar rakt mot varandra i en mörk korridor. Istället för att krascha glider de rakt igenom varandra utan att sakta in. Precis så beter sig mörk materia i rymden. Bilden visar krockar mellan enorma samlingar av stjärnor som kallas galaxhopar. När de krockar bromsas den vanliga gasen in, ungefär som när du cyklar i djup lera. Men den mystiska mörka materian fortsätter framåt som om ingenting har hänt.",
+    "nyborjare": "År 2015 publicerades denna bildserie som visar krockar mellan kosmiska jättar. När en massiv galaxhop krockar med en annan inträffar en av universums mest våldsamma händelser. Forskare använde rymdteleskopen Hubble och Chandra för att undersöka vad som händer med den mystiska mörka materian vid sådana krockar. Mörk materia är osynlig och sänder inte ut något ljus, men den utgör merparten av all materia i universum.\n\nVid kollisionerna saktas den heta gasen in på grund av motstånd, vilket syns i rosa färg. Den mörka materian, markerad i blått, glider däremot rakt igenom utan att sakta in. Forskarna kunde kartlägga den osynliga massan med hjälp av gravitationslinsning, där dess tyngdkraft böjer ljuset från avlägsna galaxer bakom krocken. Upptäckten ger viktiga ledtrådar om universums dolda byggstenar.",
+    "entusiast": "I en banbrytande studie från 2015 analyserade astronomer 72 storskaliga krockar mellan galaxhopar med hjälp av data från rymdteleskopet Hubble och Chandra-observatoriet. Syftet var att testa om partiklar av mörk materia växelverkar med sig själva när enorma massor drabbar samman. När hoparna kolliderar skiljs deras olika komponenter åt.\n\nDen heta intergalaktiska gasen bromsas upp kraftigt genom elektromagnetisk växelverkan. Den hettas upp till tiotals miljoner grader och avger intensiv röntgenstrålning, vilket framträder i rosa nyanser i Chandra-mätningarna. Galaxernas stjärnor passerar däremot förbi varandra nästan helt utan att krocka, eftersom avstånden mellan dem är enorma.\n\nDen dominerande massan i varje galaxhop utgörs dock av mörk materia, vars fördelning kartlades indirekt via gravitationslinsning. Ljus från bakgrundsgalaxer förvrängs när det passerar hoparnas gravitationsfält. Resultaten visade att den mörka materian inte saktar in nämnvärt under kollisionen. Den fortsätter framåt tillsammans med stjärnorna snarare än att stanna upp med gasen. Detta innebär att mörk materia har ett extremt litet tvärsnitt för självväxelverkan, vilket utesluter flera alternativa teorier och stärker hypotesen om svagt växelverkande massiva partiklar."
   },
   "terms": [
     {
-      "term": "dvärggalax",
-      "explanation": "En mindre galax som består av upp till några miljarder stjärnor, till skillnad från större spiralgalaxer."
+      "term": "mörk materia",
+      "explanation": "En osynlig form av materia som varken lyser eller reflekterar ljus, men vars gravitation håller ihop galaxer."
     },
     {
-      "term": "stjärnbildning",
-      "explanation": "Den fysikaliska process där kalla gasmoln i rymden drar ihop sig under gravitationen och bildar nya stjärnor."
+      "term": "galaxhop",
+      "explanation": "En gigantisk kosmisk struktur som består av hundratals eller tusentals galaxer sammanbundna av gravitation."
     },
     {
-      "term": "stjärnvind",
-      "explanation": "Ett flöde av laddade partiklar som kastas ut i rymden med hög fart från en stjärnas atmosfär."
+      "term": "gravitationslinsning",
+      "explanation": "Ett fenomen där en massiv ansamling av materia kröker rumtiden och förstorar ljuset från bakomliggande objekt."
     },
     {
-      "term": "stjärnhop",
-      "explanation": "En tät grupp av stjärnor som bildats ur samma gasmoln och hålls samman av gravitationen."
-    },
-    {
-      "term": "röd superjätte",
-      "explanation": "En massiv och åldrande stjärna som svällt upp enormt i volym i slutet av sin livscykel."
-    },
-    {
-      "term": "ljusår",
-      "explanation": "Den sträcka som ljuset färdas i vakuum under ett helt år, motsvarande cirka 9,46 biljoner kilometer."
+      "term": "röntgenstrålning",
+      "explanation": "En energirik typ av elektromagnetisk strålning som sänds ut från extremt het gas i universum."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this sparkling space city! This is a dwarf galaxy called NGC 4214. It is like a smaller sibling to our own Milky Way galaxy. Brand new stars are being born inside massive glowing gas clouds, looking like fireworks in the night sky. As these baby stars grow, they blow away nearby gas and make clear bubbles in space, just like blowing soap bubbles. Older stars also rest quietly alongside the newborn stars.",
-      "nyborjare": "Captured by the Hubble Space Telescope in 2009, this image shows NGC 4214, a dwarf galaxy located roughly 10 million light-years away in the constellation Canes Venatici. A dwarf galaxy contains far fewer stars than giants like the Milky Way, but NGC 4214 is bursting with activity. It serves as an ideal laboratory for studying star formation. Luminous clouds of hydrogen glow brightly where new stars ignite and gather into a star cluster. Young and hot stars unleash a powerful stellar wind, pushing away surrounding gas to carve out large cavities. Older stars are also present, including red supergiant stars in late evolutionary stages. Because the galaxy holds abundant hydrogen, it will continue producing stars far into the future.",
-      "entusiast": "Captured in December 2009 with Hubble's Wide Field Camera 3, this image showcases the irregular dwarf galaxy NGC 4214, situated approximately 10 million light-years away in Canes Venatici. Its proximity and low interstellar extinction provide an exceptional laboratory for examining stellar evolution and star formation within dwarf systems. Optical and near-infrared data reveal complex patterns of ionized hydrogen surrounding massive young stars. Intense radiation and stellar wind have blown clear large cavities and bubbles across the interstellar medium. The galaxy experiences recurring starburst episodes rather than a single isolated burst. Beyond newly formed star clusters, NGC 4214 hosts intermediate-age stars and clusters of red supergiant stars distributed across the disc. This diverse stellar population demonstrates multiple past generations of star formation. Thanks to its rich reservoir of neutral and ionized gas, the galaxy maintains ample fuel to sustain vigorous starbirth for hundreds of millions of years, offering key insights into dwarf galaxy evolutionary cycles."
+      "barn": "Imagine two ghosts running straight toward each other. Instead of bumping heads, they glide right through one another without slowing down! That is exactly how dark matter behaves in space. This picture shows giant cosmic families called galaxy clusters crashing into each other. When they collide, the normal gas slows down like a bicycle rolling into mud. But the mysterious dark matter just keeps drifting forward as if nothing happened at all.",
+      "nyborjare": "In 2015, astronomers released this composite view showing cosmic giants in collision. When one massive galaxy cluster collides with another, one of the most violent events in the universe takes place. Researchers used the Hubble Space Telescope and the Chandra X-ray Observatory to study how dark matter behaves during these cosmic pileups. Dark matter is invisible and emits no light, yet it makes up most of the matter in the cosmos.\n\nDuring the collisions, clouds of superheated gas slow down due to friction, revealed in pink. In contrast, the dark matter, mapped in blue, glides straight through without slowing down. Astronomers mapped the invisible mass using gravitational lensing, where immense gravity bends light from distant galaxies behind the cluster. The discovery narrows down what this elusive substance might be.",
+      "entusiast": "In a landmark 2015 study, astronomers examined 72 cluster collisions using data from the Hubble Space Telescope and the Chandra X-ray Observatory. The goal was to test whether dark matter particles interact with each other during cosmic mergers. When clusters collide, their primary components separate based on their physical properties.\n\nIntergalactic gas, which constitutes most normal baryonic matter, slows down significantly due to electromagnetic drag forces. It gets superheated to tens of millions of degrees, releasing luminous X-ray radiation captured in pink by Chandra. The stars within the galaxies pass by each other largely unscathed because the vast empty space between them prevents direct impacts.\n\nDark matter forms the bulk of each galaxy cluster and was mapped indirectly through gravitational lensing, measuring how cluster gravity warps the light of background galaxies. The findings revealed that dark matter continues moving forward without significant deceleration. This lack of drag places strict upper limits on the self-interaction cross-section of dark matter, ruling out various theoretical models and supporting weakly interacting massive particle candidates."
     },
     "terms": [
       {
-        "term": "dwarf galaxy",
-        "explanation": "A small galaxy composed of up to several billion stars, significantly smaller than large spiral galaxies."
+        "term": "dark matter",
+        "explanation": "An invisible form of matter that does not emit or absorb light, detectable only through its gravitational pull."
       },
       {
-        "term": "star formation",
-        "explanation": "The process by which dense interstellar gas clouds collapse under gravity to create new stars."
+        "term": "galaxy cluster",
+        "explanation": "A massive cosmic structure consisting of hundreds or thousands of galaxies held together by gravity."
       },
       {
-        "term": "stellar wind",
-        "explanation": "A continuous flow of charged particles ejected outward into space from the atmosphere of a star."
+        "term": "gravitational lensing",
+        "explanation": "The bending and magnification of light from distant objects caused by the gravity of a massive foreground mass."
       },
       {
-        "term": "star cluster",
-        "explanation": "A gravitationally bound group of stars that formed together from the same parent molecular cloud."
-      },
-      {
-        "term": "red supergiant",
-        "explanation": "An aging, high-mass star that has expanded to enormous proportions near the end of its life."
+        "term": "X-ray radiation",
+        "explanation": "A high-energy form of electromagnetic radiation emitted by extremely hot gas and violent cosmic processes."
       }
     ],
     "quiz": [
       {
-        "q": "What does a dwarf galaxy like NGC 4214 mostly consist of?",
+        "q": "How do astronomers detect invisible dark matter?",
         "options": [
-          "A single giant star cluster",
-          "A few billion stars, gas and dust",
-          "Only dark matter and gas clouds"
-        ],
-        "correct": 1,
-        "fact": "Dwarf galaxies typically contain between a few million and a few billion stars, far fewer than giant spiral galaxies."
-      },
-      {
-        "q": "Why does hydrogen gas glow in star-forming regions?",
-        "options": [
-          "It reflects light from passing comets",
-          "Radioactive decay heats the dust",
-          "Hot young stars ionize surrounding gas"
-        ],
-        "correct": 2,
-        "fact": "Ultraviolet radiation from massive newborn stars ionizes nearby hydrogen gas, causing it to emit visible light."
-      },
-      {
-        "q": "Which type of star represents an advanced evolutionary stage?",
-        "options": [
-          "Red supergiant",
-          "Protostar",
-          "Blue main-sequence star"
+          "By how its gravity bends background light",
+          "By detecting radio waves it constantly emits",
+          "By measuring its unusually high thermal temperature"
         ],
         "correct": 0,
-        "fact": "Red supergiants are massive aging stars that have exhausted hydrogen in their cores and swollen to huge dimensions."
+        "fact": "Dark matter does not emit or reflect light. Astronomers track it indirectly by observing how its intense gravity warps spacetime and bends light."
+      },
+      {
+        "q": "What makes up most matter in the universe?",
+        "options": [
+          "Glowing stars and hot interstellar gas clouds",
+          "Dark matter that emits no detectable light",
+          "Supermassive black holes in distant galactic centers"
+        ],
+        "correct": 1,
+        "fact": "Around 85 percent of all matter in the universe consists of dark matter, far outweighing the normal matter that forms stars and planets."
+      },
+      {
+        "q": "What happens to dark matter during cluster collisions?",
+        "options": [
+          "It heats up and emits intense X-rays",
+          "It shatters into showers of smaller particles",
+          "It passes right through without slowing down"
+        ],
+        "correct": 2,
+        "fact": "Unlike normal gas clouds that collide and drag, dark matter interacts very weakly with itself and drifts straight through collisions unimpeded."
       }
     ]
   }
