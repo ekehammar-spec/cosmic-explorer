@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble's High-Definition Panoramic View of the Andromeda Galaxy",
-  "title_sv": "Hubbles högupplösta panoramavy över Andromedagalaxen",
+  "title": "Hubble Sees a Galactic Sunflower",
+  "title_sv": "Solrosgalaxen Messier 63 sedd av Hubble",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000833",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000615/GSFC_20171208_Archive_e000615~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000615/GSFC_20171208_Archive_e000615~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000615/GSFC_20171208_Archive_e000615~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000615",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000833",
+  "id": "GSFC_20171208_Archive_e000615",
   "px": [
     1280,
-    720
+    1200
   ],
   "w": 640,
-  "h": 360,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIDBAUBBv/EACEQAAIBBAICAwAAAAAAAAAAAAABAwIEETEhQQUSFFFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AyVaYeGi5DYN49qcIr/M9uZFnJ2ryNXT4WhDXjiigSbqp/PoeS+hbw0mlpLg85XeVN7IncN9laoibEewACXsZAAJ//9k=",
+  "h": 600,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGBP/EACQQAAIBBAEFAAMBAAAAAAAAAAECEQADBCExBRJBUWETQnGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECESEx/9oADAMBAAIRAxEAPwBLatpqEnfPitlrGLEkLE/KHhIkN3AMRHJp3jMgPgpO4/3+Vm86XMpi1sLktbJn1WO7iBf1I+1Z3rWP+BWV5J9eKTZaowZYBb5TNaDkmbF8I8hmWRzzqmFjqT2wCw0phj8qas35kGZG9Ua5klbpEt7oaBMqB1e20LGz6EboF3qMzEKKQXMxmdZUCOSPNDbKuE9oJ7Rsbo8Kdaf/2Q==",
   "quiz": [
     {
-      "q": "Vilken typ av galax är Andromedagalaxen?",
+      "q": "Varför lyser Solrosgalaxens spiralarmar i en stark blå färg?",
       "options": [
-        "En elliptisk dvärggalax",
-        "En oregelbunden galax",
-        "En spiralgalax lik Vintergatan"
-      ],
-      "correct": 2,
-      "fact": "Andromedagalaxen är en jättelik spiralgalax med böjda armar fulla av unga stjärnor, gas och stoft."
-    },
-    {
-      "q": "Vad väntar Andromedagalaxen och Vintergatan i framtiden?",
-      "options": [
-        "De kolliderar och smälter samman",
-        "De glider långsamt ifrån varandra",
-        "De kretsar stabilt kring varandra"
+        "De innehåller heta, nybildade jättestjärnor.",
+        "Ljuset reflekteras från enorma bälten av vattenis.",
+        "Galaxens svarta hål sänder ut blåstrålning."
       ],
       "correct": 0,
-      "fact": "Galaxernas ömsesidiga gravitation drar dem mot varandra, vilket leder till en krock om cirka 4,5 miljarder år."
+      "fact": "Unga och massiva stjärnor brinner med extrem hetta och strålar med ett intensivt blåvitt ljus i galaxens spiralarmar."
     },
     {
-      "q": "Hur långt bort från jorden ligger Andromedagalaxen?",
+      "q": "Vad kallas spiralgalaxer med fragmenterade och ojämna armar?",
       "options": [
-        "Cirka 25 000 ljusår bort",
-        "Cirka 2,5 miljoner ljusår bort",
-        "Cirka 250 miljoner ljusår bort"
+        "Elliptiska jättegalaxer.",
+        "Flockulenta spiralgalaxer.",
+        "Svagt lysande stavgalaxer."
       ],
       "correct": 1,
-      "fact": "Ljuset som Hubble fångade i bilden påbörjade sin resa mot oss för ungefär 2,5 miljoner år sedan."
+      "fact": "Solrosgalaxen är en flockulent spiralgalax, vilket innebär att dess armar är fläckiga och uppdelade i många korta segment."
+    },
+    {
+      "q": "Hur lång tid tar ljuset från Solrosgalaxen till jorden?",
+      "options": [
+        "Cirka 27 000 år.",
+        "Cirka 2,5 miljoner år.",
+        "Cirka 27 miljoner år."
+      ],
+      "correct": 2,
+      "fact": "Messier 63 befinner sig på ett avstånd av ungefär 27 miljoner ljusår från Vintergatan."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor stad ute i rymden, fast byggd av stjärnor istället för hus. Det kallas för en galax! Bilden visar en del av vår närmaste stora granne i rymden, Andromedagalaxen. Den ligger så långt bort att det tar över två miljoner år för dess ljus att nå våra ögon. Ändå är rymdteleskopet Hubble så skarpt att vi kan se enskilda stjärnor och glittrande stjärnhopar, precis som om man kunde se enskilda sandkorn på en jättelik sandstrand.",
-    "nyborjare": "År 2015 presenterade forskare den mest detaljerade panoramabilden någonsin av vår galaktiska granne, Andromedagalaxen. Denna jättelika spiralgalax ligger ungefär 2,5 miljoner ljusår från jorden, vilket gör den till det mest avlägsna objektet vi kan se med blotta ögat. Ett ljusår är den sträcka ljuset färdas på ett år, nästan 950 miljarder mil. Rymdteleskopet Hubble har i denna mosaik lyckats särskilja mer än 100 miljoner enskilda stjärnor över en sträcka på 61 000 ljusår i galaxens skiva. Många av stjärnorna ligger samlade i täta grupper som kallas stjärnhopar. Eftersom Andromedagalaxen liknar vår egen hemgalax, Vintergatan, ger sådana här närbilder astronomer en unik chans att studera hur stjärnor föds, lever och åldras i en spiralgalax sedd utifrån.",
-    "entusiast": "Hubbles monumentala mosaik över Andromedagalaxen (M31), publicerad år 2015 inom ramen för projektet Panchromatic Hubble Andromeda Treasury, utgör ett banbrytande framsteg inom extragalaktisk astronomi. Med hjälp av rymdteleskopets kameror kartlades en 61 000 ljusår lång sektion av galaxens tunna skiva i flera olika våglängder, från ultraviolett till nära infrarött ljus. Trots det enorma avståndet på cirka 2,5 miljoner ljusår lyckas teleskopet upplösa enskilda stjärnor ner till mycket svaga magnituder. Över 100 miljoner stjärnor och tusentals stjärnhopar har identifierats i denna enda bildmosaik. Detta unika datamaterial ger forskare möjlighet att konstruera detaljerade färg-magnitud-diagram och kartlägga stjärnbildningshistorien över stora galaktiska strukturer. Mörka stråk av interstellärt stoft syns tydligt genom skivan, där kalla gasmoln drar ihop sig för att föda nya generationer av stjärnor. Andromedagalaxen är den dominerande medlemmen i Lokala galaxhopen vid sidan av Vintergatan. Spektralanalyser visar att galaxerna närmar sig varandra med en hastighet av ungefär 110 kilometer i sekunden. Den ömsesidiga gravitationen kommer om drygt fyra miljarder år att leda till en kollision och en sammanslagning till en gigantisk elliptisk galax. Att kunna studera M31 med denna extrema detaljrikedom är avgörande för att förstå hur universums stora spiralgalaxer utvecklas och förändras över tid."
+    "barn": "Titta på den här fantastiska rymdsnurran! Den kallas för Solrosgalaxen eftersom dess mönster påminner om fröna i en stor solros. Galaxen är som en gigantisk virvel av miljarder stjärnor ute i rymden. De ljusa, blå prickarna du ser i spiralarmarna är unga stjärnor som nyss har fötts. I mitten lyser galaxen varmt och gult, precis som blommans mitt. Tänk dig en karusell av ren stjärnglans som snurrar runt i mörkret!",
+    "nyborjare": "Den här vackra spiralgalaxen bär det officiella namnet Messier 63, men kallas ofta för Solrosgalaxen tack vare sina slingrande armar som liknar mönstret hos en solros. Denna bild från rymdteleskopet Hubble publicerades år 2015 och visar galaxens inre delar i enastående detalj. Solrosgalaxen ligger ungefär 27 miljoner ljusår bort i stjärnbilden Jakthundarna och ingår i samma galaxgrupp som den kända Virvelgalaxen. De lysande blå stråken i spiralarmarna består av nyfödda, massiva stjärnor och stjärnhopar. Mörkare stråk av rymdstoft vindlar mellan armarna och blockerar stjärnljuset, vilket skapar en dramatisk kontrast. Galaxen upptäcktes redan år 1779 av Pierre Méchain och har sedan dess fascinerat astronomer.",
+    "entusiast": "Messier 63 (NGC 5055) är en klassisk flockulent spiralgalax belägen cirka 27 miljoner ljusår från jorden i stjärnbilden Jakthundarna. Denna observation från rymdteleskopet Hubble, som släpptes 2015, fångar galaxens komplexa stoftstråk och zoner präglade av intensiv stjärnbildning. Till skillnad från spiralgalaxer med storskalig tvåarmad densitetsvågsstruktur saknar Solrosgalaxen sammanhängande huvudarmar. I stället drivs dess fläckiga morfologi av stokastisk självutbredande stjärnbildning, där chockvågor från supernovor komprimerar intilliggande gasmoln och triggar nya generationer av massiva O- och B-stjärnor. Messier 63 tillhör M51-gruppen tillsammans med Virvelgalaxen. Mycket djupa optiska exponeringar har dessutom avslöjat vidsträckta tidvattenströmmar i galaxens halo, rester efter en dvärggalax som slitits sönder under en tidigare sammanslagning. Kärnan uppvisar ett LINER-spektrum vilket tyder på svag ackretion kring ett centralt supermassivt svart hål."
   },
   "terms": [
     {
       "term": "spiralgalax",
-      "explanation": "En platt roterande galax med spiralarmar av unga stjärnor, gas och stoft som sträcker sig ut från centrum."
+      "explanation": "En roterande skivformad galax med spiralarmar av gas, stoft och stjärnor som sträcker sig ut från centrum."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd en ljusstråle färdas i rymdens vakuum under ett jordår, cirka 9,46 biljoner kilometer."
+      "explanation": "Den sträcka som ljuset färdas i rymdens vakuum under ett jordiskt år, cirka 9,46 biljoner kilometer."
     },
     {
-      "term": "stjärnhop",
-      "explanation": "En samling stjärnor som hålls samman av gravitationen och har bildats tillsammans ur samma gigantiska gasmoln."
+      "term": "stjärnbildning",
+      "explanation": "Processen där täta moln av gas och stoft i rymden drar ihop sig och bildar nya stjärnor."
     },
     {
-      "term": "Lokala galaxhopen",
-      "explanation": "Den grupp av galaxer som omfattar Vintergatan, Andromedagalaxen och ett femtiotal mindre dvärggalaxer."
+      "term": "tidvattenströmmar",
+      "explanation": "Långsträckta band av stjärnor och gas som slitits loss från en mindre galax genom gravitationella krafter."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a huge city in space, built out of stars instead of buildings. That is called a galaxy! This picture shows a portion of our closest large neighbor, the Andromeda Galaxy. It is so far away that its light takes over two million years to reach us. Even so, the Hubble Space Telescope is sharp enough to see individual stars and glowing star clusters, just like seeing grains of sand on a giant beach.",
-      "nyborjare": "In 2015, astronomers released the sharpest panoramic view ever taken of our galactic neighbor, the Andromeda Galaxy. This giant spiral galaxy is located about 2.5 million light-years from Earth, making it the most distant object visible to the naked human eye. A light-year is the distance light travels in one year, nearly ten trillion kilometers. In this mosaic, the Hubble Space Telescope managed to resolve more than 100 million individual stars across a 61,000-light-year span of the galaxy's disk. Many of these stars gather in dense groups called star clusters. Because Andromeda is similar to our own Milky Way, such detailed views allow astronomers to study how stars are born, evolve, and age within a large spiral galaxy seen from the outside.",
-      "entusiast": "Hubble's panoramic mosaic of the Andromeda Galaxy (M31), released in 2015 as part of the Panchromatic Hubble Andromeda Treasury survey, represents a major milestone in extragalactic astronomy. Using the space telescope's advanced cameras, astronomers mapped a 61,000-light-year section of Andromeda's disk across wavelengths ranging from ultraviolet to near-infrared. Despite the vast distance of 2.5 million light-years, Hubble resolved over 100 million individual stars down to faint magnitudes, alongside thousands of star clusters. This dataset allows astronomers to construct color-magnitude diagrams and reconstruct the spatially resolved star formation history of a massive spiral galaxy. Dense lanes of interstellar dust outline regions where molecular clouds collapse to form new stellar generations. Together with the Milky Way, Andromeda dominates the Local Group of galaxies. Radial velocity measurements demonstrate that the two systems are approaching each other at approximately 110 kilometers per second. In about four billion years, gravitational interaction will drive a major merger, transforming the pair into a giant elliptical galaxy. Studying M31 at this resolution provides unprecedented insight into disk kinematics, metallicity gradients, and stellar populations in an external spiral galaxy."
+      "barn": "Look at this wonderful cosmic pinwheel! It is called the Sunflower Galaxy because its shape looks just like the center of a sunflower. The galaxy is a gigantic whirlpool of billions of glowing stars. The bright blue spots scattered throughout the swirling arms are brand new baby stars. In the very middle, older stars glow with a warm yellow light, just like the heart of a flower floating silently in space.",
+      "nyborjare": "Officially catalogued as Messier 63, this magnificent spiral galaxy earned its popular nickname, the Sunflower Galaxy, from its sweeping arms that mimic the spiral pattern of sunflower seeds. This view from the Hubble Space Telescope was released in 2015, showcasing the inner disk in breathtaking detail. Messier 63 resides roughly 27 million light-years from Earth in the constellation Canes Venatici and belongs to the M51 Group alongside the famous Whirlpool Galaxy. Glowing blue lanes trace clusters of newborn giant stars, while winding filaments of dark cosmic dust absorb background starlight, creating dramatic contrast across the galactic disk.",
+      "entusiast": "Messier 63 (NGC 5055) is an archetypal flocculent spiral galaxy situated approximately 27 million light-years away in Canes Venatici. This Hubble Space Telescope view, released in 2015, resolves intricate dust lanes and pockets of intense star formation throughout the inner disk. Unlike grand-design spirals governed by large-scale two-armed density waves, flocculent spirals lack continuous prominent arms. Instead, their patchy structure is shaped by stochastic self-propagating star formation, where supernova blast waves compress neighboring molecular gas clouds to ignite successive generations of luminous O- and B-type stars. Deep wide-field imaging has revealed faint giant stellar tidal streams in the halo, signatures of an accreted satellite dwarf galaxy. Messier 63 also hosts a LINER nucleus, hinting at a weakly accreting supermassive black hole."
     },
     "terms": [
       {
         "term": "spiral galaxy",
-        "explanation": "A flattened rotating galaxy with spiral arms of stars, gas, and dust emerging from a central core."
+        "explanation": "A rotating disk-shaped galaxy featuring winding spiral arms composed of gas, dust, and stars."
       },
       {
-        "term": "light-year",
-        "explanation": "The distance light travels through vacuum in one Julian year, equal to roughly 9.46 trillion kilometers."
+        "term": "light-years",
+        "explanation": "The distance light travels through vacuum in one Earth year, roughly 9.46 trillion kilometers."
       },
       {
-        "term": "star cluster",
-        "explanation": "A gravitationally bound group of stars that formed together from the same giant molecular cloud."
+        "term": "star formation",
+        "explanation": "The astrophysical process by which dense regions inside interstellar molecular clouds collapse to form stars."
       },
       {
-        "term": "Local Group",
-        "explanation": "The small cluster of galaxies that includes the Milky Way, Andromeda, Triangulum, and dozens of dwarf galaxies."
+        "term": "tidal streams",
+        "explanation": "Extended ribbons of stars and gas torn away from smaller galaxies by powerful gravitational tidal forces."
       }
     ],
     "quiz": [
       {
-        "q": "What type of galaxy is the Andromeda Galaxy?",
+        "q": "Why do the Sunflower Galaxy's spiral arms shine bright blue?",
         "options": [
-          "An elliptical dwarf galaxy",
-          "An irregular dwarf galaxy",
-          "A spiral galaxy like our own"
-        ],
-        "correct": 2,
-        "fact": "Andromeda is a massive spiral galaxy featuring prominent spiral arms rich in young stars, gas, and dust."
-      },
-      {
-        "q": "What is the future fate of Andromeda and the Milky Way?",
-        "options": [
-          "They will collide and merge together",
-          "They will drift ever further apart",
-          "They will orbit each other stably"
+          "They contain hot, newly formed giant stars.",
+          "Light reflects off enormous water ice belts.",
+          "The central black hole emits blue radiation."
         ],
         "correct": 0,
-        "fact": "Mutual gravity is pulling the two galaxies toward each other, leading to a collision in roughly four billion years."
+        "fact": "Massive and hot young stars burn at extreme temperatures, radiating intensely in blue and ultraviolet light."
       },
       {
-        "q": "How far from Earth is the Andromeda Galaxy located?",
+        "q": "What are spiral galaxies with fragmented and patchy arms called?",
         "options": [
-          "About 25,000 light-years away",
-          "About 2.5 million light-years away",
-          "About 250 million light-years away"
+          "Giant elliptical galaxies.",
+          "Flocculent spiral galaxies.",
+          "Faint barred galaxies."
         ],
         "correct": 1,
-        "fact": "The light captured by Hubble set out on its journey to Earth approximately 2.5 million years ago."
+        "fact": "Messier 63 is a flocculent spiral galaxy, characterized by numerous patchy arm segments rather than continuous spiral arms."
+      },
+      {
+        "q": "How long does light from the Sunflower Galaxy take to reach Earth?",
+        "options": [
+          "Around 27,000 years.",
+          "Around 2.5 million years.",
+          "Around 27 million years."
+        ],
+        "correct": 2,
+        "fact": "Messier 63 is located approximately 27 million light-years away from our Milky Way galaxy."
       }
     ]
   }
