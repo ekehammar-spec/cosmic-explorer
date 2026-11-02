@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "NASA Find Clues that May Help Identify Dark Matter",
-  "title_sv": "Kolliderande galaxhopar avslöjar mörk materia",
+  "title": "Hubble's High-Definition Panoramic View of the Andromeda Galaxy",
+  "title_sv": "Hubbles högupplösta panoramavy över Andromedagalaxen",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000752/GSFC_20171208_Archive_e000752~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000752/GSFC_20171208_Archive_e000752~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000752/GSFC_20171208_Archive_e000752~orig.png",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000752",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000833",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000752",
+  "id": "GSFC_20171208_Archive_e000833",
   "px": [
     1280,
-    771
+    720
   ],
   "w": 640,
-  "h": 385,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIDAQQG/8QAIhAAAQQBBAIDAAAAAAAAAAAAAQACAxFBBBITMSEiM1Fh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhEhEiJB/9oADAMBAAIRAxEAPwDioYtPNFtLiyXBPRWsWNbLtfYA7VHQu4mytyaoYKiLe4WbJyVa+maR385GlEY+Mmv1VMcccYLiS8+RXSzNp2xuDQfY4RPp+KNhsewsC1Xxb6t5ORkarpItc7YW2a+knRCELPZcJKMHG7s2nlcTVnCEIlnHsM//2Q==",
+  "h": 360,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIDBAUBBv/EACEQAAIBBAICAwAAAAAAAAAAAAABAwIEETEhQQUSFFFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AyVaYeGi5DYN49qcIr/M9uZFnJ2ryNXT4WhDXjiigSbqp/PoeS+hbw0mlpLg85XeVN7IncN9laoibEewACXsZAAJ//9k=",
   "quiz": [
     {
-      "q": "Hur spåras mörk materia när den inte syns?",
+      "q": "Vilken typ av galax är Andromedagalaxen?",
       "options": [
-        "Genom hur dess gravitation böjer av ljus",
-        "Genom radiovågor som den ständigt sänder ut",
-        "Genom att mäta dess ovanligt höga temperatur"
-      ],
-      "correct": 0,
-      "fact": "Mörk materia varken avger eller reflekterar ljus. Astronomer kan bara spåra den genom att observera hur dess gravitation kröker ljuset från mer avlägsna galaxer."
-    },
-    {
-      "q": "Vad består merparten av universums materia av?",
-      "options": [
-        "Lysande stjärnor och heta gasmoln i rymden",
-        "Mörk materia som inte avger något ljus",
-        "Svarta hål i centrum av alla galaxer"
-      ],
-      "correct": 1,
-      "fact": "Ungefär 85 procent av all materia i universum är osynlig mörk materia. Den vanliga materian som bygger upp stjärnor och planeter är bara en liten bråkdel."
-    },
-    {
-      "q": "Vad händer med mörk materia vid galaxkrockar?",
-      "options": [
-        "Den värms upp och sänder ut röntgenljus",
-        "Den splittras i miljontals mindre partikelskurar",
-        "Den glider rakt igenom utan att bromsas"
+        "En elliptisk dvärggalax",
+        "En oregelbunden galax",
+        "En spiralgalax lik Vintergatan"
       ],
       "correct": 2,
-      "fact": "Medan den vanliga gasen bromsas in av friktion krockar inte partiklar av mörk materia med varandra, utan fortsätter rakt fram obehindrat."
+      "fact": "Andromedagalaxen är en jättelik spiralgalax med böjda armar fulla av unga stjärnor, gas och stoft."
+    },
+    {
+      "q": "Vad väntar Andromedagalaxen och Vintergatan i framtiden?",
+      "options": [
+        "De kolliderar och smälter samman",
+        "De glider långsamt ifrån varandra",
+        "De kretsar stabilt kring varandra"
+      ],
+      "correct": 0,
+      "fact": "Galaxernas ömsesidiga gravitation drar dem mot varandra, vilket leder till en krock om cirka 4,5 miljarder år."
+    },
+    {
+      "q": "Hur långt bort från jorden ligger Andromedagalaxen?",
+      "options": [
+        "Cirka 25 000 ljusår bort",
+        "Cirka 2,5 miljoner ljusår bort",
+        "Cirka 250 miljoner ljusår bort"
+      ],
+      "correct": 1,
+      "fact": "Ljuset som Hubble fångade i bilden påbörjade sin resa mot oss för ungefär 2,5 miljoner år sedan."
     }
   ],
   "levels": {
-    "barn": "Tänk dig två spöken som rusar rakt mot varandra i en mörk korridor. Istället för att krascha glider de rakt igenom varandra utan att sakta in. Precis så beter sig mörk materia i rymden. Bilden visar krockar mellan enorma samlingar av stjärnor som kallas galaxhopar. När de krockar bromsas den vanliga gasen in, ungefär som när du cyklar i djup lera. Men den mystiska mörka materian fortsätter framåt som om ingenting har hänt.",
-    "nyborjare": "År 2015 publicerades denna bildserie som visar krockar mellan kosmiska jättar. När en massiv galaxhop krockar med en annan inträffar en av universums mest våldsamma händelser. Forskare använde rymdteleskopen Hubble och Chandra för att undersöka vad som händer med den mystiska mörka materian vid sådana krockar. Mörk materia är osynlig och sänder inte ut något ljus, men den utgör merparten av all materia i universum.\n\nVid kollisionerna saktas den heta gasen in på grund av motstånd, vilket syns i rosa färg. Den mörka materian, markerad i blått, glider däremot rakt igenom utan att sakta in. Forskarna kunde kartlägga den osynliga massan med hjälp av gravitationslinsning, där dess tyngdkraft böjer ljuset från avlägsna galaxer bakom krocken. Upptäckten ger viktiga ledtrådar om universums dolda byggstenar.",
-    "entusiast": "I en banbrytande studie från 2015 analyserade astronomer 72 storskaliga krockar mellan galaxhopar med hjälp av data från rymdteleskopet Hubble och Chandra-observatoriet. Syftet var att testa om partiklar av mörk materia växelverkar med sig själva när enorma massor drabbar samman. När hoparna kolliderar skiljs deras olika komponenter åt.\n\nDen heta intergalaktiska gasen bromsas upp kraftigt genom elektromagnetisk växelverkan. Den hettas upp till tiotals miljoner grader och avger intensiv röntgenstrålning, vilket framträder i rosa nyanser i Chandra-mätningarna. Galaxernas stjärnor passerar däremot förbi varandra nästan helt utan att krocka, eftersom avstånden mellan dem är enorma.\n\nDen dominerande massan i varje galaxhop utgörs dock av mörk materia, vars fördelning kartlades indirekt via gravitationslinsning. Ljus från bakgrundsgalaxer förvrängs när det passerar hoparnas gravitationsfält. Resultaten visade att den mörka materian inte saktar in nämnvärt under kollisionen. Den fortsätter framåt tillsammans med stjärnorna snarare än att stanna upp med gasen. Detta innebär att mörk materia har ett extremt litet tvärsnitt för självväxelverkan, vilket utesluter flera alternativa teorier och stärker hypotesen om svagt växelverkande massiva partiklar."
+    "barn": "Tänk dig en jättestor stad ute i rymden, fast byggd av stjärnor istället för hus. Det kallas för en galax! Bilden visar en del av vår närmaste stora granne i rymden, Andromedagalaxen. Den ligger så långt bort att det tar över två miljoner år för dess ljus att nå våra ögon. Ändå är rymdteleskopet Hubble så skarpt att vi kan se enskilda stjärnor och glittrande stjärnhopar, precis som om man kunde se enskilda sandkorn på en jättelik sandstrand.",
+    "nyborjare": "År 2015 presenterade forskare den mest detaljerade panoramabilden någonsin av vår galaktiska granne, Andromedagalaxen. Denna jättelika spiralgalax ligger ungefär 2,5 miljoner ljusår från jorden, vilket gör den till det mest avlägsna objektet vi kan se med blotta ögat. Ett ljusår är den sträcka ljuset färdas på ett år, nästan 950 miljarder mil. Rymdteleskopet Hubble har i denna mosaik lyckats särskilja mer än 100 miljoner enskilda stjärnor över en sträcka på 61 000 ljusår i galaxens skiva. Många av stjärnorna ligger samlade i täta grupper som kallas stjärnhopar. Eftersom Andromedagalaxen liknar vår egen hemgalax, Vintergatan, ger sådana här närbilder astronomer en unik chans att studera hur stjärnor föds, lever och åldras i en spiralgalax sedd utifrån.",
+    "entusiast": "Hubbles monumentala mosaik över Andromedagalaxen (M31), publicerad år 2015 inom ramen för projektet Panchromatic Hubble Andromeda Treasury, utgör ett banbrytande framsteg inom extragalaktisk astronomi. Med hjälp av rymdteleskopets kameror kartlades en 61 000 ljusår lång sektion av galaxens tunna skiva i flera olika våglängder, från ultraviolett till nära infrarött ljus. Trots det enorma avståndet på cirka 2,5 miljoner ljusår lyckas teleskopet upplösa enskilda stjärnor ner till mycket svaga magnituder. Över 100 miljoner stjärnor och tusentals stjärnhopar har identifierats i denna enda bildmosaik. Detta unika datamaterial ger forskare möjlighet att konstruera detaljerade färg-magnitud-diagram och kartlägga stjärnbildningshistorien över stora galaktiska strukturer. Mörka stråk av interstellärt stoft syns tydligt genom skivan, där kalla gasmoln drar ihop sig för att föda nya generationer av stjärnor. Andromedagalaxen är den dominerande medlemmen i Lokala galaxhopen vid sidan av Vintergatan. Spektralanalyser visar att galaxerna närmar sig varandra med en hastighet av ungefär 110 kilometer i sekunden. Den ömsesidiga gravitationen kommer om drygt fyra miljarder år att leda till en kollision och en sammanslagning till en gigantisk elliptisk galax. Att kunna studera M31 med denna extrema detaljrikedom är avgörande för att förstå hur universums stora spiralgalaxer utvecklas och förändras över tid."
   },
   "terms": [
     {
-      "term": "mörk materia",
-      "explanation": "En osynlig form av materia som varken lyser eller reflekterar ljus, men vars gravitation håller ihop galaxer."
+      "term": "spiralgalax",
+      "explanation": "En platt roterande galax med spiralarmar av unga stjärnor, gas och stoft som sträcker sig ut från centrum."
     },
     {
-      "term": "galaxhop",
-      "explanation": "En gigantisk kosmisk struktur som består av hundratals eller tusentals galaxer sammanbundna av gravitation."
+      "term": "ljusår",
+      "explanation": "Det avstånd en ljusstråle färdas i rymdens vakuum under ett jordår, cirka 9,46 biljoner kilometer."
     },
     {
-      "term": "gravitationslinsning",
-      "explanation": "Ett fenomen där en massiv ansamling av materia kröker rumtiden och förstorar ljuset från bakomliggande objekt."
+      "term": "stjärnhop",
+      "explanation": "En samling stjärnor som hålls samman av gravitationen och har bildats tillsammans ur samma gigantiska gasmoln."
     },
     {
-      "term": "röntgenstrålning",
-      "explanation": "En energirik typ av elektromagnetisk strålning som sänds ut från extremt het gas i universum."
+      "term": "Lokala galaxhopen",
+      "explanation": "Den grupp av galaxer som omfattar Vintergatan, Andromedagalaxen och ett femtiotal mindre dvärggalaxer."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine two ghosts running straight toward each other. Instead of bumping heads, they glide right through one another without slowing down! That is exactly how dark matter behaves in space. This picture shows giant cosmic families called galaxy clusters crashing into each other. When they collide, the normal gas slows down like a bicycle rolling into mud. But the mysterious dark matter just keeps drifting forward as if nothing happened at all.",
-      "nyborjare": "In 2015, astronomers released this composite view showing cosmic giants in collision. When one massive galaxy cluster collides with another, one of the most violent events in the universe takes place. Researchers used the Hubble Space Telescope and the Chandra X-ray Observatory to study how dark matter behaves during these cosmic pileups. Dark matter is invisible and emits no light, yet it makes up most of the matter in the cosmos.\n\nDuring the collisions, clouds of superheated gas slow down due to friction, revealed in pink. In contrast, the dark matter, mapped in blue, glides straight through without slowing down. Astronomers mapped the invisible mass using gravitational lensing, where immense gravity bends light from distant galaxies behind the cluster. The discovery narrows down what this elusive substance might be.",
-      "entusiast": "In a landmark 2015 study, astronomers examined 72 cluster collisions using data from the Hubble Space Telescope and the Chandra X-ray Observatory. The goal was to test whether dark matter particles interact with each other during cosmic mergers. When clusters collide, their primary components separate based on their physical properties.\n\nIntergalactic gas, which constitutes most normal baryonic matter, slows down significantly due to electromagnetic drag forces. It gets superheated to tens of millions of degrees, releasing luminous X-ray radiation captured in pink by Chandra. The stars within the galaxies pass by each other largely unscathed because the vast empty space between them prevents direct impacts.\n\nDark matter forms the bulk of each galaxy cluster and was mapped indirectly through gravitational lensing, measuring how cluster gravity warps the light of background galaxies. The findings revealed that dark matter continues moving forward without significant deceleration. This lack of drag places strict upper limits on the self-interaction cross-section of dark matter, ruling out various theoretical models and supporting weakly interacting massive particle candidates."
+      "barn": "Imagine a huge city in space, built out of stars instead of buildings. That is called a galaxy! This picture shows a portion of our closest large neighbor, the Andromeda Galaxy. It is so far away that its light takes over two million years to reach us. Even so, the Hubble Space Telescope is sharp enough to see individual stars and glowing star clusters, just like seeing grains of sand on a giant beach.",
+      "nyborjare": "In 2015, astronomers released the sharpest panoramic view ever taken of our galactic neighbor, the Andromeda Galaxy. This giant spiral galaxy is located about 2.5 million light-years from Earth, making it the most distant object visible to the naked human eye. A light-year is the distance light travels in one year, nearly ten trillion kilometers. In this mosaic, the Hubble Space Telescope managed to resolve more than 100 million individual stars across a 61,000-light-year span of the galaxy's disk. Many of these stars gather in dense groups called star clusters. Because Andromeda is similar to our own Milky Way, such detailed views allow astronomers to study how stars are born, evolve, and age within a large spiral galaxy seen from the outside.",
+      "entusiast": "Hubble's panoramic mosaic of the Andromeda Galaxy (M31), released in 2015 as part of the Panchromatic Hubble Andromeda Treasury survey, represents a major milestone in extragalactic astronomy. Using the space telescope's advanced cameras, astronomers mapped a 61,000-light-year section of Andromeda's disk across wavelengths ranging from ultraviolet to near-infrared. Despite the vast distance of 2.5 million light-years, Hubble resolved over 100 million individual stars down to faint magnitudes, alongside thousands of star clusters. This dataset allows astronomers to construct color-magnitude diagrams and reconstruct the spatially resolved star formation history of a massive spiral galaxy. Dense lanes of interstellar dust outline regions where molecular clouds collapse to form new stellar generations. Together with the Milky Way, Andromeda dominates the Local Group of galaxies. Radial velocity measurements demonstrate that the two systems are approaching each other at approximately 110 kilometers per second. In about four billion years, gravitational interaction will drive a major merger, transforming the pair into a giant elliptical galaxy. Studying M31 at this resolution provides unprecedented insight into disk kinematics, metallicity gradients, and stellar populations in an external spiral galaxy."
     },
     "terms": [
       {
-        "term": "dark matter",
-        "explanation": "An invisible form of matter that does not emit or absorb light, detectable only through its gravitational pull."
+        "term": "spiral galaxy",
+        "explanation": "A flattened rotating galaxy with spiral arms of stars, gas, and dust emerging from a central core."
       },
       {
-        "term": "galaxy cluster",
-        "explanation": "A massive cosmic structure consisting of hundreds or thousands of galaxies held together by gravity."
+        "term": "light-year",
+        "explanation": "The distance light travels through vacuum in one Julian year, equal to roughly 9.46 trillion kilometers."
       },
       {
-        "term": "gravitational lensing",
-        "explanation": "The bending and magnification of light from distant objects caused by the gravity of a massive foreground mass."
+        "term": "star cluster",
+        "explanation": "A gravitationally bound group of stars that formed together from the same giant molecular cloud."
       },
       {
-        "term": "X-ray radiation",
-        "explanation": "A high-energy form of electromagnetic radiation emitted by extremely hot gas and violent cosmic processes."
+        "term": "Local Group",
+        "explanation": "The small cluster of galaxies that includes the Milky Way, Andromeda, Triangulum, and dozens of dwarf galaxies."
       }
     ],
     "quiz": [
       {
-        "q": "How do astronomers detect invisible dark matter?",
+        "q": "What type of galaxy is the Andromeda Galaxy?",
         "options": [
-          "By how its gravity bends background light",
-          "By detecting radio waves it constantly emits",
-          "By measuring its unusually high thermal temperature"
-        ],
-        "correct": 0,
-        "fact": "Dark matter does not emit or reflect light. Astronomers track it indirectly by observing how its intense gravity warps spacetime and bends light."
-      },
-      {
-        "q": "What makes up most matter in the universe?",
-        "options": [
-          "Glowing stars and hot interstellar gas clouds",
-          "Dark matter that emits no detectable light",
-          "Supermassive black holes in distant galactic centers"
-        ],
-        "correct": 1,
-        "fact": "Around 85 percent of all matter in the universe consists of dark matter, far outweighing the normal matter that forms stars and planets."
-      },
-      {
-        "q": "What happens to dark matter during cluster collisions?",
-        "options": [
-          "It heats up and emits intense X-rays",
-          "It shatters into showers of smaller particles",
-          "It passes right through without slowing down"
+          "An elliptical dwarf galaxy",
+          "An irregular dwarf galaxy",
+          "A spiral galaxy like our own"
         ],
         "correct": 2,
-        "fact": "Unlike normal gas clouds that collide and drag, dark matter interacts very weakly with itself and drifts straight through collisions unimpeded."
+        "fact": "Andromeda is a massive spiral galaxy featuring prominent spiral arms rich in young stars, gas, and dust."
+      },
+      {
+        "q": "What is the future fate of Andromeda and the Milky Way?",
+        "options": [
+          "They will collide and merge together",
+          "They will drift ever further apart",
+          "They will orbit each other stably"
+        ],
+        "correct": 0,
+        "fact": "Mutual gravity is pulling the two galaxies toward each other, leading to a collision in roughly four billion years."
+      },
+      {
+        "q": "How far from Earth is the Andromeda Galaxy located?",
+        "options": [
+          "About 25,000 light-years away",
+          "About 2.5 million light-years away",
+          "About 250 million light-years away"
+        ],
+        "correct": 1,
+        "fact": "The light captured by Hubble set out on its journey to Earth approximately 2.5 million years ago."
       }
     ]
   }

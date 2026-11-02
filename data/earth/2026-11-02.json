@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-02",
+  "title": "Pennsylvania’s Grand Canyon",
+  "title_sv": "Pennsylvanias Grand Canyon",
+  "place": "Pennsylvania, USA",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey . Photo by fishhawk , via Flickr.",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+  "w": 480,
+  "h": 467,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDAQQG/8QAIhAAAQQCAQQDAAAAAAAAAAAAAQACESEDEjEEIkFRcYHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMA/8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBIf/aAAwDAQACEQMRAD8A82AA2SVRmgb3UZUvNLJbNqeqKnLBgcLcRc/JLjq33wkHaJ1BnglKSSIJ+kQQpIPIQ2DM0fhOMLoJNAWVR+M4C0aguInutLVjGF0cknwLQ/AZ4cK9IdlGRwnePN3+Lp6fE3M8jC/R01ItA6//2Q==",
+  "levels": {
+    "barn": "Titta på den vackra bilden från rymden! Den visar en djup dal med skogar som slingrar sig fram. Skogen ser ut som en färgsprakande matta i rött och guld eftersom det är höst. Dalen är skapad av glaciärer för väldigt länge sedan. Vattnet i floden rann åt ett annat håll först men isen ändrade dess väg. Nu växer det stora skogar här igen där vilda djur som svarta björnar bor.",
+    "nyborjare": "Solen skiner på höstlöven i Pine Creek Gorge i Pennsylvania som ofta kallas för Pennsylvanias Grand Canyon. Satelliten Landsat 8 har tagit bilden med sitt instrument Operational Land Imager den 25 oktober 2026. Ravinen är omkring 72 kilometer lång och 460 meter djup. Istiden spelade en avgörande roll för dess form när glaciärer dämde upp floden så att sjöar bildades. När isen smälte strömmade vattnet söderut och gröpte ur dalen. Området drabbades av hårt skogsbruk på 1800-talet då träden höggs ner för att göra fartygsmaster och garva läder men skogen har kommit tillbaka.",
+    "entusiast": "Denna rymdbild över Pine Creek Gorge i norra Pennsylvania fångades den 25 oktober 2026 av instrumentet Operational Land Imager ombord på NASA och USGS satellit Landsat 8. Ravinen sträcker sig cirka 72 kilometer från Ansonia till sammanflödet med West Branch Susquehanna River och når ett djup på omkring 460 meter. Topografin präglas av frodig vegetation och lövskog som under hösten skiftar i rött och guld. Bilden visar hur glaciärer under den senaste istiden avancerade från nordost och dämde upp floden Pine Creek som tidigare rann norrut. Vattnet bildade sjöar vars utflöde tvingades söderut. Smältvatten samt sediment som lämnades kvar av isen förhindrade floden att vända tillbaka vilket fördjupade och formade dalen i dess nuvarande sydliga lopp. Skogarna består i dag av norra lövträd blandat med ek samt inslag av hemlockgran och vit tall. Historiskt sett kalhöggs området under 1800-talet för träindustri och lädergarvning vilket ledde till kraftig erosion innan skogen återhämtade sig och återfick sin status som ett skyddat naturmärke år 1968."
+  },
+  "terms": [
+    {
+      "term": "Landsat 8",
+      "explanation": "En satellit som används för att studera jorden och som tog bilden av ravinen."
+    },
+    {
+      "term": "Pine Creek Gorge",
+      "explanation": "En 72 kilometer lång ravin i norra Pennsylvania som kallas för Pennsylvanias Grand Canyon."
+    },
+    {
+      "term": "Operational Land Imager",
+      "explanation": "Det instrument som sitter på Landsat 8 och som fångade bilden av det skogsklädda landskapet."
+    },
+    {
+      "term": "Allegheny Plateau",
+      "explanation": "Ett platåområde där floden Pine Creek banar sin väg genom skogarna."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this beautiful space picture! It shows a deep valley with forests winding through it. The forest looks like a colorful rug in red and gold because it is autumn. The valley was shaped by glaciers a very long time ago. The river used to flow in the opposite direction but ice changed its path. Now big forests grow here again where wild animals like black bears live.",
+      "nyborjare": "Sunlight illuminates the autumn leaves in Pine Creek Gorge in Pennsylvania which is often called the Grand Canyon of Pennsylvania. The Landsat 8 satellite captured the image using its Operational Land Imager instrument on October 25, 2026. The gorge runs for about 72 kilometers and reaches depths of around 460 meters. The ice age played a key role in its formation when advancing glaciers dammed the river creating lakes. When the ice melted the water streamed south and carved out the valley. The area suffered from heavy logging in the 19th century when trees were cut down for ship masts and tanning leather but the forest has since returned.",
+      "entusiast": "This spaceborne image of Pine Creek Gorge in north-central Pennsylvania was captured on October 25, 2026 by the Operational Land Imager aboard the NASA-USGS Landsat 8 satellite. The gorge extends for roughly 72 kilometers from Ansonia to the confluence with the West Branch Susquehanna River reaching depths of about 460 meters. The topography is defined by lush vegetation and deciduous forests that turn red and gold in autumn. The image illustrates how glaciers during the last ice age advanced from the northeast and dammed Pine Creek which previously flowed northward. The water formed lakes whose overflow was forced southward. Glacial meltwater and leftover sediments prevented the river from turning back north thereby deepening and shaping the valley into its current southern course. The forests today consist of northern hardwoods and mixed oak with scattered hemlock and white pine. Historically the area was clear-cut in the 19th century for timber and tannin extraction leading to severe deforestation before the forest recovered and was designated a National Natural Landmark in 1968."
+    },
+    "terms": [
+      {
+        "term": "Landsat 8",
+        "explanation": "A satellite used to study Earth which captured the image of the gorge."
+      },
+      {
+        "term": "Pine Creek Gorge",
+        "explanation": "A 72-kilometer-long gorge in north-central Pennsylvania nicknamed the Grand Canyon of Pennsylvania."
+      },
+      {
+        "term": "Operational Land Imager",
+        "explanation": "The instrument on board the Landsat 8 satellite that captured the image of the forested landscape."
+      },
+      {
+        "term": "Allegheny Plateau",
+        "explanation": "A plateau region through which Pine Creek carves its path among the forests."
+      }
+    ],
+    "place": "Pennsylvania, USA"
+  }
+}

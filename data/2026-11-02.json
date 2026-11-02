@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-02",
+  "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
+  "title_sv": "Kattungens huvuds nebulosa",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
+  "link": "https://www.nasa.gov/image-detail/full-res-for-display-6/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/full-res-for-display-6/",
+  "px": [
+    1600,
+    1107
+  ],
+  "w": 480,
+  "h": 332,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwb/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABBEFEjEUIUETImEyQnGh0f/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAZEQEBAQEBAQAAAAAAAAAAAAABAgARAyH/2gAMAwEAAhEDEQA/AOektwqZjOcHtTenWCSwyrOGWd1zDk4B/tbaZDG7K84DIzbfxW8tqbaUXBLM8Th13N2ZBzigTTtGpHhpV1ZInIKzfcGGMUn0L7MqufORVzUykt9MCSCPp+RSaMVcAN7RxkYoQsue5KB21pP6cAjTIYDJPPmm3jfqChcMrj08eO4ooqifppL+Oux6JE1pAtwxcogwF7fuoGsaZ0MgZX3RSDcgPI+DRRSegc7m8KWub//Z",
+  "quiz": [
+    {
+      "q": "Vad är en nebulosa för något?",
+      "options": [
+        "Ett moln av gas och stoft i rymden",
+        "En döende stjärna som har kollapsat",
+        "En tät samling av miljarder unga stjärnor"
+      ],
+      "correct": 0,
+      "fact": "Nebulosor är gigantiska moln av gas och stoft där nya stjärnor ofta bildas."
+    },
+    {
+      "q": "Vilken våglängd använder James Webb-teleskopet främst här?",
+      "options": [
+        "Ultraviolett ljus",
+        "Infrarött ljus",
+        "Röntgenstrålning"
+      ],
+      "correct": 1,
+      "fact": "Infrarött ljus kan tränga igenom det tjocka stoftet och visa dolda strukturer."
+    },
+    {
+      "q": "Varför lyser det upp i nebulosan?",
+      "options": [
+        "Stjärnornas ljus exciterar gasen och stoftet",
+        "Friktionen skapar värme mellan stoftkornen",
+        "Radioaktivt avfall strålar ut i mörkret"
+      ],
+      "correct": 0,
+      "fact": "Energi från närliggande stjärnor värmer upp stoftet och får molekylerna att lysa."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig ett jättestort moln av färggrann sockervadd långt ut i rymden. Det här är ett rymdmoln som glittrar i mörkret tack vare att stjärnor skiner på det. Stjärnornas ljus värmer upp det lilla stoftet så att molnet börjar lysa. Det liknar ett jättelikt katthuvud som svävar bland stjärnorna.",
+    "nyborjare": "En nebulosa är ett enormt moln av gas och stoft som svävar ute i rymden. Bilden är tagen med James Webb-teleskopet som är känsligt för infrarött ljus vilket är en sorts värmestrålning som människoögat inte kan se. Det gör att teleskopet kan kika rakt igenom de täta molnen. Ljuset från unga stjärnor i närheten träffar det varma stoftet och får kolbaserade molekyler att lysa upp i fantastiska mönster.",
+    "entusiast": "James Webb-teleskopets midinfraröda instrument ger en unik inblick i Kattungens huvuds nebulosa. Strålningen från varma stoftkorn och polycykliska aromatiska kolväten exciteras av den intensiva stjärnstrålningen i regionen. Genom att observera i det infraröda spektrumet kan astronomer avslöja de dolda processerna i stjärnbildningsområden som annars döljs av optiskt ogenomträngligt interstellärt stoft."
+  },
+  "terms": [
+    {
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och rymdstoft där nya stjärnor ofta föds."
+    },
+    {
+      "term": "infrarött",
+      "explanation": "En typ av osynlig värmestrålning med längre våglängd än det synliga ljuset."
+    },
+    {
+      "term": "stjärnstrålning",
+      "explanation": "Den energi och det ljus som stjärnor ständigt skickar ut i rymden."
+    },
+    {
+      "term": "stoft",
+      "explanation": "Små fasta partiklar av kol, kisel och andra grundämnen som flyter runt i rymden."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant, colorful cloud of cotton candy far out in space. This is a cosmic cloud that sparkles in the dark because stars are shining on it. The starlight warms up the tiny dust particles so the cloud starts to glow. It looks just like a giant cat head floating among the stars.",
+      "nyborjare": "A nebula is an enormous cloud of gas and dust floating in space. This image was captured by the James Webb Space Telescope, which is sensitive to infrared light, a type of heat radiation invisible to the human eye. This allows the telescope to peer right through dense clouds. Light from nearby young stars hits the warm dust and causes carbon-based molecules to light up in stunning patterns.",
+      "entusiast": "The mid-infrared view from the James Webb Space Telescope provides a unique insight into the Cat's Head Nebula. Radiation from warm dust grains and carbon-based molecules is excited by intense stellar radiation within the region. Observing in the infrared spectrum allows astronomers to uncover hidden processes in star-forming areas that are normally obscured by optically opaque interstellar dust."
+    },
+    "terms": [
+      {
+        "term": "nebula",
+        "explanation": "A massive cloud of gas and cosmic dust where new stars are often born."
+      },
+      {
+        "term": "infrared",
+        "explanation": "A type of invisible heat radiation with longer wavelengths than visible light."
+      },
+      {
+        "term": "starlight",
+        "explanation": "The energy and light that stars constantly emit into space."
+      },
+      {
+        "term": "dust",
+        "explanation": "Small solid particles of carbon, silicon, and other elements floating in space."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a nebula?",
+        "options": [
+          "A vast cloud of gas and dust",
+          "A dying star that has collapsed",
+          "A dense cluster of young stars"
+        ],
+        "correct": 0,
+        "fact": "Nebulae are giant clouds of gas and dust where new stars often form."
+      },
+      {
+        "q": "What wavelength does the Webb telescope mainly use here?",
+        "options": [
+          "Ultraviolet light",
+          "Infrared light",
+          "X-rays"
+        ],
+        "correct": 1,
+        "fact": "Infrared light can penetrate thick dust and reveal hidden structures."
+      },
+      {
+        "q": "Why does the nebula light up?",
+        "options": [
+          "Starlight excites the gas and dust",
+          "Friction creates heat between dust grains",
+          "Radioactive waste glows in the dark"
+        ],
+        "correct": 0,
+        "fact": "Energy from nearby stars warms the dust and makes molecules glow."
+      }
+    ]
+  }
+}

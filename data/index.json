@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-02",
+  "media_type": "image",
+  "title": "Kattungens huvuds nebulosa",
+  "title_en": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=480"
+ },
+ {
   "date": "2026-11-01",
   "media_type": "image",
   "title": "Spår efter rullande stenblock på månen",
@@ -121,9 +128,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Kolliderande galaxhopar avslöjar mörk materia",
-  "title_en": "NASA Find Clues that May Help Identify Dark Matter",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000752/GSFC_20171208_Archive_e000752~small.jpg"
+  "title": "Hubbles högupplösta panoramavy över Andromedagalaxen",
+  "title_en": "Hubble's High-Definition Panoramic View of the Andromeda Galaxy",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000833/GSFC_20171208_Archive_e000833~small.jpg"
  },
  {
   "date": "2026-10-14",
