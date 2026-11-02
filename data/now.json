@@ -1,16 +1,26 @@
 {
- "updated": "2026-11-02T11:45:38.292Z",
+ "updated": "2026-11-02T19:54:56.632Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-11-02T00:00:00Z",
+   "date": "2026-11-02T12:00:00Z",
+   "title_sv": "Tropiska cyklonen Murasu",
+   "title_en": "Tropical Cyclone Murasu",
+   "where_sv": "Norra Indiska oceanen",
+   "where_en": "Northern Indian Ocean",
+   "value_sv": "vindar på 120 km/h",
+   "value_en": "winds of 120 km/h"
+  },
+  {
+   "kind": "storm",
+   "date": "2026-11-02T12:00:00Z",
    "title_sv": "Tyfonen In-fa",
    "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 130 km/h",
-   "value_en": "winds of 130 km/h"
+   "value_sv": "vindar på 120 km/h",
+   "value_en": "winds of 120 km/h"
   },
   {
    "kind": "ice",

@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Sees a Galactic Sunflower",
-  "title_sv": "Solrosgalaxen Messier 63 sedd av Hubble",
+  "title": "Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy",
+  "title_sv": "Galaxen Kiso 5639",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000615/GSFC_20171208_Archive_e000615~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000615/GSFC_20171208_Archive_e000615~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000615/GSFC_20171208_Archive_e000615~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000615",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/GSFC_20171208_Archive_e000278~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/GSFC_20171208_Archive_e000278~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/GSFC_20171208_Archive_e000278~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000278",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000615",
+  "id": "GSFC_20171208_Archive_e000278",
   "px": [
     1280,
-    1200
+    848
   ],
   "w": 640,
-  "h": 600,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGBP/EACQQAAIBBAEFAAMBAAAAAAAAAAECEQADBCExBRJBUWETQnGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECESEx/9oADAMBAAIRAxEAPwBLatpqEnfPitlrGLEkLE/KHhIkN3AMRHJp3jMgPgpO4/3+Vm86XMpi1sLktbJn1WO7iBf1I+1Z3rWP+BWV5J9eKTZaowZYBb5TNaDkmbF8I8hmWRzzqmFjqT2wCw0phj8qas35kGZG9Ua5klbpEt7oaBMqB1e20LGz6EboF3qMzEKKQXMxmdZUCOSPNDbKuE9oJ7Rsbo8Kdaf/2Q==",
+  "h": 424,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFAwf/xAAjEAABAwIGAwEAAAAAAAAAAAABAAIRAwQFEiExQVETFCJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAFBMf/aAAwDAQACEQMRAD8A5/AyzP1O0IaxztgSkN1Vs8UpWltkFpTfVmfI7XTqFJJL1P8AXqASWOjuFkRCo3WMXVyC1zgG9AaKeSSZRhERH6EuIQhAwJhN4yvIHBQhNVj/2Q==",
   "quiz": [
     {
-      "q": "Varför lyser Solrosgalaxens spiralarmar i en stark blå färg?",
+      "q": "Vad kallas galaxer med en långsträckt svans?",
       "options": [
-        "De innehåller heta, nybildade jättestjärnor.",
-        "Ljuset reflekteras från enorma bälten av vattenis.",
-        "Galaxens svarta hål sänder ut blåstrålning."
-      ],
-      "correct": 0,
-      "fact": "Unga och massiva stjärnor brinner med extrem hetta och strålar med ett intensivt blåvitt ljus i galaxens spiralarmar."
-    },
-    {
-      "q": "Vad kallas spiralgalaxer med fragmenterade och ojämna armar?",
-      "options": [
-        "Elliptiska jättegalaxer.",
-        "Flockulenta spiralgalaxer.",
-        "Svagt lysande stavgalaxer."
+        "Tandemgalaxer",
+        "Tadpolegalaxer",
+        "Kometgalaxer"
       ],
       "correct": 1,
-      "fact": "Solrosgalaxen är en flockulent spiralgalax, vilket innebär att dess armar är fläckiga och uppdelade i många korta segment."
+      "fact": "Galaxer med en ljusstark huvuddel och en stjärnbeströdd svans liknar grodyngel och kallas därför för tadpolegalaxer på engelska."
     },
     {
-      "q": "Hur lång tid tar ljuset från Solrosgalaxen till jorden?",
+      "q": "Vilket ämne dominerar i intergalaktisk gas?",
       "options": [
-        "Cirka 27 000 år.",
-        "Cirka 2,5 miljoner år.",
-        "Cirka 27 miljoner år."
+        "Väte",
+        "Kol",
+        "Syre"
       ],
-      "correct": 2,
-      "fact": "Messier 63 befinner sig på ett avstånd av ungefär 27 miljoner ljusår från Vintergatan."
+      "correct": 0,
+      "fact": "Intergalaktisk rymd innehåller mestadels ursprunglig och ren gas som består av väte."
+    },
+    {
+      "q": "Hur skapas de stora hålen i galaxens huvud?",
+      "options": [
+        "Av tunga svarta hål",
+        "Av våldsamma supernovaexplosioner",
+        "Av solvindar från unga stjärnor"
+      ],
+      "correct": 1,
+      "fact": "När tunga stjärnor dör i supernovaexplosioner sprängs hål i den heta gasen och ger galaxen ett utseende som påminner om schweizerost."
     }
   ],
   "levels": {
-    "barn": "Titta på den här fantastiska rymdsnurran! Den kallas för Solrosgalaxen eftersom dess mönster påminner om fröna i en stor solros. Galaxen är som en gigantisk virvel av miljarder stjärnor ute i rymden. De ljusa, blå prickarna du ser i spiralarmarna är unga stjärnor som nyss har fötts. I mitten lyser galaxen varmt och gult, precis som blommans mitt. Tänk dig en karusell av ren stjärnglans som snurrar runt i mörkret!",
-    "nyborjare": "Den här vackra spiralgalaxen bär det officiella namnet Messier 63, men kallas ofta för Solrosgalaxen tack vare sina slingrande armar som liknar mönstret hos en solros. Denna bild från rymdteleskopet Hubble publicerades år 2015 och visar galaxens inre delar i enastående detalj. Solrosgalaxen ligger ungefär 27 miljoner ljusår bort i stjärnbilden Jakthundarna och ingår i samma galaxgrupp som den kända Virvelgalaxen. De lysande blå stråken i spiralarmarna består av nyfödda, massiva stjärnor och stjärnhopar. Mörkare stråk av rymdstoft vindlar mellan armarna och blockerar stjärnljuset, vilket skapar en dramatisk kontrast. Galaxen upptäcktes redan år 1779 av Pierre Méchain och har sedan dess fascinerat astronomer.",
-    "entusiast": "Messier 63 (NGC 5055) är en klassisk flockulent spiralgalax belägen cirka 27 miljoner ljusår från jorden i stjärnbilden Jakthundarna. Denna observation från rymdteleskopet Hubble, som släpptes 2015, fångar galaxens komplexa stoftstråk och zoner präglade av intensiv stjärnbildning. Till skillnad från spiralgalaxer med storskalig tvåarmad densitetsvågsstruktur saknar Solrosgalaxen sammanhängande huvudarmar. I stället drivs dess fläckiga morfologi av stokastisk självutbredande stjärnbildning, där chockvågor från supernovor komprimerar intilliggande gasmoln och triggar nya generationer av massiva O- och B-stjärnor. Messier 63 tillhör M51-gruppen tillsammans med Virvelgalaxen. Mycket djupa optiska exponeringar har dessutom avslöjat vidsträckta tidvattenströmmar i galaxens halo, rester efter en dvärggalax som slitits sönder under en tidigare sammanslagning. Kärnan uppvisar ett LINER-spektrum vilket tyder på svag ackretion kring ett centralt supermassivt svart hål."
+    "barn": "Tänk dig en raket som skjuts upp på nyårsafton. I rymden finns det en liten galax som ser precis ut så eftersom den har ett starkt lysande huvud och en lång svans full av stjärnor. Nu bildas det massor av nya stjärnor där galaxen rör sig genom rymden och det ser ut som ett riktigt fyrverkeri.",
+    "nyborjare": "Denna rymdbild visar dvärggalaxen Kiso 5639 som ligger åttiotvå miljoner ljusår bort. Galaxen påminner om en fyrverkeripjäs eller ett grodyngel eftersom den har ett mycket ljust huvud och en lång stjärnspäckad svans. Forskare tror att den våldsamma födelsen av nya stjärnor beror på att gas från rymden regnar ner över galaxen när den rör sig. Hubble-teleskopet har tagit denna detaljerade bild för att studera hur galaxer växer och utvecklas under sin barndom.",
+    "entusiast": "Dvärggalaxen Kiso 5639 är ett sällsynt närbeläget exempel på de långsträckta galaxer som brukar kallas tadpolegalaxer och som utgör ungefär tio procent av alla galaxer i det tidiga universum. Observationer med Hubble-teleskopet visar en intensiv stjärnbildning i galaxens huvud som spänner över 2700 ljusår med stjärnhopar som är yngre än en miljon år. Gasspektroskopi visar att gasen i stjärnfabriken har lägre metallhalt än resten av galaxen vilket talar för tillförsel av ren vätegas från intergalaktiska filament. Dessa dramatiska processer ger värdefulla insikter om hur galaxer som vår egen Vintergata växte till genom ackretion under universums tidigare epoker."
   },
   "terms": [
     {
-      "term": "spiralgalax",
-      "explanation": "En roterande skivformad galax med spiralarmar av gas, stoft och stjärnor som sträcker sig ut från centrum."
+      "term": "galax",
+      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationskraften och innehåller miljarder stjärnor samt gas och stoft."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som ljuset färdas i rymdens vakuum under ett jordiskt år, cirka 9,46 biljoner kilometer."
+      "explanation": "Det avstånd som ljuset hinner färdas på ett helt jordår vilket är ungefär 9,46 biljoner kilometer."
     },
     {
-      "term": "stjärnbildning",
-      "explanation": "Processen där täta moln av gas och stoft i rymden drar ihop sig och bildar nya stjärnor."
+      "term": "supernovaexplosion",
+      "explanation": "Den våldsamma och ljusstarka kollaps som inträffar när en tung stjärna har dött ut."
     },
     {
-      "term": "tidvattenströmmar",
-      "explanation": "Långsträckta band av stjärnor och gas som slitits loss från en mindre galax genom gravitationella krafter."
+      "term": "ackretion",
+      "explanation": "När ett astronomiskt objekt drar till sig materia utifrån på grund av sin egen gravitation."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this wonderful cosmic pinwheel! It is called the Sunflower Galaxy because its shape looks just like the center of a sunflower. The galaxy is a gigantic whirlpool of billions of glowing stars. The bright blue spots scattered throughout the swirling arms are brand new baby stars. In the very middle, older stars glow with a warm yellow light, just like the heart of a flower floating silently in space.",
-      "nyborjare": "Officially catalogued as Messier 63, this magnificent spiral galaxy earned its popular nickname, the Sunflower Galaxy, from its sweeping arms that mimic the spiral pattern of sunflower seeds. This view from the Hubble Space Telescope was released in 2015, showcasing the inner disk in breathtaking detail. Messier 63 resides roughly 27 million light-years from Earth in the constellation Canes Venatici and belongs to the M51 Group alongside the famous Whirlpool Galaxy. Glowing blue lanes trace clusters of newborn giant stars, while winding filaments of dark cosmic dust absorb background starlight, creating dramatic contrast across the galactic disk.",
-      "entusiast": "Messier 63 (NGC 5055) is an archetypal flocculent spiral galaxy situated approximately 27 million light-years away in Canes Venatici. This Hubble Space Telescope view, released in 2015, resolves intricate dust lanes and pockets of intense star formation throughout the inner disk. Unlike grand-design spirals governed by large-scale two-armed density waves, flocculent spirals lack continuous prominent arms. Instead, their patchy structure is shaped by stochastic self-propagating star formation, where supernova blast waves compress neighboring molecular gas clouds to ignite successive generations of luminous O- and B-type stars. Deep wide-field imaging has revealed faint giant stellar tidal streams in the halo, signatures of an accreted satellite dwarf galaxy. Messier 63 also hosts a LINER nucleus, hinting at a weakly accreting supermassive black hole."
+      "barn": "Imagine a firework rocket lighting up the sky. Out in space there is a small galaxy that looks just like that because it has a glowing head and a long tail full of stars. New stars are being born as the galaxy moves through space creating a giant cosmic firework display.",
+      "nyborjare": "This space image captures the dwarf galaxy Kiso 5639 located eighty-two million light-years away. The galaxy resembles a skyrocket because of its blazing head and long star-studded tail. Researchers believe that this frenzy of star birth is sparked by pristine gas raining down onto the galaxy as it drifts through space. The Hubble Space Telescope captured this detailed view to help astronomers understand how galaxies grow during their early stages.",
+      "entusiast": "The dwarf galaxy Kiso 5639 is a rare nearby example of elongated galaxies known as tadpoles which make up about ten percent of all galaxies in the early universe. Observations with the Hubble Space Telescope reveal intense star formation in a head spanning 2700 light-years with star clusters younger than one million years. Spectroscopic data show that the gas in the starburst region has a lower metallicity indicating an influx of pristine hydrogen-rich gas from intergalactic space. These observations provide vital clues about how galaxies like our Milky Way accumulated mass and grew up through cosmic accretion."
     },
     "terms": [
       {
-        "term": "spiral galaxy",
-        "explanation": "A rotating disk-shaped galaxy featuring winding spiral arms composed of gas, dust, and stars."
+        "term": "galaxy",
+        "explanation": "A massive system bound together by gravity containing billions of stars along with gas and dust."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance light travels through vacuum in one Earth year, roughly 9.46 trillion kilometers."
+        "term": "light-year",
+        "explanation": "The enormous distance that a beam of light travels through a vacuum in one Earth year."
       },
       {
-        "term": "star formation",
-        "explanation": "The astrophysical process by which dense regions inside interstellar molecular clouds collapse to form stars."
+        "term": "supernova",
+        "explanation": "The powerful and luminous explosion marking the spectacular death of a massive star."
       },
       {
-        "term": "tidal streams",
-        "explanation": "Extended ribbons of stars and gas torn away from smaller galaxies by powerful gravitational tidal forces."
+        "term": "accretion",
+        "explanation": "The gradual accumulation of matter onto an astronomical body driven by mutual gravitational attraction."
       }
     ],
     "quiz": [
       {
-        "q": "Why do the Sunflower Galaxy's spiral arms shine bright blue?",
+        "q": "What are elongated galaxies with a tail called?",
         "options": [
-          "They contain hot, newly formed giant stars.",
-          "Light reflects off enormous water ice belts.",
-          "The central black hole emits blue radiation."
-        ],
-        "correct": 0,
-        "fact": "Massive and hot young stars burn at extreme temperatures, radiating intensely in blue and ultraviolet light."
-      },
-      {
-        "q": "What are spiral galaxies with fragmented and patchy arms called?",
-        "options": [
-          "Giant elliptical galaxies.",
-          "Flocculent spiral galaxies.",
-          "Faint barred galaxies."
+          "Tandem galaxies",
+          "Tadpole galaxies",
+          "Comet galaxies"
         ],
         "correct": 1,
-        "fact": "Messier 63 is a flocculent spiral galaxy, characterized by numerous patchy arm segments rather than continuous spiral arms."
+        "fact": "Galaxies featuring a brilliant head and a star-studded tail resemble tadpoles and are referred to as such."
       },
       {
-        "q": "How long does light from the Sunflower Galaxy take to reach Earth?",
+        "q": "Which element dominates in intergalactic gas?",
         "options": [
-          "Around 27,000 years.",
-          "Around 2.5 million years.",
-          "Around 27 million years."
+          "Hydrogen",
+          "Carbon",
+          "Oxygen"
         ],
-        "correct": 2,
-        "fact": "Messier 63 is located approximately 27 million light-years away from our Milky Way galaxy."
+        "correct": 0,
+        "fact": "Intergalactic space largely consists of pristine gas composed mostly of hydrogen."
+      },
+      {
+        "q": "How are the giant holes in the head formed?",
+        "options": [
+          "By heavy black holes",
+          "By violent supernova explosions",
+          "By stellar winds from young stars"
+        ],
+        "correct": 1,
+        "fact": "When massive stars die in supernova detonations they carve out cavities of superheated gas resembling Swiss cheese."
       }
     ]
   }
