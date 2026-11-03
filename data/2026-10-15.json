@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy",
-  "title_sv": "Kiso 5639",
+  "title": "A cosmic question in NGC 4696",
+  "title_sv": "NGC 4696",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o~orig.jpg",
-  "link": "https://images.nasa.gov/details/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001995/GSFC_20171208_Archive_e001995~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001995/GSFC_20171208_Archive_e001995~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001995/GSFC_20171208_Archive_e001995~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001995",
   "credit": "NASA/GSFC",
-  "taken": "2016",
+  "taken": "2017",
   "src": "library",
-  "id": "hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o",
+  "id": "GSFC_20171208_Archive_e001995",
   "px": [
     1280,
-    848
+    602
   ],
   "w": 640,
-  "h": 424,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFAwf/xAAjEAABAwIGAwEAAAAAAAAAAAABAAIRAwQFEiExQVETFCJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAFBMf/aAAwDAQACEQMRAD8A5/AyzP1O0IaxztgSkN1Vs8UpWltkFpTfVmfI7XTqFJJL1P8AXqASWOjuFkRCo3WMXVyC1zgG9AaKeSSZRhERH6EuIQhAwJhN4yvIHBQhNVj/2Q==",
+  "h": 301,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAPACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EAB4QAAEFAAIDAAAAAAAAAAAAAAEAAgMEEQUTITGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDPGDVTpw6R4SEOtd8Vik7EovcbQ7MGJq/REDSCMKChb6QCPaDkr5l0nUH/2Q==",
   "quiz": [
     {
-      "q": "Vad är en dvärggalax?",
+      "q": "Vad är en elliptisk galax för typ av system?",
       "options": [
-        "En mindre galax med miljarder stjärnor",
-        "En stjärna som kretsar kring en planet",
-        "Ett svart hål som slutat växa"
+        "Ett stjärnsystem med en form som liknar en utdragen boll",
+        "En platt skiva av gas och stoft med spiralarmar",
+        "Ett moln av enbart fritt väte och mörk materia"
       ],
       "correct": 0,
-      "fact": "En dvärggalax är en mindre galax som innehåller allt från några få miljoner upp till några miljarder stjärnor."
+      "fact": "Elliptiska galaxer har en ellipsoid form och saknar de karakteristiska spiralarmarna som finns hos till exempel Vintergatan."
     },
     {
-      "q": "Vad är intergalaktisk gas?",
+      "q": "Hur transporteras materia oftast över stora avstånd i kosmos?",
       "options": [
-        "Gas som finns inuti enskilda stjärnor",
-        "Gas som flyter i rymden mellan galaxer",
-        "Atomer som bildas vid solens yta"
+        "Genom gigantiska strömmar av gas och stoft",
+        "Med hjälp av stationära magnetfält i vakuum",
+        "Genom att stjärnor rör sig fritt mellan galaxerna"
       ],
-      "correct": 1,
-      "fact": "Intergalaktisk gas är den materia som finns utspridd i rymden mellan olika galaxer."
+      "correct": 0,
+      "fact": "Stora strömmar av gas och kosmiskt stoft rör sig ständigt mellan stjärnor och galaxer i universum."
     },
     {
-      "q": "Hur bildas tyngre grundämnen i rymden?",
+      "q": "Vilken roll spelar joniserat väte i studiet av galaxer?",
       "options": [
-        "Genom att kometer krockar med månar",
-        "Inuti stjärnor och när stjärnor dör",
-        "När tomrum expanderar i universum"
+        "Det visar var det bildas nya stjärnor och var gasen värms upp",
+        "Det binder samman galaxen så att den roterar som en enhet",
+        "Det skapar det mörka svalget i galaxens absoluta mittpunkt"
       ],
-      "correct": 1,
-      "fact": "Stjärnor fungerar som jättelika fabriker som skapar och sprider tyngre ämnen när de åldras och exploderar."
+      "correct": 0,
+      "fact": "Joniserat väte lyser upp i speciella våglängder när gasen exciteras av strålning från heta stjärnor eller andra processer."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en raket som skjuts upp på nyårsafton med sprakande eldar. I rymden finns det en liten galax som ser precis ut som ett sådant fyrverkeripaket. Ena änden lyses upp av massor av nyfödda stjärnor som glimrar som små gnistor i mörkret.",
-    "nyborjare": "Bilden visar en dvärggalax som kallas Kiso 5639 och ligger 82 miljoner ljusår bort. Den har formen av en platt pannkaka men syns från sidan, vilket gör att den liknar en raket med ett flammande huvud och en lång svans. Forskare tror att intensiv stjärnbildning startar när gas från rymden regnar ner på galaxen.",
-    "entusiast": "Hubble-teleskopet har fångat dvärggalaxen Kiso 5639, ett sällsynt exempel på en långsträckt galax som kallas grodyngelgalax. Bilden visar en intensiv stjärnbildningsfas i galaxens ena ände där stjärnklumpförekomster bildas i rasande takt. Observationer med rymdteleskopet och markbaserade instrument visar att inkommande metallfattig gas utlöser denna stjärnbloss. Supernovor har sprängt ut enorma hål i galaxens gasrika huvud."
+    "barn": "Tänk dig en jättestor virvel av stjärnor som flyger runt i mörka rymden. Den här galaxen ser ut som en luddig boll full av gnistrande diamanter. Rakt igenom den går ett mörkt stråk som ser ut som ett moln av chokladpulver som någon har rört om i. Det är en otrolig plats långt borta där miljarder stjärnor bor tillsammans.",
+    "nyborjare": "Denna bild visar galaxen NGC 4696, som är den största galaxen i Centaurusklustret. Till skillnad från vanliga platta spiralgalaxer har denna en elliptisk form och påminner om en rundad boll av ljus. Över galaxens mitt löper ett enormt mörkt stoftstråk som mäter omkring 30 000 ljusår i diameter. När astronomer tittar på den i specifika våglängder kan de se tunna filament av joniserat väte som bildar ett marmorerat mönster i mitten.",
+    "entusiast": "NGC 4696 är ett fascinerande objekt beläget i Centaurusklustret och klassificeras som en elliptisk galax. Observationer gjorda med rymdteleskopet Hubbles Advanced Camera for Surveys avslöjar exceptionella detaljer, inklusive det cirka 30 000 ljusår breda stoftbandet som sträcker sig tvärs över dess kärna. Studier av de tunna filamenten av joniserat väte ger viktig information om hur gas interagerar med det supermassiva svarta hålet i galaxens centrum och hur det påverkar stjärnbildningen i galaxhopar."
   },
   "terms": [
     {
-      "term": "dvärggalax",
-      "explanation": "En mindre typ av galax som rymmer betydligt färre stjärnor än stora system som Vintergatan."
+      "term": "galax",
+      "explanation": "Ett enormt system av stjärnor, gas, stoft och mörk materia som hålls samman av gravitationen."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som ljuset tillryggalägger under ett helt jordår."
+      "explanation": "Det avstånd som ljuset hinner färdas på ett helt jordår, vilket motsvarar ungefär 9,46 biljoner kilometer."
     },
     {
-      "term": "supernova",
-      "explanation": "En våldsam explosion som markerar slutet på en tung stjärnas liv."
+      "term": "joniserat",
+      "explanation": "Atomer som har förlorat eller tagit upp elektroner så att de har fått en elektrisk laddning."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett avancerat optiskt instrument placerat i omloppsbana ovanför jordens atmosfär."
+      "term": "stoft",
+      "explanation": "Små fasta partiklar av tunga grundämnen som svävar i rymden mellan stjärnorna."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a rocket shooting up into the night sky with sparkling lights. Out in space there is a small galaxy that looks just like a July Fourth skyrocket. One end of it is lit up by newborn stars glowing like tiny sparks.",
-      "nyborjare": "The image shows a dwarf galaxy called Kiso 5639 located 82 million light-years away. It is shaped like a pancake but viewed edge-on, making it resemble a skyrocket with a blazing head and a long tail. Researchers believe intense star birth is triggered when gas rains down onto the galaxy.",
-      "entusiast": "The Hubble Space Telescope has captured the dwarf galaxy Kiso 5639, a rare nearby example of an elongated tadpole galaxy. The image reveals a frantic starburst event at one end of the system where giant star clusters form rapidly. Observations show that incoming pristine gas triggers this burst of star birth while supernova detonations carve giant cavities into the gas."
+      "barn": "Imagine a giant swirl of stars flying around in the dark space. This galaxy looks like a fuzzy ball full of sparkling diamonds. Right through the middle goes a dark streak that looks like a cloud of chocolate powder stirred around. It is an incredible place far away where billions of stars live together.",
+      "nyborjare": "This image shows the galaxy NGC 4696, which is the largest galaxy in the Centaurus Cluster. Unlike typical flat spiral galaxies, this one has an elliptical shape and resembles a rounded ball of light. Across the center of the galaxy runs an immense dark dust lane measuring about 30 000 light-years across. When astronomers observe it at specific wavelengths, they can see thin filaments of ionized hydrogen forming a marbled pattern in the center.",
+      "entusiast": "NGC 4696 is a fascinating object located in the Centaurus Cluster and is classified as an elliptical galaxy. Observations made with the Hubble Space Telescope's Advanced Camera for Surveys reveal exceptional details, including the approximately 30 000 light-year wide dust lane stretching across its core. Studies of the thin filaments of ionized hydrogen provide vital information on how gas interacts with the supermassive black hole at the galaxy's center and how it affects star formation in galaxy clusters."
     },
     "terms": [
       {
-        "term": "dwarf galaxy",
-        "explanation": "A smaller class of galaxy containing significantly fewer stars than massive systems like our own."
+        "term": "galaxy",
+        "explanation": "A massive system of stars, gas, dust, and dark matter held together by gravity."
       },
       {
-        "term": "light-year",
-        "explanation": "The immense distance that a beam of light travels through empty space during one Earth year."
+        "term": "light-years",
+        "explanation": "The distance that light travels in one Earth year, which is roughly 9.46 trillion kilometers."
       },
       {
-        "term": "supernova",
-        "explanation": "A tremendously powerful explosion marking the terminal stage in the life of a massive star."
+        "term": "ionized",
+        "explanation": "Atoms that have lost or gained electrons, giving them a net electrical charge."
       },
       {
-        "term": "space telescope",
-        "explanation": "An advanced optical instrument operating in orbit above the distorting effects of Earth's atmosphere."
+        "term": "dust",
+        "explanation": "Small solid particles of heavy elements drifting through the space between stars."
       }
     ],
     "quiz": [
       {
-        "q": "What is a dwarf galaxy?",
+        "q": "What type of system is an elliptical galaxy?",
         "options": [
-          "A smaller galaxy with billions of stars",
-          "A star orbiting around a planet",
-          "A black hole that stopped growing"
+          "A star system with a shape resembling an elongated ball",
+          "A flat disk of gas and dust with spiral arms",
+          "A cloud consisting solely of free hydrogen and dark matter"
         ],
         "correct": 0,
-        "fact": "A dwarf galaxy is a smaller type of galaxy containing anywhere from a few million to a few billion stars."
+        "fact": "Elliptical galaxies have an ellipsoidal shape and lack the characteristic spiral arms found in systems like the Milky Way."
       },
       {
-        "q": "What is intergalactic gas?",
+        "q": "How is matter most commonly transported across vast distances in space?",
         "options": [
-          "Gas found deep inside individual stars",
-          "Gas floating in space between galaxies",
-          "Atoms formed directly on stellar surfaces"
+          "Through gigantic streams of gas and cosmic dust",
+          "By means of stationary magnetic fields in vacuum",
+          "Through stars moving freely between different galaxies"
         ],
-        "correct": 1,
-        "fact": "Intergalactic gas is the matter distributed throughout the vast spaces located between separate galaxies."
+        "correct": 0,
+        "fact": "Large streams of gas and cosmic dust constantly move between stars and galaxies throughout the universe."
       },
       {
-        "q": "How are heavier elements created in space?",
+        "q": "What role does ionized hydrogen play in studying galaxies?",
         "options": [
-          "Through comets crashing into moons",
-          "Inside stars and when stars die",
-          "When empty voids expand in the universe"
+          "It reveals where new stars form and where gas is heated",
+          "It binds the galaxy together so it rotates as a single unit",
+          "It creates the dark void located at the exact center of the galaxy"
         ],
-        "correct": 1,
-        "fact": "Stars act like giant factories that forge and disperse heavier elements as they age and explode."
+        "correct": 0,
+        "fact": "Ionized hydrogen emits light at specific wavelengths when the gas is excited by radiation from hot stars or other processes."
       }
     ]
   }
