@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "A cosmic question in NGC 4696",
-  "title_sv": "NGC 4696",
+  "title": "The Two-faced Whirlpool Galaxy",
+  "title_sv": "Malmangalaxen M51",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001995/GSFC_20171208_Archive_e001995~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001995/GSFC_20171208_Archive_e001995~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001995/GSFC_20171208_Archive_e001995~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001995",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001935/GSFC_20171208_Archive_e001935~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001935/GSFC_20171208_Archive_e001935~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001935/GSFC_20171208_Archive_e001935~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001935",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e001995",
+  "id": "GSFC_20171208_Archive_e001935",
   "px": [
-    1280,
-    602
+    1425,
+    1920
   ],
-  "w": 640,
-  "h": 301,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAPACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EAB4QAAEFAAIDAAAAAAAAAAAAAAEAAgMEEQUTITGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDPGDVTpw6R4SEOtd8Vik7EovcbQ7MGJq/REDSCMKChb6QCPaDkr5l0nUH/2Q==",
+  "w": 475,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAIxAAAgEDBAMAAwAAAAAAAAAAAQIDABESBCExQRMiUYGR8f/EABcBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwDB8Q00SLG5Lyi7WFrC/wDanHoZZPUYKCLgu4F6tgi8sKvYZIApxO+x6/dTWLzSbiygW6Gw+34rLbvAZZs+nljf3XvY9UU/FLlFNFbNArPb4R3RSLT1ybIRSOpuhZTfo1Y00uoGMkjuB0TXCUeLJkEe52DHilpZMlxjXxqTxyT+aYXCaecQq6hfeZdxxZDRSQ3Ygm7dk0U0Lt//2Q==",
   "quiz": [
     {
-      "q": "Vad är en elliptisk galax för typ av system?",
+      "q": "Vad är en spiralgalax?",
       "options": [
-        "Ett stjärnsystem med en form som liknar en utdragen boll",
-        "En platt skiva av gas och stoft med spiralarmar",
-        "Ett moln av enbart fritt väte och mörk materia"
+        "Ett roterande system av stjärnor gas och stoft",
+        "En ensam stjärna omgiven av planetsystem",
+        "Ett moln av enbart gas utan stjärnor"
       ],
       "correct": 0,
-      "fact": "Elliptiska galaxer har en ellipsoid form och saknar de karakteristiska spiralarmarna som finns hos till exempel Vintergatan."
+      "fact": "En spiralgalax består av roterande stjärnor gas och stoft som formar vackra spiralarmar kring ett ljust centrum."
     },
     {
-      "q": "Hur transporteras materia oftast över stora avstånd i kosmos?",
+      "q": "Vad är ett ljusår för mått?",
       "options": [
-        "Genom gigantiska strömmar av gas och stoft",
-        "Med hjälp av stationära magnetfält i vakuum",
-        "Genom att stjärnor rör sig fritt mellan galaxerna"
+        "Hur lång tid ljuset tar att nå solen",
+        "Den sträcka ljuset färdas på ett år",
+        "Tiden det tar att mäta stjärnors ljusstyrka"
       ],
-      "correct": 0,
-      "fact": "Stora strömmar av gas och kosmiskt stoft rör sig ständigt mellan stjärnor och galaxer i universum."
+      "correct": 1,
+      "fact": "Ett ljusår är den enorma sträcka som en ljusstråle hinner färdas under ett helt jordår."
     },
     {
-      "q": "Vilken roll spelar joniserat väte i studiet av galaxer?",
+      "q": "Varför ser astronomer på galaxers stoft?",
       "options": [
-        "Det visar var det bildas nya stjärnor och var gasen värms upp",
-        "Det binder samman galaxen så att den roterar som en enhet",
-        "Det skapar det mörka svalget i galaxens absoluta mittpunkt"
+        "För att mäta hur fort galaxen roterar",
+        "För att förstå hur nya stjärnor föds",
+        "För att hitta spår efter främmande planeter"
       ],
-      "correct": 0,
-      "fact": "Joniserat väte lyser upp i speciella våglängder när gasen exciteras av strålning från heta stjärnor eller andra processer."
+      "correct": 1,
+      "fact": "Genom att studera gas och stoft får astronomer viktig information om hur materien kollapsar för att bilda nya stjärnor."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor virvel av stjärnor som flyger runt i mörka rymden. Den här galaxen ser ut som en luddig boll full av gnistrande diamanter. Rakt igenom den går ett mörkt stråk som ser ut som ett moln av chokladpulver som någon har rört om i. Det är en otrolig plats långt borta där miljarder stjärnor bor tillsammans.",
-    "nyborjare": "Denna bild visar galaxen NGC 4696, som är den största galaxen i Centaurusklustret. Till skillnad från vanliga platta spiralgalaxer har denna en elliptisk form och påminner om en rundad boll av ljus. Över galaxens mitt löper ett enormt mörkt stoftstråk som mäter omkring 30 000 ljusår i diameter. När astronomer tittar på den i specifika våglängder kan de se tunna filament av joniserat väte som bildar ett marmorerat mönster i mitten.",
-    "entusiast": "NGC 4696 är ett fascinerande objekt beläget i Centaurusklustret och klassificeras som en elliptisk galax. Observationer gjorda med rymdteleskopet Hubbles Advanced Camera for Surveys avslöjar exceptionella detaljer, inklusive det cirka 30 000 ljusår breda stoftbandet som sträcker sig tvärs över dess kärna. Studier av de tunna filamenten av joniserat väte ger viktig information om hur gas interagerar med det supermassiva svarta hålet i galaxens centrum och hur det påverkar stjärnbildningen i galaxhopar."
+    "barn": "Tänk dig en stor snurra av glittrande stjärnor långt ut i rymden. Den här galaxen ser ut som en virvelvind eller ett gigantiskt bullerby-sockerhjärta. Mitt i den fina virveln finns det massor av stjärnor och tjockt stoft. År 2005 riktade rymdteleskopet Hubble sin lins hit för att undersöka hur stjärnorna i virveln skapas.",
+    "nyborjare": "Malmangalaxen M51 är en klassisk spiralgalax som visar upp vackra armar fyllda av unga stjärnhopar. År 2005 använde astronomer det mäktiga rymdteleskopet Hubble för att ta nya skarpa bilder i både synligt ljus och infrarött ljus. Genom att kombinera dessa observationer kunde forskarna skala bort det mesta av stjärnljuset och avslöja galaxens invecklade struktur av stoft. Istället för jättelika moln visade det sig att stoftet bildar jämna banor som dras in mot galaxens kärna. Detta ger viktig kunskap om hur gas och stoft drar ihop sig för att bilda nya stjärnor.",
+    "entusiast": "Malmangalaxen M51 erbjuder ett enastående tillfälle att studera den interna strukturen hos en växelverkande spiralgalax. År 2005 kombinerade forskare data från rymdteleskopet Hubble tagna med instrumenten ACS i synligt ljus och NICMOS i nära infrarött ljus. Det nära infraröda ljuset penetrerar det täta kosmiska stoftet vilket blottlade hundratals tidigare okända stjärnhopar var och en omkring 65 ljusår breda. Analysen visade att stoftet i M51 till största delen är bundet i diffusa stoftbanor snarare än gigantiska moln på över 100 ljusår vilket kan bero på en tidigare passering av en annan galax. Sådana detaljerade observationer av stoftstrukturen fungerar som ett kraftfullt diagnostiskt verktyg för att förstå stjärnbildandeprocesser."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt system av stjärnor, gas, stoft och mörk materia som hålls samman av gravitationen."
+      "term": "spiralgalax",
+      "explanation": "Ett stjärnsystem som kännetecknas av en roterande skiva med spirallika armar av stjärnor och gas."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "Ett optiskt instrument placerat i omloppsbana runt jorden för att observera universum utan atmosfärens störningar."
+    },
+    {
+      "term": "stjärnhop",
+      "explanation": "En grupp stjärnor som hålls samman av sin gemensamma gravitation och bildades i samma gasmoln."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas på ett helt jordår, vilket motsvarar ungefär 9,46 biljoner kilometer."
-    },
-    {
-      "term": "joniserat",
-      "explanation": "Atomer som har förlorat eller tagit upp elektroner så att de har fått en elektrisk laddning."
-    },
-    {
-      "term": "stoft",
-      "explanation": "Små fasta partiklar av tunga grundämnen som svävar i rymden mellan stjärnorna."
+      "explanation": "Den sträcka som ljuset färdas på ett jordår vilket används för att mäta astronomiska avstånd."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant swirl of stars flying around in the dark space. This galaxy looks like a fuzzy ball full of sparkling diamonds. Right through the middle goes a dark streak that looks like a cloud of chocolate powder stirred around. It is an incredible place far away where billions of stars live together.",
-      "nyborjare": "This image shows the galaxy NGC 4696, which is the largest galaxy in the Centaurus Cluster. Unlike typical flat spiral galaxies, this one has an elliptical shape and resembles a rounded ball of light. Across the center of the galaxy runs an immense dark dust lane measuring about 30 000 light-years across. When astronomers observe it at specific wavelengths, they can see thin filaments of ionized hydrogen forming a marbled pattern in the center.",
-      "entusiast": "NGC 4696 is a fascinating object located in the Centaurus Cluster and is classified as an elliptical galaxy. Observations made with the Hubble Space Telescope's Advanced Camera for Surveys reveal exceptional details, including the approximately 30 000 light-year wide dust lane stretching across its core. Studies of the thin filaments of ionized hydrogen provide vital information on how gas interacts with the supermassive black hole at the galaxy's center and how it affects star formation in galaxy clusters."
+      "barn": "Imagine a huge pinwheel of glittering stars far out in space. This galaxy looks like a giant swirling whirlpool. Right in the middle of the lovely swirl there are lots of stars and thick cosmic dust. In 2005 the Hubble Space Telescope pointed its lens here to investigate how stars are created inside the whirlpool.",
+      "nyborjare": "The Whirlpool Galaxy M51 is a classic spiral galaxy showcasing graceful arms filled with young star clusters. In 2005 astronomers used the powerful Hubble Space Telescope to capture sharp new views in both visible and near-infrared light. By combining these observations researchers removed most of the starlight to reveal the galaxy's intricate dust structure. Instead of giant clouds the dust formed smooth lanes swirling toward the core providing key knowledge about how gas and dust collapse to form new stars.",
+      "entusiast": "The Whirlpool Galaxy M51 offers an exceptional opportunity to study the internal structure of an interacting spiral galaxy. In 2005 researchers combined data from the Hubble Space Telescope using the ACS instrument in visible light and NICMOS in near-infrared light. Near-infrared light penetrates dense cosmic dust revealing hundreds of previously unseen star clusters each about 65 light-years wide. The analysis showed that the dust in M51 is largely bound in diffuse dust lanes rather than giant clouds exceeding 100 light-years likely due to an encounter with another galaxy. Such detailed observations of dust structure serve as a powerful diagnostic tool for understanding star formation processes."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system of stars, gas, dust, and dark matter held together by gravity."
+        "term": "spiral galaxy",
+        "explanation": "A stellar system characterized by a rotating disk with spiral arms made of stars and gas."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance that light travels in one Earth year, which is roughly 9.46 trillion kilometers."
+        "term": "space telescope",
+        "explanation": "An optical instrument placed in orbit around Earth to observe the universe without atmospheric interference."
       },
       {
-        "term": "ionized",
-        "explanation": "Atoms that have lost or gained electrons, giving them a net electrical charge."
+        "term": "star cluster",
+        "explanation": "A group of stars held together by mutual gravity and formed from the same gas cloud."
       },
       {
-        "term": "dust",
-        "explanation": "Small solid particles of heavy elements drifting through the space between stars."
+        "term": "light-year",
+        "explanation": "The distance that light travels in one Earth year used to measure astronomical distances."
       }
     ],
     "quiz": [
       {
-        "q": "What type of system is an elliptical galaxy?",
+        "q": "What is a spiral galaxy?",
         "options": [
-          "A star system with a shape resembling an elongated ball",
-          "A flat disk of gas and dust with spiral arms",
-          "A cloud consisting solely of free hydrogen and dark matter"
+          "A rotating system of stars gas and dust",
+          "A single star surrounded by planetary systems",
+          "A cloud of gas containing no stars"
         ],
         "correct": 0,
-        "fact": "Elliptical galaxies have an ellipsoidal shape and lack the characteristic spiral arms found in systems like the Milky Way."
+        "fact": "A spiral galaxy consists of rotating stars gas and dust forming graceful spiral arms around a bright center."
       },
       {
-        "q": "How is matter most commonly transported across vast distances in space?",
+        "q": "What does a light-year measure?",
         "options": [
-          "Through gigantic streams of gas and cosmic dust",
-          "By means of stationary magnetic fields in vacuum",
-          "Through stars moving freely between different galaxies"
+          "The time light takes to reach the sun",
+          "The distance light travels in one year",
+          "The time required to measure starlight"
         ],
-        "correct": 0,
-        "fact": "Large streams of gas and cosmic dust constantly move between stars and galaxies throughout the universe."
+        "correct": 1,
+        "fact": "A light-year is the enormous distance that a beam of light travels during one Earth year."
       },
       {
-        "q": "What role does ionized hydrogen play in studying galaxies?",
+        "q": "Why do astronomers study galactic dust?",
         "options": [
-          "It reveals where new stars form and where gas is heated",
-          "It binds the galaxy together so it rotates as a single unit",
-          "It creates the dark void located at the exact center of the galaxy"
+          "To measure how fast the galaxy rotates",
+          "To understand how new stars are born",
+          "To find traces of alien planets"
         ],
-        "correct": 0,
-        "fact": "Ionized hydrogen emits light at specific wavelengths when the gas is excited by radiation from hot stars or other processes."
+        "correct": 1,
+        "fact": "Studying gas and dust gives astronomers vital information on how matter collapses to form new stars."
       }
     ]
   }
