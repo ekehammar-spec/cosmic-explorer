@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-03",
+  "media_type": "image",
+  "title": "Plutos yta",
+  "title_en": "Surface Variety",
+  "thumb": "https://images-assets.nasa.gov/image/PIA19936/PIA19936~small.jpg"
+ },
+ {
   "date": "2026-11-02",
   "media_type": "image",
   "title": "Kattungens huvuds nebulosa",
@@ -128,9 +135,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Galaxen Kiso 5639",
+  "title": "Kiso 5639",
   "title_en": "Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/GSFC_20171208_Archive_e000278~small.jpg"
+  "thumb": "https://images-assets.nasa.gov/image/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o~small.jpg"
  },
  {
   "date": "2026-10-14",

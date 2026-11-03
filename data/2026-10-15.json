@@ -3,16 +3,16 @@
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
   "title": "Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy",
-  "title_sv": "Galaxen Kiso 5639",
+  "title_sv": "Kiso 5639",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/GSFC_20171208_Archive_e000278~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/GSFC_20171208_Archive_e000278~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000278/GSFC_20171208_Archive_e000278~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000278",
+  "url": "https://images-assets.nasa.gov/image/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o~orig.jpg",
+  "link": "https://images.nasa.gov/details/hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2016",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e000278",
+  "id": "hubble-reveals-stellar-fireworks-in-skyrocket-galaxy_27946907106_o",
   "px": [
     1280,
     848
@@ -22,113 +22,113 @@
   "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFAwf/xAAjEAABAwIGAwEAAAAAAAAAAAABAAIRAwQFEiExQVETFCJh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAFBMf/aAAwDAQACEQMRAD8A5/AyzP1O0IaxztgSkN1Vs8UpWltkFpTfVmfI7XTqFJJL1P8AXqASWOjuFkRCo3WMXVyC1zgG9AaKeSSZRhERH6EuIQhAwJhN4yvIHBQhNVj/2Q==",
   "quiz": [
     {
-      "q": "Vad kallas galaxer med en långsträckt svans?",
+      "q": "Vad är en dvärggalax?",
       "options": [
-        "Tandemgalaxer",
-        "Tadpolegalaxer",
-        "Kometgalaxer"
-      ],
-      "correct": 1,
-      "fact": "Galaxer med en ljusstark huvuddel och en stjärnbeströdd svans liknar grodyngel och kallas därför för tadpolegalaxer på engelska."
-    },
-    {
-      "q": "Vilket ämne dominerar i intergalaktisk gas?",
-      "options": [
-        "Väte",
-        "Kol",
-        "Syre"
+        "En mindre galax med miljarder stjärnor",
+        "En stjärna som kretsar kring en planet",
+        "Ett svart hål som slutat växa"
       ],
       "correct": 0,
-      "fact": "Intergalaktisk rymd innehåller mestadels ursprunglig och ren gas som består av väte."
+      "fact": "En dvärggalax är en mindre galax som innehåller allt från några få miljoner upp till några miljarder stjärnor."
     },
     {
-      "q": "Hur skapas de stora hålen i galaxens huvud?",
+      "q": "Vad är intergalaktisk gas?",
       "options": [
-        "Av tunga svarta hål",
-        "Av våldsamma supernovaexplosioner",
-        "Av solvindar från unga stjärnor"
+        "Gas som finns inuti enskilda stjärnor",
+        "Gas som flyter i rymden mellan galaxer",
+        "Atomer som bildas vid solens yta"
       ],
       "correct": 1,
-      "fact": "När tunga stjärnor dör i supernovaexplosioner sprängs hål i den heta gasen och ger galaxen ett utseende som påminner om schweizerost."
+      "fact": "Intergalaktisk gas är den materia som finns utspridd i rymden mellan olika galaxer."
+    },
+    {
+      "q": "Hur bildas tyngre grundämnen i rymden?",
+      "options": [
+        "Genom att kometer krockar med månar",
+        "Inuti stjärnor och när stjärnor dör",
+        "När tomrum expanderar i universum"
+      ],
+      "correct": 1,
+      "fact": "Stjärnor fungerar som jättelika fabriker som skapar och sprider tyngre ämnen när de åldras och exploderar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en raket som skjuts upp på nyårsafton. I rymden finns det en liten galax som ser precis ut så eftersom den har ett starkt lysande huvud och en lång svans full av stjärnor. Nu bildas det massor av nya stjärnor där galaxen rör sig genom rymden och det ser ut som ett riktigt fyrverkeri.",
-    "nyborjare": "Denna rymdbild visar dvärggalaxen Kiso 5639 som ligger åttiotvå miljoner ljusår bort. Galaxen påminner om en fyrverkeripjäs eller ett grodyngel eftersom den har ett mycket ljust huvud och en lång stjärnspäckad svans. Forskare tror att den våldsamma födelsen av nya stjärnor beror på att gas från rymden regnar ner över galaxen när den rör sig. Hubble-teleskopet har tagit denna detaljerade bild för att studera hur galaxer växer och utvecklas under sin barndom.",
-    "entusiast": "Dvärggalaxen Kiso 5639 är ett sällsynt närbeläget exempel på de långsträckta galaxer som brukar kallas tadpolegalaxer och som utgör ungefär tio procent av alla galaxer i det tidiga universum. Observationer med Hubble-teleskopet visar en intensiv stjärnbildning i galaxens huvud som spänner över 2700 ljusår med stjärnhopar som är yngre än en miljon år. Gasspektroskopi visar att gasen i stjärnfabriken har lägre metallhalt än resten av galaxen vilket talar för tillförsel av ren vätegas från intergalaktiska filament. Dessa dramatiska processer ger värdefulla insikter om hur galaxer som vår egen Vintergata växte till genom ackretion under universums tidigare epoker."
+    "barn": "Tänk dig en raket som skjuts upp på nyårsafton med sprakande eldar. I rymden finns det en liten galax som ser precis ut som ett sådant fyrverkeripaket. Ena änden lyses upp av massor av nyfödda stjärnor som glimrar som små gnistor i mörkret.",
+    "nyborjare": "Bilden visar en dvärggalax som kallas Kiso 5639 och ligger 82 miljoner ljusår bort. Den har formen av en platt pannkaka men syns från sidan, vilket gör att den liknar en raket med ett flammande huvud och en lång svans. Forskare tror att intensiv stjärnbildning startar när gas från rymden regnar ner på galaxen.",
+    "entusiast": "Hubble-teleskopet har fångat dvärggalaxen Kiso 5639, ett sällsynt exempel på en långsträckt galax som kallas grodyngelgalax. Bilden visar en intensiv stjärnbildningsfas i galaxens ena ände där stjärnklumpförekomster bildas i rasande takt. Observationer med rymdteleskopet och markbaserade instrument visar att inkommande metallfattig gas utlöser denna stjärnbloss. Supernovor har sprängt ut enorma hål i galaxens gasrika huvud."
   },
   "terms": [
     {
-      "term": "galax",
-      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationskraften och innehåller miljarder stjärnor samt gas och stoft."
+      "term": "dvärggalax",
+      "explanation": "En mindre typ av galax som rymmer betydligt färre stjärnor än stora system som Vintergatan."
     },
     {
       "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas på ett helt jordår vilket är ungefär 9,46 biljoner kilometer."
+      "explanation": "Den sträcka som ljuset tillryggalägger under ett helt jordår."
     },
     {
-      "term": "supernovaexplosion",
-      "explanation": "Den våldsamma och ljusstarka kollaps som inträffar när en tung stjärna har dött ut."
+      "term": "supernova",
+      "explanation": "En våldsam explosion som markerar slutet på en tung stjärnas liv."
     },
     {
-      "term": "ackretion",
-      "explanation": "När ett astronomiskt objekt drar till sig materia utifrån på grund av sin egen gravitation."
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat optiskt instrument placerat i omloppsbana ovanför jordens atmosfär."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a firework rocket lighting up the sky. Out in space there is a small galaxy that looks just like that because it has a glowing head and a long tail full of stars. New stars are being born as the galaxy moves through space creating a giant cosmic firework display.",
-      "nyborjare": "This space image captures the dwarf galaxy Kiso 5639 located eighty-two million light-years away. The galaxy resembles a skyrocket because of its blazing head and long star-studded tail. Researchers believe that this frenzy of star birth is sparked by pristine gas raining down onto the galaxy as it drifts through space. The Hubble Space Telescope captured this detailed view to help astronomers understand how galaxies grow during their early stages.",
-      "entusiast": "The dwarf galaxy Kiso 5639 is a rare nearby example of elongated galaxies known as tadpoles which make up about ten percent of all galaxies in the early universe. Observations with the Hubble Space Telescope reveal intense star formation in a head spanning 2700 light-years with star clusters younger than one million years. Spectroscopic data show that the gas in the starburst region has a lower metallicity indicating an influx of pristine hydrogen-rich gas from intergalactic space. These observations provide vital clues about how galaxies like our Milky Way accumulated mass and grew up through cosmic accretion."
+      "barn": "Imagine a rocket shooting up into the night sky with sparkling lights. Out in space there is a small galaxy that looks just like a July Fourth skyrocket. One end of it is lit up by newborn stars glowing like tiny sparks.",
+      "nyborjare": "The image shows a dwarf galaxy called Kiso 5639 located 82 million light-years away. It is shaped like a pancake but viewed edge-on, making it resemble a skyrocket with a blazing head and a long tail. Researchers believe intense star birth is triggered when gas rains down onto the galaxy.",
+      "entusiast": "The Hubble Space Telescope has captured the dwarf galaxy Kiso 5639, a rare nearby example of an elongated tadpole galaxy. The image reveals a frantic starburst event at one end of the system where giant star clusters form rapidly. Observations show that incoming pristine gas triggers this burst of star birth while supernova detonations carve giant cavities into the gas."
     },
     "terms": [
       {
-        "term": "galaxy",
-        "explanation": "A massive system bound together by gravity containing billions of stars along with gas and dust."
+        "term": "dwarf galaxy",
+        "explanation": "A smaller class of galaxy containing significantly fewer stars than massive systems like our own."
       },
       {
         "term": "light-year",
-        "explanation": "The enormous distance that a beam of light travels through a vacuum in one Earth year."
+        "explanation": "The immense distance that a beam of light travels through empty space during one Earth year."
       },
       {
         "term": "supernova",
-        "explanation": "The powerful and luminous explosion marking the spectacular death of a massive star."
+        "explanation": "A tremendously powerful explosion marking the terminal stage in the life of a massive star."
       },
       {
-        "term": "accretion",
-        "explanation": "The gradual accumulation of matter onto an astronomical body driven by mutual gravitational attraction."
+        "term": "space telescope",
+        "explanation": "An advanced optical instrument operating in orbit above the distorting effects of Earth's atmosphere."
       }
     ],
     "quiz": [
       {
-        "q": "What are elongated galaxies with a tail called?",
+        "q": "What is a dwarf galaxy?",
         "options": [
-          "Tandem galaxies",
-          "Tadpole galaxies",
-          "Comet galaxies"
-        ],
-        "correct": 1,
-        "fact": "Galaxies featuring a brilliant head and a star-studded tail resemble tadpoles and are referred to as such."
-      },
-      {
-        "q": "Which element dominates in intergalactic gas?",
-        "options": [
-          "Hydrogen",
-          "Carbon",
-          "Oxygen"
+          "A smaller galaxy with billions of stars",
+          "A star orbiting around a planet",
+          "A black hole that stopped growing"
         ],
         "correct": 0,
-        "fact": "Intergalactic space largely consists of pristine gas composed mostly of hydrogen."
+        "fact": "A dwarf galaxy is a smaller type of galaxy containing anywhere from a few million to a few billion stars."
       },
       {
-        "q": "How are the giant holes in the head formed?",
+        "q": "What is intergalactic gas?",
         "options": [
-          "By heavy black holes",
-          "By violent supernova explosions",
-          "By stellar winds from young stars"
+          "Gas found deep inside individual stars",
+          "Gas floating in space between galaxies",
+          "Atoms formed directly on stellar surfaces"
         ],
         "correct": 1,
-        "fact": "When massive stars die in supernova detonations they carve out cavities of superheated gas resembling Swiss cheese."
+        "fact": "Intergalactic gas is the matter distributed throughout the vast spaces located between separate galaxies."
+      },
+      {
+        "q": "How are heavier elements created in space?",
+        "options": [
+          "Through comets crashing into moons",
+          "Inside stars and when stars die",
+          "When empty voids expand in the universe"
+        ],
+        "correct": 1,
+        "fact": "Stars act like giant factories that forge and disperse heavier elements as they age and explode."
       }
     ]
   }

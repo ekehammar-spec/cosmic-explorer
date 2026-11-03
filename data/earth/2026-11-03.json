@@ -1,0 +1,65 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-03",
+  "title": "The Pacific’s Busy Storm Season",
+  "title_sv": "Stilla havets intensiva stormsäsong",
+  "place": "Nordvästra Stilla havet",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific&#039;s-busy-storm-season/storm_infa_epic_20261029.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific&#039;s-busy-storm-season/storm_infa_epic_20261029.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific&#039;s-busy-storm-season/storm_infa_epic_20261029.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory images by Michala Garrison, using data from DSCOVR EPIC and MODIS data from NASA EOSDIS LANCE and GIBS/Worldview .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+  "levels": {
+    "barn": "Tänk dig att du tittar ner på jorden från rymden och ser stora, vita virvlar av moln som snurrar runt. De här molnen är jättestora stormar som drar fram över havet. En av dem ser ut som en stor munk eller ett lastbilsdäck eftersom den har ett runt hål i mitten som kallas öga. Stormarna för med sig mycket vind och regn men rymdsatelliterna hjälper oss att hålla koll på dem så att vi vet var de tar vägen.",
+    "nyborjare": "Satellitbilden visar en ovanligt aktiv stormsäsong i nordvästra Stilla havet. Vi ser kraftiga tropiska cykloner vars vita moln bildar spiraler över oceanen. En av dessa är supertyfonen In-fa som närmar sig Marianerna med en nästan cirkelrund form och ett stort öga i mitten. Denna typ kallas ibland ringformad storm eftersom den saknar vanliga yttre regnband. Sådana stormar är sällsynta och brukar hålla sig starka längre än andra oväder. Längre norrut syns också spåren av tyfonen Champi som har rört sig mot Berings hav.",
+    "entusiast": "Den här rymdbilden är tagen av kameran EPIC ombord på rymdsatelliten DSCOVR samt MODIS-instrumentet på NASA:s Terra-satellit. Bilderna fångar en exceptionellt livlig stormperiod i nordvästra Stilla havet under hösten 2026. Vi ser supertyfonen In-fa som uppvisar klassiska drag av en ringformad tropisk cyklon med ett öga med en diameter på cirka 45 kilometer. Denna typ av storm står för endast fyra procent av cyklonerna i regionen och utmärker sig genom att sakna framträdande yttre regnband samtidigt som den bibehåller sin styrka under ogynnsamma förhållanden. Bilden visar även hur resterna av tyfonen Champi genomgår en extratropisk transition på väg in mot Berings hav. Under denna process omvandlas stormen från att vara en varmkärnig tropisk cyklon driven av havsvärme till ett kallkärnigt system som drar energi från temperaturkontraster mellan olika luftmassor. Hela händelseförloppet kopplas till ett starkt El Niño-mönster som har bidragit till att driva fler stormar norrut mot Alaska och östra Asien."
+  },
+  "terms": [
+    {
+      "term": "DSCOVR",
+      "explanation": "Deep Space Climate Observatory är en rymdsatellit som observerar jorden från en avlägsen punkt i rymden."
+    },
+    {
+      "term": "MODIS",
+      "explanation": "Moderate Resolution Imaging Spectroradiometer är ett instrument på NASA-satelliten Terra som tar detaljerade bilder av jorden."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "Ett klimatmönster som inträffar med några års mellanrum och ger varmare vattentemperaturer i ekvatoriella Stilla havet."
+    },
+    {
+      "term": "extratropisk transition",
+      "explanation": "Processen där en tropisk cyklon omvandlas till en annan typ av storm med kalla kärnor och fronter."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine looking down at Earth from space and seeing huge white swirls of clouds spinning over the ocean. These clouds are giant storms moving across the water. One of them looks like a big doughnut because it has a round hole in the middle called an eye. These storms bring a lot of wind and rain, but satellites in space help scientists keep track of them so we can see where they are going.",
+      "nyborjare": "The satellite image shows an unusually active storm season in the Northwest Pacific. We see powerful tropical cyclones with white clouds spiraling across the ocean. One of these is Super Typhoon In-fa, approaching the Mariana Islands with an almost circular shape and a large eye in the center. This type is sometimes called an annular storm because it lacks standard outer rainbands. Such storms are rare and usually maintain their strength longer than other severe weather.",
+      "entusiast": "This space image was captured by the EPIC camera aboard the DSCOVR satellite and the MODIS instrument on NASA's Terra satellite. The imagery captures an exceptionally busy storm period in the Northwest Pacific in late 2026. We see Super Typhoon In-fa displaying classic traits of an annular tropical cyclone with an eye about 45 kilometers in diameter. This type of storm accounts for only four percent of cyclones in the region and is characterized by lacking prominent outer rainbands while retaining strength in unfavorable conditions. The image also shows the remnants of Typhoon Champi undergoing an extratropical transition as they move into the Bering Sea. During this process, the storm transforms from a warm-core tropical cyclone fueled by ocean heat into a cold-core system drawing energy from temperature contrasts."
+    },
+    "terms": [
+      {
+        "term": "DSCOVR",
+        "explanation": "The Deep Space Climate Observatory is a satellite that observes Earth from a distant vantage point in space."
+      },
+      {
+        "term": "MODIS",
+        "explanation": "The Moderate Resolution Imaging Spectroradiometer is an instrument on NASA's Terra satellite capturing detailed Earth imagery."
+      },
+      {
+        "term": "El Niño",
+        "explanation": "A climate pattern emerging every few years marked by warmer-than-normal water temperatures in the equatorial Pacific."
+      },
+      {
+        "term": "Extratropical transition",
+        "explanation": "The process where a tropical cyclone transforms into a different type of storm featuring cold cores and weather fronts."
+      }
+    ],
+    "place": "Northwest Pacific Ocean"
+  }
+}

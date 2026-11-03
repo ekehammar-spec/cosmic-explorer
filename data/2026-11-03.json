@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-03",
+  "title": "Surface Variety",
+  "title_sv": "Plutos yta",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA19936/PIA19936~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA19936/PIA19936~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA19936/PIA19936~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA19936",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+  "taken": "2015",
+  "src": "library",
+  "id": "PIA19936",
+  "px": [
+    1919,
+    1425
+  ],
+  "w": 640,
+  "h": 475,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBgT/xAAiEAACAgIBBQADAAAAAAAAAAABAgARAwQSBQYhMVETInH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6sh5kC6B9+Y1dfEKPG2+mTHzcMpHkkmxKuJ1aiGuxAYEVE4j1Mr3XrhtdmryPNzVMf1MzXcg56pHL0b/ALAj9Oy7GXTGV2fKQ5BLEn5Kp6o2HWxoMoDo1gMtkj54hCAwddwZmA/PmBIoqEo3J3cO1WvxBssIQgf/2Q==",
+  "quiz": [
+    {
+      "q": "Vad består Pluto till stor del av?",
+      "options": [
+        "Flytande metall och lava",
+        "Fast sten och is",
+        "Kompakt gas och plasma"
+      ],
+      "correct": 1,
+      "fact": "Pluto är en dvärgplanet i yttre solsystemet som till största delen består av stenig kärna omgiven av is."
+    },
+    {
+      "q": "Vilken himlakroppskategori tillhör Pluto?",
+      "options": [
+        "Gasjätte",
+        "Dvärgplanet",
+        "Astroid"
+      ],
+      "correct": 1,
+      "fact": "Pluto omklassificerades till dvärgplanet år 2006 av Internationella astronomiska unionen."
+    },
+    {
+      "q": "Hur skickades bilderna på Pluto till jorden?",
+      "options": [
+        "Med en rymdsond",
+        "Via kvantsatelliter",
+        "Med landstigningskapslar"
+      ],
+      "correct": 0,
+      "fact": "Rymdsonden New Horizons flög förbi Pluto och skickade hem detaljerade mätdata och bilder över miljarder kilometer."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en stor boll långt borta i rymden som är täckt av glittrande is. Det här är Pluto, en liten dvärgplanet som är så kall att till och med kväve blir till hård is. Bilderna visar spännande berg och slätter som ser ut som frysta hav. Rymdsonden New Horizons flög förbi där år 2015 och tog bilderna.",
+    "nyborjare": "År 2015 flög rymdsonden New Horizons förbi dvärgplaneten Pluto och sände hem fantastiska högupplösta bilder av dess yta. Den mest framträdande detaljen är Sputnik Planitia, en stor och slät isplän som breder ut sig över landskapet. Runt omkring denna ljusa region syns en otrolig variation av berg och dalar. Eftersom Pluto ligger så långt bort i solsystemet är det mycket kallt, och ytan består till stor del av olika typer av is som kväve och vatten.",
+    "entusiast": "Denna bildmosaik sattes samman av högupplösta observationer tagna av rymdsonden New Horizons under dess förbiflygning den 14 juli 2015. Mosaiken täcker ett område som är ungefär 1 600 kilometer brett och visar detaljer ned till 0,8 kilometers upplösning från ett avstånd av 80 000 kilometer. Centralt i kompositionen ligger den informellt namngivna Sputnik Planitia, en omfattande kväveisplän som uppvisar märkbara tecken på konvektionsrörelser och geologisk aktivitet trots den extrema kylan. Omgivningarna präglas av ett komplext landskap med dalar, kratrar och bergskedjor av vattenis som reser sig flera kilometer över slätterna, vilket vittnar om en oväntat dynamisk geologi på denna avlägsna dvärgplanet."
+  },
+  "terms": [
+    {
+      "term": "dvärgplanet",
+      "explanation": "En himlakropp som kretsar kring en stjärna och är tillräckligt stor för att vara rund, men för liten för att rensa sin bana."
+    },
+    {
+      "term": "rymdsond",
+      "explanation": "Ett obemannat farkost som skickas ut i rymden för att undersöka planeter och andra objekt."
+    },
+    {
+      "term": "mosaik",
+      "explanation": "En bild som har satts ihop av flera mindre fotografier för att täcka ett större område."
+    },
+    {
+      "term": "konvektionsrörelser",
+      "explanation": "Cirkulära flöden i material som uppstår när varmt material stiger och kallt sjunker."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a big ball far away in space covered in glittering ice. This is Pluto, a small dwarf planet so cold that even nitrogen turns into hard ice. The pictures show exciting mountains and plains that look like frozen oceans. The New Horizons spacecraft flew past there in 2015 and took the pictures.",
+      "nyborjare": "In 2015, the New Horizons spacecraft flew past the dwarf planet Pluto and sent home stunning high-resolution images of its surface. The most prominent feature is Sputnik Planitia, a large and smooth ice plain stretching across the landscape. Surrounding this bright region is an incredible variety of mountains and valleys. Because Pluto is located so far out in the solar system, it is extremely cold, and the surface consists largely of various types of ice such as nitrogen and water.",
+      "entusiast": "This image mosaic was compiled from high-resolution observations taken by the New Horizons spacecraft during its flyby on July 14, 2015. The mosaic covers a region approximately 1,600 kilometers wide and shows details down to 0.8 kilometers in resolution from a distance of 80,000 kilometers. Centered in the composition is the informally named Sputnik Planitia, an extensive nitrogen ice plain displaying notable signs of convection currents and geological activity despite the extreme cold. The surroundings are characterized by a complex landscape with valleys, craters, and water-ice mountain ranges rising several kilometers above the plains, bearing witness to unexpectedly dynamic geology on this distant dwarf planet."
+    },
+    "terms": [
+      {
+        "term": "dwarf planet",
+        "explanation": "A celestial body orbiting a star that is large enough to be round but too small to clear its orbital path."
+      },
+      {
+        "term": "space probe",
+        "explanation": "An unmanned spacecraft sent into space to explore planets and other objects."
+      },
+      {
+        "term": "mosaic",
+        "explanation": "An image assembled from several smaller photographs to cover a larger area."
+      },
+      {
+        "term": "convection",
+        "explanation": "Circular currents in material that occur when warm material rises and cold sinks."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is Pluto mostly composed of?",
+        "options": [
+          "Liquid metal and lava",
+          "Solid rock and ice",
+          "Compact gas and plasma"
+        ],
+        "correct": 1,
+        "fact": "Pluto is a dwarf planet in the outer solar system primarily composed of a rocky core surrounded by ice."
+      },
+      {
+        "q": "Which celestial category does Pluto belong to?",
+        "options": [
+          "Gas giant",
+          "Dwarf planet",
+          "Asteroid"
+        ],
+        "correct": 1,
+        "fact": "Pluto was reclassified as a dwarf planet in 2006 by the International Astronomical Union."
+      },
+      {
+        "q": "How were the images of Pluto sent to Earth?",
+        "options": [
+          "By a space probe",
+          "Via quantum satellites",
+          "With landing capsules"
+        ],
+        "correct": 0,
+        "fact": "The New Horizons spacecraft flew past Pluto and transmitted detailed measurement data and images across billions of kilometers."
+      }
+    ]
+  }
+}
