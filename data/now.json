@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-03T17:24:20.650Z",
+ "updated": "2026-11-04T06:15:24.495Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-11-03T06:00:00Z",
+   "date": "2026-11-04T00:00:00Z",
    "title_sv": "Tyfonen In-fa",
    "title_en": "Typhoon In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 130 km/h",
-   "value_en": "winds of 130 km/h"
+   "value_sv": "vindar på 155 km/h",
+   "value_en": "winds of 155 km/h"
   },
   {
    "kind": "storm",
@@ -25,8 +25,8 @@
   {
    "kind": "ice",
    "date": "2026-10-30T00:00:00Z",
-   "title_sv": "Isberget A85",
-   "title_en": "Iceberg A85",
+   "title_sv": "Isberget B22K",
+   "title_en": "Iceberg B22K",
    "where_sv": "Södra ishavet, vid Antarktis",
    "where_en": "Southern Ocean, near Antarctica",
    "value_sv": "",

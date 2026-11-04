@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-04",
+  "title": "Höstskörd i Kazakstan",
+  "title_en": "Fall Harvest in Kazakhstan",
+  "place": "Kazakstan",
+  "place_en": "Kazakhstan",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001371/GSFC_20171208_Archive_e001371~small.jpg",
+  "archive": true
+ },
+ {
   "date": "2026-11-03",
   "title": "Stilla havets intensiva stormsäsong",
   "title_en": "The Pacific’s Busy Storm Season",

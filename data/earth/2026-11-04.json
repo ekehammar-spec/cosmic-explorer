@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-04",
+  "title": "Fall Harvest in Kazakhstan",
+  "title_sv": "Höstskörd i Kazakstan",
+  "place": "Kazakstan",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001371/GSFC_20171208_Archive_e001371~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001371/GSFC_20171208_Archive_e001371~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001371/GSFC_20171208_Archive_e001371~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001371",
+  "credit": "NASA Earth Observatory image by Jesse Allen using Landsat data from the U",
+  "source": "NASA Earth Observatory image by Jesse Allen using Landsat data from the U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001371",
+  "archive": true,
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgUAAwQB/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDEQAEEjFBIVEUInFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREBAQEAAwAAAAAAAAAAAAAAAAEREiFR/9oADAMBAAIRAxEAPwBPKsgBZJODwesp+Sqm3ZrJ5HnGc+lKq1MB6zA2mV1bcAAvGGDbBSyvEhkSTeh65AOBDqIpBu82Or4OT4TMhoMidgE1meXTvCCAAUbgEUf3DFyPN6MzKTtNd+sCSKNZYySApU2b7yxdDK7X9lVfBbjrOvp2gkG9Q91eb6asVCVWVlVl2qbF+SR+ZmeFnkLXYIsse8YywpJCKYK6n+UR6yNpo4wVsG/I6sHBZ6//2Q==",
+  "levels": {
+    "barn": "Bilden visar färgglada fält från rymden som ser ut som ett lapptäcke i grönt och brunt. De mörka gröna fälten har gräs eller växter som växer. De ljusa fälten har redan skördats och jorden är naken. Bönderna i östra Kazakstan börjar sin skörd tidigt på året eftersom klimatet är ganska torrt. Många gårdar är jättestora och syns tydligt uppifrån.",
+    "nyborjare": "Satelliten Landsat 8 tog den här bilden av östra Kazakstan i september 2013 för att visa hur jordbruket ser ut i det karga klimatet. Landskapet täcks av ett mosaikmönster i gröna och bruna nyanser där de skördade fälten är helt nakna medan andra fält har mogna grödor eller gräs för betesdjur. Jordbruket är viktigt för landets ekonomi och vete odlas för export även om en stor del av marken används som betesmark. Många gårdar har anor från sovjettiden och är mycket stora, men det finns också mindre familjejordbruk. Nästan allt jordbruk är regnmatat och fälten har utformats för att ta vara på regnvatten som rinner ner från bergssluttningarna.",
+    "entusiast": "År 2013 fångade satelliten Landsat 8 med instrumentet Operational Land Imager den här regionen i östra Kazakstan nära gränsen mot Kina. Bilden visar hur fälten följer landskapets konturer genom dalgångar och över slätter vilket skapar ett lapptäcke av gröna och bruna färger som matchar den naturliga vegetationen i norr. Det torra klimatet lämpar sig väl för att producera vete av hög kvalitet men här odlas även solrosor och korn. De flesta gårdarna är stora och täcker över 5 000 hektar, vilket är en kvarleva från sovjettidens kollektivjordbruk, medan familjefruar står för en tredjedel av produktionen. Eftersom nästan allt jordbruk är regnmatat har jordbrukarna utformat fälten så att den naturliga terrängen leder regnvattnet till grödorna."
+  },
+  "terms": [
+    {
+      "term": "Landsat 8",
+      "explanation": "En satellit som samlar in data om jorden."
+    },
+    {
+      "term": "Operational Land Imager",
+      "explanation": "Ett instrument som sitter ombord på satelliten Landsat 8 för att ta bilder."
+    },
+    {
+      "term": "Kazakstan",
+      "explanation": "Ett land i Asien där bilden togs."
+    },
+    {
+      "term": "vete",
+      "explanation": "Ett sädesslag som odlas i regionen för export."
+    },
+    {
+      "term": "hektar",
+      "explanation": "En måttenhet för yta som visar hur stora gårdarna är."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows colorful fields from space that look like a patchwork in green and brown. The dark green fields have grass or plants growing in them. The light fields have already been harvested and the soil is bare. Farmers in eastern Kazakhstan start their harvest early in the year because the climate is quite dry. Many farms are huge and clearly visible from above.",
+      "nyborjare": "The Landsat 8 satellite captured this image of eastern Kazakhstan in September 2013 to show what agriculture looks like in the harsh climate. The landscape is covered by a mosaic pattern of green and brown shades where harvested fields are completely bare while other fields contain ripening crops or pasture grass. Agriculture is important for the country's economy and wheat is grown for export although a large share of the land is used as pasture. Many farms date back to the Soviet era and are very large, but there are also smaller family farms. Almost all agriculture is rain fed and the fields are designed to make use of rainwater flowing down mountain slopes.",
+      "entusiast": "In 2013 the Landsat 8 satellite with its Operational Land Imager instrument captured this region in eastern Kazakhstan near the Chinese border. The image shows how the fields follow the contours of the land through valleys and across plains, creating a mosaic of green and brown tones that match the natural vegetation to the north. The dry climate is ideal for producing high quality wheat, while sunflowers and barley are also grown. Most farms are large, covering over 5,000 hectares as a remnant of Soviet-era collective farms, while family farms account for a significant share of production. Because nearly all agriculture is rain fed, farmers have designed the fields so that the natural terrain channels rainwater to the crops."
+    },
+    "terms": [
+      {
+        "term": "Landsat 8",
+        "explanation": "A satellite used to collect data about the Earth."
+      },
+      {
+        "term": "Operational Land Imager",
+        "explanation": "An instrument onboard the Landsat 8 satellite used to capture images."
+      },
+      {
+        "term": "Kazakhstan",
+        "explanation": "A country in Asia where the image was captured."
+      },
+      {
+        "term": "wheat",
+        "explanation": "A cereal crop grown in the region for export."
+      },
+      {
+        "term": "hectares",
+        "explanation": "A unit of area used to measure the size of the farms."
+      }
+    ],
+    "place": "Kazakhstan"
+  }
+}

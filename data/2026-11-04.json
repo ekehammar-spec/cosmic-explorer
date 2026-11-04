@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-04",
+  "title": "Astronaut and Earth",
+  "title_sv": "Astronaut och jorden",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg",
+  "link": "https://www.nasa.gov/image-detail/iss075e0253663/",
+  "credit": "NASA",
+  "taken": "2026",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/iss075e0253663/",
+  "px": [
+    1600,
+    1066
+  ],
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgP/xAAlEAACAQQBAwQDAAAAAAAAAAABAgMABAURIRIiUQYTMUFhcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARExIf/aAAwDAQACEQMRAD8Af470/As7SSO0o0OkHjR8nVZ9YYmCTARLGVheB9xsfyOadWsg54AI1vXmkGcvkvH0dqke1Csfk+dVJK3iA2USsoaSJQGk6QOoef3yKXXN/HjoYmhiD3QYEmVtr/F8UzBjSaVZfdBkHIdg3Fc8jjo8lHC4IcrvXSQnbWa61a+xjGaKTZ1vVKM9CxyUTLIVLQ8jQ1waKKadFGJO6jligW6EoPcdoU7SPHzWoZvetzKUUEfQHHNFFDOkvj//2Q==",
+  "quiz": [
+    {
+      "q": "Varför har astronauter rymddräkt under en rymdpromenad?",
+      "options": [
+        "För att skydda mot solens värme",
+        "För att hålla kvar tryck och syre",
+        "För att slippa känna av gravitationen"
+      ],
+      "correct": 1,
+      "fact": "Ute i rymden finns inget lufttryck eller syre, vilket gör att dräkten fungerar som en livsuppehållande kokong."
+    },
+    {
+      "q": "Vad driver solpaneler på rymdstationen?",
+      "options": [
+        "Omvandling av solljus till elektricitet",
+        "Lagring av värmeenergi från jordens atmosfär",
+        "Absorbering av kosmisk strålning från rymden"
+      ],
+      "correct": 0,
+      "fact": "Solpaneler består av solceller som omvandlar solens strålning direkt till elektrisk energi via den fotovoltaiska effekten."
+    },
+    {
+      "q": "Hur rör sig Internationella rymdstationen kring jorden?",
+      "options": [
+        "Den står stilla i en fast punkt",
+        "Den kretsar i ett högt omlopp",
+        "Den faller ständigt fritt i omloppsbana"
+      ],
+      "correct": 2,
+      "fact": "Rymdstationen befinner sig i ett konstant fritt fall runt jorden, vilket skapar det tillstånd av tyngdlöshet som upplevs ombord."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att få arbeta svävande högt uppe bland stjärnorna. På bilden ser vi en astronaut som är ute på en rymdpromenad för att bygga på den stora rymdstationen som flyger runt jorden. Det är precis som att bygga med legobitar, men med gigantiska solpaneler och i ett svävande rum där man aldrig ramlar ned.",
+    "nyborjare": "Att arbeta utanför en rymdfarkost kräver en avancerad rymddräkt som fungerar som ett eget litet ekosystem. På bilden syns en astronaut under en rymdpromenad för att installera nya solpaneler på Internationella rymdstationen. Rymdstationen kretsar runt jorden i en omloppsbana på ungefär 400 kilometers höjd, där besättningen ständigt befinner sig i ett tillstånd av tyngdlöshet.",
+    "entusiast": "Verksamheten utanför rymdstationen ställer enorma krav på både astronauten och livsuppehållande system. Bilden visar en flygingenjör under en extravehiculär aktivitet, där uppgiften är att montera en ny utrullningsbar solpanel på den bärande fackverksstrukturen. Solpanelerna är avgörande för att upprätthålla rymdstationens energiförsörjning genom att omvandla solljus till elektrisk kraft medan komplexet rör sig med en hastighet av omkring 28 000 kilometer i timmen."
+  },
+  "terms": [
+    {
+      "term": "astronaut",
+      "explanation": "En person som är tränad för att resa och arbeta i rymden."
+    },
+    {
+      "term": "rymdpromenad",
+      "explanation": "Ett arbete som utförs av en astronaut utanför en rymdfarkost."
+    },
+    {
+      "term": "solpanel",
+      "explanation": "En anordning som omvandlar solljus till elektrisk energi."
+    },
+    {
+      "term": "omloppsbana",
+      "explanation": "Den krökta bana som en himlakropp eller farkost följer runt en annan."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine working while floating high up among the stars. The picture shows an astronaut on a spacewalk helping to build the giant space station flying around earth. It is just like building with toy blocks, but with gigantic solar panels and in a floating room where you never fall down.",
+      "nyborjare": "Working outside a spacecraft requires an advanced spacesuit that acts as its own tiny ecosystem. The picture shows an astronaut during a spacewalk to install new solar arrays on the International Space Station. The space station orbits earth at an altitude of about 400 kilometers, where the crew is constantly in a state of weightlessness.",
+      "entusiast": "Extravehicular operations place enormous demands on both the astronaut and the life support systems. The image shows a flight engineer during a spacewalk, tasked with installing a new roll-out solar array on the structural truss. The solar arrays are vital for maintaining the station's power supply by converting sunlight into electrical energy while the complex travels at about 28,000 kilometers per hour."
+    },
+    "terms": [
+      {
+        "term": "astronaut",
+        "explanation": "A person trained to travel and work in space."
+      },
+      {
+        "term": "spacewalk",
+        "explanation": "Work performed by an astronaut outside a spacecraft."
+      },
+      {
+        "term": "solar array",
+        "explanation": "An arrangement of connected solar panels that generates electricity."
+      },
+      {
+        "term": "orbit",
+        "explanation": "The curved path that a celestial body or spacecraft follows around another."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Why do astronauts wear spacesuits during a spacewalk?",
+        "options": [
+          "To protect against the sun's heat",
+          "To maintain pressure and provide oxygen",
+          "To avoid feeling the pull of gravity"
+        ],
+        "correct": 1,
+        "fact": "Space has no atmospheric pressure or oxygen, making the suit act as a life-supporting cocoon."
+      },
+      {
+        "q": "What powers solar arrays on the space station?",
+        "options": [
+          "Conversion of sunlight into electricity",
+          "Storage of thermal energy from earth",
+          "Absorption of cosmic radiation from space"
+        ],
+        "correct": 0,
+        "fact": "Solar arrays consist of solar cells that convert sunlight directly into electrical energy via the photovoltaic effect."
+      },
+      {
+        "q": "How does the International Space Station move around earth?",
+        "options": [
+          "It remains stationary at a fixed point",
+          "It orbits in a high geostationary position",
+          "It is in a state of continuous free fall"
+        ],
+        "correct": 2,
+        "fact": "The space station is in a constant free fall around earth, which creates the sensation of weightlessness experienced on board."
+      }
+    ]
+  }
+}

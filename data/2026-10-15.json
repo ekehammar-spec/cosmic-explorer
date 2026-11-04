@@ -3,132 +3,140 @@
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
   "title": "The Two-faced Whirlpool Galaxy",
-  "title_sv": "Malmangalaxen M51",
+  "title_sv": "Malgalaxen M51",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001935/GSFC_20171208_Archive_e001935~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001935/GSFC_20171208_Archive_e001935~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001935/GSFC_20171208_Archive_e001935~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001935",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001925/GSFC_20171208_Archive_e001925~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001925/GSFC_20171208_Archive_e001925~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001925/GSFC_20171208_Archive_e001925~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001925",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e001935",
+  "id": "GSFC_20171208_Archive_e001925",
   "px": [
     1425,
     1920
   ],
   "w": 475,
   "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAIxAAAgEDBAMAAwAAAAAAAAAAAQIDABESBCExQRMiUYGR8f/EABcBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwDB8Q00SLG5Lyi7WFrC/wDanHoZZPUYKCLgu4F6tgi8sKvYZIApxO+x6/dTWLzSbiygW6Gw+34rLbvAZZs+nljf3XvY9UU/FLlFNFbNArPb4R3RSLT1ybIRSOpuhZTfo1Y00uoGMkjuB0TXCUeLJkEe52DHilpZMlxjXxqTxyT+aYXCaecQq6hfeZdxxZDRSQ3Ygm7dk0U0Lt//2Q==",
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAJRAAAgEEAgIABwAAAAAAAAAAAQIDAAQRIRIxE0EFFDJRYXHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhFB/9oADAMBAAIRAxEAPwBJBEWUZ0F6/JNWn+FSNF5dgH0Bmo2rIZ0J4qrb319q2AubZrPDFcj2N7/tZVTR0KUc/ks35kKcsN0UzuhG9+CNKXxrsiirVEOUKI5pYwFYAqPRFMI76XgETigIxhR3VXzRFzgcgN5xUvnobcngOb4+ojr9U5pO50vRqIl805wq9AnZNFZ+8v5bhsknFFKkHWn/2Q==",
   "quiz": [
     {
-      "q": "Vad är en spiralgalax?",
+      "q": "Vad är en spiralgalax för något?",
       "options": [
-        "Ett roterande system av stjärnor gas och stoft",
-        "En ensam stjärna omgiven av planetsystem",
-        "Ett moln av enbart gas utan stjärnor"
+        "En stor samling stjärnor som roterar i ett skivformat mönster",
+        "Ett moln av gas som enbart lyser av egen infraröd strålning",
+        "En planet som har brutits sönder av starka tidvattenkrafter"
       ],
       "correct": 0,
-      "fact": "En spiralgalax består av roterande stjärnor gas och stoft som formar vackra spiralarmar kring ett ljust centrum."
+      "fact": "En spiralgalax består av hundratals miljarder stjärnor, gas och stoft som är samlade i en roterande skiva med spiralarmar."
     },
     {
-      "q": "Vad är ett ljusår för mått?",
+      "q": "Varför blockerar rymddamm synligt ljus från stjärnor?",
       "options": [
-        "Hur lång tid ljuset tar att nå solen",
-        "Den sträcka ljuset färdas på ett år",
-        "Tiden det tar att mäta stjärnors ljusstyrka"
+        "Stoftsugande svarta hål drar till sig alla ljusstrålar",
+        "Små partiklar sprider och absorberar det korta ljusvågorna",
+        "Dammpartiklarna omvandlar allt ljus till ren värmeenergi"
       ],
       "correct": 1,
-      "fact": "Ett ljusår är den enorma sträcka som en ljusstråle hinner färdas under ett helt jordår."
+      "fact": "Tätt rymddamm består av mikroskopiska partiklar som är mycket effektiva på att stoppa kortvågigt synligt ljus."
     },
     {
-      "q": "Varför ser astronomer på galaxers stoft?",
+      "q": "Hur kan forskare se genom tjocka moln av rymddamm?",
       "options": [
-        "För att mäta hur fort galaxen roterar",
-        "För att förstå hur nya stjärnor föds",
-        "För att hitta spår efter främmande planeter"
+        "Genom att använda ultravioletta teleskop som bränner bort stoftet",
+        "Genom att mäta gravitationsvågor från stjärnornas centrum",
+        "Genom att använda infrarött ljus som tränger igenom lättare"
       ],
-      "correct": 1,
-      "fact": "Genom att studera gas och stoft får astronomer viktig information om hur materien kollapsar för att bilda nya stjärnor."
+      "correct": 2,
+      "fact": "Infrarött ljus har längre våglängder än synligt ljus och kan därför obehindrat passera genom täta moln av gas och damm."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en stor snurra av glittrande stjärnor långt ut i rymden. Den här galaxen ser ut som en virvelvind eller ett gigantiskt bullerby-sockerhjärta. Mitt i den fina virveln finns det massor av stjärnor och tjockt stoft. År 2005 riktade rymdteleskopet Hubble sin lins hit för att undersöka hur stjärnorna i virveln skapas.",
-    "nyborjare": "Malmangalaxen M51 är en klassisk spiralgalax som visar upp vackra armar fyllda av unga stjärnhopar. År 2005 använde astronomer det mäktiga rymdteleskopet Hubble för att ta nya skarpa bilder i både synligt ljus och infrarött ljus. Genom att kombinera dessa observationer kunde forskarna skala bort det mesta av stjärnljuset och avslöja galaxens invecklade struktur av stoft. Istället för jättelika moln visade det sig att stoftet bildar jämna banor som dras in mot galaxens kärna. Detta ger viktig kunskap om hur gas och stoft drar ihop sig för att bilda nya stjärnor.",
-    "entusiast": "Malmangalaxen M51 erbjuder ett enastående tillfälle att studera den interna strukturen hos en växelverkande spiralgalax. År 2005 kombinerade forskare data från rymdteleskopet Hubble tagna med instrumenten ACS i synligt ljus och NICMOS i nära infrarött ljus. Det nära infraröda ljuset penetrerar det täta kosmiska stoftet vilket blottlade hundratals tidigare okända stjärnhopar var och en omkring 65 ljusår breda. Analysen visade att stoftet i M51 till största delen är bundet i diffusa stoftbanor snarare än gigantiska moln på över 100 ljusår vilket kan bero på en tidigare passering av en annan galax. Sådana detaljerade observationer av stoftstrukturen fungerar som ett kraftfullt diagnostiskt verktyg för att förstå stjärnbildandeprocesser."
+    "barn": "Tänk dig en stor snurra som lyser ute i rymden. Den här bilden visar en jättestor stjärnsnurra som kallas Malgalaxen. På den ena bilden ser den ut som en glittrande blomma med rosa moln. På den andra bilden har forskarna lyst igenom den med speciella instrument för att se hur allt stoft är packat inuti den. Det är som att titta på skelettet till en glittrande virvelvind långt borta i universum.",
+    "nyborjare": "Malgalaxen M51 är en klassisk spiralgalax som ligger långt bort i rymden. Den här historiska bilden från 2005 visar galaxen på två helt olika sätt. Den första vyn fångar synligt ljus, vilket gör att vi ser vackra stjärnhopar och armar. Den andra vyn använder nära-infrarött ljus för att titta bakom de täta molnen av rymddamm. Eftersom infrarött ljus kan tränga igenom stoftet blottläggs galaxens dolda skelettstruktur. Forskare kan på så sätt studera hur stjärnor föds i de tätt packade gasmolnen. Bilden hjälper astronomer att förstå hur galaxers inre delar fungerar.",
+    "entusiast": "Denna ikoniska sammansättning av observationer gjorda 2005 med rymdteleskopet Hubble visar galaxen M51 i både synligt ljus och nära-infrarött ljus. Genom att subtrahera stjärnljuset från kombinerade exponeringar med Advanced Camera for Surveys och NICMOS kunde forskare kartlägga galaxens komplexa dammstruktur. Till skillnad från vad som tidigare förväntades, med enorma stoftmoln på över hundra ljusår, visade det sig att det mesta dammet är bundet i diffusa dammbanor, troligen ett resultat av en tidigare galaktisk växelverkan. De nyupptäckta stjärnhoparna som döljs bakom dammet är cirka 65 ljusår breda, och hela observationen avslöjar detaljer ned till 35 ljusårs storlek."
   },
   "terms": [
     {
       "term": "spiralgalax",
-      "explanation": "Ett stjärnsystem som kännetecknas av en roterande skiva med spirallika armar av stjärnor och gas."
+      "explanation": "En stor stjärnsamling med en platt skiva och framträdande armar som virvlar ut från ett centralt klot."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett optiskt instrument placerat i omloppsbana runt jorden för att observera universum utan atmosfärens störningar."
+      "term": "rymddamm",
+      "explanation": "Mikroskopiska fasta partiklar av kol, kisel och andra grundämnen som svävar fritt i rymdens interstellära rymd."
+    },
+    {
+      "term": "synligt ljus",
+      "explanation": "Den del av det elektromagnetiska spektrumet som det mänskliga ögat kan uppfatta utan tekniska hjälpmedel."
+    },
+    {
+      "term": "nära-infrarött ljus",
+      "explanation": "Våglängder av ljus som ligger precis utanför det röda spektret och har förmågan att tränga igenom täta gasmoln."
     },
     {
       "term": "stjärnhop",
-      "explanation": "En grupp stjärnor som hålls samman av sin gemensamma gravitation och bildades i samma gasmoln."
-    },
-    {
-      "term": "ljusår",
-      "explanation": "Den sträcka som ljuset färdas på ett jordår vilket används för att mäta astronomiska avstånd."
+      "explanation": "En grupp stjärnor som hålls samman av sin gemensamma tyngdkraft och har bildats i samma stora gasmoln."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a huge pinwheel of glittering stars far out in space. This galaxy looks like a giant swirling whirlpool. Right in the middle of the lovely swirl there are lots of stars and thick cosmic dust. In 2005 the Hubble Space Telescope pointed its lens here to investigate how stars are created inside the whirlpool.",
-      "nyborjare": "The Whirlpool Galaxy M51 is a classic spiral galaxy showcasing graceful arms filled with young star clusters. In 2005 astronomers used the powerful Hubble Space Telescope to capture sharp new views in both visible and near-infrared light. By combining these observations researchers removed most of the starlight to reveal the galaxy's intricate dust structure. Instead of giant clouds the dust formed smooth lanes swirling toward the core providing key knowledge about how gas and dust collapse to form new stars.",
-      "entusiast": "The Whirlpool Galaxy M51 offers an exceptional opportunity to study the internal structure of an interacting spiral galaxy. In 2005 researchers combined data from the Hubble Space Telescope using the ACS instrument in visible light and NICMOS in near-infrared light. Near-infrared light penetrates dense cosmic dust revealing hundreds of previously unseen star clusters each about 65 light-years wide. The analysis showed that the dust in M51 is largely bound in diffuse dust lanes rather than giant clouds exceeding 100 light-years likely due to an encounter with another galaxy. Such detailed observations of dust structure serve as a powerful diagnostic tool for understanding star formation processes."
+      "barn": "Imagine a giant glowing pinwheel spinning out in space. This picture shows a massive star pinwheel called the Whirlpool Galaxy. In one view it looks like a glittering flower with pink clouds. In the other view, scientists have shined special instruments through it to see how all the dust is packed inside. It is like looking at the skeleton of a sparkling cosmic whirlwind far away in the universe.",
+      "nyborjare": "The Whirlpool Galaxy, or M51, is a classic spiral galaxy located far out in space. This historic image from 2005 shows the galaxy in two completely different ways. The first view captures visible light, revealing beautiful star clusters and curving arms. The second view uses near-infrared light to peer behind dense clouds of cosmic dust. Because infrared light penetrates dust, it exposes the hidden skeletal structure of the galaxy. Researchers can thus study how stars are born inside the densely packed gas clouds. The image helps astronomers understand how the internal parts of galaxies work.",
+      "entusiast": "This iconic assembly of observations taken in 2005 with the Hubble Space Telescope displays galaxy M51 in both visible and near-infrared light. By subtracting starlight from combined exposures using the Advanced Camera for Surveys and NICMOS, researchers mapped the galaxy's complex dust architecture. Contrary to expectations of giant dust clouds exceeding a hundred light-years, most dust is tied up in smooth lanes, likely resulting from a past galactic interaction. The newly revealed star clusters hidden behind dust are about 65 light-years wide, and the overall observation resolves details down to 35 light-years across."
     },
     "terms": [
       {
         "term": "spiral galaxy",
-        "explanation": "A stellar system characterized by a rotating disk with spiral arms made of stars and gas."
+        "explanation": "A massive stellar system featuring a flat disk and prominent arms spiraling outward from a central core."
       },
       {
-        "term": "space telescope",
-        "explanation": "An optical instrument placed in orbit around Earth to observe the universe without atmospheric interference."
+        "term": "cosmic dust",
+        "explanation": "Microscopic solid particles of carbon and silicates drifting freely through interstellar space."
+      },
+      {
+        "term": "visible light",
+        "explanation": "The portion of the electromagnetic spectrum that can be detected by the human eye without instruments."
+      },
+      {
+        "term": "near-infrared light",
+        "explanation": "Wavelengths of light just beyond the red spectrum capable of penetrating dense gas and dust clouds."
       },
       {
         "term": "star cluster",
-        "explanation": "A group of stars held together by mutual gravity and formed from the same gas cloud."
-      },
-      {
-        "term": "light-year",
-        "explanation": "The distance that light travels in one Earth year used to measure astronomical distances."
+        "explanation": "A group of stars held together by mutual gravity and born from the same giant molecular cloud."
       }
     ],
     "quiz": [
       {
         "q": "What is a spiral galaxy?",
         "options": [
-          "A rotating system of stars gas and dust",
-          "A single star surrounded by planetary systems",
-          "A cloud of gas containing no stars"
+          "A massive collection of stars rotating in a disk pattern",
+          "A gas cloud glowing solely by its own infrared emission",
+          "A planet torn apart by immense tidal forces"
         ],
         "correct": 0,
-        "fact": "A spiral galaxy consists of rotating stars gas and dust forming graceful spiral arms around a bright center."
+        "fact": "A spiral galaxy consists of hundreds of billions of stars, gas, and dust gathered into a rotating disk with spiral arms."
       },
       {
-        "q": "What does a light-year measure?",
+        "q": "Why does cosmic dust block visible starlight?",
         "options": [
-          "The time light takes to reach the sun",
-          "The distance light travels in one year",
-          "The time required to measure starlight"
+          "Dust-eating black holes pull in all incoming light rays",
+          "Tiny particles scatter and absorb shorter wavelengths of light",
+          "Dust particles convert all light directly into pure thermal energy"
         ],
         "correct": 1,
-        "fact": "A light-year is the enormous distance that a beam of light travels during one Earth year."
+        "fact": "Dense space dust consists of microscopic particles that are highly effective at blocking short-wavelength visible light."
       },
       {
-        "q": "Why do astronomers study galactic dust?",
+        "q": "How can scientists see through thick clouds of cosmic dust?",
         "options": [
-          "To measure how fast the galaxy rotates",
-          "To understand how new stars are born",
-          "To find traces of alien planets"
+          "By using ultraviolet telescopes that burn away the dust",
+          "By measuring gravitational waves from the galactic center",
+          "By utilizing infrared light that penetrates more easily"
         ],
-        "correct": 1,
-        "fact": "Studying gas and dust gives astronomers vital information on how matter collapses to form new stars."
+        "correct": 2,
+        "fact": "Infrared light has longer wavelengths than visible light and can therefore pass unimpeded through dense clouds of gas and dust."
       }
     ]
   }
