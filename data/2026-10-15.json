@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "White Dwarf Stars",
-  "title_sv": "Vit dvärgstjärna",
+  "title": "Hubble Unveils a Tapestry of Dazzling Diamond-Like Stars",
+  "title_sv": "Stjärnhopen Trumpler 14",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA04231/PIA04231~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA04231/PIA04231~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA04231/PIA04231~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA04231",
-  "credit": "NASA and H. Richer University of British Columbia, credit for ground-based photo: NOAO/AURA/NSF",
-  "taken": "1999",
+  "url": "https://images-assets.nasa.gov/image/PIA20468/PIA20468~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA20468/PIA20468~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA20468/PIA20468~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA20468",
+  "credit": "NASA/STScI",
+  "taken": "2016",
   "src": "library",
-  "id": "PIA04231",
+  "id": "PIA20468",
   "px": [
-    1100,
-    1237
+    1920,
+    1920
   ],
-  "w": 569,
+  "w": 640,
   "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUCB//EACoQAAIBAwQBAgUFAAAAAAAAAAECAwAEEQUSIUExExQGIzJCsVKBkaHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AOeDzTrOxkumIjBLDnFHSF85PBp9rJc27fIWQuR4UEn+BWpAuIWiYqTRz57pssdxcBpFglYDyQhIo5gl/SaqAiEQsVkm4G4Z5+3sHvr+6raRezPrAuAhuXGVSPdtLLjAHHPipHqqjM6KIlZ8BQcsuB33zmqHw9frY6xZyM0npQlmJQDPI6yPzUFUvNNv00KG9jv1eOHchtllGFAY4CgfV+aFY6Vc3MTSyssTs2SJAcnIBz++aQvtFW5m3LcNOpmEoZh6JJ4RgBjJPPPHGKzDp1pBbxe61hY5JFEmzZnaD1z/AJSH/9k=",
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAAID/8QAJRAAAgEEAAYCAwAAAAAAAAAAAQIDAAQREiExMkFRYRNxBULB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECAxEhMWH/2gAMAwEAAhEDEQA/AIkkMcElj5plYx6h3/YLkejWQWcbkEbM5bOOwGKYxwbKEjQ69PAdVOMMmbwARIXcEnBPHPiiCwQs5BxyZs/yu0iRxTquRpnDFeOB6oS5YquEBxvhMjt5oXRXBVvGwj8WxglSZCTICCDVLBdRxWQcQ5nLZ3I7fVStjCWdGDAsTyJpmk7xzmHAJB5cwaqt9AzaWH5bn5QqnckhQuB64eKDuniWR3CKup6T5+qaxpvsy8B2BoG6t0WUzSDcgYCfdSt8HD0//9k=",
   "quiz": [
     {
-      "q": "Vad händer med en stjärna när den blir en vit dvärg?",
+      "q": "Vad är en öppen stjärnhop?",
       "options": [
-        "Den kollapsar direkt till ett svart hål",
-        "Den kyler långsamt av under miljarder år",
-        "Den exploderar i en mäktig supernova"
-      ],
-      "correct": 1,
-      "fact": "När en stjärna i storlek med solen gör slut på sitt bränsle drar den ihop sig till en tät vit dvärg som svalnar mycket långsamt."
-    },
-    {
-      "q": "Ungefär hur stor är en vit dvärg rent fysiskt?",
-      "options": [
-        "Ungefär lika stor som jorden",
-        "Stor som hela vårt solsystem",
-        "Lika stor som en vanlig måne"
+        "En lös samling unga stjärnor födda ur samma moln",
+        "Ett hål i rymden där nya stjärnor sugs in",
+        "Resterna efter en gammal exploderad stjärna i galaxen"
       ],
       "correct": 0,
-      "fact": "En vit dvärg har pressats ihop till en otrolig täthet och är inte större än en planet som jorden, trots att massan motsvarar en hel stjärna."
+      "fact": "Öppna stjärnhopar består av tusentals stjärnor som bildats ur samma gigantiska gasmoln och som färdas tillsammans genom rymden."
     },
     {
-      "q": "Varför är gamla vita dvärgar intressanta för astronomin?",
+      "q": "Varför lyser unga, massiva stjärnor så extremt starkt?",
       "options": [
-        "De visar hur universum skapades från början",
-        "De kan användas för att mäta universums ålder",
-        "De producerar ny materia i sina svala kärnor"
+        "De bränner sitt bränsle i en rasande takt",
+        "De reflekterar ljuset från närliggande svarta hål i rymden",
+        "De har en fast yta av glödande diamanter"
       ],
-      "correct": 1,
-      "fact": "Eftersom vita dvärgar svalnar i en förutsägbar takt fungerar de som kosmiska klockor som avslöjar när de första stjärnorna tändes."
+      "correct": 0,
+      "fact": "Mycket massiva stjärnor har ett enormt tryck i sina kärnor vilket gör att de förbrukar sitt bränsle mycket snabbt och lyser intensivt."
+    },
+    {
+      "q": "Hur skapas nya stjärnor i vår galax?",
+      "options": [
+        "Genom att enorma moln av gas och stoft dras samman",
+        "När två planeter krockar med varandra i hög hastighet",
+        "Genom att äldre stjärnor delar sig i två lika stora delar"
+      ],
+      "correct": 0,
+      "fact": "Stjärnor föds när tyngdkraften får kalla moln av gas och stoft att dras samman tills kärnreaktioner startar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en jättestor stjärna har slutat lysa och har krympt ihop till en liten glödande kula ute i rymden. Den är inte större än vår egen jord, även om den väger jättemycket. Det är som att stoppa ner en hel sol i en liten vattenmelon! Astronomerna använde ett rymdteleskop för att titta på tusentals sådana här stjärnor för att förstå hur gamla de är.",
-    "nyborjare": "Bilden som togs år 2002 med NASA:s rymdteleskop visar en stjärnhop fylld med rester av gamla stjärnor. När stjärnor som vår sol har bränt upp allt sitt bränsle dör de och lämnar efter sig en tät kärna som kallas en vit dvärg. Dessa döda himlakroppar saknar eget kärnbränsle och svalnar mycket långsamt under miljarder år. Genom att studera hur svala de äldsta vita dvärgarna har hunnit bli kan astronomerna räkna ut hur gammalt vårt universum faktiskt är.",
-    "entusiast": "År 2002 riktade NASA:s Hubble Space Telescope sina instrument mot en tät stjärnhop i Vintergatan för att spåra de äldsta exemplaren av vita dvärgar. En vit dvärg är det slutgiltiga stadiet för stjärnor med en ursprunglig massa under cirka åtta solmassor. I denna kompakta konfiguration upprätthålls jämvikten inte längre av fusion utan av elektronernas degenerationstryck. Eftersom kylningsprocessen följer fysikens lagar med stor precision kan astronomer använda stjärnornas temperaturer för att datera när stjärnhopen bildades. Detta ger en oberoende nedre gräns för universums ålder och kompletterar mätningar av den kosmiska bakgrundsstrålningen."
+    "barn": "Tänk dig en jättestor skattkista full med skinande diamanter som glimrar i mörkret. Det är precis så här det ser ut när rymdteleskopet tittar på en ung stjärnhop. Stjärnorna sitter ganska tätt tillsammans och glöder i starka färger. De ser ut som gnistrande ädelstenar som har strötts ut över natthimlen. Vissa av dem är så varma att de lyser starkare än tusentals vanliga solar tillsammans.",
+    "nyborjare": "Den här stjärnhopen kallas Trumpler 14 och är hemvist för några av de mest ljusstarka stjärnorna i hela Vintergatan. Bilden påminner om en gnistrande matta av ädelstenar. Stjärnorna i hopen är mycket unga i astronomiska sammanhang och bildades för bara några miljoner sedan ur ett gigantiskt moln av gas och stoft. Deras intensiva strålning skapar ett vackert och komplext mönster i omgivningen som gör dem till ett populärt mål för rymdteleskopet.",
+    "entusiast": "Trumpler 14 är en av de mest kända unga öppna stjärnhoparna i Vintergatan och är belägen i Carinanebulosan på ett avstånd av ungefär 8 000 ljusår från jorden. Hopen domineras av extremt heta stjärnor av spektraltyp O, vilka har korta livscykler men utövar ett enormt inflytande på sin omgivning genom kraftiga stjärnvindar och ultraviolett strålning. Dessa processer urholkar det omgivande gasmolnet och formar strukturer som fångas med enastående detaljrikedom av rymdteleskopets optiska instrument."
   },
   "terms": [
     {
-      "term": "vit dvärg",
-      "explanation": "En mycket tät och kompakt rest av en död stjärna som lyser svagt av restvärme."
+      "term": "stjärnhop",
+      "explanation": "En grupp stjärnor som hålls samman av sin gemensamma tyngdkraft."
+    },
+    {
+      "term": "Vintergatan",
+      "explanation": "Vår egen galax som rymmer hundratals miljarder stjärnor inklusive solen."
+    },
+    {
+      "term": "gas",
+      "explanation": "Ett flyktigt ämnesform i rymden som ofta bygger upp stjärnornas grundmaterial."
+    },
+    {
+      "term": "stoft",
+      "explanation": "Små fasta partiklar av kol och silikater som svävar fritt i rymdens moln."
     },
     {
       "term": "rymdteleskop",
-      "explanation": "Ett avancerat optiskt instrument placerat i omloppsbana ovanför jordens atmosfär för att observera universum."
-    },
-    {
-      "term": "stjärnhop",
-      "explanation": "En stor samling stjärnor som hålls samman av sin gemensamma gravitation."
-    },
-    {
-      "term": "universum",
-      "explanation": "Allt som existerar, inklusive all materia, energi, rum och tid."
+      "explanation": "Ett avancerat instrument placerat ilopp runt jorden för att studera universum fritt från atmosfären."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant star that has stopped shining and shrunk into a small glowing ball out in space. It is no larger than our own planet Earth, even though it weighs a tremendous amount. It is like squeezing an entire sun into a small watermelon! Astronomers used a space telescope to look at thousands of these stars to understand their age.",
-      "nyborjare": "The image taken in 2002 with NASA's space telescope reveals a star cluster filled with the remnants of ancient stars. When stars like our Sun burn through all their fuel, they die and leave behind a dense core known as a white dwarf. These dead celestial bodies lack nuclear fuel and cool down very slowly over billions of years. By studying how cool the oldest white dwarfs have become, astronomers can calculate the actual age of our universe.",
-      "entusiast": "In 2002, NASA's Hubble Space Telescope targeted a dense star cluster in the Milky Way to track down the oldest white dwarfs. A white dwarf is the evolutionary endpoint for stars with initial masses below roughly eight solar masses. In this compact configuration, equilibrium is maintained by electron degeneracy pressure rather than nuclear fusion. Since the cooling rate follows physical laws with high precision, astronomers use the temperatures of these stars to date the formation of the cluster, providing an independent lower limit for the age of the universe."
+      "barn": "Imagine a giant treasure chest filled with shining diamonds twinkling in the dark. That is exactly what it looks like when the space telescope views a young star cluster. The stars sit quite close together and glow in bright colors. They look like sparkling gems scattered across the night sky. Some of them are so hot that they shine brighter than thousands of ordinary suns combined.",
+      "nyborjare": "This star cluster is called Trumpler 14 and is home to some of the most luminous stars in the entire Milky Way. The image resembles a glittering tapestry of precious gems. The stars in the cluster are very young in astronomical terms and formed just a few million years ago from a giant cloud of gas and dust. Their intense radiation creates a beautiful and complex pattern in the surroundings.",
+      "entusiast": "Trumpler 14 is one of the most prominent young open star clusters in the Milky Way and is located in the Carina Nebula at a distance of approximately 8,000 light-years from Earth. The cluster is dominated by extremely hot O-type stars which possess short lifecycles yet exert immense influence on their environment through powerful stellar winds and ultraviolet radiation. These processes shape structures captured with extraordinary detail by the optical instruments of the space telescope."
     },
     "terms": [
       {
-        "term": "white dwarf",
-        "explanation": "A very dense and compact remnant of a dead star that glows faintly from residual heat."
+        "term": "cluster",
+        "explanation": "A group of stars held together by their mutual gravitational attraction."
+      },
+      {
+        "term": "Milky Way",
+        "explanation": "Our home galaxy containing hundreds of billions of stars including the sun."
+      },
+      {
+        "term": "gas",
+        "explanation": "A fluid state of matter in space that often forms the building blocks of stars."
+      },
+      {
+        "term": "dust",
+        "explanation": "Tiny solid particles of carbon and silicates floating freely in interstellar clouds."
       },
       {
         "term": "space telescope",
-        "explanation": "An advanced optical instrument placed in orbit above Earth's atmosphere to observe the universe."
-      },
-      {
-        "term": "star cluster",
-        "explanation": "A large collection of stars held together by their mutual gravitational attraction."
-      },
-      {
-        "term": "universe",
-        "explanation": "Everything that exists, including all matter, energy, space, and time."
+        "explanation": "An advanced instrument placed in orbit above Earth to study the universe without atmospheric distortion."
       }
     ],
     "quiz": [
       {
-        "q": "What happens to a star when it becomes a white dwarf?",
+        "q": "What is an open star cluster?",
         "options": [
-          "It immediately collapses into a black hole",
-          "It slowly cools down over billions of years",
-          "It explodes in a powerful supernova"
-        ],
-        "correct": 1,
-        "fact": "When a star like the Sun runs out of fuel, it shrinks into a dense white dwarf that cools very slowly."
-      },
-      {
-        "q": "Approximately how large is a white dwarf physically?",
-        "options": [
-          "About the size of planet Earth",
-          "As large as our entire solar system",
-          "The size of a normal moon"
+          "A loose collection of young stars born from the same cloud",
+          "A dark hole in space where new stars are pulled inward",
+          "The remnants of an old exploded star within the galaxy"
         ],
         "correct": 0,
-        "fact": "A white dwarf is compressed to an incredible density and is no larger than Earth, despite holding the mass of a star."
+        "fact": "Open clusters consist of thousands of stars formed from the same giant gas cloud and traveling together through space."
       },
       {
-        "q": "Why are old white dwarfs interesting to astronomy?",
+        "q": "Why do young massive stars shine so extremely bright?",
         "options": [
-          "They show how the universe was created initially",
-          "They can be used to measure the age of the universe",
-          "They produce new matter in their cool cores"
+          "They consume their nuclear fuel at a furious rate",
+          "They reflect light from nearby black holes in the region",
+          "They possess a solid surface made of glowing diamonds"
         ],
-        "correct": 1,
-        "fact": "Because white dwarfs cool at a predictable rate, they act as cosmic clocks that reveal when the first stars ignited."
+        "correct": 0,
+        "fact": "Very massive stars have immense core pressure which causes them to burn through their fuel very rapidly and glow intensely."
+      },
+      {
+        "q": "How are new stars created within our galaxy?",
+        "options": [
+          "Through the gravitational collapse of enormous gas and dust clouds",
+          "When two planets collide with each other at high speed",
+          "By older stars splitting equally into two identical parts"
+        ],
+        "correct": 0,
+        "fact": "Stars are born when gravity pulls cold clouds of gas and dust together until nuclear fusion reactions finally ignite."
       }
     ]
   }
