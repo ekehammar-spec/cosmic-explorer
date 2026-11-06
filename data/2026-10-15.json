@@ -2,141 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Hubble Unveils a Tapestry of Dazzling Diamond-Like Stars",
-  "title_sv": "Stjärnhopen Trumpler 14",
+  "title": "Hubble Unveils Colorful and Turbulent Star-Birth Region on 100,000th Orbit Milestone",
+  "title_sv": "NGC 2074 i Tarantelnebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA20468/PIA20468~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA20468/PIA20468~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA20468/PIA20468~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA20468",
-  "credit": "NASA/STScI",
-  "taken": "2016",
+  "url": "https://images-assets.nasa.gov/image/PIA10957/PIA10957~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA10957/PIA10957~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA10957/PIA10957~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA10957",
+  "credit": "NASA, ESA, and the Hubble Heritage Team STScI/AURA",
+  "taken": "2008",
   "src": "library",
-  "id": "PIA20468",
+  "id": "PIA10957",
   "px": [
-    1920,
-    1920
+    1280,
+    1262
   ],
   "w": 640,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAAID/8QAJRAAAgEEAAYCAwAAAAAAAAAAAQIDAAQREiExMkFRYRNxBULB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMA/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECAxEhMWH/2gAMAwEAAhEDEQA/AIkkMcElj5plYx6h3/YLkejWQWcbkEbM5bOOwGKYxwbKEjQ69PAdVOMMmbwARIXcEnBPHPiiCwQs5BxyZs/yu0iRxTquRpnDFeOB6oS5YquEBxvhMjt5oXRXBVvGwj8WxglSZCTICCDVLBdRxWQcQ5nLZ3I7fVStjCWdGDAsTyJpmk7xzmHAJB5cwaqt9AzaWH5bn5QqnckhQuB64eKDuniWR3CKup6T5+qaxpvsy8B2BoG6t0WUzSDcgYCfdSt8HD0//9k=",
+  "h": 631,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYBAgMFB//EACYQAAIBAwQCAQUBAAAAAAAAAAECAwARMQQFEiFBUYEiM2FxkaH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBQED/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQMAAhEhEjFB/9oADAMBAAIRAxEAPwBZ0sUYV1dSXIHE4t3/ALW60KKsbGdAVTFvHzUbbBppmEbmzNg+vij9zhh00Q04LDsEWOTSDQOV9yc5d2WFbDk5tJ9xrYuarTVqNKhicCNelJNh2OqVzG4yjfysIyUAdjbswjfVXlIstrA4PfmmHcW0UvCVJFDDofSQP1SnIw4oFwFFzi9GNLM2nWQSMCMD0fwPdEWz5C1Pkd0wl5IIeSSQSqzNxV79E+reKHaYC7MRdc8moCbcZwQrOXtYjkfI7rBqdylmAAREQYVRYX90ywkZOa0Ch3Z//9k=",
   "quiz": [
     {
-      "q": "Vad är en öppen stjärnhop?",
+      "q": "Vad är en nebulosa?",
       "options": [
-        "En lös samling unga stjärnor födda ur samma moln",
-        "Ett hål i rymden där nya stjärnor sugs in",
-        "Resterna efter en gammal exploderad stjärna i galaxen"
+        "Ett moln av gas och stoft",
+        "En döende planet i omloppsbana",
+        "En kompakt samling av svarta hål"
       ],
       "correct": 0,
-      "fact": "Öppna stjärnhopar består av tusentals stjärnor som bildats ur samma gigantiska gasmoln och som färdas tillsammans genom rymden."
+      "fact": "Nebulosor är enorma moln av gas och stoft i rymden där nya stjärnor ofta föds."
     },
     {
-      "q": "Varför lyser unga, massiva stjärnor så extremt starkt?",
+      "q": "Vad betyder ett ljusår?",
       "options": [
-        "De bränner sitt bränsle i en rasande takt",
-        "De reflekterar ljuset från närliggande svarta hål i rymden",
-        "De har en fast yta av glödande diamanter"
+        "Den tid ljuset tar på ett år",
+        "Sträckan ljuset färdas på ett år",
+        "Ett mått på en stjärnas ljusstyrka"
       ],
-      "correct": 0,
-      "fact": "Mycket massiva stjärnor har ett enormt tryck i sina kärnor vilket gör att de förbrukar sitt bränsle mycket snabbt och lyser intensivt."
+      "correct": 1,
+      "fact": "Ett ljusår är den sträcka som ljuset hann färdas under ett jordår, vilket är ungefär 9,46 biljoner kilometer."
     },
     {
-      "q": "Hur skapas nya stjärnor i vår galax?",
+      "q": "Vad triggar igång stjärnbildning i nebulosor?",
       "options": [
-        "Genom att enorma moln av gas och stoft dras samman",
-        "När två planeter krockar med varandra i hög hastighet",
-        "Genom att äldre stjärnor delar sig i två lika stora delar"
+        "Tryckvågor från supernovor",
+        "Kraftiga solvindar från jorden",
+        "Kylning av mörk materia"
       ],
       "correct": 0,
-      "fact": "Stjärnor föds när tyngdkraften får kalla moln av gas och stoft att dras samman tills kärnreaktioner startar."
+      "fact": "När en massiv stjärna exploderar som en supernova trycker tryckvågorna ihop omgivande gas så att nya stjärnor kan tändas."
     }
   ],
   "levels": {
-    "barn": "Tänk dig en jättestor skattkista full med skinande diamanter som glimrar i mörkret. Det är precis så här det ser ut när rymdteleskopet tittar på en ung stjärnhop. Stjärnorna sitter ganska tätt tillsammans och glöder i starka färger. De ser ut som gnistrande ädelstenar som har strötts ut över natthimlen. Vissa av dem är så varma att de lyser starkare än tusentals vanliga solar tillsammans.",
-    "nyborjare": "Den här stjärnhopen kallas Trumpler 14 och är hemvist för några av de mest ljusstarka stjärnorna i hela Vintergatan. Bilden påminner om en gnistrande matta av ädelstenar. Stjärnorna i hopen är mycket unga i astronomiska sammanhang och bildades för bara några miljoner sedan ur ett gigantiskt moln av gas och stoft. Deras intensiva strålning skapar ett vackert och komplext mönster i omgivningen som gör dem till ett populärt mål för rymdteleskopet.",
-    "entusiast": "Trumpler 14 är en av de mest kända unga öppna stjärnhoparna i Vintergatan och är belägen i Carinanebulosan på ett avstånd av ungefär 8 000 ljusår från jorden. Hopen domineras av extremt heta stjärnor av spektraltyp O, vilka har korta livscykler men utövar ett enormt inflytande på sin omgivning genom kraftiga stjärnvindar och ultraviolett strålning. Dessa processer urholkar det omgivande gasmolnet och formar strukturer som fångas med enastående detaljrikedom av rymdteleskopets optiska instrument."
+    "barn": "Tänk dig ett jättestort moln i rymden som lyser i vackra färger som rosa och blått. Det är en plats där det föds massor av nya stjärnor hela tiden. Det är som en glittrande stjärnfabrik långt borta där rymdteleskopet Hubble har tagit en fantastisk bild år 2008.",
+    "nyborjare": "År 2008 riktade rymdteleskopet Hubble sina instrument mot en fascinerande del av en nebulosa nära stjärnhopen NGC 2074. Denna region ligger cirka 170 000 ljusår bort i utkanten av den jättelika Tarantelnebulosan. Området beskrivs som en intensiv eldstorm av rå stjärnbildning där nya solar föds i en rasande takt. Forskare tror att denna intensiva process kan ha satts igång av en närliggande supernovaexplosion vars tryckvågor pressade samman den omgivande gasen.",
+    "entusiast": "År 2008 fångade rymdteleskopet Hubble denna turbulenta vy av NGC 2074 belägen cirka 170 000 ljusår bort i en utlöpare till Tarantelnebulosan i Stora magellanska molnet. Bilden visar en dynamisk miljö präglad av våldsam stjärnformation. Den ultravioletta strålningen från unga massiva stjärnor skulpterar det omgivande interstellära mediet och skapar dramatiska pelare och bågar av gas och stoft. Processen tros ha utlösts av tryckvågor från en historisk supernova som komprimerade det kalla gasmolnet och triggade en våg av ny stjärnbildning."
   },
   "terms": [
     {
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och rymdstoft som kan fungera som barnkammare för nya stjärnor."
+    },
+    {
       "term": "stjärnhop",
-      "explanation": "En grupp stjärnor som hålls samman av sin gemensamma tyngdkraft."
+      "explanation": "En grupp stjärnor som hålls samman genom sin gemensamma gravitation."
     },
     {
-      "term": "Vintergatan",
-      "explanation": "Vår egen galax som rymmer hundratals miljarder stjärnor inklusive solen."
+      "term": "ljusår",
+      "explanation": "Det avstånd som en ljusstråle hinner färdas på ett helt jordår."
     },
     {
-      "term": "gas",
-      "explanation": "Ett flyktigt ämnesform i rymden som ofta bygger upp stjärnornas grundmaterial."
-    },
-    {
-      "term": "stoft",
-      "explanation": "Små fasta partiklar av kol och silikater som svävar fritt i rymdens moln."
-    },
-    {
-      "term": "rymdteleskop",
-      "explanation": "Ett avancerat instrument placerat ilopp runt jorden för att studera universum fritt från atmosfären."
+      "term": "supernova",
+      "explanation": "Den våldsamma och ljusstarka explosion som inträffar när en tung stjärna dör."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant treasure chest filled with shining diamonds twinkling in the dark. That is exactly what it looks like when the space telescope views a young star cluster. The stars sit quite close together and glow in bright colors. They look like sparkling gems scattered across the night sky. Some of them are so hot that they shine brighter than thousands of ordinary suns combined.",
-      "nyborjare": "This star cluster is called Trumpler 14 and is home to some of the most luminous stars in the entire Milky Way. The image resembles a glittering tapestry of precious gems. The stars in the cluster are very young in astronomical terms and formed just a few million years ago from a giant cloud of gas and dust. Their intense radiation creates a beautiful and complex pattern in the surroundings.",
-      "entusiast": "Trumpler 14 is one of the most prominent young open star clusters in the Milky Way and is located in the Carina Nebula at a distance of approximately 8,000 light-years from Earth. The cluster is dominated by extremely hot O-type stars which possess short lifecycles yet exert immense influence on their environment through powerful stellar winds and ultraviolet radiation. These processes shape structures captured with extraordinary detail by the optical instruments of the space telescope."
+      "barn": "Imagine a giant cloud out in space glowing in beautiful colors like pink and blue. This is a place where lots of new stars are constantly being born. It is like a sparkling star factory far away where the Hubble Space Telescope captured an amazing picture in 2008.",
+      "nyborjare": "In 2008, the Hubble Space Telescope pointed its instruments at a fascinating portion of a nebula near the star cluster NGC 2074. This region lies about 170 000 light-years away near the Tarantula Nebula. The area is described as a firestorm of raw stellar creation where new suns are born at a furious pace. Scientists believe this intense process may have been triggered by a nearby supernova explosion whose shockwaves compressed the surrounding gas.",
+      "entusiast": "In 2008, the Hubble Space Telescope captured this turbulent view of NGC 2074 located about 170 000 light-years away in an outlying region of the Tarantula Nebula within the Large Magellanic Cloud. The image reveals a dynamic environment characterized by violent star formation. Ultraviolet radiation from young massive stars sculpts the surrounding interstellar medium, creating dramatic pillars and arcs of gas and dust. The process is believed to have been triggered by shockwaves from a historical supernova that compressed the cold gas cloud and catalyzed a wave of starbirth."
     },
     "terms": [
       {
-        "term": "cluster",
+        "term": "nebula",
+        "explanation": "A giant cloud of gas and space dust that can serve as a nursery for new stars."
+      },
+      {
+        "term": "star cluster",
         "explanation": "A group of stars held together by their mutual gravitational attraction."
       },
       {
-        "term": "Milky Way",
-        "explanation": "Our home galaxy containing hundreds of billions of stars including the sun."
+        "term": "light-year",
+        "explanation": "The distance that a beam of light travels in one Earth year."
       },
       {
-        "term": "gas",
-        "explanation": "A fluid state of matter in space that often forms the building blocks of stars."
-      },
-      {
-        "term": "dust",
-        "explanation": "Tiny solid particles of carbon and silicates floating freely in interstellar clouds."
-      },
-      {
-        "term": "space telescope",
-        "explanation": "An advanced instrument placed in orbit above Earth to study the universe without atmospheric distortion."
+        "term": "supernova",
+        "explanation": "The violent and luminous explosion that occurs at the end of a massive star's life."
       }
     ],
     "quiz": [
       {
-        "q": "What is an open star cluster?",
+        "q": "What is a nebula?",
         "options": [
-          "A loose collection of young stars born from the same cloud",
-          "A dark hole in space where new stars are pulled inward",
-          "The remnants of an old exploded star within the galaxy"
+          "A cloud of gas and dust",
+          "A dying planet in orbit",
+          "A compact cluster of black holes"
         ],
         "correct": 0,
-        "fact": "Open clusters consist of thousands of stars formed from the same giant gas cloud and traveling together through space."
+        "fact": "Nebulae are huge clouds of gas and dust in space where new stars are often born."
       },
       {
-        "q": "Why do young massive stars shine so extremely bright?",
+        "q": "What does a light-year measure?",
         "options": [
-          "They consume their nuclear fuel at a furious rate",
-          "They reflect light from nearby black holes in the region",
-          "They possess a solid surface made of glowing diamonds"
+          "The time light takes in one year",
+          "The distance light travels in one year",
+          "A measure of a star's brightness"
         ],
-        "correct": 0,
-        "fact": "Very massive stars have immense core pressure which causes them to burn through their fuel very rapidly and glow intensely."
+        "correct": 1,
+        "fact": "A light-year is the distance that light travels in one Earth year, which is about 9.46 trillion kilometers."
       },
       {
-        "q": "How are new stars created within our galaxy?",
+        "q": "What triggers star formation in nebulae?",
         "options": [
-          "Through the gravitational collapse of enormous gas and dust clouds",
-          "When two planets collide with each other at high speed",
-          "By older stars splitting equally into two identical parts"
+          "Shockwaves from supernova explosions",
+          "Strong solar winds from Earth",
+          "Cooling of dark matter"
         ],
         "correct": 0,
-        "fact": "Stars are born when gravity pulls cold clouds of gas and dust together until nuclear fusion reactions finally ignite."
+        "fact": "When a massive star explodes as a supernova, the shockwaves compress surrounding gas so that new stars can ignite."
       }
     ]
   }

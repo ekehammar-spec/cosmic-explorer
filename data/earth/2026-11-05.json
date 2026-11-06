@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-05",
+  "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+  "title_sv": "Cypern: Ormarnas, katternas och ofioliternas ö",
+  "place": "Cypern",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUB/8QAJxAAAQMCBQIHAAAAAAAAAAAAAQACAwQRBRIhMUEGFBMiMlFSYXH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAxEx/9oADAMBAAIRAxEAPwDHjxGnc8RmVpDubHQrSa9sbg0C7uEjbJjwWSKrYO7keDFYFw1JbxulsqSWoWM2az6qGCnM8r8rb2tbUfSXK3HKmoJEVoWcZfVb9V3qkxeJH2rXtgufK6++muvul0qlcFmmTk28OublspaepkpyTGQL73F0IVekyaTEp5onRzZJGn5DUKmhCEkuBp//2Q==",
+  "levels": {
+    "barn": "Här ser du en satellitbild av ön Cypern från rymden. Den visar ljusa sandstränder och mörka berg. Havet omkring är blått. Mellan de sandiga delarna ligger en vacker insjö som ibland fylls med vatten. För länge sedan bodde det massor av ormar här. Då skickades det hit båtvis med katter för att jaga bort dem. Idag finns det nästan lika många katter som människor på ön.",
+    "nyborjare": "Bilden är tagen av satelliten Landsat 8 och visar Akrotirihalvön på Cypern. Landmassan har bildats genom tektoniska krafter som skapat en bergart som kallas ofiolit, vilken har en grön marmorerad yta som kan liknas vid ormskinn. Bilden visar sandiga stränder och Akrotiris saltsjö som är en kustlagun. Sjövattnet varierar med årstiderna och fylls på under sen höst och vinter, vilket historiskt har lockat stora mängder övervintrande flamingor. Cypern är också känt för sin stora population av katter som har anor från historiska legender där katter skeppades in för att kontrollera giftiga ormar.",
+    "entusiast": "Satelliten Landsat 8 med instrumentet LDCM fångade denna bild den 10 oktober 2026 över Cypern och dess södra udde Akrotirihalvön. Geologiskt sett började ön bildas för cirka 90 miljoner år sedan under yngre krita genom att smält bergart vällde upp från havsbotten och bildade ny havsskorpa bestående av ofiolit. Senare bildades sedimentära bergarter som kalksten under miocen. Sediment från floder bildade så småningom två landbryggor, så kallade tombolos, som förenade landmassorna och bildade Akrotirihalvön. Bilden visar det dynamiska kustområdet inklusive Akrotiri saltsjö, en kustlagun vars vattennivå varierar kraftigt över året. Vintertid lockar sjön historiskt stora populationer av flamingor som äter artemia och därmed får sin rosa färg från karotenoider. Forskare och geologer studerar dessa landskap för att förstå plattektonik och kustdynamik."
+  },
+  "terms": [
+    {
+      "term": "Landsat 8",
+      "explanation": "En satellit som tar bilder av jorden."
+    },
+    {
+      "term": "ofiolit",
+      "explanation": "En bergart med fläckigt grönt utseende som sägs likna skinn från en orm."
+    },
+    {
+      "term": "tombolo",
+      "explanation": "En landbrygga som bildas av sediment mellan landmassor."
+    },
+    {
+      "term": "karotenoid",
+      "explanation": "Ett färgämne som gör flamingor rosa när de äter artemia."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Here you see a satellite image of the island of Cyprus from space. It shows bright sandy beaches and dark mountains. The surrounding sea is blue. Between the sandy parts lies a lake that sometimes fills with water. Long ago, many snakes lived here, so shiploads of cats were sent to hunt them away. Today, there are almost as many cats as people on the island.",
+      "nyborjare": "The image was captured by the Landsat 8 satellite and shows the Akrotiri Peninsula on Cyprus. The landmass formed through tectonic forces creating an ophiolite rock, which has a mottled green surface said to look like snake skin. The image displays sandy shores and the Akrotiri Salt Lake, a coastal lagoon. The lake levels vary seasonally, filling in late autumn and winter, which historically attracted sizable overwintering flamingo populations. Cyprus is also famous for its large cat population stemming from historical legends where cats were shipped in to control venomous snakes.",
+      "entusiast": "The Landsat 8 satellite using LDCM data captured these images on October 10, 2026, showing the Akrotiri Peninsula of Cyprus. Geologically, the island began forming about 90 million years ago during the Late Cretaceous with molten rock solidifying into oceanic crust made of ophiolite. Later, marine sedimentary rocks accumulated, and sediment from rivers created deltas and tombolos that joined landmasses to form the peninsula. The image highlights the coastal lagoon of Akrotiri Salt Lake, whose water levels fluctuate seasonally. Winter influxes historically attract flamingos feeding on fairy shrimp rich in carotenoids, which give the birds their pink hue."
+    },
+    "terms": [
+      {
+        "term": "Landsat 8",
+        "explanation": "A satellite capturing images of the Earth."
+      },
+      {
+        "term": "ophiolite",
+        "explanation": "A type of rock with a mottled green appearance said to look like the skin of a snake."
+      },
+      {
+        "term": "tombolo",
+        "explanation": "A land bridge formed by sediments connecting landmasses."
+      },
+      {
+        "term": "carotenoid",
+        "explanation": "A colorful substance found in fairy shrimp that gives flamingos their pink hue."
+      }
+    ],
+    "place": "Cyprus"
+  }
+}

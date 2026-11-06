@@ -1,26 +1,16 @@
 {
- "updated": "2026-11-04T17:30:20.861Z",
+ "updated": "2026-11-06T06:38:06.468Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-11-04T06:00:00Z",
-   "title_sv": "Tyfonen In-fa",
-   "title_en": "Typhoon In-fa",
+   "date": "2026-11-05T06:00:00Z",
+   "title_sv": "Tropiska stormen In-fa",
+   "title_en": "Tropical Storm In-fa",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 150 km/h",
-   "value_en": "winds of 150 km/h"
-  },
-  {
-   "kind": "storm",
-   "date": "2026-11-03T06:00:00Z",
-   "title_sv": "Tropiska cyklonen Murasu",
-   "title_en": "Tropical Cyclone Murasu",
-   "where_sv": "Norra Indiska oceanen",
-   "where_en": "Northern Indian Ocean",
-   "value_sv": "vindar på 120 km/h",
-   "value_en": "winds of 120 km/h"
+   "value_sv": "vindar på 110 km/h",
+   "value_en": "winds of 110 km/h"
   },
   {
    "kind": "ice",
@@ -31,6 +21,16 @@
    "where_en": "Southern Ocean, near Antarctica",
    "value_sv": "",
    "value_en": ""
+  },
+  {
+   "kind": "fire",
+   "date": "2026-11-02T07:58:00Z",
+   "title_sv": "Skogsbrand i Coos, New Hampshire",
+   "title_en": "Wildfire in Coos, New Hampshire",
+   "where_sv": "",
+   "where_en": "",
+   "value_sv": "400 hektar",
+   "value_en": "400 hectares"
   },
   {
    "kind": "fire",

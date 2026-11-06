@@ -1,0 +1,131 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-06",
+  "title": "A Farewell to Swift",
+  "title_sv": "Spegelyta av en miljon observationer",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=5252&h=3744&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+  "credit": "NASA / Swift and AndreaMosaic",
+  "taken": "2018",
+  "src": "apod",
+  "id": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+  "w": 480,
+  "h": 342,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAWACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYH/8QAJRAAAgICAAQHAQAAAAAAAAAAAQIDEQAEBRIxQRMhIiNhcYEy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACETH/2gAMAwEAAhEDEQA/AObqCWAAsk9M0UmtBLH4S6oDHsopgfvFvDtaGYcxJLr1W6r5x0YJUaSaCRnLDyJHqGTeXnSeE8ZDPwzYio8vpa6Fi/3KrxSJ/SMPzNBIYNqF2f2thR1U1fz9/GI9iWUkxtJzKO475solNHKEEzwSrJGaYY4n4n4epE8akPIDVnyGGGPKgwlbbkjCybc9TlfDDDW//9k=",
+  "quiz": [
+    {
+      "q": "Vad är ett rymdteleskop för röntgenstrålning?",
+      "options": [
+        "Ett instrument som fotograferar skelett i rymden",
+        "En detektor för het gas och svarta hål",
+        "En kamera som bara fungerar på månen"
+      ],
+      "correct": 1,
+      "fact": "Röntgenstrålning från rymden avslöjar extremt heta processer som svarta hål och exploderande stjärnor."
+    },
+    {
+      "q": "Varför faller gamla satelliter till slut ner?",
+      "options": [
+        "Jordens svaga atmosfär bromsar dem gradvis",
+        "Månen drar dem ur deras bana",
+        "Solvinden knuffar dem ur kurs"
+      ],
+      "correct": 0,
+      "fact": "Även högt upp i rymden finns det tunna spår av luft som saktar ner satelliter över tid."
+    },
+    {
+      "q": "Vad händer när en satellit återinträder i atmosfären?",
+      "options": [
+        "Den studsar mot molnen och faller i havet",
+        "Den brinner upp som ett stjärnskott",
+        "Den landar med fallskärm på marken"
+      ],
+      "correct": 1,
+      "fact": "Den enorma friktionen mot luften gör att satelliten hettas upp och förångas."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en jättestor magisk kikare som svävar uppe i rymden och tittar på glittrande stjärnor och häftiga explosioner. Den här bilden är som ett stort konstverk som är satt ihop av en miljon mindre fotografier tagna under nästan tjugotvå år. Nu har kikaren gjort sitt och flugit tillbaka till jorden som ett brinnande stjärnskott.",
+    "nyborjare": "Den här bilden är ett färggrant mosaikverk som skapades 2018. Det sattes samman av den första miljonen bilder tagna av rymdteleskopet Swift. Under nästan tjugotvå års tid kretsade satelliten runt jorden och studerade universums mest energirika händelser, som våldsamma stjärnexplosioner. Efter en lång tjänstgöring sjönk banan till slut och satelliten återinträdde i atmosfären och brann upp.",
+    "entusiast": "Neil Gehrels Swift Observatory var ett revolutionerande rymdteleskop som sköts upp för att studera gammablixtar och andra högenergetiska fenomen. Dess unika styrka låg i förmågan att snabbt rikta om sina instrument mot hastiga kosmiska explosioner. Instrumentkombinationen med både ultraviolett teleskop, röntgenteleskop och gammastrålningsteleskop gav en enastående bild av universums mest våldsamma processer. Bilden från 2018 är ett fascinerande mosaikverk bestående av den första miljonen bilder som togs av dess ultravioletta instrument. Den senaste solcykeln med förhöjd solaktivitet ökade atmosfärens densitet på hög höjd, vilket accelererade omloppsbanans nedbrytning. Efter nästan tjugotvå års framgångsrik drift gick det inte att rädda satelliten med en planerad banhöjning, och den återinträdde den 4 november över Indonesien."
+  },
+  "terms": [
+    {
+      "term": "mosaik",
+      "explanation": "Ett större bildmönster som har satts ihop av tusentals eller miljontals mindre fotografier."
+    },
+    {
+      "term": "röntgenteleskop",
+      "explanation": "Ett avancerat instrument som kan uppfånga osynlig strålning från extremt heta himlakroppar."
+    },
+    {
+      "term": "atmosfär",
+      "explanation": "Det omgivande skikt av gaser som hålls kvar av en planets gravitation."
+    },
+    {
+      "term": "gammablixt",
+      "explanation": "En oerhört kraftfull och kortvarig ljusexplosion som sänds ut från avlägsna delar av universum."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant magical telescope floating in space, looking at glittering stars and powerful explosions. This picture is like a grand artwork built from one million smaller photographs taken over nearly twenty-two years. Now, the telescope has finished its job and fallen back to Earth like a burning shooting star.",
+      "nyborjare": "This image is a colorful mosaic created in 2018. It was put together using the first million pictures captured by the Swift space telescope. For nearly twenty-two years, the satellite orbited Earth and studied the universe's most energetic events, such as violent stellar explosions. After a long career, its orbit finally decayed and the satellite re-entered the atmosphere and burned up.",
+      "entusiast": "The Neil Gehrels Swift Observatory was a revolutionary space telescope launched to study gamma-ray bursts and other high-energy phenomena. Its unique strength lay in the ability to rapidly slew its instruments toward sudden cosmic explosions. The instrument combination featuring an ultraviolet telescope, X-ray telescope, and gamma-ray telescope provided unprecedented detail of the universe's most violent processes. The 2018 image is a fascinating mosaic composed of the first million images captured by its ultraviolet instrument. The recent solar maximum increased the density of the upper atmosphere, which accelerated the orbital decay. After nearly twenty-two years of successful operation, an attempted rescue mission to boost its orbit failed, and it re-entered on November 4 over Indonesia."
+    },
+    "terms": [
+      {
+        "term": "mosaic",
+        "explanation": "A larger image pattern constructed by assembling thousands or millions of smaller photographs."
+      },
+      {
+        "term": "X-ray",
+        "explanation": "A type of high-energy radiation emitted by extremely hot celestial objects."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The envelope of gases surrounding a planet and held in place by gravity."
+      },
+      {
+        "term": "gamma-ray",
+        "explanation": "An extremely powerful and short-lived flash of high-energy radiation from distant parts of the universe."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is an X-ray space telescope?",
+        "options": [
+          "An instrument photographing skeletons in space",
+          "A detector for hot gas and black holes",
+          "A camera that only works on the Moon"
+        ],
+        "correct": 1,
+        "fact": "X-rays from space reveal extremely hot processes like black holes and exploding stars."
+      },
+      {
+        "q": "Why do old satellites eventually fall down?",
+        "options": [
+          "Earth's thin atmosphere slows them down gradually",
+          "The Moon pulls them out of their orbit",
+          "The solar wind pushes them off course"
+        ],
+        "correct": 0,
+        "fact": "Even high up in space, trace amounts of air slow down satellites over time."
+      },
+      {
+        "q": "What happens when a satellite re-enters the atmosphere?",
+        "options": [
+          "It bounces off clouds and lands in the ocean",
+          "It burns up like a shooting star",
+          "It lands safely with a parachute"
+        ],
+        "correct": 1,
+        "fact": "The extreme friction against the air causes the satellite to heat up and vaporize."
+      }
+    ]
+  }
+}

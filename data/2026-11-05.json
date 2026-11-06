@@ -1,0 +1,139 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-05",
+  "title": "Enceladus in Silhouette",
+  "title_sv": "Enceladus i motljus",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png?w=982&h=575&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+  "credit": "Cassini Imaging Team, SSI, JPL, ESA, NASA",
+  "taken": "2009",
+  "src": "apod",
+  "id": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+  "w": 480,
+  "h": 281,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIFAwYH/8QAIhAAAgICAQMFAAAAAAAAAAAAAAECBAMRExQyVUJxlKGk/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A88URcm1pI6TjqeIfzUY2alfPBRxUJYJ77+qjL6YqxAhtvTHcS3Vp4K8Ws1F2Jv1dVGCS9kbcdPxP7UKRBGQAEDFAAP/Z",
+  "quiz": [
+    {
+      "q": "Vad orsakar gejsrarna vid Enceladus sydpol?",
+      "options": [
+        "Aktiv vulkanism driven av flytande magma",
+        "Ett underjordiskt hav under ismassorna",
+        "Geotermisk upphettning från solstrålningen"
+      ],
+      "correct": 1,
+      "fact": "Gejsrarna fylls av vattenånga och ispartiklar från ett globalt hav dolt under månens ismantel."
+    },
+    {
+      "q": "Hur påverkar materialet från Enceladus omgivningen?",
+      "options": [
+        "Det bygger upp Saturnus yttre E-ring",
+        "Det bildar en tjock atmosfär runt månen",
+        "Det dras in i Saturnus kraftiga polarsken"
+      ],
+      "correct": 0,
+      "fact": "De utkastade partiklarna färdas ut i rymden och försörjer Saturnus yttre E-ring med material."
+    },
+    {
+      "q": "Varför är Enceladus yta så extremt ljus?",
+      "options": [
+        "Den består av glödande svavel",
+        "Den är täckt av reflekterande is",
+        "Den har en intensiv metallisk struktur"
+      ],
+      "correct": 1,
+      "fact": "Isytan fungerar som ett snötäcke som reflekterar solljuset mycket effektivt ut i rymden."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en liten ismåne långt ut i rymden som sprutar ut gnistrande vattenkällor rakt ut i mörkret. På den här bilden från 2009 lyser solen bakifrån så att vi ser de fina fontänerna spruta som snöbollar ut i rymden. Isen på månen är vit och glänsande precis som färsk snö på vintern.",
+    "nyborjare": "År 2009 tog rymdsonden Cassini den här dramatiska bilden där Saturnus ismåne Enceladus syns i motljus från solen. Bilden avslöjar de enorma plymer av vattenånga och ispartiklar som ständigt sprutar ut från månens sydpol. Dessa utbrott upptäcktes av Cassini år 2005 och kommer troligen från ett flytande hav som gömmer sig under månens ismantel. Materialet från gejsrarna sprids ut i rymden och bidrar till Saturnus yttre E-ring, samtidigt som det gör månens yta lika reflekterande som ren snö. Längst ner till höger syns också den mindre månen Pandora i svagt ljus från Saturnus.",
+    "entusiast": "Denna bild togs av rymdsonden Cassini den 1 november 2009 och visar den cirka 500 kilometer stora Saturnusmånen Enceladus i dramatiskt motljus. Den bakomliggande solbelysningen framhäver de kryovulkaniska plymer som oavbrutet kastas ut från sydpolens sprickor, en upptäckt som gjordes av sonden år 2005. Dessa plymer består av vattenånga, kväve, koldioxid och organiska föreningar, och de drivs av tidvattenkrafter från växelverkan med Saturnus och andra månar. Utbrotten är direkt kopplade till ett globalt, underjordiskt hav av flytande vatten under månens yttre skal av is. Det utsända materialet fyller direkt Saturnus tunna och vida E-ring och ger samtidigt Enceladus en albedo i klass med nysnö. I bakgrunden sprider ringarna solljus mot kamerorna, och längst ner till höger skymtas den 80 kilometer stora månen Pandora vars nattsida lyses upp svagt av sken från planeten."
+  },
+  "terms": [
+    {
+      "term": "motljus",
+      "explanation": "Belysning som kommer bakifrån i förhållande till betraktaren, vilket gör att motivet framträder i silhuett."
+    },
+    {
+      "term": "gejser",
+      "explanation": "En naturlig källa som periodvis kastar ut vatten och ånga i luften eller ut i rymden."
+    },
+    {
+      "term": "ismantel",
+      "explanation": "Ett fast skikt av fruset vatten som täcker ytan på en himlakropp."
+    },
+    {
+      "term": "albedo",
+      "explanation": "Ett mått på hur mycket ljus en yta reflekterar i stället för att absorbera."
+    },
+    {
+      "term": "tidvattenkrafter",
+      "explanation": "Gravitationseffekter från närliggande kroppar som töjer och värmer upp det inre av en måne eller planet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a small icy moon far out in space spraying sparkling water fountains straight out into the dark. In this picture from 2009, the sun shines from behind so we can see the fine jets shooting like snowballs into space. The ice on the moon is white and shiny, just like fresh snow in winter.",
+      "nyborjare": "In 2009, the Cassini spacecraft captured this dramatic image showing Saturn's icy moon Enceladus backlit by the Sun. The picture reveals the massive plumes of water vapor and ice particles continuously spewing from the moon's south pole. These eruptions were discovered by Cassini in 2005 and likely originate from a liquid ocean hidden beneath the icy crust. The material from these geysers spreads out into space, supplying Saturn's outer E ring while making the moon's surface as reflective as fresh snow. In the lower right, the smaller moon Pandora is faintly visible, lit by light reflected from Saturn.",
+      "entusiast": "This image was captured by the Cassini spacecraft on November 1, 2009, showing the approximately 500 kilometer wide Saturnian moon Enceladus in dramatic backlighting. The illumination highlights the cryovolcanic plumes continuously ejected from fractures at the south pole, a phenomenon discovered by the orbiter in 2005. These plumes consist of water vapor and ice particles driven by tidal forces resulting from orbital resonances with Saturn and other moons. The activity is directly linked to a global subsurface ocean beneath the moon's outer shell of ice. The ejected material directly feeds Saturn's tenuous outer E ring while providing Enceladus with an albedo comparable to fresh snow. In the background, Saturn's rings scatter sunlight toward the cameras, and in the lower right, the 80 kilometer wide moon Pandora is faintly illuminated by planetshine."
+    },
+    "terms": [
+      {
+        "term": "backlighting",
+        "explanation": "Lighting from behind the subject that creates a dramatic silhouette effect against the view."
+      },
+      {
+        "term": "plume",
+        "explanation": "A jet or column of gas and particles discharged into the surrounding space."
+      },
+      {
+        "term": "tidal forces",
+        "explanation": "Gravitational pulls from nearby bodies that flex and heat the interior of a moon or planet."
+      },
+      {
+        "term": "albedo",
+        "explanation": "A measure of how much light a surface reflects rather than absorbs."
+      },
+      {
+        "term": "planetshine",
+        "explanation": "Illumination on a moon or spacecraft provided by light reflected off a nearby planet."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What causes the plumes at the south pole of Enceladus?",
+        "options": [
+          "Active volcanism driven by liquid magma",
+          "A subsurface ocean beneath the icy shell",
+          "Geothermal heating powered by solar radiation"
+        ],
+        "correct": 1,
+        "fact": "The plumes are fueled by water vapor and ice particles originating from a global ocean hidden beneath the icy crust."
+      },
+      {
+        "q": "How does material from Enceladus affect its surroundings?",
+        "options": [
+          "It builds up Saturn's outer E ring",
+          "It forms a dense atmosphere around the moon",
+          "It is drawn into Saturn's powerful auroras"
+        ],
+        "correct": 0,
+        "fact": "The ejected particles travel out into space and directly supply material to Saturn's outer tenuous E ring."
+      },
+      {
+        "q": "Why is the surface of Enceladus so extremely bright?",
+        "options": [
+          "It is covered in glowing sulfur deposits",
+          "It is coated in highly reflective ice",
+          "It features a dense metallic structure"
+        ],
+        "correct": 1,
+        "fact": "The icy surface acts like a blanket of fresh snow that reflects sunlight very efficiently back into space."
+      }
+    ]
+  }
+}
