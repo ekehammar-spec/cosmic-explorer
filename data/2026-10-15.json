@@ -1,138 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "The Tadpole and the Wriggler",
-  "title_sv": "Yngelmolnet IRAS 20324+4057",
+  "title": "Faint Compact Galaxy in the Early Universe",
+  "title_sv": "Svag kompakt galax i det tidiga universum",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA18168/PIA18168~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA18168/PIA18168~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA18168/PIA18168~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA18168",
-  "credit": "NASA/JPL-Caltech/ESA, the Hubble Heritage Team STScI/AURA and IPHAS",
-  "taken": "2014",
+  "url": "https://images-assets.nasa.gov/image/PIA20054/PIA20054~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA20054/PIA20054~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA20054/PIA20054~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA20054",
+  "credit": "NASA/ESA/Pontificia Universidad Cat&oacute;lica de Chile",
+  "taken": "2015",
   "src": "library",
-  "id": "PIA18168",
+  "id": "PIA20054",
   "px": [
-    1280,
-    824
+    1727,
+    1920
   ],
-  "w": 640,
-  "h": 412,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEH/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIAEQMhEkEEMQUiUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERQf/aAAwDAQACEQMRAD8A87nY0CLNjupNMhQaC3+1uAUFVvju/ZhgquQrcgOx3NWP5PKmLInFSHXj9hdTHe7iaxIvVvjjbNq0BYWAdygeoiAkgNxEK//Z",
+  "w": 575,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EACgQAAEDAwMDAwUAAAAAAAAAAAECAxEAEiEEMVEFE0EUImEjMnGh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEx/9oADAMBAAIRAxEAPwDhHCgufSuSiIhRk/P7pStJ9wuCvNyRg/ihpgqzAB88VU0L6dNqG1IUHbTcMEA4yDSrE5SQ2bXEm0GZG+1Y1Q6ohHfPaHtVm0bUCM5ppWiAVEBIJ4gbmk6d4Ras4vutjfnPiiIUQIBBKsfI/lbsG1YUkAxvNKGdTLfqbmElKCBAUPPBoQXbI7TauZpnUHvVuuahtpTbaiARMgGKmmkK/9k=",
   "quiz": [
     {
-      "q": "Vad döljer sig inuti den lysande främre delen?",
+      "q": "Vad är gravitationslinsning för något?",
       "options": [
-        "Ett supermassivt svart hål",
-        "En nyfödd protostjärna",
-        "En döende vit dvärg"
+        "När stora massor böjer ljuset från bakomliggande objekt",
+        "Ett specialglas som används i rymdteleskopens objektiv",
+        "Ljus som reflekteras i stora moln av rymdgas"
+      ],
+      "correct": 0,
+      "fact": "Enligt Einsteins allmänna relativitetsteori kan enorma massor som galaxhopar fungera som förstoringsglas genom att böja rymdtidens väv runt sig."
+    },
+    {
+      "q": "Hur skapas nya stjärnor i en galax?",
+      "options": [
+        "Genom att gamla stjärnor exploderar och delar på sig",
+        "När stora moln av gas och stoft dras samman",
+        "När svarta hål skjuter ut flytande materia i rymden"
       ],
       "correct": 1,
-      "fact": "Molnets täta huvud innehåller unga protostjärnor som samlar på sig gas för att växa till fullfjädrade stjärnor."
+      "fact": "Stjärnor bildas när kalla och tunga moln av interstellär gas dras ihop av sin egen tyngdkraft tills kärnreaktioner tänds."
     },
     {
-      "q": "Vad ger molnet dess långsträckta svans?",
+      "q": "Vad är ett ljusår för en måttenhet?",
       "options": [
-        "Strålning från heta grannstjärnor",
-        "Friktion mot rymdens vakuum",
-        "Gravitationen från Vintergatans centrum"
+        "Den tid det tar för jorden att kretsa kring solen",
+        "Den sträcka ljuset hinner färdas på ett år",
+        "Hur lång tid en stjärna lever innan den slocknar"
       ],
-      "correct": 0,
-      "fact": "Ultraviolett strålning och kraftiga stjärnvindar från närliggande massiva stjärnor blåser bort och formar gasen till en svans."
-    },
-    {
-      "q": "Ungefär hur långt är detta kosmiska gasmoln?",
-      "options": [
-        "Ett ljusår",
-        "Ett ljusdygn",
-        "Tio astronomiska enheter"
-      ],
-      "correct": 0,
-      "fact": "Från huvudet till svansspetsen sträcker sig molnet ungefär ett helt ljusår, vilket motsvarar nästan tio biljoner kilometer."
+      "correct": 1,
+      "fact": "Ett ljusår är en sträcka på ungefär 9,5 biljoner kilometer, vilket används för att mäta enorma avstånd i rymden."
     }
   ],
   "levels": {
-    "barn": "Ser det inte ut som ett lysande blått grodyngel som simmar i rymden? I verkligheten är det ett jättestort moln av rymdgas och rymdstoft. Längst fram i det gula huvudet håller en alldeles ny stjärna på att födas, precis som en kyckling inuti ett ägg.\n\nStora, heta stjärnor utanför bilden blåser på molnet med osynliga vindar. Vindarna trycker bakåt på gasen så att den får en lång, slingrande svans.",
-    "nyborjare": "Detta märkliga objekt kallas IRAS 20324+4057, eller mer vardagligt Grodynglet. Bilden togs av rymdteleskopet Hubble och offentliggjordes år 2012. Det vi ser är ett gasmoln som är ungefär ett ljusår långt och väger nästan fyra gånger mer än vår sol.\n\nInuti molnets främre del döljer sig en protostjärna, ett tidigt stadium i bildandet av en stjärna. Den lyser gult medan den samlar på sig mer massa från omgivningen. Det intensiva blå skenet och den utdragna svansen skapas av kraftig ultraviolett strålning från heta stjärnor i närheten. Strålningen nöter bort gasen och formar den till ett böljande släp.",
-    "entusiast": "IRAS 20324+4057 är en så kallad globul som befinner sig cirka 4 700 ljusår bort i stjärnbilden Svanen. Denna rymdhändelse fångades av rymdteleskopet Hubble i en bild som släpptes 2012. Objektet rör sig genom Cygnus OB2, en mycket massiv stjärnassociation fylld av extrema O- och B-stjärnor som lyser upp till två miljoner gånger starkare än solen.\n\nDet är just det hårda strålningsfältet från Cygnus OB2 som driver fotoevaporation av molnet och skulpterar dess karaktäristiska kometliknande svans. Den blåaktiga joniseringen visar hur stjärnvindarna eroderar materialet. I den förtätade främre delen finns flera protostjärnor, där den mest massiva syns som en distinkt gul kärna. Totalt innehåller strukturen närmare fyra solmassor gas och sträcker sig över ett ljusår. Nere till vänster syns även ett mindre fragment, informellt kallat The Wriggler, som pekar i samma riktning på grund av de gemensamma stjärnvindarna."
+    "barn": "Tänk dig att du tittar genom ett magiskt förstoringsglas ut i rymden. Bilden visar en jättestor samling av galaxer som fungerar som en lins. Långt där bakom gömmer sig en mycket liten och svag galax som föddes när universum var ungt. Den är full av gas och skapar nya stjärnor i ett rasande tempo, precis som en liten ugn som bakar massor av stjärnkakor på samma gång.",
+    "nyborjare": "Den här rymdbilden från Hubble-teleskopet visar galaxhopen MACS J0416.1-2403 som ligger ungefär fyra miljarder ljusår bort. Hopen väger lika mycket som en miljon miljarder solar och dess tunga massa skapar en gravitationslins. Det innebär att hopen fungerar som ett gigantiskt förstoringsglas som förstorar ljuset från objekt som befinner sig långt bakom den. Inskjuten i bilden syns en extremt avlägsen galax som existerade bara 400 miljoner år efter big bang. Den har fått smeknamnet Tayna och bildar nya stjärnor i ett ovanligt högt tempo.",
+    "entusiast": "Hubble-teleskopet och Spitzer-teleskopet har fångat galaxhopen MACS J0416.1-2403 på 4 miljarder ljusårs avstånd. Hopens enorma gravitationsfält ger upphov till gravitationslinsning som drar ut och förstorar bakgrundsobjekt. Den inmonterade detaljen visar ett extremt svagt och avlägset objekt från tiden omkring 400 miljoner år efter big bang. Tack vare linsningseffekten framträder galaxen tjugo gånger ljusstarkare än normalt. Den har storleksmässigt likheter med Stora magellanska molnet men stjärnbildningstakten är tio gånger högre. Forskare tror att detta kan vara kärnan i vad som senare utvecklades till en fullstor galax. Objektet har av forskarlaget fått smeknamnet Tayna, vilket betyder förstfödd på aymara."
   },
   "terms": [
     {
-      "term": "protostjärna",
-      "explanation": "Ett tidigt utvecklingsstadium där ett förtätat gasmoln drar ihop sig för att bilda en stjärna."
+      "term": "galaxhop",
+      "explanation": "En stor samling av galaxer som hålls samman i ett gemensamt system av sin egen ömsesidiga tyngdkraft."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som ljuset färdas genom rymdens vakuum under ett helt jordår."
+      "explanation": "Den sträcka som ljuset rör sig i vakuum under loppet av ett kalenderår."
     },
     {
-      "term": "ultraviolett strålning",
-      "explanation": "En energirik form av ljus med kortare våglängd än det synliga ljuset."
+      "term": "gravitationslins",
+      "explanation": "Ett tungt objekt vars dragningskraft böjer rumtiden och därmed avböjer och förstorar ljuset från bakomliggande källor."
     },
     {
-      "term": "fotoevaporation",
-      "explanation": "En process där energirik strålning joniserar och blåser bort gas från ett tätt moln."
-    },
-    {
-      "term": "stjärnassociation",
-      "explanation": "En gles grupp av unga stjärnor som delar samma ursprung och rörelse genom rymden."
+      "term": "big bang",
+      "explanation": "Den händelse som startade universums expansion för ungefär 13,8 miljarder år sedan."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Doesn't it look like a glowing blue tadpole swimming through deep space? In reality, it is a giant cloud of gas and dust. Deep inside the bright yellow head, a brand new baby star is forming, much like a chick growing inside an egg.\n\nHuge, hot stars outside the picture are blowing fierce winds across space. These invisible gusts push the gas backward, creating a long and wiggly tail.",
-      "nyborjare": "This striking object is cataloged as IRAS 20324+4057 and nicknamed the Tadpole. Captured by the Hubble Space Telescope and released in 2012, this interstellar cloud spans about one light-year and contains nearly four times the mass of our Sun.\n\nInside its bright head sits a protostar, an early stage in the life of a star. It glows yellow as it pulls in surrounding gas to grow. The electric blue glow and sculpted tail are produced by intense ultraviolet radiation from massive neighboring stars, which continuously erodes the cloud and pushes it into a wiggly shape.",
-      "entusiast": "IRAS 20324+4057 is an evaporating gaseous globule located roughly 4,700 light-years away in the constellation Cygnus. Photographed by the Hubble Space Telescope in 2012, this structure is traversing the Cygnus OB2 association, one of the most massive star clusters known, housing stars millions of times more luminous than our Sun.\n\nThe intense ultraviolet flux from these cluster stars triggers photoevaporation, ablating the material and shaping it into a cometary tail. Ionized gas produces the brilliant blue glow marking the wind-swept boundary. Multiple protostars reside inside the head, dominated by a luminous yellow source collecting gas from the envelope. In the lower left, a smaller clump dubbed the Wriggler shares the same spatial orientation, sculpted by the very same directional stellar winds."
+      "barn": "Imagine looking through a magical magnifying glass out into space. The picture shows a giant collection of galaxies acting like a lens. Far behind it hides a very small and faint galaxy born when the universe was young. It is full of gas and creates new stars at a furious pace, much like a tiny oven baking lots of star cookies at the same time.",
+      "nyborjare": "This space image from the Hubble Space Telescope shows the massive galaxy cluster MACS J0416.1-2403 located about four billion light-years away. The cluster weighs as much as a million billion suns and its heavy mass creates a gravitational lens. This means the cluster acts like a giant magnifying glass that enlarges the light from objects far behind it. Inset in the image is an extremely distant galaxy that existed only 400 million years after the big bang. It carries the nickname Tayna and forms new stars at an unusually rapid rate.",
+      "entusiast": "The Hubble and Spitzer space telescopes captured the galaxy cluster MACS J0416.1-2403 at a distance of 4 billion light-years. The cluster's immense gravitational field causes gravitational lensing, which stretches and magnifies background sources. The inset highlights an extremely faint and distant object from the era about 400 million years after the big bang. Thanks to the lens effect, the galaxy appears twenty times brighter than normal. It is comparable in size to the Large Magellanic Cloud but exhibits a star formation rate ten times higher. Researchers suggest this may be the growing core that eventually evolved into a full-sized galaxy, nicknamed Tayna after the Aymara word for first-born."
     },
     "terms": [
       {
-        "term": "protostar",
-        "explanation": "An early evolutionary phase of a star formed by the gravitational collapse of gas."
+        "term": "galaxy cluster",
+        "explanation": "A large structure consisting of multiple galaxies bound together by mutual gravitational attraction."
       },
       {
         "term": "light-year",
-        "explanation": "The distance that light travels through empty space in one Earth year."
+        "explanation": "The distance that light travels through a vacuum in the span of one year."
       },
       {
-        "term": "ultraviolet radiation",
-        "explanation": "High-energy electromagnetic radiation with wavelengths shorter than visible light."
+        "term": "gravitational lens",
+        "explanation": "A massive distribution of matter that bends spacetime and magnifies light originating from behind it."
       },
       {
-        "term": "photoevaporation",
-        "explanation": "The process by which energetic radiation strips away and disperses gas from a cloud."
+        "term": "big bang",
+        "explanation": "The primordial event that initiated the expansion of the universe roughly 13.8 billion years ago."
       }
     ],
     "quiz": [
       {
-        "q": "What is hidden inside the bright head of the cloud?",
+        "q": "What is gravitational lensing?",
         "options": [
-          "A supermassive black hole",
-          "A newly forming protostar",
-          "A dying white dwarf"
+          "When massive objects bend light from background sources",
+          "A special glass used inside space telescope lenses",
+          "Light reflecting off massive clouds of space gas"
+        ],
+        "correct": 0,
+        "fact": "According to general relativity, enormous masses like galaxy clusters can act as magnifying glasses by warping spacetime."
+      },
+      {
+        "q": "How are new stars formed in a galaxy?",
+        "options": [
+          "When old stars explode and split into pieces",
+          "When large clouds of gas and dust collapse",
+          "When black holes shoot liquid matter into space"
         ],
         "correct": 1,
-        "fact": "The dense head of the cloud harbors young protostars gathering mass to become fully developed stars."
+        "fact": "Stars are born when cold and dense clouds of interstellar gas contract under their own gravity until nuclear fusion ignites."
       },
       {
-        "q": "What creates the long, wiggly tail of the cloud?",
+        "q": "What is a light-year used to measure?",
         "options": [
-          "Radiation from hot nearby stars",
-          "Friction against empty space",
-          "Gravity from the galactic center"
+          "The time it takes for Earth to orbit the Sun",
+          "The distance that light travels in one year",
+          "How long a star lives before running out of fuel"
         ],
-        "correct": 0,
-        "fact": "Ultraviolet radiation and fierce stellar winds from nearby massive stars blast away and sculpt the gas."
-      },
-      {
-        "q": "Roughly how long is this cosmic cloud of gas?",
-        "options": [
-          "One light-year",
-          "One light-day",
-          "Ten astronomical units"
-        ],
-        "correct": 0,
-        "fact": "From head to tail tip, the clump spans roughly one light-year, which is almost ten trillion kilometers."
+        "correct": 1,
+        "fact": "A light-year is a distance of about 9.5 trillion kilometers, used to measure vast distances across the universe."
       }
     ]
   }
