@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Faint Compact Galaxy in the Early Universe",
-  "title_sv": "Svag kompakt galax i det tidiga universum",
+  "title": "Towering Infernos",
+  "title_sv": "Staplar av skapelsen i W5",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA20054/PIA20054~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA20054/PIA20054~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA20054/PIA20054~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA20054",
-  "credit": "NASA/ESA/Pontificia Universidad Cat&oacute;lica de Chile",
-  "taken": "2015",
+  "url": "https://images-assets.nasa.gov/image/PIA03096/PIA03096~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA03096/PIA03096~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA03096/PIA03096~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA03096",
+  "credit": "IRAC Image: NASA/JPL-Caltech/Harvard-Smithsonian CfA/ESA/STScI<br />Visible Light Image: NASA/JPL-Caltech/Harvard-Smithsonian CfA/DSS",
+  "taken": "2005",
   "src": "library",
-  "id": "PIA20054",
+  "id": "PIA03096",
   "px": [
-    1727,
-    1920
+    1920,
+    1427
   ],
-  "w": 575,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EACgQAAEDAwMDAwUAAAAAAAAAAAECAxEAEiEEMVEFE0EUImEjMnGh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEx/9oADAMBAAIRAxEAPwDhHCgufSuSiIhRk/P7pStJ9wuCvNyRg/ihpgqzAB88VU0L6dNqG1IUHbTcMEA4yDSrE5SQ2bXEm0GZG+1Y1Q6ohHfPaHtVm0bUCM5ppWiAVEBIJ4gbmk6d4Ras4vutjfnPiiIUQIBBKsfI/lbsG1YUkAxvNKGdTLfqbmElKCBAUPPBoQXbI7TauZpnUHvVuuahtpTbaiARMgGKmmkK/9k=",
+  "w": 640,
+  "h": 475,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFBgT/xAAkEAACAQMDBAMBAAAAAAAAAAABAgMAERIEITEFIkFRYXGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAT/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIRAxJh/9oADAMBAAIRAxEAPwDGRIJYwhcA39Xpuoww6YQRohzCXdj5vwPykiTCQKxxOVrmqsr6aZkkYXdRiMuCvFRbxnf59T9I8eh1WogkmiieRI9nYDj1SLp5iLMpWx2yFquLMI4xDGjpGAbD+/NSJJWNzv8AZ3pKmwPlMnGs95FJHmqkEoXuJ4a5B80UVqQeVN6aLpvWtAkLwy5FyO12UG3x9VB6w8DzsYBZT6GxPuiijmMq7bl6f//Z",
   "quiz": [
     {
-      "q": "Vad är gravitationslinsning för något?",
+      "q": "Vad är en nebulosa för något?",
       "options": [
-        "När stora massor böjer ljuset från bakomliggande objekt",
-        "Ett specialglas som används i rymdteleskopens objektiv",
-        "Ljus som reflekteras i stora moln av rymdgas"
+        "Ett moln av gas och stoft i rymden",
+        "En döende stjärna som exploderar i ett supernova",
+        "En kompakt samling av äldre röda jättestjärnor"
       ],
       "correct": 0,
-      "fact": "Enligt Einsteins allmänna relativitetsteori kan enorma massor som galaxhopar fungera som förstoringsglas genom att böja rymdtidens väv runt sig."
+      "fact": "Nebulosor är gigantiska interstellära moln av gas och rymdstoft där nya stjärnor föds."
     },
     {
-      "q": "Hur skapas nya stjärnor i en galax?",
+      "q": "Hur fungerar infrarött ljus i rymdteleskop?",
       "options": [
-        "Genom att gamla stjärnor exploderar och delar på sig",
-        "När stora moln av gas och stoft dras samman",
-        "När svarta hål skjuter ut flytande materia i rymden"
+        "Det reflekteras bort av rymdens vakuum",
+        "Det tränger igenom täta moln av rymdstoft",
+        "Det skapas enbart av planeter som kretsar nära stjärnor"
       ],
       "correct": 1,
-      "fact": "Stjärnor bildas när kalla och tunga moln av interstellär gas dras ihop av sin egen tyngdkraft tills kärnreaktioner tänds."
+      "fact": "Infrarött ljus har längre våglängd än synligt ljus och kan därför passera genom mörka stoftmoln som annars blockerar sikten."
     },
     {
-      "q": "Vad är ett ljusår för en måttenhet?",
+      "q": "Vad är ett ljusår för typ av mått?",
       "options": [
-        "Den tid det tar för jorden att kretsa kring solen",
-        "Den sträcka ljuset hinner färdas på ett år",
-        "Hur lång tid en stjärna lever innan den slocknar"
+        "Den tid det tar för jorden att kretsa runt solen",
+        "Ett mått på hur mycket energi en stjärna avger",
+        "Den sträcka ljuset färdas under ett jordår"
       ],
-      "correct": 1,
-      "fact": "Ett ljusår är en sträcka på ungefär 9,5 biljoner kilometer, vilket används för att mäta enorma avstånd i rymden."
+      "correct": 2,
+      "fact": "Ett ljusår är en avståndsenhet som motsvarar den sträcka som en ljusstråle färdas på ett år, ungefär 9,5 biljoner kilometer."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att du tittar genom ett magiskt förstoringsglas ut i rymden. Bilden visar en jättestor samling av galaxer som fungerar som en lins. Långt där bakom gömmer sig en mycket liten och svag galax som föddes när universum var ungt. Den är full av gas och skapar nya stjärnor i ett rasande tempo, precis som en liten ugn som bakar massor av stjärnkakor på samma gång.",
-    "nyborjare": "Den här rymdbilden från Hubble-teleskopet visar galaxhopen MACS J0416.1-2403 som ligger ungefär fyra miljarder ljusår bort. Hopen väger lika mycket som en miljon miljarder solar och dess tunga massa skapar en gravitationslins. Det innebär att hopen fungerar som ett gigantiskt förstoringsglas som förstorar ljuset från objekt som befinner sig långt bakom den. Inskjuten i bilden syns en extremt avlägsen galax som existerade bara 400 miljoner år efter big bang. Den har fått smeknamnet Tayna och bildar nya stjärnor i ett ovanligt högt tempo.",
-    "entusiast": "Hubble-teleskopet och Spitzer-teleskopet har fångat galaxhopen MACS J0416.1-2403 på 4 miljarder ljusårs avstånd. Hopens enorma gravitationsfält ger upphov till gravitationslinsning som drar ut och förstorar bakgrundsobjekt. Den inmonterade detaljen visar ett extremt svagt och avlägset objekt från tiden omkring 400 miljoner år efter big bang. Tack vare linsningseffekten framträder galaxen tjugo gånger ljusstarkare än normalt. Den har storleksmässigt likheter med Stora magellanska molnet men stjärnbildningstakten är tio gånger högre. Forskare tror att detta kan vara kärnan i vad som senare utvecklades till en fullstor galax. Objektet har av forskarlaget fått smeknamnet Tayna, vilket betyder förstfödd på aymara."
+    "barn": "Tänk dig gigantiska torn gjorda av moln långt ut i rymden. Inne i dessa jättelika moln gömmer sig små glittrande stjärnbebisar. Det ser ut som magiska berg som pekar uppåt mot himlen, men de är egentligen gjorda av gas och damm. Varje gång en ny stjärna tänds börjar den lysa upp molnet runtomkring sig.",
+    "nyborjare": "Denna falskfärgade bild visar jättelika pelare av kall gas och stoft där nya stjärnor föds. Området kallas W5 och ligger i stjärnbilden Cassiopeja på 7 000 ljusårs avstånd. Pelarna formas av strålning och vindar från massiva stjärnor i närheten. Till skillnad från vanligt synligt ljus kan infrarött ljus tränga igenom det täta stoftet, vilket gör att forskare kan upptäcka hundratals nyfödda stjärnor som döljer sig inuti molnen.",
+    "entusiast": "Bilden är tagen med rymdteleskopet Spitzer och visar regionen W5 i Cassiopeja, belägen på ett avstånd av 7 000 ljusår med en utsträckning på 50 ljusår. Spitzer observerar vid våglängderna 3,6, 4,5, 5,8 och 8,0 mikron med sin infraröda arraykamera, där det röda ljuset representerar organiska molekyler i form av polycykliska aromatiska kolväten. Dessa upphettade molekyler fungerar som spårämnen för stjärnbildande moln. Pelarnas storlek är mer än tio gånger större än de i Örnnebulosan. Strålning och stjärnvindar från en stor osynlig initiatörstjärna med mer än tio gånger solens massa har triggat igång stjärnbildningen i de fingerliknande strukturerna, medan äldre stjärnor syns i de evakuerade områdena emellan."
   },
   "terms": [
     {
-      "term": "galaxhop",
-      "explanation": "En stor samling av galaxer som hålls samman i ett gemensamt system av sin egen ömsesidiga tyngdkraft."
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och rymdstoft som ofta utgör födelseplatsen för nya stjärnor."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka som ljuset rör sig i vakuum under loppet av ett kalenderår."
+      "explanation": "Den enorma sträcka som ljuset färdas i tomrummet under loppet av ett enda år."
     },
     {
-      "term": "gravitationslins",
-      "explanation": "Ett tungt objekt vars dragningskraft böjer rumtiden och därmed avböjer och förstorar ljuset från bakomliggande källor."
+      "term": "infrarött ljus",
+      "explanation": "Osynlig värmestrålning med längre våglängder än det synliga ljuset som våra ögon kan uppfatta."
     },
     {
-      "term": "big bang",
-      "explanation": "Den händelse som startade universums expansion för ungefär 13,8 miljarder år sedan."
+      "term": "stjärnbild",
+      "explanation": "En specifik grupp av stjärnor som från jorden sett bildar ett igenkännligt mönster på natthimlen."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine looking through a magical magnifying glass out into space. The picture shows a giant collection of galaxies acting like a lens. Far behind it hides a very small and faint galaxy born when the universe was young. It is full of gas and creates new stars at a furious pace, much like a tiny oven baking lots of star cookies at the same time.",
-      "nyborjare": "This space image from the Hubble Space Telescope shows the massive galaxy cluster MACS J0416.1-2403 located about four billion light-years away. The cluster weighs as much as a million billion suns and its heavy mass creates a gravitational lens. This means the cluster acts like a giant magnifying glass that enlarges the light from objects far behind it. Inset in the image is an extremely distant galaxy that existed only 400 million years after the big bang. It carries the nickname Tayna and forms new stars at an unusually rapid rate.",
-      "entusiast": "The Hubble and Spitzer space telescopes captured the galaxy cluster MACS J0416.1-2403 at a distance of 4 billion light-years. The cluster's immense gravitational field causes gravitational lensing, which stretches and magnifies background sources. The inset highlights an extremely faint and distant object from the era about 400 million years after the big bang. Thanks to the lens effect, the galaxy appears twenty times brighter than normal. It is comparable in size to the Large Magellanic Cloud but exhibits a star formation rate ten times higher. Researchers suggest this may be the growing core that eventually evolved into a full-sized galaxy, nicknamed Tayna after the Aymara word for first-born."
+      "barn": "Imagine giant towers made of clouds far out in space. Inside these huge clouds, tiny sparkling baby stars are hiding. They look like magical mountains pointing upwards in the sky, but they are actually made of gas and dust. Every time a new star is ignited, it starts to illuminate the cloud around it.",
+      "nyborjare": "This false-color image reveals gigantic pillars of cool gas and dust where new stars are born. The region is called W5 and is located in the constellation Cassiopeia, 7,000 light-years away. The pillars are sculpted by radiation and winds from massive stars nearby. Unlike visible light, infrared light can penetrate the dense dust, allowing researchers to discover hundreds of newborn stars hidden inside the clouds.",
+      "entusiast": "Captured by the Spitzer Space Telescope, this image shows the W5 region in Cassiopeia, situated at a distance of 7,000 light-years and spanning 50 light-years across. Spitzer observes at wavelengths of 3.6, 4.5, 5.8, and 8.0 microns using its infrared array camera, where red represents polycyclic aromatic hydrocarbons. These heated organic molecules trace star-forming gas clouds. The pillars exceed ten times the size of those in the Eagle Nebula. Radiation and stellar winds from an unseen massive initiator star exceeding ten times the mass of our Sun triggered star formation within these finger-like structures, while older stars populate the evacuated intercloud regions."
     },
     "terms": [
       {
-        "term": "galaxy cluster",
-        "explanation": "A large structure consisting of multiple galaxies bound together by mutual gravitational attraction."
+        "term": "nebula",
+        "explanation": "A massive interstellar cloud of gas and dust that frequently serves as a birthplace for new stars."
       },
       {
         "term": "light-year",
-        "explanation": "The distance that light travels through a vacuum in the span of one year."
+        "explanation": "The enormous distance that light travels through the vacuum of space during the course of a single year."
       },
       {
-        "term": "gravitational lens",
-        "explanation": "A massive distribution of matter that bends spacetime and magnifies light originating from behind it."
+        "term": "infrared light",
+        "explanation": "Invisible thermal radiation featuring longer wavelengths than the visible light detected by human eyes."
       },
       {
-        "term": "big bang",
-        "explanation": "The primordial event that initiated the expansion of the universe roughly 13.8 billion years ago."
+        "term": "constellation",
+        "explanation": "A recognizable pattern formed by prominent stars as viewed from the perspective of planet Earth."
       }
     ],
     "quiz": [
       {
-        "q": "What is gravitational lensing?",
+        "q": "What is a nebula?",
         "options": [
-          "When massive objects bend light from background sources",
-          "A special glass used inside space telescope lenses",
-          "Light reflecting off massive clouds of space gas"
+          "A vast cloud of gas and dust in space",
+          "A dying star exploding in a massive supernova",
+          "A compact cluster of aging red giant stars"
         ],
         "correct": 0,
-        "fact": "According to general relativity, enormous masses like galaxy clusters can act as magnifying glasses by warping spacetime."
+        "fact": "Nebulae are massive interstellar clouds of gas and cosmic dust where new stars are born."
       },
       {
-        "q": "How are new stars formed in a galaxy?",
+        "q": "How do infrared space telescopes help astronomers?",
         "options": [
-          "When old stars explode and split into pieces",
-          "When large clouds of gas and dust collapse",
-          "When black holes shoot liquid matter into space"
+          "They block unwanted radiation from empty space",
+          "They penetrate dense clouds of cosmic dust",
+          "They measure the exact weight of distant planets"
         ],
         "correct": 1,
-        "fact": "Stars are born when cold and dense clouds of interstellar gas contract under their own gravity until nuclear fusion ignites."
+        "fact": "Infrared light has longer wavelengths than visible light, allowing it to pass through dark dust clouds that normally block our view."
       },
       {
-        "q": "What is a light-year used to measure?",
+        "q": "What does a light-year measure?",
         "options": [
-          "The time it takes for Earth to orbit the Sun",
-          "The distance that light travels in one year",
-          "How long a star lives before running out of fuel"
+          "The time it takes a planet to orbit its sun",
+          "The total energy output of a massive star",
+          "The distance light travels in one Earth year"
         ],
-        "correct": 1,
-        "fact": "A light-year is a distance of about 9.5 trillion kilometers, used to measure vast distances across the universe."
+        "correct": 2,
+        "fact": "A light-year is a unit of distance representing how far a beam of light travels in a single year."
       }
     ]
   }

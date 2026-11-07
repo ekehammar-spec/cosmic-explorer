@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-07",
+  "title": "M30's Sparkling Stars",
+  "title_sv": "Messier 30",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
+  "link": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/",
+  "credit": "NASA",
+  "taken": "1990",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/",
+  "px": [
+    1600,
+    1410
+  ],
+  "w": 480,
+  "h": 423,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAL/xAAmEAACAAYCAQMFAAAAAAAAAAABAgADBBESITFBUQUTMjNhcdHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGREAAgMBAAAAAAAAAAAAAAAAAAERITEi/9oADAMBAAIRAxEAPwCTSVlLUk2U74hhKp2YSwqnHQItqBUoM10OK47+Ooo/S6UTWANwBqIXTgvBC1EEyViwO9a5jHPVENmVwwHHRiq9Vp1QkDG40TE1UKfiyZnq3MZqGOo4pXxYYGxC7K+IfU9espRnMPZ0vB8RLU/0ye7QwksWkMrbIYDI87vEurFWOZ9X74sbktYAg9/e8Jp815c1zMAdlOx5/cDmzGYFibn+RlmzHdQGYkLofiHXIOkf/9k=",
+  "quiz": [
+    {
+      "q": "Vad är en klotformig stjärnhop?",
+      "options": [
+        "En lös samling unga stjärnor i galaxens skiva",
+        "Ett tätt klot av gamla stjärnor som hålls ihop av gravitationen",
+        "En rest efter en exploderad stjärna med en neutronstjärna i mitten"
+      ],
+      "correct": 1,
+      "fact": "Klotformiga stjärnhopar är tätt packade system som kan innehålla hundratusentals gamla stjärnor bundna av ömsesidig dragningskraft."
+    },
+    {
+      "q": "Varför ser stjärnorna i en stjärnhop ut att trängas i mitten?",
+      "options": [
+        "Gravitationen drar stjärnorna tätare samman mot det centrala området",
+        "Stjärnorna föds samtidigt i en enda gigantisk våg",
+        "Stjärnorna blockerar varandras ljus så att de ser ut att smälta samman"
+      ],
+      "correct": 0,
+      "fact": "Den starka gravitationen i centrum gör att stjärnorna dras tätt samman och bildar en intensiv kärna."
+    },
+    {
+      "q": "Vilken typ av stjärnor dominerar i ett gammalt stjärnsystem som Messier 30?",
+      "options": [
+        "Massiva blå stjärnor som bränner sitt bränsle snabbt",
+        "Röda jättar och svala dvärgstjärnor",
+        "Nyfödda stjärnor omgivna av stoftskivor"
+      ],
+      "correct": 1,
+      "fact": "Eftersom hopen är mycket gammal har de tunga och kortlivade stjärnorna redan dött, medan svala stjärnor och röda jättar finns kvar."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en gigantisk glitterboll långt ut i rymden som är full av tusentals gnistrande stjärnor. De sitter hopklämda i ett stort och tätt klot som hålls ihop av osynliga krafter. Det ser ut som en sockerbit som har smält samman av en massa små ljuspunkter.",
+    "nyborjare": "Messier 30 är en klotformig stjärnhop som rymdteleskopet Hubble tog en fantastisk bild av år 1990. Den ligger långt bort i stjärnbilden Oxen och innehåller hundratusentals gamla stjärnor som är hårt hopträngda i mitten. Gravitationen gör att stjärnorna dras till varandra och bildar en tät kärna som lyser starkt på natthimmeln.",
+    "entusiast": "Messier 30 är en klassisk galaktisk stjärnhop som befinner sig på ett avstånd av ungefär 27 000 ljusår från jorden i stjärnbilden Oxen. Den upptäcktes redan på 1700-talet men har avporträtterats i detalj av rymdteleskopet Hubble. Denna tätt packade samling består av urgamla stjärnor som bildades tidigt i galaxens historia. Observationer visar att stjärnhopen har genomgått en så kallad kärnkollaps vilket innebär att stjärnorna i det centrala området har flyttats mycket nära varandra på grund av dynamisk relaxation."
+  },
+  "terms": [
+    {
+      "term": "stjärnhop",
+      "explanation": "En stor grupp stjärnor som hör ihop och hålls samlade av sin gemensamma dragningskraft."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat instrument som placerats i omloppsbana kring jorden för att studera universum utan att störas av atmosfären."
+    },
+    {
+      "term": "gravitation",
+      "explanation": "Den osynliga dragningskraft som gör att massiva föremål dras till varandra."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset hinner färdas på ett helt år."
+    },
+    {
+      "term": "kärnkollaps",
+      "explanation": "En process där ett stjärnsystems inre delar dras samman till en extremt tät och koncentrerad form."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant glitter ball far out in space filled with thousands of sparkling stars. They are squeezed together in a large and dense sphere held by invisible forces. It looks like a glowing snowball made of tiny bright dots.",
+      "nyborjare": "Messier 30 is a globular star cluster that the Hubble Space Telescope captured a stunning image of in 1990. Located far away in the constellation Capricornus, it contains hundreds of thousands of old stars tightly packed in the middle. Gravity pulls the stars toward each other creating a dense core that shines brightly.",
+      "entusiast": "Messier 30 is a classic globular cluster located at a distance of about 27 000 light-years from Earth in the constellation Capricornus. Captured in stunning detail by the Hubble Space Telescope, this densely packed collection consists of ancient stars formed early in galactic history. Observations indicate that the cluster has undergone core collapse, a process where stars in the central region migrate very close together due to dynamical relaxation."
+    },
+    "terms": [
+      {
+        "term": "star cluster",
+        "explanation": "A large group of stars bound together by their mutual gravitational attraction."
+      },
+      {
+        "term": "space telescope",
+        "explanation": "An advanced instrument placed in orbit around Earth to study the universe without atmospheric interference."
+      },
+      {
+        "term": "gravity",
+        "explanation": "The invisible force of attraction between massive objects."
+      },
+      {
+        "term": "light-year",
+        "explanation": "The distance that light travels in one Earth year."
+      },
+      {
+        "term": "core collapse",
+        "explanation": "A process where the central region of a stellar system contracts into an extremely dense concentration."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a globular star cluster?",
+        "options": [
+          "A loose collection of young stars in the galactic disk",
+          "A dense sphere of old stars held together by gravity",
+          "The remnant of an exploded star with a neutron star at its center"
+        ],
+        "correct": 1,
+        "fact": "Globular clusters are densely packed systems containing hundreds of thousands of old stars bound by mutual gravitational attraction."
+      },
+      {
+        "q": "Why do stars in a star cluster appear crowded in the center?",
+        "options": [
+          "Gravity pulls the stars tightly together toward the central region",
+          "The stars are born simultaneously in a single gigantic wave",
+          "The stars block each other's light making them appear to merge"
+        ],
+        "correct": 0,
+        "fact": "The strong gravity in the center causes the stars to be pulled closely together forming an intense core."
+      },
+      {
+        "q": "Which type of stars dominate in an old stellar system like Messier 30?",
+        "options": [
+          "Massive blue stars that burn their fuel quickly",
+          "Red giants and cool dwarf stars",
+          "Newly born stars surrounded by dust disks"
+        ],
+        "correct": 1,
+        "fact": "Because the cluster is very old, heavy and short-lived stars have already died while cool stars and red giants remain."
+      }
+    ]
+  }
+}
