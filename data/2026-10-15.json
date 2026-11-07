@@ -1,134 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Towering Infernos",
-  "title_sv": "Staplar av skapelsen i W5",
+  "title": "Great Observatories Unique Views of the Milky Way",
+  "title_sv": "Vintergatans kärna sedd av tre rymdteleskop",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA03096/PIA03096~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA03096/PIA03096~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA03096/PIA03096~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA03096",
-  "credit": "IRAC Image: NASA/JPL-Caltech/Harvard-Smithsonian CfA/ESA/STScI<br />Visible Light Image: NASA/JPL-Caltech/Harvard-Smithsonian CfA/DSS",
-  "taken": "2005",
+  "url": "https://images-assets.nasa.gov/image/PIA12348/PIA12348~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA12348/PIA12348~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA12348/PIA12348~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA12348",
+  "credit": "NASA/JPL-Caltech/ESA/CXC/STScI",
+  "taken": "2009",
   "src": "library",
-  "id": "PIA03096",
+  "id": "PIA12348",
   "px": [
     1920,
-    1427
+    959
   ],
   "w": 640,
-  "h": 475,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFBgT/xAAkEAACAQMDBAMBAAAAAAAAAAABAgMAERIEITEFIkFRYXGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAT/xAAaEQADAQEBAQAAAAAAAAAAAAAAAQIRAxJh/9oADAMBAAIRAxEAPwDGRIJYwhcA39Xpuoww6YQRohzCXdj5vwPykiTCQKxxOVrmqsr6aZkkYXdRiMuCvFRbxnf59T9I8eh1WogkmiieRI9nYDj1SLp5iLMpWx2yFquLMI4xDGjpGAbD+/NSJJWNzv8AZ3pKmwPlMnGs95FJHmqkEoXuJ4a5B80UVqQeVN6aLpvWtAkLwy5FyO12UG3x9VB6w8DzsYBZT6GxPuiijmMq7bl6f//Z",
+  "h": 319,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABBEhMQUSMkEiUXH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIREiED/9oADAMBAAIRAxEAPwDHR27ZAdSM7GuaMNksigoVxjetipW9+8kcSSAMsWlB+qLadR2nAGTwPVbI+Tl0tTS4xWvT2KF/IAZ16qlrZhsrinh6gI4Z4kWL5jyK7H5ScXBw3cBvinNA82f/2Q==",
   "quiz": [
     {
-      "q": "Vad är en nebulosa för något?",
+      "q": "Vad döljer sig i själva centrum av Vintergatan?",
       "options": [
-        "Ett moln av gas och stoft i rymden",
-        "En döende stjärna som exploderar i ett supernova",
-        "En kompakt samling av äldre röda jättestjärnor"
-      ],
-      "correct": 0,
-      "fact": "Nebulosor är gigantiska interstellära moln av gas och rymdstoft där nya stjärnor föds."
-    },
-    {
-      "q": "Hur fungerar infrarött ljus i rymdteleskop?",
-      "options": [
-        "Det reflekteras bort av rymdens vakuum",
-        "Det tränger igenom täta moln av rymdstoft",
-        "Det skapas enbart av planeter som kretsar nära stjärnor"
+        "En tät samling av vita dvärgar",
+        "Ett supermassivt svart hål",
+        "En gigantisk stjärna som exploderar"
       ],
       "correct": 1,
-      "fact": "Infrarött ljus har längre våglängd än synligt ljus och kan därför passera genom mörka stoftmoln som annars blockerar sikten."
+      "fact": "I Vintergatans mitt finns Sagittarius A*, ett supermassivt svart hål med en massa som motsvarar fyra miljoner solar."
     },
     {
-      "q": "Vad är ett ljusår för typ av mått?",
+      "q": "Varför används infrarött ljus för att studera galaxens mitt?",
       "options": [
-        "Den tid det tar för jorden att kretsa runt solen",
-        "Ett mått på hur mycket energi en stjärna avger",
-        "Den sträcka ljuset färdas under ett jordår"
+        "Infrarött ljus tränger igenom tjocka stoftmoln",
+        "Infrarött ljus färdas snabbare genom rymden",
+        "Galaxens stjärnor sänder enbart ut infraröd strålning"
+      ],
+      "correct": 0,
+      "fact": "Synligt ljus blockeras av kosmiskt stoft, medan infraröd strålning med längre våglängder lättare tar sig igenom till våra teleskop."
+    },
+    {
+      "q": "Vad avslöjar röntgenstrålning främst i galaxens centrum?",
+      "options": [
+        "Kalla moln av stoft och vätgas",
+        "Atmosfären hos nyligen bildade stenplaneter",
+        "Het gas och materia kring kompakta objekt"
       ],
       "correct": 2,
-      "fact": "Ett ljusår är en avståndsenhet som motsvarar den sträcka som en ljusstråle färdas på ett år, ungefär 9,5 biljoner kilometer."
+      "fact": "Röntgenstrålning uppstår vid extremt höga energier och temperaturer, bland annat när materia hettas upp nära svarta hål."
     }
   ],
   "levels": {
-    "barn": "Tänk dig gigantiska torn gjorda av moln långt ut i rymden. Inne i dessa jättelika moln gömmer sig små glittrande stjärnbebisar. Det ser ut som magiska berg som pekar uppåt mot himlen, men de är egentligen gjorda av gas och damm. Varje gång en ny stjärna tänds börjar den lysa upp molnet runtomkring sig.",
-    "nyborjare": "Denna falskfärgade bild visar jättelika pelare av kall gas och stoft där nya stjärnor föds. Området kallas W5 och ligger i stjärnbilden Cassiopeja på 7 000 ljusårs avstånd. Pelarna formas av strålning och vindar från massiva stjärnor i närheten. Till skillnad från vanligt synligt ljus kan infrarött ljus tränga igenom det täta stoftet, vilket gör att forskare kan upptäcka hundratals nyfödda stjärnor som döljer sig inuti molnen.",
-    "entusiast": "Bilden är tagen med rymdteleskopet Spitzer och visar regionen W5 i Cassiopeja, belägen på ett avstånd av 7 000 ljusår med en utsträckning på 50 ljusår. Spitzer observerar vid våglängderna 3,6, 4,5, 5,8 och 8,0 mikron med sin infraröda arraykamera, där det röda ljuset representerar organiska molekyler i form av polycykliska aromatiska kolväten. Dessa upphettade molekyler fungerar som spårämnen för stjärnbildande moln. Pelarnas storlek är mer än tio gånger större än de i Örnnebulosan. Strålning och stjärnvindar från en stor osynlig initiatörstjärna med mer än tio gånger solens massa har triggat igång stjärnbildningen i de fingerliknande strukturerna, medan äldre stjärnor syns i de evakuerade områdena emellan."
+    "barn": "Det här är mitten av vår galax, Vintergatan. Bilden är som ett färgsprakande fyrverkeri rakt in i rymdens myllrande storstad. Precis som i en stad trängs massor av stjärnor här inne. Vanligtvis kan vi inte se dem eftersom tjocka rymdmoln av damm står i vägen. Men med speciella rymdteleskop som kan se osynligt ljus kan vi kika rakt igenom dammet. Längst ner till höger gömmer sig dessutom ett gigantiskt svart hål som suger åt sig allt som kommer för nära.",
+    "nyborjare": "År 2009 firades det internationella astronomiåret, och NASA publicerade då denna unika panoramabild av Vintergatans mitt. Bilden kombinerar observationer från tre stora rymdteleskop: Hubble, Spitzer och Chandra. I vanliga optiska teleskop skyms galaxens kärna av mörka moln av interstellärt stoft. Genom att i stället observera infrarött ljus och röntgenstrålning kan vi blicka rakt igenom slöjorna. Det infraröda ljuset visar hundratusentals stjärnor och glödande gasmoln där nya solar föds. Samtidigt fångar röntgenteleskopet Chandra upp våldsamma processer med extrem hetta. Nere till höger i den ljusaste zonen vilar ett supermassivt svart hål, Sagittarius A*, med en massa på cirka fyra miljoner solmassor. Runtomkring virvlar gas som värmts upp till flera miljoner grader av stjärnvindar och explosioner.",
+    "entusiast": "Denna sammansatta mosaik släpptes 2009 för att markera Internationella astronomiåret och förenar data från NASA:s tre stora observatorier: Hubble, Spitzer och Chandra. Det observerade fältet spänner över ungefär en halv grad, vilket motsvarar fullmånens vinkeldiameter på himlen. Det centrala området i Vintergatan ligger drygt 26 000 ljusår bort och är fullständigt dolt i det optiska våglängdsområdet på grund av kraftig interstellär extinktion från stoftmoln. Spitzers infraröda detektorer tränger genom detta stoft och kartlägger aktiva stjärnbildningsregioner samt hundratusentals tidigare dolda stjärnor som värmer den omgivande miljön. Hubbles närinfraröda instrumentering avslöjar samtidigt detaljerade strukturer i den upphettade gasen och massiva stjärnhopar vars kraftiga stjärnvindar formar gigantiska bågar. Den mest energirika bilden ges av röntgenobservatoriet Chandra. Här representerar rosa och blå nyanser mjuk respektive hård röntgenstrålning från diffus gas som hettats upp till tiotals miljoner grader av upprepade supernovor och chockvågor. Chandra lokaliserar även hundratals punktkällor i form av ackreterande vita dvärgar, neutronstjärnor och stellära svarta hål. I den extremt ljusstarka regionen nere till höger återfinns Sagittarius A*, galaxens supermassiva svarta hål med en massa på drygt fyra miljoner solmassor. Dess gravitationsfält och utflöden driver energiflödet i Vintergatans allra mest dynamiska och extrema miljö."
   },
   "terms": [
     {
-      "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och rymdstoft som ofta utgör födelseplatsen för nya stjärnor."
+      "term": "rymdteleskop",
+      "explanation": "Ett teleskop placerat i omloppsbana runt jorden för att observera rymden utan störningar från jordens atmosfär."
     },
     {
-      "term": "ljusår",
-      "explanation": "Den enorma sträcka som ljuset färdas i tomrummet under loppet av ett enda år."
+      "term": "interstellärt stoft",
+      "explanation": "Mikroskopiska partiklar av fast materia som finns utspridda i rymden mellan stjärnorna i en galax."
     },
     {
       "term": "infrarött ljus",
-      "explanation": "Osynlig värmestrålning med längre våglängder än det synliga ljuset som våra ögon kan uppfatta."
+      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus som kan tränga igenom kosmiska stoftmoln."
     },
     {
-      "term": "stjärnbild",
-      "explanation": "En specifik grupp av stjärnor som från jorden sett bildar ett igenkännligt mönster på natthimlen."
+      "term": "röntgenstrålning",
+      "explanation": "Mycket energirik elektromagnetisk strålning som sänds ut från extremt heta gaser och våldsamma processer i rymden."
+    },
+    {
+      "term": "supermassivt svart hål",
+      "explanation": "Ett extremt kompakt gravitationsobjekt med en massa motsvarande miljontals eller miljarder solar i en galax kärna."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine giant towers made of clouds far out in space. Inside these huge clouds, tiny sparkling baby stars are hiding. They look like magical mountains pointing upwards in the sky, but they are actually made of gas and dust. Every time a new star is ignited, it starts to illuminate the cloud around it.",
-      "nyborjare": "This false-color image reveals gigantic pillars of cool gas and dust where new stars are born. The region is called W5 and is located in the constellation Cassiopeia, 7,000 light-years away. The pillars are sculpted by radiation and winds from massive stars nearby. Unlike visible light, infrared light can penetrate the dense dust, allowing researchers to discover hundreds of newborn stars hidden inside the clouds.",
-      "entusiast": "Captured by the Spitzer Space Telescope, this image shows the W5 region in Cassiopeia, situated at a distance of 7,000 light-years and spanning 50 light-years across. Spitzer observes at wavelengths of 3.6, 4.5, 5.8, and 8.0 microns using its infrared array camera, where red represents polycyclic aromatic hydrocarbons. These heated organic molecules trace star-forming gas clouds. The pillars exceed ten times the size of those in the Eagle Nebula. Radiation and stellar winds from an unseen massive initiator star exceeding ten times the mass of our Sun triggered star formation within these finger-like structures, while older stars populate the evacuated intercloud regions."
+      "barn": "This is the very heart of our galaxy, the Milky Way. It looks like a glowing festival of cosmic lights right in the middle of a bustling space city. Just like in a huge city, millions of stars crowd together here. Usually, dark clouds of dust hide them from our eyes. But special space telescopes can see invisible light and look right through the dust. Down in the bright area on the lower right sits a gigantic black hole that pulls in anything that gets too close.",
+      "nyborjare": "In 2009, celebrating the International Year of Astronomy, NASA released this panoramic view of the Milky Way center. It combines data from three major space telescopes: Hubble, Spitzer, and Chandra. Thick clouds of interstellar dust hide the galactic core from conventional visible-light telescopes. By observing in infrared light and X-rays instead, astronomers can pierce through the dense haze. Infrared light unveils hundreds of thousands of stars and glowing gas clouds where new solar systems form. Meanwhile, Chandra detects high-energy X-rays from gas superheated to millions of degrees by stellar winds and supernova explosions. Tucked in the bright region in the lower right is a supermassive black hole, Sagittarius A*, containing the mass of four million Suns.",
+      "entusiast": "Released in 2009 for the International Year of Astronomy, this multiwavelength panorama combines observations from NASA's Hubble, Spitzer, and Chandra observatories. Covering about half a degree on the sky—equivalent to the angular diameter of the full Moon—the image probes the galactic center located roughly 26,000 light-years away. In visible wavelengths, severe interstellar extinction completely masks this energetic core. Spitzer's infrared detectors penetrate the obscuring dust clouds, revealing dense stellar nurseries and hundreds of thousands of previously unseen stars. Hubble's near-infrared data showcase ionized gas arcs sculpted by powerful stellar winds from massive star clusters. Chandra's X-ray observations expose the highest-energy phenomena, where pink and blue represent lower- and higher-energy X-ray emission from gas heated to tens of millions of degrees. Chandra also resolves hundreds of compact point sources, including white dwarfs, neutron stars, and stellar-mass black holes. Anchoring the bright lower-right region is Sagittarius A*, a supermassive black hole of approximately four million solar masses whose outflows shape the surrounding interstellar medium."
     },
     "terms": [
       {
-        "term": "nebula",
-        "explanation": "A massive interstellar cloud of gas and dust that frequently serves as a birthplace for new stars."
+        "term": "space telescopes",
+        "explanation": "Astronomical instruments operating outside Earth's atmosphere to observe the universe without atmospheric distortion or absorption."
       },
       {
-        "term": "light-year",
-        "explanation": "The enormous distance that light travels through the vacuum of space during the course of a single year."
+        "term": "interstellar dust",
+        "explanation": "Microscopic solid grains of carbon and silicates distributed through space between the stars of a galaxy."
       },
       {
         "term": "infrared light",
-        "explanation": "Invisible thermal radiation featuring longer wavelengths than the visible light detected by human eyes."
+        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, capable of passing through obscuring cosmic clouds."
       },
       {
-        "term": "constellation",
-        "explanation": "A recognizable pattern formed by prominent stars as viewed from the perspective of planet Earth."
+        "term": "supermassive black hole",
+        "explanation": "An enormous concentration of mass, equivalent to millions or billions of suns, residing at a galactic center."
+      },
+      {
+        "term": "interstellar extinction",
+        "explanation": "The absorption and scattering of electromagnetic radiation by dust and gas between an astronomical object and an observer."
       }
     ],
     "quiz": [
       {
-        "q": "What is a nebula?",
+        "q": "What lies at the very center of the Milky Way galaxy?",
         "options": [
-          "A vast cloud of gas and dust in space",
-          "A dying star exploding in a massive supernova",
-          "A compact cluster of aging red giant stars"
-        ],
-        "correct": 0,
-        "fact": "Nebulae are massive interstellar clouds of gas and cosmic dust where new stars are born."
-      },
-      {
-        "q": "How do infrared space telescopes help astronomers?",
-        "options": [
-          "They block unwanted radiation from empty space",
-          "They penetrate dense clouds of cosmic dust",
-          "They measure the exact weight of distant planets"
+          "A dense cluster of white dwarfs",
+          "A supermassive black hole",
+          "A giant star undergoing collapse"
         ],
         "correct": 1,
-        "fact": "Infrared light has longer wavelengths than visible light, allowing it to pass through dark dust clouds that normally block our view."
+        "fact": "Sagittarius A*, a supermassive black hole with roughly four million times the mass of the Sun, sits at the center."
       },
       {
-        "q": "What does a light-year measure?",
+        "q": "Why do astronomers use infrared light to view the galactic core?",
         "options": [
-          "The time it takes a planet to orbit its sun",
-          "The total energy output of a massive star",
-          "The distance light travels in one Earth year"
+          "Infrared light penetrates thick clouds of dust",
+          "Infrared light travels faster through deep space",
+          "Galactic stars emit only infrared electromagnetic radiation"
+        ],
+        "correct": 0,
+        "fact": "Visible light is blocked by dense cosmic dust, but longer infrared wavelengths pass through much more easily."
+      },
+      {
+        "q": "What does X-ray emission primarily reveal in the galactic center?",
+        "options": [
+          "Cold clouds of dust and hydrogen gas",
+          "Atmospheres of newly formed rocky planets",
+          "Hot gas and matter around compact objects"
         ],
         "correct": 2,
-        "fact": "A light-year is a unit of distance representing how far a beam of light travels in a single year."
+        "fact": "X-rays are generated in high-energy environments, such as gas superheated by supernovae or matter swirling into black holes."
       }
     ]
   }
