@@ -2,141 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Great Observatories Unique Views of the Milky Way",
-  "title_sv": "Vintergatans kärna sedd av tre rymdteleskop",
+  "title": "Most Detailed Image of the Crab Nebula",
+  "title_sv": "Den mest detaljerade bilden av Krabbnebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA12348/PIA12348~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA12348/PIA12348~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA12348/PIA12348~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA12348",
-  "credit": "NASA/JPL-Caltech/ESA/CXC/STScI",
-  "taken": "2009",
+  "url": "https://images-assets.nasa.gov/image/PIA03606/PIA03606~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA03606/PIA03606~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA03606/PIA03606~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA03606",
+  "credit": "NASA/ESA/JPL/Arizona State Univ.",
+  "taken": "2005",
   "src": "library",
-  "id": "PIA12348",
+  "id": "PIA03606",
   "px": [
     1920,
-    959
+    1920
   ],
   "w": 640,
-  "h": 319,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEAACAQQBBAMAAAAAAAAAAAABAgMABBEhMQUSMkEiUXH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIREiED/9oADAMBAAIRAxEAPwDHR27ZAdSM7GuaMNksigoVxjetipW9+8kcSSAMsWlB+qLadR2nAGTwPVbI+Tl0tTS4xWvT2KF/IAZ16qlrZhsrinh6gI4Z4kWL5jyK7H5ScXBw3cBvinNA82f/2Q==",
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcEBQABA//EACgQAAIBBAECBQUBAAAAAAAAAAECAwAEESEFEjEGEzJRcSIjQYGx4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhESISIx/9oADAMBAAIRAxEAPwBb1OsbCS52EbpJxnGhW+L4+S8nTHSEz3NMbjLKO3iBWADLacj04oLrxr9ifJrA2PwzLIvmKrFCSBnVVvKcW9iQx2h/IGqadz9EYKR9XUdrjP8AO1BXit1CFBsYwcEYG/anYaYLJVs2XqZwMcB4zyywSQ7YdjgHf6oi4hltJWiEjbUsi7wfgfFLu15CS3lST1ldDPtVsfESMrGRXeU7DaAH+VP1V6Nm2rruw65HkDHbALhUz9zYzil5z1w807BnDgHRFcLzmJ7mQsCUJ74Oc1AkkaQ5ZstW42eVpTqpgz//2Q==",
   "quiz": [
     {
-      "q": "Vad döljer sig i själva centrum av Vintergatan?",
+      "q": "Vad orsakade bildandet av Krabbnebulosan?",
       "options": [
-        "En tät samling av vita dvärgar",
-        "Ett supermassivt svart hål",
-        "En gigantisk stjärna som exploderar"
-      ],
-      "correct": 1,
-      "fact": "I Vintergatans mitt finns Sagittarius A*, ett supermassivt svart hål med en massa som motsvarar fyra miljoner solar."
-    },
-    {
-      "q": "Varför används infrarött ljus för att studera galaxens mitt?",
-      "options": [
-        "Infrarött ljus tränger igenom tjocka stoftmoln",
-        "Infrarött ljus färdas snabbare genom rymden",
-        "Galaxens stjärnor sänder enbart ut infraröd strålning"
-      ],
-      "correct": 0,
-      "fact": "Synligt ljus blockeras av kosmiskt stoft, medan infraröd strålning med längre våglängder lättare tar sig igenom till våra teleskop."
-    },
-    {
-      "q": "Vad avslöjar röntgenstrålning främst i galaxens centrum?",
-      "options": [
-        "Kalla moln av stoft och vätgas",
-        "Atmosfären hos nyligen bildade stenplaneter",
-        "Het gas och materia kring kompakta objekt"
+        "En krock mellan två dvärggalaxer",
+        "En kollapsande röd jätteplanet",
+        "En exploderande massiv stjärna"
       ],
       "correct": 2,
-      "fact": "Röntgenstrålning uppstår vid extremt höga energier och temperaturer, bland annat när materia hettas upp nära svarta hål."
+      "fact": "Krabbnebulosan är en supernovarest efter en massiv stjärna som exploderade och lyste upp himlen år 1054."
+    },
+    {
+      "q": "Vad snurrar i mitten av Krabbnebulosan?",
+      "options": [
+        "En snabbt roterande neutronstjärna",
+        "Ett supermassivt svart hål",
+        "En svalnande vit dvärg"
+      ],
+      "correct": 0,
+      "fact": "I mitten finns Krabbpulsaren, en neutronstjärna som snurrar ungefär 30 varv per sekund och driver nebulosans sken."
+    },
+    {
+      "q": "När observerade astronomer på jorden explosionen som skapade nebulosan?",
+      "options": [
+        "Omkring år 300 f.Kr.",
+        "År 1054 e.Kr.",
+        "I början av 1800-talet"
+      ],
+      "correct": 1,
+      "fact": "Kinesiska och arabiska astronomer noterade den nya lysande stjärnan på himlen under sommaren år 1054."
     }
   ],
   "levels": {
-    "barn": "Det här är mitten av vår galax, Vintergatan. Bilden är som ett färgsprakande fyrverkeri rakt in i rymdens myllrande storstad. Precis som i en stad trängs massor av stjärnor här inne. Vanligtvis kan vi inte se dem eftersom tjocka rymdmoln av damm står i vägen. Men med speciella rymdteleskop som kan se osynligt ljus kan vi kika rakt igenom dammet. Längst ner till höger gömmer sig dessutom ett gigantiskt svart hål som suger åt sig allt som kommer för nära.",
-    "nyborjare": "År 2009 firades det internationella astronomiåret, och NASA publicerade då denna unika panoramabild av Vintergatans mitt. Bilden kombinerar observationer från tre stora rymdteleskop: Hubble, Spitzer och Chandra. I vanliga optiska teleskop skyms galaxens kärna av mörka moln av interstellärt stoft. Genom att i stället observera infrarött ljus och röntgenstrålning kan vi blicka rakt igenom slöjorna. Det infraröda ljuset visar hundratusentals stjärnor och glödande gasmoln där nya solar föds. Samtidigt fångar röntgenteleskopet Chandra upp våldsamma processer med extrem hetta. Nere till höger i den ljusaste zonen vilar ett supermassivt svart hål, Sagittarius A*, med en massa på cirka fyra miljoner solmassor. Runtomkring virvlar gas som värmts upp till flera miljoner grader av stjärnvindar och explosioner.",
-    "entusiast": "Denna sammansatta mosaik släpptes 2009 för att markera Internationella astronomiåret och förenar data från NASA:s tre stora observatorier: Hubble, Spitzer och Chandra. Det observerade fältet spänner över ungefär en halv grad, vilket motsvarar fullmånens vinkeldiameter på himlen. Det centrala området i Vintergatan ligger drygt 26 000 ljusår bort och är fullständigt dolt i det optiska våglängdsområdet på grund av kraftig interstellär extinktion från stoftmoln. Spitzers infraröda detektorer tränger genom detta stoft och kartlägger aktiva stjärnbildningsregioner samt hundratusentals tidigare dolda stjärnor som värmer den omgivande miljön. Hubbles närinfraröda instrumentering avslöjar samtidigt detaljerade strukturer i den upphettade gasen och massiva stjärnhopar vars kraftiga stjärnvindar formar gigantiska bågar. Den mest energirika bilden ges av röntgenobservatoriet Chandra. Här representerar rosa och blå nyanser mjuk respektive hård röntgenstrålning från diffus gas som hettats upp till tiotals miljoner grader av upprepade supernovor och chockvågor. Chandra lokaliserar även hundratals punktkällor i form av ackreterande vita dvärgar, neutronstjärnor och stellära svarta hål. I den extremt ljusstarka regionen nere till höger återfinns Sagittarius A*, galaxens supermassiva svarta hål med en massa på drygt fyra miljoner solmassor. Dess gravitationsfält och utflöden driver energiflödet i Vintergatans allra mest dynamiska och extrema miljö."
+    "barn": "Tänk dig att en gigantisk stjärna exploderade som ett enormt kosmiskt fyrverkeri! Det är precis vad som hände här. Bilden visar Krabbnebulosan, ett vackert moln av glödande gas i rymden. Gasen slungades ut med väldig fart och bildar trådar som liknar ett färgstarkt spindelnät. Längst in i mitten snurrar en pytteliten men supertung stjärna, snabbare än bladen i en köksmixer. Den skickar ut massor av energi som får hela molnet att lysa.",
+    "nyborjare": "Krabbnebulosan är ett av natthimlens mest kända objekt och utgör en klassisk supernovarest. Den bildades när en massiv stjärna exploderade i slutet av sitt liv. Explosionen observerades av astronomer i bland annat Kina och Japan år 1054, då den lyste så starkt att den syntes mitt på dagen under flera veckor. Denna mosaikbild sattes samman år 2005 från 24 exponeringar tagna med rymdteleskopet Hubble. De färgstarka trådarna består främst av väte, syre och svavel som fortfarande expanderar utåt i rymden med flera miljoner kilometer i timmen. I centrum döljer sig en neutronstjärna, känd som Krabbpulsaren, som roterar 30 varv per sekund och driver nebulosans intensiva sken.",
+    "entusiast": "Krabbnebulosan, katalogiserad som Messier 1 och NGC 1952, ligger cirka 6 500 ljusår bort i stjärnbilden Oxen. Denna detaljerade mosaik från 2005 sammanställdes från 24 delbilder tagna med Wide Field and Planetary Camera 2 ombord på rymdteleskopet Hubble. Bilden visar den invecklade filamentstrukturen hos denna supernovarest, där joniserad gas expanderar genom det interstellära mediet med en hastighet av cirka 1 500 kilometer per sekund. I centrum finns Krabbpulsaren, en kompakt neutronstjärna som roterar cirka 30 gånger per sekund. Det diffusa blåaktiga ljuset i nebulosans centrala delar utgörs av synkrotronstrålning, vilken alstras när relativistiska elektroner rör sig genom de starka magnetfält som drivs av pulsarens kraftfulla partikelvind."
   },
   "terms": [
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett teleskop placerat i omloppsbana runt jorden för att observera rymden utan störningar från jordens atmosfär."
+      "term": "supernovarest",
+      "explanation": "Ett expanderande moln av gas som bildas när en stjärna exploderar vid slutet av sitt liv."
     },
     {
-      "term": "interstellärt stoft",
-      "explanation": "Mikroskopiska partiklar av fast materia som finns utspridda i rymden mellan stjärnorna i en galax."
+      "term": "neutronstjärna",
+      "explanation": "En extremt tät rest av en kollapsad stjärnkärna som består nästan uteslutande av tätt packade neutroner."
     },
     {
-      "term": "infrarött ljus",
-      "explanation": "Elektromagnetisk strålning med längre våglängd än synligt ljus som kan tränga igenom kosmiska stoftmoln."
+      "term": "Krabbpulsaren",
+      "explanation": "Den snabbt roterande neutronstjärnan i Krabbnebulosans centrum som sänder ut regelbundna pulser av strålning."
     },
     {
-      "term": "röntgenstrålning",
-      "explanation": "Mycket energirik elektromagnetisk strålning som sänds ut från extremt heta gaser och våldsamma processer i rymden."
-    },
-    {
-      "term": "supermassivt svart hål",
-      "explanation": "Ett extremt kompakt gravitationsobjekt med en massa motsvarande miljontals eller miljarder solar i en galax kärna."
+      "term": "synkrotronstrålning",
+      "explanation": "Elektromagnetisk strålning som alstras när laddade partiklar accelereras till nära ljusets hastighet i ett magnetfält."
     }
   ],
   "en": {
     "levels": {
-      "barn": "This is the very heart of our galaxy, the Milky Way. It looks like a glowing festival of cosmic lights right in the middle of a bustling space city. Just like in a huge city, millions of stars crowd together here. Usually, dark clouds of dust hide them from our eyes. But special space telescopes can see invisible light and look right through the dust. Down in the bright area on the lower right sits a gigantic black hole that pulls in anything that gets too close.",
-      "nyborjare": "In 2009, celebrating the International Year of Astronomy, NASA released this panoramic view of the Milky Way center. It combines data from three major space telescopes: Hubble, Spitzer, and Chandra. Thick clouds of interstellar dust hide the galactic core from conventional visible-light telescopes. By observing in infrared light and X-rays instead, astronomers can pierce through the dense haze. Infrared light unveils hundreds of thousands of stars and glowing gas clouds where new solar systems form. Meanwhile, Chandra detects high-energy X-rays from gas superheated to millions of degrees by stellar winds and supernova explosions. Tucked in the bright region in the lower right is a supermassive black hole, Sagittarius A*, containing the mass of four million Suns.",
-      "entusiast": "Released in 2009 for the International Year of Astronomy, this multiwavelength panorama combines observations from NASA's Hubble, Spitzer, and Chandra observatories. Covering about half a degree on the sky—equivalent to the angular diameter of the full Moon—the image probes the galactic center located roughly 26,000 light-years away. In visible wavelengths, severe interstellar extinction completely masks this energetic core. Spitzer's infrared detectors penetrate the obscuring dust clouds, revealing dense stellar nurseries and hundreds of thousands of previously unseen stars. Hubble's near-infrared data showcase ionized gas arcs sculpted by powerful stellar winds from massive star clusters. Chandra's X-ray observations expose the highest-energy phenomena, where pink and blue represent lower- and higher-energy X-ray emission from gas heated to tens of millions of degrees. Chandra also resolves hundreds of compact point sources, including white dwarfs, neutron stars, and stellar-mass black holes. Anchoring the bright lower-right region is Sagittarius A*, a supermassive black hole of approximately four million solar masses whose outflows shape the surrounding interstellar medium."
+      "barn": "Imagine a giant star exploding like an enormous cosmic firework! That is exactly what happened here. This picture shows the Crab Nebula, a glowing cloud of gas drifting through space. The blast hurled gas outwards at incredible speed, creating filaments that look like a colorful spiderweb. Right at the very center, a tiny but super heavy star spins around faster than the blades in a kitchen blender. It pumps out energy that makes the whole cloud shine.",
+      "nyborjare": "The Crab Nebula is one of the most famous sights in the night sky and represents a textbook supernova remnant. It formed when a massive star exploded at the end of its life. This cataclysm was witnessed by astronomers across the world in the year 1054, shining so brightly that it was visible in broad daylight for weeks. This detailed mosaic was assembled in 2005 from 24 exposures captured by the Hubble Space Telescope. The intricate filaments consist of hydrogen, oxygen, and sulfur expanding into space at millions of kilometers per hour. Deep inside rests a neutron star called the Crab Pulsar, spinning roughly 30 times per second and energizing the entire nebula.",
+      "entusiast": "Cataloged as Messier 1 and NGC 1952, the Crab Nebula lies roughly 6,500 light-years away in the constellation Taurus. This mosaic from 2005 was created from 24 individual pointings of the Wide Field and Planetary Camera 2 aboard the Hubble Space Telescope. It reveals the complex filamentary structure of the expanding ejecta, which travels through the interstellar medium at roughly 1,500 kilometers per second. At the heart of the remnant lies the Crab Pulsar, an isolated neutron star rotating around 30 times per second. The eerie diffuse blue glow permeating the interior is synchrotron radiation, produced as relativistic electrons spiral through intense magnetic fields generated by the pulsar wind."
     },
     "terms": [
       {
-        "term": "space telescopes",
-        "explanation": "Astronomical instruments operating outside Earth's atmosphere to observe the universe without atmospheric distortion or absorption."
+        "term": "supernova remnant",
+        "explanation": "An expanding cloud of gas and dust created when a dying massive star explodes."
       },
       {
-        "term": "interstellar dust",
-        "explanation": "Microscopic solid grains of carbon and silicates distributed through space between the stars of a galaxy."
+        "term": "neutron star",
+        "explanation": "An extremely dense collapsed stellar core left behind after a massive star undergoes a supernova."
       },
       {
-        "term": "infrared light",
-        "explanation": "Electromagnetic radiation with wavelengths longer than visible light, capable of passing through obscuring cosmic clouds."
+        "term": "Crab Pulsar",
+        "explanation": "The rapidly spinning neutron star located at the center of the Crab Nebula."
       },
       {
-        "term": "supermassive black hole",
-        "explanation": "An enormous concentration of mass, equivalent to millions or billions of suns, residing at a galactic center."
-      },
-      {
-        "term": "interstellar extinction",
-        "explanation": "The absorption and scattering of electromagnetic radiation by dust and gas between an astronomical object and an observer."
+        "term": "synchrotron radiation",
+        "explanation": "Electromagnetic radiation produced when charged particles travel at near light speed through magnetic fields."
       }
     ],
     "quiz": [
       {
-        "q": "What lies at the very center of the Milky Way galaxy?",
+        "q": "What originally caused the creation of the Crab Nebula?",
         "options": [
-          "A dense cluster of white dwarfs",
-          "A supermassive black hole",
-          "A giant star undergoing collapse"
-        ],
-        "correct": 1,
-        "fact": "Sagittarius A*, a supermassive black hole with roughly four million times the mass of the Sun, sits at the center."
-      },
-      {
-        "q": "Why do astronomers use infrared light to view the galactic core?",
-        "options": [
-          "Infrared light penetrates thick clouds of dust",
-          "Infrared light travels faster through deep space",
-          "Galactic stars emit only infrared electromagnetic radiation"
-        ],
-        "correct": 0,
-        "fact": "Visible light is blocked by dense cosmic dust, but longer infrared wavelengths pass through much more easily."
-      },
-      {
-        "q": "What does X-ray emission primarily reveal in the galactic center?",
-        "options": [
-          "Cold clouds of dust and hydrogen gas",
-          "Atmospheres of newly formed rocky planets",
-          "Hot gas and matter around compact objects"
+          "A collision between two dwarf galaxies",
+          "A collapsing giant gas planet",
+          "An exploding massive star"
         ],
         "correct": 2,
-        "fact": "X-rays are generated in high-energy environments, such as gas superheated by supernovae or matter swirling into black holes."
+        "fact": "The Crab Nebula is a supernova remnant from a massive star whose death explosion was seen from Earth in 1054."
+      },
+      {
+        "q": "What is spinning at the center of the Crab Nebula?",
+        "options": [
+          "A rapidly rotating neutron star",
+          "A supermassive black hole",
+          "A cooling white dwarf"
+        ],
+        "correct": 0,
+        "fact": "At its core lies the Crab Pulsar, a neutron star spinning approximately 30 times each second."
+      },
+      {
+        "q": "When did astronomers on Earth observe the explosion?",
+        "options": [
+          "Around 300 BCE",
+          "In the year 1054",
+          "In the early 1800s"
+        ],
+        "correct": 1,
+        "fact": "Chinese and Arab astronomers recorded the sudden appearance of the brilliant new star in the sky in 1054."
       }
     ]
   }
