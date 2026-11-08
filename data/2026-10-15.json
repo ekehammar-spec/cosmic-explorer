@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Finds an Hourglass Nebula around a Dying Star",
-  "title_sv": "Timglasnebulosan MyCn18 runt en döende stjärna",
+  "title": "N44C nebula",
+  "title_sv": "Nebulosan N44C",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA14442/PIA14442~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA14442/PIA14442~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA14442/PIA14442~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA14442",
-  "credit": "NASA/JPL-Caltech/ESA, the Hubble Heritage Team STScI/AURA",
-  "taken": "1996",
+  "url": "https://images-assets.nasa.gov/image/PIA04225/PIA04225~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA04225/PIA04225~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA04225/PIA04225~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA04225",
+  "credit": "NASA and the Hubble Heritage Team STScI/AURA Acknowledgment: D. Garnett University of Arizona",
+  "taken": "1999",
   "src": "library",
-  "id": "PIA14442",
+  "id": "PIA04225",
   "px": [
-    1280,
+    1244,
     1280
   ],
-  "w": 640,
+  "w": 622,
   "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQH/8QAIxAAAQUAAQMFAQAAAAAAAAAAAQACAwQRMQUhYRIyQVFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMRITEiQf/aAAwDAQACEQMRAD8A53ivhrulOAfp+lSEf6bDJNVjbXbsjnEO+/CzsYqNTStQTuB5az4hpGg/IVBGJivRuiqyiwMkbgHlLzuUrYt2WxQuMSDlMFCeSvBE6v7276gOd3lL47LRDZLBh058g90sUnkVsoyG+wr1KaSem6Sf3l49O/1AitFiw6Zo3sB5WZK1IG5LGBPmf//Z",
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwQH/8QAJhAAAgEDAwQBBQAAAAAAAAAAAQIDAAQRBSExBhJBYRQTIiMycf/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwDm1ST91/oqODT3Etu1jaiXTocPGuJAqknbnHNTbQm80r8juOCftGNqFXEMi7FMEbbUxXUszkESMVGwXFAronvOT5rtKDG7ATare28KRF3k422A859Ux3emC3KxsymYeDscUv8ATurfBihmQZZCQ484rXqfVnyW+pHAqSYI7juaDkAnWp1DMBOXQdvvNLlw8PILSeycCq7q+kmkZixBNY2YtyaXWLC//9k=",
   "quiz": [
     {
-      "q": "Vad är det som skapar denna lysande nebulosa?",
+      "q": "Vad får gasen i en emissionsnebulosa att lysa?",
       "options": [
-        "En kolliderande galax full av gas",
-        "En döende stjärna som stöter bort gas",
-        "En nyfödd stjärna som drar till sig materia"
-      ],
-      "correct": 1,
-      "fact": "Planetariska nebulosor bildas när stjärnor lika vår sol dör och kastar ut sina yttersta gaslager."
-    },
-    {
-      "q": "Vilken typ av nebulosa syns på bilden?",
-      "options": [
-        "Planetarisk nebulosa",
-        "Mörk nebulosa",
-        "Supernovarest"
+        "Strålning från heta unga stjärnor",
+        "Reflekterat ljus från avlägsna galaxer",
+        "Friktion mellan gasmoln som krockar"
       ],
       "correct": 0,
-      "fact": "Trots namnet har planetariska nebulosor inget med planeter att göra, utan består av glödande stjärngas."
+      "fact": "Ultraviolett ljus från närliggande massiva stjärnor exciterar gasen så att den börjar glöda med eget ljus."
     },
     {
-      "q": "Varför har nebulosan formats som ett timglas?",
+      "q": "I vilken närliggande dvärggalax ligger nebulosan N44C?",
       "options": [
-        "Kraftiga magnetfält böjer stjärnans ljus",
-        "Ett svart hål drar i nebulosan",
-        "Tät materia vid ekvatorn styr ut gasen"
+        "Skyttens elliptiska dvärggalax",
+        "Stora magellanska molnet",
+        "Lilla magellanska molnet"
+      ],
+      "correct": 1,
+      "fact": "N44C är en del av ett stort nebulosakomplex i Stora magellanska molnet cirka 160 000 ljusår bort."
+    },
+    {
+      "q": "Vad skulpterar nebulosans glödande trådar och hålrum?",
+      "options": [
+        "Kollisioner med osynlig mörk materia",
+        "Planeternas banrörelser runt stjärnorna",
+        "Kraftiga stjärnvindar från massiva stjärnor"
       ],
       "correct": 2,
-      "fact": "En tät ring av materia runt stjärnans mitt tvingar de utströmmande vindarna mot polerna."
+      "fact": "Häftiga partikelströmmar från heta stjärnor blåser bort omgivande gas och skapar bubblor och trådlika slöjor."
     }
   ],
   "levels": {
-    "barn": "Titta på bilden! Ser den inte ut som ett jättestort, lysande timglas i rymden? I mitten finns en stjärna som har blivit väldigt gammal och trött. När stjärnan nådde slutet av sitt liv började den puffa ut sina yttersta lager av gas, ungefär som när du blåser såpbubblor.\n\nGasen lyser i vackra färger eftersom stjärnan i mitten fortfarande är het. En dag om flera miljarder år kommer vår egen sol att göra något liknande.",
-    "nyborjare": "År 1996 riktade forskare rymdteleskopet Hubble mot Timglasnebulosan, även känd som MyCn18. Bilden visar en planetarisk nebulosa, vilket är ett glödande skal av gas som stöts bort från en döende stjärna ungefär lika stor som vår sol.\n\nI stället för att expandera som en rund bubbla har gasen formats till ett fascinerande timglas. Det beror på att stjärnan omgavs av en tät ring av materia runt sin ekvator. Ringen tvingar gasen att rusa utåt mot polerna i två motsatta riktningar. I mitten syns en vit dvärg, den kompakta rest som blir kvar när stjärnans bränsle tagit slut. Bilden ger oss en förhandstitt på hur solens öde kommer att se ut om cirka fem miljarder år.",
-    "entusiast": "År 1996 fångade rymdteleskopet Hubble denna spektakulära bild av MyCn18, en ung bipolär planetarisk nebulosa på cirka 8 000 ljusårs avstånd i stjärnbilden Flugan. Bilden togs med kameran Wide Field and Planetary Camera 2 och avslöjade enastående detaljer med intrikata ringmönster etsade i timglasets väggar.\n\nNebulosans karakteristiska timglasform förklaras bäst genom modeller av interagerande vindar. När stjärnan lämnade den asymptotiska jättegrenen stötte den först ut en långsam och tät skiva av materia runt sitt ekvatorplan. Därefter blåste en snabb stjärnvind från den blottade stjärnkärnan hål i gasen och expanderade obehindrat längs polaxeln, vilket skapade de två symmetriska loberna.\n\nEn särskilt intressant upptäckt är att den centrala stjärnan sitter något förskjuten från nebulosans geometriska centrum. Det har fått astronomer att misstänka att objektet rymmer en dold dubbelstjärna, där en osynlig följeslagare har påverkat massförlusten och strukturens asymmetri genom gravitationell växelverkan. När stark ultraviolett strålning från stjärnan joniserar den omgivande gasen börjar olika grundämnen fluorescera vid specifika våglängder. Det ger upphov till de färgstarka ringarna av kväve, väte och syre som framträder så tydligt på bilden."
+    "barn": "Här ser du en rymdnebulosa som glöder i mörkret. Den ser nästan ut som långt, böljande hår av färgglad rök.\n\nI mitten bor nyfödda stjärnor som är väldigt heta. Stjärnorna blåser som små stormar på gasen runt omkring sig. Blåsten trycker ut gasen i fina slingor och får molnet att glittra. Det fungerar lite som när du blåser såpbubblor eller virvlar upp vatten i badkaret.",
+    "nyborjare": "Den här bilden togs år 2002 av rymdteleskopet Hubble och visar nebulosan N44C. En nebulosa är ett gigantiskt moln av gas och rymdstoft. Detta moln ligger i Stora magellanska molnet, en liten galax till vår egen Vintergata på ungefär 160 000 ljusårs avstånd.\n\nI molnets hjärta finns en samling extremt heta unga stjärnor. Dessa stjärnor sänder ut intensiv ultraviolett strålning som värmer upp gasen och får den att glöda. Samtidigt pressar en kraftig stjärnvind bort gasen från stjärnorna, vilket skapar de böljande trådar och tomrum som syns i bilden. Processen skulpterar molnet och sätter igång födelsen av ännu fler stjärnor.",
+    "entusiast": "Bilden fångades av rymdteleskopet Hubble år 2002 med instrumentet WFPC2 och visar en detalj av H II-regionen N44C i Stora magellanska molnet. Denna nebulosa är särskilt intressant på grund av sin ovanliga stjärnpopulation och strålningsmiljö.\n\nI mitten av N44C finns en märkligt het stjärna med en yttemperatur på omkring 75 000 kelvin. Denna extremt höga temperatur är svår att förklara med vanliga modeller för stjärnutveckling och har väckt hypoteser om ett binärt system med en dold neutronstjärna eller en sällsynt O-stjärna. Den intensiva ultravioletta strålningen joniserar det omgivande vätet och heliumet, vilket resulterar i en glödande joniserad gas med skarpa emissionslinjer.\n\nSamtidigt samverkar strålningstrycket med en massiv stjärnvind för att driva bort det interstellära mediet. Resultatet är ett nätverk av filament och förtätningsfronter. Dessa dynamiska chocker komprimerar gasen i de yttre delarna av hålrummet, vilket kan utlösa kollapsen av nya protostellära kärnor. Studier av regioner som N44C ger därför avgörande ledtrådar om stjärnbildning i miljöer med lägre metallicitet än Vintergatan."
   },
   "terms": [
     {
-      "term": "planetarisk nebulosa",
-      "explanation": "Ett glödande moln av gas som kastas ut när en medeltung stjärna når slutet av sitt liv."
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och stoft i rymden där stjärnor ofta bildas."
     },
     {
-      "term": "vit dvärg",
-      "explanation": "Den extremt täta och heta kärna som blir kvar när en stjärna har förbrukat sitt bränsle."
+      "term": "Stora magellanska molnet",
+      "explanation": "En dvärggalax som kretsar runt Vintergatan på cirka 160 000 ljusårs avstånd."
+    },
+    {
+      "term": "ultraviolett strålning",
+      "explanation": "Energirik osynlig ljusstrålning med kortare våglängd än synligt ljus."
     },
     {
       "term": "stjärnvind",
-      "explanation": "En ström av laddade partiklar och gas som blåses ut i rymden från en stjärna."
+      "explanation": "En kontinuerlig ström av laddade partiklar som kastas ut från en stjärna."
     },
     {
-      "term": "dubbelstjärna",
-      "explanation": "Ett system där två stjärnor kretsar kring varandra under inflytande av sin gemensamma gravitation."
+      "term": "joniserad gas",
+      "explanation": "Gas där atomerna har förlorat elektroner på grund av hög temperatur eller strålning."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this amazing picture! Doesn’t it look like a giant glowing hourglass floating in space? Right in the center is an old star that has reached the end of its life.\n\nAs it grew old, it started puffing out its outer gas like gentle soap bubbles. The gas glows in bright colors because the star is still very hot. One day, billions of years from now, our own Sun will do something just like this.",
-      "nyborjare": "In 1996, the Hubble Space Telescope was pointed toward the Hourglass Nebula, also known as MyCn18. The image captures a young planetary nebula, which is a glowing shell of gas cast off by a dying star similar to our Sun.\n\nInstead of expanding into a round bubble, the gas formed a striking hourglass shape. This happens because the dying star was surrounded by a dense ring of material around its equator. This ring forces the fast stellar wind to escape outward toward the poles in two opposite directions. At the center sits a white dwarf, the dense remnant of the stellar core. This object offers a preview of what will happen to our Sun in about five billion years.",
-      "entusiast": "In 1996, the Hubble Space Telescope captured this spectacular view of MyCn18, a young bipolar planetary nebula located roughly 8,000 light-years away in the southern constellation Musca. Taken with the Wide Field and Planetary Camera 2, the image revealed an intricate pattern of delicate etchings and rings carved into the hourglass walls.\n\nThe distinct hourglass shape is best explained by models of interacting stellar winds. As the central star evolved past the asymptotic giant branch, it first shed a dense, slow-moving torus of gas around its equatorial plane. Later, a fast stellar wind from the exposed core carved out cavities along the polar axis, blowing outward to form two symmetrical glowing lobes.\n\nRemarkably, the central white dwarf appears slightly offset from the geometric center of the nebula. This asymmetry has led astronomers to hypothesize that the system contains an unseen binary star companion, whose gravitational influence shaped the uneven mass loss. Intense ultraviolet radiation from the hot remnant ionizes the surrounding gas, causing nitrogen, hydrogen, and oxygen to fluoresce brilliantly at characteristic wavelengths."
+      "barn": "This is a glowing space nebula shining brightly in the dark. It looks like long ribbons of colorful hair drifting in the wind.\n\nInside live newborn stars that are super hot. These stars blow strong cosmic breezes against the surrounding gas. The breezes push the gas into lovely curved threads and make the cloud glow like a giant nightlight. It is just like blowing bubbles in a warm bath.",
+      "nyborjare": "Captured in 2002 by the Hubble Space Telescope, this image shows the nebula N44C. A nebula is a colossal cloud of gas and dust out in space. This particular cloud resides in the Large Magellanic Cloud, a small companion galaxy to our Milky Way located about 160,000 light-years from Earth.\n\nAt the core of the cloud sits a group of blazing young stars. These stars pour out intense ultraviolet radiation that heats the gas and makes it glow. At the same time, strong stellar wind pushes the gas outward, sculpting the flowing filaments and open bubbles seen in the picture.",
+      "entusiast": "Acquired by the Hubble Space Telescope in 2002 using the WFPC2 camera, this view highlights the H II region N44C within the Large Magellanic Cloud. This nebula is especially notable for its peculiar ionizing source and complex morphology.\n\nNear the center of N44C lies an unusually luminous star with an effective temperature near 75,000 Kelvin, far hotter than standard evolutionary models predict for its class. This has led astronomers to suspect a binary system harboring an accreting compact companion or an exotic massive star. Energetic ultraviolet radiation from this source ionizes surrounding hydrogen and helium, generating a luminous ionized gas with bright emission lines.\n\nConcurrently, radiation pressure coupled with a vigorous stellar wind sweeps up the interstellar medium into shock fronts and filaments. As these winds compress the edges of the surrounding cavity, they may induce the gravitational collapse of new protostellar cores. Investigating targets like N44C provides critical insights into stellar feedback within sub-solar metallicity environments."
     },
     "terms": [
       {
-        "term": "planetary nebula",
-        "explanation": "A glowing shell of gas ejected by an aging star near the end of its life."
+        "term": "nebula",
+        "explanation": "A massive interstellar cloud of gas and dust where stars are often born."
       },
       {
-        "term": "white dwarf",
-        "explanation": "The extremely dense, hot core left behind after a star exhausts its nuclear fuel."
+        "term": "Large Magellanic Cloud",
+        "explanation": "A satellite dwarf galaxy orbiting the Milky Way roughly 160,000 light-years away."
+      },
+      {
+        "term": "ultraviolet radiation",
+        "explanation": "High-energy electromagnetic radiation with wavelengths shorter than visible light."
       },
       {
         "term": "stellar wind",
-        "explanation": "A stream of charged particles and gas blown outward into space from a star."
+        "explanation": "A continuous outflow of charged gas ejected from the upper atmosphere of a star."
       },
       {
-        "term": "binary star",
-        "explanation": "A system where two stars orbit each other bound by their mutual gravitational pull."
+        "term": "ionized gas",
+        "explanation": "Gas whose atoms have been stripped of electrons by heat or energetic light."
       }
     ],
     "quiz": [
       {
-        "q": "What is creating this glowing nebula?",
+        "q": "What causes the gas in an emission nebula to glow?",
         "options": [
-          "A colliding galaxy full of gas",
-          "A dying star ejecting its gas",
-          "A newborn star pulling in matter"
-        ],
-        "correct": 1,
-        "fact": "Planetary nebulae form when stars similar to our Sun die and cast off their outer layers."
-      },
-      {
-        "q": "What type of nebula is shown in the image?",
-        "options": [
-          "Planetary nebula",
-          "Dark nebula",
-          "Supernova remnant"
+          "Radiation from hot young stars",
+          "Reflected light from distant galaxies",
+          "Friction from colliding gas clouds"
         ],
         "correct": 0,
-        "fact": "Despite the name, planetary nebulae have nothing to do with planets; they are glowing shells of stellar gas."
+        "fact": "Ultraviolet light from nearby massive stars energizes the gas, causing it to emit its own light."
       },
       {
-        "q": "Why did the nebula take the shape of an hourglass?",
+        "q": "Which nearby satellite galaxy hosts the N44C nebula?",
         "options": [
-          "Strong magnetic fields bend the star's light",
-          "A black hole pulls on the nebula",
-          "Dense matter at the equator channels the gas"
+          "Sagittarius Dwarf Elliptical Galaxy",
+          "Large Magellanic Cloud",
+          "Small Magellanic Cloud"
+        ],
+        "correct": 1,
+        "fact": "N44C is part of a large star-forming complex in the Large Magellanic Cloud, roughly 160,000 light-years away."
+      },
+      {
+        "q": "What sculpts the glowing filaments and cavities in the nebula?",
+        "options": [
+          "Collisions with invisible dark matter",
+          "Orbital motions of planets around stars",
+          "Powerful stellar winds from massive stars"
         ],
         "correct": 2,
-        "fact": "A dense ring of matter around the star's equator forces the escaping stellar winds toward the poles."
+        "fact": "Fierce streams of particles from energetic stars blow away surrounding gas, carving out delicate filaments."
       }
     ]
   }
