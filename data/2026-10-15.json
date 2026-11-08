@@ -1,142 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "N44C nebula",
-  "title_sv": "Nebulosan N44C",
+  "title": "Close-up of M27, the Dumbbell Nebula",
+  "title_sv": "Hantelnebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA04225/PIA04225~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA04225/PIA04225~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA04225/PIA04225~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA04225",
-  "credit": "NASA and the Hubble Heritage Team STScI/AURA Acknowledgment: D. Garnett University of Arizona",
-  "taken": "1999",
+  "url": "https://images-assets.nasa.gov/image/PIA04249/PIA04249~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA04249/PIA04249~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA04249/PIA04249~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA04249",
+  "credit": "NASA/JPL/STScI",
+  "taken": "2003",
   "src": "library",
-  "id": "PIA04225",
+  "id": "PIA04249",
   "px": [
-    1244,
-    1280
+    1262,
+    750
   ],
-  "w": 622,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwQH/8QAJhAAAgEDAwQBBQAAAAAAAAAAAQIDAAQRBSExBhJBYRQTIiMycf/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwDm1ST91/oqODT3Etu1jaiXTocPGuJAqknbnHNTbQm80r8juOCftGNqFXEMi7FMEbbUxXUszkESMVGwXFAronvOT5rtKDG7ATare28KRF3k422A859Ux3emC3KxsymYeDscUv8ATurfBihmQZZCQ484rXqfVnyW+pHAqSYI7juaDkAnWp1DMBOXQdvvNLlw8PILSeycCq7q+kmkZixBNY2YtyaXWLC//9k=",
+  "w": 640,
+  "h": 380,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwQH/8QAJBAAAQIGAgEFAAAAAAAAAAAAAQACAwQFESExIkFRBhITMoH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQIE/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECAyExETISIiP/2gAMAwEAAhEDEQA/AMJNz5XLbEE5uE1gyZqDHE8Wg/q42sDTc5zrpNZBwYy4wD0tyrxyth1vPi9EvUYIl32tx0D5SGZOyQbL0aoUmHUYYIIa84aoWqU6LIzb4MSzraIQKSeHsdx4yimg52mkobWHR2hC659QK+xqHu+b234+FM+psua4/YnaEKRa/oilBerP/9k=",
   "quiz": [
     {
-      "q": "Vad får gasen i en emissionsnebulosa att lysa?",
+      "q": "Vad är en planetarisk nebulosa för något?",
       "options": [
-        "Strålning från heta unga stjärnor",
-        "Reflekterat ljus från avlägsna galaxer",
-        "Friktion mellan gasmoln som krockar"
-      ],
-      "correct": 0,
-      "fact": "Ultraviolett ljus från närliggande massiva stjärnor exciterar gasen så att den börjar glöda med eget ljus."
-    },
-    {
-      "q": "I vilken närliggande dvärggalax ligger nebulosan N44C?",
-      "options": [
-        "Skyttens elliptiska dvärggalax",
-        "Stora magellanska molnet",
-        "Lilla magellanska molnet"
+        "Ett moln av gas runt en nyfödd stjärna",
+        "Resterna efter en döende stjärnas yttre lager",
+        "Ett tidigt stadium i bildandet av en planet"
       ],
       "correct": 1,
-      "fact": "N44C är en del av ett stort nebulosakomplex i Stora magellanska molnet cirka 160 000 ljusår bort."
+      "fact": "Trots det missvisande namnet har en planetarisk nebulosa inget med planeter att göra, utan bildas när en åldrande stjärna stöter bort sitt yttre hölje i rymden."
     },
     {
-      "q": "Vad skulpterar nebulosans glödande trådar och hålrum?",
+      "q": "Vilken roll spelar Hubbleteleskopet för denna typ av bilder?",
       "options": [
-        "Kollisioner med osynlig mörk materia",
-        "Planeternas banrörelser runt stjärnorna",
-        "Kraftiga stjärnvindar från massiva stjärnor"
+        "Det tar skarpa bilder ovanför jordens atmosfär",
+        "Det fångar upp radiovågor från avlägsna galaxer",
+        "Det landar på nebulosans yta för att mäta gasen"
+      ],
+      "correct": 0,
+      "fact": "Genom att kretsa utanför den störande atmosfären kan Hubbleteleskopet ta extremt detaljerade närbilder av svaga himlakroppar."
+    },
+    {
+      "q": "Vad händer med stjärnan i centrum av nebulosan?",
+      "options": [
+        "Den kollapsar till ett stort svart hål",
+        "Den slocknar helt och blir till stoft",
+        "Den drar ihop sig till en vit dvärg"
       ],
       "correct": 2,
-      "fact": "Häftiga partikelströmmar från heta stjärnor blåser bort omgivande gas och skapar bubblor och trådlika slöjor."
+      "fact": "När de yttre lagren har kastats ut återstår endast stjärnans heta, tätt packade kärna som kallas för en vit dvärg."
     }
   ],
   "levels": {
-    "barn": "Här ser du en rymdnebulosa som glöder i mörkret. Den ser nästan ut som långt, böljande hår av färgglad rök.\n\nI mitten bor nyfödda stjärnor som är väldigt heta. Stjärnorna blåser som små stormar på gasen runt omkring sig. Blåsten trycker ut gasen i fina slingor och får molnet att glittra. Det fungerar lite som när du blåser såpbubblor eller virvlar upp vatten i badkaret.",
-    "nyborjare": "Den här bilden togs år 2002 av rymdteleskopet Hubble och visar nebulosan N44C. En nebulosa är ett gigantiskt moln av gas och rymdstoft. Detta moln ligger i Stora magellanska molnet, en liten galax till vår egen Vintergata på ungefär 160 000 ljusårs avstånd.\n\nI molnets hjärta finns en samling extremt heta unga stjärnor. Dessa stjärnor sänder ut intensiv ultraviolett strålning som värmer upp gasen och får den att glöda. Samtidigt pressar en kraftig stjärnvind bort gasen från stjärnorna, vilket skapar de böljande trådar och tomrum som syns i bilden. Processen skulpterar molnet och sätter igång födelsen av ännu fler stjärnor.",
-    "entusiast": "Bilden fångades av rymdteleskopet Hubble år 2002 med instrumentet WFPC2 och visar en detalj av H II-regionen N44C i Stora magellanska molnet. Denna nebulosa är särskilt intressant på grund av sin ovanliga stjärnpopulation och strålningsmiljö.\n\nI mitten av N44C finns en märkligt het stjärna med en yttemperatur på omkring 75 000 kelvin. Denna extremt höga temperatur är svår att förklara med vanliga modeller för stjärnutveckling och har väckt hypoteser om ett binärt system med en dold neutronstjärna eller en sällsynt O-stjärna. Den intensiva ultravioletta strålningen joniserar det omgivande vätet och heliumet, vilket resulterar i en glödande joniserad gas med skarpa emissionslinjer.\n\nSamtidigt samverkar strålningstrycket med en massiv stjärnvind för att driva bort det interstellära mediet. Resultatet är ett nätverk av filament och förtätningsfronter. Dessa dynamiska chocker komprimerar gasen i de yttre delarna av hålrummet, vilket kan utlösa kollapsen av nya protostellära kärnor. Studier av regioner som N44C ger därför avgörande ledtrådar om stjärnbildning i miljöer med lägre metallicitet än Vintergatan."
+    "barn": "Tänk dig att en gammal stjärna nyser ut moln av färgstark gas i rymden. Det ser ut som lysande knutar som skjuter iväg åt alla håll. Den här bilden visar just en sådan gaspuff runt en stjärna som håller på att bli gammal. Rymdteleskopet Hubble har tagit bilden för att vi ska få se hur vackert det glittrar i mörkret därute.",
+    "nyborjare": "Hantelnebulosan är ett slående exempel på en planetarisk nebulosa, vilket är resterna av en stjärna som liknar vår sol och som har nått slutet av sitt liv. När stjärnan åldras kastar den ut sina yttre gaslager i rymden. Denna glödande gas bildar spektakulära mönster av lysande knutar och stråk. Bilden har tagits med WFC3-kameran ombord på rymdteleskopet Hubble, som med sin placering ovanför jordens atmosfär kan fånga upp otroligt skarpa detaljer från himlen.",
+    "entusiast": "M27, allmänt känd som Hantelnebulosan, är en framträdande planetarisk nebulosa belägen på stjärnhimlen. Denna närbild fokuserar på de intrikata detaljerna i de glödande gasknutarna som skapades när en åldrande stjärna gjorde sin sista krampaktiga urladdning och stötte bort sina yttre höljen. Kameran Wide Field Camera 3, som konstruerats av JPL för NASA:s rymdteleskop Hubble, har fångat de komplexa strukturerna där joniserad gas lyses upp av den kvarvarande centrala stjärnan. Dessa observationer ger forskare viktig insikt i de sena stadierna av stjärnors evolution och spridningen av tunga grundämnen i den interstellära rymden."
   },
   "terms": [
     {
       "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och stoft i rymden där stjärnor ofta bildas."
+      "explanation": "Ett enormt moln av gas och stoft ute i rymden."
     },
     {
-      "term": "Stora magellanska molnet",
-      "explanation": "En dvärggalax som kretsar runt Vintergatan på cirka 160 000 ljusårs avstånd."
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat optiskt instrument som kretsar i omloppsbana runt jorden för att observera universum."
     },
     {
-      "term": "ultraviolett strålning",
-      "explanation": "Energirik osynlig ljusstrålning med kortare våglängd än synligt ljus."
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en planet."
     },
     {
-      "term": "stjärnvind",
-      "explanation": "En kontinuerlig ström av laddade partiklar som kastas ut från en stjärna."
-    },
-    {
-      "term": "joniserad gas",
-      "explanation": "Gas där atomerna har förlorat elektroner på grund av hög temperatur eller strålning."
+      "term": "evolution",
+      "explanation": "Den långsamma process under vilken astronomiska objekt förändras och utvecklas över tid."
     }
   ],
   "en": {
     "levels": {
-      "barn": "This is a glowing space nebula shining brightly in the dark. It looks like long ribbons of colorful hair drifting in the wind.\n\nInside live newborn stars that are super hot. These stars blow strong cosmic breezes against the surrounding gas. The breezes push the gas into lovely curved threads and make the cloud glow like a giant nightlight. It is just like blowing bubbles in a warm bath.",
-      "nyborjare": "Captured in 2002 by the Hubble Space Telescope, this image shows the nebula N44C. A nebula is a colossal cloud of gas and dust out in space. This particular cloud resides in the Large Magellanic Cloud, a small companion galaxy to our Milky Way located about 160,000 light-years from Earth.\n\nAt the core of the cloud sits a group of blazing young stars. These stars pour out intense ultraviolet radiation that heats the gas and makes it glow. At the same time, strong stellar wind pushes the gas outward, sculpting the flowing filaments and open bubbles seen in the picture.",
-      "entusiast": "Acquired by the Hubble Space Telescope in 2002 using the WFPC2 camera, this view highlights the H II region N44C within the Large Magellanic Cloud. This nebula is especially notable for its peculiar ionizing source and complex morphology.\n\nNear the center of N44C lies an unusually luminous star with an effective temperature near 75,000 Kelvin, far hotter than standard evolutionary models predict for its class. This has led astronomers to suspect a binary system harboring an accreting compact companion or an exotic massive star. Energetic ultraviolet radiation from this source ionizes surrounding hydrogen and helium, generating a luminous ionized gas with bright emission lines.\n\nConcurrently, radiation pressure coupled with a vigorous stellar wind sweeps up the interstellar medium into shock fronts and filaments. As these winds compress the edges of the surrounding cavity, they may induce the gravitational collapse of new protostellar cores. Investigating targets like N44C provides critical insights into stellar feedback within sub-solar metallicity environments."
+      "barn": "Imagine an old star sneezing out colorful clouds of gas into space. It looks like glowing knots shooting off in all directions. This picture shows just such a gas puff around a star that is growing old. The Hubble space telescope took the picture so we can see how beautifully it sparkles in the darkness out there.",
+      "nyborjare": "The Dumbbell Nebula is a striking example of a planetary nebula, which is the remains of a star similar to our sun that has reached the end of its life. As the star ages, it ejects its outer gas layers into space. This glowing gas forms spectacular patterns of luminous knots and streaks. The image was captured by the WFC3 camera aboard the Hubble Space Telescope, which, positioned above Earth's atmosphere, can capture incredibly sharp details from the sky.",
+      "entusiast": "M27, commonly known as the Dumbbell Nebula, is a prominent planetary nebula showcasing complex morphological features. This close-up focuses on the intricate details of the glowing gas knots created when an aging star underwent its final hurrah, expelling its outer envelopes into the surrounding space. The Wide Field Camera 3, built and designed by JPL for NASA's Hubble Space Telescope, captured the complex structures where ionized gas is illuminated by the remaining central star. These observations provide astronomers with vital insight into the late stages of stellar evolution and the enrichment of the interstellar medium."
     },
     "terms": [
       {
         "term": "nebula",
-        "explanation": "A massive interstellar cloud of gas and dust where stars are often born."
+        "explanation": "A giant cloud of dust and gas found out in space."
       },
       {
-        "term": "Large Magellanic Cloud",
-        "explanation": "A satellite dwarf galaxy orbiting the Milky Way roughly 160,000 light-years away."
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet."
       },
       {
-        "term": "ultraviolet radiation",
-        "explanation": "High-energy electromagnetic radiation with wavelengths shorter than visible light."
+        "term": "evolution",
+        "explanation": "The gradual process by which astronomical objects change and develop over time."
       },
       {
-        "term": "stellar wind",
-        "explanation": "A continuous outflow of charged gas ejected from the upper atmosphere of a star."
-      },
-      {
-        "term": "ionized gas",
-        "explanation": "Gas whose atoms have been stripped of electrons by heat or energetic light."
+        "term": "stellar",
+        "explanation": "Relating to a star or stars."
       }
     ],
     "quiz": [
       {
-        "q": "What causes the gas in an emission nebula to glow?",
+        "q": "What is a planetary nebula actually made of?",
         "options": [
-          "Radiation from hot young stars",
-          "Reflected light from distant galaxies",
-          "Friction from colliding gas clouds"
-        ],
-        "correct": 0,
-        "fact": "Ultraviolet light from nearby massive stars energizes the gas, causing it to emit its own light."
-      },
-      {
-        "q": "Which nearby satellite galaxy hosts the N44C nebula?",
-        "options": [
-          "Sagittarius Dwarf Elliptical Galaxy",
-          "Large Magellanic Cloud",
-          "Small Magellanic Cloud"
+          "A cloud of gas around a newborn star",
+          "The outer layers of a dying star",
+          "An early stage in planet formation"
         ],
         "correct": 1,
-        "fact": "N44C is part of a large star-forming complex in the Large Magellanic Cloud, roughly 160,000 light-years away."
+        "fact": "Despite the misleading name, a planetary nebula has nothing to do with planets; it forms when an aging star sheds its outer envelope into space."
       },
       {
-        "q": "What sculpts the glowing filaments and cavities in the nebula?",
+        "q": "What is the main advantage of the Hubble Space Telescope?",
         "options": [
-          "Collisions with invisible dark matter",
-          "Orbital motions of planets around stars",
-          "Powerful stellar winds from massive stars"
+          "It takes sharp images above Earth's atmosphere",
+          "It captures radio waves from distant galaxies",
+          "It lands on the nebula's surface to measure gas"
+        ],
+        "correct": 0,
+        "fact": "By orbiting outside the distorting atmosphere, the Hubble Space Telescope can capture extremely detailed close-up images of faint celestial objects."
+      },
+      {
+        "q": "What remains at the center of the nebula?",
+        "options": [
+          "A massive black hole",
+          "A completely extinguished dark cinder",
+          "A hot and dense white dwarf"
         ],
         "correct": 2,
-        "fact": "Fierce streams of particles from energetic stars blow away surrounding gas, carving out delicate filaments."
+        "fact": "Once the outer layers are expelled, only the star's hot and densely packed core remains, known as a white dwarf."
       }
     ]
   }
