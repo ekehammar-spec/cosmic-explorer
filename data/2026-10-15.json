@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Most Detailed Image of the Crab Nebula",
-  "title_sv": "Den mest detaljerade bilden av Krabbnebulosan",
+  "title": "Hubble Finds an Hourglass Nebula around a Dying Star",
+  "title_sv": "Timglasnebulosan MyCn18 runt en döende stjärna",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA03606/PIA03606~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA03606/PIA03606~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA03606/PIA03606~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA03606",
-  "credit": "NASA/ESA/JPL/Arizona State Univ.",
-  "taken": "2005",
+  "url": "https://images-assets.nasa.gov/image/PIA14442/PIA14442~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA14442/PIA14442~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA14442/PIA14442~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA14442",
+  "credit": "NASA/JPL-Caltech/ESA, the Hubble Heritage Team STScI/AURA",
+  "taken": "1996",
   "src": "library",
-  "id": "PIA03606",
+  "id": "PIA14442",
   "px": [
-    1920,
-    1920
+    1280,
+    1280
   ],
   "w": 640,
   "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcEBQABA//EACgQAAIBBAECBQUBAAAAAAAAAAECAwAEESEFEjEGEzJRcSIjQYGx4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhESISIx/9oADAMBAAIRAxEAPwBb1OsbCS52EbpJxnGhW+L4+S8nTHSEz3NMbjLKO3iBWADLacj04oLrxr9ifJrA2PwzLIvmKrFCSBnVVvKcW9iQx2h/IGqadz9EYKR9XUdrjP8AO1BXit1CFBsYwcEYG/anYaYLJVs2XqZwMcB4zyywSQ7YdjgHf6oi4hltJWiEjbUsi7wfgfFLu15CS3lST1ldDPtVsfESMrGRXeU7DaAH+VP1V6Nm2rruw65HkDHbALhUz9zYzil5z1w807BnDgHRFcLzmJ7mQsCUJ74Oc1AkkaQ5ZstW42eVpTqpgz//2Q==",
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQH/8QAIxAAAQUAAQMFAQAAAAAAAAAAAQACAwQRMQUhYRIyQVFxof/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABwRAAICAwEBAAAAAAAAAAAAAAECAAMRITEiQf/aAAwDAQACEQMRAD8A53ivhrulOAfp+lSEf6bDJNVjbXbsjnEO+/CzsYqNTStQTuB5az4hpGg/IVBGJivRuiqyiwMkbgHlLzuUrYt2WxQuMSDlMFCeSvBE6v7276gOd3lL47LRDZLBh058g90sUnkVsoyG+wr1KaSem6Sf3l49O/1AitFiw6Zo3sB5WZK1IG5LGBPmf//Z",
   "quiz": [
     {
-      "q": "Vad orsakade bildandet av Krabbnebulosan?",
+      "q": "Vad är det som skapar denna lysande nebulosa?",
       "options": [
-        "En krock mellan två dvärggalaxer",
-        "En kollapsande röd jätteplanet",
-        "En exploderande massiv stjärna"
-      ],
-      "correct": 2,
-      "fact": "Krabbnebulosan är en supernovarest efter en massiv stjärna som exploderade och lyste upp himlen år 1054."
-    },
-    {
-      "q": "Vad snurrar i mitten av Krabbnebulosan?",
-      "options": [
-        "En snabbt roterande neutronstjärna",
-        "Ett supermassivt svart hål",
-        "En svalnande vit dvärg"
-      ],
-      "correct": 0,
-      "fact": "I mitten finns Krabbpulsaren, en neutronstjärna som snurrar ungefär 30 varv per sekund och driver nebulosans sken."
-    },
-    {
-      "q": "När observerade astronomer på jorden explosionen som skapade nebulosan?",
-      "options": [
-        "Omkring år 300 f.Kr.",
-        "År 1054 e.Kr.",
-        "I början av 1800-talet"
+        "En kolliderande galax full av gas",
+        "En döende stjärna som stöter bort gas",
+        "En nyfödd stjärna som drar till sig materia"
       ],
       "correct": 1,
-      "fact": "Kinesiska och arabiska astronomer noterade den nya lysande stjärnan på himlen under sommaren år 1054."
+      "fact": "Planetariska nebulosor bildas när stjärnor lika vår sol dör och kastar ut sina yttersta gaslager."
+    },
+    {
+      "q": "Vilken typ av nebulosa syns på bilden?",
+      "options": [
+        "Planetarisk nebulosa",
+        "Mörk nebulosa",
+        "Supernovarest"
+      ],
+      "correct": 0,
+      "fact": "Trots namnet har planetariska nebulosor inget med planeter att göra, utan består av glödande stjärngas."
+    },
+    {
+      "q": "Varför har nebulosan formats som ett timglas?",
+      "options": [
+        "Kraftiga magnetfält böjer stjärnans ljus",
+        "Ett svart hål drar i nebulosan",
+        "Tät materia vid ekvatorn styr ut gasen"
+      ],
+      "correct": 2,
+      "fact": "En tät ring av materia runt stjärnans mitt tvingar de utströmmande vindarna mot polerna."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en gigantisk stjärna exploderade som ett enormt kosmiskt fyrverkeri! Det är precis vad som hände här. Bilden visar Krabbnebulosan, ett vackert moln av glödande gas i rymden. Gasen slungades ut med väldig fart och bildar trådar som liknar ett färgstarkt spindelnät. Längst in i mitten snurrar en pytteliten men supertung stjärna, snabbare än bladen i en köksmixer. Den skickar ut massor av energi som får hela molnet att lysa.",
-    "nyborjare": "Krabbnebulosan är ett av natthimlens mest kända objekt och utgör en klassisk supernovarest. Den bildades när en massiv stjärna exploderade i slutet av sitt liv. Explosionen observerades av astronomer i bland annat Kina och Japan år 1054, då den lyste så starkt att den syntes mitt på dagen under flera veckor. Denna mosaikbild sattes samman år 2005 från 24 exponeringar tagna med rymdteleskopet Hubble. De färgstarka trådarna består främst av väte, syre och svavel som fortfarande expanderar utåt i rymden med flera miljoner kilometer i timmen. I centrum döljer sig en neutronstjärna, känd som Krabbpulsaren, som roterar 30 varv per sekund och driver nebulosans intensiva sken.",
-    "entusiast": "Krabbnebulosan, katalogiserad som Messier 1 och NGC 1952, ligger cirka 6 500 ljusår bort i stjärnbilden Oxen. Denna detaljerade mosaik från 2005 sammanställdes från 24 delbilder tagna med Wide Field and Planetary Camera 2 ombord på rymdteleskopet Hubble. Bilden visar den invecklade filamentstrukturen hos denna supernovarest, där joniserad gas expanderar genom det interstellära mediet med en hastighet av cirka 1 500 kilometer per sekund. I centrum finns Krabbpulsaren, en kompakt neutronstjärna som roterar cirka 30 gånger per sekund. Det diffusa blåaktiga ljuset i nebulosans centrala delar utgörs av synkrotronstrålning, vilken alstras när relativistiska elektroner rör sig genom de starka magnetfält som drivs av pulsarens kraftfulla partikelvind."
+    "barn": "Titta på bilden! Ser den inte ut som ett jättestort, lysande timglas i rymden? I mitten finns en stjärna som har blivit väldigt gammal och trött. När stjärnan nådde slutet av sitt liv började den puffa ut sina yttersta lager av gas, ungefär som när du blåser såpbubblor.\n\nGasen lyser i vackra färger eftersom stjärnan i mitten fortfarande är het. En dag om flera miljarder år kommer vår egen sol att göra något liknande.",
+    "nyborjare": "År 1996 riktade forskare rymdteleskopet Hubble mot Timglasnebulosan, även känd som MyCn18. Bilden visar en planetarisk nebulosa, vilket är ett glödande skal av gas som stöts bort från en döende stjärna ungefär lika stor som vår sol.\n\nI stället för att expandera som en rund bubbla har gasen formats till ett fascinerande timglas. Det beror på att stjärnan omgavs av en tät ring av materia runt sin ekvator. Ringen tvingar gasen att rusa utåt mot polerna i två motsatta riktningar. I mitten syns en vit dvärg, den kompakta rest som blir kvar när stjärnans bränsle tagit slut. Bilden ger oss en förhandstitt på hur solens öde kommer att se ut om cirka fem miljarder år.",
+    "entusiast": "År 1996 fångade rymdteleskopet Hubble denna spektakulära bild av MyCn18, en ung bipolär planetarisk nebulosa på cirka 8 000 ljusårs avstånd i stjärnbilden Flugan. Bilden togs med kameran Wide Field and Planetary Camera 2 och avslöjade enastående detaljer med intrikata ringmönster etsade i timglasets väggar.\n\nNebulosans karakteristiska timglasform förklaras bäst genom modeller av interagerande vindar. När stjärnan lämnade den asymptotiska jättegrenen stötte den först ut en långsam och tät skiva av materia runt sitt ekvatorplan. Därefter blåste en snabb stjärnvind från den blottade stjärnkärnan hål i gasen och expanderade obehindrat längs polaxeln, vilket skapade de två symmetriska loberna.\n\nEn särskilt intressant upptäckt är att den centrala stjärnan sitter något förskjuten från nebulosans geometriska centrum. Det har fått astronomer att misstänka att objektet rymmer en dold dubbelstjärna, där en osynlig följeslagare har påverkat massförlusten och strukturens asymmetri genom gravitationell växelverkan. När stark ultraviolett strålning från stjärnan joniserar den omgivande gasen börjar olika grundämnen fluorescera vid specifika våglängder. Det ger upphov till de färgstarka ringarna av kväve, väte och syre som framträder så tydligt på bilden."
   },
   "terms": [
     {
-      "term": "supernovarest",
-      "explanation": "Ett expanderande moln av gas som bildas när en stjärna exploderar vid slutet av sitt liv."
+      "term": "planetarisk nebulosa",
+      "explanation": "Ett glödande moln av gas som kastas ut när en medeltung stjärna når slutet av sitt liv."
     },
     {
-      "term": "neutronstjärna",
-      "explanation": "En extremt tät rest av en kollapsad stjärnkärna som består nästan uteslutande av tätt packade neutroner."
+      "term": "vit dvärg",
+      "explanation": "Den extremt täta och heta kärna som blir kvar när en stjärna har förbrukat sitt bränsle."
     },
     {
-      "term": "Krabbpulsaren",
-      "explanation": "Den snabbt roterande neutronstjärnan i Krabbnebulosans centrum som sänder ut regelbundna pulser av strålning."
+      "term": "stjärnvind",
+      "explanation": "En ström av laddade partiklar och gas som blåses ut i rymden från en stjärna."
     },
     {
-      "term": "synkrotronstrålning",
-      "explanation": "Elektromagnetisk strålning som alstras när laddade partiklar accelereras till nära ljusets hastighet i ett magnetfält."
+      "term": "dubbelstjärna",
+      "explanation": "Ett system där två stjärnor kretsar kring varandra under inflytande av sin gemensamma gravitation."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant star exploding like an enormous cosmic firework! That is exactly what happened here. This picture shows the Crab Nebula, a glowing cloud of gas drifting through space. The blast hurled gas outwards at incredible speed, creating filaments that look like a colorful spiderweb. Right at the very center, a tiny but super heavy star spins around faster than the blades in a kitchen blender. It pumps out energy that makes the whole cloud shine.",
-      "nyborjare": "The Crab Nebula is one of the most famous sights in the night sky and represents a textbook supernova remnant. It formed when a massive star exploded at the end of its life. This cataclysm was witnessed by astronomers across the world in the year 1054, shining so brightly that it was visible in broad daylight for weeks. This detailed mosaic was assembled in 2005 from 24 exposures captured by the Hubble Space Telescope. The intricate filaments consist of hydrogen, oxygen, and sulfur expanding into space at millions of kilometers per hour. Deep inside rests a neutron star called the Crab Pulsar, spinning roughly 30 times per second and energizing the entire nebula.",
-      "entusiast": "Cataloged as Messier 1 and NGC 1952, the Crab Nebula lies roughly 6,500 light-years away in the constellation Taurus. This mosaic from 2005 was created from 24 individual pointings of the Wide Field and Planetary Camera 2 aboard the Hubble Space Telescope. It reveals the complex filamentary structure of the expanding ejecta, which travels through the interstellar medium at roughly 1,500 kilometers per second. At the heart of the remnant lies the Crab Pulsar, an isolated neutron star rotating around 30 times per second. The eerie diffuse blue glow permeating the interior is synchrotron radiation, produced as relativistic electrons spiral through intense magnetic fields generated by the pulsar wind."
+      "barn": "Look at this amazing picture! Doesn’t it look like a giant glowing hourglass floating in space? Right in the center is an old star that has reached the end of its life.\n\nAs it grew old, it started puffing out its outer gas like gentle soap bubbles. The gas glows in bright colors because the star is still very hot. One day, billions of years from now, our own Sun will do something just like this.",
+      "nyborjare": "In 1996, the Hubble Space Telescope was pointed toward the Hourglass Nebula, also known as MyCn18. The image captures a young planetary nebula, which is a glowing shell of gas cast off by a dying star similar to our Sun.\n\nInstead of expanding into a round bubble, the gas formed a striking hourglass shape. This happens because the dying star was surrounded by a dense ring of material around its equator. This ring forces the fast stellar wind to escape outward toward the poles in two opposite directions. At the center sits a white dwarf, the dense remnant of the stellar core. This object offers a preview of what will happen to our Sun in about five billion years.",
+      "entusiast": "In 1996, the Hubble Space Telescope captured this spectacular view of MyCn18, a young bipolar planetary nebula located roughly 8,000 light-years away in the southern constellation Musca. Taken with the Wide Field and Planetary Camera 2, the image revealed an intricate pattern of delicate etchings and rings carved into the hourglass walls.\n\nThe distinct hourglass shape is best explained by models of interacting stellar winds. As the central star evolved past the asymptotic giant branch, it first shed a dense, slow-moving torus of gas around its equatorial plane. Later, a fast stellar wind from the exposed core carved out cavities along the polar axis, blowing outward to form two symmetrical glowing lobes.\n\nRemarkably, the central white dwarf appears slightly offset from the geometric center of the nebula. This asymmetry has led astronomers to hypothesize that the system contains an unseen binary star companion, whose gravitational influence shaped the uneven mass loss. Intense ultraviolet radiation from the hot remnant ionizes the surrounding gas, causing nitrogen, hydrogen, and oxygen to fluoresce brilliantly at characteristic wavelengths."
     },
     "terms": [
       {
-        "term": "supernova remnant",
-        "explanation": "An expanding cloud of gas and dust created when a dying massive star explodes."
+        "term": "planetary nebula",
+        "explanation": "A glowing shell of gas ejected by an aging star near the end of its life."
       },
       {
-        "term": "neutron star",
-        "explanation": "An extremely dense collapsed stellar core left behind after a massive star undergoes a supernova."
+        "term": "white dwarf",
+        "explanation": "The extremely dense, hot core left behind after a star exhausts its nuclear fuel."
       },
       {
-        "term": "Crab Pulsar",
-        "explanation": "The rapidly spinning neutron star located at the center of the Crab Nebula."
+        "term": "stellar wind",
+        "explanation": "A stream of charged particles and gas blown outward into space from a star."
       },
       {
-        "term": "synchrotron radiation",
-        "explanation": "Electromagnetic radiation produced when charged particles travel at near light speed through magnetic fields."
+        "term": "binary star",
+        "explanation": "A system where two stars orbit each other bound by their mutual gravitational pull."
       }
     ],
     "quiz": [
       {
-        "q": "What originally caused the creation of the Crab Nebula?",
+        "q": "What is creating this glowing nebula?",
         "options": [
-          "A collision between two dwarf galaxies",
-          "A collapsing giant gas planet",
-          "An exploding massive star"
-        ],
-        "correct": 2,
-        "fact": "The Crab Nebula is a supernova remnant from a massive star whose death explosion was seen from Earth in 1054."
-      },
-      {
-        "q": "What is spinning at the center of the Crab Nebula?",
-        "options": [
-          "A rapidly rotating neutron star",
-          "A supermassive black hole",
-          "A cooling white dwarf"
-        ],
-        "correct": 0,
-        "fact": "At its core lies the Crab Pulsar, a neutron star spinning approximately 30 times each second."
-      },
-      {
-        "q": "When did astronomers on Earth observe the explosion?",
-        "options": [
-          "Around 300 BCE",
-          "In the year 1054",
-          "In the early 1800s"
+          "A colliding galaxy full of gas",
+          "A dying star ejecting its gas",
+          "A newborn star pulling in matter"
         ],
         "correct": 1,
-        "fact": "Chinese and Arab astronomers recorded the sudden appearance of the brilliant new star in the sky in 1054."
+        "fact": "Planetary nebulae form when stars similar to our Sun die and cast off their outer layers."
+      },
+      {
+        "q": "What type of nebula is shown in the image?",
+        "options": [
+          "Planetary nebula",
+          "Dark nebula",
+          "Supernova remnant"
+        ],
+        "correct": 0,
+        "fact": "Despite the name, planetary nebulae have nothing to do with planets; they are glowing shells of stellar gas."
+      },
+      {
+        "q": "Why did the nebula take the shape of an hourglass?",
+        "options": [
+          "Strong magnetic fields bend the star's light",
+          "A black hole pulls on the nebula",
+          "Dense matter at the equator channels the gas"
+        ],
+        "correct": 2,
+        "fact": "A dense ring of matter around the star's equator forces the escaping stellar winds toward the poles."
       }
     ]
   }

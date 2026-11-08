@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-08",
+  "title": "Midwestern City Lights",
+  "title_sv": "Stadsljus över Mellanvästern",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg",
+  "link": "https://www.nasa.gov/image-detail/iss075e0227352/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/iss075e0227352/",
+  "px": [
+    1600,
+    1066
+  ],
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQIH/8QAJhAAAgICAQMCBwAAAAAAAAAAAQIDEQAEEhMhMUFhBSJRgZGhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAFBAhH/2gAMAwEAAhEDEQA/AOb5RANfhcrTc/RUUf280jRSfmNfbKYo4em5ldww7qFFg+x79sPSZpNupIJNTXlcr4IjJzG9Duvzm2tecMe7PIpFfrHrJCkZCBQeBYBbJu/X3yfa+I7TwHXeZ+n6pZ/HnuMZ1gs1EHaqs1d1lLwcNWKXnfUJ7V4rDDJphSyFVBWw1EEg+R9MW9+MMMQ//9k=",
+  "quiz": [
+    {
+      "q": "Vad orsakar det tunna gröna skenet ovanför jordens krökning?",
+      "options": [
+        "Reflekterat ljus från månen",
+        "Kemiska reaktioner i atmosfären",
+        "Solstormar som träffar ozonlagret"
+      ],
+      "correct": 1,
+      "fact": "Fenomenet kallas luftglöd och uppstår när atomer i den övre atmosfären avger ljus under natten."
+    },
+    {
+      "q": "Hur högt över jorden kretsar Internationella rymdstationen normalt?",
+      "options": [
+        "Cirka 400 kilometer",
+        "Cirka 800 kilometer",
+        "Cirka 1 200 kilometer"
+      ],
+      "correct": 0,
+      "fact": "Internationella rymdstationen ligger i låg omloppsbana på cirka 400 kilometers höjd över marken."
+    },
+    {
+      "q": "Vad är den främsta astronomiska nackdelen med städers belysning?",
+      "options": [
+        "Den värmer upp atmosfären",
+        "Den skapar radiostörningar",
+        "Ljusföroreningar försvårar rymdobservationer"
+      ],
+      "correct": 2,
+      "fact": "Artificiellt ljus sprids i atmosfären och gör det svårare för markbaserade teleskop att se svaga rymdobjekt."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att titta ner på jorden från rymden mitt i natten! Städerna lyser upp som glittrande guldstoft eller ett hav av eldflugor i mörkret. När människorna nere på marken sover syns tusentals gatlyktor, bilar och hus ända upp till rymdstationen. Man kan till och med se konturerna av kuster och sjöar där det är alldeles mörkt. Det ser nästan ut som ett magiskt nätverk av stjärnor fast på vår egen planet.",
+    "nyborjare": "Från Internationella rymdstationen syns människans närvaro tydligt när natten faller. Den här vyn visar nattbelysning som sträcker sig från Mellanvästern mot USA:s östkust. Stora metropoler framträder som ljusstarka punkter, sammanlänkade av motorvägar som liknar glödande trådar. Den skarpa kontrasten mellan upplysta städer och mörka landsbygdsområden visar hur tätt befolkade olika regioner är. Ovanför horisonten syns ofta ett svagt, gröngult band som kallas luftglöd, orsakat av kemiska processer i den övre atmosfären. Bilden illustrerar också fenomenet ljusförorening, där spilljus sprids i luften. För astronomer på marken är detta ljus ett stort hinder eftersom det överglänser universums avlägsna stjärnor och galaxer. Från omloppsbana erbjuder samma ljus emellertid en fascinerande överblick över vår civilisation.",
+    "entusiast": "Fotografiet är taget från Internationella rymdstationen i låg omloppsbana på cirka 400 kilometers höjd. Vyn fångar den nattliga sidan av Nordamerika bara några timmar före gryningen. De glödande klustren representerar städer i Mellanvästern och österut, där äldre natriumlampor och modern LED-belysning skapar karakteristiska färg- och intensitetsskillnader. Rymdstationen rör sig med en hastighet av ungefär 27 600 kilometer i timmen, vilket kräver ljuskänsliga kamerasensorer och korta slutartider för att undvika rörelseoskärpa. Längs jordens krökning framträder luftglöd, en kemiluminescens i mesopausen och jonosfären på mellan 80 och 100 kilometers höjd. Detta fenomen uppstår när atomer och molekyler, främst syre som joniserats av solens ultravioletta strålning under dagen, återförenas under natten och avger ljus. Utöver att kartlägga urbanisering belyser dessa nattvyer det växande problemet med ljusförorening. Spridningen av artificiellt ljus ökar natthimlens bakgrundsstrålning och försvårar observationer för markbaserade astronomiska teleskop."
+  },
+  "terms": [
+    {
+      "term": "låg omloppsbana",
+      "explanation": "En bana runt jorden på en höjd mellan ungefär 160 och 2 000 kilometer."
+    },
+    {
+      "term": "luftglöd",
+      "explanation": "Ett svagt ljussken i atmosfären som orsakas av kemiska reaktioner under natten."
+    },
+    {
+      "term": "ljusförorening",
+      "explanation": "Överskott av artificiellt nattljus som lyser upp himlen och stör astronomiska observationer."
+    },
+    {
+      "term": "kemiluminescens",
+      "explanation": "Utsändning av ljus som uppstår som en direkt följd av en kemisk reaktion."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine looking down at Earth from space in the middle of the night! Cities sparkle like piles of glittering gold dust or a field of fireflies in the dark. While people on the ground are asleep, thousands of streetlamps, cars, and buildings shine all the way up to the space station. You can even trace the dark shapes of lakes and oceans where no lights shine. It looks like a glowing web of stars right on our home planet.",
+      "nyborjare": "From the International Space Station, human activity becomes brilliantly visible after sunset. This view captures night lights stretching across the American Midwest toward the Atlantic coast. Metropolitan centers appear as bright clusters connected by glowing highway corridors. Above the curved horizon, a delicate green band known as airglow traces the upper atmosphere, produced by natural chemical reactions. The image also highlights the impact of light pollution, where wasted artificial light scatters into the sky. For astronomers operating ground-based observatories, this artificial glow washes out faint celestial targets like distant galaxies and nebulae. From orbit, however, the spectacle offers a striking reminder of civilization across the globe.",
+      "entusiast": "Captured from the International Space Station in low Earth orbit at an altitude of approximately 400 kilometers, this photograph reveals North America a few hours before sunrise. Urban centers throughout the Midwest and East Coast stand out clearly, with differences in hue reflecting older sodium fixtures and modern LED installations. Orbiting at roughly 27,600 kilometers per hour, astronauts rely on high-sensitivity digital sensors and rapid shutter speeds to prevent motion blur during night passes. Along Earth's limb, airglow produces a visible luminescence within the mesopause and lower ionosphere, roughly 80 to 100 kilometers high. This chemiluminescence occurs when atmospheric atoms and molecules, ionized by solar ultraviolet radiation during the day, undergo radiative recombination at night. Beyond mapping infrastructure, these nocturnal images monitor light pollution and atmospheric scattering, providing researchers with essential quantitative data to track urban energy consumption and skyglow."
+    },
+    "terms": [
+      {
+        "term": "low Earth orbit",
+        "explanation": "An orbit around Earth with an altitude generally below 2,000 kilometers."
+      },
+      {
+        "term": "airglow",
+        "explanation": "A faint emission of light by a planetary atmosphere caused by chemical reactions."
+      },
+      {
+        "term": "light pollution",
+        "explanation": "Excessive artificial light in the night sky that washes out astronomical objects."
+      },
+      {
+        "term": "chemiluminescence",
+        "explanation": "The emission of light as the direct result of a chemical reaction."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What causes the thin green glow seen above Earth's horizon?",
+        "options": [
+          "Reflected light from the Moon",
+          "Chemical reactions in the upper atmosphere",
+          "Solar storms directly hitting ozone"
+        ],
+        "correct": 1,
+        "fact": "The phenomenon is called airglow and occurs when excited atoms in the upper atmosphere emit light at night."
+      },
+      {
+        "q": "At what altitude does the International Space Station typically orbit?",
+        "options": [
+          "About 400 kilometers",
+          "About 800 kilometers",
+          "About 1,200 kilometers"
+        ],
+        "correct": 0,
+        "fact": "The space station circles Earth in low Earth orbit at an average altitude of approximately 400 kilometers."
+      },
+      {
+        "q": "What is the main astronomical problem caused by city lighting?",
+        "options": [
+          "It alters Earth's climate balance",
+          "It interferes with radio waves",
+          "Light pollution hinders deep sky observations"
+        ],
+        "correct": 2,
+        "fact": "Artificial light scatters in the atmosphere, creating skyglow that makes faint stars and galaxies invisible to ground telescopes."
+      }
+    ]
+  }
+}
