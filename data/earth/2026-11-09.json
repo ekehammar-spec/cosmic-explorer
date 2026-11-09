@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-09",
+  "title": "Ozone Hole Reaches Its 2026 Maximum",
+  "title_sv": "Ozonhålet når sitt maximum år 2026",
+  "place": "Antarktis",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+  "credit": "NASA Earth Observatory/Lauren Dauphin",
+  "source": "",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+  "w": 467,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAgQGAAMF/8QALRAAAgECAwQJBQAAAAAAAAAAAQIDAAQFERIGITGhExQiMkFCUWFxI1JigdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAgABAxL/2gAMAwEAAhEDEQA/ALXGcV6gixxAPcSDNQeCj1NS4W7xGZ2nuZ5AvgGIH6A3VuxJzcYzc6vK+kewApq9xBcLS3gjGgsupmAzNZ6usz1cM81s+DFbeW+sWzhmkUKe45LKfkGqjC8QTELcuBokQ6ZEz7p/lcbrCX0Dat0iLnmTvI8aW2ek04/IEPYmjII91yIPM0Z6VoeqisrNc3Mx+3azxJ5wPpzjUD+Q4jlnQ3IjxC3jcGPpAoB1NluHoarLm2hu4GhnQPG3EGpqbZ2SGUrZXbBAe7LGTzHGnoDoeVKCWb7EUeYWltKiZSTSjTqA7KD5NObJ2bGWS8YdhV6NCfMc955ZUdrs8JLgG+nlkH2KhVT8nOqSONIo1jjUKijIKBkAKoGgeTJu010p/9k=",
+  "levels": {
+    "barn": "Bilden visar ett stort färgat område över Antarktis som forskarna kallar för ozonhålet. Det är inte ett hål som man kan ramla ner i, utan ett område där ett osynligt skydd i luften har blivit tunnare. Detta skydd kallas ozonlagret och fungerar som ett solskenplåster som skyddar jorden mot solens farliga strålar. Bilden visar hur stor och tunn denna fläck var år 2026. Forskare håller ett vakande öga på ozonlagret för att se till att det mår bra.",
+    "nyborjare": "Satellitbilden visar ozonhålet över Antarktis den 18 september 2026, den dag då hålet nådde sin största utbredning för året. De röda och gula områdena markerar var ozonkoncentrationen har sjunkit under tröskelvärdet på 220 Dobson-enheter. Ordet hål är en metafor eftersom det inte handlar om en tom rymd utan om ett område med extremt tunt ozon. Stratosfäriskt ozon fungerar som jordens naturliga solskydd genom att absorbera skadlig ultraviolett strålning från solen. Förtunningen orsakas till stor del av klorfluorkarboner eller CFC-föreningar som har brutits ned av solljus i atmosfären och släppt ut kloratomerna som förstör ozonet. Tack vare Montrealprotokollet fasas dessa ämnen ut och forskare räknar med att ozonlagret återhämtar sig fram emot 2070-talet.",
+    "entusiast": "Visualiseringen baseras på data insamlade den 18 september 2026 av instrumentet OMPS ombord på NOAA-20-satelliten, vilket visar årets maximala utbredning av det antarktiska ozonhålet. Serien som helhet bygger på mätningar från flera generationer satellitinstrument inklusive TOMS på Nimbus-7, OMI på Aura samt tidigare iterationer av OMPS på Suomi NPP. Det så kallade ozonhålet definieras inte som en fysisk tomhet i atmosfären utan som en geografisk region i stratosfären där ozonkoncentrationerna underskrider det historiska gränsvärdet på 220 Dobson-enheter. År 2026 orsakade en ovanligt stark antarktisk polärvirvel ideala förhållanden för ozonnedbrytning, vilket resulterade i det sjunde största medelområdet under de fyrtioatta år som mätningarna har pågått. De underliggande kemiska mekanismerna drivs av klor- och bromföreningar från mänskliga utsläpp, främst historiska klorfluorkarboner som transporterats till stratosfären där ultraviolett strålning spjälkar dem och frigör reaktiva halogenatomer som katalytiskt förstör ozonmolekyler. Globalt samarbete genom Montrealprotokollet har minskat dessa utsläpp men det tar decennier innan stratosfäriska koncentrationer återgår till nivåerna före 1980."
+  },
+  "terms": [
+    {
+      "term": "Ozonlager",
+      "explanation": "Ett lager i stratosfären som skyddar livet på jorden genom att absorbera skadlig ultraviolett ljus."
+    },
+    {
+      "term": "Dobson-enhet",
+      "explanation": "En måttenhet som används för att mäta den totala mängden ozon i en kolonn av atmosfären."
+    },
+    {
+      "term": "Klorfluorkarbon",
+      "explanation": "Långlivade kemiska föreningar som tidigare användes i kylskåp och aerosolsprejer och som bryter ned ozon."
+    },
+    {
+      "term": "Montrealprotokollet",
+      "explanation": "Ett internationellt fördrag från 1987 som fasar ut produktionen och konsumtionen av ozonnedbrytande kemikalier."
+    },
+    {
+      "term": "Polärvirvel",
+      "explanation": "Ett stort storskaligt cirkulerande vädersystem i stratosfären över Antarktis som påverkar temperatur och ozonnedbrytning."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows a large colored area over Antarctica that scientists call the ozone hole. It is not an actual hole you can fall through, but an area where an invisible shield in the air has become thinner. This shield is called the ozone layer and it works like sunglasses for the Earth, protecting us from the suns harmful rays. The picture shows how big and thin this patch was in the year 2026. Scientists keep a close watch on the ozone layer to make sure it heals.",
+      "nyborjare": "The satellite image shows the Antarctic ozone hole on September 18, 2026, the day it reached its maximum extent for the year. The red and yellow areas mark where ozone concentrations have dropped below the historical threshold of 220 Dobson Units. The word hole is a metaphor because it does not refer to an empty space but to an area with extremely thin ozone. Stratospheric ozone acts as Earths natural sunscreen by absorbing harmful ultraviolet radiation from the sun. This thinning is largely caused by chlorofluorocarbons or CFCs that are broken down by sunlight in the atmosphere, releasing chlorine atoms that destroy ozone. Thanks to the Montreal Protocol these substances are being phased out and scientists estimate the ozone layer will recover by the 2070s.",
+      "entusiast": "The visualization is based on data collected on September 18, 2026, by the OMPS instrument aboard the NOAA-20 satellite, showing the annual maximum extent of the Antarctic ozone hole. The data series relies on measurements from multiple generations of satellite instruments including TOMS on Nimbus-7, OMI on Aura, and previous iterations of OMPS on Suomi NPP. The ozone hole is defined not as a physical void in the atmosphere but as a geographic region in the stratosphere where ozone concentrations fall below the historical threshold of 220 Dobson Units. In 2026, an unusually strong Antarctic polar vortex created ideal conditions for ozone depletion, resulting in the seventh largest average size in forty-eight years of monitoring. The underlying chemical mechanisms are driven by chlorine and bromine compounds from human emissions, primarily historical chlorofluorocarbons transported to the stratosphere where ultraviolet radiation cleaves them to release reactive halogen atoms that catalytically destroy ozone molecules. Global cooperation through the Montreal Protocol has reduced these emissions, but it will take decades for stratospheric concentrations to return to pre-1980 levels."
+    },
+    "terms": [
+      {
+        "term": "Ozone layer",
+        "explanation": "A layer in the stratosphere that protects life on Earth by absorbing ultraviolet light."
+      },
+      {
+        "term": "Dobson Unit",
+        "explanation": "A unit of measurement used to express the total amount of ozone in a column of the atmosphere."
+      },
+      {
+        "term": "Chlorofluorocarbon",
+        "explanation": "Long-lived chemical compounds formerly used in refrigerators and aerosol sprays that deplete stratospheric ozone."
+      },
+      {
+        "term": "Montreal Protocol",
+        "explanation": "A 1987 international treaty designed to phase out the production and consumption of ozone-depleting chemicals."
+      },
+      {
+        "term": "Polar vortex",
+        "explanation": "A large-scale atmospheric circulation in the stratosphere over Antarctica that influences temperature and ozone depletion."
+      }
+    ],
+    "place": "Antarctica"
+  }
+}

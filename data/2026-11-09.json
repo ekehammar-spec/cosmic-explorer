@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-09",
+  "title": "Hubble Reveals Cosmic Mystery",
+  "title_sv": "NGC 4449",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
+  "link": "https://www.nasa.gov/image-detail/full-res-for-display-1-3/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/full-res-for-display-1-3/",
+  "px": [
+    1600,
+    1031
+  ],
+  "w": 480,
+  "h": 309,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgYE/8QAIhAAAQMEAQUBAAAAAAAAAAAAAQACAwQFESESEzFBQlGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREBAAMBAQAAAAAAAAAAAAAAAAEhQRFx/9oADAMBAAIRAxEAPwDC0ceSStFQWhtcHbGhkHsVnqWQMO04juPRcDE4jC3jO26p7B0OZLXtHrnyk9fSCnDXbw7trSdC8umgkE0x44xkpLdqlruDGStlA8tR6ZmO0Vh5Ax+qS931CFFTmfqgnKEIT//Z",
+  "quiz": [
+    {
+      "q": "Vad är en dvärggalax för något?",
+      "options": [
+        "En mindre galax med miljarder stjärnor",
+        "Ett ungt klot av enbart gas",
+        "En rest efter en kraschad galax"
+      ],
+      "correct": 0,
+      "fact": "En dvärggalax innehåller betydligt färre stjärnor än stora galaxer som Vintergatan men har ändå en egen sammanhållen struktur."
+    },
+    {
+      "q": "Hur bildas grundämnet syre i universum?",
+      "options": [
+        "Genom vulkanutbrott på heta planeter",
+        "Inne i stjärnors heta inre",
+        "När fria gasmoln kyls ner"
+      ],
+      "correct": 1,
+      "fact": "Syre och andra tunga grundämnen skapas genom fusion i stjärnornas kärnor och sprids sedan ut i rymden."
+    },
+    {
+      "q": "Varför lämnar syre ibland en galax?",
+      "options": [
+        "Kraftiga stjärnvindar blåser bort gasen",
+        "Tyngdkraften drar bort ämnet till rymden",
+        "Syret reagerar bort i kalla gasmoln"
+      ],
+      "correct": 0,
+      "fact": "Starka vindar från unga, massiva stjärnor kan driva ut gas och grundämnen i rymden utanför galaxen."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en väldig virvel av gnistrande stjärnor som kokar av liv. I den här lilla galaxen föds massor av nya stjärnor hela tiden. När de blir stora kastar de ut glödande gas och syre långt ut i rymden som en jättelik blåsmaskin.",
+    "nyborjare": "Bilden visar dvärggalaxen NGC 4449, som är fylld av intensiva stjärnfabriker. Forskare som studerar hur gas rör sig har upptäckt att galaxen har svårt att behålla det syre som dess stjärnor producerar. Starka stjärnvindar och explosioner från döende stjärnor skapar utflöden som driver bort stora mängder gas ut i rymden.",
+    "entusiast": "NGC 4449 ingår i studien Galaxies Losing Oxygen via Winds, förkortad GLOW. Observationer med rymdteleskop visar att mindre galaxer har en grundare gravitationsbrunn, vilket gör det lättare för energirika vindar från massiva stjärnhopar att accelerera gasen förbi flykthastigheten. Denna process förklarar hur kemiska grundämnen sprids till det intergalaktiska mediet och formar den kemiska utvecklingen i det tidiga universum."
+  },
+  "terms": [
+    {
+      "term": "dvärggalax",
+      "explanation": "En mindre typ av stjärnsystem som ofta kretsar kring större galaxer."
+    },
+    {
+      "term": "stjärnvindar",
+      "explanation": "Flöden av laddade partiklar som ständigt strömmar ut från stjärnors ytor."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat optiskt instrument som placerats i omloppsbana ovanför jordens atmosfär."
+    },
+    {
+      "term": "flykthastighet",
+      "explanation": "Den hastighet ett föremål minst måste uppnå för att lämna en himlakropps dragningskraft."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a vast swirl of sparkling stars that is boiling with life. In this small galaxy, lots of new stars are born all the time. When they grow big, they throw glowing gas and oxygen far out into space like a giant blower.",
+      "nyborjare": "The image shows the dwarf galaxy NGC 4449, which is filled with intense star-forming regions. Researchers studying how gas moves have discovered that the galaxy struggles to hold onto the oxygen produced by its stars. Strong stellar winds and explosions from dying stars create outflows that push large amounts of gas out into space.",
+      "entusiast": "NGC 4449 is part of the Galaxies Losing Oxygen via Winds study, abbreviated as GLOW. Observations with space telescopes show that smaller galaxies have a shallower gravitational potential well, making it easier for energetic winds from massive star clusters to accelerate gas past the escape velocity. This process explains how chemical elements spread into the intergalactic medium and shape the chemical evolution of the universe."
+    },
+    "terms": [
+      {
+        "term": "dwarf galaxy",
+        "explanation": "A smaller type of stellar system that often orbits larger galaxies."
+      },
+      {
+        "term": "stellar winds",
+        "explanation": "Streams of charged particles that continuously flow outward from the surfaces of stars."
+      },
+      {
+        "term": "space telescopes",
+        "explanation": "Advanced optical instruments placed in orbit above the Earth atmosphere."
+      },
+      {
+        "term": "escape velocity",
+        "explanation": "The minimum speed needed for an object to break free from a celestial body gravitational pull."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a dwarf galaxy?",
+        "options": [
+          "A smaller galaxy with billions of stars",
+          "A young sphere made entirely of gas",
+          "A remnant left after a galaxy crash"
+        ],
+        "correct": 0,
+        "fact": "A dwarf galaxy contains significantly fewer stars than massive galaxies like the Milky Way but still forms its own bound system."
+      },
+      {
+        "q": "How is the element oxygen created?",
+        "options": [
+          "Through volcanic eruptions on hot planets",
+          "Inside the hot cores of stars",
+          "When free gas clouds cool down"
+        ],
+        "correct": 1,
+        "fact": "Oxygen and other heavy elements are forged through nuclear fusion inside stars and later dispersed into space."
+      },
+      {
+        "q": "Why does oxygen sometimes leave a galaxy?",
+        "options": [
+          "Powerful stellar winds blow the gas away",
+          "Gravity pulls the element into deep space",
+          "Oxygen reacts away inside cold gas clouds"
+        ],
+        "correct": 0,
+        "fact": "Strong winds from young, massive stars can drive gas and elements out into the space surrounding the galaxy."
+      }
+    ]
+  }
+}

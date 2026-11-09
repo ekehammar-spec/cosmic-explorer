@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-09",
+  "media_type": "image",
+  "title": "NGC 4449",
+  "title_en": "Hubble Reveals Cosmic Mystery",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png?w=480"
+ },
+ {
   "date": "2026-11-08",
   "media_type": "image",
   "title": "Stadsljus över Mellanvästern",
@@ -170,9 +177,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Hantelnebulosan",
-  "title_en": "Close-up of M27, the Dumbbell Nebula",
-  "thumb": "https://images-assets.nasa.gov/image/PIA04249/PIA04249~small.jpg"
+  "title": "Helixnebulosan",
+  "title_en": "The Mark of a Dying Star",
+  "thumb": "https://images-assets.nasa.gov/image/PIA03678/PIA03678~small.jpg"
  },
  {
   "date": "2026-10-14",

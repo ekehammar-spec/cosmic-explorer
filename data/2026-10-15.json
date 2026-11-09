@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Close-up of M27, the Dumbbell Nebula",
-  "title_sv": "Hantelnebulosan",
+  "title": "The Mark of a Dying Star",
+  "title_sv": "Helixnebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA04249/PIA04249~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA04249/PIA04249~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA04249/PIA04249~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA04249",
-  "credit": "NASA/JPL/STScI",
-  "taken": "2003",
+  "url": "https://images-assets.nasa.gov/image/PIA03678/PIA03678~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA03678/PIA03678~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA03678/PIA03678~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA03678",
+  "credit": "NASA/JPL-Caltech/ESA",
+  "taken": "2006",
   "src": "library",
-  "id": "PIA04249",
+  "id": "PIA03678",
   "px": [
-    1262,
-    750
+    1715,
+    1920
   ],
-  "w": 640,
-  "h": 380,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAATACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwQH/8QAJBAAAQIGAgEFAAAAAAAAAAAAAQACAwQFESExIkFRBhITMoH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBQIE/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECAyExETISIiP/2gAMAwEAAhEDEQA/AMJNz5XLbEE5uE1gyZqDHE8Wg/q42sDTc5zrpNZBwYy4wD0tyrxyth1vPi9EvUYIl32tx0D5SGZOyQbL0aoUmHUYYIIa84aoWqU6LIzb4MSzraIQKSeHsdx4yimg52mkobWHR2hC659QK+xqHu+b234+FM+psua4/YnaEKRa/oilBerP/9k=",
+  "w": 571,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgQCBwD/xAAlEAACAQQCAgICAwAAAAAAAAABAgMABBESBSExURMUBoFBYXH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxESIf/aAAwDAQACEQMRAD8AJW/G3mwS2gkz1lte6plsr23QGW3b/HTNK7YfXtWlZmCAZOD3gfwK1a8ykr/Xu4g0DjHZ7H7NQrqttBZcliVGAznlzGhBOmjjyPGaipn+QcTFHvLBsUPeDQ5hqxHo0q20QsuTpHE3lvyHHi3mkSNyuuzdAn+68/EfBKN3EmOwiDO379UEt7to01BPXo1YOdu1gMcU7r16rqNZUOUPkTcMdMTcoZBaSJOME5wKCSofkbwe/Nbe5kYlnck4x5qcu2ayqR6YSwn/2Q==",
   "quiz": [
     {
       "q": "Vad är en planetarisk nebulosa för något?",
       "options": [
-        "Ett moln av gas runt en nyfödd stjärna",
-        "Resterna efter en döende stjärnas yttre lager",
-        "Ett tidigt stadium i bildandet av en planet"
+        "En födelseplats för nya planeter i rymden",
+        "Ett gasmoln som kastas ut från en döende stjärna",
+        "En planet som har brutits sönder av stark gravitation"
       ],
       "correct": 1,
-      "fact": "Trots det missvisande namnet har en planetarisk nebulosa inget med planeter att göra, utan bildas när en åldrande stjärna stöter bort sitt yttre hölje i rymden."
+      "fact": "En planetarisk nebulosa bildas när en stjärna i slutet av sitt liv stöter bort sina yttre lager av gas."
     },
     {
-      "q": "Vilken roll spelar Hubbleteleskopet för denna typ av bilder?",
+      "q": "Vilken roll spelar en vit dvärg i nebulosan?",
       "options": [
-        "Det tar skarpa bilder ovanför jordens atmosfär",
-        "Det fångar upp radiovågor från avlägsna galaxer",
-        "Det landar på nebulosans yta för att mäta gasen"
+        "Den är stjärnans kvarlämnade och extremt täta kärna",
+        "Den är en nyfödd stjärna som värmer upp gasen",
+        "Den är en planet som kretsar kring nebulosan"
       ],
       "correct": 0,
-      "fact": "Genom att kretsa utanför den störande atmosfären kan Hubbleteleskopet ta extremt detaljerade närbilder av svaga himlakroppar."
+      "fact": "Den vita dvärgen är den lilla, heta kärnan som blir kvar när stjärnan har gjort sig av med sina yttre lager."
     },
     {
-      "q": "Vad händer med stjärnan i centrum av nebulosan?",
+      "q": "Hur bildas de komplexa strukturerna i nebulosan?",
       "options": [
-        "Den kollapsar till ett stort svart hål",
-        "Den slocknar helt och blir till stoft",
-        "Den drar ihop sig till en vit dvärg"
+        "Genom att materia sugs in i ett svart hål",
+        "Genom att stjärnvindar och magnetfält formar gasen",
+        "Genom kollisioner mellan två stora galaxer"
       ],
-      "correct": 2,
-      "fact": "När de yttre lagren har kastats ut återstår endast stjärnans heta, tätt packade kärna som kallas för en vit dvärg."
+      "correct": 1,
+      "fact": "Starka vindar från den centrala stjärnan och magnetiska fält karvar ut de intrikata mönstren i det utstötta gasmolnet."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en gammal stjärna nyser ut moln av färgstark gas i rymden. Det ser ut som lysande knutar som skjuter iväg åt alla håll. Den här bilden visar just en sådan gaspuff runt en stjärna som håller på att bli gammal. Rymdteleskopet Hubble har tagit bilden för att vi ska få se hur vackert det glittrar i mörkret därute.",
-    "nyborjare": "Hantelnebulosan är ett slående exempel på en planetarisk nebulosa, vilket är resterna av en stjärna som liknar vår sol och som har nått slutet av sitt liv. När stjärnan åldras kastar den ut sina yttre gaslager i rymden. Denna glödande gas bildar spektakulära mönster av lysande knutar och stråk. Bilden har tagits med WFC3-kameran ombord på rymdteleskopet Hubble, som med sin placering ovanför jordens atmosfär kan fånga upp otroligt skarpa detaljer från himlen.",
-    "entusiast": "M27, allmänt känd som Hantelnebulosan, är en framträdande planetarisk nebulosa belägen på stjärnhimlen. Denna närbild fokuserar på de intrikata detaljerna i de glödande gasknutarna som skapades när en åldrande stjärna gjorde sin sista krampaktiga urladdning och stötte bort sina yttre höljen. Kameran Wide Field Camera 3, som konstruerats av JPL för NASA:s rymdteleskop Hubble, har fångat de komplexa strukturerna där joniserad gas lyses upp av den kvarvarande centrala stjärnan. Dessa observationer ger forskare viktig insikt i de sena stadierna av stjärnors evolution och spridningen av tunga grundämnen i den interstellära rymden."
+    "barn": "Tänk dig att en stjärna har levt i miljarder år och till slut börjar bli trött. När den dör puffar den iväg sina färgglada kläder ut i rymden som en stor, glödande ring av moln. Det ser ut som ett gigantiskt öga som tittar på oss långt borta i stjärnbilden Vattumannen. Det är som ett sista vackert fyrverkeri innan stjärnan somnar som en liten glödlampa.",
+    "nyborjare": "Sex hundra femtio ljusår bort i stjärnbilden Vattumannen vägrar en död stjärna att tyna bort i tysthet. Den har storleken som jorden och kallas för en vit dvärg, vilket är den extremt tunga och kompakta rest som blir kvar när en stjärna som solen har gjort slut på sitt bränsle. Innan den slocknar helt stöter den bort sina yttre gaslager ut i rymden och bildar en planetarisk nebulosa. Bilden visar det enorma och färgstarka gasmoln som omger den döende stjärnan.",
+    "entusiast": "Helixnebulosan, belägen sex hundra femtio ljusår bort i stjärnbilden Vattumannen, representerar en av de närmaste och mest studerade planetariska nebulosorna. Den centrala vita dvärgen sänder ut intensiv ultraviolett strålning som får den utstötta gasen att lysa i olika färger beroende på grundämne. Observationer från rymdteleskop som Hubble och Spitzer har avslöjat en komplex struktur med tusentals kometliknande globuler av tät gas inbäddade i nebulosans inre regioner. Dessa formationer ger viktig insikt om hur stjärnvindar och fotojonisering interagerar när stjärnor med låg till medelhög massa avslutar sin evolution."
   },
   "terms": [
     {
       "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och stoft ute i rymden."
+      "explanation": "Ett enormt moln av gas och stoft som svävar ute i rymden mellan stjärnorna."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset färdas under ett helt jordår, vilket används för att mäta rymdavstånd."
+    },
+    {
+      "term": "vit dvärg",
+      "explanation": "Den mycket tunga och kompakta rest som blir kvar efter att en normalstjärna har dött."
+    },
+    {
+      "term": "stjärnbild",
+      "explanation": "En grupp av stjärnor som från jorden sett bildar ett igenkännbart mönster på natthimlen."
     },
     {
       "term": "rymdteleskop",
-      "explanation": "Ett avancerat optiskt instrument som kretsar i omloppsbana runt jorden för att observera universum."
-    },
-    {
-      "term": "atmosfär",
-      "explanation": "Det lager av gaser som omger en planet."
-    },
-    {
-      "term": "evolution",
-      "explanation": "Den långsamma process under vilken astronomiska objekt förändras och utvecklas över tid."
+      "explanation": "Ett avancerat instrument placerat i omloppsbana runt jorden för att observera universum utan atmosfärens störningar."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine an old star sneezing out colorful clouds of gas into space. It looks like glowing knots shooting off in all directions. This picture shows just such a gas puff around a star that is growing old. The Hubble space telescope took the picture so we can see how beautifully it sparkles in the darkness out there.",
-      "nyborjare": "The Dumbbell Nebula is a striking example of a planetary nebula, which is the remains of a star similar to our sun that has reached the end of its life. As the star ages, it ejects its outer gas layers into space. This glowing gas forms spectacular patterns of luminous knots and streaks. The image was captured by the WFC3 camera aboard the Hubble Space Telescope, which, positioned above Earth's atmosphere, can capture incredibly sharp details from the sky.",
-      "entusiast": "M27, commonly known as the Dumbbell Nebula, is a prominent planetary nebula showcasing complex morphological features. This close-up focuses on the intricate details of the glowing gas knots created when an aging star underwent its final hurrah, expelling its outer envelopes into the surrounding space. The Wide Field Camera 3, built and designed by JPL for NASA's Hubble Space Telescope, captured the complex structures where ionized gas is illuminated by the remaining central star. These observations provide astronomers with vital insight into the late stages of stellar evolution and the enrichment of the interstellar medium."
+      "barn": "Imagine a star that has lived for billions of years and finally starts getting tired. When it dies, it puffs its colorful clothes out into space like a big glowing ring of clouds. It looks like a giant eye watching us far away in the constellation Aquarius. It is like one last beautiful firework before the star fades into a small lightbulb.",
+      "nyborjare": "Six hundred and fifty light-years away in the constellation Aquarius, a dead star is refusing to fade away quietly. It is about the size of Earth and is called a white dwarf, which is the extremely heavy and compact remnant left behind when a star like the Sun runs out of fuel. Before fading completely, it ejects its outer gas layers into space and forms a planetary nebula. The image reveals the enormous and colorful gas cloud surrounding the dying star.",
+      "entusiast": "The Helix Nebula, located six hundred and fifty light-years away in the constellation Aquarius, represents one of the closest and most studied planetary nebulae. The central white dwarf emits intense ultraviolet radiation that causes the ejected gas to glow in different colors depending on the chemical element. Observations from space telescopes such as Hubble and Spitzer have revealed a complex structure with thousands of comet-like globules of dense gas embedded in the inner regions of the nebula. These formations provide vital insight into how stellar winds and photoionization interact when low to intermediate-mass stars complete their evolution."
     },
     "terms": [
       {
         "term": "nebula",
-        "explanation": "A giant cloud of dust and gas found out in space."
+        "explanation": "A massive cloud of gas and dust floating out in space between the stars."
       },
       {
-        "term": "atmosphere",
-        "explanation": "The layer of gases surrounding a planet."
+        "term": "light-year",
+        "explanation": "The distance that light travels during one Earth year, used for measuring cosmic distances."
       },
       {
-        "term": "evolution",
-        "explanation": "The gradual process by which astronomical objects change and develop over time."
+        "term": "white dwarf",
+        "explanation": "The very dense and compact remnant left behind after a normal star has died."
       },
       {
-        "term": "stellar",
-        "explanation": "Relating to a star or stars."
+        "term": "constellation",
+        "explanation": "A group of stars that from Earth appears to form a recognizable pattern in the night sky."
+      },
+      {
+        "term": "space telescope",
+        "explanation": "An advanced instrument placed in orbit around Earth to observe the universe without atmospheric interference."
       }
     ],
     "quiz": [
       {
-        "q": "What is a planetary nebula actually made of?",
+        "q": "What is a planetary nebula?",
         "options": [
-          "A cloud of gas around a newborn star",
-          "The outer layers of a dying star",
-          "An early stage in planet formation"
+          "A birthplace for new planets in space",
+          "A gas cloud ejected from a dying star",
+          "A planet torn apart by strong gravity"
         ],
         "correct": 1,
-        "fact": "Despite the misleading name, a planetary nebula has nothing to do with planets; it forms when an aging star sheds its outer envelope into space."
+        "fact": "A planetary nebula forms when a star at the end of its life sheds its outer layers of gas."
       },
       {
-        "q": "What is the main advantage of the Hubble Space Telescope?",
+        "q": "What role does a white dwarf play in the nebula?",
         "options": [
-          "It takes sharp images above Earth's atmosphere",
-          "It captures radio waves from distant galaxies",
-          "It lands on the nebula's surface to measure gas"
+          "It is the star's leftover and extremely dense core",
+          "It is a newborn star that warms up the gas",
+          "It is a planet orbiting the nebula"
         ],
         "correct": 0,
-        "fact": "By orbiting outside the distorting atmosphere, the Hubble Space Telescope can capture extremely detailed close-up images of faint celestial objects."
+        "fact": "The white dwarf is the small, hot core left behind after the star has shed its outer layers."
       },
       {
-        "q": "What remains at the center of the nebula?",
+        "q": "How do the complex structures in the nebula form?",
         "options": [
-          "A massive black hole",
-          "A completely extinguished dark cinder",
-          "A hot and dense white dwarf"
+          "Through matter being sucked into a black hole",
+          "Through stellar winds and magnetic fields shaping the gas",
+          "Through collisions between two large galaxies"
         ],
-        "correct": 2,
-        "fact": "Once the outer layers are expelled, only the star's hot and densely packed core remains, known as a white dwarf."
+        "correct": 1,
+        "fact": "Strong winds from the central star and magnetic fields carve out the intricate patterns in the ejected gas cloud."
       }
     ]
   }
