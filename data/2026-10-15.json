@@ -2,141 +2,133 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "A New View of the Tarantula Nebula",
-  "title_sv": "En ny vy av Tarantelnebulosan",
+  "title": "Iridescent Glory of Nearby Helix Nebula",
+  "title_sv": "Helixnebulosans glödande gasslöjor",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA14415/PIA14415~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA14415/PIA14415~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA14415/PIA14415~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA14415",
-  "credit": "X-ray: NASA/CXC/PSU/L.Townsley et al.; Optical: NASA/STScI; Infrared: NASA/JPL/PSU/L.Townsley et al.",
-  "taken": "2012",
+  "url": "https://images-assets.nasa.gov/image/PIA18164/PIA18164~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA18164/PIA18164~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA18164/PIA18164~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA18164",
+  "credit": "NASA/STScI",
+  "taken": "2014",
   "src": "library",
-  "id": "PIA14415",
+  "id": "PIA18164",
   "px": [
     1920,
-    1536
+    1920
   ],
   "w": 640,
-  "h": 512,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQBBQYC/8QAJBAAAgICAQIHAQAAAAAAAAAAAQIDEQAEIQVBEhMxMlFxgWH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABwRAQADAQEAAwAAAAAAAAAAAAEAAhESMQMyQf/aAAwDAQACEQMRAD8Ao9XSbqDKvllewZRZOC3tJIZWRWVipqgfTNF0GTU1wXk8byxqXI+R8DGus6upPDFNqoI5TTFCKJH13xhYL9ZhHWHONmLOq6M18KPUk4u6eIGgQAe+W244aRYlYOWNE/OL72m+q/luQTV8HNaqjf8AIQH12RLMHkMiuY271ePRbckyRlJzGi8Gzz/TlS/s/cKOEUducoLcK+wOe8PJzukPssUNi+CcBLsO5NsTQqzkN7/3BSd/vJvktO7iz//Z",
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgIAAQf/xAAiEAABBAIBBQEBAAAAAAAAAAABAAIDBBExBRITIUFRImH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEBAQEBAQAAAAAAAAAAAAABEQACITH/2gAMAwEAAhEDEQA/APPAMnCrCzRr6Ut4fiqEFUWL4MrzpgPgFZX2G2HlcTLHAZIOFKV34IZw51aHoAOv4jNlobM9o9HCVsdXklNMRAeCfRSbj7MdiLtSv6fOQfiLLocRolEbTTnoCOXchfp0abo4ZO9YfgfnTQPqJPcXvLjsnKxcTsqUBtcevIfN/9k=",
   "quiz": [
     {
-      "q": "Vad pågår i detta färgsprakande kosmiska moln?",
+      "q": "Vad är det för slags objekt som syns på bilden?",
       "options": [
-        "Nya stjärnor föds ur enorma gasmoln",
-        "En hel galax slits sakta itu",
-        "Gamla stjärnor kyls ner och dör"
+        "En planetarisk nebulosa skapad av en döende stjärna",
+        "En virvlande spiralgalax sedd rakt uppifrån",
+        "Ett tätt gasmoln där nya stjärnor just föds"
       ],
       "correct": 0,
-      "fact": "Tarantelnebulosan är en av de mest aktiva stjärnfabrikerna i vårt kosmiska närområde."
+      "fact": "Trots namnet består en planetarisk nebulosa av gas och stoft som stötts ut från en döende sollik stjärna."
     },
     {
-      "q": "I vilken närbelägen galax ligger detta objekt?",
+      "q": "Vad döljer sig i nebulosans allra innersta centrum?",
       "options": [
-        "Andromedagalaxen",
-        "Stora magellanska molnet",
-        "Sombrerogalaxen"
+        "Ett supermassivt svart hål",
+        "En vit dvärg",
+        "En ung jätteplanet"
       ],
       "correct": 1,
-      "fact": "Nebulosan befinner sig i Stora magellanska molnet, en satellitgalax till vår egen Vintergatan."
+      "fact": "När den ursprungliga stjärnan kastade av sig sina yttre lager lämnades en het, kompakt vit dvärg kvar i mitten."
     },
     {
-      "q": "Varför lyser gasen så starkt i nebulosan?",
+      "q": "Vilken geometrisk form har Helixnebulosan i verkligheten?",
       "options": [
-        "Partiklar från planeter krockar i mörkret",
-        "Kometer brinner upp i rymdens vakuum",
-        "Unga heta stjärnor lyser upp den"
+        "En platt rund skiva",
+        "En perfekt sfäriskt klot",
+        "En cylinder riktad mot oss"
       ],
       "correct": 2,
-      "fact": "Extremt massiva nyfödda stjärnor strålar ut ultraviolett ljus som får vätgasen att glöda."
+      "fact": "Nebulosan är formad som en gigantisk tub eller cylinder, men eftersom vi ser rakt in i den ser den rund ut."
     }
   ],
   "levels": {
-    "barn": "Titta på det här molnet i rymden! Det kallas för Tarantelnebulosan eftersom dess slingrande armar påminner om benen på en stor spindel. Men du behöver inte vara rädd. Molnet är som ett varmt kosmiskt dagis där tusentals nya stjärnor föds.\n\nGas och rymdstoft klumpas ihop till lysande stjärnbebisar. När de tänder sitt eget ljus blåser de bort delar av molnet, precis som när du blåser såpbubblor.",
-    "nyborjare": "Det färgstarka molnet kallas Tarantelnebulosan, eller 30 Doradus. Den ligger ungefär 160 000 ljusår bort i en av Vintergatans grannar, dvärggalaxen Stora magellanska molnet.\n\nDetta är en så kallad emissionsnebulosa, ett gigantiskt moln av gas och rymdstoft där nya stjärnor ständigt bildas. Många av stjärnorna här är enorma giganter, tiotals gånger tyngre än vår sol. De nyfödda stjärnornas intensiva strålning och kraftiga stjärnvindar skapar bubblor och håligheter i molnet.\n\nBilden kombinerar ljus i olika våglängder. Det ger forskarna en tydlig bild av både kallt stoft och glödhet gas som värmts upp till flera miljoner grader.",
-    "entusiast": "Tarantelnebulosan i Stora magellanska molnet är den mest ljusstarka och massiva stjärnbildningsregionen i den Lokala galaxhopen. Om den låg på samma avstånd som Orionnebulosan skulle den kasta tydliga skuggor på jorden om natten.\n\nI centrum av regionen ligger stjärnhopen R136, som innehåller några av universums mest massiva kända stjärnor. Flera av dem överstiger 100 solmassor och sänder ut extrem ultraviolett strålning och våldsamma stjärnvindar.\n\nDenna sammansatta bild kombinerar data från tre rymdteleskop. Röntgendata i blått från Chandra avslöjar superhettad gas från massiva stjärnvindar och supernovor. Optiska data i grönt från Hubble visar joniserad gas som lyser upp nebulosans struktur. Infrarött ljus i rött från Spitzer spårar kallare stoftmoln där nästa generation stjärnor kondenseras ur den interstellära materian.\n\nRegionen fungerar som ett unikt laboratorium för att studera stjärnbildning under förhållanden som liknar det tidiga universum, där metalliciteten är betydligt lägre än i Vintergatans skiva."
+    "barn": "Det här ser ut som ett gigantiskt, glödande rymdöga som stirrar ut i mörkret! I själva verket är det en stjärna som har blivit väldigt gammal och pustat ut massor av färggrann rök. Tänk dig att du blåser såpbubblor eller rökringar, fast den här rökringen är så enorm att den tar flera år för ljuset att korsa. I mitten finns den lilla resten av stjärnan kvar, varm som en glödande kolbit.",
+    "nyborjare": "Den färgstarka Helixnebulosan är en planetarisk nebulosa som ligger cirka 650 ljusår bort i stjärnbilden Vattumannen. Denna historiska bild sattes samman år 2002 med data från rymdteleskopet Hubble och Kitt Peak-observatoriet. Den visar vad som händer när en stjärna som liknar vår sol når slutet av sitt liv. Stjärnan kastar ut sina yttre gasskikt i rymden, och kvar i mitten blir en het vit dvärg. Gasen hettas upp av strålningen från stjärnresten och börjar glöda i fantastiska färger: syre lyser blått medan väte och kväve färgar kanterna röda. Även om formen påminner om en bubbla ser vi egentligen rakt in i en gigantisk tunnel av gas.",
+    "entusiast": "Helixnebulosan, katalogiserad som NGC 7293, är en av de allra närmaste planetariska nebulosorna till jorden med ett avstånd på cirka 650 ljusår. Denna mosaik sammanställdes år 2002 under meteorsvärmen leoniderna, då Hubble riktades om i nio omloppsbanor för att av säkerhetsskäl vända baksidan mot partikelströmmen. Bilden kombinerar Hubbles Advanced Camera for Surveys med vidvinkeldata från Kitt Peak. Den spänner över nästan tre ljusår i diameter och avslöjar tusentals radiella, kometliknande filament längs ringens insida. Dessa strukturer uppstod när en snabb, het stjärnvind plöjde in i äldre och kallare utkastade gasskal. Den fluorescerande ringen består av syreexcitation centralt och joniserat väte och kväve perifert. Spektroskopiska analyser visar att nebulosan inte är en enkel sfär utan en expanderande cylinder orienterad nästan direkt längs vår synlinje mot den centrala heta vita dvärgen."
   },
   "terms": [
     {
-      "term": "nebulosa",
-      "explanation": "Ett gigantiskt moln av gas och stoft i rymden där stjärnor ofta bildas eller dör."
+      "term": "planetarisk nebulosa",
+      "explanation": "Ett expanderande moln av glödande gas som stötts ut från en döende stjärna av solens storlek."
     },
     {
       "term": "ljusår",
-      "explanation": "Den sträcka en ljusstråle färdas i rymdens vakuum under ett helt år."
+      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
     },
     {
-      "term": "emissionsnebulosa",
-      "explanation": "Ett moln av joniserad gas som sänder ut eget synligt ljus på grund av närbelägna stjärnor."
+      "term": "vit dvärg",
+      "explanation": "Den extremt heta och kompakta restkärna som blir kvar när en medeltung stjärna har dött."
     },
     {
       "term": "stjärnvind",
-      "explanation": "En kontinuerlig ström av laddade partiklar som blåser ut från en stjärnas yttre lager."
-    },
-    {
-      "term": "supernova",
-      "explanation": "En våldsam explosion som markerar slutet på en massiv stjärnas liv."
+      "explanation": "En kontinuerlig ström av laddade gaspartiklar som blåser ut från en stjärnas atmosfär."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this giant glowing cloud in space! It is called the Tarantula Nebula because its long dusty arms look like spider legs. But there is nothing to fear. It is actually a cosmic nursery where thousands of baby stars are being born.\n\nGas and dust gather together to form brand new twinkling stars. As these new stars light up, they blow away the surrounding cloud like soapy bubbles.",
-      "nyborjare": "This stunning cosmic cloud is known as the Tarantula Nebula, or 30 Doradus. It lies around 160,000 light-years away in the Large Magellanic Cloud, a small companion galaxy to our Milky Way.\n\nIt is an emission nebula, a colossal reservoir of gas and dust actively forming stars. Many stars here are celestial giants, dozens of times heavier than our Sun. Powerful stellar wind and radiation from these newborn giants carve vast cavities and bubbles into the surrounding cloud.\n\nThis image combines multiple wavelengths of light, showing both cold dust filaments and gas heated to millions of degrees.",
-      "entusiast": "The Tarantula Nebula in the Large Magellanic Cloud is the most luminous and massive starburst region in the Local Group. If it were at the distance of the Orion Nebula, it would cast visible shadows on Earth at night.\n\nAt its core lies the dense cluster R136, home to some of the most massive stars ever discovered, several exceeding 100 solar masses. These stars drive energetic winds and extreme ultraviolet radiation fields across the region.\n\nThis multiwavelength composite incorporates Chandra X-ray data in blue, revealing superheated gas from supernova shocks and stellar wind collisions. Hubble optical observations in green showcase ionized hydrogen gas, while Spitzer infrared data in red traces cooler dust lanes where future protostars condense."
+      "barn": "This looks like a giant glowing eye watching us from deep space! It is actually an old star that puffed out colourful smoke rings as it grew very old. Imagine blowing giant bubbles, but this gas ring is so huge it takes light several years to travel across it. In the very middle rests the tiny remnant of the star, glowing hot like an ember in a campfire.",
+      "nyborjare": "The colourful Helix Nebula is a planetary nebula located about 650 light-years away in the constellation Aquarius. This historic portrait was assembled in 2002 using data from the Hubble Space Telescope and the Kitt Peak observatory. It shows what happens when a star similar to our Sun reaches the end of its life. The star ejects its outer gaseous layers into space, leaving behind a scorching white dwarf at the core. Radiation from this leftover star illuminates the gas: oxygen fluoresces in brilliant blue while hydrogen and nitrogen glow deep red. Although it appears as a spherical bubble, we are actually peering straight down a trillion-mile-long tunnel of gas.",
+      "entusiast": "The Helix Nebula, catalogued as NGC 7293, is one of the closest planetary nebulae to Earth at roughly 650 light-years. This composite was captured in 2002 during the Leonid meteor storm, when Hubble was safely pointed in the opposite direction of the stream across nine orbits. The mosaic combines Hubble's Advanced Camera for Surveys with wide-field views from Kitt Peak. Spanning nearly three light-years across, the view reveals thousands of comet-like radial filaments along the inner rim. These knots formed as a high-speed stellar wind slammed into cooler material previously shed by the dying star. The fluorescing gas maps ionised oxygen at the core and hydrogen and nitrogen in the periphery. Morphological studies show the nebula is an expanding cylinder aligned almost directly along our line of sight toward the central white dwarf."
     },
     "terms": [
       {
-        "term": "nebula",
-        "explanation": "A vast interstellar cloud of dust and gas where stars are often born or die."
+        "term": "planetary nebula",
+        "explanation": "An expanding shell of glowing gas ejected by an intermediate-mass star near the end of its life."
       },
       {
         "term": "light-year",
-        "explanation": "The distance that light travels through empty space in one Earth year."
+        "explanation": "The distance that a beam of light travels through empty space in one Earth year."
       },
       {
-        "term": "emission nebula",
-        "explanation": "A cloud of ionized gas that glows by emitting light excited by nearby stars."
+        "term": "white dwarf",
+        "explanation": "The dense and extremely hot core remaining after a low- or medium-mass star exhausts its fuel."
       },
       {
         "term": "stellar wind",
-        "explanation": "A fast stream of charged particles continuously ejected from an active star."
-      },
-      {
-        "term": "supernova",
-        "explanation": "A catastrophic explosion marking the final stage of a massive star's life."
+        "explanation": "A powerful stream of charged particles and gas ejected outward from a star into space."
       }
     ],
     "quiz": [
       {
-        "q": "What is happening inside this vibrant cosmic cloud?",
+        "q": "What kind of astronomical object is shown in this image?",
         "options": [
-          "New stars form from massive gas clouds",
-          "An entire galaxy is tearing itself apart",
-          "Old stars are cooling down and dying"
+          "A planetary nebula shaped by a dying star",
+          "A swirling spiral galaxy viewed face-on",
+          "A dense gas cloud where new stars form"
         ],
         "correct": 0,
-        "fact": "The Tarantula Nebula is one of the most prolific star nurseries in our local universe."
+        "fact": "Despite the historical name, a planetary nebula consists of gas cast off by a dying star like our Sun."
       },
       {
-        "q": "Which nearby galaxy hosts this massive nebula?",
+        "q": "What lies at the exact center of this glowing nebula?",
         "options": [
-          "The Andromeda Galaxy",
-          "The Large Magellanic Cloud",
-          "The Sombrero Galaxy"
+          "A supermassive black hole",
+          "A white dwarf",
+          "A young giant planet"
         ],
         "correct": 1,
-        "fact": "It resides in the Large Magellanic Cloud, a satellite galaxy orbiting the Milky Way."
+        "fact": "When the original star blew off its outer layers, a hot and dense stellar remnant known as a white dwarf remained."
       },
       {
-        "q": "Why does the gas in this nebula glow so brightly?",
+        "q": "What is the true three-dimensional shape of the Helix Nebula?",
         "options": [
-          "Planetary debris continuously collides in space",
-          "Comets vaporize inside the cosmic vacuum",
-          "Hot young stars illuminate the surrounding gas"
+          "A flat circular disk",
+          "A perfect hollow sphere",
+          "A cylinder pointed toward us"
         ],
         "correct": 2,
-        "fact": "Enormous young stars emit intense ultraviolet light that excites hydrogen atoms to glow."
+        "fact": "The nebula is actually shaped like a long tube or cylinder aligned almost directly toward Earth."
       }
     ]
   }
