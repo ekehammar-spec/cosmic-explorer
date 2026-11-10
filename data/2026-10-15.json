@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Mysterious object He2-90",
-  "title_sv": "Mystiska objektet He2-90",
+  "title": "Ghostly Boomerang",
+  "title_sv": "Boomerangnebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA04214/PIA04214~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA04214/PIA04214~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA04214/PIA04214~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA04214",
-  "credit": "NASA, Raghvendra Sahai NASA Jet Propulsion Laboratory, Lars-Ake Nyman European Southern Observatory Chile & Onsala Space Observatory, Sweden",
-  "taken": "1999",
+  "url": "https://images-assets.nasa.gov/image/PIA17551/PIA17551~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA17551/PIA17551~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA17551/PIA17551~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA17551",
+  "credit": "NRAO/AUI/NSF/NASA/STScI/JPL-Caltech",
+  "taken": "2013",
   "src": "library",
-  "id": "PIA04214",
+  "id": "PIA17551",
   "px": [
-    1920,
-    1536
+    1280,
+    1280
   ],
   "w": 640,
-  "h": 512,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABAEAAgMFB//EACQQAAIBBAIBBAMAAAAAAAAAAAECAwAEERIxUSEFE2GRQUJx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAgMRISL/2gAMAwEAAhEDEQA/AOehFP4FMsrFLmZYyFGxxknig7Y7pnp8dzd3KwWa7TOcKvZqdTTXjNWOmU0nc9Feq+lxWE5iDpIR+ynIrWFEB8AUq6jukYrN5YAFuBrkZxzz8UVcMGOwBGPB5P8AKUTSXKfR7a5U/ieEuXcRj2CNFwCqY285yez5pVjc3FnPFLHL7TowZSzjK/OKHqOh9VOq9D6qpkM15I87BpHEjKoXbYEsBxR1IHjQ57J4q7Veh9VQVcjwOeqAP//Z",
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAkEAABAwIGAgMAAAAAAAAAAAABAAIDBBEFBhIhMVETQRVCcf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQADAQACAwAAAAAAAAAAAAAAAQIRAxIhIkH/2gAMAwEAAhEDEQA/AOet5TCjj8hAG5PAS8ccJ7liJ82IhkYBkLHab+j6TTXXyNM9qSB6qB0Ti1zS09EIB5sVbZppxR4ZTGpaDVu66UNI65RqtDcqXiNqemMjgFW5c8OFyvn06pAw2J7U9SkNse0yZPpZzZaeGZ+k9aeh+cKz5B8Lm/Rm/wClRbxundZUam83SiYA7hT5plP1Drb1n//Z",
   "quiz": [
     {
-      "q": "Vad är en planetarisk nebulosa?",
+      "q": "Vad är en nebulosa för något?",
       "options": [
-        "En nyfödd stjärnas omgivande stoftmoln",
-        "Glödande gasrester från en döende stjärna",
-        "En planet under bildande i rymden"
-      ],
-      "correct": 1,
-      "fact": "En planetarisk nebulosa har inget med planeter att göra utan är de yttre lagren som en döende stjärna kastar ut."
-    },
-    {
-      "q": "Vilken typ av stjärna bildar en planetarisk nebulosa?",
-      "options": [
-        "En mycket tung och massiv stjärna",
-        "En stjärna av relativt lätt typ",
-        "En jättelik superjätte i sitt slutskede"
-      ],
-      "correct": 1,
-      "fact": "Det är relativt lätta stjärnor, liknande vår sol, som avslutar sina liv genom att bilda en vacker nebulosa."
-    },
-    {
-      "q": "Vad händer med stjärnans kärna inuti nebulosan?",
-      "options": [
-        "Den blir till en tät vit dvärg",
-        "Den kollapsar direkt till ett svart hål",
-        "Den exploderar i en kraftig supernova"
+        "Ett moln av gas och stoft i rymden",
+        "En döende stjärna som kollapsar till ett svart hål",
+        "En typ av avlägsen spiralgalax"
       ],
       "correct": 0,
-      "fact": "När de yttre gaslagren har flutit ut i rymden återstår endast stjärnans heta och kompakta kärna, kallad en vit dvärg."
+      "fact": "Nebulosor är gigantiska moln av gas och rymdstoft som ofta fungerar som födelseplatser eller gravar för stjärnor."
+    },
+    {
+      "q": "Varför blir en nebulosa så extremt kall?",
+      "options": [
+        "Den ligger långt bort från alla galaxer",
+        "Gasen expanderar snabbt och tappar därför värme",
+        "Den saknar helt materia som kan lagra energi"
+      ],
+      "correct": 1,
+      "fact": "När gas strömmar ut från en döende stjärna med enorm hastighet expanderar den så snabbt att temperaturen sjunker under den kosmiska bakgrundsstrålningen."
+    },
+    {
+      "q": "Vilket teleskop användes för att avslöja nebulosans form?",
+      "options": [
+        "James Webb-teleskopet",
+        "Atacama Large Millimeter/submillimeter Array",
+        "Chandra X-ray Observatory"
+      ],
+      "correct": 1,
+      "fact": "ALMA-teleskopet i Chile har förmågan att observera det kalla stoftet och gasen i millimetervåglängder med oerhört hög skärpa."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en stjärna har levt i miljarder år och till slut börjar bli gammal och trött. Då blåser den bort sina färgglada fluffiga kläder ut i rymden ungefär som när man blåser ut ett moln av såpbubblor. Kvar i mitten blir en liten glödande kärna som skiner som en stjärna i miniatyr.",
-    "nyborjare": "Bilden visar ett fascinerande och tidigare gåtfullt objekt som kallas för en planetarisk nebulosa. Trots sitt missvisande namn har nebulosan ingenting med planeter att göra. Den består i stället av glödande gasrester som en döende och förhållandevis lätt stjärna har kastat ut i rymden. När de yttre lagren sprids bildas vackra och komplexa strukturer runt den kvarvarande stjärnkärnan.",
-    "entusiast": "Det mystiska objektet He2-90 har länge gäckat astronomer men har tack vare observationer med NASA:s rymdteleskop kunnat avslöja viktiga ledtrådar om sin identitet. Objektet är klassificerat som en planetarisk nebulosa vilket är ett lysande hölje av gas som kastas ut av en döende stjärna med låg massa i slutet av dess utveckling. Genom att studera dessa dynamiska processer får forskare en djupare förståelse för hur stjärnor utvecklas och sprider grundämnen i universum."
+    "barn": "Tänk dig ett jättestort moln av gas långt ut i rymden som är kallare än ett kylskåp. Det ser nästan ut som ett spöke eller en bumerang. Forskare har funnit att detta stjärnmoln är den absolut kallaste platsen i hela universum. Det är så kallt där att till och med rymdens egna frystemperaturer känns varma i jämförelse.",
+    "nyborjare": "Boomerangnebulosan är känd som universums kallaste plats och ligger i stjärnbilden Kentauren. Den omgivande blå strukturen fångades ursprungligen i synligt ljus av Hubble-teleskopet, medan radioteleskopet ALMA har avslöjat nebulosans sanna form. Nebulosor är moln av gas och stoft som ofta omger döende stjärnor. När gasen kastas ut i rymden med enorm hastighet sker en snabb expansion. Denna process kyler ner gasen så kraftigt att den blir kallare än den omgivande kosmiska bakgrundsstrålningen.",
+    "entusiast": "Boomerangnebulosan är en protoplanetarisk nebulosa som befinner sig på ett avstånd av omkring 5 000 ljusår från jorden. Den centrala stjärnan har nyligen kastat ut sina yttre lager genom en kraftig stjärnvind med hastigheter på upp till 500 kilometer i sekundén. Den extrema nedkylningen till under tre kelvin, vilket är lägre än universums bakgrundsstrålning på 2,7 kelvin, beror på att gasen expanderar adiabatiskt. Observationer från ALMA har gett nya insikter i denna dubbelstjärniga dynamik och visat att nebulosans utseende har en mer komplex struktur än vad som tidigare synts i synligt ljus från Hubble-teleskopet."
   },
   "terms": [
     {
       "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och stoft ute i rymden som ofta lyser vackert."
+      "explanation": "Ett enormt moln av gas och stoft som svävar fritt i den interstellära rymden."
     },
     {
-      "term": "stjärna",
-      "explanation": "Ett jättelikt brinnande klot av gas som avger ljus och värme i rymden."
+      "term": "teleskop",
+      "explanation": "Ett optiskt eller radiotekniskt instrument som används för att observera avlägsna himlakroppar."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett avancerat optiskt instrument som placerats ovanför jordens atmosfär för att studera universum."
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset färdas under ett enda jordår, vilket motsvarar ungefär 9,46 biljoner kilometer."
     },
     {
-      "term": "universum",
-      "explanation": "Allt som existerar inklusive alla planeter stjärnor galaxer och tomrum."
+      "term": "stjärnvind",
+      "explanation": "Ett kontinuerligt flöde av laddade partiklar som slungas ut från en stjärnas yttre atmosfär."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a star that has lived for billions of years and finally starts to get old and tired. It blows away its colorful fluffy clothes out into space much like blowing a cloud of soap bubbles. Left in the middle is a small glowing core shining like a miniature star.",
-      "nyborjare": "The image shows a fascinating and previously mysterious object known as a planetary nebula. Despite its misleading name, the nebula has nothing to do with planets. Instead, it consists of glowing gas remains that a dying and relatively lightweight star has ejected into space. As the outer layers spread, beautiful and complex structures form around the remaining stellar core.",
-      "entusiast": "The mysterious object He2-90 has long puzzled astronomers but has yielded important clues to its identity thanks to observations with the NASA space telescope. The object is classified as a planetary nebula, which is a luminous envelope of gas ejected by a dying low-mass star at the end of its evolution. By studying these dynamic processes, researchers gain a deeper understanding of how stars evolve and enrich the universe."
+      "barn": "Imagine a giant cloud of gas far out in space that is colder than any freezer. It looks a bit like a ghostly boomerang. Scientists have discovered that this star cloud is the absolute coldest place in the entire universe. It is so cold there that even the usual chill of space feels warm by comparison.",
+      "nyborjare": "The Boomerang Nebula is known as the coldest place in the universe and is located in the constellation Centaurus. The surrounding blue structure was originally captured in visible light by the Hubble Space Telescope, while the ALMA radio telescope has revealed the nebula's true shape. Nebulae are clouds of gas and dust often surrounding dying stars. When gas is cast out into space at tremendous speed, a rapid expansion occurs. This process cools the gas so severely that it becomes colder than the surrounding cosmic background radiation.",
+      "entusiast": "The Boomerang Nebula is a protoplanetary nebula located at a distance of about 5,000 light-years from Earth. The central star has recently ejected its outer layers through a powerful stellar wind with velocities reaching up to 500 kilometers per second. The extreme cooling to below three kelvin, which is lower than the cosmic microwave background at 2.7 kelvin, is due to adiabatic expansion of the gas. Observations from ALMA have provided new insights into this binary star dynamics, revealing a much more complex structure than previously observed in visible light by Hubble."
     },
     "terms": [
       {
         "term": "nebula",
-        "explanation": "A giant cloud of gas and dust in space that often glows brightly."
+        "explanation": "A massive cloud of gas and dust drifting freely in interstellar space."
       },
       {
-        "term": "star",
-        "explanation": "A massive burning sphere of gas that emits light and heat in space."
+        "term": "telescope",
+        "explanation": "An optical or radio instrument used to observe distant celestial bodies."
       },
       {
-        "term": "space telescope",
-        "explanation": "An advanced optical instrument placed above Earth's atmosphere to study the universe."
+        "term": "light-year",
+        "explanation": "The distance that light travels in a single Earth year, approximately 9.46 trillion kilometers."
       },
       {
-        "term": "universe",
-        "explanation": "Everything that exists including all planets stars galaxies and empty space."
+        "term": "stellar wind",
+        "explanation": "A continuous stream of charged particles ejected from the outer atmosphere of a star."
       }
     ],
     "quiz": [
       {
-        "q": "What is a planetary nebula?",
+        "q": "What is a nebula?",
         "options": [
-          "A dust cloud surrounding a newborn star",
-          "Glowing gas remains of a dying star",
-          "A planet forming in deep space"
-        ],
-        "correct": 1,
-        "fact": "A planetary nebula has nothing to do with planets but consists of the outer layers shed by a dying star."
-      },
-      {
-        "q": "What type of star forms a planetary nebula?",
-        "options": [
-          "A very heavy and massive star",
-          "A relatively lightweight star",
-          "A giant supergiant at the end of its life"
-        ],
-        "correct": 1,
-        "fact": "Relatively lightweight stars, similar to our Sun, end their lives by creating these glowing nebulae."
-      },
-      {
-        "q": "What happens to the core inside the nebula?",
-        "options": [
-          "It becomes a dense white dwarf",
-          "It immediately collapses into a black hole",
-          "It explodes in a powerful supernova"
+          "A cloud of gas and dust in space",
+          "A dying star collapsing into a black hole",
+          "A type of distant spiral galaxy"
         ],
         "correct": 0,
-        "fact": "Once the outer gas layers drift away into space, only the hot and compact stellar core remains as a white dwarf."
+        "fact": "Nebulae are giant clouds of gas and space dust that often act as stellar nurseries or graves."
+      },
+      {
+        "q": "Why does this nebula become so extremely cold?",
+        "options": [
+          "It is located far away from all galaxies",
+          "The gas expands rapidly and loses heat",
+          "It completely lacks matter to store energy"
+        ],
+        "correct": 1,
+        "fact": "As gas streams out from a dying star at immense speed, it expands so quickly that the temperature drops below the cosmic background radiation."
+      },
+      {
+        "q": "Which telescope revealed the true shape of the nebula?",
+        "options": [
+          "James Webb Space Telescope",
+          "Atacama Large Millimeter/submillimeter Array",
+          "Chandra X-ray Observatory"
+        ],
+        "correct": 1,
+        "fact": "The ALMA telescope in Chile has the ability to observe cold dust and gas at millimeter wavelengths with extremely high resolution."
       }
     ]
   }
