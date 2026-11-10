@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-10T11:59:31.472Z",
+ "updated": "2026-11-10T17:19:26.798Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-11-10T00:00:00Z",
+   "date": "2026-11-10T06:00:00Z",
    "title_sv": "Tyfonen Cempaka",
    "title_en": "Typhoon Cempaka",
    "where_sv": "Västra Stilla havet",
    "where_en": "Western Pacific",
-   "value_sv": "vindar på 175 km/h",
-   "value_en": "winds of 175 km/h"
+   "value_sv": "vindar på 165 km/h",
+   "value_en": "winds of 165 km/h"
   },
   {
    "kind": "storm",
-   "date": "2026-11-10T00:00:00Z",
+   "date": "2026-11-10T06:00:00Z",
    "title_sv": "Tropiska stormen Pena",
    "title_en": "Tropical Storm Pena",
    "where_sv": "Östra Stilla havet",
