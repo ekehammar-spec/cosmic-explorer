@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-10",
+  "media_type": "image",
+  "title": "Vad som hände när?",
+  "title_en": "What Happened When?",
+  "thumb": "https://images-assets.nasa.gov/image/PIA25447/PIA25447~small.jpg"
+ },
+ {
   "date": "2026-11-09",
   "media_type": "image",
   "title": "NGC 4449",
@@ -177,9 +184,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Helixnebulosans glödande gasslöjor",
-  "title_en": "Iridescent Glory of Nearby Helix Nebula",
-  "thumb": "https://images-assets.nasa.gov/image/PIA18164/PIA18164~small.jpg"
+  "title": "Mystiska objektet He2-90",
+  "title_en": "Mysterious object He2-90",
+  "thumb": "https://images-assets.nasa.gov/image/PIA04214/PIA04214~small.jpg"
  },
  {
   "date": "2026-10-14",

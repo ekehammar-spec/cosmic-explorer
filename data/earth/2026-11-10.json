@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-10",
+  "title": "Autumn Mornings Bring Valley Fog",
+  "title_sv": "Höstmorgnar för med sig dimma i dalarna",
+  "place": "Appalacherna och Cumberlandfloden, USA",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+  "credit": "NASA Earth Observatory / Lauren Dauphin",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview , and VIIRS data from NASA EOSDIS LANCE , GIBS/Worldview and the Joint Polar Satellite System (JPSS).",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAADBQb/xAAkEAACAgIABgIDAAAAAAAAAAABAgADESEEEiIxQVFxkSNS4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAAT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhEDEQA/ABreorUk4J13h+KbmKsCNHPzNbQtVPTo/O4W6xHtclAN79fU4swtFtdiScnJ8e4a1bHRrmXpONxF9yk8oVOVdA/3zBOcnUeJeh42sLxDVHZXQac678bsnc/tKUONRTv19TIrlTg4wZSiRNf/2Q==",
+  "levels": {
+    "barn": "Titta på bilden! Ser du alla vita moln som slingrar sig fram som mjuka ormar mellan de mörka bergen? Det är dimma som har lagt sig till rätta nere i dalarna på morgonen. När dagen går och solen värmer upp luften försvinner molnen och då kan man se skogarna och floderna som gömmer sig där under.",
+    "nyborjare": "Den här satellitbilden visar hur låga moln och dimma slingrar sig fram genom dalgångarna i Appalacherna och runt Cumberlandfloden en tidig novembermorgon. Morgondimma är vanlig den här tiden på året när nätterna blir längre. Då hinner marken kyla av luften tills den når daggpunkten vilket är den temperatur där vattenånga börjar övergå till små vattendroppar. Eftersom kall luft är tyngre än varm luft sjunker den ner och samlas i dalarna där floder och vattendrag bidrar med extra fukt. Framåt eftermiddagen har den täta dimman skingrats och lämnat efter sig en klar himmel över det höstfärgade landskapet.",
+    "entusiast": "Satellitparet från den 8 november 2026 visar hur höstmorgnarnas dimma bildas och upplöses över Appalacherna. Den vänstra bilden togs på morgonen av instrumentet MODIS ombord på NASAs Terra-satellit i naturliga färger där de låga molnen framträder som vitt mot den brunröda höstvegetationen. Den högra bilden togs på eftermiddagen av instrumentet VIIRS på NOAA-21 i falska färger vilket gör det lättare att skilja vatten som syns mörkblått från grön vegetation. Dimman bildas genom att nattens utstrålning kyler luften nära marken till daggpunkten där luften blir mättad och vattenånga kondenseras till droppar. Den kalla och täta luften rinner nedför sluttningarna och samlas i dalgångarna där närliggande floder och reservoarer tillför fukt som förstärker fenomenet."
+  },
+  "terms": [
+    {
+      "term": "MODIS",
+      "explanation": "Ett instrument för avbildning med medelhög upplösning som sitter på NASAs Terra-satellit."
+    },
+    {
+      "term": "VIIRS",
+      "explanation": "Ett radiometerinstrument som används för att observera jorden i synligt och infrarött ljus."
+    },
+    {
+      "term": "daggpunkt",
+      "explanation": "Den temperatur vid vilken luften blir mättad och vattenånga börjar kondensera till vattendroppar."
+    },
+    {
+      "term": "vattenånga",
+      "explanation": "Vatten i gasform som finns i luften och som bildar moln och dimma när det kyls ner."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the picture! Do you see all the white clouds winding like soft snakes between the dark mountains? That is fog that has settled down in the valleys in the morning. When the day goes on and the sun warms the air the clouds disappear and then you can see the forests and rivers hiding underneath.",
+      "nyborjare": "This satellite image shows how low clouds and fog wind through the valleys of the Appalachian Plateau and around the Cumberland River on an early November morning. Morning fog is common at this time of year as nights grow longer and the ground has time to radiate away heat. The air just above cools to the dew point which is the temperature where air becomes saturated and water vapor begins condensing into tiny droplets. Because cold air is denser than warm air it flows downslope and pools in valleys where rivers add extra moisture. By afternoon the dense fog has dissipated leaving clear skies over the autumn landscape.",
+      "entusiast": "The pair of images from November 8 2026 shows how autumn morning fog forms and dissipates over the Appalachian Plateau. The left image was acquired in the morning by the MODIS instrument on NASAs Terra satellite in natural color showing low clouds as white against brown and green vegetation. The right image was acquired in the afternoon by the VIIRS instrument on NOAA-21 in false color making it easier to distinguish water from vegetation. Fog forms as nighttime cooling brings the air near the ground to the dew point where it becomes saturated and water vapor condenses into droplets. Dense cold air flows downslope into valleys where moisture from rivers and reservoirs enhances the effect."
+    },
+    "terms": [
+      {
+        "term": "MODIS",
+        "explanation": "Moderate Resolution Imaging Spectroradiometer is an instrument on NASAs Terra satellite."
+      },
+      {
+        "term": "VIIRS",
+        "explanation": "Visible Infrared Imaging Radiometer Suite is an instrument used to capture satellite imagery."
+      },
+      {
+        "term": "dew point",
+        "explanation": "The temperature at which air becomes saturated and water vapor begins condensing into tiny droplets."
+      },
+      {
+        "term": "water vapor",
+        "explanation": "Water in its gaseous state in the atmosphere that condenses to form fog and clouds."
+      }
+    ],
+    "place": "Appalachian Mountains and Cumberland River, USA"
+  }
+}

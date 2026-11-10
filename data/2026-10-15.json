@@ -1,134 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Iridescent Glory of Nearby Helix Nebula",
-  "title_sv": "Helixnebulosans glödande gasslöjor",
+  "title": "Mysterious object He2-90",
+  "title_sv": "Mystiska objektet He2-90",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA18164/PIA18164~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA18164/PIA18164~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA18164/PIA18164~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA18164",
-  "credit": "NASA/STScI",
-  "taken": "2014",
+  "url": "https://images-assets.nasa.gov/image/PIA04214/PIA04214~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA04214/PIA04214~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA04214/PIA04214~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA04214",
+  "credit": "NASA, Raghvendra Sahai NASA Jet Propulsion Laboratory, Lars-Ake Nyman European Southern Observatory Chile & Onsala Space Observatory, Sweden",
+  "taken": "1999",
   "src": "library",
-  "id": "PIA18164",
+  "id": "PIA04214",
   "px": [
     1920,
-    1920
+    1536
   ],
   "w": 640,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgIAAQf/xAAiEAABBAIBBQEBAAAAAAAAAAABAAIDBBExBRITIUFRImH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEBAQEBAQAAAAAAAAAAAAABEQACITH/2gAMAwEAAhEDEQA/APPAMnCrCzRr6Ut4fiqEFUWL4MrzpgPgFZX2G2HlcTLHAZIOFKV34IZw51aHoAOv4jNlobM9o9HCVsdXklNMRAeCfRSbj7MdiLtSv6fOQfiLLocRolEbTTnoCOXchfp0abo4ZO9YfgfnTQPqJPcXvLjsnKxcTsqUBtcevIfN/9k=",
+  "h": 512,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAaACADASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABAEAAgMFB//EACQQAAIBBAIBBAMAAAAAAAAAAAECAwAEERIxUSEFE2GRQUJx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAgMRISL/2gAMAwEAAhEDEQA/AOehFP4FMsrFLmZYyFGxxknig7Y7pnp8dzd3KwWa7TOcKvZqdTTXjNWOmU0nc9Feq+lxWE5iDpIR+ynIrWFEB8AUq6jukYrN5YAFuBrkZxzz8UVcMGOwBGPB5P8AKUTSXKfR7a5U/ieEuXcRj2CNFwCqY285yez5pVjc3FnPFLHL7TowZSzjK/OKHqOh9VOq9D6qpkM15I87BpHEjKoXbYEsBxR1IHjQ57J4q7Veh9VQVcjwOeqAP//Z",
   "quiz": [
     {
-      "q": "Vad är det för slags objekt som syns på bilden?",
+      "q": "Vad är en planetarisk nebulosa?",
       "options": [
-        "En planetarisk nebulosa skapad av en döende stjärna",
-        "En virvlande spiralgalax sedd rakt uppifrån",
-        "Ett tätt gasmoln där nya stjärnor just föds"
-      ],
-      "correct": 0,
-      "fact": "Trots namnet består en planetarisk nebulosa av gas och stoft som stötts ut från en döende sollik stjärna."
-    },
-    {
-      "q": "Vad döljer sig i nebulosans allra innersta centrum?",
-      "options": [
-        "Ett supermassivt svart hål",
-        "En vit dvärg",
-        "En ung jätteplanet"
+        "En nyfödd stjärnas omgivande stoftmoln",
+        "Glödande gasrester från en döende stjärna",
+        "En planet under bildande i rymden"
       ],
       "correct": 1,
-      "fact": "När den ursprungliga stjärnan kastade av sig sina yttre lager lämnades en het, kompakt vit dvärg kvar i mitten."
+      "fact": "En planetarisk nebulosa har inget med planeter att göra utan är de yttre lagren som en döende stjärna kastar ut."
     },
     {
-      "q": "Vilken geometrisk form har Helixnebulosan i verkligheten?",
+      "q": "Vilken typ av stjärna bildar en planetarisk nebulosa?",
       "options": [
-        "En platt rund skiva",
-        "En perfekt sfäriskt klot",
-        "En cylinder riktad mot oss"
+        "En mycket tung och massiv stjärna",
+        "En stjärna av relativt lätt typ",
+        "En jättelik superjätte i sitt slutskede"
       ],
-      "correct": 2,
-      "fact": "Nebulosan är formad som en gigantisk tub eller cylinder, men eftersom vi ser rakt in i den ser den rund ut."
+      "correct": 1,
+      "fact": "Det är relativt lätta stjärnor, liknande vår sol, som avslutar sina liv genom att bilda en vacker nebulosa."
+    },
+    {
+      "q": "Vad händer med stjärnans kärna inuti nebulosan?",
+      "options": [
+        "Den blir till en tät vit dvärg",
+        "Den kollapsar direkt till ett svart hål",
+        "Den exploderar i en kraftig supernova"
+      ],
+      "correct": 0,
+      "fact": "När de yttre gaslagren har flutit ut i rymden återstår endast stjärnans heta och kompakta kärna, kallad en vit dvärg."
     }
   ],
   "levels": {
-    "barn": "Det här ser ut som ett gigantiskt, glödande rymdöga som stirrar ut i mörkret! I själva verket är det en stjärna som har blivit väldigt gammal och pustat ut massor av färggrann rök. Tänk dig att du blåser såpbubblor eller rökringar, fast den här rökringen är så enorm att den tar flera år för ljuset att korsa. I mitten finns den lilla resten av stjärnan kvar, varm som en glödande kolbit.",
-    "nyborjare": "Den färgstarka Helixnebulosan är en planetarisk nebulosa som ligger cirka 650 ljusår bort i stjärnbilden Vattumannen. Denna historiska bild sattes samman år 2002 med data från rymdteleskopet Hubble och Kitt Peak-observatoriet. Den visar vad som händer när en stjärna som liknar vår sol når slutet av sitt liv. Stjärnan kastar ut sina yttre gasskikt i rymden, och kvar i mitten blir en het vit dvärg. Gasen hettas upp av strålningen från stjärnresten och börjar glöda i fantastiska färger: syre lyser blått medan väte och kväve färgar kanterna röda. Även om formen påminner om en bubbla ser vi egentligen rakt in i en gigantisk tunnel av gas.",
-    "entusiast": "Helixnebulosan, katalogiserad som NGC 7293, är en av de allra närmaste planetariska nebulosorna till jorden med ett avstånd på cirka 650 ljusår. Denna mosaik sammanställdes år 2002 under meteorsvärmen leoniderna, då Hubble riktades om i nio omloppsbanor för att av säkerhetsskäl vända baksidan mot partikelströmmen. Bilden kombinerar Hubbles Advanced Camera for Surveys med vidvinkeldata från Kitt Peak. Den spänner över nästan tre ljusår i diameter och avslöjar tusentals radiella, kometliknande filament längs ringens insida. Dessa strukturer uppstod när en snabb, het stjärnvind plöjde in i äldre och kallare utkastade gasskal. Den fluorescerande ringen består av syreexcitation centralt och joniserat väte och kväve perifert. Spektroskopiska analyser visar att nebulosan inte är en enkel sfär utan en expanderande cylinder orienterad nästan direkt längs vår synlinje mot den centrala heta vita dvärgen."
+    "barn": "Tänk dig att en stjärna har levt i miljarder år och till slut börjar bli gammal och trött. Då blåser den bort sina färgglada fluffiga kläder ut i rymden ungefär som när man blåser ut ett moln av såpbubblor. Kvar i mitten blir en liten glödande kärna som skiner som en stjärna i miniatyr.",
+    "nyborjare": "Bilden visar ett fascinerande och tidigare gåtfullt objekt som kallas för en planetarisk nebulosa. Trots sitt missvisande namn har nebulosan ingenting med planeter att göra. Den består i stället av glödande gasrester som en döende och förhållandevis lätt stjärna har kastat ut i rymden. När de yttre lagren sprids bildas vackra och komplexa strukturer runt den kvarvarande stjärnkärnan.",
+    "entusiast": "Det mystiska objektet He2-90 har länge gäckat astronomer men har tack vare observationer med NASA:s rymdteleskop kunnat avslöja viktiga ledtrådar om sin identitet. Objektet är klassificerat som en planetarisk nebulosa vilket är ett lysande hölje av gas som kastas ut av en döende stjärna med låg massa i slutet av dess utveckling. Genom att studera dessa dynamiska processer får forskare en djupare förståelse för hur stjärnor utvecklas och sprider grundämnen i universum."
   },
   "terms": [
     {
-      "term": "planetarisk nebulosa",
-      "explanation": "Ett expanderande moln av glödande gas som stötts ut från en döende stjärna av solens storlek."
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och stoft ute i rymden som ofta lyser vackert."
     },
     {
-      "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett helt jordår."
+      "term": "stjärna",
+      "explanation": "Ett jättelikt brinnande klot av gas som avger ljus och värme i rymden."
     },
     {
-      "term": "vit dvärg",
-      "explanation": "Den extremt heta och kompakta restkärna som blir kvar när en medeltung stjärna har dött."
+      "term": "rymdteleskop",
+      "explanation": "Ett avancerat optiskt instrument som placerats ovanför jordens atmosfär för att studera universum."
     },
     {
-      "term": "stjärnvind",
-      "explanation": "En kontinuerlig ström av laddade gaspartiklar som blåser ut från en stjärnas atmosfär."
+      "term": "universum",
+      "explanation": "Allt som existerar inklusive alla planeter stjärnor galaxer och tomrum."
     }
   ],
   "en": {
     "levels": {
-      "barn": "This looks like a giant glowing eye watching us from deep space! It is actually an old star that puffed out colourful smoke rings as it grew very old. Imagine blowing giant bubbles, but this gas ring is so huge it takes light several years to travel across it. In the very middle rests the tiny remnant of the star, glowing hot like an ember in a campfire.",
-      "nyborjare": "The colourful Helix Nebula is a planetary nebula located about 650 light-years away in the constellation Aquarius. This historic portrait was assembled in 2002 using data from the Hubble Space Telescope and the Kitt Peak observatory. It shows what happens when a star similar to our Sun reaches the end of its life. The star ejects its outer gaseous layers into space, leaving behind a scorching white dwarf at the core. Radiation from this leftover star illuminates the gas: oxygen fluoresces in brilliant blue while hydrogen and nitrogen glow deep red. Although it appears as a spherical bubble, we are actually peering straight down a trillion-mile-long tunnel of gas.",
-      "entusiast": "The Helix Nebula, catalogued as NGC 7293, is one of the closest planetary nebulae to Earth at roughly 650 light-years. This composite was captured in 2002 during the Leonid meteor storm, when Hubble was safely pointed in the opposite direction of the stream across nine orbits. The mosaic combines Hubble's Advanced Camera for Surveys with wide-field views from Kitt Peak. Spanning nearly three light-years across, the view reveals thousands of comet-like radial filaments along the inner rim. These knots formed as a high-speed stellar wind slammed into cooler material previously shed by the dying star. The fluorescing gas maps ionised oxygen at the core and hydrogen and nitrogen in the periphery. Morphological studies show the nebula is an expanding cylinder aligned almost directly along our line of sight toward the central white dwarf."
+      "barn": "Imagine a star that has lived for billions of years and finally starts to get old and tired. It blows away its colorful fluffy clothes out into space much like blowing a cloud of soap bubbles. Left in the middle is a small glowing core shining like a miniature star.",
+      "nyborjare": "The image shows a fascinating and previously mysterious object known as a planetary nebula. Despite its misleading name, the nebula has nothing to do with planets. Instead, it consists of glowing gas remains that a dying and relatively lightweight star has ejected into space. As the outer layers spread, beautiful and complex structures form around the remaining stellar core.",
+      "entusiast": "The mysterious object He2-90 has long puzzled astronomers but has yielded important clues to its identity thanks to observations with the NASA space telescope. The object is classified as a planetary nebula, which is a luminous envelope of gas ejected by a dying low-mass star at the end of its evolution. By studying these dynamic processes, researchers gain a deeper understanding of how stars evolve and enrich the universe."
     },
     "terms": [
       {
-        "term": "planetary nebula",
-        "explanation": "An expanding shell of glowing gas ejected by an intermediate-mass star near the end of its life."
+        "term": "nebula",
+        "explanation": "A giant cloud of gas and dust in space that often glows brightly."
       },
       {
-        "term": "light-year",
-        "explanation": "The distance that a beam of light travels through empty space in one Earth year."
+        "term": "star",
+        "explanation": "A massive burning sphere of gas that emits light and heat in space."
       },
       {
-        "term": "white dwarf",
-        "explanation": "The dense and extremely hot core remaining after a low- or medium-mass star exhausts its fuel."
+        "term": "space telescope",
+        "explanation": "An advanced optical instrument placed above Earth's atmosphere to study the universe."
       },
       {
-        "term": "stellar wind",
-        "explanation": "A powerful stream of charged particles and gas ejected outward from a star into space."
+        "term": "universe",
+        "explanation": "Everything that exists including all planets stars galaxies and empty space."
       }
     ],
     "quiz": [
       {
-        "q": "What kind of astronomical object is shown in this image?",
+        "q": "What is a planetary nebula?",
         "options": [
-          "A planetary nebula shaped by a dying star",
-          "A swirling spiral galaxy viewed face-on",
-          "A dense gas cloud where new stars form"
-        ],
-        "correct": 0,
-        "fact": "Despite the historical name, a planetary nebula consists of gas cast off by a dying star like our Sun."
-      },
-      {
-        "q": "What lies at the exact center of this glowing nebula?",
-        "options": [
-          "A supermassive black hole",
-          "A white dwarf",
-          "A young giant planet"
+          "A dust cloud surrounding a newborn star",
+          "Glowing gas remains of a dying star",
+          "A planet forming in deep space"
         ],
         "correct": 1,
-        "fact": "When the original star blew off its outer layers, a hot and dense stellar remnant known as a white dwarf remained."
+        "fact": "A planetary nebula has nothing to do with planets but consists of the outer layers shed by a dying star."
       },
       {
-        "q": "What is the true three-dimensional shape of the Helix Nebula?",
+        "q": "What type of star forms a planetary nebula?",
         "options": [
-          "A flat circular disk",
-          "A perfect hollow sphere",
-          "A cylinder pointed toward us"
+          "A very heavy and massive star",
+          "A relatively lightweight star",
+          "A giant supergiant at the end of its life"
         ],
-        "correct": 2,
-        "fact": "The nebula is actually shaped like a long tube or cylinder aligned almost directly toward Earth."
+        "correct": 1,
+        "fact": "Relatively lightweight stars, similar to our Sun, end their lives by creating these glowing nebulae."
+      },
+      {
+        "q": "What happens to the core inside the nebula?",
+        "options": [
+          "It becomes a dense white dwarf",
+          "It immediately collapses into a black hole",
+          "It explodes in a powerful supernova"
+        ],
+        "correct": 0,
+        "fact": "Once the outer gas layers drift away into space, only the hot and compact stellar core remains as a white dwarf."
       }
     ]
   }

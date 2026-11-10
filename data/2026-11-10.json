@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-10",
+  "title": "What Happened When?",
+  "title_sv": "Vad som hände när?",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA25447/PIA25447~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA25447/PIA25447~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA25447/PIA25447~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA25447",
+  "credit": "NASA/JPL-Caltech/University of Arizona",
+  "taken": "2022",
+  "src": "library",
+  "id": "PIA25447",
+  "px": [
+    1920,
+    1200
+  ],
+  "w": 640,
+  "h": 400,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAjEAABBAICAgIDAAAAAAAAAAABAAIDBBESBSETUQYxYcHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AHKxaAHP7DRnHtROX52WpbbBDobGAZJCM657DQEu/wCQOlJipwkNAxu/+JQcJbu2/M8kCQ7OJHaC0+WxHVfb6lIHbfrKnx2OSv8AcZ0aDgBjf2V1daiyKqIsAjABJWSIKrdYgC70B0ECHD8ZVbEH+PLvyrWjY4dmgAoQgSlnkcCC7A9BLZyShCD/2Q==",
+  "quiz": [
+    {
+      "q": "Vad avslöjar lager i botten av en nedslagskrater?",
+      "options": [
+        "Planetens historiska klimat och väderförhållanden",
+        "Geologisk historia under ytan",
+        "Sammansättningen av den omgivande rymden"
+      ],
+      "correct": 1,
+      "fact": "När en krater bildas slås material upp från djupet, vilket blottlägger äldre underjordiska skikt för forskning."
+    },
+    {
+      "q": "Hur kan forskare avgöra åldern på olika ytor på Mars?",
+      "options": [
+        "Genom att räkna antalet mindre nedslagskratrar",
+        "Genom att mäta temperaturen i bergarterna",
+        "Genom att studera vindarnas riktning på planeten"
+      ],
+      "correct": 0,
+      "fact": "Ytor som har funnits länge drabbas av fler nedslag, vilket gör att tätheten av mindre kratrar visar åldern."
+    },
+    {
+      "q": "Vad driver geologisk aktivitet i sluttningar på Mars?",
+      "options": [
+        "Flytande vatten som strömmar regelbundet",
+        "Vulkanisk magma som tränger upp",
+        "Rullande block och stenar"
+      ],
+      "correct": 2,
+      "fact": "Faktisk aktivitet kan observeras genom stenblock och jordskred som rullat nedför branta sluttningar."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du gräver en grop i sanden och hittar gamla leksaker långt ner. På Mars gör jättelika stenbumlingar som slår ner samma sak. De gräver djupa gropar, som kallas kratrar, och drar upp spännande saker från planetens insida. Sedan kan rullande stenar ramla ner för kanterna, vilket visar att Mars fortfarande förändras.",
+    "nyborjare": "Att studera vad som händer när himlakroppar kolliderar ger geologer ovärderlig information om Mars historia. En krater som bildas genom ett kraftigt nedslag fungerar som ett naturligt fönster som blottlägger flera lager under ytan. Vissa delar av strukturen kan senare eroderas eller skadas av kanaler som öppnas upp. Genom att studera kratertäthet kan forskare avgöra vilka områden som är äldre eller yngre. De färskaste tecknen på aktivitet är ofta lösa block och stenar som har rullat nerför branta sluttningar.",
+    "entusiast": "Analysen av nedslagskratrar och tillhörande utkastat material ger djupgående kunskap om Mars stratigrafi och geologiska utveckling. När en impaktor slår igenom ytan blottläggs underlag som normalt är dolda, vilket ger en vertikal profil av marskasten. Sekundära processer som kanalisering och fluvial eller eolisk erosion kan därefter modifiera den ursprungliga formen. Genom att räkna nedslagskratrar på olika ytenheter kan man åldersbestämma dem relativt baserat på nedslagsfrekvens. De mest recenta geologiska processerna indikeras av instabilitet i slänter, där stenblock mobiliseras och rullar nedför kanalsidorna."
+  },
+  "terms": [
+    {
+      "term": "krater",
+      "explanation": "En skålformad sänka som bildas på en planet eller måne efter ett häftigt nedslag."
+    },
+    {
+      "term": "geologi",
+      "explanation": "Läran om en himlakropps fasta uppbyggnad, sammansättning och de processer som formar dess yta."
+    },
+    {
+      "term": "stratigrafi",
+      "explanation": "Studiet av berglager och deras inbördes åldersförhållande för att förstå en planets historia."
+    },
+    {
+      "term": "erosion",
+      "explanation": "När vind, vatten eller is bryter ner och flyttar material från en plats till en annan."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine digging a hole in the sand and finding old toys deep down. On Mars, giant space rocks crashing down do the exact same thing. They dig deep pits called craters and pull up exciting things from inside the planet. Later, rolling rocks can tumble down the edges, showing that Mars is still changing today.",
+      "nyborjare": "Studying impact events gives geologists vital clues about the history of Mars. A crater that punches through the surface acts as a natural window revealing multiple layers formed deep below. Parts of these features can later be altered by channels opening up. By observing crater density, scientists can figure out the relative ages of different terrain features. The most recent signs of activity are often loose boulders that have tumbled down steep slopes.",
+      "entusiast": "Analyzing impact craters and associated ejecta provides profound insight into Martian stratigraphy and geological evolution. An impactor punching through the surface excavates subsurface layers, offering a vertical cross-section of planetary geology. Subsequent secondary processes, such as channel formation and erosion, modify these structures. Relative dating is achieved through crater counting on different units. The most recent modifications are indicated by mass wasting events, where boulders mobilize and tumble down channel flanks."
+    },
+    "terms": [
+      {
+        "term": "crater",
+        "explanation": "A bowl-shaped depression formed on a planet or moon following a high-velocity impact."
+      },
+      {
+        "term": "geology",
+        "explanation": "The scientific study of the solid structure, composition, and physical processes shaping a planetary body."
+      },
+      {
+        "term": "stratigraphy",
+        "explanation": "The study of rock layers and their chronological relationship to understand planetary history."
+      },
+      {
+        "term": "erosion",
+        "explanation": "The process by which wind, water, or other natural forces wear away and transport surface material."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What do layers exposed at the bottom of an impact crater reveal?",
+        "options": [
+          "Historical climate and weather patterns",
+          "Subsurface geological history",
+          "The composition of surrounding space"
+        ],
+        "correct": 1,
+        "fact": "When a crater forms, material from deep below is excavated, exposing older subsurface layers for research."
+      },
+      {
+        "q": "How can scientists determine the relative age of different Martian surfaces?",
+        "options": [
+          "By counting the density of smaller impact craters",
+          "By measuring the temperature within the rocks",
+          "By studying the prevailing wind directions"
+        ],
+        "correct": 0,
+        "fact": "Surfaces exposed longer accumulate more impacts, making the density of smaller craters a reliable age indicator."
+      },
+      {
+        "q": "What indicates the most recent activity along channel slopes on Mars?",
+        "options": [
+          "Flowing liquid water streams",
+          "Upwelling volcanic magma",
+          "Boulders tumbling down the sides"
+        ],
+        "correct": 2,
+        "fact": "Recent geological activity is often highlighted by loose boulders that have tumbled down steep slopes."
+      }
+    ]
+  }
+}
