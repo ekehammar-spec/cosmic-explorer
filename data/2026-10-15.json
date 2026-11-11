@@ -2,137 +2,141 @@
   "v": 4,
   "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Hubble Captures View of Mystic Mountain",
-  "title_sv": "Mystic Mountain i Carinanebulosan",
+  "title": "Crab Nebula from Five Observatories",
+  "title_sv": "Krabbnebulosan sedd genom fem observatorier",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA15985/PIA15985~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA15985/PIA15985~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA15985/PIA15985~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA15985",
-  "credit": "NASA/ESA/STScI",
-  "taken": "2010",
+  "url": "https://images-assets.nasa.gov/image/PIA21474/PIA21474~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA21474/PIA21474~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA21474/PIA21474~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA21474",
+  "credit": "NASA, ESA, G. Dubner IAFE, CONICET-University of Buenos Aires et al.; A. Loll et al.; T. Temim et al.; F. Seward et al.; VLA/NRAO/AUI/NSF; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI",
+  "taken": "2017",
   "src": "library",
-  "id": "PIA15985",
+  "id": "PIA21474",
   "px": [
-    1920,
-    1767
+    1296,
+    1024
   ],
   "w": 640,
-  "h": 589,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAJhAAAgEDAwQBBQAAAAAAAAAAAQIDAAQREiExEyIyQRQFYXGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABEQIDEiEi/9oADAMBAAIRAxEAPwDnJ4WBw3kNxipiDhVLoCPRpk4WWEOqglRgirfAjmCDq9GQ+SkdoPrJ9ZqjiVYepWCKOSJpHXSeF35oeaEPAEVu/OdhTR/pszs0QZwiLjGNh72pfdr8ZtKgjbknmqZjy6HSj8LWF1FBaK0iF5GzoAP7P8rSO/e3dDqSVdQZlcd35FB27LHGXK6tA4zjOaF0l71MMVywA+1Z95vhbOoqPZb6FmEhuHjjByFQcVpdT2EyxsjMTz4gYzSS+LQXYjVspEQoBHNDzPpclQACTtQ431Y+T6VP/9k=",
+  "h": 505,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABQcBBgACAwT/xAAkEAACAQMEAgIDAAAAAAAAAAABAgMABBESITFBBlFxgQUTFP/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRMQMS/9oADAMBAAIRAxEAPwBb17LGxnu5AsSM2TwvdcrO3a6uFjXumB4qFEn88kDKQAclcKVHv7NOpsVK/XZWm8clitv2yDAYZBzxQCWMxuUPIpmeUzxWZYRuG1puu+3yeKWlw+uVm91XAcI/QqBk2tp2t5NaHS3RB4o3F5AYwrqSrqunbcN8iq9WUZyFOQnd/l57rIdtjtj1Q1iSxPNT19VHday3ez//2Q==",
   "quiz": [
     {
-      "q": "Vad består pelaren på bilden huvudsakligen av?",
+      "q": "Vad orsakade bildandet av Krabbnebulosan?",
       "options": [
-        "Fast berg och sten",
-        "Kall gas och rymdstoft",
-        "Fryst koldioxid och is"
-      ],
-      "correct": 1,
-      "fact": "Trots att strukturen liknar ett berg består den nästan uteslutande av vätgas och mikroskopiska stoftkorn."
-    },
-    {
-      "q": "Vad sker i de täta delarna av pelaren?",
-      "options": [
-        "Nya stjärnor håller på att födas",
-        "Ett supermassivt svart hål bildas",
-        "Gamla stjärnor svalnar och dör"
+        "En massiv stjärnas våldsamma supernovaexplosion",
+        "En krock mellan två massiva galaxer",
+        "Ett kollapsande gasmoln som bildar stjärnor"
       ],
       "correct": 0,
-      "fact": "Gas och stoft dras samman av tyngdkraften tills tryck och hetta tänder nya stjärnor."
+      "fact": "År 1054 exploderade en massiv stjärna som en supernova och lämnade efter sig detta expanderande gasmoln."
     },
     {
-      "q": "Varför nöts pelaren sakta bort med tiden?",
+      "q": "Vad finns i Krabbnebulosans allra innersta centrum?",
       "options": [
-        "Den kolliderar med en annan galax",
-        "Pelaren fryser sönder i rymdens kyla",
-        "Närliggande heta stjärnor blåser bort den"
+        "En nyfödd röd dvärgstjärna",
+        "Ett supermassivt svart hål",
+        "En ultrasnabbt roterande neutronstjärna"
       ],
       "correct": 2,
-      "fact": "Intensiv ultraviolett strålning och stjärnvindar från nyfödda grannstjärnor eroderar gasmolnet."
+      "fact": "Kärnan från den exploderade stjärnan kollapsade till en extremt kompakt neutronstjärna som snurrar trettio varv i sekunden."
+    },
+    {
+      "q": "Hur långt från jorden ligger Krabbnebulosan?",
+      "options": [
+        "Cirka 50 ljusår bort",
+        "Cirka 6 500 ljusår bort",
+        "Cirka 2,5 miljoner ljusår bort"
+      ],
+      "correct": 1,
+      "fact": "Supernovan inträffade på 6 500 ljusårs avstånd, vilket räddade jorden från dödlig strålning."
     }
   ],
   "levels": {
-    "barn": "Det här ser ut som ett magiskt sagoberg, men det svävar fritt i rymden! Tornet kallas Mystic Mountain och är byggt av gigantiska moln av gas och rymdstoft.\n\nMolnet är så enormt stort att det skulle ta tre år för en ljusstråle att resa från botten till toppen. Inuti molnet gömmer sig nyfödda bebisstjärnor. De skjuter ut strålar av eld och gas, precis som när man sprutar vatten ur en trädgårdsslang.",
-    "nyborjare": "Denna dramatiska formation fotograferades av rymdteleskopet Hubble år 2010 och har fått smeknamnet Mystic Mountain. Det som ser ut som en bergstopp är i själva verket en tre ljusår hög pelare av gas och stoft i Carinanebulosan, omkring 7 500 ljusår från jorden.\n\nEn nebulosa är ett gigantiskt moln i rymden där nya stjärnor bildas. Inuti pelaren trycks gas ihop av gravitationen för att tända nya solar. Samtidigt pågår en destruktiv kamp: starkt ljus och kraftiga vindar från massiva stjärnor i närheten nöter sakta bort stoftpelaren.",
-    "entusiast": "Bilden togs 2010 med rymdteleskopet Hubbles Wide Field Camera 3 för att fira teleskopets tjugoårsjubileum. Den visar en pelare i Carinanebulosan (NGC 3372) på ett avstånd av cirka 7 500 ljusår. Pelaren sträcker sig cirka tre ljusår på höjden och formas av fotoevaporation.\n\nDen intensiva ultravioletta strålningen från nybildade, massiva O- och B-stjärnor i området joniserar gasen och eroderar de glesare delarna av molnet. De tätaste partierna fungerar som sköldar och bildar de karakteristiska pelarstrukturerna.\n\nLängst upp i topparna syns protostjärnor som skjuter ut bipolära gasstrålar, så kallade Herbig-Haro-objekt (HH 901 och HH 902). Dessa jetstrålar rör sig i hastigheter på hundratals kilometer per sekund och kolliderar med det omgivande mediet, vilket skapar chockvågor. Mystic Mountain är därmed en dynamisk illustration av stjärnbildning, där destruktiv strålning och gravitationskollaps verkar sida vid sida."
+    "barn": "Det här färgsprakande molnet kallas Krabbnebulosan. För nästan tusen år sedan exploderade en jättestor stjärna långt ute i rymden. Explosionen var så stark att den syntes på himlen mitt på dagen. Nu är själva stjärnan borta, men resterna flyger utåt som ett fyrverkeri i ultrarapid. Mitt i alltihop finns en pytteliten, supertung boll som snurrar jättefort. Den skickar ut energi som får hela rymdfyrverkeriet att glöda i regnbågens alla färger.",
+    "nyborjare": "Krabbnebulosan är resterna av en massiv stjärna som exploderade i en våldsam supernova år 1054. Explosionen lyste så kraftigt att dåtidens astronomer kunde se den mitt på blanka dagen. Det glödande molnet ligger ungefär 6 500 ljusår från jorden och expanderar fortfarande ut i rymden med enorm hastighet. I nebulosans mitt finns resterna av stjärnans kärna: en extremt tät neutronstjärna. Den snurrar trettio varv per sekund och fungerar som en magnetisk dynamo som pumpar ut energi i det omgivande gasmolnet. Denna bild skapades år 2017 genom att kombinera data från fem olika teleskop, från radiovågor till röntgenstrålning, för att kartlägga fysiken bakom explosionen.",
+    "entusiast": "Krabbnebulosan (Messier 1) är en av astrofysikens bäst kartlagda supernovarester, belägen cirka 6 500 ljusår bort i stjärnbilden Oxen. Den historiska supernovan observerades år 1054 och lyste tillfälligt lika starkt som 400 miljoner solar. Hade explosionen inträffat inom 50 ljusår från oss hade den utplånat jordens liv med intensiv strålning. I nebulosans hjärta roterar Krabbpulsaren, en ultrakompakt neutronstjärna med en radie på drygt en mil men med större massa än solen. Pulsarens kraftfulla magnetfält driver en vind av relativistiska elektroner och positroner som exciterar plasmat via synkrotronstrålning. För att förstå dessa komplexa energetiska förlopp krävs observationer över hela det elektromagnetiska spektrumet. Denna multispektrala mosaik, sammansatt år 2017, kombinerar data från Very Large Array i radio (rött), Spitzer i infrarött (gult), Hubble i synligt ljus (grönt), XMM-Newton i ultraviolett (blått) samt Chandra i röntgenstrålning (lila). Tillsammans avslöjar våglängderna hur magnetfält, stoft och expanderande chockvågor växelverkar i den kollapsade stjärnans kölvatten."
   },
   "terms": [
     {
+      "term": "supernova",
+      "explanation": "En våldsam explosion som markerar slutet på en massiv stjärnas liv."
+    },
+    {
+      "term": "neutronstjärna",
+      "explanation": "Den extremt täta kvarlevan efter en kollapsad stjärnkärna som huvudsakligen består av neutroner."
+    },
+    {
+      "term": "synkrotronstrålning",
+      "explanation": "Elektromagnetisk strålning som sänds ut när laddade partiklar accelereras i starka magnetfält nära ljushastigheten."
+    },
+    {
+      "term": "magnetfält",
+      "explanation": "Ett osynligt kraftfält som genereras av elektriska laddningar i rörelse och påverkar magnetiska material."
+    },
+    {
       "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas i vakuum under ett helt år, ungefär 9,46 biljoner kilometer."
-    },
-    {
-      "term": "nebulosa",
-      "explanation": "Ett vidsträckt interstellärt moln av gas och rymdstoft där stjärnor ofta bildas eller dör."
-    },
-    {
-      "term": "gravitation",
-      "explanation": "Den dragande kraft som all materia utövar på annan materia och som håller samman himlakroppar."
-    },
-    {
-      "term": "fotoevaporation",
-      "explanation": "Processen där energirik strålning hettar upp och blåser bort gas från ett tätt moln."
-    },
-    {
-      "term": "protostjärna",
-      "explanation": "Ett mycket ungt förstadium till en stjärna som fortfarande drar till sig materia från omgivningen."
+      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett jordår."
     }
   ],
   "en": {
     "levels": {
-      "barn": "This looks like a magical fairy-tale mountain, but it floats in deep space! It is called Mystic Mountain and is made of giant clouds of gas and dust.\n\nThe cloud is so big that it would take three years for a beam of light to travel from bottom to top. Baby stars are hiding inside it. They blast out jets of gas, just like water spraying out of a garden hose.",
-      "nyborjare": "This dramatic cosmic landscape was photographed by the Hubble Space Telescope in 2010 and is known as Mystic Mountain. What looks like a rocky crag is actually a three-light-year-tall pillar of gas and dust inside the Carina Nebula, located 7,500 light-years away.\n\nA nebula is a vast cloud in space where new stars are born. Inside this pillar, gravity compresses gas to ignite baby stars. Meanwhile, intense light and winds from nearby massive stars are eroding the pillar, slowly tearing it apart over millions of years.",
-      "entusiast": "Captured in 2010 by Hubble's Wide Field Camera 3 to commemorate the observatory's twentieth anniversary, this feature lies within the Carina Nebula (NGC 3372) roughly 7,500 light-years from Earth. The pillar spans approximately three light-years and is shaped primarily by photoevaporation.\n\nIntense ultraviolet radiation from nearby hot O- and B-type stars ionizes the gas and sweeps away less dense material, leaving behind dense columns shielded by compact clumps. Embedded protostars near the peaks drive powerful bipolar outflows, known as Herbig-Haro objects (HH 901 and HH 902), launching jets at hundreds of kilometers per second into the interstellar medium."
+      "barn": "This colorful cloud in space is called the Crab Nebula. Nearly a thousand years ago, a giant star exploded far away. The explosion was so bright that people could see it shining in the daytime sky! The star is gone now, but its shattered pieces are still flying outward like fireworks in slow motion. Right in the middle sits a tiny, super-heavy ball spinning incredibly fast. It pumps out energy that makes the whole cloud glow with wonderful colors.",
+      "nyborjare": "The Crab Nebula is the expanding remnant of a massive star that blew itself apart in a violent supernova in the year 1054. The blast shone so brightly that historical observers could see it during daylight hours. Located roughly 6,500 light-years away, this cloud continues expanding into space at tremendous speeds. At the nebula's core lies the collapsed heart of the dead star: an ultra-dense neutron star. Spinning thirty times every second, it behaves like an intense dynamo, energizing the surrounding gas. This composite image was created in 2017 by combining observations from five different telescopes across the spectrum, from radio waves to energetic X-rays, revealing the detailed physics behind the cosmic explosion.",
+      "entusiast": "The Crab Nebula (Messier 1) serves as a vital laboratory and is one of the most thoroughly studied supernova remnants in astrophysics. Located 6,500 light-years away in Taurus, it originates from a core-collapse supernova observed in 1054 that briefly outshone 400 million suns. At its center lies the Crab Pulsar, an ultra-dense neutron star packing more mass than our Sun into a sphere barely twenty kilometers across. Spinning thirty times per second, its powerful magnetic field accelerates relativistic particles, lighting up the nebula through synchrotron radiation. To capture these complex high-energy interactions, astronomers must observe across the entire electromagnetic spectrum. This multiwavelength composite, released in 2017, integrates data from the Very Large Array in radio (red), Spitzer in infrared (yellow), Hubble in visible light (green), XMM-Newton in ultraviolet (blue), and Chandra in X-rays (purple). Together, they reveal how pulsar winds and shockwaves sculpt the expanding remnant."
     },
     "terms": [
       {
-        "term": "light-year",
-        "explanation": "The distance that light travels through empty space in one year, roughly 9.46 trillion kilometers."
+        "term": "supernova",
+        "explanation": "A catastrophic explosion marking the violent end of a massive star's life."
       },
       {
-        "term": "nebula",
-        "explanation": "A massive interstellar cloud of gas and dust where stars are born or remnants of dying stars expand."
+        "term": "neutron star",
+        "explanation": "An extremely dense stellar remnant created when a massive star's core collapses under gravity."
       },
       {
-        "term": "photoevaporation",
-        "explanation": "The process where energetic radiation strips away and disperses gas from a dense cloud."
+        "term": "synchrotron radiation",
+        "explanation": "Electromagnetic radiation emitted when charged particles accelerate in a magnetic field near light speed."
       },
       {
-        "term": "protostar",
-        "explanation": "An early stage in stellar evolution where a collapsing cloud core is still accreting surrounding mass."
+        "term": "magnetic field",
+        "explanation": "An invisible field of force produced by moving electric charges or magnetic materials."
+      },
+      {
+        "term": "light-years",
+        "explanation": "The astronomical distance that a beam of light travels through space in one Earth year."
       }
     ],
     "quiz": [
       {
-        "q": "What is the pillar in the image primarily made of?",
+        "q": "What caused the formation of the Crab Nebula?",
         "options": [
-          "Solid rock and mineral dust",
-          "Cold gas and cosmic dust",
-          "Frozen carbon dioxide and ice"
-        ],
-        "correct": 1,
-        "fact": "Although it resembles a mountain of rock, it consists almost entirely of hydrogen gas and microscopic dust."
-      },
-      {
-        "q": "What is happening inside the dense tips of the pillar?",
-        "options": [
-          "New stars are being born",
-          "A supermassive black hole is forming",
-          "Ancient stars are cooling and dying"
+          "A massive star's violent supernova explosion",
+          "A collision between two massive galaxies",
+          "A collapsing gas cloud forming new stars"
         ],
         "correct": 0,
-        "fact": "Gravity pulls gas and dust together until the heat and pressure ignite nuclear fusion in newborn stars."
+        "fact": "In 1054, a massive star exploded as a supernova, leaving behind this expanding cloud of glowing debris."
       },
       {
-        "q": "Why is the pillar slowly eroding away over time?",
+        "q": "What lies at the Crab Nebula's center?",
         "options": [
-          "It is colliding with another galaxy",
-          "It is freezing apart in deep space",
-          "Nearby hot stars blow it away"
+          "A newly formed red dwarf star",
+          "A supermassive black hole",
+          "An ultrafast spinning neutron star"
         ],
         "correct": 2,
-        "fact": "Intense ultraviolet light and stellar winds from massive neighboring stars actively strip the cloud away."
+        "fact": "The crushed core of the exploded star collapsed into an ultra-dense neutron star spinning thirty times per second."
+      },
+      {
+        "q": "How far from Earth is the Crab Nebula?",
+        "options": [
+          "Around 50 light-years away",
+          "Around 6,500 light-years away",
+          "Around 2.5 million light-years away"
+        ],
+        "correct": 1,
+        "fact": "The supernova occurred 6,500 light-years away, keeping Earth safe from deadly radiation."
       }
     ]
   }
