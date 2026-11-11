@@ -1,142 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Crab Nebula from Five Observatories",
-  "title_sv": "Krabbnebulosan sedd genom fem observatorier",
+  "title": "Supernova Remnant W49B",
+  "title_sv": "Supernovarester W49B",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA21474/PIA21474~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA21474/PIA21474~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA21474/PIA21474~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA21474",
-  "credit": "NASA, ESA, G. Dubner IAFE, CONICET-University of Buenos Aires et al.; A. Loll et al.; T. Temim et al.; F. Seward et al.; VLA/NRAO/AUI/NSF; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002134/GSFC_20171208_Archive_e002134~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002134/GSFC_20171208_Archive_e002134~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002134/GSFC_20171208_Archive_e002134~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002134",
+  "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "PIA21474",
+  "id": "GSFC_20171208_Archive_e002134",
   "px": [
-    1296,
-    1024
+    1920,
+    1737
   ],
   "w": 640,
-  "h": 505,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAZACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABQcBBgACAwT/xAAkEAACAQMEAgIDAAAAAAAAAAABAgMABBESITFBBlFxgQUTFP/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAQP/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRMQMS/9oADAMBAAIRAxEAPwBb17LGxnu5AsSM2TwvdcrO3a6uFjXumB4qFEn88kDKQAclcKVHv7NOpsVK/XZWm8clitv2yDAYZBzxQCWMxuUPIpmeUzxWZYRuG1puu+3yeKWlw+uVm91XAcI/QqBk2tp2t5NaHS3RB4o3F5AYwrqSrqunbcN8iq9WUZyFOQnd/l57rIdtjtj1Q1iSxPNT19VHday3ez//2Q==",
+  "h": 579,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAQYH/8QAJRAAAgEEAQMEAwAAAAAAAAAAAQIRAAMEITESIkEFUWHBFJHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAdEQABBAMBAQAAAAAAAAAAAAABAAIDERIiUTFB/9oADAMBAAIRAxEAPwDnwE3NiJ8cRTIxGBUsIVjozTuBjl8Vm6lLQGg8xNWrV30rDKJfttf6Fh2V+1j/ACmxxB7MrQySFjsaWvXMBmYKGPVtYIjYpVka0WRhDnkGNVczHXKuobAQBB2qvt9mg+s4w/CsXmAS8O1hO2Hg0mXFhDQbVROcfVOxsllYRsgQN8j2qjkZOGudZvWrIu2GVS1tjBmNj4qQepndiRIWTrnis9R0eDI2KG6BHVoOxB+hVQbNuyC8W23oGTHiB4pXMyhcxrNswWWdgc/JpYu6s7ByCAdj9fdBUd2tEcGhDeqDW1//2Q==",
   "quiz": [
     {
-      "q": "Vad orsakade bildandet av Krabbnebulosan?",
+      "q": "Vad är en supernovarest?",
       "options": [
-        "En massiv stjärnas våldsamma supernovaexplosion",
-        "En krock mellan två massiva galaxer",
-        "Ett kollapsande gasmoln som bildar stjärnor"
+        "Gas och stoft från en exploderad stjärna",
+        "En stjärna som håller på att födas",
+        "Resterna efter ett sammansmält svart hål"
       ],
       "correct": 0,
-      "fact": "År 1054 exploderade en massiv stjärna som en supernova och lämnade efter sig detta expanderande gasmoln."
+      "fact": "När en tung stjärna får slut på bränsle exploderar den i en supernova och kastar ut sina yttre delar i rymden."
     },
     {
-      "q": "Vad finns i Krabbnebulosans allra innersta centrum?",
+      "q": "Varför sänds röntgenstrålning ut från W49B?",
       "options": [
-        "En nyfödd röd dvärgstjärna",
-        "Ett supermassivt svart hål",
-        "En ultrasnabbt roterande neutronstjärna"
+        "Från extremt heta gaser i explosionen",
+        "Från magnetfältet runt en stillsam planet",
+        "Genom solens strålning som reflekteras"
       ],
-      "correct": 2,
-      "fact": "Kärnan från den exploderade stjärnan kollapsade till en extremt kompakt neutronstjärna som snurrar trettio varv i sekunden."
+      "correct": 0,
+      "fact": "Röntgenstrålning uppstår när material hettas upp till miljontals grader i efterdyningarna av en stjärnexplosion."
     },
     {
-      "q": "Hur långt från jorden ligger Krabbnebulosan?",
+      "q": "Vad är järnatomer i detta sammanhang?",
       "options": [
-        "Cirka 50 ljusår bort",
-        "Cirka 6 500 ljusår bort",
-        "Cirka 2,5 miljoner ljusår bort"
+        "Byggstenar skapade i stjärnans inre",
+        "Meteoriter som fallit mot en yta",
+        "Fasta stenar som kretsar kring gasmoln"
       ],
-      "correct": 1,
-      "fact": "Supernovan inträffade på 6 500 ljusårs avstånd, vilket räddade jorden från dödlig strålning."
+      "correct": 0,
+      "fact": "Tunga grundämnen som järn bildas inuti massiva stjärnor och sprids i rymden när stjärnan exploderar."
     }
   ],
   "levels": {
-    "barn": "Det här färgsprakande molnet kallas Krabbnebulosan. För nästan tusen år sedan exploderade en jättestor stjärna långt ute i rymden. Explosionen var så stark att den syntes på himlen mitt på dagen. Nu är själva stjärnan borta, men resterna flyger utåt som ett fyrverkeri i ultrarapid. Mitt i alltihop finns en pytteliten, supertung boll som snurrar jättefort. Den skickar ut energi som får hela rymdfyrverkeriet att glöda i regnbågens alla färger.",
-    "nyborjare": "Krabbnebulosan är resterna av en massiv stjärna som exploderade i en våldsam supernova år 1054. Explosionen lyste så kraftigt att dåtidens astronomer kunde se den mitt på blanka dagen. Det glödande molnet ligger ungefär 6 500 ljusår från jorden och expanderar fortfarande ut i rymden med enorm hastighet. I nebulosans mitt finns resterna av stjärnans kärna: en extremt tät neutronstjärna. Den snurrar trettio varv per sekund och fungerar som en magnetisk dynamo som pumpar ut energi i det omgivande gasmolnet. Denna bild skapades år 2017 genom att kombinera data från fem olika teleskop, från radiovågor till röntgenstrålning, för att kartlägga fysiken bakom explosionen.",
-    "entusiast": "Krabbnebulosan (Messier 1) är en av astrofysikens bäst kartlagda supernovarester, belägen cirka 6 500 ljusår bort i stjärnbilden Oxen. Den historiska supernovan observerades år 1054 och lyste tillfälligt lika starkt som 400 miljoner solar. Hade explosionen inträffat inom 50 ljusår från oss hade den utplånat jordens liv med intensiv strålning. I nebulosans hjärta roterar Krabbpulsaren, en ultrakompakt neutronstjärna med en radie på drygt en mil men med större massa än solen. Pulsarens kraftfulla magnetfält driver en vind av relativistiska elektroner och positroner som exciterar plasmat via synkrotronstrålning. För att förstå dessa komplexa energetiska förlopp krävs observationer över hela det elektromagnetiska spektrumet. Denna multispektrala mosaik, sammansatt år 2017, kombinerar data från Very Large Array i radio (rött), Spitzer i infrarött (gult), Hubble i synligt ljus (grönt), XMM-Newton i ultraviolett (blått) samt Chandra i röntgenstrålning (lila). Tillsammans avslöjar våglängderna hur magnetfält, stoft och expanderande chockvågor växelverkar i den kollapsade stjärnans kölvatten."
+    "barn": "Tänk dig att en jättestor stjärna har smällit som en gigantisk fyrverkeripjäs i rymden. Det här färgglada molnet är resterna efter den explosionen. Forskarna har fotograferat molnet med speciella rymdkikare som kan se sådant som våra ögon inte klarar av, till exempel osynliga strålar. Bilden sattes ihop redan år 2009 för att visa hur gas och stoft sprids åt alla håll.",
+    "nyborjare": "Den här bilden från 2009 visar supernovarester efter en stjärna som exploderade för länge sedan. När en tung stjärna dör slungas dess innersta delar ut i rymden i en våldsam explosion. Forskarna har kombinerat infrarött ljus med röntgenstrålning för att avslöja vad som döljer sig i gasmolnet. Med hjälp av rymdteleskopet Chandra har man upptäckt spår av joniserade järnatomer som sänder ut röntgenstrålning när de fångar in elektroner. Det ger forskarna en unik inblick i hur grundämnen sprids i universum.",
+    "entusiast": "Objektet W49B är en av de mest intressanta supernovaresterna i vår galax och studerades bland annat ingående av Suzaku och Chandra i data som sammanställdes kring 2009. Observationerna avslöjar en så kallad fossil eldboll där järnatomer som har joniserats kraftigt fångar in elektroner, vilket ger upphov till karakteristisk röntgenemission. Genom att kombinera markbaserade infraröda observationer som visar molekylmoln med rymdbaserade röntgenmätningar kan astronomerna kartlägga fördelningen av tunga grundämnen. Asymmetrin i explosionen tyder på att stjärnan kollapsade på ett ovanligt sätt och bildade antingen en neutronstjärna eller ett svart hål i dess centrum."
   },
   "terms": [
     {
-      "term": "supernova",
-      "explanation": "En våldsam explosion som markerar slutet på en massiv stjärnas liv."
+      "term": "supernovarester",
+      "explanation": "Det expanderande moln av gas och stoft som blir kvar efter en massiv stjärnas explosion."
     },
     {
-      "term": "neutronstjärna",
-      "explanation": "Den extremt täta kvarlevan efter en kollapsad stjärnkärna som huvudsakligen består av neutroner."
+      "term": "röntgenstrålning",
+      "explanation": "En typ av högenergetisk elektromagnetisk strålning som kan tränga igenom materia och sänds ut från mycket heta kosmiska källor."
     },
     {
-      "term": "synkrotronstrålning",
-      "explanation": "Elektromagnetisk strålning som sänds ut när laddade partiklar accelereras i starka magnetfält nära ljushastigheten."
+      "term": "rymdteleskop",
+      "explanation": "Ett optiskt instrument eller observatorium placerat i rymden ovanför jordens atmosfär för att studera universum."
     },
     {
-      "term": "magnetfält",
-      "explanation": "Ett osynligt kraftfält som genereras av elektriska laddningar i rörelse och påverkar magnetiska material."
-    },
-    {
-      "term": "ljusår",
-      "explanation": "Den sträcka som en ljusstråle färdas genom rymdens vakuum under ett jordår."
+      "term": "galax",
+      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationen och innehåller miljarder stjärnor samt gas och stoft."
     }
   ],
   "en": {
     "levels": {
-      "barn": "This colorful cloud in space is called the Crab Nebula. Nearly a thousand years ago, a giant star exploded far away. The explosion was so bright that people could see it shining in the daytime sky! The star is gone now, but its shattered pieces are still flying outward like fireworks in slow motion. Right in the middle sits a tiny, super-heavy ball spinning incredibly fast. It pumps out energy that makes the whole cloud glow with wonderful colors.",
-      "nyborjare": "The Crab Nebula is the expanding remnant of a massive star that blew itself apart in a violent supernova in the year 1054. The blast shone so brightly that historical observers could see it during daylight hours. Located roughly 6,500 light-years away, this cloud continues expanding into space at tremendous speeds. At the nebula's core lies the collapsed heart of the dead star: an ultra-dense neutron star. Spinning thirty times every second, it behaves like an intense dynamo, energizing the surrounding gas. This composite image was created in 2017 by combining observations from five different telescopes across the spectrum, from radio waves to energetic X-rays, revealing the detailed physics behind the cosmic explosion.",
-      "entusiast": "The Crab Nebula (Messier 1) serves as a vital laboratory and is one of the most thoroughly studied supernova remnants in astrophysics. Located 6,500 light-years away in Taurus, it originates from a core-collapse supernova observed in 1054 that briefly outshone 400 million suns. At its center lies the Crab Pulsar, an ultra-dense neutron star packing more mass than our Sun into a sphere barely twenty kilometers across. Spinning thirty times per second, its powerful magnetic field accelerates relativistic particles, lighting up the nebula through synchrotron radiation. To capture these complex high-energy interactions, astronomers must observe across the entire electromagnetic spectrum. This multiwavelength composite, released in 2017, integrates data from the Very Large Array in radio (red), Spitzer in infrared (yellow), Hubble in visible light (green), XMM-Newton in ultraviolet (blue), and Chandra in X-rays (purple). Together, they reveal how pulsar winds and shockwaves sculpt the expanding remnant."
+      "barn": "Imagine that a giant star has exploded like a massive firework in space. This colorful cloud is what remains after that explosion. Scientists took pictures of the cloud using special space telescopes that can see things our eyes cannot, such as invisible rays. The image was put together back in 2009 to show how gas and dust spread in all directions.",
+      "nyborjare": "This image from 2009 shows supernova remnants left behind after a star exploded long ago. When a heavy star dies, its inner parts are hurled into space in a violent explosion. Scientists have combined infrared light with X-ray data to reveal what is hidden inside the gas cloud. Using the Chandra X-Ray Observatory, researchers discovered traces of ionized iron atoms that emit X-rays when they capture electrons, giving unique insight into how elements spread in the universe.",
+      "entusiast": "The object W49B is one of the most interesting supernova remnants in our galaxy, studied extensively by instruments like Suzaku and Chandra in data compiled around 2009. The observations reveal a so-called fossil fireball where heavily ionized iron atoms recapture electrons, producing characteristic X-ray emission. By combining ground-based infrared observations showing molecular clouds with space-based X-ray measurements, astronomers can map the distribution of heavy elements. The asymmetry of the explosion suggests that the star collapsed in an unusual manner, likely forming either a neutron star or a black hole at its center."
     },
     "terms": [
       {
-        "term": "supernova",
-        "explanation": "A catastrophic explosion marking the violent end of a massive star's life."
+        "term": "supernova remnants",
+        "explanation": "The expanding cloud of gas and dust left behind after the explosion of a massive star."
       },
       {
-        "term": "neutron star",
-        "explanation": "An extremely dense stellar remnant created when a massive star's core collapses under gravity."
+        "term": "X-ray radiation",
+        "explanation": "A type of high-energy electromagnetic radiation capable of penetrating matter and emitted from extremely hot cosmic sources."
       },
       {
-        "term": "synchrotron radiation",
-        "explanation": "Electromagnetic radiation emitted when charged particles accelerate in a magnetic field near light speed."
+        "term": "space telescope",
+        "explanation": "An astronomical observatory placed in outer space above Earth's atmosphere to study the universe clearly."
       },
       {
-        "term": "magnetic field",
-        "explanation": "An invisible field of force produced by moving electric charges or magnetic materials."
-      },
-      {
-        "term": "light-years",
-        "explanation": "The astronomical distance that a beam of light travels through space in one Earth year."
+        "term": "galaxy",
+        "explanation": "A massive system of stars, gas, and dust held together by gravity."
       }
     ],
     "quiz": [
       {
-        "q": "What caused the formation of the Crab Nebula?",
+        "q": "What is a supernova remnant?",
         "options": [
-          "A massive star's violent supernova explosion",
-          "A collision between two massive galaxies",
-          "A collapsing gas cloud forming new stars"
+          "Gas and dust from an exploded star",
+          "A star that is currently being born",
+          "Remnants after a merged black hole"
         ],
         "correct": 0,
-        "fact": "In 1054, a massive star exploded as a supernova, leaving behind this expanding cloud of glowing debris."
+        "fact": "When a massive star runs out of fuel, it explodes in a supernova and ejects its outer layers into space."
       },
       {
-        "q": "What lies at the Crab Nebula's center?",
+        "q": "Why is X-ray radiation emitted from W49B?",
         "options": [
-          "A newly formed red dwarf star",
-          "A supermassive black hole",
-          "An ultrafast spinning neutron star"
+          "From extremely hot gases in the explosion",
+          "From the magnetic field around a quiet planet",
+          "Through sunlight reflected by cosmic dust"
         ],
-        "correct": 2,
-        "fact": "The crushed core of the exploded star collapsed into an ultra-dense neutron star spinning thirty times per second."
+        "correct": 0,
+        "fact": "X-rays are produced when material is heated to millions of degrees in the aftermath of a stellar explosion."
       },
       {
-        "q": "How far from Earth is the Crab Nebula?",
+        "q": "What are iron atoms in this context?",
         "options": [
-          "Around 50 light-years away",
-          "Around 6,500 light-years away",
-          "Around 2.5 million light-years away"
+          "Building blocks forged inside the star",
+          "Meteorites that fell onto a planetary surface",
+          "Solid rocks orbiting a gas cloud"
         ],
-        "correct": 1,
-        "fact": "The supernova occurred 6,500 light-years away, keeping Earth safe from deadly radiation."
+        "correct": 0,
+        "fact": "Heavy elements like iron are formed inside massive stars and spread across space when the star explodes."
       }
     ]
   }
