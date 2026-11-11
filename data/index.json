@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-11",
+  "media_type": "image",
+  "title": "Dvärggalaxen NGC 4449",
+  "title_en": "NGC 4449: Small Galaxy, Big Impact",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=480&h=480&fit=clip"
+ },
+ {
   "date": "2026-11-10",
   "media_type": "image",
   "title": "Vad som hände när?",
@@ -184,9 +191,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Kattögenebulosan",
-  "title_en": "Dying Star Creates Fantasy-like Sculpture of Gas and Dust",
-  "thumb": "https://images-assets.nasa.gov/image/PIA16009/PIA16009~small.jpg"
+  "title": "Mystic Mountain i Carinanebulosan",
+  "title_en": "Hubble Captures View of Mystic Mountain",
+  "thumb": "https://images-assets.nasa.gov/image/PIA15985/PIA15985~small.jpg"
  },
  {
   "date": "2026-10-14",

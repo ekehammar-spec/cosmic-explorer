@@ -1,134 +1,138 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Dying Star Creates Fantasy-like Sculpture of Gas and Dust",
-  "title_sv": "Kattögenebulosan",
+  "title": "Hubble Captures View of Mystic Mountain",
+  "title_sv": "Mystic Mountain i Carinanebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA16009/PIA16009~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA16009/PIA16009~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA16009/PIA16009~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA16009",
+  "url": "https://images-assets.nasa.gov/image/PIA15985/PIA15985~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA15985/PIA15985~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA15985/PIA15985~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA15985",
   "credit": "NASA/ESA/STScI",
-  "taken": "2004",
+  "taken": "2010",
   "src": "library",
-  "id": "PIA16009",
+  "id": "PIA15985",
   "px": [
-    1280,
-    1280
+    1920,
+    1767
   ],
   "w": 640,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAYHAAID/8QAIRAAAgICAwACAwAAAAAAAAAAAQIAAwQRBRIhEzEjQlH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAaEQACAgMAAAAAAAAAAAAAAAAAARExIUFx/9oADAMBAAIRAxEAPwCcKNwmrGZx4NzMWru4EdeH42gV97U7KB77qXBNiY+I4/Uzg9RWULmcGr4PxIFVhvwfcTcmsKCJjnYoGxLQlgJj/wAFlVNik2lejro7P8k3VtQunLeseMRK4ZTHTl+TqCFKyCqghQBqJmXkBmOppdlM/wBkwVm2YbCyf//Z",
+  "h": 589,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAJhAAAgEDAwQBBQAAAAAAAAAAAQIDAAQREiExEyIyQRQFYXGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABEQIDEiEi/9oADAMBAAIRAxEAPwDnJ4WBw3kNxipiDhVLoCPRpk4WWEOqglRgirfAjmCDq9GQ+SkdoPrJ9ZqjiVYepWCKOSJpHXSeF35oeaEPAEVu/OdhTR/pszs0QZwiLjGNh72pfdr8ZtKgjbknmqZjy6HSj8LWF1FBaK0iF5GzoAP7P8rSO/e3dDqSVdQZlcd35FB27LHGXK6tA4zjOaF0l71MMVywA+1Z95vhbOoqPZb6FmEhuHjjByFQcVpdT2EyxsjMTz4gYzSS+LQXYjVspEQoBHNDzPpclQACTtQ431Y+T6VP/9k=",
   "quiz": [
     {
-      "q": "Vad är en planetarisk nebulosa för något?",
+      "q": "Vad består pelaren på bilden huvudsakligen av?",
       "options": [
-        "En födelseplats för nya planeter och månar",
-        "Ett moln av gas som en döende stjärna kastar ut",
-        "En exploderande supernovastjärna i slutet av sin bana"
+        "Fast berg och sten",
+        "Kall gas och rymdstoft",
+        "Fryst koldioxid och is"
       ],
       "correct": 1,
-      "fact": "En planetarisk nebulosa har inget med planeter att göra, utan bildas när en stjärna i slutet av sitt liv stöter bort sina yttre gaslager."
+      "fact": "Trots att strukturen liknar ett berg består den nästan uteslutande av vätgas och mikroskopiska stoftkorn."
     },
     {
-      "q": "Varför ser gasen ut som invecklade skal och strukturer?",
+      "q": "Vad sker i de täta delarna av pelaren?",
       "options": [
-        "Stjärnan har kastat ut material i olika omgångar",
-        "Gravitationen från närliggande svarta hål drar i gasen",
-        "Starka magnetfält tvingar gasen att bilda spiralmönster"
+        "Nya stjärnor håller på att födas",
+        "Ett supermassivt svart hål bildas",
+        "Gamla stjärnor svalnar och dör"
       ],
       "correct": 0,
-      "fact": "Utsläpp av gas i omgångar och snabba vindar från stjärnkärnan skapar de komplexa koncentriska skalen och strukturerna."
+      "fact": "Gas och stoft dras samman av tyngdkraften tills tryck och hetta tänder nya stjärnor."
     },
     {
-      "q": "Vad händer med stjärnan i mitten när gasen har försvunnit?",
+      "q": "Varför nöts pelaren sakta bort med tiden?",
       "options": [
-        "Den blir ett svart hål som slukar galaxen",
-        "Den slocknar helt och försvinner ut i rymden",
-        "Den drar ihop sig till en tät vit dvärg"
+        "Den kolliderar med en annan galax",
+        "Pelaren fryser sönder i rymdens kyla",
+        "Närliggande heta stjärnor blåser bort den"
       ],
       "correct": 2,
-      "fact": "När de yttre lagren har flutit ut i rymden återstår endast stjärnans heta och kompakta kärna som kallas en vit dvärg."
+      "fact": "Intensiv ultraviolett strålning och stjärnvindar från nyfödda grannstjärnor eroderar gasmolnet."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en gammal stjärna har nyst ut mängder av färgglad rök och glittrande damm i rymden. Rökringarna bildar vackra mönster som liknar ett jättestort ögonkast från mörkret. I mitten lyser stjärnan som ett litet glödande hjärta.",
-    "nyborjare": "Denna bild från 2004 visar Kattögenebulosan, vilket är ett vidsträckt moln av gas och stoft i rymden. När en medelstor stjärna börjar bli gammal stöter den bort sina yttre lager i den omgivande rymden. Det som återstår i mitten är en het kärna som kallas en vit dvärg. Denna rest sänder ut strålning som får gasen att lysa i vackra färger. Hubble-teleskopet har fångat detaljer som koncentriska gasskal och snabba gasstrålar.",
-    "entusiast": "NGC 6543, allmänt känd som Kattögenebulosan, är en av de mest komplexa kända planetariska nebulosorna. Den bildades för omkring tusen år sedan när centralstjärnan kastade av sin massa i en serie pulserande utbrott. Det historiska Hubble-fotot avslöjar invecklade strukturer som koncentriska gasskal, höghastighetsjets och chockinducerade gasnoder. Morfologin förklaras ofta med att centralstjärnan i själva verket är ett binärt stjärnsystem där växelverkan mellan stjärnorna formar gasen till dessa spektakulära geometriska mönster."
+    "barn": "Det här ser ut som ett magiskt sagoberg, men det svävar fritt i rymden! Tornet kallas Mystic Mountain och är byggt av gigantiska moln av gas och rymdstoft.\n\nMolnet är så enormt stort att det skulle ta tre år för en ljusstråle att resa från botten till toppen. Inuti molnet gömmer sig nyfödda bebisstjärnor. De skjuter ut strålar av eld och gas, precis som när man sprutar vatten ur en trädgårdsslang.",
+    "nyborjare": "Denna dramatiska formation fotograferades av rymdteleskopet Hubble år 2010 och har fått smeknamnet Mystic Mountain. Det som ser ut som en bergstopp är i själva verket en tre ljusår hög pelare av gas och stoft i Carinanebulosan, omkring 7 500 ljusår från jorden.\n\nEn nebulosa är ett gigantiskt moln i rymden där nya stjärnor bildas. Inuti pelaren trycks gas ihop av gravitationen för att tända nya solar. Samtidigt pågår en destruktiv kamp: starkt ljus och kraftiga vindar från massiva stjärnor i närheten nöter sakta bort stoftpelaren.",
+    "entusiast": "Bilden togs 2010 med rymdteleskopet Hubbles Wide Field Camera 3 för att fira teleskopets tjugoårsjubileum. Den visar en pelare i Carinanebulosan (NGC 3372) på ett avstånd av cirka 7 500 ljusår. Pelaren sträcker sig cirka tre ljusår på höjden och formas av fotoevaporation.\n\nDen intensiva ultravioletta strålningen från nybildade, massiva O- och B-stjärnor i området joniserar gasen och eroderar de glesare delarna av molnet. De tätaste partierna fungerar som sköldar och bildar de karakteristiska pelarstrukturerna.\n\nLängst upp i topparna syns protostjärnor som skjuter ut bipolära gasstrålar, så kallade Herbig-Haro-objekt (HH 901 och HH 902). Dessa jetstrålar rör sig i hastigheter på hundratals kilometer per sekund och kolliderar med det omgivande mediet, vilket skapar chockvågor. Mystic Mountain är därmed en dynamisk illustration av stjärnbildning, där destruktiv strålning och gravitationskollaps verkar sida vid sida."
   },
   "terms": [
     {
+      "term": "ljusår",
+      "explanation": "Den sträcka som en ljusstråle färdas i vakuum under ett helt år, ungefär 9,46 biljoner kilometer."
+    },
+    {
       "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och rymdstoft som ofta lyses upp av närliggande stjärnor."
+      "explanation": "Ett vidsträckt interstellärt moln av gas och rymdstoft där stjärnor ofta bildas eller dör."
     },
     {
-      "term": "vit dvärg",
-      "explanation": "Den täta och extremt heta rest som blir kvar när en medelstor stjärna dör."
+      "term": "gravitation",
+      "explanation": "Den dragande kraft som all materia utövar på annan materia och som håller samman himlakroppar."
     },
     {
-      "term": "teleskop",
-      "explanation": "Ett optiskt instrument som används för att observera avlägsna himlakroppar i universum."
+      "term": "fotoevaporation",
+      "explanation": "Processen där energirik strålning hettar upp och blåser bort gas från ett tätt moln."
     },
     {
-      "term": "centralstjärna",
-      "explanation": "Den ursprungliga stjärna som ligger i mitten av en nebulosa och driver dess ljus."
+      "term": "protostjärna",
+      "explanation": "Ett mycket ungt förstadium till en stjärna som fortfarande drar till sig materia från omgivningen."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine an aging star that has sneezed out lots of colorful smoke and sparkling dust into space. The smoke rings form pretty patterns that look like a giant glowing eye staring back from the dark.",
-      "nyborjare": "This image from 2004 reveals the Cat Eye Nebula, which is a vast cloud of gas and dust in space. When a medium-sized star grows old, it sheds its outer layers into the surrounding void. What remains in the center is a hot core known as a white dwarf. This stellar remnant emits radiation that makes the surrounding gas glow brilliantly. The Hubble telescope has captured intricate structures such as concentric gas shells and fast jets.",
-      "entusiast": "NGC 6543, commonly known as the Cat Eye Nebula, is one of the most morphologically complex planetary nebulae known. Formed roughly a thousand years ago, the central star expelled its mass in a series of violent pulses. This historical Hubble image uncovers intricate structures including concentric gas shells, high-speed gas jets, and unusual shock-induced knots. The complex geometry is frequently attributed to the central star being a binary system where gravitational interaction shapes the outflowing gas."
+      "barn": "This looks like a magical fairy-tale mountain, but it floats in deep space! It is called Mystic Mountain and is made of giant clouds of gas and dust.\n\nThe cloud is so big that it would take three years for a beam of light to travel from bottom to top. Baby stars are hiding inside it. They blast out jets of gas, just like water spraying out of a garden hose.",
+      "nyborjare": "This dramatic cosmic landscape was photographed by the Hubble Space Telescope in 2010 and is known as Mystic Mountain. What looks like a rocky crag is actually a three-light-year-tall pillar of gas and dust inside the Carina Nebula, located 7,500 light-years away.\n\nA nebula is a vast cloud in space where new stars are born. Inside this pillar, gravity compresses gas to ignite baby stars. Meanwhile, intense light and winds from nearby massive stars are eroding the pillar, slowly tearing it apart over millions of years.",
+      "entusiast": "Captured in 2010 by Hubble's Wide Field Camera 3 to commemorate the observatory's twentieth anniversary, this feature lies within the Carina Nebula (NGC 3372) roughly 7,500 light-years from Earth. The pillar spans approximately three light-years and is shaped primarily by photoevaporation.\n\nIntense ultraviolet radiation from nearby hot O- and B-type stars ionizes the gas and sweeps away less dense material, leaving behind dense columns shielded by compact clumps. Embedded protostars near the peaks drive powerful bipolar outflows, known as Herbig-Haro objects (HH 901 and HH 902), launching jets at hundreds of kilometers per second into the interstellar medium."
     },
     "terms": [
       {
+        "term": "light-year",
+        "explanation": "The distance that light travels through empty space in one year, roughly 9.46 trillion kilometers."
+      },
+      {
         "term": "nebula",
-        "explanation": "A giant cloud of dust and gas in space that often glows brightly."
+        "explanation": "A massive interstellar cloud of gas and dust where stars are born or remnants of dying stars expand."
       },
       {
-        "term": "white dwarf",
-        "explanation": "The dense and extremely hot stellar core left behind after a star dies."
+        "term": "photoevaporation",
+        "explanation": "The process where energetic radiation strips away and disperses gas from a dense cloud."
       },
       {
-        "term": "telescope",
-        "explanation": "An instrument designed to observe distant objects in the universe using light."
-      },
-      {
-        "term": "stellar core",
-        "explanation": "The innermost region of a star where intense nuclear reactions take place."
+        "term": "protostar",
+        "explanation": "An early stage in stellar evolution where a collapsing cloud core is still accreting surrounding mass."
       }
     ],
     "quiz": [
       {
-        "q": "What is a planetary nebula actually made of?",
+        "q": "What is the pillar in the image primarily made of?",
         "options": [
-          "A nursery where new planets and moons form",
-          "Gas shed into space by a dying star",
-          "The remnants of a massive supernova explosion"
+          "Solid rock and mineral dust",
+          "Cold gas and cosmic dust",
+          "Frozen carbon dioxide and ice"
         ],
         "correct": 1,
-        "fact": "A planetary nebula has nothing to do with planets, instead forming when a dying star ejects its outer gas layers."
+        "fact": "Although it resembles a mountain of rock, it consists almost entirely of hydrogen gas and microscopic dust."
       },
       {
-        "q": "Why does the gas form intricate shells and structures?",
+        "q": "What is happening inside the dense tips of the pillar?",
         "options": [
-          "The star ejected material in successive mass-loss pulses",
-          "Nearby black holes exert gravitational pull on the gas",
-          "Strong magnetic fields force the gas into spiral patterns"
+          "New stars are being born",
+          "A supermassive black hole is forming",
+          "Ancient stars are cooling and dying"
         ],
         "correct": 0,
-        "fact": "Episodic ejections and fast stellar winds collide with slower gas to create complex concentric shells."
+        "fact": "Gravity pulls gas and dust together until the heat and pressure ignite nuclear fusion in newborn stars."
       },
       {
-        "q": "What remains at the very center of the nebula?",
+        "q": "Why is the pillar slowly eroding away over time?",
         "options": [
-          "A supermassive black hole consuming all matter",
-          "A cold dead rock drifting through empty space",
-          "A dense white dwarf star glowing intensely"
+          "It is colliding with another galaxy",
+          "It is freezing apart in deep space",
+          "Nearby hot stars blow it away"
         ],
         "correct": 2,
-        "fact": "Once the outer layers drift away, only the hot stellar core remains, known as a white dwarf."
+        "fact": "Intense ultraviolet light and stellar winds from massive neighboring stars actively strip the cloud away."
       }
     ]
   }

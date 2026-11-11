@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-11",
+  "title": "Water Surges Into Navajo Reservoir",
+  "title_sv": "Vattenmassor fyller Navajo-reservoaren",
+  "place": "New Mexico och Colorado, USA",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+  "w": 474,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAIBAwX/xAAjEAACAgEDBQEBAQAAAAAAAAABAgMRABIhQQQTIjFRQnHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABgRAQEBAQEAAAAAAAAAAAAAAAABESEx/9oADAMBAAIRAxEAPwAUZsP3DbMNiTzmdo6VAIsfcmVAqg/r5WLjjDRFyDtsebznq80fts/kqagBz7GcZUhian2f5VkZ6SMYiW8d6oDjBdTHqYmwoJu2Nk4lZhskCG6sECx9GSumOINsNgd+cXIGkkqMACq8vZ/zCRq0SV1CEE/on0L2/mRF31Wnuyh2XwB2F3mdREtjStgcEb5a7xakKtpNEXvlDqEKmxTXzxjpx//Z",
+  "levels": {
+    "barn": "Titta på den slingrande sjön som lyser mörkblå mot det brungula landskapet. På den vänstra bilden är sjön smal och har många torra vikar. På den högra bilden har den vuxit och blivit mycket bredare. Det beror på att det regnade väldigt mycket under några veckor. Vattnet från bergen rann ner i sjön, som är en stor vattendamm. Vattenytan steg med hela 18 meter. Det hjälpte naturen som varit torr länge, men översvämningarna ställde också till med problem för människorna i städerna i närheten.",
+    "nyborjare": "Satellitbilderna visar Navajo-reservoaren, en konstgjord sjö på gränsen mellan delstaterna New Mexico och Colorado. Vattnet syns som en djupblå, förgrenad form som breder ut sig i det torra, sandfärgade landskapet. Till vänster ser man reservoaren i september, då den bara rymde 60 procent av sin genomsnittliga kapacitet efter en torr vinter. Till höger, i november, har sjön svällt kraftigt och blivit betydligt bredare efter flera ovanligt kraftiga regnoväder. Vattennivån steg med närmare 18 meter på bara några veckor och nådde 108 procent av det normala. Floder som San Juan fyllde på reservoaren och avslutade en period av akut torka, samtidigt som de snabba flödena orsakade allvarliga översvämningar i närliggande samhällen där gator dränktes.",
+    "entusiast": "Satellitbilderna från NASA och USGS visar Navajo-reservoaren i Four Corners-regionen, där Colorado, New Mexico, Utah och Arizona möts. Bilderna togs med instrumentet OLI (Operational Land Imager) ombord på satelliten Landsat 9 den 20 september respektive den 7 november 2026. Genom mätningar i synliga och infraröda våglängder framträder den mörka vattenytan i skarp kontrast till den omgivande terrängen. Efter en vinter präglad av snötorka fylldes magasinet dåligt under våren och nådde i september endast 60 procent av sin genomsnittliga kapacitet. Situationen vände tvärt när två extrema stormsystem drog in under senhösten. Ovädren hämtade fukt från ovanligt varma havsytor, förstärkta av ett El Niño-mönster som styrde jetströmmen över kontinentens inland. Vattennivån steg med nästan 18 meter enligt U.S. Army Corps of Engineers, vilket tog reservoaren till 108 procent av normal kapacitet. Samtidigt orsakade avrinningen svåra översvämningar längs San Juan River, bland annat i Pagosa Springs där invånare tvingades evakuera."
+  },
+  "terms": [
+    {
+      "term": "Navajo-reservoaren",
+      "explanation": "En stor konstgjord sjö och vattenreservoar belägen i norra New Mexico och södra Colorado."
+    },
+    {
+      "term": "Landsat 9",
+      "explanation": "En amerikansk jordresurssatellit som övervakar jordens landytor och vattenresurser."
+    },
+    {
+      "term": "OLI",
+      "explanation": "Ett optiskt satellitinstrument som fotograferar jordytan i synligt ljus och infraröda våglängder."
+    },
+    {
+      "term": "snötorka",
+      "explanation": "En brist på snöfall och snötäcke under vintern vilket minskar vårflodernas vattenmängd."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "Ett återkommande klimatfenomen i Stilla havet som påverkar väder och vindmönster globalt."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the winding lake that appears dark blue against the tan, dry landscape. In the image on the left, the lake is narrow with many dry inlets. In the image on the right, it has grown much wider and fuller. That happened because heavy rains poured over the region for several weeks. Water rushed down from the mountains into the reservoir, causing the water level to rise by almost 18 meters. While the rain helped end a dry spell, the sudden floodwaters also caused serious problems for nearby towns.",
+      "nyborjare": "These satellite images show Navajo Reservoir, a large artificial lake situated on the border between northern New Mexico and southern Colorado. The water appears as deep blue branches cutting through the dry, tan terrain. On the left, from September, the reservoir was holding only 60 percent of its average capacity following a winter with very little mountain snow. On the right, captured in November, the lake has expanded dramatically after back-to-back storms hit the Four Corners region. In just seven weeks, water levels rose by nearly 18 meters, bringing the reservoir to 108 percent of its normal capacity. Swollen rivers like the San Juan brought much-needed drought relief, but the sudden downpours also triggered dangerous flooding in nearby communities, where streets were inundated and residents had to be evacuated.",
+      "entusiast": "Acquired by the Operational Land Imager (OLI) aboard the Landsat 9 satellite on September 20 and November 7, 2026, these images document a dramatic hydrological shift in Navajo Reservoir. Located in the Four Corners region of the American Southwest, the reservoir appears dark blue, contrasting sharply with the arid terrain. Following a winter snow drought that stunted spring runoff, the reservoir held only 60 percent of its average capacity in late September. In October and early November, two consecutive extreme storms delivered two to four times the normal rainfall. This atmospheric setup drew moisture from unusually warm ocean waters, enhanced by an active El Niño pattern that steered the jet stream across the Southwest interior. According to the U.S. Army Corps of Engineers, water levels surged by nearly 18 meters, reaching 108 percent of average capacity and marking the lake's highest level since August 2019. While the storms eliminated short-term drought, runoff triggered major flooding along the San Juan River, forcing emergency rescues in Pagosa Springs."
+    },
+    "terms": [
+      {
+        "term": "Navajo Reservoir",
+        "explanation": "A major artificial water reservoir situated across northern New Mexico and southern Colorado."
+      },
+      {
+        "term": "Landsat 9",
+        "explanation": "An Earth-observing satellite operated jointly by NASA and the USGS to monitor land and water resources."
+      },
+      {
+        "term": "Operational Land Imager",
+        "explanation": "A multispectral sensor aboard Landsat satellites that captures images of Earth in visible and infrared wavelengths."
+      },
+      {
+        "term": "snow drought",
+        "explanation": "A condition characterized by abnormally low winter snowfall and snowpack accumulation."
+      },
+      {
+        "term": "El Niño",
+        "explanation": "A climate pattern in the tropical Pacific Ocean that alters global atmospheric circulation and jet streams."
+      }
+    ],
+    "place": "New Mexico and Colorado, USA"
+  }
+}

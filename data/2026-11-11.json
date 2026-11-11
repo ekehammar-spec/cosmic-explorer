@@ -1,0 +1,131 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-11",
+  "title": "NGC 4449: Small Galaxy, Big Impact",
+  "title_sv": "Dvärggalaxen NGC 4449",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+  "credit": "NASA, ESA, A. Aloisi (STScI/ESA), and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration",
+  "taken": "",
+  "src": "apod",
+  "id": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+  "w": 480,
+  "h": 309,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGAQL/xAAhEAACAQQCAgMAAAAAAAAAAAABAgADBAUREjFBURMhQv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABkRAQEAAwEAAAAAAAAAAAAAAAABITFBUf/aAAwDAQACEQMRAD8AwtlT2xO5pMfikvQwYjrYPRmbtagpncXTIikwNNiuh7m+M9yQuMALfkSjKPzuCZG0FuqsAdN0fEWTM/JQqCtWPHWvs7g+WukfglOqKqjyBqEnptl0MDELIu3uUpJ55H3OHoSlAv/Z",
+  "quiz": [
+    {
+      "q": "Vilken typ av galax är allra vanligast i universum?",
+      "options": [
+        "Spiralgalaxer som Vintergatan",
+        "Dvärggalaxer",
+        "Jättelika elliptiska galaxer"
+      ],
+      "correct": 1,
+      "fact": "Dvärggalaxer är relativt små och ljussvaga, men de utgör den absolut vanligaste galaxtypen i kosmos."
+    },
+    {
+      "q": "Hur sprids tunga grundämnen effektivt ut från dvärggalaxer?",
+      "options": [
+        "Genom gravitationell absorption från större grannar",
+        "Via kalla gasströmmar som sugs inåt",
+        "Genom stjärnvindar och kraftiga supernovaexplosioner"
+      ],
+      "correct": 2,
+      "fact": "Eftersom dvärggalaxer har svag gravitation kan stjärnvindar och supernovor lätt slunga ut gas i rymden."
+    },
+    {
+      "q": "Vad menar astronomer vanligtvis med tunga grundämnen?",
+      "options": [
+        "Alla ämnen tyngre än väte och helium",
+        "Enbart radioaktiva ämnen som uran och torium",
+        "Enbart metaller i fast form som järn"
+      ],
+      "correct": 0,
+      "fact": "I astronomiska sammanhang kallas alla grundämnen utom väte och helium ofta förenklat för tunga ämnen eller metaller."
+    }
+  ],
+  "levels": {
+    "barn": "Titta på det glittrande molnet på bilden! Det är en dvärggalax som heter NGC 4449. Den är som en lillebror till vår egen galax Vintergatan.\n\nTrots att den är mycket mindre än vår galax rymmer den flera miljarder stjärnor. När stora stjärnor där blir gamla smäller de som jättelika kosmiska fyrverkerier. Smällarna kallas supernovor. De blåser ut syre och andra viktiga byggstenar i rymden, ungefär som när du blåser iväg fröna på en maskros. Av det materialet kan nya planeter födas!",
+    "nyborjare": "Vår egen hemgalax Vintergatan är en mäktig spiral som spänner över 100 000 ljusår och rymmer hundratals miljarder stjärnor. Bilden från rymdteleskopet Hubble visar istället dvärggalaxen NGC 4449, en oregelbunden galax som bara är en tiondel så stor.\n\nDvärggalaxer innehåller oftast bara några miljarder stjärnor, men de är universums vanligaste galaxer. Astronomer har upptäckt att NGC 4449 har oväntat lite syre kvar i sin gas. Förklaringen är att kraftiga stjärnvindar och exploderande supernovor lätt slungar bort materia från galaxen. Eftersom dvärggalaxens gravitation är svag kan gasen fly ut i rymden. Därför spelar dessa små galaxer en avgörande roll när tunga grundämnen sprids genom kosmos.",
+    "entusiast": "Dvärggalaxen NGC 4449 ligger ungefär 12 miljoner ljusår bort i stjärnbilden Jakthundarna och ingår i M94-gruppen. Den klassificeras som en oregelbunden magellansk dvärggalax och genomgår en intensiv fas av stjärnbildning, så kallad starburst. Denna aktivitet tros delvis ha utlösts av tidvattensinteraktioner med mindre satellitgalaxer som den håller på att sluka.\n\nObservationer med rymdteleskopet Hubble visar ett komplext nätverk av joniserad vätgas, massiva stjärnhopar och vidsträckta stoftstråk. Spektroskopiska analyser avslöjar dock ett underskott av syre i förhållande till vad teoretiska modeller för stjärnbildning förutsäger.\n\nOrsaken ligger i galaxens begränsade massa. Till skillnad från massiva spiralgalaxer har NGC 4449 en grund gravitationsbrunn. Energirika stjärnvindar från unga massiva stjärnor, i kombination med upprepade supernovor, driver storskaliga galaktiska utflöden. Dessa vindar berikar den intergalaktiska rymden med metaller, vilket visar att dvärggalaxer haft en oproportionerligt stor inverkan på den kemiska utvecklingen i universum sedan dess barndom."
+  },
+  "terms": [
+    {
+      "term": "dvärggalax",
+      "explanation": "En mindre galax som vanligen består av upp till några miljarder stjärnor."
+    },
+    {
+      "term": "supernova",
+      "explanation": "En våldsam explosion som markerar slutet på en massiv stjärnas liv."
+    },
+    {
+      "term": "stjärnvind",
+      "explanation": "Ett kontinuerligt flöde av laddade partiklar som blåser ut från en stjärnas yttre lager."
+    },
+    {
+      "term": "grundämne",
+      "explanation": "Ett rent kemiskt ämne som består av en enda typ av atomer."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the sparkling cloud in the picture! This is a dwarf galaxy named NGC 4449. It is like a little brother to our own galaxy, the Milky Way.\n\nEven though it is much smaller, it still holds billions of bright stars. When big stars grow old here, they burst like giant cosmic fireworks called supernovas. These blasts blow oxygen and other building blocks out into space, much like blowing dandelion seeds in the wind. From this floating dust, new planets can form!",
+      "nyborjare": "Our home galaxy, the Milky Way, spans 100,000 light-years and contains hundreds of billions of stars. This image from the Hubble Space Telescope features dwarf galaxy NGC 4449, an irregular galaxy only about one tenth that size.\n\nDwarf galaxies usually contain just a few billion stars, yet they are the most common galaxy type in the cosmos. Astronomers have found that NGC 4449 holds far less oxygen than expected. Energetic stellar winds and violent supernovas easily eject gas because dwarf galaxies have weak gravitational pull. As a result, these tiny systems play a surprisingly big role in dispersing heavy elements across the universe.",
+      "entusiast": "Located approximately 12 million light-years away in the constellation Canes Venatici, NGC 4449 is a member of the M94 Group. It is classified as an irregular Magellanic dwarf galaxy currently undergoing an intense starburst phase, likely driven by past tidal interactions with disrupted satellite companions.\n\nHubble observations resolve a vibrant tapestry of ionized hydrogen filaments, young massive star clusters, and intricate dust lanes. Chemical abundance measurements reveal a significant deficiency of oxygen compared to standard stellar synthesis models. \n\nBecause NGC 4449 possesses a shallow gravitational potential well, energetic stellar winds from massive OB stars and core-collapse supernovas easily drive galactic-scale outflows. These galactic superwinds expel enriched gas into the intergalactic medium, illustrating how dwarf galaxies have profoundly shaped cosmic chemical evolution over billions of years."
+    },
+    "terms": [
+      {
+        "term": "dwarf galaxy",
+        "explanation": "A small galaxy typically composed of up to several billion stars."
+      },
+      {
+        "term": "supernova",
+        "explanation": "A catastrophic explosion that occurs at the end of a massive star's life."
+      },
+      {
+        "term": "stellar winds",
+        "explanation": "Continuous streams of high-speed gas ejected from the upper atmospheres of stars."
+      },
+      {
+        "term": "heavy elements",
+        "explanation": "Chemical elements with atomic numbers greater than helium, forged inside stars."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Which type of galaxy is the most common in the universe?",
+        "options": [
+          "Spiral galaxies like the Milky Way",
+          "Dwarf galaxies",
+          "Giant elliptical galaxies"
+        ],
+        "correct": 1,
+        "fact": "Although dwarf galaxies are small and faint, they vastly outnumber all other types of galaxies in the universe."
+      },
+      {
+        "q": "How are heavy elements effectively expelled from dwarf galaxies?",
+        "options": [
+          "Through gravitational absorption by larger neighbors",
+          "Via cold gas streams collapsing inward",
+          "Through stellar winds and powerful supernova explosions"
+        ],
+        "correct": 2,
+        "fact": "The low gravity of dwarf galaxies allows energetic winds and supernovas to easily blow gas out into deep space."
+      },
+      {
+        "q": "What do astronomers typically mean by heavy elements?",
+        "options": [
+          "All elements heavier than hydrogen and helium",
+          "Exclusively radioactive elements such as uranium",
+          "Only solid metallic elements such as iron"
+        ],
+        "correct": 0,
+        "fact": "In astronomy, all elements other than hydrogen and helium are routinely grouped together as metals or heavy elements."
+      }
+    ]
+  }
+}
