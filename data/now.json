@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:27:15.375Z",
+ "updated": "2026-11-12T12:03:42.516Z",
  "source": "NASA EONET",
  "events": [
   {
@@ -31,16 +31,6 @@
    "where_en": "Southern Ocean, near Antarctica",
    "value_sv": "",
    "value_en": ""
-  },
-  {
-   "kind": "fire",
-   "date": "2026-11-02T07:58:00Z",
-   "title_sv": "Skogsbrand i Coos, New Hampshire",
-   "title_en": "Wildfire in Coos, New Hampshire",
-   "where_sv": "",
-   "where_en": "",
-   "value_sv": "400 hektar",
-   "value_en": "400 hectares"
   },
   {
    "kind": "fire",

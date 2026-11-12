@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "NASA's Hubble Sees A New Supernova Remnant Light Up",
-  "title_sv": "Supernova 1987A",
+  "title": "Dead Star Creates Celestial Havoc",
+  "title_sv": "Krabbtåkan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001896/GSFC_20171208_Archive_e001896~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001896/GSFC_20171208_Archive_e001896~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001896/GSFC_20171208_Archive_e001896~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001896",
-  "credit": "NASA/GSFC",
-  "taken": "2017",
+  "url": "https://images-assets.nasa.gov/image/PIA01320/PIA01320~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA01320/PIA01320~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA01320/PIA01320~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA01320",
+  "credit": "NASA/JPL-Caltech/ESA/CXC/Univ. of Ariz./Univ. of Szeged",
+  "taken": "2006",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e001896",
+  "id": "PIA01320",
   "px": [
-    1280,
-    975
+    1920,
+    1760
   ],
   "w": 640,
-  "h": 487,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIFAwQG/8QAKRAAAQMDAwIFBQAAAAAAAAAAAQIDBAAFERIhQQYxEyIkMlFTYYGRof/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgMF/8QAHBEAAgMBAQEBAAAAAAAAAAAAAQIAAxESITFB/9oADAMBAAIRAxEAPwDiLbbJNyfDUdBUeccVYXZrVCeS1NuaEr1FCw0nxNGMbnG3P8pbKpQ6cuQjn1JxuFYIT3VzTdKvx0uyGnmkqccAwVDIxyKVY7bCZoqqrgA9MRfT7UmP4tqltTDq0FHsVnjAPeob0dbKiFpKSDjeq1wbTA6lUm1KX5HQW9t9X2/NbnV7IFwWs6QpQSpY9uFY823G9Jhz7DhbEJzCJAt8563yEvMKKVJIP6qyzeIMh0vvsGLL+rHwAfnIOxJz3oopFf2UVWspAmRF4tcV92Uy1IkylJ0pVJwdB+RjmoEyW5MfU86cqUck/NFFTJ37C25iMn//2Q==",
+  "h": 586,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgYDBAcF/8QAIxAAAgEDAwUBAQAAAAAAAAAAAQIDAAQRBRIhEzFRYXFBgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAcEQACAwADAQAAAAAAAAAAAAABAgADERIhMSL/2gAMAwEAAhEDEQA/AM4FWrW3aY4Ues0FrAbiUICB5p90LT7fYpj6b4IyykEj+UhJJCr6ZWpOR7iiujzlckcHkeDXNniaKRkYYIrTtRszCAOmOljg47H15rO9VcNdtj8ofSvxaWuVAoKyTSZkhkcsM7uPlMunXENpcllYDcmCV52n8pJBxUguJQuA7AeM1mQ7oMWq/gMyO+s65G4MbTEtt2kdh9FI9w++Rmzn3Qsxbkkn7QntRVc7J0ydlpf2f//Z",
   "quiz": [
     {
-      "q": "Vad är en supernova?",
+      "q": "Vad är det som finns i mitten av Krabbtåkan?",
       "options": [
-        "En stjärna som föds i ett gasmoln",
-        "En massiv stjärnas våldsamma dödsexplosion",
-        "När två svarta hål krockar"
-      ],
-      "correct": 1,
-      "fact": "När en tung stjärna får slut på bränsle kollapsar den och exploderar i en supernova som lyser upp hela sin galax."
-    },
-    {
-      "q": "Vad händer efter explosionen?",
-      "options": [
-        "Resterna skapar kraftiga chocker i omgivningen",
-        "Stjärnan drar sig samman till en planet",
-        "Gaset försvinner spårlöst ut i tomrummet"
+        "En neutronstjärna som roterar mycket snabbt",
+        "Ett jättelikt svart hål som slukar materia",
+        "En nyfödd stjärna omgiven av planeter"
       ],
       "correct": 0,
-      "fact": "Supernovans utspridda materia kolliderar med omgivande gasringar och bildar chockvågor som genererar röntgenstrålning."
+      "fact": "Kvar efter den våldsamma stjärnexplosionen år 1054 finns en supertät neutronstjärna som spinner runt i en enorm hastighet."
     },
     {
-      "q": "Var ligger den berömda supernovan från 1987?",
+      "q": "Hur skapades gasmolnet som syns i teleskop?",
       "options": [
-        "I Vintergatans absoluta mitt",
-        "I vår granngalax Stora magellanska molnet",
-        "I Andromedagalaxen"
+        "Genom att två stora galaxer krockade",
+        "Genom att en tung stjärna exploderade",
+        "Genom att en planet slets sönder"
       ],
       "correct": 1,
-      "fact": "Supernova 1987A inträffade i vår närliggande dvärggalax Stora magellanska molnet och blev den närmaste explosionen på fyrahundra år."
+      "fact": "Nebulosan är resterna av en massiv stjärna som fick slut på bränsle och slutligen exploderade som en supernova."
+    },
+    {
+      "q": "Varför ser bilden så färggrann ut?",
+      "options": [
+        "Färgerna visar gasens verkliga utseende för ögat",
+        "Data från tre olika rymdteleskop har kombinerats",
+        "Bilden har färglagts av konstnärer i efterhand"
+      ],
+      "correct": 2,
+      "fact": "Sammansättningen bygger på observationer i olika våglängder som röntgenstrålning, synligt ljus och infrarött ljus."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en jättestor stjärna spricker som en glittrande ballong i rymden. Det hände för länge sedan, år 1987. Först blev det mörkare men nu har resterna av stjärnan börjat lysa igen som ett glödande halsband. Det händer eftersom gasen krockar med rymdstoft och bildar vågor, ungefär som när du plaskar i en vattenpöl och vågorna skvalpar iväg mot kanten.",
-    "nyborjare": "År 2011 kunde forskare följa en unik händelse där resterna av en exploderad stjärna, en så kallad supernova, började lysa upp på nytt. Explosionen ägde rum år 1987 i en granngalax som heter Stora magellanska molnet. Det var den närmaste supernovan som har observerats på nästan fyrahundra år. Efter att ha bleknat under flera år började gasresterna från explosionen att krocka med en omgivande ring av materia. Den våldsamma krocken skapar kraftiga chockvågor som värmer upp gasen så att den börjar glöda i synligt ljus och sända ut röntgenstrålning som kan fångas upp av ett rymdteleskop.",
-    "entusiast": "År 2011 uppmärksammades nya observationer av Supernova 1987A, en händelse som har följts noggrant med rymdteleskopet Hubble sedan det sköts upp 1990. Ljuset från denna stjärnexplosion i den närliggande galaxen Stora magellanska molnet nådde jorden i februari 1987 och utgjorde den närmast belägna supernovastudien på nästan fyra sekel. Efter att det ursprungliga ljuset och de efterföljande resterna gradvis hade mattats av visade det sig att materialet började ljusna igen. Detta orsakas av att utvidgande supernovarester träffar en omgivande gasring som bildades av stjärnan innan den exploderade. Krocken genererar kraftiga chockvågor som hettar upp gasen och producerar hård röntgenstrålning, vilket i sin tur belyser det omgivande rymdskräpet och får det att lysa med synligt ljus."
+    "barn": "Tänk dig ett jättelikt moln av glödande gas som lyser upp mörkret i rymden. Det är resterna efter en stor stjärna som exploderade för nästan tusen år sedan, år 1054. Inne i mitten av molnet snurrar en liten boll som är otroligt tung och full av energi. Det är som ett glittrande fyrverkeri som aldrig slutar att spraka.",
+    "nyborjare": "År 1054 bevittnade människor på jorden en spektakulär stjärnexplosion, en så kallad supernova, i stjärnbilden Oxen. Det vi ser i dag är Krabbtåkan, som är ett expanderande skräpfält av gas och stoft från denna döda stjärna. Mitt i nebulosan finns en neutronstjärna kvar. Den är en supertät rest med en massa som solen, samlad på en mycket liten yta, och den skickar ut massor av högenergipartiklar ut i rymden. Denna sammansatta bild bygger på data från tre stora rymdteleskop som fångar upp olika typer av ljus.",
+    "entusiast": "Krabbtåkan är resterna efter supernovan SN 1054 som observerades historiskt år 1054. I dess centrum ligger pulsaren som driver hela systemet, en roterande neutronstjärna med en diameter på ungefär 20 kilometer men med en massa som motsvarar solen. Denna neutronstjärna driver en kraftfull vind av relativistiska partiklar och magnetiserad plasma som skapar den komplexa struktur vi ser. Bilden är en sammanställning av observationer från NASA:s stora observatorier, där Chandra bidrar med röntgenstrålning i ljusblått, Hubble visar optiskt ljus i grönt och mörkblått, och Spitzer bidrar med infrarött ljus i rött. Röntgenstrålningen strålar ut från de mest energirika elektronerna närmast pulsaren, vilket gör att det röntgenemitterande området uppträder mindre än de regioner som sänder ut lägre energier."
   },
   "terms": [
     {
       "term": "supernova",
-      "explanation": "En extremt kraftfull explosion som inträffar i slutet av en tung stjärnas livstid."
+      "explanation": "En oerhört kraftfull explosion som inträffar när en tung stjärna har förbrukat sitt bränsle och dör."
     },
     {
-      "term": "galax",
-      "explanation": "Ett enormt sammelsurium av stjärnor, gas, stoft och mörk materia som hålls ihop av gravitation."
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och rymdstoft som breder ut sig mellan stjärnorna i universum."
     },
     {
-      "term": "rymdteleskop",
-      "explanation": "Ett instrument placerat i omloppsbana kring jorden för att observera universum utan att störas av atmosfären."
+      "term": "neutronstjärna",
+      "explanation": "Ett extremt tätt objekt som blir kvar när en stor stjärna kollapsar efter en explosion."
     },
     {
-      "term": "röntgenstrålning",
-      "explanation": "En form av högenergetisk elektromagnetisk strålning som skapas i universums hetaste och våldsammaste processer."
+      "term": "pulsar",
+      "explanation": "En roterande neutronstjärna som sänder ut regelbundna pulser av elektromagnetisk strålning ut i rymden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant star popping like a sparkling balloon out in space. That happened a long time ago, back in 1987. At first it grew dimmer, but now the leftovers of the star have started shining again like a glowing necklace. This happens because the gas crashes into space dust and creates waves, much like when you splash in a puddle and the ripples travel outward.",
-      "nyborjare": "In 2011, scientists could follow a unique event where the debris of an exploded star, known as a supernova, began to brighten up again. The explosion took place in 1987 inside a neighboring galaxy called the Large Magellanic Cloud. It was the closest supernova observed in nearly four hundred years. After fading for several years, the gas debris from the explosion started colliding with a surrounding ring of material. This violent impact creates powerful shock waves that heat up the gas, making it glow in visible light and emit X-rays captured by space telescopes.",
-      "entusiast": "In 2011, new observations of Supernova 1987A were highlighted, an event closely monitored by the Hubble Space Telescope since its launch in 1990. Light from this stellar explosion in the nearby Large Magellanic Cloud reached Earth in February 1987, marking the closest supernova study in nearly four centuries. After the initial light and subsequent debris gradually faded, observations showed that the material was brightening once again. This is caused by expanding supernova debris impacting an ambient gas ring formed by the star before its demise. The collision generates powerful shock waves that heat the gas and produce X-rays, illuminating the debris and causing it to glow in visible light."
+      "barn": "Imagine a giant cloud of glowing gas lighting up the darkness of space. It is the remains of a big star that exploded almost a thousand years ago, in the year 1054. Right in the middle of the cloud spins a tiny ball that is incredibly heavy and full of energy. It is like a sparkling firework that never stops glowing.",
+      "nyborjare": "In the year 1054, people on Earth witnessed a spectacular star explosion, known as a supernova, in the constellation Taurus. What we see today is the Crab Nebula, an expanding debris field of gas and dust from that dead star. At the center of the nebula remains a neutron star. It is a superdense remnant with the mass of the sun packed into a tiny space, spewing out high-energy particles into space. This composite image uses data from three major space telescopes capturing different types of light.",
+      "entusiast": "The Crab Nebula is the remnant of the historical supernova SN 1054. At its heart lies the pulsar powering the entire system, a rotating neutron star with a diameter of about twelve miles but possessing a mass comparable to the sun. This neutron star drives a powerful wind of relativistic particles and magnetized plasma, creating the complex structure visible today. The image is a composite of observations from NASA's Great Observatories, featuring Chandra X-ray data in light blue, Hubble optical images in green and dark blue, and Spitzer infrared data in red. X-rays radiate from the most energetic electrons closest to the pulsar, causing the X-ray emitting region to appear smaller than areas emitting lower energies."
     },
     "terms": [
       {
         "term": "supernova",
-        "explanation": "An extremely powerful explosion that occurs at the end of a massive star's life cycle."
+        "explanation": "A tremendously powerful explosion that occurs when a massive star runs out of fuel and dies."
       },
       {
-        "term": "galaxy",
-        "explanation": "A massive system of stars, stellar remnants, interstellar gas, dust, and dark matter bound together by gravity."
+        "term": "nebula",
+        "explanation": "A vast cloud of gas and cosmic dust spreading out between the stars in the universe."
       },
       {
-        "term": "space telescope",
-        "explanation": "An instrument stationed in outer orbit to observe distant objects without atmospheric interference."
+        "term": "neutron star",
+        "explanation": "An extremely dense object left behind when a large star collapses following an explosion."
       },
       {
-        "term": "X-rays",
-        "explanation": "A form of high-energy electromagnetic radiation produced by the hottest and most violent processes in the universe."
+        "term": "pulsar",
+        "explanation": "A rotating neutron star that emits regular pulses of electromagnetic radiation out into space."
       }
     ],
     "quiz": [
       {
-        "q": "What is a supernova?",
+        "q": "What object lies at the center of the Crab Nebula?",
         "options": [
-          "A star being born inside a gas cloud",
-          "The violent death explosion of a massive star",
-          "A collision between two massive black holes"
-        ],
-        "correct": 1,
-        "fact": "When a massive star runs out of fuel, it collapses and explodes as a supernova that can outshine an entire galaxy."
-      },
-      {
-        "q": "What happens after the stellar explosion?",
-        "options": [
-          "Debris creates powerful shock waves in the surroundings",
-          "The star shrinks down into a small planet",
-          "The gas completely vanishes into the empty void"
+          "A rapidly spinning neutron star",
+          "A supermassive black hole consuming matter",
+          "A newly born star surrounded by planets"
         ],
         "correct": 0,
-        "fact": "The expanding debris from the supernova collides with surrounding gas rings, creating powerful shock waves that generate X-rays."
+        "fact": "Left behind by the violent stellar explosion in 1054 is a superdense neutron star spinning at an immense speed."
       },
       {
-        "q": "Where did the famous supernova from 1987 occur?",
+        "q": "How was the gas cloud visible in telescopes created?",
         "options": [
-          "Right at the center of the Milky Way",
-          "In our neighboring Large Magellanic Cloud galaxy",
-          "In the distant Andromeda galaxy"
+          "Through a collision between two large galaxies",
+          "Through the explosion of a massive star",
+          "Through a planet being torn apart"
         ],
         "correct": 1,
-        "fact": "Supernova 1987A took place in the nearby Large Magellanic Cloud and became the closest explosion witnessed in almost four centuries."
+        "fact": "The nebula consists of the remains of a massive star that ran out of fuel and ultimately exploded as a supernova."
+      },
+      {
+        "q": "Why does this composite image look so colorful?",
+        "options": [
+          "Colors show the true visual appearance to the human eye",
+          "Data from three different space telescopes has been combined",
+          "The image was colorized by artists long after capture"
+        ],
+        "correct": 2,
+        "fact": "The composition combines observations across different wavelengths including X-rays, visible light, and infrared light."
       }
     ]
   }
