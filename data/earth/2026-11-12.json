@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-12",
+  "title": "Scotland’s Flow Country",
+  "title_sv": "Skotska myrmarkerna",
+  "place": "Skotska högländerna, Skottland",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+  "w": 480,
+  "h": 400,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAgABAwQFBv/EACcQAQABAwMDAgcAAAAAAAAAAAECAAMRBBIhMUFRE2EFMjNCcaHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAAL/xAAZEQEBAQEBAQAAAAAAAAAAAAABAAIRExL/2gAMAwEAAhEDEQA/AONlprpEljI+Kc0l1j0w+M1sxsE8YEj7/uglE9RB3QDoPeufVh5FRs/DfVh9YLneIdKku6K1YtspLkjzz3qzZUm7F2+O9Brbvp2ZksLMwCc/msa0sNZAprNx2hk3Lhyc59qac/mFznmhnxdliglJXLyxMlLDsxeEFzURsxT7vH9rNnNnLdKSr1zSkrJy0oxGMlOSqs5M0zr6b//Z",
+  "levels": {
+    "barn": "Titta på den här bilden från rymden! Den visar ett stort och blött landskap i norra Skottland som kallas för Flow Country. De mörkbruna delarna är stora myrar där det växer mossa och ljung. Överallt syns små blå sjöar som glittrar. Till höger syns ljusgröna områden som är åkrar där bönder odlar jorden. I mitten finns mörkgröna rader som är planterade skogar med barrträd. Det här är en mycket speciell plats i naturen.",
+    "nyborjare": "Satellitbilden visar Flow Country i norra Skottland, ett vidsträckt och vattenmättat landskap som domineras av mossor, gräs och ljung. De mörkbruna områdena i bilden är så kallade torvmarker eller myrar som är strösslade med små sjöar. Torvmarkerna är ovanliga ekosystem som bildas på platser med mycket regn och dålig dränering. På högersidan syns ljusgröna fält som används för jordbruk, medan de mörkgröna och mer geometriska mönstren i mitten är barrskogskantager. Dessa myrar är mycket viktiga för klimatet eftersom de lagrar enorma mängder kol i den tjocka torven som har byggts upp under tusentals år.",
+    "entusiast": "Bilden har fångats av instrumentet OLI som sitter ombord på Landsat 8-satelliten och är centrerad kring de skotska högländerna. Här ser vi Europas största sammanhängande system av torvmarker eller blöta myrar som numera också är utsett till världsarv av UNESCO. De mörkbruna partierna utgörs av vattenmättad mark med över trettio arter av vitmossa. Ljusgröna fält nära Thurso markerar jordbruksmark och de mörkare geometriska ytorna är barrplantager. Satellitdata visar hur våtmarkerna breder ut sig över omkring 1 900 kvadratkilometer. Forskare uppskattar att världens torvmarker täcker tre procent av landytan men lagrar mer än 600 gigaton kol, vilket är dubbelt så mycket som alla världens skogar tillsammans. Det beror på att den vattenfyllda och syrefattiga miljön gör att döda växter bryts ned mycket långsamt och i stället bildar tjocka lager av kolrik torv."
+  },
+  "terms": [
+    {
+      "term": "torv",
+      "explanation": "Ett tjockt och svampigt material som bildas när döda växter samlas i vattenmättad mark."
+    },
+    {
+      "term": "vitmossa",
+      "explanation": "En typ av mossa som det finns över trettio arter av i de skotska torvmarkerna."
+    },
+    {
+      "term": "barrskog",
+      "explanation": "Skogar med barrträd som syns som mörkgröna geometriska mönster i mitten av bilden."
+    },
+    {
+      "term": "världsarv",
+      "explanation": "En särskilt värdefull plats i naturen eller kulturen som har utsetts av UNESCO."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this picture from space! It shows a wet and soggy landscape in northern Scotland called the Flow Country. The dark brown parts are huge bogs where moss and heather grow. You can also see small blue lakes scattered everywhere. On the right side, there are light green areas which are farmland. In the middle, there are dark green rows which are planted pine forests. This is a very special place in nature.",
+      "nyborjare": "The satellite image shows the Flow Country in northern Scotland, a vast and waterlogged landscape dominated by mosses, grasses, and heathers. The dark brown areas are peat bogs sprinkled with small lakes. These unusual ecosystems form in places with abundant rainfall and poor drainage. On the right side, you can see light green fields used for agriculture, while the darker green geometric patterns in the center are conifer plantations. These bogs are very important for the climate because they store tremendous quantities of carbon in thick layers of peat that have accumulated over thousands of years.",
+      "entusiast": "The image was captured by the Operational Land Imager on Landsat 8 and is centered on the Scottish Highlands. Here we see Europe's largest ecosystem of blanket bogs, which is also inscribed as a UNESCO World Heritage Site. The dark brown patches consist of waterlogged ground containing more than thirty species of sphagnum moss. Light green fields near Thurso mark agricultural land and the darker geometric shapes are conifer plantations. Satellite data shows these bogs spread across some 1900 square kilometers. Scientists estimate that global peatlands cover 3 percent of Earth's land surface but store more than 600 gigatons of carbon, about twice as much as all world forests combined. This happens because the waterlogged and oxygen-poor environment prevents dead plants from fully decaying, accumulating instead into thick layers of carbon-rich peat."
+    },
+    "terms": [
+      {
+        "term": "peat",
+        "explanation": "A thick and spongy material formed when dead plant matter accumulates in waterlogged soil."
+      },
+      {
+        "term": "sphagnum moss",
+        "explanation": "A type of moss represented by more than thirty species in the Scottish bogs."
+      },
+      {
+        "term": "conifer plantations",
+        "explanation": "Forests of conifer trees appearing as dark green geometric patterns in the center of the image."
+      },
+      {
+        "term": "World Heritage Site",
+        "explanation": "A landmark or area recognized by UNESCO as having cultural or natural significance."
+      }
+    ],
+    "place": "Scottish Highlands, Scotland"
+  }
+}

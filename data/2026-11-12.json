@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-12",
+  "title": "Stellar Incubators Seen Cooking up Stars",
+  "title_sv": "Trifidnebulosan",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA07226/PIA07226~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA07226/PIA07226~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA07226/PIA07226~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA07226",
+  "credit": "NASA/JPL-Caltech/NOAO/STScI",
+  "taken": "2005",
+  "src": "library",
+  "id": "PIA07226",
+  "px": [
+    1280,
+    638
+  ],
+  "w": 640,
+  "h": 319,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAQACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAUBAgb/xAAmEAACAQIEBQUAAAAAAAAAAAABAgMAEQQFEiETFDFBYQYiMlFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAaEQADAQADAAAAAAAAAAAAAAAAAQIREiEx/9oADAMBAAIRAxEAPwC2Kkx+WY8jCzvNHJ7VgA1LY7n8IpNmpnXBRc454i7drGpk9QocQhZbFL2J7GlGa5rzs5O7Ekb1Pi9F1UKXhooBGVJdbaTcEd/BoWd1ZnVQB5v1FE8WAQKl2HTb7pfOl3+Skja2rpejr0VXUn//2Q==",
+  "quiz": [
+    {
+      "q": "Vad är en nebulosa?",
+      "options": [
+        "Ett moln av gas och stoft",
+        "En rest efter en död stjärna",
+        "En planet med tjock atmosfär"
+      ],
+      "correct": 0,
+      "fact": "Nebulosor är gigantiska moln av gas och rymddamm där nya stjärnor ofta föds."
+    },
+    {
+      "q": "Vad mäter ett ljusår?",
+      "options": [
+        "Tiden det tar att nå stjärnorna",
+        "Sträckan ljuset färdas på ett år",
+        "Ljusstyrkan hos en avlägsen galax"
+      ],
+      "correct": 1,
+      "fact": "Ett ljusår är den sträcka som en ljusstråle färdas på ett år, ungefär 9,5 biljoner kilometer."
+    },
+    {
+      "q": "Varför används infrarött ljus i rymdteleskop?",
+      "options": [
+        "Det kan tränga igenom tätt rymddamm",
+        "Det är lättare att fånga på bild",
+        "Det visar alltid var svarta hål finns"
+      ],
+      "correct": 0,
+      "fact": "Infraröd strålning har längre våglängder än synligt ljus, vilket gör att den kan avslöja vad som döljer sig inuti mörka gasmoln."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig ett jättestort moln av sockervadd långt ut i rymden som lyser i vackra färger. Inne i det här molnet gömmer sig små stjärnbebisar som håller på att vakna till liv. Rymdteleskopet Spitzer tog den här bilden för att kika på hur de nya stjärnorna växer och värmer upp sin omgivning.",
+    "nyborjare": "Den här färgstarka bilden visar Trifidnebulosan, ett jättelikt moln av gas och stoft som ligger 5 400 ljusår bort i stjärnbilden Skytten. För att se vad som döljer sig bakom de mörka stråken av damm har forskare kombinerat synligt ljus med infrarött ljus från Spitzer-teleskopet i denna bild från 2005. Infrarött ljus avslöjar värmen från täta knutor där embryonala stjärnor håller på att bildas.",
+    "entusiast": "Trifidnebulosan är ett klassiskt astrofotografiskt objekt där emission, reflektion och mörka stoftmoln samspelar. I denna sammansatta bild från 2005 har synliga observationer från Hubble Space Telescope och National Optical Astronomy Observatory ställts mot Spitzer Space Telescopes infraröda data. Spitzer avslöjade fyra täta kärnor av stoft som tidigare ansågs omogna för stjärnbildning, men som visade sig dölja snabbt växande massiva protostjärnor. Dessa data visar hur nyfödda stjärnor värmer upp sina omgivande höljen av gas och stoft."
+  },
+  "terms": [
+    {
+      "term": "nebulosa",
+      "explanation": "Ett enormt moln av gas och stoft i rymden där nya stjärnor ofta tar form."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset hinner färdas under en jordisk tidsperiod av ett helt år."
+    },
+    {
+      "term": "stjärnbilden",
+      "explanation": "Ett utvalt område på stjärnhimlen som ritar ut ett igenkännligt mönster av ljusstarka solar."
+    },
+    {
+      "term": "protostjärnor",
+      "explanation": "Tidiga stadier av himlakroppar som samlar på sig materia innan de börjar fusionera vätet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant cloud of cotton candy far out in space that glows in beautiful colors. Inside this cloud, tiny star babies are waking up to life. The Spitzer space telescope took this picture to peek at how the new stars grow and warm up their surroundings.",
+      "nyborjare": "This colorful image shows the Trifid Nebula, a giant cloud of gas and dust located 5,400 light-years away in the constellation Sagittarius. To see what hides behind the dark lanes of dust, researchers combined visible light with infrared light from the Spitzer telescope in this 2005 image. Infrared light reveals the warmth from dense knots where embryonic stars are forming.",
+      "entusiast": "The Trifid Nebula is a classic astrophysical target where emission, reflection, and dark dust lanes interact. In this composite image from 2005, visible observations from the Hubble Space Telescope and the National Optical Astronomy Observatory are paired with Spitzer Space Telescope infrared data. Spitzer revealed four dense cores of dust previously thought to be immature, which actually harbor rapidly growing massive protostars."
+    },
+    "terms": [
+      {
+        "term": "nebula",
+        "explanation": "A massive interstellar cloud of gas and dust where new stars frequently take shape."
+      },
+      {
+        "term": "light-years",
+        "explanation": "The immense distance that a beam of light travels through the vacuum during one Earth year."
+      },
+      {
+        "term": "constellation",
+        "explanation": "A recognized region of the celestial sphere forming a distinct pattern of bright suns."
+      },
+      {
+        "term": "protostars",
+        "explanation": "Early developmental stages of celestial bodies gathering matter before core nuclear fusion ignites."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a nebula?",
+        "options": [
+          "A giant cloud of gas and dust",
+          "The remnant of a dead star",
+          "A planet with a thick atmosphere"
+        ],
+        "correct": 0,
+        "fact": "Nebulae are massive clouds of gas and space dust where new stars are frequently born."
+      },
+      {
+        "q": "What does a light-year measure?",
+        "options": [
+          "The time it takes to reach stars",
+          "The distance light travels in one year",
+          "The brightness of a distant galaxy"
+        ],
+        "correct": 1,
+        "fact": "A light-year is the distance that a beam of light travels in a single year, about 9.5 trillion kilometers."
+      },
+      {
+        "q": "Why do space telescopes use infrared light?",
+        "options": [
+          "It can penetrate dense cosmic dust clouds",
+          "It is much easier to capture in images",
+          "It always reveals where black holes hide"
+        ],
+        "correct": 0,
+        "fact": "Infrared radiation has longer wavelengths than visible light, allowing it to peer inside dark gas clouds."
+      }
+    ]
+  }
+}

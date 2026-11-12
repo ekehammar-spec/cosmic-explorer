@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Supernova Remnant W49B",
-  "title_sv": "Supernovarester W49B",
+  "title": "NASA's Hubble Sees A New Supernova Remnant Light Up",
+  "title_sv": "Supernova 1987A",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002134/GSFC_20171208_Archive_e002134~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002134/GSFC_20171208_Archive_e002134~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002134/GSFC_20171208_Archive_e002134~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002134",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001896/GSFC_20171208_Archive_e001896~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001896/GSFC_20171208_Archive_e001896~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001896/GSFC_20171208_Archive_e001896~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001896",
   "credit": "NASA/GSFC",
   "taken": "2017",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e002134",
+  "id": "GSFC_20171208_Archive_e001896",
   "px": [
-    1920,
-    1737
+    1280,
+    975
   ],
   "w": 640,
-  "h": 579,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAQYH/8QAJRAAAgEEAQMEAwAAAAAAAAAAAQIRAAMEITESIkEFUWHBFJHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAdEQABBAMBAQAAAAAAAAAAAAABAAIDERIiUTFB/9oADAMBAAIRAxEAPwDnwE3NiJ8cRTIxGBUsIVjozTuBjl8Vm6lLQGg8xNWrV30rDKJfttf6Fh2V+1j/ACmxxB7MrQySFjsaWvXMBmYKGPVtYIjYpVka0WRhDnkGNVczHXKuobAQBB2qvt9mg+s4w/CsXmAS8O1hO2Hg0mXFhDQbVROcfVOxsllYRsgQN8j2qjkZOGudZvWrIu2GVS1tjBmNj4qQepndiRIWTrnis9R0eDI2KG6BHVoOxB+hVQbNuyC8W23oGTHiB4pXMyhcxrNswWWdgc/JpYu6s7ByCAdj9fdBUd2tEcGhDeqDW1//2Q==",
+  "h": 487,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIFAwQG/8QAKRAAAQMDAwIFBQAAAAAAAAAAAQIDBAAFERIhQQYxEyIkMlFTYYGRof/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgMF/8QAHBEAAgMBAQEBAAAAAAAAAAAAAQIAAxESITFB/9oADAMBAAIRAxEAPwDiLbbJNyfDUdBUeccVYXZrVCeS1NuaEr1FCw0nxNGMbnG3P8pbKpQ6cuQjn1JxuFYIT3VzTdKvx0uyGnmkqccAwVDIxyKVY7bCZoqqrgA9MRfT7UmP4tqltTDq0FHsVnjAPeob0dbKiFpKSDjeq1wbTA6lUm1KX5HQW9t9X2/NbnV7IFwWs6QpQSpY9uFY823G9Jhz7DhbEJzCJAt8563yEvMKKVJIP6qyzeIMh0vvsGLL+rHwAfnIOxJz3oopFf2UVWspAmRF4tcV92Uy1IkylJ0pVJwdB+RjmoEyW5MfU86cqUck/NFFTJ37C25iMn//2Q==",
   "quiz": [
     {
-      "q": "Vad är en supernovarest?",
+      "q": "Vad är en supernova?",
       "options": [
-        "Gas och stoft från en exploderad stjärna",
-        "En stjärna som håller på att födas",
-        "Resterna efter ett sammansmält svart hål"
+        "En stjärna som föds i ett gasmoln",
+        "En massiv stjärnas våldsamma dödsexplosion",
+        "När två svarta hål krockar"
       ],
-      "correct": 0,
-      "fact": "När en tung stjärna får slut på bränsle exploderar den i en supernova och kastar ut sina yttre delar i rymden."
+      "correct": 1,
+      "fact": "När en tung stjärna får slut på bränsle kollapsar den och exploderar i en supernova som lyser upp hela sin galax."
     },
     {
-      "q": "Varför sänds röntgenstrålning ut från W49B?",
+      "q": "Vad händer efter explosionen?",
       "options": [
-        "Från extremt heta gaser i explosionen",
-        "Från magnetfältet runt en stillsam planet",
-        "Genom solens strålning som reflekteras"
+        "Resterna skapar kraftiga chocker i omgivningen",
+        "Stjärnan drar sig samman till en planet",
+        "Gaset försvinner spårlöst ut i tomrummet"
       ],
       "correct": 0,
-      "fact": "Röntgenstrålning uppstår när material hettas upp till miljontals grader i efterdyningarna av en stjärnexplosion."
+      "fact": "Supernovans utspridda materia kolliderar med omgivande gasringar och bildar chockvågor som genererar röntgenstrålning."
     },
     {
-      "q": "Vad är järnatomer i detta sammanhang?",
+      "q": "Var ligger den berömda supernovan från 1987?",
       "options": [
-        "Byggstenar skapade i stjärnans inre",
-        "Meteoriter som fallit mot en yta",
-        "Fasta stenar som kretsar kring gasmoln"
+        "I Vintergatans absoluta mitt",
+        "I vår granngalax Stora magellanska molnet",
+        "I Andromedagalaxen"
       ],
-      "correct": 0,
-      "fact": "Tunga grundämnen som järn bildas inuti massiva stjärnor och sprids i rymden när stjärnan exploderar."
+      "correct": 1,
+      "fact": "Supernova 1987A inträffade i vår närliggande dvärggalax Stora magellanska molnet och blev den närmaste explosionen på fyrahundra år."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en jättestor stjärna har smällit som en gigantisk fyrverkeripjäs i rymden. Det här färgglada molnet är resterna efter den explosionen. Forskarna har fotograferat molnet med speciella rymdkikare som kan se sådant som våra ögon inte klarar av, till exempel osynliga strålar. Bilden sattes ihop redan år 2009 för att visa hur gas och stoft sprids åt alla håll.",
-    "nyborjare": "Den här bilden från 2009 visar supernovarester efter en stjärna som exploderade för länge sedan. När en tung stjärna dör slungas dess innersta delar ut i rymden i en våldsam explosion. Forskarna har kombinerat infrarött ljus med röntgenstrålning för att avslöja vad som döljer sig i gasmolnet. Med hjälp av rymdteleskopet Chandra har man upptäckt spår av joniserade järnatomer som sänder ut röntgenstrålning när de fångar in elektroner. Det ger forskarna en unik inblick i hur grundämnen sprids i universum.",
-    "entusiast": "Objektet W49B är en av de mest intressanta supernovaresterna i vår galax och studerades bland annat ingående av Suzaku och Chandra i data som sammanställdes kring 2009. Observationerna avslöjar en så kallad fossil eldboll där järnatomer som har joniserats kraftigt fångar in elektroner, vilket ger upphov till karakteristisk röntgenemission. Genom att kombinera markbaserade infraröda observationer som visar molekylmoln med rymdbaserade röntgenmätningar kan astronomerna kartlägga fördelningen av tunga grundämnen. Asymmetrin i explosionen tyder på att stjärnan kollapsade på ett ovanligt sätt och bildade antingen en neutronstjärna eller ett svart hål i dess centrum."
+    "barn": "Tänk dig att en jättestor stjärna spricker som en glittrande ballong i rymden. Det hände för länge sedan, år 1987. Först blev det mörkare men nu har resterna av stjärnan börjat lysa igen som ett glödande halsband. Det händer eftersom gasen krockar med rymdstoft och bildar vågor, ungefär som när du plaskar i en vattenpöl och vågorna skvalpar iväg mot kanten.",
+    "nyborjare": "År 2011 kunde forskare följa en unik händelse där resterna av en exploderad stjärna, en så kallad supernova, började lysa upp på nytt. Explosionen ägde rum år 1987 i en granngalax som heter Stora magellanska molnet. Det var den närmaste supernovan som har observerats på nästan fyrahundra år. Efter att ha bleknat under flera år började gasresterna från explosionen att krocka med en omgivande ring av materia. Den våldsamma krocken skapar kraftiga chockvågor som värmer upp gasen så att den börjar glöda i synligt ljus och sända ut röntgenstrålning som kan fångas upp av ett rymdteleskop.",
+    "entusiast": "År 2011 uppmärksammades nya observationer av Supernova 1987A, en händelse som har följts noggrant med rymdteleskopet Hubble sedan det sköts upp 1990. Ljuset från denna stjärnexplosion i den närliggande galaxen Stora magellanska molnet nådde jorden i februari 1987 och utgjorde den närmast belägna supernovastudien på nästan fyra sekel. Efter att det ursprungliga ljuset och de efterföljande resterna gradvis hade mattats av visade det sig att materialet började ljusna igen. Detta orsakas av att utvidgande supernovarester träffar en omgivande gasring som bildades av stjärnan innan den exploderade. Krocken genererar kraftiga chockvågor som hettar upp gasen och producerar hård röntgenstrålning, vilket i sin tur belyser det omgivande rymdskräpet och får det att lysa med synligt ljus."
   },
   "terms": [
     {
-      "term": "supernovarester",
-      "explanation": "Det expanderande moln av gas och stoft som blir kvar efter en massiv stjärnas explosion."
-    },
-    {
-      "term": "röntgenstrålning",
-      "explanation": "En typ av högenergetisk elektromagnetisk strålning som kan tränga igenom materia och sänds ut från mycket heta kosmiska källor."
-    },
-    {
-      "term": "rymdteleskop",
-      "explanation": "Ett optiskt instrument eller observatorium placerat i rymden ovanför jordens atmosfär för att studera universum."
+      "term": "supernova",
+      "explanation": "En extremt kraftfull explosion som inträffar i slutet av en tung stjärnas livstid."
     },
     {
       "term": "galax",
-      "explanation": "Ett enormt stjärnsystem som hålls samman av gravitationen och innehåller miljarder stjärnor samt gas och stoft."
+      "explanation": "Ett enormt sammelsurium av stjärnor, gas, stoft och mörk materia som hålls ihop av gravitation."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "Ett instrument placerat i omloppsbana kring jorden för att observera universum utan att störas av atmosfären."
+    },
+    {
+      "term": "röntgenstrålning",
+      "explanation": "En form av högenergetisk elektromagnetisk strålning som skapas i universums hetaste och våldsammaste processer."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine that a giant star has exploded like a massive firework in space. This colorful cloud is what remains after that explosion. Scientists took pictures of the cloud using special space telescopes that can see things our eyes cannot, such as invisible rays. The image was put together back in 2009 to show how gas and dust spread in all directions.",
-      "nyborjare": "This image from 2009 shows supernova remnants left behind after a star exploded long ago. When a heavy star dies, its inner parts are hurled into space in a violent explosion. Scientists have combined infrared light with X-ray data to reveal what is hidden inside the gas cloud. Using the Chandra X-Ray Observatory, researchers discovered traces of ionized iron atoms that emit X-rays when they capture electrons, giving unique insight into how elements spread in the universe.",
-      "entusiast": "The object W49B is one of the most interesting supernova remnants in our galaxy, studied extensively by instruments like Suzaku and Chandra in data compiled around 2009. The observations reveal a so-called fossil fireball where heavily ionized iron atoms recapture electrons, producing characteristic X-ray emission. By combining ground-based infrared observations showing molecular clouds with space-based X-ray measurements, astronomers can map the distribution of heavy elements. The asymmetry of the explosion suggests that the star collapsed in an unusual manner, likely forming either a neutron star or a black hole at its center."
+      "barn": "Imagine a giant star popping like a sparkling balloon out in space. That happened a long time ago, back in 1987. At first it grew dimmer, but now the leftovers of the star have started shining again like a glowing necklace. This happens because the gas crashes into space dust and creates waves, much like when you splash in a puddle and the ripples travel outward.",
+      "nyborjare": "In 2011, scientists could follow a unique event where the debris of an exploded star, known as a supernova, began to brighten up again. The explosion took place in 1987 inside a neighboring galaxy called the Large Magellanic Cloud. It was the closest supernova observed in nearly four hundred years. After fading for several years, the gas debris from the explosion started colliding with a surrounding ring of material. This violent impact creates powerful shock waves that heat up the gas, making it glow in visible light and emit X-rays captured by space telescopes.",
+      "entusiast": "In 2011, new observations of Supernova 1987A were highlighted, an event closely monitored by the Hubble Space Telescope since its launch in 1990. Light from this stellar explosion in the nearby Large Magellanic Cloud reached Earth in February 1987, marking the closest supernova study in nearly four centuries. After the initial light and subsequent debris gradually faded, observations showed that the material was brightening once again. This is caused by expanding supernova debris impacting an ambient gas ring formed by the star before its demise. The collision generates powerful shock waves that heat the gas and produce X-rays, illuminating the debris and causing it to glow in visible light."
     },
     "terms": [
       {
-        "term": "supernova remnants",
-        "explanation": "The expanding cloud of gas and dust left behind after the explosion of a massive star."
-      },
-      {
-        "term": "X-ray radiation",
-        "explanation": "A type of high-energy electromagnetic radiation capable of penetrating matter and emitted from extremely hot cosmic sources."
-      },
-      {
-        "term": "space telescope",
-        "explanation": "An astronomical observatory placed in outer space above Earth's atmosphere to study the universe clearly."
+        "term": "supernova",
+        "explanation": "An extremely powerful explosion that occurs at the end of a massive star's life cycle."
       },
       {
         "term": "galaxy",
-        "explanation": "A massive system of stars, gas, and dust held together by gravity."
+        "explanation": "A massive system of stars, stellar remnants, interstellar gas, dust, and dark matter bound together by gravity."
+      },
+      {
+        "term": "space telescope",
+        "explanation": "An instrument stationed in outer orbit to observe distant objects without atmospheric interference."
+      },
+      {
+        "term": "X-rays",
+        "explanation": "A form of high-energy electromagnetic radiation produced by the hottest and most violent processes in the universe."
       }
     ],
     "quiz": [
       {
-        "q": "What is a supernova remnant?",
+        "q": "What is a supernova?",
         "options": [
-          "Gas and dust from an exploded star",
-          "A star that is currently being born",
-          "Remnants after a merged black hole"
+          "A star being born inside a gas cloud",
+          "The violent death explosion of a massive star",
+          "A collision between two massive black holes"
         ],
-        "correct": 0,
-        "fact": "When a massive star runs out of fuel, it explodes in a supernova and ejects its outer layers into space."
+        "correct": 1,
+        "fact": "When a massive star runs out of fuel, it collapses and explodes as a supernova that can outshine an entire galaxy."
       },
       {
-        "q": "Why is X-ray radiation emitted from W49B?",
+        "q": "What happens after the stellar explosion?",
         "options": [
-          "From extremely hot gases in the explosion",
-          "From the magnetic field around a quiet planet",
-          "Through sunlight reflected by cosmic dust"
+          "Debris creates powerful shock waves in the surroundings",
+          "The star shrinks down into a small planet",
+          "The gas completely vanishes into the empty void"
         ],
         "correct": 0,
-        "fact": "X-rays are produced when material is heated to millions of degrees in the aftermath of a stellar explosion."
+        "fact": "The expanding debris from the supernova collides with surrounding gas rings, creating powerful shock waves that generate X-rays."
       },
       {
-        "q": "What are iron atoms in this context?",
+        "q": "Where did the famous supernova from 1987 occur?",
         "options": [
-          "Building blocks forged inside the star",
-          "Meteorites that fell onto a planetary surface",
-          "Solid rocks orbiting a gas cloud"
+          "Right at the center of the Milky Way",
+          "In our neighboring Large Magellanic Cloud galaxy",
+          "In the distant Andromeda galaxy"
         ],
-        "correct": 0,
-        "fact": "Heavy elements like iron are formed inside massive stars and spread across space when the star explodes."
+        "correct": 1,
+        "fact": "Supernova 1987A took place in the nearby Large Magellanic Cloud and became the closest explosion witnessed in almost four centuries."
       }
     ]
   }
