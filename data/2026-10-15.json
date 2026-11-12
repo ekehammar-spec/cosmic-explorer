@@ -1,134 +1,142 @@
 {
   "v": 4,
-  "model": "gemini-3.5-flash-lite",
+  "model": "gemini-3.8-flash",
   "date": "2026-10-15",
-  "title": "Dead Star Creates Celestial Havoc",
-  "title_sv": "Krabbtåkan",
+  "title": "MESSENGER Reveals Mercury Geological History",
+  "title_sv": "Merkurius geologiska historia sedd av MESSENGER",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA01320/PIA01320~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA01320/PIA01320~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA01320/PIA01320~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA01320",
-  "credit": "NASA/JPL-Caltech/ESA/CXC/Univ. of Ariz./Univ. of Szeged",
-  "taken": "2006",
+  "url": "https://images-assets.nasa.gov/image/PIA10177/PIA10177~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA10177/PIA10177~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA10177/PIA10177~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA10177",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+  "taken": "2008",
   "src": "library",
-  "id": "PIA01320",
+  "id": "PIA10177",
   "px": [
-    1920,
-    1760
+    1016,
+    1024
   ],
-  "w": 640,
-  "h": 586,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgYDBAcF/8QAIxAAAgEDAwUBAQAAAAAAAAAAAQIDAAQRBRIhEzFRYXFBgf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAcEQACAwADAQAAAAAAAAAAAAABAgADERIhMSL/2gAMAwEAAhEDEQA/AM4FWrW3aY4Ues0FrAbiUICB5p90LT7fYpj6b4IyykEj+UhJJCr6ZWpOR7iiujzlckcHkeDXNniaKRkYYIrTtRszCAOmOljg47H15rO9VcNdtj8ofSvxaWuVAoKyTSZkhkcsM7uPlMunXENpcllYDcmCV52n8pJBxUguJQuA7AeM1mQ7oMWq/gMyO+s65G4MbTEtt2kdh9FI9w++Rmzn3Qsxbkkn7QntRVc7J0ydlpf2f//Z",
+  "w": 635,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUGA//EACcQAAEDAwMDBAMAAAAAAAAAAAECAxEAITEEEkFhobEiMlGBkcHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM1pyEpOQo894qjp0WUQYAF/zH7qdpiViOomnMkztGcCga0SMC9JbSUuI9MmTxXJpsyCbf2loClOgJynwaDLaFY2DdeSo/eKc3KX2yIsRUjTHalJT7T2qoxc7je8UFdle+EgROQaYmG1t2AGB1qc3Mi8cg/FMU5vbBwpB480H//Z",
   "quiz": [
     {
-      "q": "Vad är det som finns i mitten av Krabbtåkan?",
+      "q": "Varför har planeten Merkurius så många kratrar på ytan?",
       "options": [
-        "En neutronstjärna som roterar mycket snabbt",
-        "Ett jättelikt svart hål som slukar materia",
-        "En nyfödd stjärna omgiven av planeter"
+        "Den saknar en tät skyddande atmosfär.",
+        "Den kolliderade med en stor måne.",
+        "Den har ständiga och kraftiga vulkanutbrott."
       ],
       "correct": 0,
-      "fact": "Kvar efter den våldsamma stjärnexplosionen år 1054 finns en supertät neutronstjärna som spinner runt i en enorm hastighet."
+      "fact": "Utan en tät atmosfär som bränner upp rymdstenar träffar meteoriter marken med full kraft och bevaras i miljarder år."
     },
     {
-      "q": "Hur skapades gasmolnet som syns i teleskop?",
+      "q": "Vilken planet i vårt solsystem är minst?",
       "options": [
-        "Genom att två stora galaxer krockade",
-        "Genom att en tung stjärna exploderade",
-        "Genom att en planet slets sönder"
+        "Mars",
+        "Merkurius",
+        "Venus"
       ],
       "correct": 1,
-      "fact": "Nebulosan är resterna av en massiv stjärna som fick slut på bränsle och slutligen exploderade som en supernova."
+      "fact": "Sedan Pluto omklassificerades till dvärgplanet är Merkurius den allra minsta av solsystemets åtta planeter."
     },
     {
-      "q": "Varför ser bilden så färggrann ut?",
+      "q": "Hur skiljer sig temperaturen mellan dag och natt på Merkurius?",
       "options": [
-        "Färgerna visar gasens verkliga utseende för ögat",
-        "Data från tre olika rymdteleskop har kombinerats",
-        "Bilden har färglagts av konstnärer i efterhand"
+        "Den förblir nästan helt oförändrad dygnet runt.",
+        "Det skiljer bara några enstaka grader.",
+        "Skillnaden är över flera hundra grader."
       ],
       "correct": 2,
-      "fact": "Sammansättningen bygger på observationer i olika våglängder som röntgenstrålning, synligt ljus och infrarött ljus."
+      "fact": "Bristen på atmosfär gör att hettan inte lagras, vilket ger dagstemperaturer kring 430 grader och nätter på minus 180 grader."
     }
   ],
   "levels": {
-    "barn": "Tänk dig ett jättelikt moln av glödande gas som lyser upp mörkret i rymden. Det är resterna efter en stor stjärna som exploderade för nästan tusen år sedan, år 1054. Inne i mitten av molnet snurrar en liten boll som är otroligt tung och full av energi. Det är som ett glittrande fyrverkeri som aldrig slutar att spraka.",
-    "nyborjare": "År 1054 bevittnade människor på jorden en spektakulär stjärnexplosion, en så kallad supernova, i stjärnbilden Oxen. Det vi ser i dag är Krabbtåkan, som är ett expanderande skräpfält av gas och stoft från denna döda stjärna. Mitt i nebulosan finns en neutronstjärna kvar. Den är en supertät rest med en massa som solen, samlad på en mycket liten yta, och den skickar ut massor av högenergipartiklar ut i rymden. Denna sammansatta bild bygger på data från tre stora rymdteleskop som fångar upp olika typer av ljus.",
-    "entusiast": "Krabbtåkan är resterna efter supernovan SN 1054 som observerades historiskt år 1054. I dess centrum ligger pulsaren som driver hela systemet, en roterande neutronstjärna med en diameter på ungefär 20 kilometer men med en massa som motsvarar solen. Denna neutronstjärna driver en kraftfull vind av relativistiska partiklar och magnetiserad plasma som skapar den komplexa struktur vi ser. Bilden är en sammanställning av observationer från NASA:s stora observatorier, där Chandra bidrar med röntgenstrålning i ljusblått, Hubble visar optiskt ljus i grönt och mörkblått, och Spitzer bidrar med infrarött ljus i rött. Röntgenstrålningen strålar ut från de mest energirika elektronerna närmast pulsaren, vilket gör att det röntgenemitterande området uppträder mindre än de regioner som sänder ut lägre energier."
+    "barn": "Titta på den här grå och steniga världen. Det är planeten Merkurius, som ligger allra närmast solen. Ytan ser ut nästan som vår egen måne. Den är full av gropar som kallas kratrar. Groparna blev till när rymdstenar kraschade rakt in i planeten för länge sedan. Merkurius har ingen luft som skyddar den, så stenarna bromsas inte alls. På dagen blir det stekhett som i en ugn, och på natten blir det iskallt.",
+    "nyborjare": "Den här bilden togs år 2008 av rymdsonden MESSENGER när den svepte förbi Merkurius på nära håll. Merkurius är solsystemets innersta planet och har en yta som präglats av miljarder år av geologisk historia. Eftersom planeten saknar en betydande atmosfär finns det inget väder eller vind som kan slipa ner spåren efter gamla nedslag. \n\nIstället täcks ytan av otaliga nedslagskratrar och jättelika förkastningsbranter. Dessa branter uppstod när Merkurius inre metallkärna svalnade och krympte ihop, vilket fick skorpan att rynka sig. Bilden visar en soldränkt hemisfär där både uråldrig kraterterräng och yngre, slätare vulkaniska slätter syns sida vid sida.",
+    "entusiast": "Den 14 januari 2008 genomförde NASA:s rymdsond MESSENGER sin första historiska förbiflygning av Merkurius. Bilden togs med sonden Narrow Angle Camera, en del av bildsystemet MDIS, och ingick i en mosaik som kartlade stora delar av den dittills outforskade hemisfären.\n\nMerkurius geologiska utveckling skiljer sig markant från andra stenplaneters. Dess enorma järnkärna utgör omkring 85 procent av planetens radie. När denna kärna långsamt svalnade under årmiljarderna genomgick planeten en global kontraktion, vilket pressade upp enorma förkastningsbranter, så kallade rupes, över hela ytan. Samtidigt visar ytan spår av omfattande vulkanism som fyllde ut äldre bassänger med jämnt flytande lava.\n\nMESSENGER var den första rymdsond som gick in i omloppsbana kring Merkurius år 2011, men denna förbiflygning 2008 gav de första detaljerade bilderna av planetens baksida sedan Mariner 10 passerade på 1970-talet. Datan bekräftade att planeten har en rik vulkanisk historia som pågått långt efter det intensiva bombardemanget under solsystemets tidiga epok."
   },
   "terms": [
     {
-      "term": "supernova",
-      "explanation": "En oerhört kraftfull explosion som inträffar när en tung stjärna har förbrukat sitt bränsle och dör."
+      "term": "kratrar",
+      "explanation": "Skålformade fördjupningar i marken som skapas vid kraftiga nedslag av meteoriter."
     },
     {
-      "term": "nebulosa",
-      "explanation": "Ett enormt moln av gas och rymdstoft som breder ut sig mellan stjärnorna i universum."
+      "term": "nedslagskratrar",
+      "explanation": "Cirkelrunda gropar som bildas när rymdstenar kraschar in i en himlakropps yta."
     },
     {
-      "term": "neutronstjärna",
-      "explanation": "Ett extremt tätt objekt som blir kvar när en stor stjärna kollapsar efter en explosion."
+      "term": "förkastningsbranter",
+      "explanation": "Branta stup och åsar som bildas i jordskorpan när marken pressas samman eller spricker."
     },
     {
-      "term": "pulsar",
-      "explanation": "En roterande neutronstjärna som sänder ut regelbundna pulser av elektromagnetisk strålning ut i rymden."
+      "term": "hemisfär",
+      "explanation": "Den ena halvan av en sfärisk himlakropps yta."
+    },
+    {
+      "term": "kontraktion",
+      "explanation": "En process där en himlakropps volym minskar och krymper ihop på grund av avsvalning."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine a giant cloud of glowing gas lighting up the darkness of space. It is the remains of a big star that exploded almost a thousand years ago, in the year 1054. Right in the middle of the cloud spins a tiny ball that is incredibly heavy and full of energy. It is like a sparkling firework that never stops glowing.",
-      "nyborjare": "In the year 1054, people on Earth witnessed a spectacular star explosion, known as a supernova, in the constellation Taurus. What we see today is the Crab Nebula, an expanding debris field of gas and dust from that dead star. At the center of the nebula remains a neutron star. It is a superdense remnant with the mass of the sun packed into a tiny space, spewing out high-energy particles into space. This composite image uses data from three major space telescopes capturing different types of light.",
-      "entusiast": "The Crab Nebula is the remnant of the historical supernova SN 1054. At its heart lies the pulsar powering the entire system, a rotating neutron star with a diameter of about twelve miles but possessing a mass comparable to the sun. This neutron star drives a powerful wind of relativistic particles and magnetized plasma, creating the complex structure visible today. The image is a composite of observations from NASA's Great Observatories, featuring Chandra X-ray data in light blue, Hubble optical images in green and dark blue, and Spitzer infrared data in red. X-rays radiate from the most energetic electrons closest to the pulsar, causing the X-ray emitting region to appear smaller than areas emitting lower energies."
+      "barn": "Look at this gray and rocky world. This is the planet Mercury, the closest planet to the Sun. Its surface looks very much like our Moon. It is covered in holes called craters. These holes formed long ago when space rocks crashed right into the surface. Mercury has no air to protect it, so rocks never slow down before hitting the ground. It gets scorching hot during the day and freezing cold at night.",
+      "nyborjare": "This image was captured in 2008 by the MESSENGER spacecraft as it flew close past Mercury. Mercury is the innermost planet of our solar system, bearing the marks of billions of years of geological history. Because the planet lacks a substantial atmosphere, there is no weather or wind to erase ancient scars.\n\nInstead, the terrain is covered in countless impact craters and towering scarps. These cliffs formed when Mercury's metallic core cooled and contracted, causing the crust to wrinkle and buckle. The image reveals a sunlit hemisphere where heavily cratered highlands and smooth volcanic plains sit side by side.",
+      "entusiast": "On January 14, 2008, NASA's MESSENGER spacecraft executed its first historic flyby of Mercury. The Narrow Angle Camera, part of the MDIS imaging instrument, captured this scene as part of a high-resolution mosaic covering much of the sunlit hemisphere.\n\nMercury's geological evolution is unique among the terrestrial planets. Its massive iron-rich core accounts for roughly 85 percent of the planetary radius. As this interior cooled over billions of years, global contraction produced immense thrust fault scarps, known as rupes, across the terrain. Concurrently, extensive volcanism flooded older lowlands with low-viscosity lava plains.\n\nAlthough MESSENGER later became the first probe to enter orbit around Mercury in 2011, this 2008 flyby returned humanity's first new close-up views of the planet since Mariner 10 in the 1970s. The data proved that Mercury experienced widespread volcanic resurfacing well beyond the Solar System's early heavy bombardment."
     },
     "terms": [
       {
-        "term": "supernova",
-        "explanation": "A tremendously powerful explosion that occurs when a massive star runs out of fuel and dies."
+        "term": "craters",
+        "explanation": "Bowl-shaped depressions on a planet's surface carved out by high-speed meteorite impacts."
       },
       {
-        "term": "nebula",
-        "explanation": "A vast cloud of gas and cosmic dust spreading out between the stars in the universe."
+        "term": "impact craters",
+        "explanation": "Circular scars left on planetary crusts when colliding space debris strikes the ground."
       },
       {
-        "term": "neutron star",
-        "explanation": "An extremely dense object left behind when a large star collapses following an explosion."
+        "term": "scarps",
+        "explanation": "Steep linear cliffs formed along faults when tectonic forces push crustal rocks together."
       },
       {
-        "term": "pulsar",
-        "explanation": "A rotating neutron star that emits regular pulses of electromagnetic radiation out into space."
+        "term": "hemisphere",
+        "explanation": "One half of a spherical celestial body or planetary surface."
+      },
+      {
+        "term": "contraction",
+        "explanation": "The shrinking of a planet's volume as its interior loses thermal energy."
       }
     ],
     "quiz": [
       {
-        "q": "What object lies at the center of the Crab Nebula?",
+        "q": "Why does the planet Mercury have so many craters?",
         "options": [
-          "A rapidly spinning neutron star",
-          "A supermassive black hole consuming matter",
-          "A newly born star surrounded by planets"
+          "It lacks a thick protective atmosphere.",
+          "It collided with a giant moon.",
+          "It experiences continuous and massive volcanic eruptions."
         ],
         "correct": 0,
-        "fact": "Left behind by the violent stellar explosion in 1054 is a superdense neutron star spinning at an immense speed."
+        "fact": "Without a dense atmosphere to burn up incoming space rocks, meteorites strike the surface and leave craters that last billions of years."
       },
       {
-        "q": "How was the gas cloud visible in telescopes created?",
+        "q": "Which planet is the smallest in our solar system?",
         "options": [
-          "Through a collision between two large galaxies",
-          "Through the explosion of a massive star",
-          "Through a planet being torn apart"
+          "Mars",
+          "Mercury",
+          "Venus"
         ],
         "correct": 1,
-        "fact": "The nebula consists of the remains of a massive star that ran out of fuel and ultimately exploded as a supernova."
+        "fact": "Since Pluto was reclassified as a dwarf planet, Mercury is the smallest of the eight planets."
       },
       {
-        "q": "Why does this composite image look so colorful?",
+        "q": "How does temperature vary between day and night on Mercury?",
         "options": [
-          "Colors show the true visual appearance to the human eye",
-          "Data from three different space telescopes has been combined",
-          "The image was colorized by artists long after capture"
+          "It remains nearly constant day and night.",
+          "It changes by only a few degrees.",
+          "The difference spans several hundred degrees."
         ],
         "correct": 2,
-        "fact": "The composition combines observations across different wavelengths including X-rays, visible light, and infrared light."
+        "fact": "With no atmosphere to retain heat, temperatures swing from 430 degrees Celsius in daytime to minus 180 degrees at night."
       }
     ]
   }
