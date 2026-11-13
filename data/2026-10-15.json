@@ -2,133 +2,133 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "Suzaku Finds \"Fossil\" Fireballs from Supernovae",
-  "title_sv": "Manetnebulosan",
+  "title": "CTB 1 supernova remnant",
+  "title_sv": "Supernovarester efter CTB 1",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002190/GSFC_20171208_Archive_e002190~medium.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002190/GSFC_20171208_Archive_e002190~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002190/GSFC_20171208_Archive_e002190~orig.jpg",
-  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002190",
+  "url": "https://images-assets.nasa.gov/image/ctb1cgpsvla/ctb1cgpsvla~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/ctb1cgpsvla/ctb1cgpsvla~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/ctb1cgpsvla/ctb1cgpsvla~orig.jpg",
+  "link": "https://images.nasa.gov/details/ctb1cgpsvla",
   "credit": "NASA/GSFC",
-  "taken": "2017",
+  "taken": "2019",
   "src": "library",
-  "id": "GSFC_20171208_Archive_e002190",
+  "id": "ctb1cgpsvla",
   "px": [
-    1280,
-    1123
+    1920,
+    1895
   ],
   "w": 640,
-  "h": 561,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwQCBQb/xAAkEAABBAEDBQADAAAAAAAAAAABAAIDESEEEjEFE0FRYSIycf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAeEQACAgICAwAAAAAAAAAAAAAAAgEREjEhUUGh8P/aAAwDAQACEQMRAD8A8jBCZ5NocAOS48D6rz0lsujkkgY5whFvduyftKDRS7Y5B8FWOcrQ1c2nY5sUn4yfsB5SSabn391otTDC2jZA9h3exeLWC2kzLdde7Ct0vTpNZ3TFtPbYXutwGB/UWTV0c6N5aQRV+q5TB+97d4BAGKwhqgCCcpYcjjIN2kJZkQU1wHg+Fl0xaa3Y4KKWRzY2NFVRCO7r6aRBpm8H/9k=",
+  "h": 631,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAECBAUGB//EACYQAAICAQMCBgMAAAAAAAAAAAECAxEABBIhUXEFMWGBscEiMkL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwDzuJDJIqAqCxAtjQHc5W2mIbkA1a4kABvg11zL0WmWWQq5C2OLNWemKNEWmlkjklSNXVFtgP5HX2ytNqmh3GlZWBFH6zcabTnwvVl9UNsSqQ/cg/j75zx8+BlzpHpTQPlaINw5GMttJB4ySOfTB/1+6xRgytRUsxQm6vi8FAPfJkjeNI2daEi7lN+YuvkYkYgfHphGSX//2Q==",
   "quiz": [
     {
       "q": "Vad är en supernovarest?",
       "options": [
-        "Ett gasmoln efter en exploderad stjärna",
-        "En nyfödd stjärnas omgivande planetarium",
-        "Ett svart håls roterande skiva"
+        "Ett svart hål som slukar materia",
+        "Det som blir kvar efter en stjärnexplosion",
+        "En ny stjärna som håller på att tändas"
+      ],
+      "correct": 1,
+      "fact": "När tunga stjärnor får slut på bränsle exploderar de i en supernova och lämnar efter sig ett moln av expanderande gas."
+    },
+    {
+      "q": "Vad är en pulsar för något?",
+      "options": [
+        "En roterande och mycket tät neutronstjärna",
+        "En planet som kretsar kring två solar",
+        "Ett gasmoln som bildar nya planeter"
       ],
       "correct": 0,
-      "fact": "När tunga stjärnor dör i en supernova kastas deras yttre lager ut i rymden och bildar en glödande rest."
+      "fact": "En pulsar är en extremt tät kvarleva av en stjärna som roterar snabbt och sänder ut strålning i regelbundna pulser."
     },
     {
-      "q": "Vad avslöjar röntgenstrålning om rymden?",
+      "q": "Varför används radioteleskop i rymdforskningen?",
       "options": [
-        "Kalla moln av vattenånga",
-        "Hetta från extremt energrika processer",
-        "Stabila planeter i beboeliga zoner"
+        "För att spela upp ljud från rymden",
+        "För att mäta temperaturen på månen",
+        "För att upptäcka osynlig gas och strålning"
       ],
-      "correct": 1,
-      "fact": "Röntgenstrålning sänds ut från extremt varma områden, vilket gör den perfekt för att studera våldsamma händelser som stjärnexplosioner."
-    },
-    {
-      "q": "Vad är ett ljusår?",
-      "options": [
-        "Den tid solen tar på jorden",
-        "Sträckan ljuset färdas på ett år",
-        "En enhet för en stjärnas massa"
-      ],
-      "correct": 1,
-      "fact": "Ett ljusår är en sträcka, nämligen den väg som ljuset hinner färdas under ett års tid."
+      "correct": 2,
+      "fact": "Radioteleskop kan upptäcka radiovågor från rymden, vilket gör att astronomer kan se moln och strukturer som vanliga teleskop missar."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en jättestor stjärna har exploderat i rymden som ett gigantiskt fyrverkeri. Kvar av explosionen finns ett färggrant moln av glödande gas som liknar en flygande manet. Det här spännande kosmiska molnet upptäcktes år 2009 och visar var en stjärna en gång i tiden har dött med en jättesmäll.",
-    "nyborjare": "Manetnebulosan är en supernovarest, vilket är resterna efter en massiv stjärna som exploderade för länge sedan. År 2009 använde forskare rymdteleskopet Suzaku för att studera nebulosan. De upptäckte röntgenstrålning från grundämnena kisel och svavel. Att dessa ämnen var fullständigt joniserade, vilket betyder att de har förlorat sina elektroner på grund av extrem hetta, visar att temperaturen var enormt hög direkt efter stjärnans explosion. Nebulosan mäter ungefär sextiofem ljusår i diameter.",
-    "entusiast": "I denna supernovarest, känd som Manetnebulosan, har det japanska rymdteleskopet Suzaku gjort viktiga röntgenobservationer som publicerades år 2009. Instrumentet detekterade röntgenemissioner från fullständigt joniserat kisel och svavel. Detta utgör ett tydligt termiskt spår av de extrema temperaturförhållanden som rådde omedelbart efter kärnkollapsen i föregångsstjärnan. Med en uppskattad utsträckning på sextiofem ljusår ger nebulosan forskarna en unik inblick i dynamiken och den nukleosyntes som sker i samband med att massiva stjärnor avslutar sina liv."
+    "barn": "Tänk dig att en jättestor stjärna har exploderat som ett sprudlande fyrverkeri i rymden. Kvar av explosionen finns en stor bubbla av glödande gas som ser ut som ett spöke. Bubblan är lika stor på himlen som fullmånen. Inuti den lyser ett litet spår från en snurrande stjärnrest som kallas pulsar.",
+    "nyborjare": "Den här bilden visar supernovaresten CTB 1 som liknar en spöklik bubbla av gas. Bilden är ett avancerat kollage som kombinerar nya observationer från radioteleskopet VLA med äldre data från andra teleskop och infraröd observation. Med radiovågor kan astronomer upptäcka detaljer som annars skulle vara osynliga. De skarpa observationerna avslöjar ett rakt, glödande spår efter en pulsar som rör sig genom rymden, samt kanten av det expanderande gasmolnet från stjärnans död.",
+    "entusiast": "Bilden är en sammansatt komposit som visar supernovaresten CTB 1, belägen i Vintergatan. Kompositen integrerar 1,5 gigahertz-observationer från Very Large Array, äldre data från Dominion Radio Astrophysical Observatoru samt infraröda mätningar. VLA-data blottlägger tydligt pulsar J0002+6216 och dess raka relativistiska spår samt supernovarestens krökta skalstruktur. CTB 1 har en vinkeldiametral utsträckning på ungefär en halv grad, vilket motsvarar fullmånens skenbara storlek på himlavalvet. Pulsarens höga egenrörelse indikerar att den slungades ut i samband med den ursprungliga supernovakollapsen."
   },
   "terms": [
     {
       "term": "supernovarest",
-      "explanation": "Det expanderande moln av gas och stoft som blir kvar efter en massiv stjärnas explosion."
+      "explanation": "Det expanderande molnet av gas och stoft som sprids ut i rymden efter en stjärnas explosion."
     },
     {
-      "term": "röntgenstrålning",
-      "explanation": "En typ av högenergetisk elektromagnetisk strålning som sänds ut från extremt varma kosmiska källor."
+      "term": "pulsar",
+      "explanation": "En snabbt roterande neutronstjärna som sänder ut regelbundna pulser av elektromagnetisk strålning."
     },
     {
-      "term": "joniserat",
-      "explanation": "Tillståndet hos atomer som har förlorat eller tagit upp elektroner och därför har en elektrisk laddning."
+      "term": "radioteleskop",
+      "explanation": "Ett instrument som samlar in radiovågor från rymden för att studera himlakroppar och gasmoln."
     },
     {
-      "term": "ljusår",
-      "explanation": "Det avstånd som ljuset hinner färdas under ett helt jordår i det tomma rymdvakuumet."
+      "term": "infraröd",
+      "explanation": "En typ av osynlig värmestrålning som kan användas för att se genom kalla gasmoln i rymden."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine that a gigantic star has exploded in space like a colossal firework. Left behind from the explosion is a colorful cloud of glowing gas that looks somewhat like a floating jellyfish. This exciting cosmic cloud was studied in 2009 and shows where a star once died with a massive bang.",
-      "nyborjare": "The Jellyfish Nebula is a supernova remnant, which is what remains after a massive star exploded long ago. In 2009, scientists used the Suzaku space telescope to study the nebula. They detected X-rays originating from fully ionized silicon and sulfur. The fact that these elements lost their electrons due to extreme heat proves that temperatures were immensely high immediately following the star's explosion. The nebula spans about sixty-five light-years across.",
-      "entusiast": "Within this supernova remnant, known as the Jellyfish Nebula, the Suzaku space telescope conducted crucial X-ray observations published in 2009. The instrument detected X-ray emissions from fully ionized silicon and sulfur. This serves as a distinct thermal imprint of the extreme temperature conditions that prevailed immediately after the core collapse in the progenitor star. With an estimated span of sixty-five light-years, the nebula provides researchers with unique insight into the dynamics and nucleosynthesising processes occurring when massive stars end their lives."
+      "barn": "Imagine that a giant star has exploded like a sparkling firework in space. What is left of the explosion is a big bubble of glowing gas that looks like a ghost. The bubble is just as big in the sky as the full Moon. Inside it, a tiny trail glows from a spinning star remnant called a pulsar.",
+      "nyborjare": "This image shows the supernova remnant CTB 1, which resembles a ghostly bubble of gas. The image is an advanced composite combining new observations from the VLA radio telescope with older data from other observatories and infrared instruments. Radio waves allow astronomers to detect details that would otherwise remain invisible. These sharp observations reveal a straight, glowing trail from a pulsar moving through space, along with the curved edge of the expanding gas cloud.",
+      "entusiast": "The image is a composite displaying the supernova remnant CTB 1, located within the Milky Way. The composition integrates 1.5 gigahertz observations from the Very Large Array, older data from the Dominion Radio Astrophysical Observatory, and infrared measurements. VLA data clearly reveal pulsar J0002+6216 along with its straight trail and the curved rim of the remnant shell. CTB 1 spans about half a degree across, matching the apparent size of a full Moon."
     },
     "terms": [
       {
         "term": "supernova remnant",
-        "explanation": "The expanding cloud of gas and dust left behind following the explosion of a massive star."
+        "explanation": "The expanding cloud of gas and debris left behind after a massive star explodes."
       },
       {
-        "term": "X-rays",
-        "explanation": "A type of high-energy electromagnetic radiation emitted from extremely hot cosmic sources."
+        "term": "pulsar",
+        "explanation": "A rapidly rotating neutron star that emits regular beams of electromagnetic radiation."
       },
       {
-        "term": "ionized",
-        "explanation": "The state of atoms that have lost or gained electrons and therefore carry an electrical charge."
+        "term": "radio telescope",
+        "explanation": "An instrument designed to collect radio waves from space to study celestial objects."
       },
       {
-        "term": "light-years",
-        "explanation": "The distance that light manages to travel during one Earth year in the vacuum of space."
+        "term": "infrared",
+        "explanation": "A type of invisible thermal radiation used to peer through cold gas clouds in space."
       }
     ],
     "quiz": [
       {
         "q": "What is a supernova remnant?",
         "options": [
-          "A gas cloud left by an exploded star",
-          "A newborn star's surrounding planetary disk",
-          "The rotating accretion disk of a black hole"
+          "A black hole devouring surrounding matter",
+          "The expanding debris left after a stellar explosion",
+          "A brand new star starting to ignite"
+        ],
+        "correct": 1,
+        "fact": "When massive stars run out of fuel, they explode in a supernova, leaving behind an expanding cloud of gas."
+      },
+      {
+        "q": "What exactly is a pulsar?",
+        "options": [
+          "A rapidly rotating and extremely dense neutron star",
+          "A planet orbiting around two different suns",
+          "A gas cloud forming new planetary systems"
         ],
         "correct": 0,
-        "fact": "When massive stars die in a supernova, their outer layers are blasted into space, forming a glowing remnant."
+        "fact": "A pulsar is the extremely dense remnant of a star that spins rapidly and emits beams of radiation."
       },
       {
-        "q": "What does X-ray emission reveal about space?",
+        "q": "Why do astronomers use radio telescopes?",
         "options": [
-          "Cold clouds of drifting water vapor",
-          "Heat from extremely energetic processes",
-          "Stable planets in habitable zones"
+          "To listen to audio signals from space",
+          "To measure the exact temperature of the Moon",
+          "To detect invisible gas and radiation in space"
         ],
-        "correct": 1,
-        "fact": "X-rays are emitted by extremely hot regions, making them ideal for studying violent events like star explosions."
-      },
-      {
-        "q": "What is a light-year?",
-        "options": [
-          "The time sunlight takes to reach Earth",
-          "The distance light travels in one year",
-          "A standard measurement for a star's mass"
-        ],
-        "correct": 1,
-        "fact": "A light-year is a unit of distance, specifically the path that light manages to travel during one year."
+        "correct": 2,
+        "fact": "Radio telescopes detect radio waves from space, allowing astronomers to see clouds and structures invisible to optical telescopes."
       }
     ]
   }
