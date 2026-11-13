@@ -1,142 +1,134 @@
 {
   "v": 4,
-  "model": "gemini-3.8-flash",
+  "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "MESSENGER Reveals Mercury Geological History",
-  "title_sv": "Merkurius geologiska historia sedd av MESSENGER",
+  "title": "Suzaku Finds \"Fossil\" Fireballs from Supernovae",
+  "title_sv": "Manetnebulosan",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/PIA10177/PIA10177~orig.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/PIA10177/PIA10177~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/PIA10177/PIA10177~orig.jpg",
-  "link": "https://images.nasa.gov/details/PIA10177",
-  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
-  "taken": "2008",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002190/GSFC_20171208_Archive_e002190~medium.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002190/GSFC_20171208_Archive_e002190~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002190/GSFC_20171208_Archive_e002190~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002190",
+  "credit": "NASA/GSFC",
+  "taken": "2017",
   "src": "library",
-  "id": "PIA10177",
+  "id": "GSFC_20171208_Archive_e002190",
   "px": [
-    1016,
-    1024
+    1280,
+    1123
   ],
-  "w": 635,
-  "h": 640,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUGA//EACcQAAEDAwMDBAMAAAAAAAAAAAECAxEAITEEEkFhobEiMlGBkcHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM1pyEpOQo894qjp0WUQYAF/zH7qdpiViOomnMkztGcCga0SMC9JbSUuI9MmTxXJpsyCbf2loClOgJynwaDLaFY2DdeSo/eKc3KX2yIsRUjTHalJT7T2qoxc7je8UFdle+EgROQaYmG1t2AGB1qc3Mi8cg/FMU5vbBwpB480H//Z",
+  "w": 640,
+  "h": 561,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAcACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwQCBQb/xAAkEAABBAEDBQADAAAAAAAAAAABAAIDESEEEjEFE0FRYSIycf/EABcBAAMBAAAAAAAAAAAAAAAAAAABBAL/xAAeEQACAgICAwAAAAAAAAAAAAAAAgEREjEhUUGh8P/aAAwDAQACEQMRAD8A8jBCZ5NocAOS48D6rz0lsujkkgY5whFvduyftKDRS7Y5B8FWOcrQ1c2nY5sUn4yfsB5SSabn391otTDC2jZA9h3exeLWC2kzLdde7Ct0vTpNZ3TFtPbYXutwGB/UWTV0c6N5aQRV+q5TB+97d4BAGKwhqgCCcpYcjjIN2kJZkQU1wHg+Fl0xaa3Y4KKWRzY2NFVRCO7r6aRBpm8H/9k=",
   "quiz": [
     {
-      "q": "Varför har planeten Merkurius så många kratrar på ytan?",
+      "q": "Vad är en supernovarest?",
       "options": [
-        "Den saknar en tät skyddande atmosfär.",
-        "Den kolliderade med en stor måne.",
-        "Den har ständiga och kraftiga vulkanutbrott."
+        "Ett gasmoln efter en exploderad stjärna",
+        "En nyfödd stjärnas omgivande planetarium",
+        "Ett svart håls roterande skiva"
       ],
       "correct": 0,
-      "fact": "Utan en tät atmosfär som bränner upp rymdstenar träffar meteoriter marken med full kraft och bevaras i miljarder år."
+      "fact": "När tunga stjärnor dör i en supernova kastas deras yttre lager ut i rymden och bildar en glödande rest."
     },
     {
-      "q": "Vilken planet i vårt solsystem är minst?",
+      "q": "Vad avslöjar röntgenstrålning om rymden?",
       "options": [
-        "Mars",
-        "Merkurius",
-        "Venus"
+        "Kalla moln av vattenånga",
+        "Hetta från extremt energrika processer",
+        "Stabila planeter i beboeliga zoner"
       ],
       "correct": 1,
-      "fact": "Sedan Pluto omklassificerades till dvärgplanet är Merkurius den allra minsta av solsystemets åtta planeter."
+      "fact": "Röntgenstrålning sänds ut från extremt varma områden, vilket gör den perfekt för att studera våldsamma händelser som stjärnexplosioner."
     },
     {
-      "q": "Hur skiljer sig temperaturen mellan dag och natt på Merkurius?",
+      "q": "Vad är ett ljusår?",
       "options": [
-        "Den förblir nästan helt oförändrad dygnet runt.",
-        "Det skiljer bara några enstaka grader.",
-        "Skillnaden är över flera hundra grader."
+        "Den tid solen tar på jorden",
+        "Sträckan ljuset färdas på ett år",
+        "En enhet för en stjärnas massa"
       ],
-      "correct": 2,
-      "fact": "Bristen på atmosfär gör att hettan inte lagras, vilket ger dagstemperaturer kring 430 grader och nätter på minus 180 grader."
+      "correct": 1,
+      "fact": "Ett ljusår är en sträcka, nämligen den väg som ljuset hinner färdas under ett års tid."
     }
   ],
   "levels": {
-    "barn": "Titta på den här grå och steniga världen. Det är planeten Merkurius, som ligger allra närmast solen. Ytan ser ut nästan som vår egen måne. Den är full av gropar som kallas kratrar. Groparna blev till när rymdstenar kraschade rakt in i planeten för länge sedan. Merkurius har ingen luft som skyddar den, så stenarna bromsas inte alls. På dagen blir det stekhett som i en ugn, och på natten blir det iskallt.",
-    "nyborjare": "Den här bilden togs år 2008 av rymdsonden MESSENGER när den svepte förbi Merkurius på nära håll. Merkurius är solsystemets innersta planet och har en yta som präglats av miljarder år av geologisk historia. Eftersom planeten saknar en betydande atmosfär finns det inget väder eller vind som kan slipa ner spåren efter gamla nedslag. \n\nIstället täcks ytan av otaliga nedslagskratrar och jättelika förkastningsbranter. Dessa branter uppstod när Merkurius inre metallkärna svalnade och krympte ihop, vilket fick skorpan att rynka sig. Bilden visar en soldränkt hemisfär där både uråldrig kraterterräng och yngre, slätare vulkaniska slätter syns sida vid sida.",
-    "entusiast": "Den 14 januari 2008 genomförde NASA:s rymdsond MESSENGER sin första historiska förbiflygning av Merkurius. Bilden togs med sonden Narrow Angle Camera, en del av bildsystemet MDIS, och ingick i en mosaik som kartlade stora delar av den dittills outforskade hemisfären.\n\nMerkurius geologiska utveckling skiljer sig markant från andra stenplaneters. Dess enorma järnkärna utgör omkring 85 procent av planetens radie. När denna kärna långsamt svalnade under årmiljarderna genomgick planeten en global kontraktion, vilket pressade upp enorma förkastningsbranter, så kallade rupes, över hela ytan. Samtidigt visar ytan spår av omfattande vulkanism som fyllde ut äldre bassänger med jämnt flytande lava.\n\nMESSENGER var den första rymdsond som gick in i omloppsbana kring Merkurius år 2011, men denna förbiflygning 2008 gav de första detaljerade bilderna av planetens baksida sedan Mariner 10 passerade på 1970-talet. Datan bekräftade att planeten har en rik vulkanisk historia som pågått långt efter det intensiva bombardemanget under solsystemets tidiga epok."
+    "barn": "Tänk dig att en jättestor stjärna har exploderat i rymden som ett gigantiskt fyrverkeri. Kvar av explosionen finns ett färggrant moln av glödande gas som liknar en flygande manet. Det här spännande kosmiska molnet upptäcktes år 2009 och visar var en stjärna en gång i tiden har dött med en jättesmäll.",
+    "nyborjare": "Manetnebulosan är en supernovarest, vilket är resterna efter en massiv stjärna som exploderade för länge sedan. År 2009 använde forskare rymdteleskopet Suzaku för att studera nebulosan. De upptäckte röntgenstrålning från grundämnena kisel och svavel. Att dessa ämnen var fullständigt joniserade, vilket betyder att de har förlorat sina elektroner på grund av extrem hetta, visar att temperaturen var enormt hög direkt efter stjärnans explosion. Nebulosan mäter ungefär sextiofem ljusår i diameter.",
+    "entusiast": "I denna supernovarest, känd som Manetnebulosan, har det japanska rymdteleskopet Suzaku gjort viktiga röntgenobservationer som publicerades år 2009. Instrumentet detekterade röntgenemissioner från fullständigt joniserat kisel och svavel. Detta utgör ett tydligt termiskt spår av de extrema temperaturförhållanden som rådde omedelbart efter kärnkollapsen i föregångsstjärnan. Med en uppskattad utsträckning på sextiofem ljusår ger nebulosan forskarna en unik inblick i dynamiken och den nukleosyntes som sker i samband med att massiva stjärnor avslutar sina liv."
   },
   "terms": [
     {
-      "term": "kratrar",
-      "explanation": "Skålformade fördjupningar i marken som skapas vid kraftiga nedslag av meteoriter."
+      "term": "supernovarest",
+      "explanation": "Det expanderande moln av gas och stoft som blir kvar efter en massiv stjärnas explosion."
     },
     {
-      "term": "nedslagskratrar",
-      "explanation": "Cirkelrunda gropar som bildas när rymdstenar kraschar in i en himlakropps yta."
+      "term": "röntgenstrålning",
+      "explanation": "En typ av högenergetisk elektromagnetisk strålning som sänds ut från extremt varma kosmiska källor."
     },
     {
-      "term": "förkastningsbranter",
-      "explanation": "Branta stup och åsar som bildas i jordskorpan när marken pressas samman eller spricker."
+      "term": "joniserat",
+      "explanation": "Tillståndet hos atomer som har förlorat eller tagit upp elektroner och därför har en elektrisk laddning."
     },
     {
-      "term": "hemisfär",
-      "explanation": "Den ena halvan av en sfärisk himlakropps yta."
-    },
-    {
-      "term": "kontraktion",
-      "explanation": "En process där en himlakropps volym minskar och krymper ihop på grund av avsvalning."
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset hinner färdas under ett helt jordår i det tomma rymdvakuumet."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Look at this gray and rocky world. This is the planet Mercury, the closest planet to the Sun. Its surface looks very much like our Moon. It is covered in holes called craters. These holes formed long ago when space rocks crashed right into the surface. Mercury has no air to protect it, so rocks never slow down before hitting the ground. It gets scorching hot during the day and freezing cold at night.",
-      "nyborjare": "This image was captured in 2008 by the MESSENGER spacecraft as it flew close past Mercury. Mercury is the innermost planet of our solar system, bearing the marks of billions of years of geological history. Because the planet lacks a substantial atmosphere, there is no weather or wind to erase ancient scars.\n\nInstead, the terrain is covered in countless impact craters and towering scarps. These cliffs formed when Mercury's metallic core cooled and contracted, causing the crust to wrinkle and buckle. The image reveals a sunlit hemisphere where heavily cratered highlands and smooth volcanic plains sit side by side.",
-      "entusiast": "On January 14, 2008, NASA's MESSENGER spacecraft executed its first historic flyby of Mercury. The Narrow Angle Camera, part of the MDIS imaging instrument, captured this scene as part of a high-resolution mosaic covering much of the sunlit hemisphere.\n\nMercury's geological evolution is unique among the terrestrial planets. Its massive iron-rich core accounts for roughly 85 percent of the planetary radius. As this interior cooled over billions of years, global contraction produced immense thrust fault scarps, known as rupes, across the terrain. Concurrently, extensive volcanism flooded older lowlands with low-viscosity lava plains.\n\nAlthough MESSENGER later became the first probe to enter orbit around Mercury in 2011, this 2008 flyby returned humanity's first new close-up views of the planet since Mariner 10 in the 1970s. The data proved that Mercury experienced widespread volcanic resurfacing well beyond the Solar System's early heavy bombardment."
+      "barn": "Imagine that a gigantic star has exploded in space like a colossal firework. Left behind from the explosion is a colorful cloud of glowing gas that looks somewhat like a floating jellyfish. This exciting cosmic cloud was studied in 2009 and shows where a star once died with a massive bang.",
+      "nyborjare": "The Jellyfish Nebula is a supernova remnant, which is what remains after a massive star exploded long ago. In 2009, scientists used the Suzaku space telescope to study the nebula. They detected X-rays originating from fully ionized silicon and sulfur. The fact that these elements lost their electrons due to extreme heat proves that temperatures were immensely high immediately following the star's explosion. The nebula spans about sixty-five light-years across.",
+      "entusiast": "Within this supernova remnant, known as the Jellyfish Nebula, the Suzaku space telescope conducted crucial X-ray observations published in 2009. The instrument detected X-ray emissions from fully ionized silicon and sulfur. This serves as a distinct thermal imprint of the extreme temperature conditions that prevailed immediately after the core collapse in the progenitor star. With an estimated span of sixty-five light-years, the nebula provides researchers with unique insight into the dynamics and nucleosynthesising processes occurring when massive stars end their lives."
     },
     "terms": [
       {
-        "term": "craters",
-        "explanation": "Bowl-shaped depressions on a planet's surface carved out by high-speed meteorite impacts."
+        "term": "supernova remnant",
+        "explanation": "The expanding cloud of gas and dust left behind following the explosion of a massive star."
       },
       {
-        "term": "impact craters",
-        "explanation": "Circular scars left on planetary crusts when colliding space debris strikes the ground."
+        "term": "X-rays",
+        "explanation": "A type of high-energy electromagnetic radiation emitted from extremely hot cosmic sources."
       },
       {
-        "term": "scarps",
-        "explanation": "Steep linear cliffs formed along faults when tectonic forces push crustal rocks together."
+        "term": "ionized",
+        "explanation": "The state of atoms that have lost or gained electrons and therefore carry an electrical charge."
       },
       {
-        "term": "hemisphere",
-        "explanation": "One half of a spherical celestial body or planetary surface."
-      },
-      {
-        "term": "contraction",
-        "explanation": "The shrinking of a planet's volume as its interior loses thermal energy."
+        "term": "light-years",
+        "explanation": "The distance that light manages to travel during one Earth year in the vacuum of space."
       }
     ],
     "quiz": [
       {
-        "q": "Why does the planet Mercury have so many craters?",
+        "q": "What is a supernova remnant?",
         "options": [
-          "It lacks a thick protective atmosphere.",
-          "It collided with a giant moon.",
-          "It experiences continuous and massive volcanic eruptions."
+          "A gas cloud left by an exploded star",
+          "A newborn star's surrounding planetary disk",
+          "The rotating accretion disk of a black hole"
         ],
         "correct": 0,
-        "fact": "Without a dense atmosphere to burn up incoming space rocks, meteorites strike the surface and leave craters that last billions of years."
+        "fact": "When massive stars die in a supernova, their outer layers are blasted into space, forming a glowing remnant."
       },
       {
-        "q": "Which planet is the smallest in our solar system?",
+        "q": "What does X-ray emission reveal about space?",
         "options": [
-          "Mars",
-          "Mercury",
-          "Venus"
+          "Cold clouds of drifting water vapor",
+          "Heat from extremely energetic processes",
+          "Stable planets in habitable zones"
         ],
         "correct": 1,
-        "fact": "Since Pluto was reclassified as a dwarf planet, Mercury is the smallest of the eight planets."
+        "fact": "X-rays are emitted by extremely hot regions, making them ideal for studying violent events like star explosions."
       },
       {
-        "q": "How does temperature vary between day and night on Mercury?",
+        "q": "What is a light-year?",
         "options": [
-          "It remains nearly constant day and night.",
-          "It changes by only a few degrees.",
-          "The difference spans several hundred degrees."
+          "The time sunlight takes to reach Earth",
+          "The distance light travels in one year",
+          "A standard measurement for a star's mass"
         ],
-        "correct": 2,
-        "fact": "With no atmosphere to retain heat, temperatures swing from 430 degrees Celsius in daytime to minus 180 degrees at night."
+        "correct": 1,
+        "fact": "A light-year is a unit of distance, specifically the path that light manages to travel during one year."
       }
     ]
   }

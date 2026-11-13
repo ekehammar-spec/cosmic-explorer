@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-13",
+  "title": "A Global Rebound for Mangroves",
+  "title_sv": "Mangroveskogarna växer igen globalt",
+  "place": "Palaw Township, Burma",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+  "w": 480,
+  "h": 433,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMFBgH/xAAmEAACAQMDBAMAAwAAAAAAAAABAgMAERIEITEFIkFhE1FxFIHR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMBBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECABEhAwT/2gAMAwEAAhEDEQA/AImngA7Dcg8AeTT9R0yddIjAM7LsVvcjyf6p+kiaR1w2IPJ8U5lk0nUsXe8T2sS97D69f5WdjuQfn0G5KeJ49FE5GV2O+/b6pLRD4yHvkbN+r593rQdUbKGSaOFXA7WU8Fbb8Vm9VKX791JABsPoVFTcu6gS5pJFjkUlrC/IpGuLgjAJnY4KvHs2Pk0MagG/O166pyIv43pboDs569CuQf5xhhisBKGNmDrwbbipDsPixxxIPN+ap9WiVU05HLeamzLmFPAYcfm1GqjGBiwuf//Z",
+  "levels": {
+    "barn": "Bilden visar gröna områden med mangroveträd som växer längs kusten i Burma. Du kan se hur skogen har blivit större och spridit sig till nya platser sedan året 2010. Träden växer till och med på gamla risfält som syns som bruna fläckar på bilden. Mangroveträd är väldigt viktiga eftersom de skyddar stränderna mot stormar och vågor och ger en trygg plats åt små fiskar och krabbor som lever i vattnet.",
+    "nyborjare": "Satsa på kusterna och mangroveträden som syns i gröna nyanser på denna satellitbild från Palaw Township i Burma. Sedan år 2010 har forskare sett en global ökning av mangroveskogar efter decennier av tillbakagång. Bilden visar hur skogen har brett ut sig på nya områden, bland annat över övergivna risfält som syns i brunt söder om byn Kyauktaung. Mangroveträd är små träd som blir cirka 13 meter höga men spelar en enorm roll ekologiskt. De lagrar stora mängder kol och har speciella pålrotssystem som fungerar som barnkammare för marint liv som fiskar och räkor samt skyddar kustsamhällen mot stormar och erosion.",
+    "entusiast": "Denna satellitbild är tagen med data från Landsatsatelliterna som har kartlagt jordens mangroveskogar sedan 1970-talet. Forskare vid Tulane University har analyserat Landsat-bilder tagna mellan 1984 och 2023 för att följa förändringar i krontäthet och utbredning. Bilden över Palaw Township i Burma illustrerar hur mangroveskogar expanderar och regenereras, inte minst på tidigare jordbruksmark som övergivna risfält i bruna nyanser. Analysen visar att ungefär två tredjedelar av den globala expansionen beror på att mangroven koloniserar nya områden, vilket drivs av naturliga processer som sedimentation och varmare temperaturer som minskar antalet frostnätter. Resterande tredjedel kommer från restaurering efter till exempel tsunamin 2004 och stärkta lagliga skydd. Dessa ekosystem är extremt effektiva kolsänkor som binder upp till fyra gånger mer kol än högre tropiska inlandsskogar och utgör livsviktiga livsmiljöer."
+  },
+  "terms": [
+    {
+      "term": "Landsat",
+      "explanation": "En serie amerikanska satelliter som har använts sedan 1970-talet för att kartlägga jordens yta."
+    },
+    {
+      "term": "Mangroveskog",
+      "explanation": "Kustnära skogar med träd som har speciella rötter anpassade för salta tidvattenmiljöer."
+    },
+    {
+      "term": "Sedimentation",
+      "explanation": "När partiklar av sand och slam samlas på havsbotten och bildar nya landområden eller mudderbankar."
+    },
+    {
+      "term": "Erosion",
+      "explanation": "När vind och vatten bryter ner och flyttar bort jord och bergarter från kuster eller markytor."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The image shows green areas with mangrove trees growing along the coast in Burma. You can see how the forest has grown larger and spread to new places since the year 2010. The trees are even growing on old rice fields which appear as brown patches in the image. Mangrove trees are very important because they protect the shores against storms and waves and provide a safe home for small fish and crabs living in the water.",
+      "nyborjare": "Focus on the coasts and the mangrove trees shown in green shades in this satellite image from Palaw Township in Burma. Since 2010 scientists have observed a global increase in mangrove forests after decades of decline. The image illustrates how the forest has expanded into new areas including abandoned rice fields visible in brown south of Kyauktaung village. Mangrove trees are relatively small averaging about 13 meters in height but play a massive ecological role by storing large amounts of carbon and featuring stilt-like roots that serve as nurseries for marine life and protect coastal communities from erosion and storm surges.",
+      "entusiast": "This satellite image utilizes data from Landsat satellites which have mapped Earth mangrove forests since the 1970s. Researchers at Tulane University analyzed Landsat imagery collected between 1984 and 2023 to track changes in canopy density and extent. The image over Palaw Township in Burma highlights how mangrove forests expand and regenerate significantly on former agricultural land such as abandoned rice fields shown in brown. The analysis reveals that about two-thirds of global expansion stems from mangroves colonizing new areas driven by natural processes like sedimentation and warming temperatures while one-third is due to restoration and regrowth."
+    },
+    "terms": [
+      {
+        "term": "Landsat",
+        "explanation": "A series of American satellites used since the 1970s to map Earth surface features."
+      },
+      {
+        "term": "Mangrove",
+        "explanation": "Coastal forests featuring trees with specialized roots adapted to saline tidal environments."
+      },
+      {
+        "term": "Sedimentation",
+        "explanation": "The deposition of suspended particles that builds up new mudflats and land areas."
+      },
+      {
+        "term": "Erosion",
+        "explanation": "The process where wind and water wear away and transport soil and rock from coastlines."
+      }
+    ],
+    "place": "Palaw Township, Burma"
+  }
+}

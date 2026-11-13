@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-13",
+  "title": "Webb_first_deep_field_SMACS_0723",
+  "title_sv": "Webb_first_deep_field_SMACS_0723",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/webb_first_deep_field/webb_first_deep_field~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/webb_first_deep_field/webb_first_deep_field~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/webb_first_deep_field/webb_first_deep_field~orig.png",
+  "link": "https://images.nasa.gov/details/webb_first_deep_field",
+  "credit": "NASA ESA CSA STScI",
+  "taken": "2022",
+  "src": "library",
+  "id": "webb_first_deep_field",
+  "px": [
+    1881,
+    1920
+  ],
+  "w": 627,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQQAAgMG/8QAIhAAAgICAQUAAwAAAAAAAAAAAQIDEQAhEgQiMUFREzKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A4gyl0ILfqNa2d/coCRRvx4wrsaBLD4c2gSKRGD8udAIFGvPvFMjHI0YNKEPg6FnKsjBjq60a3jnUxTKFSWwUXtVvS4o7BiDyIYjdjX8zJFDxsebxyDqjEfyBS7rvWqP3FQGSNWDEEGxQ3X3IXRjbctk6vEDP1DyStJJbO12WN2cwNACh3A79jCVZhyAsDAgjMlOxC+qF5J//2Q==",
+  "quiz": [
+    {
+      "q": "Vad är gravitationslinser för något?",
+      "options": [
+        "Massiva objekt som böjer ljus",
+        "Instrument som förstorar med speglar",
+        "Svarta hål som slukar ljus"
+      ],
+      "correct": 0,
+      "fact": "Massiva objekt som galaxer skapar ett starkt gravitationsfält som böjer ljuset från bakomliggande objekt, vilket fungerar som en naturlig lins."
+    },
+    {
+      "q": "Varför är avlägsna galaxer oregelbundna?",
+      "options": [
+        "De har inte hunnit formas",
+        "De är i en tidig utvecklingsfas",
+        "De påverkas av mörk materia"
+      ],
+      "correct": 1,
+      "fact": "Galaxer i det unga universum är ofta klumpiga och oregelbundna eftersom de befinner sig i en tidig fas av tillväxt och sammanslagning."
+    },
+    {
+      "q": "Vad visar de orangemålade bågarna i bilden?",
+      "options": [
+        "Samma galax som avbildas dubbelt",
+        "Moln av glödande vätgas",
+        "Roterande stjärnringar"
+      ],
+      "correct": 0,
+      "fact": "Gravitationslinser kan skapa spegelbilder och utdragna bågar där en och samma avlägsna galax syns flera gånger i samma bild."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att du tittar djupt ut i rymden och ser tusentals glittrande galaxer som flyter omkring som glada frön i vinden. Vissa av dem är formade som små nyckelpigor och är fulla av nyfödda stjärnor som lyser i mörkret.",
+    "nyborjare": "Denna fantastiska bild visar galaxhopar långt bort i universum. Genom en naturlig effekt som kallas gravitationslins fungerar massiva galaxer i förgrunden som förstoringsglas. De böjer ljuset från svaga galaxer som ligger ännu längre bort. Detta gör att vi kan studera tidiga stjärnhopar med ett otroligt skarp fokus som tidigare var omöjligt att uppnå.",
+    "entusiast": "James Webb-rymdteleskopet har fångat galaxhopen SMACS 0723 i nära infrarött ljus. Den samlade massan av synlig materia och mörk materia fungerar som en kosmisk lins som förstorar, förvränger och spegelvänder ljuset från bakgrundsobjekt. Bilden avslöjar detaljer som sfäriska stjärnhopar och diffusa galaxer i det tidiga universum under den kosmiska våren, innan de utvecklades till mogna spiralgalaxer."
+  },
+  "terms": [
+    {
+      "term": "galaxhop",
+      "explanation": "En stor samling av galaxer som hålls samman av sin gemensamma dragningskraft."
+    },
+    {
+      "term": "gravitationslins",
+      "explanation": "Ett fenomen där ett massivt föremål böjer ljuset från bakomliggande himlakroppar."
+    },
+    {
+      "term": "mörk materia",
+      "explanation": "En osynlig typ av materia som varken utsänder eller reflekterar ljus men bidrar med massa."
+    },
+    {
+      "term": "stjärnhop",
+      "explanation": "En tätt sammanhållen grupp av stjärnor som bildats ur samma gasmoln."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine looking deep into space and seeing thousands of glittering galaxies floating around like seeds in the wind. Some of them look like tiny ladybugs and are full of newborn stars shining brightly in the dark.",
+      "nyborjare": "This amazing image reveals galaxy clusters far out in the universe. Through a natural effect known as gravitational lensing, massive galaxies in the foreground act as magnifying glasses. They bend the light from faint galaxies located even further behind. This allows us to study early star clusters with incredible detail that was previously impossible to achieve.",
+      "entusiast": "The James Webb Space Telescope has captured the galaxy cluster SMACS 0723 in near-infrared light. The combined mass of visible and dark matter acts as a cosmic lens that magnifies, distorts, and mirrors the light from background objects. The image reveals details such as spherical star clusters and diffuse galaxies in the early universe during cosmic spring, before they evolved into mature spiral galaxies."
+    },
+    "terms": [
+      {
+        "term": "galaxy cluster",
+        "explanation": "A large collection of galaxies held together by their mutual gravitational pull."
+      },
+      {
+        "term": "gravitational lensing",
+        "explanation": "A phenomenon where a massive object bends the light from background celestial bodies."
+      },
+      {
+        "term": "dark matter",
+        "explanation": "An invisible type of matter that neither emits nor reflects light but provides mass."
+      },
+      {
+        "term": "star cluster",
+        "explanation": "A densely bound group of stars that formed from the same gas cloud."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What are gravitational lenses?",
+        "options": [
+          "Massive objects that bend light",
+          "Instruments using glass lenses",
+          "Black holes consuming light"
+        ],
+        "correct": 0,
+        "fact": "Massive objects like galaxies create strong gravitational fields that bend the light from background objects, acting as natural lenses."
+      },
+      {
+        "q": "Why are distant galaxies irregular?",
+        "options": [
+          "They have not formed yet",
+          "They are in an early growth phase",
+          "They are affected by dark matter"
+        ],
+        "correct": 1,
+        "fact": "Galaxies in the early universe are often clumpier because they are in an early phase of growth and merging."
+      },
+      {
+        "q": "What do the prominent orange arcs show?",
+        "options": [
+          "The same galaxy shown twice",
+          "Clouds of glowing hydrogen gas",
+          "Rotating rings of stars"
+        ],
+        "correct": 0,
+        "fact": "Gravitational lensing can create mirrored images where a single distant galaxy appears multiple times in one arc."
+      }
+    ]
+  }
+}

@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-13",
+  "media_type": "image",
+  "title": "Webb_first_deep_field_SMACS_0723",
+  "title_en": "Webb_first_deep_field_SMACS_0723",
+  "thumb": "https://images-assets.nasa.gov/image/webb_first_deep_field/webb_first_deep_field~small.jpg"
+ },
+ {
   "date": "2026-11-12",
   "media_type": "image",
   "title": "Trifidnebulosan",
@@ -198,9 +205,9 @@
  {
   "date": "2026-10-15",
   "media_type": "image",
-  "title": "Merkurius geologiska historia sedd av MESSENGER",
-  "title_en": "MESSENGER Reveals Mercury Geological History",
-  "thumb": "https://images-assets.nasa.gov/image/PIA10177/PIA10177~small.jpg"
+  "title": "Manetnebulosan",
+  "title_en": "Suzaku Finds \"Fossil\" Fireballs from Supernovae",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002190/GSFC_20171208_Archive_e002190~small.jpg"
  },
  {
   "date": "2026-10-14",
