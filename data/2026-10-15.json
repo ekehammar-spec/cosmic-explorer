@@ -2,133 +2,141 @@
   "v": 4,
   "model": "gemini-3.5-flash-lite",
   "date": "2026-10-15",
-  "title": "CTB 1 supernova remnant",
-  "title_sv": "Supernovarester efter CTB 1",
+  "title": "MESSENGER Reveals Mercury in New Detail",
+  "title_sv": "Merkurius kraterrika yta",
   "media_type": "image",
-  "url": "https://images-assets.nasa.gov/image/ctb1cgpsvla/ctb1cgpsvla~large.jpg",
-  "thumb": "https://images-assets.nasa.gov/image/ctb1cgpsvla/ctb1cgpsvla~small.jpg",
-  "hdurl": "https://images-assets.nasa.gov/image/ctb1cgpsvla/ctb1cgpsvla~orig.jpg",
-  "link": "https://images.nasa.gov/details/ctb1cgpsvla",
-  "credit": "NASA/GSFC",
-  "taken": "2019",
+  "url": "https://images-assets.nasa.gov/image/PIA10175/PIA10175~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA10175/PIA10175~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA10175/PIA10175~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA10175",
+  "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+  "taken": "2008",
   "src": "library",
-  "id": "ctb1cgpsvla",
+  "id": "PIA10175",
   "px": [
-    1920,
-    1895
+    1016,
+    1024
   ],
-  "w": 640,
-  "h": 631,
-  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAECBAUGB//EACYQAAICAQMCBgMAAAAAAAAAAAECAxEABBIhUXEFMWGBscEiMkL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwDzuJDJIqAqCxAtjQHc5W2mIbkA1a4kABvg11zL0WmWWQq5C2OLNWemKNEWmlkjklSNXVFtgP5HX2ytNqmh3GlZWBFH6zcabTnwvVl9UNsSqQ/cg/j75zx8+BlzpHpTQPlaINw5GMttJB4ySOfTB/1+6xRgytRUsxQm6vi8FAPfJkjeNI2daEi7lN+YuvkYkYgfHphGSX//2Q==",
+  "w": 635,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQGB//EACYQAAEDAwQBBAMAAAAAAAAAAAEAAhEDITEEEkFRgSIyQnFhkfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AJ1LA6LepogovU04E9FN16RBM5OSOTKN1AJlxGD4MIA64honGPpSHJi6vrM3EH4kmJ5/iocj8yg6DqWl1/ARlVu4GPbx+4TdVgFR83bMn6jjyi6rI3x2gz9Zm1ppWOACeQon09sgAhp4KZrsBDmkWAme+ke6ne/SD/9k=",
   "quiz": [
     {
-      "q": "Vad är en supernovarest?",
+      "q": "Vilken planet ligger närmast solen?",
       "options": [
-        "Ett svart hål som slukar materia",
-        "Det som blir kvar efter en stjärnexplosion",
-        "En ny stjärna som håller på att tändas"
+        "Venus",
+        "Merkurius",
+        "Mars"
       ],
       "correct": 1,
-      "fact": "När tunga stjärnor får slut på bränsle exploderar de i en supernova och lämnar efter sig ett moln av expanderande gas."
+      "fact": "Merkurius är den planet som kretsar närmast solen i vårt solsystem."
     },
     {
-      "q": "Vad är en pulsar för något?",
+      "q": "Varför har Merkurius så många kratrar?",
       "options": [
-        "En roterande och mycket tät neutronstjärna",
-        "En planet som kretsar kring två solar",
-        "Ett gasmoln som bildar nya planeter"
+        "Planeten har träffats av många asteroider",
+        "Kraftiga vulkaner har exploderat över hela ytan",
+        "Is har smält och lämnat stora hål efter sig"
       ],
       "correct": 0,
-      "fact": "En pulsar är en extremt tät kvarleva av en stjärna som roterar snabbt och sänder ut strålning i regelbundna pulser."
+      "fact": "Ytan är full av kratrar som har bildats av otaliga nedslag från asteroider och kometer genom solsystemets historia."
     },
     {
-      "q": "Varför används radioteleskop i rymdforskningen?",
+      "q": "Har Merkurius någon egen atmosfär?",
       "options": [
-        "För att spela upp ljud från rymden",
-        "För att mäta temperaturen på månen",
-        "För att upptäcka osynlig gas och strålning"
+        "Ja, en tjock atmosfär av koldioxid",
+        "Nej, planeten saknar helt luftlager",
+        "Ja, ett mycket tunt hölje av gaser"
       ],
       "correct": 2,
-      "fact": "Radioteleskop kan upptäcka radiovågor från rymden, vilket gör att astronomer kan se moln och strukturer som vanliga teleskop missar."
+      "fact": "Merkurius har en extremt tunn exosfär som mest består av atomer som slitits loss från ytan av solvinden."
     }
   ],
   "levels": {
-    "barn": "Tänk dig att en jättestor stjärna har exploderat som ett sprudlande fyrverkeri i rymden. Kvar av explosionen finns en stor bubbla av glödande gas som ser ut som ett spöke. Bubblan är lika stor på himlen som fullmånen. Inuti den lyser ett litet spår från en snurrande stjärnrest som kallas pulsar.",
-    "nyborjare": "Den här bilden visar supernovaresten CTB 1 som liknar en spöklik bubbla av gas. Bilden är ett avancerat kollage som kombinerar nya observationer från radioteleskopet VLA med äldre data från andra teleskop och infraröd observation. Med radiovågor kan astronomer upptäcka detaljer som annars skulle vara osynliga. De skarpa observationerna avslöjar ett rakt, glödande spår efter en pulsar som rör sig genom rymden, samt kanten av det expanderande gasmolnet från stjärnans död.",
-    "entusiast": "Bilden är en sammansatt komposit som visar supernovaresten CTB 1, belägen i Vintergatan. Kompositen integrerar 1,5 gigahertz-observationer från Very Large Array, äldre data från Dominion Radio Astrophysical Observatoru samt infraröda mätningar. VLA-data blottlägger tydligt pulsar J0002+6216 och dess raka relativistiska spår samt supernovarestens krökta skalstruktur. CTB 1 har en vinkeldiametral utsträckning på ungefär en halv grad, vilket motsvarar fullmånens skenbara storlek på himlavalvet. Pulsarens höga egenrörelse indikerar att den slungades ut i samband med den ursprungliga supernovakollapsen."
+    "barn": "Tänk dig en stor, stenig boll i rymden som är full av runda gropar. Det är planeten Merkurius som ligger närmast solen. Bilden togs år 2008 av en rymdsond som flög förbi och kikade på alla gropar som ser ut som stora plaskdammar efter jättelika stenkulor som har krockat med planeten.",
+    "nyborjare": "Merkurius är solsystemets innersta planet och en av de mest kraterrika världarna vi känner till. När rymdsonden MESSENGER närmade sig planeten år 2008 kunde dess avancerade instrument ta skarpa bilder av den karga terrängen. Eftersom planeten saknar en skyddande atmosfär har den träffats av otaliga asteroider och kometer under miljarder år. Solljuset faller snett in från sidan och skapar långa skuggor som gör att varje liten grop och ås på ytan träder fram tydligt.",
+    "entusiast": "Denna detaljerade vy av Merkurius kraterrika landskap fångades av rymdsonden MESSENGER den 14 januari 2008 under dess första förbiflygning av planeten. Bilden togs med rymdsondens specialkonstruerade kamera som är en del av instrumentet MDIS. Den låga solbelysningen framhäver planetens dramatiska topografi med nedslagskratrar i alla storlekar samt slingrande brantlinjer som kallas lobata skarpter. Eftersom Merkurius har varit geologiskt inaktiv under lång tid bevarar dess yta spår av solsystemets tidiga och intensiva meteoritbombardemang, vilket ger forskarna unika insikter i planetens utveckling och inre struktur."
   },
   "terms": [
     {
-      "term": "supernovarest",
-      "explanation": "Det expanderande molnet av gas och stoft som sprids ut i rymden efter en stjärnas explosion."
+      "term": "krater",
+      "explanation": "En djup grop på en himlakropps yta som har bildats efter ett nedslag av en asteroid eller komet."
     },
     {
-      "term": "pulsar",
-      "explanation": "En snabbt roterande neutronstjärna som sänder ut regelbundna pulser av elektromagnetisk strålning."
+      "term": "rymdsond",
+      "explanation": "En obemannad farkost som skickas ut i rymden för att utforska planeter, månar eller andra objekt."
     },
     {
-      "term": "radioteleskop",
-      "explanation": "Ett instrument som samlar in radiovågor från rymden för att studera himlakroppar och gasmoln."
+      "term": "terräng",
+      "explanation": "Ett landskaps yttre utseende och beskaffenhet med berg, dalar och andra formationer."
     },
     {
-      "term": "infraröd",
-      "explanation": "En typ av osynlig värmestrålning som kan användas för att se genom kalla gasmoln i rymden."
+      "term": "atmosfär",
+      "explanation": "Det lager av gaser som omger en planet eller en annan stor himlakropp."
+    },
+    {
+      "term": "topografi",
+      "explanation": "Beskrivning av ytformerna och höjdförhållandena i ett landskap på en himlakropp."
     }
   ],
   "en": {
     "levels": {
-      "barn": "Imagine that a giant star has exploded like a sparkling firework in space. What is left of the explosion is a big bubble of glowing gas that looks like a ghost. The bubble is just as big in the sky as the full Moon. Inside it, a tiny trail glows from a spinning star remnant called a pulsar.",
-      "nyborjare": "This image shows the supernova remnant CTB 1, which resembles a ghostly bubble of gas. The image is an advanced composite combining new observations from the VLA radio telescope with older data from other observatories and infrared instruments. Radio waves allow astronomers to detect details that would otherwise remain invisible. These sharp observations reveal a straight, glowing trail from a pulsar moving through space, along with the curved edge of the expanding gas cloud.",
-      "entusiast": "The image is a composite displaying the supernova remnant CTB 1, located within the Milky Way. The composition integrates 1.5 gigahertz observations from the Very Large Array, older data from the Dominion Radio Astrophysical Observatory, and infrared measurements. VLA data clearly reveal pulsar J0002+6216 along with its straight trail and the curved rim of the remnant shell. CTB 1 spans about half a degree across, matching the apparent size of a full Moon."
+      "barn": "Imagine a big rocky ball in space that is full of round pits. That is the planet Mercury, which is closest to the sun. This picture was taken in 2008 by a spacecraft that flew past and looked at all the pits that look like huge craters from giant marbles crashing into the planet.",
+      "nyborjare": "Mercury is the innermost planet of the solar system and one of the most heavily cratered worlds we know of. When the spacecraft MESSENGER approached the planet in 2008, its advanced instruments captured sharp images of the rugged terrain. Because the planet lacks a protective atmosphere, it has been struck by countless asteroids and comets over billions of years. Sunlight falls obliquely from the side, creating long shadows that make every small pit and ridge stand out clearly.",
+      "entusiast": "This detailed view of Mercury's cratered landscape was captured by the MESSENGER spacecraft on January 14, 2008, during its first flyby of the planet. The image was taken using the spacecraft's narrow-angle camera as part of the MDIS instrument. The low sun illumination highlights the dramatic topography of the planet, featuring impact craters of all sizes and winding scarps. Since Mercury has been geologically inactive for a long time, its surface preserves traces of the solar system's early and intense bombardment, giving researchers unique insights into the planet's evolution and interior structure."
     },
     "terms": [
       {
-        "term": "supernova remnant",
-        "explanation": "The expanding cloud of gas and debris left behind after a massive star explodes."
+        "term": "crater",
+        "explanation": "A bowl-shaped depression on the surface of a celestial body formed by the impact of an asteroid or comet."
       },
       {
-        "term": "pulsar",
-        "explanation": "A rapidly rotating neutron star that emits regular beams of electromagnetic radiation."
+        "term": "spacecraft",
+        "explanation": "An uncrewed vehicle sent into space to explore planets, moons, or other objects."
       },
       {
-        "term": "radio telescope",
-        "explanation": "An instrument designed to collect radio waves from space to study celestial objects."
+        "term": "terrain",
+        "explanation": "The physical features and layout of a land surface on a celestial body."
       },
       {
-        "term": "infrared",
-        "explanation": "A type of invisible thermal radiation used to peer through cold gas clouds in space."
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet or other large celestial body."
+      },
+      {
+        "term": "topography",
+        "explanation": "The arrangement of the natural physical features and elevations of an area."
       }
     ],
     "quiz": [
       {
-        "q": "What is a supernova remnant?",
+        "q": "Which planet is closest to the sun?",
         "options": [
-          "A black hole devouring surrounding matter",
-          "The expanding debris left after a stellar explosion",
-          "A brand new star starting to ignite"
+          "Venus",
+          "Mercury",
+          "Mars"
         ],
         "correct": 1,
-        "fact": "When massive stars run out of fuel, they explode in a supernova, leaving behind an expanding cloud of gas."
+        "fact": "Mercury is the planet that orbits closest to the sun in our solar system."
       },
       {
-        "q": "What exactly is a pulsar?",
+        "q": "Why does Mercury have so many craters?",
         "options": [
-          "A rapidly rotating and extremely dense neutron star",
-          "A planet orbiting around two different suns",
-          "A gas cloud forming new planetary systems"
+          "The planet has been hit by many asteroids",
+          "Powerful volcanoes have exploded across the surface",
+          "Ice has melted and left large holes behind"
         ],
         "correct": 0,
-        "fact": "A pulsar is the extremely dense remnant of a star that spins rapidly and emits beams of radiation."
+        "fact": "The surface is filled with craters formed by countless impacts from asteroids and comets throughout the history of the solar system."
       },
       {
-        "q": "Why do astronomers use radio telescopes?",
+        "q": "Does Mercury have its own atmosphere?",
         "options": [
-          "To listen to audio signals from space",
-          "To measure the exact temperature of the Moon",
-          "To detect invisible gas and radiation in space"
+          "Yes, a thick atmosphere of carbon dioxide",
+          "No, the planet completely lacks an air layer",
+          "Yes, a very thin envelope of gases"
         ],
         "correct": 2,
-        "fact": "Radio telescopes detect radio waves from space, allowing astronomers to see clouds and structures invisible to optical telescopes."
+        "fact": "Mercury has an extremely thin exosphere consisting mostly of atoms blasted off the surface by the solar wind."
       }
     ]
   }
