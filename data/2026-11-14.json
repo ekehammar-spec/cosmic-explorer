@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-14",
+  "title": "Outbursts from a Massive Star",
+  "title_sv": "Utslag från en massiv stjärna",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
+  "link": "https://www.nasa.gov/image-detail/a-giant-star-in-a-distant-galaxy-has-been-mysteriously-erupting-for-at-least-15-years-new-data-from-nasas-chandra-explains-what-is-causing-these-huge-outbursts/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/a-giant-star-in-a-distant-galaxy-has-been-mysteriously-erupting-for-at-least-15-years-new-data-from-nasas-chandra-explains-what-is-causing-these-huge-outbursts/",
+  "px": [
+    1600,
+    1600
+  ],
+  "w": 480,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBQYBAgf/xAAiEAACAgEDBQEBAAAAAAAAAAABAgADEQQFMRITMkFhIVH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/xAAZEQEBAAMBAAAAAAAAAAAAAAABABEhMQL/2gAMAwEAAhEDEQA/AOcxSmprXCoCSZmql7ThFLYGTj0Jcti2Lo21tXflEf37IlBmMLoqlZV216eCOT7jY8x3uNitqrAniDgRnB7Hmltl6atUllz9uvB/f7Jrfd9Y6RdLp2btYyPolVS0hCueOBE3cscmOdWF5D+RBOfomsB9geT6kzf/2Q==",
+  "quiz": [
+    {
+      "q": "Vad är ett svart hål?",
+      "options": [
+        "Ett hål i rymdens väv",
+        "En stjärna med extrem gravitation",
+        "Ett mörkt moln av stoft"
+      ],
+      "correct": 1,
+      "fact": "Ett svart hål är en rest efter en tung stjärna där gravitationen är så stark att inte ens ljuset kan smita ut."
+    },
+    {
+      "q": "Vad är en neutronstjärna?",
+      "options": [
+        "En stjärna utan någon elektrisk laddning",
+        "Universums tätaste objekt efter svarta hål",
+        "En planet som lyser med neutroner"
+      ],
+      "correct": 1,
+      "fact": "Neutronstjärnor bildas i supernovor och packar ihop enorm massa på en ytterst liten volym."
+    },
+    {
+      "q": "Hur skapas upprepade utbrott i ett stjärnsystem?",
+      "options": [
+        "Genom att materia dras från en stjärna",
+        "När stjärnor krockar med full fart",
+        "När kärnfusionen i kärnan avbryts helt"
+      ],
+      "correct": 0,
+      "fact": "När ett kompakt objekt som en neutronstjärna drar till sig materia från en grannstjärna kan det leda till våldsamma utbrott."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en jättestor och stökig stjärna som kastar ut glödande materia i rymden om och om igen. Det är som ett glatt fyrverkeri fast i jättestort format långt borta i universum. Astronomerna har lurat ut att stjärnan har en hemlig liten kompis som drar till sig gas och orsakar alla dessa häftiga utbrott.",
+    "nyborjare": "Med hjälp av röntgenobservatoriet Chandra har astronomer gjort en spännande upptäckt kring en enorm och instabil stjärna. De har hittat en tidigare dold följeslagare som antingen är ett svart hål eller en neutronstjärna. Denna kompakta partner drar ständigt till sig materia från jättestjärnan, vilket leder till att stjärnan får upprepade utbrott. Det är en fascinerande process som visar hur stjärnsystem kan samverka och påverka varandra dramatiskt på avstånd.",
+    "entusiast": "Genom observationer med rymdteleskopet Chandra har forskare avslöjat ett kompakt objekt, antingen ett svart hål eller en neutronstjärna, i ett binärt stjärnsystem. Systemet innefattar en extremt massiv och instabil primärstjärna som uppvisar återkommande utbrott. Dessa våldsamma händelser drivs av ackretion där det kompakta objektet drar till sig materia från jättestjärnan. Sådana röntgenkällor ger viktig kunskap om massöverföring i tunga binärsystem och hur kompakta objekt interagerar med sina stjärnrika omgivningar."
+  },
+  "terms": [
+    {
+      "term": "svart hål",
+      "explanation": "En himlakropp med så stark gravitation att inte ens ljuset kan ta sig loss."
+    },
+    {
+      "term": "neutronstjärna",
+      "explanation": "En oerhört tät rest av en hopstucken massiv stjärna efter en supernova."
+    },
+    {
+      "term": "ackretion",
+      "explanation": "Processen där materia dras samman mot ett kompakt föremål på grund av gravitation."
+    },
+    {
+      "term": "röntgenobservatorium",
+      "explanation": "Ett rymdbaserat teleskop som registrerar högenergetisk strålning från universums hetaste platser."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant, messy star that throws glowing matter out into space over and over again. It is just like a brilliant fireworks show far away in the universe. Astronomers have figured out that the star has a secret little companion that pulls in gas and causes all these cool outbursts.",
+      "nyborjare": "Using the Chandra X-ray Observatory, astronomers have made an exciting discovery around a massive and unstable star. They found a previously hidden companion that is either a black hole or a neutron star. This compact partner constantly pulls matter from the giant star, causing repeated outbursts. It is a fascinating process showing how star systems interact and affect each other dramatically from afar.",
+      "entusiast": "Through observations with the Chandra X-ray Observatory, researchers have revealed a compact object, either a black hole or a neutron star, in a binary star system. The system features an extremely massive and unstable primary star exhibiting recurring outbursts. These violent events are driven by accretion where the compact object strips matter from the giant star. Such X-ray sources provide crucial insights into mass transfer in massive binaries and how compact objects interact with their stellar environments."
+    },
+    "terms": [
+      {
+        "term": "black hole",
+        "explanation": "A celestial object with gravity so strong that not even light can escape."
+      },
+      {
+        "term": "neutron star",
+        "explanation": "An extremely dense remnant of a collapsed massive star following a supernova."
+      },
+      {
+        "term": "accretion",
+        "explanation": "The process where matter is gathered onto a compact body due to gravity."
+      },
+      {
+        "term": "X-ray Observatory",
+        "explanation": "A space-based telescope designed to detect high-energy radiation from the universe."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a black hole?",
+        "options": [
+          "A tear in space fabric",
+          "A star with extreme gravity",
+          "A dark cloud of dust"
+        ],
+        "correct": 1,
+        "fact": "A black hole is the remnant of a heavy star where gravity is so strong that not even light can escape."
+      },
+      {
+        "q": "What is a neutron star?",
+        "options": [
+          "A star with zero electric charge",
+          "The densest object after black holes",
+          "A planet powered by neutrons"
+        ],
+        "correct": 1,
+        "fact": "Neutron stars form in supernovas and pack immense mass into a tiny volume."
+      },
+      {
+        "q": "How do repeated outbursts in a star system occur?",
+        "options": [
+          "By pulling matter from a companion star",
+          "When two stars collide at full speed",
+          "When core nuclear fusion stops completely"
+        ],
+        "correct": 0,
+        "fact": "When a compact object like a neutron star pulls matter from a companion star, it can trigger violent outbursts."
+      }
+    ]
+  }
+}

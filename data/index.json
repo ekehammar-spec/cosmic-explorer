@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-14",
+  "media_type": "image",
+  "title": "Utslag från en massiv stjärna",
+  "title_en": "Outbursts from a Massive Star",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=480"
+ },
+ {
   "date": "2026-11-13",
   "media_type": "image",
   "title": "Webb_first_deep_field_SMACS_0723",
@@ -201,13 +208,6 @@
   "title": "Neptunus",
   "title_en": "Neptune",
   "thumb": "https://images-assets.nasa.gov/image/PIA02210/PIA02210~small.jpg"
- },
- {
-  "date": "2026-10-15",
-  "media_type": "image",
-  "title": "Merkurius kraterrika yta",
-  "title_en": "MESSENGER Reveals Mercury in New Detail",
-  "thumb": "https://images-assets.nasa.gov/image/PIA10175/PIA10175~small.jpg"
  },
  {
   "date": "2026-10-14",
