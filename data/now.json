@@ -1,17 +1,7 @@
 {
- "updated": "2026-11-15T11:30:40.962Z",
+ "updated": "2026-11-15T16:33:17.374Z",
  "source": "NASA EONET",
  "events": [
-  {
-   "kind": "storm",
-   "date": "2026-11-12T12:00:00Z",
-   "title_sv": "Tropiska lågtrycket Pena",
-   "title_en": "Tropical Depression Pena",
-   "where_sv": "Östra Stilla havet",
-   "where_en": "Eastern Pacific",
-   "value_sv": "vindar på 55 km/h",
-   "value_en": "winds of 55 km/h"
-  },
   {
    "kind": "ice",
    "date": "2026-11-13T00:00:00Z",
@@ -21,16 +11,6 @@
    "where_en": "Southern Ocean, near Antarctica",
    "value_sv": "",
    "value_en": ""
-  },
-  {
-   "kind": "fire",
-   "date": "2026-11-05T16:11:00Z",
-   "title_sv": "Skogsbrand i Johnson, Wyoming",
-   "title_en": "Wildfire in Johnson, Wyoming",
-   "where_sv": "",
-   "where_en": "",
-   "value_sv": "280 hektar",
-   "value_en": "280 hectares"
   },
   {
    "kind": "fire",
