@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-15",
+  "title": "Lobate Scarps on the Moon",
+  "title_sv": "Krokiga branter på månen",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA23236/PIA23236~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA23236/PIA23236~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA23236/PIA23236~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA23236",
+  "credit": "NASA",
+  "taken": "2019",
+  "src": "library",
+  "id": "PIA23236",
+  "px": [
+    1631,
+    1010
+  ],
+  "w": 640,
+  "h": 396,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAUACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAmEAABBAIBAwMFAAAAAAAAAAABAgMEEQAhMQUSExRBYSIyUXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOnnbK9gAUFgHjGeTuSlKNJG8ypUyP0+S5GecSp7yEqSPa9i8ZFfefAWEFtsaBKdnAukPBpAWo/T+ToZBFluyZqw1ppNAE++KmsOznG0k00k2ofPGWMspZUa1rAzOmRm5b3rpALkh1Peoni7rjNxwkp+Am6wwwJ1EglA+00T/Dnahb4SeAm/2bwwwP/Z",
+  "quiz": [
+    {
+      "q": "Vad är lobata branter på månen för något?",
+      "options": [
+        "Vulkaniska flöden av stelnad lava",
+        "Förkastningsbranter bildade när månen svalnat",
+        "Nedslagskrater som fyllts med stoft"
+      ],
+      "correct": 1,
+      "fact": "När månens inre svalnade och krympde skrumpnade ytan ihop och bildade dessa klippiga sluttningar."
+    },
+    {
+      "q": "Hur bildas månens mindre tektoniska strukturer?",
+      "options": [
+        "Genom att månen långsamt drar ihop sig",
+        "Genom att asteroider river upp ytan",
+        "Genom att tidvattenkrafter sliter isär månen"
+      ],
+      "correct": 0,
+      "fact": "Månen har svalnat inifrån vilket har lett till att ytan pressats samman och bildat veck."
+    },
+    {
+      "q": "Varför är upptäckten av unga förkastningar oväntad?",
+      "options": [
+        "Månen borde ha varit geologiskt död",
+        "Massan borde ha gjort dem runda",
+        "Solen borde ha smält bort dem"
+      ],
+      "correct": 0,
+      "fact": "Länge trodde forskare att månen var helt inaktiv, men dessa unga branter visar att den fortfarande krymper."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att månen är som ett äpple som har legat framme så länge att det blir skrynkligt. Precis så kan månen skrynkla sig när den blir äldre och svalnar inuti. Då bildas det upphöjda åsar på ytan som ser ut som små bergskedjor. Bilden visar en sådan rynka på den grå månytan.",
+    "nyborjare": "Denna bild, som togs år 2019 av rymdfarkosten Lunar Reconnaissance Orbiter, visar ett fascinerande geologiskt fenomen nära regionen Mare Frigoris på månen. Här syns så kallade lobata branter, vilket är en typ av böjda kullar eller klippor. De uppstår när månens inre svalnar och drar ihop sig. Eftersom månen krymper pressas ytan ihop och bildar dessa veck, ungefär som när ett russin torkar och skrumpnar. Upptäckten visar att månen fortfarande är geologiskt aktiv i liten skala.",
+    "entusiast": "Bilden, som fångades 2019 av NASAs Lunar Reconnaissance Orbiter, avbildar lobata branter i närheten av Mare Frigoris. Dessa branter representerar unga tektoniska landformer på månen. När månens inre successivt svalnar minskar dess volym, vilket skapar tryckspänningar i den stela skorpan. Detta leder till att ytmaterialet bryts sönder och skjuts upp över intilliggande områden i så kallade thrust faults. Eftersom dessa förkastningar skär igenom äldre kratrar och behåller sina skarpa drag drar forskare slutsatsen att de är mycket unga, sannolikt mindre än femtio miljoner år gamla. Det förändrar vår bild av månens geologiska historia och visar att den har krympt med upp till ett hundra meter på senare tid."
+  },
+  "terms": [
+    {
+      "term": "förkastning",
+      "explanation": "En spricka i en himlakropps skorpa där marken på vardera sidan har förskjutits i höjdled."
+    },
+    {
+      "term": "tektonisk",
+      "explanation": "Beskriver storskaliga rörelser och deformationer i en planets eller månes yttre skal."
+    },
+    {
+      "term": "skorpa",
+      "explanation": "Det yttersta fasta lagret på en stenig planet eller måne."
+    },
+    {
+      "term": "geologisk",
+      "explanation": "Handlar om en himlakropps fasta struktur, dess beståndsdelar och de processer som formar dem."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine that the Moon is like an apple that has been left out for so long that it gets wrinkly. Just like that, the Moon can wrinkle when it gets older and cools down inside. Then raised ridges form on the surface that look like small mountain ranges. The image shows one such wrinkle on the grey lunar surface.",
+      "nyborjare": "This image, taken in 2019 by the spacecraft Lunar Reconnaissance Orbiter, shows a fascinating geological feature near the region Mare Frigoris on the Moon. It displays so-called lobate scarps, which are a type of curved hill or cliff. They occur when the interior of the Moon cools and contracts. As the Moon shrinks, the surface is squeezed together, creating folds much like a drying grape turning into a raisin. This discovery shows that the Moon is still geologically active on a small scale.",
+      "entusiast": "The image, captured in 2019 by NASAs Lunar Reconnaissance Orbiter, depicts lobate scarps near Mare Frigoris. These scarps represent young tectonic landforms on the Moon. As the lunar interior gradually cools, its volume decreases, generating compressive stresses in the rigid crust. This causes the surface material to break and push upward over adjacent areas in thrust faults. Because these faults cut across older craters and retain their sharp features, scientists conclude they are very young, likely less than fifty million years old. This fundamentally alters our view of lunar history and indicates the Moon has shrunk by up to one hundred meters recently."
+    },
+    "terms": [
+      {
+        "term": "fault",
+        "explanation": "A fracture in the crust of a celestial body where the ground on either side has moved vertically."
+      },
+      {
+        "term": "tectonic",
+        "explanation": "Relating to the large-scale processes and deformations affecting the outer shell of a planet or moon."
+      },
+      {
+        "term": "crust",
+        "explanation": "The outermost solid shell of a rocky planet or moon."
+      },
+      {
+        "term": "geological",
+        "explanation": "Pertaining to the solid structure of a celestial body, its composition, and the processes shaping them."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What are lobate scarps on the Moon?",
+        "options": [
+          "Volcanic flows of solidified lava",
+          "Fault scarps formed as the Moon cooled",
+          "Impact craters filled with space dust"
+        ],
+        "correct": 1,
+        "fact": "As the interior of the Moon cooled and shrank, the surface crumpled to form these rocky slopes."
+      },
+      {
+        "q": "How do smaller tectonic structures form on the Moon?",
+        "options": [
+          "By the Moon slowly contracting",
+          "By asteroids tearing up the surface",
+          "By tidal forces pulling the Moon apart"
+        ],
+        "correct": 0,
+        "fact": "The Moon has cooled from the inside, which has caused its surface to press together and form folds."
+      },
+      {
+        "q": "Why is the discovery of young faults unexpected?",
+        "options": [
+          "The Moon was thought to be geologically dead",
+          "The mass should have made them perfectly round",
+          "The Sun should have melted them away"
+        ],
+        "correct": 0,
+        "fact": "For a long time, scientists believed the Moon was completely inactive, but these young scarps show it is still shrinking."
+      }
+    ]
+  }
+}

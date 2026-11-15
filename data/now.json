@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:03:36.546Z",
+ "updated": "2026-11-15T06:40:50.163Z",
  "source": "NASA EONET",
  "events": [
   {
@@ -14,7 +14,7 @@
   },
   {
    "kind": "ice",
-   "date": "2026-11-06T00:00:00Z",
+   "date": "2026-11-13T00:00:00Z",
    "title_sv": "Isberget A85",
    "title_en": "Iceberg A85",
    "where_sv": "Södra ishavet, vid Antarktis",
