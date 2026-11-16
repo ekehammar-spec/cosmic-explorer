@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-16T12:03:40.978Z",
+ "updated": "2026-11-16T19:48:57.027Z",
  "source": "NASA EONET",
  "events": [
+  {
+   "kind": "storm",
+   "date": "2026-11-16T06:00:00Z",
+   "title_sv": "Tropiska stormen Xavier",
+   "title_en": "Tropical Storm Xavier",
+   "where_sv": "Södra Stilla havet",
+   "where_en": "Southern Pacific",
+   "value_sv": "vindar på 100 km/h",
+   "value_en": "winds of 100 km/h"
+  },
   {
    "kind": "ice",
    "date": "2026-11-13T00:00:00Z",
@@ -14,13 +24,23 @@
   },
   {
    "kind": "fire",
-   "date": "2026-11-12T00:22:00Z",
+   "date": "2026-11-13T13:31:00Z",
    "title_sv": "Skogsbrand i Perry, Mississippi",
    "title_en": "Wildfire in Perry, Mississippi",
    "where_sv": "",
    "where_en": "",
-   "value_sv": "210 hektar",
-   "value_en": "210 hectares"
+   "value_sv": "1 090 hektar",
+   "value_en": "1,090 hectares"
+  },
+  {
+   "kind": "fire",
+   "date": "2026-11-13T15:18:00Z",
+   "title_sv": "Skogsbrand i Forrest, Mississippi",
+   "title_en": "Wildfire in Forrest, Mississippi",
+   "where_sv": "",
+   "where_en": "",
+   "value_sv": "960 hektar",
+   "value_en": "960 hectares"
   }
  ]
 }
