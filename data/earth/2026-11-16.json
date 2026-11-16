@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-16",
+  "title": "The Last Ice on Puncak Jaya",
+  "title_sv": "Den sista isen på Puncak Jaya",
+  "place": "Nya Guinea, Indonesien",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+  "credit": "NASA Earth Observatory / Lauren Dauphin",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAwABAgQF/8QAJxAAAQMDAwMEAwAAAAAAAAAAAQIDEQAEEiEiMRNBcQVRYYGRsdH/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAAC/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQACESExYYH/2gAMAwEAAhEDEQA/APKQyCQXIU3xkOPzQXtmq3d27kToard9y2UpWMiNyTwfIp2b3qXCCWm0pAmDriPjvUgQGtj2AwjacSQe4PFZLLbhAAjxXbdJt0CUuEhe6UkfqhbLLqzDmDg0GfB++1GxnQHIibQFq8UVaNRpHOo/taemWqbp95SgkQ0oxBPAn3qqpAz8kwbhONAItsTBUmSfJNBbt9e9Q2TiFLxkVVUU3bE1O4n/2Q==",
+  "levels": {
+    "barn": "Titta på de här två bilderna från rymden som visar ett berg i Indonesien. På den gamla bilden från år 1988 syns mycket ljusblå is på toppen av berget. Men på den nya bilden från år 2026 har nästan all is försvunnit. Kvar finns bara små vita fläckar som liknar små öar bland de bruna klipporna. Isen har smält bort nästan helt eftersom klimatet har blivit varmare där nere.",
+    "nyborjare": "De här satellitbilderna visar hur glaciärerna på berget Puncak Jaya i Indonesien har förändrats från år 1988 till 2026. Bilderna är tagna i falska färger, vilket betyder att isen syns som ljusblått och den framtagna berggrunden som brunt. Gröna ytor visar växtlighet och vitt är moln. År 1988 täckte isen en stor yta på över fyra kvadratkilometer. Sedan dess har isen smält i snabb takt, blivit mycket tunnare och brutits sönder i små delar. Forskare tror att de sista resterna av glaciären kan vara helt borta kring år 2030.",
+    "entusiast": "Jämförelsen baseras på data insamlad av sensorerna Thematic Mapper ombord på Landsat 5 år 1988 och Operational Land Imager ombord på Landsat 9 år 2026. Genom att använda falskfärg kan forskare tydligt skilja den ljusblå isen från brun exponerad berggrund och grön vegetation. Puncak Jaya ligger i tropikerna nära ekvatorn, vilket gör dess glaciärer till känsliga indikatorer för klimatförändringar, ofta kallade kanariefåglar i kolgruvan. Mätningar visar att isen har minskat från cirka 4,31 kvadratkilometer år 1988 till endast 0,09 kvadratkilometer i september 2025. Glaciärerna har slutat flöda på grund av att de har blivit för tunna och splittrade, en process som förvärras av återkommande El Niño-perioder som omvandlar snöfall till regn och påskyndar avsmältningen."
+  },
+  "terms": [
+    {
+      "term": "Landsat 9",
+      "explanation": "En amerikansk jordresurssatellit som med instrumentet OLI observerar jordens yta."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "Ett värmefenomen som gör luften varmare och omvandlar snöfall till regn över glaciärerna."
+    },
+    {
+      "term": "glaciär",
+      "explanation": "En stor massa av landfast is som är tillräckligt tjock för att röra sig nedåt under sin egen vikt."
+    },
+    {
+      "term": "Thematic Mapper",
+      "explanation": "Ett instrument som satt på satelliten Landsat 5 och användes för att fånga in bilddata."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at these two space pictures showing a mountain in Indonesia. In the old picture from 1988, you can see a lot of light blue ice on top of the mountain. But in the new picture from 2026, almost all the ice is gone. Only small white patches remain among the brown rocks. The ice has melted away almost completely because the climate has become warmer.",
+      "nyborjare": "These satellite images show how the glaciers on Mount Puncak Jaya in Indonesia have changed from 1988 to 2026. The images use false colors to distinguish ice as light blue and exposed bedrock as brown. Green areas show vegetation and white represents clouds. In 1988, the glaciers covered a large area of over four square kilometers. Since then, the ice has melted rapidly, thinned significantly, and broken into small pieces. Researchers estimate that the final remnants of the glacier could disappear entirely around 2030.",
+      "entusiast": "The comparison is based on data acquired by the Thematic Mapper sensor on Landsat 5 in 1988 and the Operational Land Imager on Landsat 9 in 2026. By utilizing false-color imaging, scientists can clearly separate light blue ice from brown exposed bedrock and green vegetation. Located in the tropics near the equator, Puncak Jaya serves as a high-altitude canary in the coal mine for climate change. Measurements show the ice extent dropped from about 4.31 square kilometers in 1988 to just 0.09 square kilometers by September 2025. The glaciers have stopped flowing due to extreme thinning and fragmentation, a process accelerated by recurring El Niño events that turn snowfall into rain."
+    },
+    "terms": [
+      {
+        "term": "Landsat 9",
+        "explanation": "An American Earth observation satellite equipped with the Operational Land Imager instrument."
+      },
+      {
+        "term": "El Niño",
+        "explanation": "A climatic phenomenon that warms the air and turns snowfall into rain over the glaciers."
+      },
+      {
+        "term": "glacier",
+        "explanation": "A body of ice thick enough to flow downhill under its own weight."
+      },
+      {
+        "term": "Thematic Mapper",
+        "explanation": "An instrument flown on Landsat 5 used to capture multispectral image data."
+      }
+    ],
+    "place": "New Guinea, Indonesia"
+  }
+}

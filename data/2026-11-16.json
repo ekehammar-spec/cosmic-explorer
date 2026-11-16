@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-16",
+  "title": "Comet Siding Spring Seen Next to Mars",
+  "title_sv": "Kometen Siding Spring nära Mars",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000929/GSFC_20171208_Archive_e000929~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000929/GSFC_20171208_Archive_e000929~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000929/GSFC_20171208_Archive_e000929~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000929",
+  "credit": "NASA/GSFC",
+  "taken": "2017",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000929",
+  "px": [
+    1167,
+    876
+  ],
+  "w": 640,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBBAf/xAAcEAADAAIDAQAAAAAAAAAAAAAAAQIREgMEYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A83SbOiOnzckVcy6UrZ+IhNYK12acap4QEAAAAAGzWrysfVkwAD//2Q==",
+  "quiz": [
+    {
+      "q": "Vad är huvudsakligen uppbyggt av is och stoft i rymden?",
+      "options": [
+        "Asteroider",
+        "Kometer",
+        "Meteoroider"
+      ],
+      "correct": 1,
+      "fact": "Komenter består till stor del av is, damm och frysta gaser som börjar avdunsta när de närmar sig solen."
+    },
+    {
+      "q": "Vad kallas det moln av stoft och gas som omger en kometkärna?",
+      "options": [
+        "Koma",
+        "Korona",
+        "Atmosfär"
+      ],
+      "correct": 0,
+      "fact": "När kometen värms upp bildas en ljusstark koma runt den fasta kärnan."
+    },
+    {
+      "q": "Vilken planet kallas ofta för den röda planeten?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Merkurius"
+      ],
+      "correct": 1,
+      "fact": "Mars kallas den röda planeten eftersom dess yta innehåller stora mängder järnoxid, eller rost."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en jättestor isboll med en lång svans av glittrande damm som flyger genom rymden. År 2014 flög en sådan komet väldigt nära planeten Mars. Den kom så nära att det såg ut som att de nästan nuddade varandra på himlen, även om det var ett enormt avstånd emellan dem på riktigt.",
+    "nyborjare": "År 2014 fångade rymdteleskopet Hubble en historisk händelse när kometen Siding Spring passerade mycket nära Mars. Bilden är ett hopkok av flera olika exponeringar eftersom planeten lyser mycket starkare än kometen. Kometen har en fast kärna av is och stoft, omgiven av en ljusstark koma och en lång svans som bildas när solen värmer den.",
+    "entusiast": "Denna sammansatta bild från Hubble-teleskopet den 19 oktober 2014 visar den historiska och extremt nära passagen av kometen Siding Spring förbi Mars. Kometen passerade på endast 140 000 kilometers avstånd från planeten. Eftersom Mars är tiotusen gånger ljusstarkare än kometen krävdes separata observationer med Wide Field Camera 3 för att undvika rörelseoskärpa och överexponering. Bakgrunden är syntetiserad från Palomar Digital Sky Survey för att matcha Hubbles upplösning. Kometens fasta iskarv är för liten för att lösas upp, men den omgivande koman och stoftsvansen framträder tydligt."
+  },
+  "terms": [
+    {
+      "term": "komet",
+      "explanation": "En liten himlakropp bestående av is och stoft som utvecklar en svans när den närmar sig solen."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "Ett astronomiskt instrument placerat i omloppsbana kring jorden för att observera universum utan atmosfärens störningar."
+    },
+    {
+      "term": "koma",
+      "explanation": "Det nebulosaliknande moln av gas och stoft som omger en kometkärna när den värms upp av solen."
+    },
+    {
+      "term": "exponering",
+      "explanation": "Den tid under vilken en kameras sensor samlar in ljus för att skapa en bild."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant snowball with a long tail of sparkling dust flying through space. In 2014, such a comet flew very close to the planet Mars. It came so close that they looked almost like they touched each other in the sky, even though there was a huge distance between them in reality.",
+      "nyborjare": "In 2014, the Hubble Space Telescope captured a historic event when comet Siding Spring passed very close to Mars. The image is a composite of several exposures because the planet shines much brighter than the comet. The comet has a solid nucleus of ice and dust, surrounded by a bright coma and a long tail formed as the sun warms it.",
+      "entusiast": "This composite image from the Hubble Space Telescope on October 19, 2014, records the historical and extremely close passage of comet Siding Spring past Mars. The comet swept by at a distance of only about 87,000 miles. Because Mars is ten thousand times brighter than the comet, separate observations using Wide Field Camera 3 were required to prevent motion blur and overexposure. The background starfield is synthesized from the Palomar Digital Sky Survey to match Hubble resolution. The solid icy nucleus is unresolved, but the diffuse coma and dusty tail are clearly visible."
+    },
+    "terms": [
+      {
+        "term": "comet",
+        "explanation": "A small celestial body composed of ice and dust that develops a tail when approaching the sun."
+      },
+      {
+        "term": "space telescope",
+        "explanation": "An astronomical instrument placed in orbit around the Earth to observe the universe without atmospheric interference."
+      },
+      {
+        "term": "coma",
+        "explanation": "The nebulous cloud of gas and dust surrounding a comet nucleus when warmed by the sun."
+      },
+      {
+        "term": "exposure",
+        "explanation": "The duration during which a camera sensor collects light to create an image."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What celestial body is mainly made of ice and dust?",
+        "options": [
+          "Asteroids",
+          "Comets",
+          "Meteoroids"
+        ],
+        "correct": 1,
+        "fact": "Comets primarily consist of ice, dust, and frozen gases that vaporize as they approach the sun."
+      },
+      {
+        "q": "What is the glowing cloud of dust and gas surrounding a comet nucleus called?",
+        "options": [
+          "Coma",
+          "Corona",
+          "Atmosphere"
+        ],
+        "correct": 0,
+        "fact": "As a comet warms up, a bright coma develops around its solid nucleus."
+      },
+      {
+        "q": "Which planet is often referred to as the red planet?",
+        "options": [
+          "Venus",
+          "Mars",
+          "Mercury"
+        ],
+        "correct": 1,
+        "fact": "Mars is called the red planet because its surface contains large amounts of iron oxide, or rust."
+      }
+    ]
+  }
+}
