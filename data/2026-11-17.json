@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-17",
+  "title": "Perseverance and Mars 2020 Spacecraft Components on the Surface",
+  "title_sv": "Perseverance och landningssystemet på Mars yta",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA24333/PIA24333~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA24333/PIA24333~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA24333/PIA24333~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA24333",
+  "credit": "NASA/JPL-Caltech/University of Arizona",
+  "taken": "2021",
+  "src": "library",
+  "id": "PIA24333",
+  "px": [
+    1920,
+    1053
+  ],
+  "w": 640,
+  "h": 351,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAARACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EACgQAAEDAwEGBwAAAAAAAAAAAAEAAgMEESESIjEyQVFxIzM0cpGhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDVkmkWaPtNTuIYdTmukLiMdOSnO0NTRsAcsXSPnMcRs3fjCAqGtEh8QW3paIumYJNBZe+DvwU8b4xcWBceqsjlGl1mnGCUE0Ppx2U9T5R9x/EIQKzj+VZS8D+6EIP/2Q==",
+  "quiz": [
+    {
+      "q": "Hur firades rovern Perseverance ner till Mars yta?",
+      "options": [
+        "Med krockkuddar som studsade mot marken",
+        "Med vajrar från en svävande raketplattform",
+        "Direkt med egna inbyggda landningsraketer"
+      ],
+      "correct": 1,
+      "fact": "Tekniken kallas sky crane och sänker rovern i vajrar från ett svävande raketsteg för att skydda hjulen från skador."
+    },
+    {
+      "q": "Varför är det svårt att bromsa vid Mars?",
+      "options": [
+        "Atmosfären är mycket tunnare än jordens",
+        "Mars gravitation är starkare än jordens",
+        "Planeten saknar helt en atmosfär"
+      ],
+      "correct": 0,
+      "fact": "Eftersom Mars atmosfär har mindre än en procent av jordens täthet räcker inte enbart fallskärmar för att stoppa tunga sonder."
+    },
+    {
+      "q": "Vad letar Perseverance främst efter på Mars?",
+      "options": [
+        "Aktiva underjordiska vulkaner i manteln",
+        "Stora flytande sjöar under polisen",
+        "Spår efter forntida mikroskopiskt liv"
+      ],
+      "correct": 2,
+      "fact": "Ett av roverns viktigaste mål är astrobiologi och sökandet efter biosignaturer från forntida mikrober."
+    }
+  ],
+  "levels": {
+    "barn": "Här ser du spåren efter ett fantastiskt rymdäventyr på den röda planeten Mars! Den lilla pricken i mitten är en rullande robot som kallas Perseverance. Den är stor som en personbil.\n\nNär roboten kom fram sänktes den ner försiktigt som en spindel i en tråd från en svävande raketplattform. Sedan kraschade plattformen en bit bort så att roboten inte skulle skadas. Nu kör den runt och letar efter gamla stenar och spännande ledtrådar.",
+    "nyborjare": "År 2021 fångade en rymdsond i omloppsbana denna bild av Mars yta strax efter att rovern Perseverance hade landat. I mitten syns rovern i ett mörkt mönster där raketmotorer blåste bort det röda dammet.\n\nLandningen skedde med en så kallad sky crane, en svävande raketplattform som sänkte ner fordonet med vajrar innan den själv flög iväg och kraschade på säkert avstånd. Runt omkring syns utspridda delar från landningssystemet, bland annat en värmesköld och en stor fallskärm.\n\nMed tiden kommer stoft och vind på Mars att täcka metallskrotet så att det smälter in i landskapet. Roverns uppdrag är att samla prover och söka spår av mikrobiellt liv.",
+    "entusiast": "Den 19 februari 2021 fotograferade kameran HiRISE ombord på sonden Mars Reconnaissance Orbiter landningsplatsen för Perseverance i Jezero-kratern. Bilden visar hur komponenterna från landningssystemet ligger utspridda efter att framgångsrikt ha levererat farkosten till ytan.\n\nI centrum syns rovern omgiven av ett mönster skapat av raketmotorerna från dess nedstigningssteg. Efter att ha firat ner fordonet med vajrar flög steget bort och kraschade på behörigt avstånd, vilket gav upphov till ett v-format skräpområde. På andra platser i terrängen syns den kasserade värmeskölden samt fallskärmen och bakskölden.\n\nMars tunna atmosfär kräver en kombination av värmesköld, supersonisk fallskärm och raketinbromsning för att landa tunga laster. Perseverance samlar nu in prover av regolit och borrkärnor som ska hämtas till jorden vid ett senare tillfälle, samtidigt som HiRISE dokumenterar hur Mars damm långsamt täcker spåren på marken."
+  },
+  "terms": [
+    {
+      "term": "Perseverance",
+      "explanation": "En avancerad sexhjulig marsrover som utforskar Jezero-kratern på Mars för att leta efter spår av forntida mikrobiellt liv."
+    },
+    {
+      "term": "HiRISE",
+      "explanation": "En högupplöst kamera ombord på sonden Mars Reconnaissance Orbiter som fotograferar detaljer på Mars yta från omloppsbana."
+    },
+    {
+      "term": "sky crane",
+      "explanation": "En raketdriven svävande farkost som sänker ner en rover till en planets yta med hjälp av nylonvajrar."
+    },
+    {
+      "term": "regolit",
+      "explanation": "Det lösa lagret av sönderslaget berg, damm och grus som täcker fast berggrund på månar och stenplaneter."
+    },
+    {
+      "term": "atmosfär",
+      "explanation": "Det gasskikt som omger en planet eller annan himlakropp och hålls kvar av dess gravitation."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Here you can see the tracks of an amazing adventure on Mars! The little dark dot right in the center is a robot called Perseverance. It is about the size of a car.\n\nWhen the robot arrived, it was lowered gently to the ground like a spider on a thread from a hovering rocket platform. Then that platform flew away and crashed safely in the distance. Now the robot is exploring and hunting for ancient rocks!",
+      "nyborjare": "In 2021, an orbiting spacecraft captured this dramatic view of Mars shortly after the Perseverance rover touched down. In the center, the rover sits within a dark blast zone where descent rocket engines blew away surface dust.\n\nThe landing utilized an ingenious sky crane maneuver, where a hovering rocket platform lowered the vehicle on cables before flying away to crash at a safe distance. Scattered across the surrounding plain are discarded pieces of hardware, including a heat shield and a large parachute.\n\nOver time, Martian dust blown by gentle winds will gradually bury these metal components until they blend into the terrain. The mission aims to collect samples and search for evidence of ancient microbial life.",
+      "entusiast": "On February 19, 2021, the HiRISE camera aboard NASA's Mars Reconnaissance Orbiter imaged the landing site of the Mars 2020 mission in Jezero crater. The image provides an overhead survey of the various components discarded during the entry, descent, and landing sequence.\n\nAt the center, the rover is framed by blast marks produced by the rocket engines of the hovering descent stage. After lowering Perseverance via tethers, the descent stage flew away and impacted at a safe distance, leaving a V-shaped debris scar. Elsewhere on the surface, the discarded heat shield and supersonic parachute with the backshell are clearly visible.\n\nBecause the Martian atmosphere has an atmospheric pressure less than one percent of Earth's, aero-braking must be paired with supersonic parachutes and retro-rockets to decelerate heavy payloads. Perseverance is now collecting core samples of regolith and rock for future return to Earth, while HiRISE tracks how Martian dust slowly covers this hardware over time."
+    },
+    "terms": [
+      {
+        "term": "Perseverance",
+        "explanation": "An advanced six-wheeled robotic rover exploring Jezero crater on Mars to seek signs of past microbial life."
+      },
+      {
+        "term": "HiRISE",
+        "explanation": "A high-resolution camera aboard the Mars Reconnaissance Orbiter that captures detailed orbital imagery of the surface of Mars."
+      },
+      {
+        "term": "sky crane",
+        "explanation": "A rocket-powered hovering platform that lowers a rover to the planetary surface using suspension cables."
+      },
+      {
+        "term": "regolith",
+        "explanation": "The loose layer of dust, broken rock, and unconsolidated material covering solid bedrock on planetary bodies."
+      },
+      {
+        "term": "atmosphere",
+        "explanation": "The layer of gases surrounding a planet or celestial body, held in place by its gravitational field."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "How was the Perseverance rover lowered to the Martian surface?",
+        "options": [
+          "With airbags that bounced on the ground",
+          "With cables from a hovering rocket platform",
+          "Directly on its own built-in rocket engines"
+        ],
+        "correct": 1,
+        "fact": "NASA used the sky crane maneuver, lowering the rover on nylon tether cables from a hovering rocket-powered descent stage."
+      },
+      {
+        "q": "Why is it challenging to decelerate spacecraft at Mars?",
+        "options": [
+          "The atmosphere is much thinner than Earth's",
+          "Mars has stronger gravity than Earth does",
+          "The planet completely lacks any atmosphere"
+        ],
+        "correct": 0,
+        "fact": "The Martian atmosphere is less than one percent as dense as Earth's, so parachutes alone cannot fully stop a heavy lander."
+      },
+      {
+        "q": "What is Perseverance primarily searching for on Mars?",
+        "options": [
+          "Active underground volcanoes inside the mantle",
+          "Large liquid lakes beneath the ice caps",
+          "Signs of ancient microbial life"
+        ],
+        "correct": 2,
+        "fact": "A primary goal of the mission is astrobiology, specifically looking for biosignatures left by ancient microscopic organisms."
+      }
+    ]
+  }
+}
