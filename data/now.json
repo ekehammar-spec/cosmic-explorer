@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-17T08:00:13.314Z",
+ "updated": "2026-11-17T12:29:08.284Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-11-16T18:00:00Z",
+   "date": "2026-11-17T06:00:00Z",
    "title_sv": "Tropiska cyklonen Xavier",
    "title_en": "Tropical Cyclone Xavier",
    "where_sv": "Södra Stilla havet",
    "where_en": "Southern Pacific",
-   "value_sv": "vindar på 155 km/h",
-   "value_en": "winds of 155 km/h"
+   "value_sv": "vindar på 230 km/h",
+   "value_en": "winds of 230 km/h"
   },
   {
    "kind": "ice",
