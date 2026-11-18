@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-18",
+  "title": "Kepler Supernova Remnant: A View from Hubble Space Telescope",
+  "title_sv": "Keplers supernovarest",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA06909/PIA06909~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA06909/PIA06909~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA06909/PIA06909~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA06909",
+  "credit": "NASA/ESA/Johns Hopkins University",
+  "taken": "2004",
+  "src": "library",
+  "id": "PIA06909",
+  "px": [
+    1920,
+    1826
+  ],
+  "w": 640,
+  "h": 608,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAeACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAQIAAwQFBv/EACUQAAEEAgECBwEAAAAAAAAAAAEAAhEhAxIxQYEEBSJRYXGR8f/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8A4ADqYAj9QAquqkk/XsoKsUon1nHpLtwZLIVREFWY3BmVriNg0yRMT3Wb5qzBOHJ4drWNyM2LA7YtM8ErNmwy5WvFn5TsIDvUJahwSAhM8ytgxOwNRFpaIEd1L/qA5Qn/2Q==",
+  "quiz": [
+    {
+      "q": "Vad är den ursprungliga källan till denna kosmiska bubbla?",
+      "options": [
+        "En kollision mellan två stora gasplaneter",
+        "En exploderande vit dvärgstjärna",
+        "En ung stjärna som bildar planetsystem"
+      ],
+      "correct": 1,
+      "fact": "Keplers supernova var en typ Ia-supernova, där en vit dvärg slet åt sig materia och exploderade."
+    },
+    {
+      "q": "Vilket århundrade såg människor på jorden denna stjärna explodera?",
+      "options": [
+        "På 1600-talet",
+        "På 1800-talet",
+        "På 1900-talet"
+      ],
+      "correct": 0,
+      "fact": "Astronomen Johannes Kepler observerade explosionen med blotta ögat år 1604."
+    },
+    {
+      "q": "Varför kombinerar astronomer olika sorters ljus i bilden?",
+      "options": [
+        "För att avgöra stjärnans exakta färdriktning",
+        "För att ta bort störande stjärnor",
+        "För att visa gas med olika temperaturer"
+      ],
+      "correct": 2,
+      "fact": "Röntgenteleskop fångar extremt het gas medan infraröda teleskop visar svalare stoftmoln."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en ballong som sprängs i slow motion mitt ute i rymden! Den här glödande bubblan är resterna av en stjärna som exploderade med en enorm smäll. När stjärnor sprängs så där kallas det för en supernova. Allt material från stjärnan slungades ut i rymden och bildade ett moln av stoft och gas. Färgerna visar att olika delar är olika heta. Molnet växer fortfarande och lyser fantastiskt vackert bland alla stjärnor.",
+    "nyborjare": "År 2004 skapades den här sammansatta bilden av Keplers supernovarest, resterna efter den senaste kända stjärnexplosionen i vår egen galax, Vintergatan. År 1604 såg astronomen Johannes Kepler en ny, lysande stjärna på himlen med blotta ögat. I själva verket var det en supernova, där en kompakt vit dvärg exploderade och slet sig själv i stycken. Gasbubblan som syns på bilden expanderar utåt i rymden med en hastighet av miljontals kilometer i timmen. För att förstå händelsen slog forskare samman data från tre rymdteleskop. Hubble fångade det synliga ljuset som visar var chockvågen plöjer fram, medan andra teleskop fångade röntgenstrålning från het gas och infraröd strålning från svalare stoft.",
+    "entusiast": "Keplers supernovarest, även känd som SN 1604, ligger ungefär 20 000 ljusår bort i stjärnbilden Ormbäraren. Explosionen år 1604 var den senaste observerade supernovan inom Vintergatan. Den här berömda bilden togs 2004 och sammanställdes inför 400-årsjubileet genom att kombinera data från tre av NASA:s stora observatorier: Hubble i synligt ljus, Chandra i röntgenstrålning och Spitzer i infrarött ljus. Supernovan klassificeras som en typ Ia-supernova, vilket innebär att en degenererad vit dvärg i ett dubbelstjärnesystem överskred Chandrasekhargränsen efter att ha dragit till sig materia från en följeslagare. Den termonukleära explosionen förintade stjärnan totalt och slungade ut material i det interstellära mediet. Chockvågen expanderar med tusentals kilometer per sekund och kolliderar med omgivande gas som kastats ut före explosionen. Röntgenstrålningen avslöjar chockhettat plasma med temperaturer på tiotals miljoner grader, rikt på nyskapade tyngre grundämnen som järn. Hubble fångar de tunna filamenten där chockvågen komprimerar och exciterar den omgivande gasen, medan de infraröda observationerna spårar mikroskopiska stoftkorn som värms upp av chocken. Tillsammans ger mätningarna en unik inblick i hur grundämnen sprids i galaxen."
+  },
+  "terms": [
+    {
+      "term": "supernovarest",
+      "explanation": "Det expanderande moln av gas och stoft som återstår efter att en stjärna har exploderat."
+    },
+    {
+      "term": "vit dvärg",
+      "explanation": "En mycket kompakt och liten rest av en stjärna som förbrukat sitt kärnbränsle."
+    },
+    {
+      "term": "typ Ia-supernova",
+      "explanation": "En våldsam stjärnexplosion som inträffar när en vit dvärg samlar på sig för mycket massa."
+    },
+    {
+      "term": "interstellära mediet",
+      "explanation": "Den tunna rymdgas och det kosmiska stoft som finns utspritt mellan stjärnorna i en galax."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant balloon popping in slow motion out in deep space! This glowing cosmic bubble shows the remains of an exploded star. When a star blows up, it is called a supernova. All the material from the star was blasted into space, forming a colorful cloud of dust and gas. The bright colors show parts that are super hot and others that are cooler. The bubble is still expanding and glowing beautifully in the dark.",
+      "nyborjare": "In 2004, astronomers created this composite image of Kepler's supernova remnant, the remains of the most recent supernova observed in our Milky Way galaxy. In 1604, astronomer Johannes Kepler noticed a bright new star shining in the night sky. In reality, it was a supernova, where a dense white dwarf star exploded and tore itself apart. The expanding bubble of gas in the image is racing outward through space at millions of kilometers per hour. To understand how the debris interacts with its environment, scientists combined data from three great observatories. The Hubble Space Telescope captured visible light revealing where shockwaves plow through space, while other telescopes detected X-rays from scorching gas and infrared light from cooler cosmic dust.",
+      "entusiast": "Kepler's supernova remnant, cataloged as SN 1604, lies approximately 20,000 light-years away in the constellation Ophiuchus. Occurring in 1604, it was the last supernova observed within the Milky Way. This multiwavelength composite was produced in 2004 to commemorate the 400th anniversary of the event, merging data from three NASA Great Observatories: Hubble in visible light, Chandra in X-rays, and Spitzer in infrared. The progenitor was a Type Ia supernova, where a degenerate white dwarf in a binary system exceeded the Chandrasekhar limit after accreting matter from a companion. The runaway thermonuclear reaction obliterated the star, ejecting stellar debris into the interstellar medium. The blast wave expands at thousands of kilometers per second, interacting with circumstellar material previously shed by the system. Chandra's X-ray data map shock-heated plasma reaching tens of millions of degrees, rich in synthesized iron. Hubble resolves delicate optical filaments where the blast wave compresses and excites ambient gas, while Spitzer traces microscopic dust grains heated by the shock. Together, these observations provide crucial insights into nucleosynthesis and how heavy elements disperse across our galaxy."
+    },
+    "terms": [
+      {
+        "term": "supernova remnant",
+        "explanation": "The expanding cloud of gas and dust left behind after a star explodes."
+      },
+      {
+        "term": "white dwarf",
+        "explanation": "A dense stellar core remaining after a star has exhausted its nuclear fuel."
+      },
+      {
+        "term": "Type Ia supernova",
+        "explanation": "A powerful explosion occurring when a white dwarf exceeds its maximum stable mass."
+      },
+      {
+        "term": "interstellar medium",
+        "explanation": "The diffuse gas and dust that fills the vast space between stars in a galaxy."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What caused the cosmic bubble shown in this image?",
+        "options": [
+          "A collision between two massive gas planets",
+          "An exploding white dwarf star",
+          "A young star forming a planetary system"
+        ],
+        "correct": 1,
+        "fact": "Kepler's supernova was a Type Ia event caused by the thermonuclear explosion of a white dwarf."
+      },
+      {
+        "q": "In which century did humans on Earth witness this explosion?",
+        "options": [
+          "The 17th century",
+          "The 19th century",
+          "The 20th century"
+        ],
+        "correct": 0,
+        "fact": "Astronomer Johannes Kepler observed the bright new star with the naked eye in 1604."
+      },
+      {
+        "q": "Why do astronomers combine different types of light in this image?",
+        "options": [
+          "To determine the star's exact flight trajectory",
+          "To remove distracting stars",
+          "To reveal gas at different temperatures"
+        ],
+        "correct": 2,
+        "fact": "X-rays reveal million-degree gas while infrared light highlights cooler clouds of dust."
+      }
+    ]
+  }
+}

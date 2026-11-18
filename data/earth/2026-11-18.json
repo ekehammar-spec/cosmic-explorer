@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-18",
+  "title": "Sierra Snow Season Spins Up",
+  "title_sv": "Snösäsongen i Sierra Nevada drar igång",
+  "place": "Sierra Nevada, Kalifornien, USA",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory images by Michala Garrison, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+  "w": 451,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQMEAf/EACgQAAICAQMDAwQDAAAAAAAAAAECAxEABBIhBTFBEyJRFCMycYHB4f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAaEQEBAAIDAAAAAAAAAAAAAAAAASFRAhJx/9oADAMBAAIRAxEAPwA/qRafc9MSnIod/nMfTtTsOxyfuGuGzarAwhW8irGH6aMDqAi22xNxk+DmE0u7O6cAaZQwMlD2i/45zHNKSbUUQaJPfKwzsto6bQPbW34zjRlJTOBw3tquxxeqQUMkh07KQymjx5r+8hqoTIC8fLj5Hf8A3E+qQzHVmdlKntJtH4kcA/o5Aq0qBzQbs1Y+U61MzEdK/wBR6jEUy0Cv6HfNgmJWy4APIN4WrnS6r1Qu8sCtE+cRZ9oLxoGU1QZQeMLk4//Z",
+  "levels": {
+    "barn": "Titta på den vita remsan som slingrar sig genom bilden. Det är snö på höga berg i Kalifornien. För bara två dagar sedan var bergen mörka och nästan helt utan snö. Sedan drog ett stort oväder in från havet. På bara en natt föll omkring trettio centimeter nysnö. Snön lade sig som ett vitt täcke över topparna. Vägarna blev så hala att bilarna inte kunde köra där, men på skidorterna blev många glada för all snö.",
+    "nyborjare": "Satellitbilden visar bergskedjan Sierra Nevada i Kalifornien sedd från rymden. Långs bergskammarna lyser ett vitt band av nysnö, omgivet av mörkare, snöfria dalar och slätter. Bara två dagar tidigare syntes knappt någon snö alls i området, förutom på de allra högsta topparna.\n\nFörändringen skedde den 13 november när en fuktig storm från Stilla havet drog in över västra USA. Låglandet runt staden Sacramento fick kraftigt regn, medan bergen fick uppemot trettio centimeter snö. Vid bergspasset Donner Pass tvingades myndigheterna stänga motorvägen Interstate 80 i båda riktningarna på grund av det besvärliga väglaget. Även i nationalparken Yosemite stängdes vägar inför ovädret. Snöfallet markerar starten på vintersäsongen i regionen, och fler snörika stormar väntas följa tätt inpå.",
+    "entusiast": "Denna bild togs på morgonen den 14 november av instrumentet MODIS ombord på NASA:s satellit Terra. Bilden fångade bergskedjan Sierra Nevada under en tillfällig lucka mellan två vädersystem, och visar ett tydligt vitt täcke av färsk snö långs bergryggarna. Jämförelser med data från den 12 november visar att bergen bara två dagar tidigare var i stort sett snöfria, med undantag för de allra högsta höjderna.\n\nSnöfallet orsakades av en fuktig storm som drog in från Stilla havet den 13 november, den första i en snabb följd av stormar över västra USA. I bergspasset Donner Pass, nordväst om Lake Tahoe, uppmätte Central Sierra Snow Laboratory nästan 30 centimeter snö. Snömängderna orsakade svåra trafikproblem och ledde till att motorvägen Interstate 80 stängdes i båda riktningarna. Söderut rapporterade skidanläggningen Mammoth Mountain mellan 23 och 33 centimeter nysnö, samtidigt som vägar stängdes i Yosemite National Park.\n\nSatellitobservationer med MODIS ger forskare och meteorologer värdefull information om snötäckets utbredning och vattenreserverna inför det nya hydrologiska året. Efter satellitpassagen utfärdade National Weather Service stormvarningar för höjder över 1 500 meter, med prognoser om upp till 120 centimeter snö över 2 400 meters höjd."
+  },
+  "terms": [
+    {
+      "term": "Sierra Nevada",
+      "explanation": "En bergskedja i östra Kalifornien i västra USA."
+    },
+    {
+      "term": "MODIS",
+      "explanation": "Ett instrument på NASA:s satelliter som kartlägger jordytan i flesta våglängder."
+    },
+    {
+      "term": "Terra",
+      "explanation": "En av NASA:s satelliter i jordbana som samlar in data om klimat och miljö."
+    },
+    {
+      "term": "Donner Pass",
+      "explanation": "Ett bergspass i norra Sierra Nevada där motorvägen Interstate 80 passerar."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the bright white band winding across the picture. That is fresh snow on high mountains in California. Just two days earlier, the mountains were mostly dark with almost no snow in sight. Then a large storm blew in from the ocean. In just one night, about thirty centimeters of snow covered the peaks like a cold blanket. Roads became very slippery, forcing cars to stop, but ski resorts welcomed the sudden winter arrival.",
+      "nyborjare": "This satellite view shows the Sierra Nevada mountain range in California. A bright white stripe of fresh snow highlights the mountain crests, contrasting with the bare, brown valleys below. Just two days earlier, the landscape was mostly brown, with snow visible only on the highest peaks.\n\nThe rapid change was brought by a moisture-laden storm from the Pacific Ocean on November 13. While low-elevation areas around Sacramento received heavy rain, mountainous areas were hit with roughly thirty centimeters of snow. At Donner Pass, northwest of Lake Tahoe, dangerous conditions forced officials to close Interstate 80 in both directions. Roads in Yosemite National Park were also shut down ahead of the storm. This snowfall marked an early start to the region's winter season, with more storms expected to follow.",
+      "entusiast": "This image was captured on the morning of November 14 by the MODIS instrument aboard NASA's Terra satellite. Acquired during a lull between weather systems, the view highlights a fresh snow mantle across California's Sierra Nevada. Data collected just two days earlier, on November 12, showed the mountain range mostly bare, with snow confined exclusively to the highest elevations.\n\nThe rapid accumulation resulted from a moisture-rich Pacific storm on November 13, the first in a rapid succession of systems tracking across the western United States. Near Donner Pass, northwest of Lake Tahoe, the Central Sierra Snow Laboratory recorded nearly 30 centimeters of snow. The intense storm snarled traffic and forced authorities to close Interstate 80 in both directions. Farther south, Mammoth Mountain reported between 23 and 33 centimeters of snow, and officials closed several roads throughout Yosemite National Park.\n\nInstrument data from MODIS helps hydrologists and meteorologists map snow cover and assess critical water storage at the start of the water year. Following this satellite pass, the National Weather Service issued winter storm warnings for elevations above 1,500 meters, forecasting an additional 120 centimeters of snow above 2,400 meters."
+    },
+    "terms": [
+      {
+        "term": "Sierra Nevada",
+        "explanation": "A major mountain range located in eastern California in the western United States."
+      },
+      {
+        "term": "MODIS",
+        "explanation": "A satellite instrument that monitors Earth's land, oceans, and atmosphere across multiple wavelengths."
+      },
+      {
+        "term": "Terra",
+        "explanation": "A flagship NASA Earth-observing satellite orbiting our planet since 1999."
+      },
+      {
+        "term": "Donner Pass",
+        "explanation": "A high mountain pass in the northern Sierra Nevada crossed by Interstate 80."
+      }
+    ],
+    "place": "Sierra Nevada, California, USA"
+  }
+}
