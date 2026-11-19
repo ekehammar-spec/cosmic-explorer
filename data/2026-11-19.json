@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-19",
+  "title": "LMC P3",
+  "title_sv": "Supernovaresten LMC P3",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/deml241_lmc_p3_circled/deml241_lmc_p3_circled~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/deml241_lmc_p3_circled/deml241_lmc_p3_circled~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/deml241_lmc_p3_circled/deml241_lmc_p3_circled~orig.jpg",
+  "link": "https://images.nasa.gov/details/deml241_lmc_p3_circled",
+  "credit": "NASA's Goddard Space Flight Center",
+  "taken": "2016",
+  "src": "library",
+  "id": "deml241_lmc_p3_circled",
+  "px": [
+    1922,
+    1080
+  ],
+  "w": 640,
+  "h": 359,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIAAwQFERIxUSEygRMiQWGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAMBAQAAAAAAAAAAAAAAAAECEiIR/9oADAMBAAIRAxEAPwDnqH3S5F1MQozzEzjfaM7S9NOwe30KG1h1qZDodup43gV1LKqttUqkEIhAYc8TF+iOMXxlL1FoJbJRp0RpT02JBH3zE3zM6amOl2z7yDAbeYQmiEv3eZA7hCED/9k=",
+  "quiz": [
+    {
+      "q": "Vad kan bildas i centrum efter en massiv stjärnas explosion?",
+      "options": [
+        "En neutronstjärna eller ett svart hål",
+        "En nybildad planet av ren gas",
+        "Ett tomt hålrum helt utan materia"
+      ],
+      "correct": 0,
+      "fact": "När en tung stjärna exploderar som supernova kollapsar dess kärna till antingen en neutronstjärna eller ett svart hål."
+    },
+    {
+      "q": "Vad händer ofta med gasen i ett tätt binärt stjärnsystem?",
+      "options": [
+        "Den fryser genast till fast is",
+        "Det kompakta objektet kan dra till sig materia",
+        "Den försvinner spårlöst ur universum"
+      ],
+      "correct": 1,
+      "fact": "Om objekten ligger tillräckligt nära varandra kan gravitationen från ett kompakt objekt suga åt sig gas från grannstjärnan."
+    },
+    {
+      "q": "Var i rymden befinner sig objektet LMC P3?",
+      "options": [
+        "I solsystemets yttersta kometmoln",
+        "Mitt i Vintergatans täta centrum",
+        "I dvärggalaxen Stora magellanska molnet"
+      ],
+      "correct": 2,
+      "fact": "LMC står för Large Magellanic Cloud, en satellitgalax till Vintergatan som ligger cirka 160 000 ljusår bort."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig två kompisar som dansar tillsammans ute i rymden. Plötsligt smäller den ena stjärnan av i en jättelik explosion som kallas supernova!\n\nDen andra stjärnan lyckades överleva smällen, precis som om du klarade dig undan ett jättestort vattenkrig utan att bli blöt. Resterna av den sprängda stjärnan har krympt ihop till ett pyttelitet men supertungt föremål. Det är så hungrigt att det sakta suger i sig gas från sin kompis. Det lila ljuset visar var det heta rymdäventyret pågår.",
+    "nyborjare": "Den här färgsprakande bilden visar LMC P3, som observerades av rymdteleskopet Chandra år 2016. Bilden avslöjar vad som hände efter att en massiv stjärna exploderat i en våldsam supernova. Otroligt nog överlevde stjärnans granne den enorma chocken.\n\nIdag utgör paret ett binärt stjärnsystem, där två objekt kretsar tätt intill varandra. Den exploderade stjärnan har kollapsat till antingen en ultrakompakt neutronstjärna eller ett svart hål. Detta kompakta objekt har så enorm gravitation att det stjäl gas från sin överlevande kompanjon.\n\nRöntgenstrålningen från denna process glöder i lila färg mitt i bilden. Runt omkring breder en lysande supernovarest av joniserad vätgas ut sig i gult och turkost.",
+    "entusiast": "Denna kompositbild av LMC P3 offentliggjordes år 2016 och kombinerar röntgendata från rymdteleskopet Chandra med optiska mätningar från MCELS och DSS. Objektet är beläget i supernovaresten DEM L241 i vår grann- och satellitgalax Stora magellanska molnet, ungefär 163 000 ljusår bort.\n\nChandra avslöjar en punktformig röntgenkälla som sammanfaller med positionen för en massiv stjärna av spektralklass O. Detta bekräftar förekomsten av ett sällsynt gammastrålande binärt stjärnsystem som lyckats förbli intakt efter en kärnkollapssupernova. Den detonerade stjärnans kärna kollapsade till ett kompakt objekt, antingen en snabbt roterande neutronstjärna eller ett svart hål. Den överlevande massiva stjärnan förlorar nu massa, vilken dras mot det kompakta objektet och hettas upp till miljontals grader.\n\nDet omgivande skalet visar hur en expanderande supernovarest växelverkar med det interstellära mediet, synligt i optiskt ljus från joniserat väte. LMC P3 utgör endast det tredje kända binära systemet där både en massiv stjärna och dess kollapsade följeslagare har påträffats inuti en bevarad supernovarest. Upptäckten ger astronomer unika möjligheter att studera hur massiva dubbelstjärnor överlever asymmetriska explosioner och gravitationella rekylkrafter."
+  },
+  "terms": [
+    {
+      "term": "supernova",
+      "explanation": "En gigantisk stjärnexplosion som inträffar när en massiv stjärna når slutet av sitt liv."
+    },
+    {
+      "term": "neutronstjärna",
+      "explanation": "En extremt tät rest av en kollapsad stjärna, bestående nästan uteslutande av neutroner."
+    },
+    {
+      "term": "svart hål",
+      "explanation": "En koncentration av massa med så stark gravitation att inte ens ljus kan ta sig ut."
+    },
+    {
+      "term": "binärt stjärnsystem",
+      "explanation": "Ett system där två stjärnor eller kompakta objekt kretsar kring en gemensam tyngdpunkt."
+    },
+    {
+      "term": "supernovarest",
+      "explanation": "Ett expanderande moln av gas och rymdstoft som kastats ut under en supernovaexplosion."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine two stellar friends dancing together in space. Suddenly, one of them blows up in a giant blast called a supernova!\n\nSurprisingly, the companion star survived the gigantic blast, just like dodging a massive water balloon fight without getting soaked. The leftover piece of the exploded star shrank into a tiny but super heavy object. It is so hungry that it now sips gas away from its partner. The purple glow shows where this wild space drama is taking place.",
+      "nyborjare": "This vibrant image captures LMC P3, observed by the Chandra X-ray Observatory in 2016. It shows the turbulent aftermath of a massive star dying in a supernova blast. Remarkably, the companion star managed to survive the violent explosion.\n\nToday, the pair forms a binary star system orbiting each other closely. The exploded star collapsed into an ultradense neutron star or a black hole. This compact object exerts such powerful gravity that it siphons away material from its massive partner.\n\nX-rays from this feeding frenzy glow bright purple in the center. Surrounding the pair, a glowing supernova remnant made of ionized hydrogen shines in brilliant yellow and cyan against the dark background.",
+      "entusiast": "Released in 2016, this composite image of LMC P3 merges X-ray data from Chandra with optical observations from the MCELS survey and DSS. The system resides inside the supernova remnant DEM L241 in the Large Magellanic Cloud, roughly 163,000 light-years away.\n\nChandra detected a point-like X-ray source aligned with a massive O-type star, establishing this system as a rare gamma-ray binary that survived a core-collapse supernova. When the primary star detonated, its core collapsed into a compact object—either an energetic neutron star or a black hole. Orbiting tightly, this compact remnant pulls matter from the intense stellar wind of its companion, heating the infalling gas to millions of degrees.\n\nThe expanding supernova remnant is visible in optical emission from ionized hydrogen, outlining the shock waves driving into the interstellar medium. LMC P3 represents only the third known binary system containing both a massive star and a compact object within a visible supernova remnant, offering crucial empirical constraints on binary evolution and supernova kick velocities."
+    },
+    "terms": [
+      {
+        "term": "supernova",
+        "explanation": "A catastrophic explosion marking the final evolutionary stage of a massive star."
+      },
+      {
+        "term": "neutron star",
+        "explanation": "An extremely dense stellar remnant created from the collapsed core of a massive star."
+      },
+      {
+        "term": "black hole",
+        "explanation": "A region of spacetime with gravity so extreme that nothing can escape it."
+      },
+      {
+        "term": "binary star system",
+        "explanation": "A pair of gravitationally bound stars or compact objects orbiting a common center."
+      },
+      {
+        "term": "supernova remnant",
+        "explanation": "An expanding diffuse structure of ejected stellar material and shock-heated interstellar gas."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What can form at the core after a massive stellar explosion?",
+        "options": [
+          "A neutron star or a black hole",
+          "A newly formed gas giant planet",
+          "An empty cavity containing no matter"
+        ],
+        "correct": 0,
+        "fact": "When a massive star explodes as a supernova, its core collapses into either an ultradense neutron star or a black hole."
+      },
+      {
+        "q": "What often happens to gas in a tight binary star system?",
+        "options": [
+          "It immediately freezes into solid ice",
+          "The compact object can pull matter in",
+          "It permanently vanishes from the universe"
+        ],
+        "correct": 1,
+        "fact": "If the bodies are close enough, intense gravity from the compact companion pulls gas away from the donor star."
+      },
+      {
+        "q": "Where in the cosmos is the object LMC P3 located?",
+        "options": [
+          "Within our solar system's distant cometary reservoir",
+          "At the dense core of our Milky Way",
+          "In the satellite galaxy Large Magellanic Cloud"
+        ],
+        "correct": 2,
+        "fact": "LMC stands for the Large Magellanic Cloud, a dwarf satellite galaxy orbiting the Milky Way roughly 160,000 light-years away."
+      }
+    ]
+  }
+}

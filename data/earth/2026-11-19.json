@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-19",
+  "title": "El Niño Rains Paint the Atacama",
+  "title_sv": "Regn från El Niño färgar Atacamaöknen",
+  "place": "Atacamaöknen, Chile",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+  "w": 480,
+  "h": 404,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAiEAACAQMDBQEAAAAAAAAAAAABAhEAAyEEEjEiQVFhgRT/xAAYAQACAwAAAAAAAAAAAAAAAAACAwAEBf/EABcRAQEBAQAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/AMbVx0G5AsZ9GrNMqnTDaZbgzTGTohhmKVDW2kEAHBUZ+1nbqzmAvswUqDDn33pK2WZVv8ZgiOaW63P0mVlTyYNXBi2mgHawJIouJFDN05EilswBIIx2ihdiEwfFFdxaHylwVQ3UKOWD4JmGNEuo3hFQKDEMfJrrZV/tJ0wG2IxTAx//2Q==",
+  "levels": {
+    "barn": "Titta på öknen som plötsligt har fått vackra färger. Vanligtvis är marken här i Atacamaöknen torr och brun, men nu syns stora fält i purpurrött, grönt och vitt.\n\nDet beror på att det har regnat ovanligt mycket. Frön som har legat och sovit torrt nere i sanden har vaknat till liv. När vattnet kom började miljontals blommor att slå ut samtidigt. Från rymden ser öknen ut som en enorm, färgsprakande matta full av vilda blommor.",
+    "nyborjare": "Satellitbilderna visar Atacamaöknen i norra Chile, en av världens torraste platser, förvandlad till en färgsprakande blomsteräng. De purpurröda områdena i landskapet består av massiva fält av blomman pata de guanaco, medan de gröna och vita partierna utgörs av arten suspiros.\n\nDetta naturfenomen kallas desierto florido, eller den blommande öknen. Det utlöstes av ett kraftigt El Niño-väder som förde med sig ovanligt mycket regn och sällsynt snö under vintern. Vädersystemen matades av en atmosfärisk flod, vilket fick frön som legat vilande i marken att gro. Forskare konstaterar att blomningen under våren 2026 är en av de mest omfattande och långvariga som någonsin har observerats från rymden.",
+    "entusiast": "Bilderna är tagna med instrumentet Operational Land Imager (OLI) ombord på satelliterna Landsat 8 och Landsat 9. De visar ökenlandskapet sydväst om Copiapó under två olika faser av blomningen i september och oktober 2026. Sensorn mäter reflekterat solljus i synliga och infraröda våglängder, vilket gör det möjligt att särskilja olika växtarter och följa deras utbredning över tid.\n\nI septemberbilden framträder gröna områden med vita inslag som domineras av klockliknande blommor i släktet Nolana. I oktober har landskapet i stället färgats kraftigt purpurrött av enorma bestånd av Cistanthe. Denna ovanligt kraftiga desierto florido möjliggjordes av ett förstärkt El Niño-tillstånd i Stilla havet. Fenomenet försvagade det subtropiska högtryck som normalt håller öknen torr, samtidigt som stormbanor styrdes norrut. Tillsammans med en fukttransporterande atmosfärisk flod gav detta kraftiga vinterregn och sällsynt snö.\n\nForskare vid Pontificia Universidad Católica de Valparaíso kombinerar satellitobservationerna med drönardata och markfotografering för att kartlägga den biologiska mångfalden, vilket ger ett viktigt underlag för regional naturvård och markplanering."
+  },
+  "terms": [
+    {
+      "term": "El Niño",
+      "explanation": "Ett återkommande klimatfenomen i Stilla havet som förändrar atmosfärens cirkulation och påverkar vädermönster över hela jorden."
+    },
+    {
+      "term": "desierto florido",
+      "explanation": "Ett fenomen i Atacamaöknen där sällsynt och riklig nederbörd väcker vilande frön så att öknen plötsligt blommar."
+    },
+    {
+      "term": "atmosfärisk flod",
+      "explanation": "Ett långsmalt band i atmosfären som transporterar väldiga mängder vattenånga från tropikerna in över land."
+    },
+    {
+      "term": "Operational Land Imager",
+      "explanation": "Ett optiskt satellitinstrument på Landsat som fotograferar jordens yta i synligt och infrarött ljus."
+    },
+    {
+      "term": "Cistanthe",
+      "explanation": "Ett torktåligt växtsläkte vars purpurröda blommor täcker stora delar av Atacamaöknen efter ovanliga regnperioder."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at the desert covered in bright colors! Usually, the Atacama Desert is dry, dusty, and brown. But in this view, large patches of red-purple, green, and white spread across the ground.\n\nThis happened because unusual winter rains soaked the dry soil. Seeds that had been sleeping quietly under the sand for years woke up and sprouted. Millions of wildflowers opened their petals at once, making the desert look like a giant painted garden from space.",
+      "nyborjare": "Satellite images capture the Atacama Desert in northern Chile, normally one of the driest places on Earth, bursting into vibrant life. The vivid red-purple patches show vast blankets of flowers called pata de guanaco, while green areas dotted with white reveal blooms of suspiros.\n\nThis spectacular event is known as the desierto florido, or flowering desert. It was triggered by an El Niño climate pattern, which weakened regional dry weather systems and directed an atmospheric river toward the desert. The resulting winter storms brought heavy rainfall and rare snow, coaxing dormant seeds to life. Scientists consider this 2026 bloom to be the most extensive, intense, and long-lasting event documented in the satellite era.",
+      "entusiast": "These scenes were captured by the Operational Land Imager (OLI) aboard the Landsat 8 and Landsat 9 satellites in September and October 2026. By observing reflected visible and infrared wavelengths, OLI enables researchers to map rapid changes in desert vegetation against the barren landscape southwest of Copiapó.\n\nThe September view reveals hillsides covered in green and white Nolana flowers, while the October scene highlights sprawling swaths of red-purple Cistanthe. The event was driven by a developing El Niño in the tropical Pacific. The climate pattern weakened the subtropical high-pressure system that typically shields the Atacama from moisture, while a blocking high pushed storm tracks equatorward. Fed by an atmospheric river, these storms delivered decades-high precipitation and rare snowfall.\n\nResearchers from Pontificia Universidad Católica de Valparaíso are pairing Landsat observations with drone surveys and field imagery to track biodiversity changes across space and time, providing vital data for regional conservation and land-use management."
+    },
+    "terms": [
+      {
+        "term": "El Niño",
+        "explanation": "A recurring climate pattern in the tropical Pacific that alters atmospheric circulation and drives regional weather extremes globally."
+      },
+      {
+        "term": "desierto florido",
+        "explanation": "A rare natural phenomenon in the Atacama Desert where unusual rainfall triggers massive, colorful wildflower blooms."
+      },
+      {
+        "term": "atmospheric river",
+        "explanation": "A narrow corridor of concentrated water vapor in the atmosphere that transports moisture from the tropics toward higher latitudes."
+      },
+      {
+        "term": "Operational Land Imager",
+        "explanation": "A multispectral sensor aboard Landsat satellites used to observe land cover, vegetation, and surface environmental changes."
+      },
+      {
+        "term": "Cistanthe",
+        "explanation": "A genus of flowering desert plants known for producing vast carpets of bright red-purple blooms after rainfall."
+      }
+    ],
+    "place": "Atacama Desert, Chile"
+  }
+}
