@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-20",
+  "title": "Lake Pelku",
+  "title_sv": "Sjön Pelku Tso från rymden",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
+  "link": "https://www.nasa.gov/image-detail/iss075e0267074/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/iss075e0267074/",
+  "px": [
+    1600,
+    736
+  ],
+  "w": 480,
+  "h": 221,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAOACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBP/EACIQAAIBBAEFAQEAAAAAAAAAAAECAwAEESESBRMUMUFxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQADAQAAAAAAAAAAAAAAAAABEVES/9oADAMBAAIRAxEAPwDMbaJ5VO+JXOF3umtAlumY4gw2SSd4qZF1dwgIiX3j38oDfueUjPIORBCqdDBrPOrazDGfHPfZFhXfIEA063HTeMx8nuJMwZSFxxwPVR4oJb5mPcCjGhjX8+UdrZh0VEbDEE5Izj8oRGv/2Q==",
+  "quiz": [
+    {
+      "q": "Hur bildas bergskedjan Himalaya geologiskt?",
+      "options": [
+        "Genom forntida vulkanutbrott längs en spricka",
+        "När två tektoniska plattor kolliderar långsamt",
+        "Genom att glaciärer gröper ur djupa dalar"
+      ],
+      "correct": 1,
+      "fact": "Himalaya reser sig när den indiska kontinentalplattan trycks in under den eurasiska plattan."
+    },
+    {
+      "q": "Varför är sjöar på högplatåer ofta endorheiska, alltså utan utlopp?",
+      "options": [
+        "Vattnet dunstar snabbare än det hinner rinna bort",
+        "Berggrunden absorberar allt vatten underifrån omedelbart",
+        "Omgivande berg stänger inne vattnet i sänkor"
+      ],
+      "correct": 2,
+      "fact": "Topografin bildar slutna bassänger där smältvatten samlas utan någon naturlig väg ut till havet."
+    },
+    {
+      "q": "Ungefär hur högt ovanför jorden kretsar rymdstationen ISS vanligen?",
+      "options": [
+        "Cirka 100 kilometer",
+        "Cirka 400 kilometer",
+        "Cirka 1 000 kilometer"
+      ],
+      "correct": 1,
+      "fact": "Internationella rymdstationen kretsar i låg omloppsbana på omkring 400 kilometers höjd."
+    }
+  ],
+  "levels": {
+    "barn": "Titta ner på jorden från rymden! Här syns vita, snötäckta bergstoppar som sticker upp som vispgrädde på en tårta. Det är de väldiga Himalayabergen. Mitt bland de kalla bergen och den bruna marken ligger en stor, mörkblå sjö som heter Pelku Tso. Astronauter ombord på rymdstationen tog den här bilden genom sitt fönster när de susade förbi högt uppe i rymden.",
+    "nyborjare": "Från Internationella rymdstationen ser jorden ofta ut som en levande karta. Den här vyn visar sjön Pelku Tso på den tibetanska högplatån, alldeles intill de snöklädda bergstopparna i Himalaya nära gränsen mot Nepal. På mer än 4 500 meters höjd över havet ligger sjön inbäddad i ett kargt och bergigt landskap. Himalaya har formats under miljontals år då den indiska kontinentalplattan pressats norrut och kolliderat med Asien. För astronauterna erbjuder omloppsbanan ett unikt perspektiv på hur glaciärer och smältvatten formar vår planets geologi.",
+    "entusiast": "Fotografiet från Internationella rymdstationen fångar sjön Pelku Tso, belägen på cirka 4 590 meters höjd på den tibetanska högplatån strax norr om Himalaya. Denna region präglas av aktiv orogenes, orsakad av kollisionen mellan den indiska och den eurasiska kontinentalplattan, vilket fortlöpande lyfter bergskedjan och skapar dramatiska topografiska barriärer.\n\nPelku Tso är en endorheisk sjö, vilket innebär att den saknar utlopp mot havet. Vattnet härrör huvudsakligen från glaciärsmälta och lokal nederbörd, och vattenbalansen regleras genom avdunstning. På grund av detta ackumuleras mineraler, vilket gör att sjön gradvis blir mer salthaltig. Från låg omloppsbana, omkring 400 kilometer över jordytan, fungerar astronautfotografering som ett kraftfullt verktyg för att övervaka glaciärers tillbakadragande, förändringar i sjövolym och hydrologiska processer i klimatkänsliga alpina ekosystem."
+  },
+  "terms": [
+    {
+      "term": "kontinentalplatta",
+      "explanation": "Ett stort stycke av jordskorpan som rör sig långsamt över manteln."
+    },
+    {
+      "term": "orogenes",
+      "explanation": "Den geologiska process genom vilken bergskedjor bildas genom tektonisk aktivitet."
+    },
+    {
+      "term": "endorheisk",
+      "explanation": "Ett slutet vattensystem eller en sjö som saknar utflöde till havet."
+    },
+    {
+      "term": "låg omloppsbana",
+      "explanation": "En rymdbana runt jorden på en höjd mellan ungefär 160 och 2 000 kilometer."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look down at Earth from space! You can see sharp, snowy mountaintops that look like whipped cream on a giant cake. These are the mighty Himalayas. Nestled among the rocky brown land is a deep blue lake called Lake Pelku. Astronauts living aboard the space station took this photo through their window as they zoomed high above the world.",
+      "nyborjare": "From the International Space Station, Earth looks like a living map. This image captures Lake Pelku on the Tibetan Plateau, right beside the snow-dusted peaks of the Himalayas near Nepal. Sitting at an elevation of over 4,500 meters, the lake is tucked into a rugged landscape. The surrounding mountains formed over millions of years as the Indian tectonic plate collided with Asia. For astronauts in orbit, this vantage point offers an incredible look at how glaciers and melting snow shape the geology of our planet.",
+      "entusiast": "Captured from the International Space Station, this view highlights Lake Pelku, situated at roughly 4,590 meters on the Tibetan Plateau just north of the Great Himalayas. The region exemplifies ongoing orogeny driven by the collision of the Indian and Eurasian tectonic plates, which steadily elevates the range and produces extreme topographic relief.\n\nLake Pelku is an endorheic lake, meaning it has no outflow to the ocean. Fed largely by glacial meltwater and seasonal precipitation, its water balance is maintained primarily by evaporation, which gradually concentrates dissolved minerals. From low Earth orbit, approximately 400 kilometers up, astronaut photography serves as a valuable tool for tracking glacial retreat, fluctuating lake levels, and hydrologic shifts in sensitive alpine ecosystems."
+    },
+    "terms": [
+      {
+        "term": "tectonic plate",
+        "explanation": "A massive, moving slab of rock that makes up Earth's outer crust."
+      },
+      {
+        "term": "orogeny",
+        "explanation": "The geological process by which mountains are formed through tectonic collision."
+      },
+      {
+        "term": "endorheic",
+        "explanation": "A closed drainage basin or lake that retains water without sea outflow."
+      },
+      {
+        "term": "low Earth orbit",
+        "explanation": "An orbital path around Earth ranging from roughly 160 to 2,000 kilometers."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "How does the Himalayan mountain range geologically form?",
+        "options": [
+          "Through ancient volcanic eruptions along a continental rift",
+          "When two tectonic plates collide very slowly",
+          "Through deep glacial erosion carving massive bedrock valleys"
+        ],
+        "correct": 1,
+        "fact": "The Himalayas rise as the Indian tectonic plate pushes continuously into the Eurasian plate."
+      },
+      {
+        "q": "Why are high plateau lakes frequently endorheic, lacking outlets?",
+        "options": [
+          "Surface water evaporates faster than rivers can flow",
+          "Underlying bedrock immediately absorbs all accumulated surface moisture",
+          "Surrounding mountain ranges trap drainage in closed basins"
+        ],
+        "correct": 2,
+        "fact": "Topography creates closed basins where glacial runoff gathers with no natural exit to the sea."
+      },
+      {
+        "q": "Around what altitude does the International Space Station orbit?",
+        "options": [
+          "About 100 kilometers",
+          "About 400 kilometers",
+          "About 1,000 kilometers"
+        ],
+        "correct": 1,
+        "fact": "The International Space Station flies in low Earth orbit at an altitude of roughly 400 kilometers."
+      }
+    ]
+  }
+}

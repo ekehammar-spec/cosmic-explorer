@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-20",
+  "title": "The Stormy Southwest Pacific",
+  "title_sv": "Stormigt i sydvästra Stilla havet",
+  "place": "Sydvästra Stilla havet",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAkEAABAwMDBAMAAAAAAAAAAAABAAIDBBFBEiExBSJhgVGR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwC1V0rZiQ5wB8t1XTYOmB0NnxtmGLtA/FNd2StedwDc+PJVGlm1kl5GPpKcJpoqWK4bwd2829JHUukw1UIdTsbGXWIdbgDCuzMbJsW3BykNpyHPIIDBwMLKTpSe+1twcLVHJqYWkYBvf5Qhagd4mcyIDc+1ou0kX3whCC//2Q==",
+  "levels": {
+    "barn": "På bilden syns en gigantisk vit virvel av moln mot det mörkblå havet. Det är en väldig storm som kallas tropisk cyklon. I mitten ser man en liten rund öppning som kallas stormens öga.\\n\\nStormen har fått namnet Xavier. Den bildades över varmt havsvatten i Stilla havet och snurrade upp kraftiga vindar. När stormen drog förbi några öar blåste tak sönder och strömmen försvann, men sedan tappade den lyckligtvis fart när luften runt omkring blev torrare.",
+    "nyborjare": "Satellitbilden visar den tropiska cyklonen Xavier som en mäktig, roterande spiral av vita moln över det djupblå Stilla havet. Runt det tydliga ögat i mitten virvlar de allra kraftigaste vindarna.\\n\\nBilden togs av satelliten Aqua i november 2026 när stormen rörde sig nära Cooköarna. En tropisk cyklon fungerar som en gigantisk värmemotor som drivs av fukt från varma hav. Xavier växte ovanligt snabbt tack vare havsvattentemperaturer på 29 grader Celsius och svaga vindar i de övre luftlagren. Det varma vattnet hängde ihop med väderfenomenet El Niño, som förskjuter stormaktiviteten österut. Xavier nådde vindstyrkor på 220 kilometer i timmen och orsakade skador på hus och elnät innan torrare luft bromsade ovädret.",
+    "entusiast": "Den här satellitbilden i naturliga färger togs den 17 november 2026 av spektroradiometern MODIS ombord på NASA:s satellit Aqua. Vyn fångar den tropiska cyklonen Xavier i sydvästra Stilla havet nära Cooköarna. MODIS samlar in mätdata i 36 spektrala band, från synligt ljus till termiskt infrarött, vilket gör det möjligt att i detalj kartlägga molntopparnas struktur, stormens centrala öga och havets yttemperatur.\\n\\nVid fototillfället uppmättes vindhastigheter på cirka 195 kilometer i timmen, och stormen kulminerade kort därefter med 220 kilometer i timmen. Det gjorde Xavier till en kategori 5-cyklon enligt den regionala skalan, och den starkaste novemberstorm som någonsin registrerats öster om datumgränsen. Systemet fick sin explosiva kraft från havstemperaturer på 29 grader Celsius i kombination med minimal vindskjuvning, vilket innebär att vindarna på olika höjder inte slet sönder virveln.\\n\\nSatellitdata visade att Xavier utvecklades längs utkanten av ett massivt band med varmt ytvatten som sträckte sig från Sydamerikas västkust. Detta var en tydlig signatur för klimatfenomenet El Niño, som under säsongen förskjuter stormaktiviteten mot nordost och ökar sannolikheten för snabbt tilltagande cykloner. Efter att ha skadat byggnader och infrastruktur på norra Cooköarna mötte stormen torrare luftmassor och försvagades gradvis."
+  },
+  "terms": [
+    {
+      "term": "tropisk cyklon",
+      "explanation": "Ett kraftigt roterande lågtryckssystem med åskväder som bildas över varma tropiska hav."
+    },
+    {
+      "term": "MODIS",
+      "explanation": "Ett vetenskapligt instrument på NASA:s satelliter som fotograferar jorden i 36 olika våglängdsband."
+    },
+    {
+      "term": "vindskjuvning",
+      "explanation": "Skillnader i vindens hastighet eller riktning på olika höjder i jordens atmosfär."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "Ett storskaligt klimatfenomen då ovanligt varmt ytvatten breder ut sig i centrala och östra Stilla havet."
+    },
+    {
+      "term": "datumgränsen",
+      "explanation": "En internationellt fastställd linje i Stilla havet där kalenderdatumet slår om till nästa dag."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The image shows a giant white spiral of clouds over the dark blue ocean. It is a powerful storm called a tropical cyclone. In the center, there is a small round opening known as the eye of the storm.\n\nThis storm was named Xavier. It formed over warm ocean waters in the Pacific and whipped up fierce winds. As Xavier passed near some islands, it damaged roofs and knocked out power, but it later weakened as the surrounding air became drier.",
+      "nyborjare": "This satellite image shows Tropical Cyclone Xavier as a powerful spiral of white clouds over the deep blue South Pacific. Around the clear central eye, the strongest winds churn across the sea.\n\nNASA's Aqua satellite captured the storm in November 2026 near the Cook Islands. A tropical cyclone acts like a giant heat engine fueled by moisture rising from warm ocean water. Xavier intensified rapidly due to sea surface temperatures of 29 degrees Celsius and light upper-level winds. This warm water was linked to El Niño, a climate pattern that shifts storm activity further eastward. Xavier produced winds reaching 220 kilometers per hour, damaging homes and power lines before encountering drier air that weakened the system.",
+      "entusiast": "Captured on November 17, 2026, by the MODIS instrument aboard NASA's Aqua satellite, this natural-color image shows Tropical Cyclone Xavier churning in the Southwest Pacific near the Cook Islands. MODIS observes Earth across 36 spectral bands, spanning visible to thermal infrared wavelengths, enabling scientists to evaluate cloud structure, eye symmetry, and underlying sea surface temperatures.\n\nAt the time of this image, Xavier generated winds of roughly 195 kilometers per hour, eventually peaking at 220 kilometers per hour. This made it a Category 5 system on the regional scale and the most intense November cyclone recorded east of the international date line. The storm rapidly intensified thanks to sea temperatures of 29 degrees Celsius and minimal vertical wind shear.\n\nSatellite data highlighted Xavier moving along the edge of a vast tongue of warm surface water extending from South America, a signature of an active El Niño. This climate phenomenon shifts tropical storm tracks eastward and promotes rapid intensification. After damaging infrastructure in the northern Cook Islands, Xavier encountered dry air and increased wind shear, gradually weakening as it moved west."
+    },
+    "terms": [
+      {
+        "term": "tropical cyclone",
+        "explanation": "A rapidly rotating storm system characterized by a low-pressure center and strong thunderstorms over warm oceans."
+      },
+      {
+        "term": "MODIS",
+        "explanation": "A key imaging instrument aboard NASA satellites that measures 36 spectral bands of light."
+      },
+      {
+        "term": "wind shear",
+        "explanation": "The variation in wind speed or direction at different altitudes in the atmosphere."
+      },
+      {
+        "term": "El Niño",
+        "explanation": "A recurring climate pattern involving unusual warming of surface waters in the central and eastern Pacific."
+      },
+      {
+        "term": "international date line",
+        "explanation": "An internationally recognized line in the Pacific Ocean where each new calendar day officially begins."
+      }
+    ],
+    "place": "Southwest Pacific Ocean"
+  }
+}
