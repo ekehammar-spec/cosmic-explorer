@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-20T12:12:00.130Z",
+ "updated": "2026-11-20T17:58:27.676Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-11-20T00:00:00Z",
+   "date": "2026-11-20T06:00:00Z",
    "title_sv": "Tropiska cyklonen Xavier",
    "title_en": "Tropical Cyclone Xavier",
    "where_sv": "Södra Stilla havet",
