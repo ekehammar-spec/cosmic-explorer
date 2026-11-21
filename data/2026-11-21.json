@@ -1,0 +1,131 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-21",
+  "title": "Voyager's Neptune",
+  "title_sv": "Voyagers Neptunus",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg?w=2327&h=1670&fit=clip",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+  "credit": "Assembly/Processing - Rolf Olsen, Data - Voyager 2, NASA Planetary Data System",
+  "taken": "1989",
+  "src": "apod",
+  "id": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+  "w": 480,
+  "h": 344,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAXACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDB//EAB4QAAIDAAEFAAAAAAAAAAAAAAECAAMRMQQSUWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDm+RkCbL01llJtqU2BTjBRpX76iUYRLat6wC6Fd40ZskwEquyyl+6p2RvKnDEQD2PYxax2djyWOmTEQP/Z",
+  "quiz": [
+    {
+      "q": "Vilken typ av planet klassificeras Neptunus som?",
+      "options": [
+        "En stenig jordlik planet",
+        "En isjätte",
+        "En ren gasjätte"
+      ],
+      "correct": 1,
+      "fact": "Neptunus och Uranus kallas isjättar eftersom deras inre till största del består av tyngre ämnen som vatten, ammoniak och metan."
+    },
+    {
+      "q": "Vad är speciellt med Neptunus största måne Triton?",
+      "options": [
+        "Den kretsar baklänges runt planeten",
+        "Den saknar helt gravitation",
+        "Den består uteslutande av flytande vatten"
+      ],
+      "correct": 0,
+      "fact": "Triton är den enda stora månen i solsystemet med en retrograd bana, vilket innebär att den rör sig i motsatt riktning mot planetens rotation."
+    },
+    {
+      "q": "Hur många rymdsonder har hittills besökt Neptunus?",
+      "options": [
+        "Tre stycken sonder",
+        "Två stycken sonder",
+        "Endast en enda rymdsond"
+      ],
+      "correct": 2,
+      "fact": "Voyager 2 är den enda rymdsond som någonsin har passerat och fotograferat Neptunus på nära håll."
+    }
+  ],
+  "levels": {
+    "barn": "Här ser du den blå planeten Neptunus och dess största måne Triton. Båda ser ut som lysande nymånar i rymden eftersom solen skiner på dem bakifrån. Neptunus ligger så långt bort från solen att det är iskallt och mörkt där. Planeten är som en gigantisk virvlande boll av gas och is. Runt planeten syns också tunna dammiga ringar. En modig robotbåt som heter Voyager 2 flög förbi och tog bilderna innan den fortsatte ut i den mörka rymden.",
+    "nyborjare": "År 1989 nådde rymdsonden Voyager 2 fram till Neptunus, solsystemets mest avlägsna stora planet. Det var första och hittills enda gången mänskligheten besökte denna kalla värld. Den här sammansatta bilden visar Neptunus och dess största måne Triton som tunna ljusskäror mot den stjärnfyllda rymden, sedda i motljus från solen. Runt planeten syns även dess svaga ringsystem. Neptunus är en isjätte vars tjocka atmosfär består av väte, helium och metan. Metangasen absorberar rött ljus och ger planeten dess djupt blå färg. På bilden syns molnband och stormvirvlar över sydpolen. Idag har Voyager 2 lämnat solsystemet och färdas i det interstellära rummet, men bilderna från passagen förblir historiska milstolpar.",
+    "entusiast": "Den 25 augusti 1989 genomförde rymdsonden Voyager 2 sin historiska närpassage av Neptunus på ett avstånd av knappt 5 000 kilometer över nordpolen. Denna kompositbild återskapar synfältet när sonden blickade tillbaka in mot solsystemets centrum, med både Neptunus och dess geologiskt aktiva måne Triton fångade som solbelysta skäror. Bilden visar detaljer i Neptunus dynamiska atmosfär, däribland cirrusliknande molnstrukturer och den mäktiga polarvirveln vid sydpolen. För första gången kunde även Neptunus svaga ringsystem fotograferas, inklusive de karakteristiska ringbågarna i Adams-ringen. Bakgrundens stjärnfält är baserat på data från stjärnbilden Giraffen (Camelopardalis), vilket motsvarar sondens faktiska siktlinje när den lämnade neptunussystemet bakom sig. Neptunus klassificeras som en isjätte med en mantel av vatten, ammoniak och metanis under ett tjockt gashölje. Idag färdas Voyager 2 genom det interstellära rummet bortom heliopausen som ett av mänsklighetens mest avlägsna sändebud."
+  },
+  "terms": [
+    {
+      "term": "isjätte",
+      "explanation": "En planet som till största delen består av tyngre ämnen som vatten, ammoniak och metan under ett gashölje."
+    },
+    {
+      "term": "ringsystem",
+      "explanation": "En skiva av stoft, grus och ispartiklar som kretsar kring en himlakropp."
+    },
+    {
+      "term": "interstellära rummet",
+      "explanation": "Rymdområdet mellan stjärnorna i en galax, utanför stjärnornas dominerande solvindar."
+    },
+    {
+      "term": "heliopausen",
+      "explanation": "Den yttre gräns där solens utströmmande partikelvind möter det omgivande interstellära mediet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Here you can see the big blue planet Neptune and its largest moon, Triton. Both look like glowing crescent moons because the Sun is shining from behind them. Neptune is so far away from the Sun that it is freezing cold and dark. The planet is like a gigantic spinning ball made of gas and ice. You can also spot faint rings around it. A brave robotic explorer called Voyager 2 took these pictures before sailing out into deep space.",
+      "nyborjare": "In 1989, the Voyager 2 spacecraft reached Neptune, the outermost major planet in our solar system. It was the first and so far only time humanity has visited this distant world. This composite scene captures Neptune and its largest moon, Triton, as delicate sunlit crescents set against a starry backdrop, looking back toward the inner solar system. Faint rings are also visible circling the planet. Neptune is an ice giant with a thick atmosphere of hydrogen, helium, and methane. The methane absorbs red light, giving the planet its vivid blue hue. High clouds and polar vortices mark its dynamic weather. Today, Voyager 2 has left the solar system and travels through interstellar space, but its historic pictures continue to inspire.",
+      "entusiast": "On August 25, 1989, the Voyager 2 spacecraft made its closest approach to Neptune, skimming just 5,000 kilometers above the planet's northern cloud tops. This composite view reconstructs the perspective looking back toward the Sun as the probe departed, capturing both Neptune and its retrograde moon Triton as razor-thin crescents. The image reveals high-altitude cirrus clouds and a dark polar vortex hovering above Neptune's south pole. Voyager also provided the first direct imaging of Neptune's tenuous ring system, including the prominent ring arcs within the outermost Adams ring. The background starfield is composed from survey data centered on Camelopardalis, representing Voyager's outward line of sight. Classified as an ice giant, Neptune contains a slushy mantle of water, ammonia, and methane ices over a rocky core. Voyager 2 is now cruising through interstellar space beyond the heliopause."
+    },
+    "terms": [
+      {
+        "term": "ice giant",
+        "explanation": "A giant planet composed mainly of elements heavier than hydrogen and helium, such as water, ammonia, and methane."
+      },
+      {
+        "term": "ring system",
+        "explanation": "A disc of dust, rock, and ice particles orbiting around an astronomical body."
+      },
+      {
+        "term": "interstellar space",
+        "explanation": "The physical space within a galaxy that exists beyond the direct influence of a star's stellar wind."
+      },
+      {
+        "term": "heliopause",
+        "explanation": "The boundary where the solar wind is slowed and stopped by the interstellar medium."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What type of planet is Neptune classified as?",
+        "options": [
+          "A rocky terrestrial planet",
+          "An ice giant",
+          "A pure gas giant"
+        ],
+        "correct": 1,
+        "fact": "Neptune and Uranus are classified as ice giants because their interiors are dominated by heavier elements like water, ammonia, and methane."
+      },
+      {
+        "q": "What is unusual about Neptune's largest moon Triton?",
+        "options": [
+          "It orbits in a retrograde direction",
+          "It completely lacks gravity",
+          "It is composed entirely of liquid water"
+        ],
+        "correct": 0,
+        "fact": "Triton is the only large moon in the Solar System that orbits in the opposite direction of its planet's rotation."
+      },
+      {
+        "q": "How many spacecraft have visited Neptune so far?",
+        "options": [
+          "Three spacecraft",
+          "Two spacecraft",
+          "Only one spacecraft"
+        ],
+        "correct": 2,
+        "fact": "Voyager 2 is the only spacecraft to have ever visited and closely photographed Neptune."
+      }
+    ]
+  }
+}

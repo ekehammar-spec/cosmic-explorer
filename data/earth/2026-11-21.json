@@ -1,0 +1,81 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-21",
+  "title": "Extensive Ice Fractures in the Beaufort Sea",
+  "title_sv": "Omfattande sprickor i havsisen i Beauforthavet",
+  "place": "Beauforthavet, Arktis",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001525/GSFC_20171208_Archive_e001525~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001525/GSFC_20171208_Archive_e001525~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001525/GSFC_20171208_Archive_e001525~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001525",
+  "credit": "NASA Earth Observatory images by Jesse Allen using VIIRS day-night band data from the Suomi National Polar-orbiting Partnership",
+  "source": "NASA Earth Observatory images by Jesse Allen using VIIRS day-night band data from the Suomi National Polar-orbiting Partnership.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001525",
+  "archive": true,
+  "px": [
+    1920,
+    1440
+  ],
+  "w": 640,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDAAQREiExBUFRYROBkTL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AdsZWSd4QVGknLkZJ+q3xsVl0h2Ynuwoe3j+W6kcnljTMJhixk6nPc0CMalmBbt4o7rcLy2LRpPJA54dHx++qRgkVgQORWe+WORAJ8Yz/ADnmgHubdYSJGURyDOctt5/ayGeTZgFCHhuSfqqqgQj6rb2qDWxBbA1ttk0JeX1zLfSB8NGwDJIp3A8ejVVQf//Z",
+  "levels": {
+    "barn": "Titta på bilden från rymden! Det vita är tjock och kall havsis. De mörka ränderna som slingrar sig fram är sprickor i isen där öppet vatten syns.\n\nIsen i Arktis är inte ett enda helt lock, utan består av många flak som driver omkring. Vintern 2013 blåste starka vindar utanför Alaskas kust. Vinden och havsströmmarna slet och drog i isen så att stora sprickor bildades. Från det mörka vattnet steg lite varmare vattenånga upp som grå slöjor i luften.",
+    "nyborjare": "På satellitbilden från 2013 syns vidsträckt havsis utanför Alaskas norra kust i Beauforthavet. Det vita landskapet visar kall is, medan de mörka linjerna är sprickor med öppet, varmare havsvatten.\n\nArktis istäcke är inte en fast platta utan ett pussel av isflak som ständigt rör sig med vindar och strömmar. Under senvintern 2013 pressades isen av kraftiga vindar och havsströmmen Beaufortvirveln. Isen fastnade delvis mot udden Point Barrow och bröts isär i en bågformad våg av sprickor som spred sig över 1 000 kilometer österut mot Banksön. En orsak till att isen sprack sönder så lätt var att den till största delen bestod av tunn förstaårsis som bara hade hunnit frysa till under den senaste vintern.",
+    "entusiast": "Bilden registrerades i början av 2013 av instrumentet VIIRS ombord på satelliten Suomi NPP. Den är skapad med hjälp av långvågigt infrarött ljus, alltså värmestrålning från jordytan. Kalla ytor med havsis återges i vitt, medan det varmare öppna vattnet i sprickorna framträder som mörka stråk. Ljusgrå slöjor nära sprickorna visar hur fuktig, varmare luft steg upp från havet och drev med vinden.\n\nSprickbildningen i Beauforthavet drevs av ett högtryck som förstärkte Beaufortvirveln, en medurs roterande havsström som drog isen västerut förbi Point Barrow. I februari förvärrade en serie stormar situationen. Västliga vindar slog upp sprickor som fortplantade sig runt 1 000 kilometer hela vägen till Banksön. Händelsen blev ovanligt omfattande eftersom området nästan uteslutande täcktes av förstaårsis. Denna säsongsis hade formats sedan september föregående år och var betydligt tunnare och svagare än äldre flerårsis, vilket gjorde den mer sårbar för vindarnas krafter."
+  },
+  "terms": [
+    {
+      "term": "Beaufortvirveln",
+      "explanation": "En vinddriven havsström i Arktis som roterar medurs och förflyttar havsis i Beauforthavet."
+    },
+    {
+      "term": "Förstaårsis",
+      "explanation": "Havsis som har bildats under den senaste vintersäsongen och därför är tunnare och svagare än äldre is."
+    },
+    {
+      "term": "VIIRS",
+      "explanation": "Ett radiometerinstrument på satelliten Suomi NPP som mäter synligt och infrarött ljus från jorden."
+    },
+    {
+      "term": "Suomi NPP",
+      "explanation": "En polärbanesatellit som drivs av NASA och NOAA för att observera jordens klimat och väder."
+    },
+    {
+      "term": "Långvågigt infrarött ljus",
+      "explanation": "Elektromagnetisk värmestrålning som satellitsensorer mäter för att bestämma temperaturer på jordytan och i haven."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Look at this view from space! The white areas are cold sea ice, and the dark lines running through it are cracks where open ocean water shows through.\n\nArctic sea ice is not one solid sheet, but many pieces floating together. In early 2013, strong winds and ocean currents pushed and pulled on the ice off the coast of Alaska. This caused long cracks to form across the frozen ocean, releasing warm air that looks like gray plumes.",
+      "nyborjare": "This satellite image from 2013 shows sea ice fracturing off the northern coast of Alaska in the Beaufort Sea. The white areas show cold ice, while the dark lines are fractures that expose warmer seawater.\n\nArctic sea ice is not a static sheet; it is a collection of shifting ice floes pushed by winds and ocean currents. In early 2013, strong winds fueled by storms and the circulating Beaufort Gyre pulled ice away from the coast. The ice caught on Point Barrow and cracked open in an arc-shaped wave that extended roughly 1,000 kilometers eastward toward Banks Island. The fracturing was exceptionally widespread because the area was covered almost entirely by fragile first-year ice rather than thicker, older ice.",
+      "entusiast": "Captured in early 2013 by the VIIRS instrument aboard the Suomi NPP satellite, this thermal image visualizes extensive sea-ice fracturing across the Beaufort Sea. Utilizing the longwave infrared spectrum, the sensor maps emitted heat: colder sea ice appears bright white, while exposed, warmer seawater appears dark. Faint gray plumes drifting downwind from the fractures mark warm, moist marine air escaping into the atmosphere.\n\nThe event was triggered when a high-pressure weather system strengthened the Beaufort Gyre, a clockwise ocean current that transported ice westward past Point Barrow. Throughout February, passing storms brought fierce westerly winds that propagated fractures across approximately 1,000 kilometers toward Banks Island. While seasonal fracturing is common in the Arctic, the scale of this event was extraordinary. The ice pack consisted almost entirely of first-year ice formed since the previous autumn. Because this seasonal ice is thinner and mechanically weaker than multi-year ice, it broke apart far more readily under wind and current stress."
+    },
+    "terms": [
+      {
+        "term": "Beaufort Gyre",
+        "explanation": "A wind-driven Arctic ocean current that rotates clockwise and transports sea ice."
+      },
+      {
+        "term": "First-year ice",
+        "explanation": "Sea ice that has grown over a single winter season, making it thinner and weaker than multi-year ice."
+      },
+      {
+        "term": "VIIRS",
+        "explanation": "An imaging radiometer aboard the Suomi NPP satellite that collects measurements in visible and infrared wavelengths."
+      },
+      {
+        "term": "Suomi NPP",
+        "explanation": "A polar-orbiting Earth-observing satellite operated collaboratively by NASA and NOAA."
+      },
+      {
+        "term": "Longwave infrared",
+        "explanation": "Thermal electromagnetic radiation emitted by Earth's surface and used by satellites to measure temperatures."
+      }
+    ],
+    "place": "Beaufort Sea, Arctic"
+  }
+}
