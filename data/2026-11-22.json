@@ -1,0 +1,143 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-22",
+  "title": "A Galactic Spectacle",
+  "title_sv": "Antenngalaxerna",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002059/GSFC_20171208_Archive_e002059~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002059/GSFC_20171208_Archive_e002059~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002059/GSFC_20171208_Archive_e002059~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002059",
+  "credit": "NASA/GSFC",
+  "taken": "2017",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e002059",
+  "px": [
+    1890,
+    1920
+  ],
+  "w": 630,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQMH/8QAJhAAAgEEAQMDBQAAAAAAAAAAAQIDAAQFERIhMUEGFFETFSJxof/EABYBAQEBAAAAAAAAAAAAAAAAAAECBP/EAB0RAAICAgMBAAAAAAAAAAAAAAABAiESMRFCUWH/2gAMAwEAAhEDEQA/AOeIpc6FPsNgfuHPm3EKu6U2qbY7qnx0M5ws0sSsBy0WDeK0Ol9CEcpbozN6UiSJWkdo/HbzUtfWL2dxJE/dDr91YW2SjmsGtPcrEFk5OZD1I+an89dQXM7PFJz2dAk7JA8mpSfYZcbiK1mHTXQ1UYTJe2gkRX/GRdMvyKjq3287Rt0P9ozcqZKSQdkiPrniNbpcw0d0TPIZNOx8UK7b7Vc3Vgl4f//Z",
+  "quiz": [
+    {
+      "q": "Vad händer när två stora galaxer kolliderar?",
+      "options": [
+        "Stjärnor krockar nästan aldrig på grund av avstånden",
+        "Alla stjärnor förstörs i enorma explosioner",
+        "Galaxerna studsar omedelbart bort från varandra igen"
+      ],
+      "correct": 0,
+      "fact": "Rymden är så tom att enskilda stjärnor i kolliderande galaxer passerar förbi varandra utan att krocka, medan gasmolnen pressas samman."
+    },
+    {
+      "q": "Vad bildas när massiva stjärnor dör i supernovor?",
+      "options": [
+        "Enbart nya planeter och asteroider",
+        "Neutronstjärnor och svarta hål",
+        "Tomma rum helt utan materia"
+      ],
+      "correct": 1,
+      "fact": "När tunga stjärnor får slut på bränsle och exploderar blir kärnan kvar som en neutronstjärna eller ett svart hål."
+    },
+    {
+      "q": "Hur långt bort från jorden ligger Antenngalaxerna?",
+      "options": [
+        "Cirka 62 miljoner ljusår",
+        "Endast 4,3 ljusår",
+        "Över 13 miljarder ljusår"
+      ],
+      "correct": 0,
+      "fact": "Antenngalaxerna befinner sig på ett avstånd av ungefär 62 miljoner ljusår från jorden i denna unika krock."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig två stora stjärnhopar som dansar med varandra och stöter ihop! När galaxerna krockar bildas nya stjärnor i stora moln av gas och damm. Krocken drar ut långa armar som ser ut precis som myrors spröt. Detta fantastiska rymdfoto skapades genom att flera olika teleskop fotograferade galaxerna mellan åren 1999 och 2005.",
+    "nyborjare": "Två magnifika galaxer är insyltade i en jättelik krock som startade för över 100 miljoner år sedan. Denna dramatiska sammanstötning har satt igång en intensiv bildning av nya stjärnor i stora moln av gas och stoft. När de mest massiva stjärnorna dör exploderar de som supernovor och sprider tunga grundämnen ut i rymden. Dessa ämnen kommer i framtiden att bli byggstenar till nya generationer av stjärnor och planeter. Det historiska sammansatta fotot togs av tre olika rymdteleskop mellan 1999 och 2005.",
+    "entusiast": "Antenngalaxerna, belägna cirka 62 miljoner ljusår från jorden, uppvisar ett av universums mest studerade växelverkande system. Krocken, som inleddes för mer än 100 miljoner år sedan, har genererat tidvattenkrafter som dragit ut de karakteristiska stjärnrika armarna. Observationer från Chandra X-ray Observatory visar utsträckt het interstellar gas berikad av supernovaexplosioner med element som syre, järn, magnesium och kisel. Hubbleteleskopet urskiljer stjärnbildande regioner i guld och vitt samt mörka stoftfilament, medan Spitzer Space Telescope påvisar infraröd strålning från varmt stoft. Källorna med högst röntgenluminositet utgörs av materia som ackreteras av svarta hål och neutronstjärnor. Detta unika sammansatta flervåglängdsfoto togs mellan december 1999 och februari 2005 med hjälp av NASA:s stora observatorier."
+  },
+  "terms": [
+    {
+      "term": "galax",
+      "explanation": "Ett enormt system i rymden som binder samman miljarder stjärnor, gas, stoft och mörk materia med gravitation."
+    },
+    {
+      "term": "supernova",
+      "explanation": "En oerhört kraftfull och ljusstark explosion som inträffar när en tung stjärna har nått slutet av sitt liv."
+    },
+    {
+      "term": "interstellar",
+      "explanation": "Något som befinner sig i rymden mellan stjärnorna inne i en galax."
+    },
+    {
+      "term": "svart hål",
+      "explanation": "Ett rymdområde med så extremt stark gravitation att ingenting, inte ens ljuset, kan ta sig ut därifrån."
+    },
+    {
+      "term": "neutronstjärna",
+      "explanation": "En otroligt kompakt rest av en massiv stjärna som exploderat, där materien är packad med en enorm densitet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine two large star clusters dancing together and bumping into each other! When galaxies crash, new stars form inside giant clouds of gas and dust. The crash pulls out long arms that look just like tiny antennae. This fantastic space image was created when several different telescopes photographed the galaxies between 1999 and 2005.",
+      "nyborjare": "Two magnificent galaxies are locked in a gigantic collision that started over 100 million years ago. This dramatic encounter has triggered the rapid formation of new stars inside massive clouds of gas and dust. When the most massive stars die, they explode as supernovas and scatter heavy chemical elements out into space. These elements will eventually become building blocks for new generations of stars and planets. This historical composite image was captured by three different space telescopes between 1999 and 2005.",
+      "entusiast": "The Antennae galaxies, located about 62 million light-years from Earth, represent one of the universe's most studied interacting systems. The collision, which began more than 100 million years ago, has generated tidal forces that pulled out characteristic star-rich arms. Observations from the Chandra X-ray Observatory reveal extended hot interstellar gas enriched by supernova explosions with elements such as oxygen, iron, magnesium, and silicon. The Hubble Space Telescope resolves star-forming regions in gold and white along with dark dust filaments, while the Spitzer Space Telescope detects infrared emission from warm dust. The brightest point-like X-ray sources consist of matter being accreted onto black holes and neutron stars. This unique multi-wavelength composite image was taken between December 1999 and February 2005 using NASA's Great Observatories."
+    },
+    "terms": [
+      {
+        "term": "galaxy",
+        "explanation": "A massive system in space that binds together billions of stars, gas, dust, and dark matter through gravity."
+      },
+      {
+        "term": "supernova",
+        "explanation": "An extremely powerful and luminous stellar explosion that occurs when a massive star reaches the end of its life."
+      },
+      {
+        "term": "interstellar",
+        "explanation": "Referring to the physical space located between the stars within a galaxy."
+      },
+      {
+        "term": "black hole",
+        "explanation": "A region of spacetime with gravity so intense that nothing, not even light, can escape from it."
+      },
+      {
+        "term": "neutron star",
+        "explanation": "The incredibly dense collapsed core of a massive star that has ended its life in a supernova explosion."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What happens when two large galaxies collide?",
+        "options": [
+          "Stars almost never collide due to vast distances",
+          "All stars are instantly destroyed in massive explosions",
+          "The galaxies immediately bounce away from each other"
+        ],
+        "correct": 0,
+        "fact": "Space is so vast that individual stars in colliding galaxies pass right by each other without hitting, while gas clouds are compressed."
+      },
+      {
+        "q": "What is formed when massive stars die in supernovas?",
+        "options": [
+          "Only new planets and asteroids",
+          "Neutron stars and black holes",
+          "Empty space completely devoid of matter"
+        ],
+        "correct": 1,
+        "fact": "When heavy stars run out of fuel and explode, their core remains as either a neutron star or a black hole."
+      },
+      {
+        "q": "How far away from Earth are the Antennae galaxies?",
+        "options": [
+          "About 62 million light-years",
+          "Only 4.3 light-years",
+          "Over 13 billion light-years"
+        ],
+        "correct": 0,
+        "fact": "The Antennae galaxies are located at a distance of approximately 62 million light-years from Earth in this unique collision."
+      }
+    ]
+  }
+}

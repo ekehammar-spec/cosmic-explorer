@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-22",
+  "title": "Pyroclastic Flow Remnants at Shiveluch Volcano",
+  "title_sv": "Pyroklastiska flödesrester vid vulkanen Sjevelutj",
+  "place": "Ryssland",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001952/GSFC_20171208_Archive_e001952~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001952/GSFC_20171208_Archive_e001952~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001952/GSFC_20171208_Archive_e001952~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001952",
+  "credit": "NASA Earth Observatory image by Robert Simmon, using data from the NASA/GSFC/METI/ERSDAC/JAROS, and U",
+  "source": "NASA Earth Observatory image by Robert Simmon, using data from the NASA/GSFC/METI/ERSDAC/JAROS, and U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e001952",
+  "archive": true,
+  "px": [
+    1878,
+    1919
+  ],
+  "w": 626,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB8DASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgH/xAAiEAACAQMEAwEBAAAAAAAAAAABAgMAEUEEBRIxEyFhI8H/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwAC/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAERIQIxQVH/2gAMAwEAAhEDEQA/AHIgrWubFerCnkkCgDr7UuCfoXAv1eu6+SQKI0ZLN6aRcD+0piy3HOri3f2iKES5BpLbtBJAl31XmGGtan+a6fsrY5NM+HJk9EHnIliXmoItiq8qvNCyiMLn0M1gJoGhYvAXNm9XNaXY99l8ATUfpbOaluizx6ino9zMbBZHV1PocTn7Qtw1rStx7Ud2FT9RDppHklgj8bOeRYE90FediGJDYOaFKo0I/9k=",
+  "levels": {
+    "barn": "Bilden visar en vulkan som heter Sjevelutj. Du ser mörka fläckar på de vita snöklädda sluttningarna. De mörka fläckarna är spår efter en het lavin av aska, gas och sten som rann nedför berget år 2011. Längst upp skjuter en liten rökpelare upp från vulkanens topp. Vegetation runt omkring ser mörkröd ut på den här speciella bilden. Som tur var skadades ingen människa när det här hände eftersom området var glest befolkat.",
+    "nyborjare": "Satellitbilden från den 25 februari 2011 visar sluttningarna av vulkanen Sjevelutj med mörka ytupplagringar som täcker mer än tio kvadratkilometer. Dessa mörka spår bildades av pyroklastiska flöden, vilket är snabba och extremt varma laviner av het aska, gas och sten. Flödena kan nå en temperatur på över 1 000 grader Celsius och en hastighet på upp till 720 kilometer i timmen. Ovanför flödesresterna syns ljusbrun aska som täcker snön, och en liten rökpelare stiger upp från vulkanens växande lavadom. Vegetation runt vulkanen syns i mörkrött.",
+    "entusiast": "Bilden är tagen i falska färger av instrumentet ASTER som sitter ombord på NASAs Terra-satellit. Den avancerade tekniken registrerade termisk strålning från ett stort pyroklastiskt flöde i samband med ett vulkanutbrott den 25 januari 2011. Instrumentet kunde detektera värmesignaturer från händelsen som exakt sammanfaller med de mörka ytupplagringar på över tio kvadratkilometer som syns i februari samma år. Den falska färgsättningen gör att vegetationen framträder i mörkrött, medan ljusbrun aska syns ovanför flödesresterna i snön tillsammans med en liten rökpelare från lavadomen. Dessa data är viktiga för forskare som studerar vulkaners beteende och de dödliga risker som är förknippade med superheta gaser och aska."
+  },
+  "terms": [
+    {
+      "term": "Pyroclastic flow",
+      "explanation": "En snabb lavin av superhet aska, gas och sten som rör sig nedför en vulkan."
+    },
+    {
+      "term": "ASTER",
+      "explanation": "Ett instrument på Terra-satelliten som används för att detektera termiska signaturer och skapa bilder."
+    },
+    {
+      "term": "Lavadom",
+      "explanation": "En upphöjd form som bildas när trög lava pressas upp ur en vulkans krater."
+    },
+    {
+      "term": "Terra",
+      "explanation": "En av NASAs forskningssatelliter i omloppsbana kring jorden."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows a volcano named Shiveluch. You can see dark patches on the white snow-covered slopes. These dark patches are the remnants of a hot avalanche of ash, gas, and rock that flowed down the mountain in 2011. At the top, a small plume of smoke rises from the volcano summit. Vegetation around looks dark red in this special image. Fortunately, no one was hurt when this happened because the area was sparsely populated.",
+      "nyborjare": "The satellite image from February 25, 2011, shows the slopes of Shiveluch Volcano with dark surface deposits covering more than 10 square kilometers. These dark traces were formed by pyroclastic flows, which are fast and extremely hot avalanches of superheated ash, gas, and rock. The flows can reach temperatures of over 1,000 degrees Celsius and speeds of up to 720 kilometers per hour. Above the flow deposits, light brown ash covers the snow, and a tiny plume rises from the growing lava dome. Vegetation surrounding the volcano appears dark red.",
+      "entusiast": "The image was captured in false color by the Advanced Spaceborne Thermal Emission and Reflection Radiometer instrument aboard NASA Terra satellite. This advanced technology recorded thermal radiation from a large pyroclastic flow associated with an eruption event on January 25, 2011. The instrument detected heat signatures from the event that align precisely with the dark surface deposits covering over 10 square kilometers visible the following month. The false-color rendering highlights the surrounding vegetation in dark red, while light brown ash appears above the flow deposits in the snow alongside a tiny plume from the lava dome. These data are valuable for researchers studying volcano behavior and the hazards of superheated flows."
+    },
+    "terms": [
+      {
+        "term": "Pyroclastic flow",
+        "explanation": "A fast-moving avalanche of superheated ash, gas, and rock rushing down a volcano."
+      },
+      {
+        "term": "ASTER",
+        "explanation": "An instrument on the Terra satellite used to detect thermal signatures and map surface features."
+      },
+      {
+        "term": "Lava dome",
+        "explanation": "A mound-like protrusion formed when viscous lava is extruded from a volcanic vent."
+      },
+      {
+        "term": "Terra",
+        "explanation": "A research satellite operated by NASA for Earth observation missions."
+      }
+    ],
+    "place": "Russia"
+  }
+}
