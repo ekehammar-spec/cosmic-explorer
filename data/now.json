@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:33:54.871Z",
+ "updated": "2026-11-23T13:40:13.050Z",
  "source": "NASA EONET",
  "events": [
   {
@@ -24,16 +24,6 @@
   },
   {
    "kind": "fire",
-   "date": "2026-11-13T13:31:00Z",
-   "title_sv": "Skogsbrand i Perry, Mississippi",
-   "title_en": "Wildfire in Perry, Mississippi",
-   "where_sv": "",
-   "where_en": "",
-   "value_sv": "1 090 hektar",
-   "value_en": "1,090 hectares"
-  },
-  {
-   "kind": "fire",
    "date": "2026-11-13T15:18:00Z",
    "title_sv": "Skogsbrand i Forrest, Mississippi",
    "title_en": "Wildfire in Forrest, Mississippi",
@@ -41,6 +31,16 @@
    "where_en": "",
    "value_sv": "960 hektar",
    "value_en": "960 hectares"
+  },
+  {
+   "kind": "fire",
+   "date": "2026-11-18T14:11:00Z",
+   "title_sv": "Skogsbrand i Greene, Tennessee",
+   "title_en": "Wildfire in Greene, Tennessee",
+   "where_sv": "",
+   "where_en": "",
+   "value_sv": "200 hektar",
+   "value_en": "200 hectares"
   }
  ]
 }
