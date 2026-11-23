@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:40:13.050Z",
+ "updated": "2026-11-23T21:38:27.488Z",
  "source": "NASA EONET",
  "events": [
   {
@@ -21,16 +21,6 @@
    "where_en": "Southern Ocean, near Antarctica",
    "value_sv": "",
    "value_en": ""
-  },
-  {
-   "kind": "fire",
-   "date": "2026-11-13T15:18:00Z",
-   "title_sv": "Skogsbrand i Forrest, Mississippi",
-   "title_en": "Wildfire in Forrest, Mississippi",
-   "where_sv": "",
-   "where_en": "",
-   "value_sv": "960 hektar",
-   "value_en": "960 hectares"
   },
   {
    "kind": "fire",
