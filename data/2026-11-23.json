@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-23",
+  "title": "Cassini \"Noodle\" Mosaic of Saturn",
+  "title_sv": "Cassinis nudelmosaik av Saturnus",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA21617/PIA21617~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA21617/PIA21617~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA21617/PIA21617~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA21617",
+  "credit": "NASA/JPL-Caltech/Space Science Institute/Hampton University",
+  "taken": "2017",
+  "src": "library",
+  "id": "PIA21617",
+  "px": [
+    1811,
+    1919
+  ],
+  "w": 603,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB4DASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAgUG/8QAJxAAAQMCBQMFAQAAAAAAAAAAAQACAwQRBRIxUWETFEEhIjORwdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A47EKKB+GU9bRN9jWhko8g7nm/wCLTq/Cq/s5XRyjPTTDLKzX03HKXiNH2c9muzwyDNFINHNQSIQhAK2lqmGA0lVcwON2uAuYnbjjcKJCBlRA+nkyPsfIcDcOHgg7JafHMOn0ZgXR6i2rDuP4sTCT8bhIONfpB//Z",
+  "quiz": [
+    {
+      "q": "Vilken gas dominerar Saturnus yttre atmosfär?",
+      "options": [
+        "Väte",
+        "Koldioxid",
+        "Kväve"
+      ],
+      "correct": 0,
+      "fact": "Saturnus är en gasjätte där atmosfären till övervägande del består av väte, följt av helium."
+    },
+    {
+      "q": "Vad orsakar de sexkantiga molnen på Saturnus nordpol?",
+      "options": [
+        "Kraftfulla magnetfält",
+        "En stabil jetström",
+        "En underjordisk vulkan"
+      ],
+      "correct": 1,
+      "fact": "Det unika sexkantiga mönstret är en avancerad vågformad jetström som bildas av atmosfärens vindar."
+    },
+    {
+      "q": "Varför kretsar rymdfarkoster ofta i rymden kring gasjättar?",
+      "options": [
+        "För att mäta magnetfält och atmosfär",
+        "För att landa på fast mark",
+        "För att samla upp fasta ringpartiklar"
+      ],
+      "correct": 0,
+      "fact": "Gasjättar saknar fast yta, vilket gör att farkoster studerar atmosfären, ringarna och de omgivande magnetfälten."
+    }
+  ],
+  "levels": {
+    "barn": "Föreställ dig en jättelik godisklubba med virvlar och ränder i alla riktningar. Det här är en bild av planeten Saturnus som togs år 2017. Rymdfarkosten Cassini flög jättenära molnen och tog massor av bilder som sattes ihop till en jättelång remsa. Forskarna kallade den för en nudel eftersom den var så lång och smal. Man kan se stormar och moln som snurrar runt den stora planeten.",
+    "nyborjare": "År 2017 gjorde rymdfarkosten Cassini en spektakulär dykning mellan Saturnus och dess berömda ringar. Under denna förbiflygning fångade farkosten 137 detaljerade bilder i synligt ljus som har fogats samman till en enda långsträckt mosaik. Bildserien kallas populärt för en nudel på grund av sin form. Mosaiken visar Saturnus atmosfär från det nordliga polarmolnet ner till de mellersta breddgraderna. Vi ser virvlar, band och den märkliga sexkantiga jetströmmen som omger nordpolen. Bilden ger oss en enastående inblick i gasjättens komplexa vädersystem.",
+    "entusiast": "År 2017 inledde rymdfarkosten Cassini sin episka Grand Finale med det historiska första dyket genom gapet mellan Saturnus och ringplanet. Denna mosaik är sammansatt av 137 separata exponeringar tagna med vidvinkelkameran i synligt ljus under dykningen den 26 april 2017. Rymdfarkostens altitud sjönk från 72 400 till 8 374 kilometer över molntopparna, vilket gav en dramatisk ökning i upplösning från 8,7 till 1 kilometer per pixel. Bilderna projiserades i stereografisk projektion centrerad kring 55 graders nordlig latitud innan de fogades samman. Längst ner på den så kallade nudel-mosaiken syns en krökning som uppstod när farkosten roterade sin högförstärkningsantenn som skyddsåtgärd inför passagen av ringplanet."
+  },
+  "terms": [
+    {
+      "term": "gasjätte",
+      "explanation": "En stor planet som till största delen består av gaser snarare än fast sten."
+    },
+    {
+      "term": "jetström",
+      "explanation": "Ett kraftfullt och koncentrerat vindbälte som rör sig med hög hastighet i en atmosfär."
+    },
+    {
+      "term": "mosaik",
+      "explanation": "En större bild skapad genom att många mindre fotografier fogas samman till en helhet."
+    },
+    {
+      "term": "latitud",
+      "explanation": "Ett mått som anger ett positionsschema i nord-sydlig riktning på en planet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant colorful lollipop with swirling bands stretching across it. This is a picture of the planet Saturn taken in the year 2017. The spacecraft Cassini flew extremely close to the clouds and captured many photos that were stitched together into a very long strip. Scientists jokingly called it a noodle because it was so long and narrow. You can see storms and swirling clouds wrapping around the massive planet.",
+      "nyborjare": "In 2017, the Cassini spacecraft made a spectacular dive between Saturn and its famous rings. During this close flyby, the spacecraft captured 137 detailed visible-light images that were combined into a single elongated mosaic. The image sequence is popularly called a noodle due to its unique shape. The mosaic shows Saturn's atmosphere from the north polar vortex down to the middle latitudes. We can see swirls, bands, and the strange hexagonal jet stream surrounding the north pole. The picture provides an unprecedented look at the gas giant's complex weather systems.",
+      "entusiast": "In 2017, the Cassini spacecraft began its epic Grand Finale with the historic first dive through the gap between Saturn and its ring plane. This mosaic is compiled from 137 separate exposures taken with the wide-angle camera in visible light during the dive on April 26, 2017. The spacecraft's altitude dropped from 72,400 to 8,374 kilometers above the cloud tops, providing a dramatic increase in resolution from 8.7 to 1 kilometer per pixel. The images were mapped in stereographic projection centered at 55 degrees north latitude before being blended together. At the bottom of the so-called noodle mosaic, a curve appears where the spacecraft rotated its high-gain antenna as a protective measure before crossing the ring plane."
+    },
+    "terms": [
+      {
+        "term": "gas giant",
+        "explanation": "A massive planet composed primarily of gases rather than solid rock."
+      },
+      {
+        "term": "jet stream",
+        "explanation": "A fast-flowing, concentrated current of wind moving through a planetary atmosphere."
+      },
+      {
+        "term": "mosaic",
+        "explanation": "A large image created by joining many smaller individual photographs together."
+      },
+      {
+        "term": "latitude",
+        "explanation": "A coordinate measurement specifying north-south position on the globe of a planet."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Which gas dominates Saturn's outer atmosphere?",
+        "options": [
+          "Hydrogen",
+          "Carbon dioxide",
+          "Nitrogen"
+        ],
+        "correct": 0,
+        "fact": "Saturn is a gas giant whose atmosphere consists overwhelmingly of hydrogen, followed by helium."
+      },
+      {
+        "q": "What causes the hexagonal clouds at Saturn's north pole?",
+        "options": [
+          "Powerful magnetic fields",
+          "A stable jet stream",
+          "An underground volcano"
+        ],
+        "correct": 1,
+        "fact": "The unique hexagonal pattern is an advanced wave-like jet stream shaped by atmospheric winds."
+      },
+      {
+        "q": "Why do spacecraft frequently orbit gas giants?",
+        "options": [
+          "To measure magnetic fields and atmosphere",
+          "To land on solid ground",
+          "To collect solid ring particles"
+        ],
+        "correct": 0,
+        "fact": "Gas giants lack a solid surface, meaning spacecraft study their atmospheres, rings, and surrounding magnetic fields."
+      }
+    ]
+  }
+}

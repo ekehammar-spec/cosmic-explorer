@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-23",
+  "title": "Laser Focus at the Top of the World",
+  "title_sv": "Laserfokus på världens topp",
+  "place": "Ny-Ålesund, Svalbard, Norge",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+  "credit": "NASA Earth Observatory/Lauren Dauphin",
+  "source": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey . NASA photo by Julie Horvath (KBR).",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYB/8QAJxAAAgIBAgQGAwAAAAAAAAAAAQIDEQAEEgUhIlETIzEyQaFhcdH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EABwRAAMAAQUAAAAAAAAAAAAAAAABAjEDESFBQv/aAAwDAQACEQMRAD8Ay0vDZYltW8Qj3UKrFPRypXaRmmgnWVlWFDOZELKoHO6HxldPp3eWRjFGFqyqtZS/g/nJNvszvTnyKpMiadaA8QWDeRJMVaz1DsfTONEws7SBgE6eWHwL03gb4TO2n6hz2mx/MuOFSpNtSWFXSdiHJ9xJIF7u/PDDArI1OCFNCh00T7j5kzL+lCmh9feVMQX1Ao7u/cYYZYFLdH//2Q==",
+  "levels": {
+    "barn": "Bilden visar ett snöigt och isigt landskap längst upp i norr på jorden. Här finns en speciell byggnad som skjuter en osynlig laserstråle upp i rymden mot satelliter. Det är som att skicka en ljusblixt för att mäta exakt var satelliten befinner sig och hur jorden förändras. Platsen ligger nära ett fågelskyddsområde så att fåglarna får ha det lugnt på sommaren.",
+    "nyborjare": "Satsningen visar Ny-Ålesund Geodetic Observatory i Svalbard, Norge, i en bild tagen av satelliten Landsat 9 i juli 2026. Den nordligaste stationen i världen för satellitlaseravståndmätning, förkortat SLR, har nu fått ny och mycket snabbare utrustning. Tekniken går ut på att skjuta ljuspulser mot satelliter för att mäta avståndet genom att räkna tiden det tar för ljuset att studsa tillbaka. Detta hjälper forskare att fastställa jordens referensram, spåra havsnivåer och följa ismassors förändringar med stor precision.",
+    "entusiast": "Satsningen bygger på satellitlaseravståndmätning där en optisk station spårar satelliter utrustade med specialreflektorer. Den nya generationens SLR-system i Ny-Ålesund använder lasrar som kan avfyra tusentals pulser per sekund samt detektorer som känner av enskilda fotoner. Detta gör att anläggningen kan spåra fler objekt med högre noggrannhet. Eftersom stationen ligger så långt norrut ser den polaranpassade satelliter som ICESat-2 och GRACE-FO nästan vid varje omloppsbana, vilket förbättrar mätningarna av isytor och havsnivåer. Anläggningen drivs av den norska karteringsmyndigheten i partnerskap med NASA och har höga krav på automatisering på grund av närheten till ett fågelskyddsområde."
+  },
+  "terms": [
+    {
+      "term": "Landsat 9",
+      "explanation": "En amerikansk jordobservationssatellit vars instrument OLI har tagit bilden över Ny-Ålesund."
+    },
+    {
+      "term": "Satellitlaseravståndmätning",
+      "explanation": "En mätteknik som använder laserpulser för att bestämma avståndet till kretsande satelliter."
+    },
+    {
+      "term": "ICESat-2",
+      "explanation": "En satellitmission som är särskilt utformad för att göra exakta observationer av isytors höjder."
+    },
+    {
+      "term": "Referensram",
+      "explanation": "Grunden för moderna koordinatsystem som gör att mätningar på jorden kan jämföras med varandra."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The image shows a snowy and icy landscape at the very top of the world. Here, a special building shoots an invisible laser beam up into space toward satellites. It is like sending a flash of light to measure exactly where the satellite is and how the Earth is changing. The location is close to a bird sanctuary so that the birds can have peace during the summer.",
+      "nyborjare": "The image features the Ny-Ålesund Geodetic Observatory in Svalbard, Norway, captured by the Landsat 9 satellite in July 2026. It shows the northernmost satellite laser ranging facility on Earth, which recently installed a faster and more precise system. The technique involves firing light pulses at satellites and measuring the time it takes for the light to return. This helps scientists establish the terrestrial reference frame, track sea levels, and monitor changes in ice mass.",
+      "entusiast": "The image highlights the next-generation satellite laser ranging system at the Ny-Ålesund Geodetic Observatory, acquired using the Operational Land Imager on Landsat 9. The facility employs lasers capable of firing thousands of pulses per second and single-photon detectors to track satellites with high precision. Its far-northern location allows it to observe polar-orbiting missions like ICESat-2 and GRACE-FO almost every orbit, greatly benefiting ice-surface height measurements and global geodetic reference frames."
+    },
+    "terms": [
+      {
+        "term": "Landsat 9",
+        "explanation": "An Earth observation satellite carrying the Operational Land Imager used to capture the image."
+      },
+      {
+        "term": "Satellite laser ranging",
+        "explanation": "A technique that uses laser pulses to precisely track the orbits of satellites."
+      },
+      {
+        "term": "ICESat-2",
+        "explanation": "A satellite mission designed to make precise observations of ice surface heights."
+      },
+      {
+        "term": "Reference frame",
+        "explanation": "The foundation of modern coordinate systems that allows various Earth measurements to be compared."
+      }
+    ],
+    "place": "Ny-Ålesund, Svalbard, Norway"
+  }
+}

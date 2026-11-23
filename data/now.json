@@ -1,24 +1,14 @@
 {
- "updated": "2026-11-22T17:21:06.881Z",
+ "updated": "2026-11-23T07:33:54.871Z",
  "source": "NASA EONET",
  "events": [
   {
    "kind": "storm",
-   "date": "2026-11-22T06:00:00Z",
-   "title_sv": "Tropiska stormen Xavier",
-   "title_en": "Tropical Storm Xavier",
+   "date": "2026-11-23T00:00:00Z",
+   "title_sv": "Tropiska lågtrycket Xavier",
+   "title_en": "Tropical Depression Xavier",
    "where_sv": "Södra Stilla havet",
    "where_en": "Southern Pacific",
-   "value_sv": "vindar på 75 km/h",
-   "value_en": "winds of 75 km/h"
-  },
-  {
-   "kind": "storm",
-   "date": "2026-11-19T18:00:00Z",
-   "title_sv": "Tropiska lågtrycket Akvan",
-   "title_en": "Tropical Depression Akvan",
-   "where_sv": "Norra Indiska oceanen",
-   "where_en": "Northern Indian Ocean",
    "value_sv": "vindar på 55 km/h",
    "value_en": "winds of 55 km/h"
   },
