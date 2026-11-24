@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-24",
+  "title": "NASA's Curiosity Mars Rover Collects Samples",
+  "title_sv": "Curiositys borrhål på Mars",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
+  "link": "https://www.nasa.gov/image-detail/pia26804/",
+  "credit": "NASA",
+  "taken": "2026",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/pia26804/",
+  "px": [
+    1600,
+    1200
+  ],
+  "w": 480,
+  "h": 360,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAYACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EACQQAAICAgIBAwUAAAAAAAAAAAECAAMRMRIhBDJBYRMUUbHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGhEBAAMAAwAAAAAAAAAAAAAAAAESQRExUf/aAAwDAQACEQMRAD8AV2RVrcICA3RDfqRWzyXZwyMyvoA+3ehNaiymp1v4hD2vQxmOtqq7EFeQXjr4O5hz62rEdNassoV00PQxi2sWYMyBQMjf91H+6XmgtIJK5LBYtbeJaodmOQSF2IWw11GzyLGDoTaxHYLdxEZ/qB+JC4/HqhCRi9VLF8Dgw+faTDhMni5AOiIQhBl//9k=",
+  "quiz": [
+    {
+      "q": "Vad används borrarna på Mars-rovers till?",
+      "options": [
+        "Att samla in stenprov för analys",
+        "Att mäta planetens magnetfält under ytan",
+        "Att borra efter flytande vattenreserver"
+      ],
+      "correct": 0,
+      "fact": "Rovrarna borrar i sten för att få fram pulver som kan analyseras i inbyggda laboratorier."
+    },
+    {
+      "q": "Varför analyseras stendamm inuti en rover?",
+      "options": [
+        "För att leta efter spår av liv",
+        "För att utvinna bränsle till hemresan",
+        "För att tillverka reservdelar av metall"
+      ],
+      "correct": 0,
+      "fact": "Proverna undersöks kemiskt och mineralogiskt för att förstå Mars tidigare miljö och dess förutsättningar för liv."
+    },
+    {
+      "q": "Vilket drivmedel använder Mars-rovers?",
+      "options": [
+        "Radioaktivt plutonium",
+        "Solpaneler utan batterier",
+        "Flytande vätgas"
+      ],
+      "correct": 0,
+      "fact": "Curiosity drivs av värme från sönderfallande plutonium, vilket ger stabil elenergi oavsett väder."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en stor bil med en jättestor borr i armen som kör runt på en röd planet. Det är rovern Curiosity som har borrat massor av små hål i marken för att titta på stenarna inuti. Det är som att ta reda på vad kakan smakar inuti genom att titta på smulorna!",
+    "nyborjare": "Den här bilden visar ett kollage av 49 borrhål som Mars-rovern Curiosity har skapat på planetens yta fram till november 2026. Genom att borra i olika stentyper kan forskare samla in fint stendamm. Detta pulver analyseras av instrument inuti fordonet för att avslöja Mars geologiska historia och ge ledtrådar om planeten en gång kan ha stöttat liv.",
+    "entusiast": "Bilden är ett samlat register över 49 borrhål som dokumenterats av NASA:s Mars-rover Curiosity fram till november 2026. Curiosity använder en slagborr monterad på sin robotarm för att samla in pulveriserat berg från upp till fem centimeters djup. Proverna matas sedan in i avancerade analysinstrument som CheMin och SAM för att bestämma mineralogi och organiska föreningar. Denna systematiska provtagning i Gale-kratern ger avgörande data om tidiga marsianska miljöer, inklusive förekomsten av forna sjöar och kemiska gradienter som kunde ha utnyttjats av mikrobiellt liv."
+  },
+  "terms": [
+    {
+      "term": "rover",
+      "explanation": "Ett obemannat fordon som är konstruerat för att köra runt och utforska ytan på en annan planet."
+    },
+    {
+      "term": "stendamm",
+      "explanation": "Fint pulver som bildas när en borr mekaniskt maler sönder fast berg."
+    },
+    {
+      "term": "mineralogi",
+      "explanation": "Läran om mineral och deras kemiska sammansättning samt kristallstruktur."
+    },
+    {
+      "term": "Gale-kratern",
+      "explanation": "En stor nedslagskrater på Mars där rovern Curiosity landade och utför sina undersökningar."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a large car with a huge drill on its arm driving around on a red planet. That is the rover Curiosity, which has drilled lots of small holes in the ground to look at the rocks inside. It is like finding out what a cake tastes like on the inside by looking at the crumbs!",
+      "nyborjare": "This image shows a collage of 49 drill holes created by the Mars rover Curiosity on the planet surface as of November 2026. By drilling into various rock types, scientists can collect fine rock dust. This powder is analyzed by instruments inside the vehicle to reveal Mars geological history and provide clues about whether the planet could once have supported life.",
+      "entusiast": "The image is a comprehensive record of 49 drill holes documented by NASA's Mars rover Curiosity as of November 2026. Curiosity uses a percussion drill mounted on its robotic arm to collect pulverized rock from depths of up to five centimeters. The samples are then fed into advanced analytical instruments such as CheMin and SAM to determine mineralogy and organic compounds. This systematic sampling within Gale Crater provides crucial data on early Martian environments, including the presence of ancient lakes and chemical gradients that could have been utilized by microbial life."
+    },
+    "terms": [
+      {
+        "term": "rover",
+        "explanation": "An unmanned vehicle designed to drive around and explore the surface of another planet."
+      },
+      {
+        "term": "rock dust",
+        "explanation": "Fine powder created when a drill mechanically grinds down solid rock."
+      },
+      {
+        "term": "mineralogy",
+        "explanation": "The scientific study of minerals and their chemical composition and crystal structure."
+      },
+      {
+        "term": "Gale Crater",
+        "explanation": "A large impact crater on Mars where the Curiosity rover landed and conducts its investigations."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What are the drills on Mars rovers used for?",
+        "options": [
+          "To collect rock samples for analysis",
+          "To measure the magnetic field underground",
+          "To drill deep for liquid water reservoirs"
+        ],
+        "correct": 0,
+        "fact": "Rovers drill into rocks to obtain powder that can be analyzed by onboard laboratories."
+      },
+      {
+        "q": "Why is rock dust analyzed inside a rover?",
+        "options": [
+          "To search for potential signs of life",
+          "To extract fuel for the return journey",
+          "To manufacture metal spare parts"
+        ],
+        "correct": 0,
+        "fact": "Samples are examined chemically and mineralogically to understand Mars past environment and habitability."
+      },
+      {
+        "q": "What power source do Mars rovers use?",
+        "options": [
+          "Radioactive plutonium",
+          "Solar panels without batteries",
+          "Liquid hydrogen fuel"
+        ],
+        "correct": 0,
+        "fact": "Curiosity is powered by heat from decaying plutonium, providing stable electricity regardless of weather."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-24",
+  "title": "Eruption Extends Iwo Jima’s Beach",
+  "title_sv": "Vulkanutbrott förlänger Iwo Jimas strand",
+  "place": "Iwo Jima, Japan",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261026.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261026.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261026.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
+  "credit": "NASA Earth Observatory/Michala Garrison",
+  "source": "NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
+  "w": 480,
+  "h": 400,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAbACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAQUCAwQG/8QAKRAAAgEDAgQFBQAAAAAAAAAAAQIRAAMhBBIUIkFhBRMxUXEjMoGhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhEx/9oADAMBAAIRAxEAPwDlz4defVtY06PeKyZCkSB6mKD6C4t0oty1dAElkaQPmta+NawrbUuRtQqrKdpAPXHemHE6cpZtqIVAzEqSC7nq3vT1pzABktzS7LG5SrmYYg+lUWo35YiJiBOac3XRm8jarYiUEAUnKqLhWZWTzdvirGu+xTlElSDskAkQtMLmq4fkyxHos8ope3LsIwYJrRqPo8M1sBS9oFsYP4rUH2oPrLrI2AFbBMfqqCSSuAuI9p70CeuJx0qT/andf7SDlX//2Q==",
+  "levels": {
+    "barn": "Här ser vi en liten vulkan som har spytt ut ny mark mitt i havet vid en ö som heter Iwo Jima. Satelliten har tagit bilder från rymden där man ser hur stranden har blivit mycket större. Den svarta sanden möter det blå havet och på en av bilderna lyser värmen från vulkanen i orange. Det är precis som att naturen bygger ett alldeles eget sandpussel i vattnet.",
+    "nyborjare": "Satellitbilderna visar hur ett vulkanutbrott i grundvattnet utanför den japanska ön Iwo Jima har skapat ny landmassa. Utbrottet startade i slutet av oktober 2026 och har byggt ut öns berömda svarta sandstränder med ungefär femtio hektar. På den ena bilden syns värmesignaturer i orange från utbrottet samt svaga askmoln som driver i väg över vattnet. Sådana här nya öar skapas ibland av undervattensvulkaner men brukar ofta eroderas bort av havsvågorna inom kort tid.",
+    "entusiast": "Bildparet från satelliten Landsat 9 visar samma kustområde vid Iwo Jima före och efter utbrottet av en undersjöisk vulkan. Den vänstra bilden från oktober 2026 visar en intakt kustlinje medan bilden från november fångar den nybildade landmassan där en kortvågig infraröd signatur i orange avslöjar värmen från ventilen. Ett svagt gråaktigt vulkaniskt moln och stråk av flytande pimpsten syns driva mot sydost. Utbrottet har kartlagts med flera avancerade instrument inklusive OLI ombord på Landsat 9 samt NISAR som utnyttjar syntetisk aperturradar för att tränga igenom molntäcket. Forskare studerar nu om lavaflöden av basaltisk andesit kan cementera askan så att den nya ön överlever vågornas erosion till skillnad från det kortlivade land som bildades vid ett tidigare utbrott år 2023."
+  },
+  "terms": [
+    {
+      "term": "Landsat 9",
+      "explanation": "En amerikansk satellit som tar högupplösta bilder av jorden med instrumentet OLI."
+    },
+    {
+      "term": "pimpsten",
+      "explanation": "Lätt vulkanisk bergart som kan flyta på vatten och som observerats i stråk efter utbrottet."
+    },
+    {
+      "term": " NISAR",
+      "explanation": "En radarsatellit som kan upptäcka markförändringar och ge tidiga vyer genom tjocka moln."
+    },
+    {
+      "term": "haka",
+      "explanation": "Ett vulkanutbrott som mestadels producerar fragment av berg och aska."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Here we see a small volcano that has erupted in the shallow water near an island called Iwo Jima. The satellite took pictures from space showing how the beach has grown much larger. The black sand meets the blue ocean and in one of the images the heat from the volcano glows in orange.",
+      "nyborjare": "The satellite images show how a submarine volcanic eruption near the Japanese island of Iwo Jima has created new land. The eruption began in late October 2026 and has expanded the island's famous black sand beaches by about fifty hectares. One image displays orange thermal signatures from the eruption along with faint ash plumes drifting across the water.",
+      "entusiast": "The image pair from Landsat 9 captures the coastal area near Iwo Jima before and after a submarine volcanic eruption. The left image from October 2026 shows a quiet coast while the November image reveals the newly built landmass where a shortwave-infrared signature in orange highlights the heat from the vent. A faint gray volcanic plume and streaks of floating pumice drift toward the southeast. The eruption has been monitored using multiple instruments including OLI on Landsat 9 and NISAR which uses synthetic aperture radar to observe through cloud cover."
+    },
+    "terms": [
+      {
+        "term": "Landsat 9",
+        "explanation": "An American satellite that captures high-resolution images of the Earth using the OLI instrument."
+      },
+      {
+        "term": "pumice",
+        "explanation": "A light volcanic rock capable of floating on water and observed drifting after the eruption."
+      },
+      {
+        "term": "NISAR",
+        "explanation": "A radar satellite capable of detecting surface changes and providing early views through heavy clouds."
+      },
+      {
+        "term": "tephra",
+        "explanation": "Fragmented rock material ejected during a volcanic eruption."
+      }
+    ],
+    "place": "Iwo Jima, Japan"
+  }
+}

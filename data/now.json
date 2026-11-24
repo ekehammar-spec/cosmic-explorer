@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:38:27.488Z",
+ "updated": "2026-11-24T09:57:06.407Z",
  "source": "NASA EONET",
  "events": [
   {
@@ -24,13 +24,23 @@
   },
   {
    "kind": "fire",
-   "date": "2026-11-18T14:11:00Z",
-   "title_sv": "Skogsbrand i Greene, Tennessee",
-   "title_en": "Wildfire in Greene, Tennessee",
+   "date": "2026-11-20T13:16:00Z",
+   "title_sv": "Skogsbrand i Alleghany, Virginia",
+   "title_en": "Wildfire in Alleghany, Virginia",
    "where_sv": "",
    "where_en": "",
-   "value_sv": "200 hektar",
-   "value_en": "200 hectares"
+   "value_sv": "910 hektar",
+   "value_en": "910 hectares"
+  },
+  {
+   "kind": "fire",
+   "date": "2026-11-21T23:15:00Z",
+   "title_sv": "Skogsbrand i Highland, Virginia",
+   "title_en": "Wildfire in Highland, Virginia",
+   "where_sv": "",
+   "where_en": "",
+   "value_sv": "360 hektar",
+   "value_en": "360 hectares"
   }
  ]
 }
