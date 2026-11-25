@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-25",
+  "title": "Susitna Glacier, Alaska",
+  "title_sv": "Susitnaglaciären i Alaska",
+  "place": "Alaska, USA",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002000/GSFC_20171208_Archive_e002000~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002000/GSFC_20171208_Archive_e002000~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002000/GSFC_20171208_Archive_e002000~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002000",
+  "credit": "NASA Earth Observatory image created by Jesse Allen and Robert Simmon, using data provided courtesy of NASA/GSFC/METI/ERSDAC/JAROS, and U",
+  "source": "NASA Earth Observatory image created by Jesse Allen and Robert Simmon, using data provided courtesy of NASA/GSFC/METI/ERSDAC/JAROS, and U.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e002000",
+  "archive": true,
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQYCAwcBBP/EACgQAAIBAgUEAgIDAAAAAAAAAAECAwQRAAUSIUETIlFhMYEGcSORof/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAAD/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMSMUH/2gAMAwEAAhEDEQA/ADQpsvlmlWoROotixXZRvtvz94sGWUgnMsb97G7LIbrpt63GFaBppadqiaoSGOQkjqNu7b8DEH/IasU3QQpHHp0kKty32d8axlFscXpUkb+OURsR2gHWpXkkHc/3jwy5fDloWRQsjhSkbNYqpPATzf8AeAGXVFfEhenhmZJEsCyXFvIN/OGbLpZukBW0o6ttVyQSfrjBBRnBlsB3bgbX4xEayfkn3xim+rHSGtz9Y5WX6roSpK+rhnj6c7gqpRRf5vwBh/yzrSo6VE0UkjWuI7DT4/RxmlGQk0bh2VgwIYfI3494PZRmkVPUVcs/Y7iwcb6fVh/pw6JskfUf/9k=",
+  "levels": {
+    "barn": "Den här bilden visar en glaciär i Alaska som flöt fram långsamt genom bergen den 27 augusti 2009. Glaciärer är jättelika floder av is som rör sig nedför sluttningar. På bilden ser vi slingrande band i blått och brunt. Det bruna är jord och damm som har fastnat på isen. Växterna runtomkring lyser i rött. Istället för att rusa fram som vanligt vatten kryper isen mycket sakta framåt och sparar på spår av sin långa resa.",
+    "nyborjare": "Satellitbilden över Susitnaglaciären i Alaska togs den 27 augusti 2009 och visar hur ismassor rör sig likt floder genom landskapet. Bilden är tagen med falska färger vilket innebär att infrarött, rött och grönt ljus har kombinerats för att göra detaljer synliga. Växtlighet syns som rött medan glaciärytan är marmorerad i blått där isen är ren och brunt där den är täckt av jord. Glaciärer flyter nedför berg och samlar på sig damm och grus längs vägen. Forskare kan studera hur biflodar pressar samman isen och skapar komplicerade mönster med ränder och kurvor. Susitnatrakten är ett seismiskt aktivt område där jordbävningar kan inträffa, men de rörliga mönstren i isen orsakas främst av så kallade glaciärökningar där isen rör sig mycket snabbare än normalt på grund av smältvatten vid botten.",
+    "entusiast": "Den 27 augusti 2009 fångade instrumentet ASTER ombord på NASAs Terra-satellit denna detaljerade bild av Susitnaglaciären i Alaska. ASTER står för Advanced Spaceborne Thermal Emission and Reflection Radiometer och instrumentet kombinerar infraröda, röda och gröna våglängder för att skapa en falskärgsinformation där vegetation framträder i rött och glaciärytan växlar i ren blå is respektive jordtäckt brun is. Bilden visar hur glaciärer flyter likt tröga floder där biflodar från norr pressar in renare is och skapar komplexa mönster av ränder, kurvor och u-svängar mitt i systemet. Susitnaglaciären flyter över ett seismiskt aktivt område där en kraftig jordbävning med magnituden 7,9 inträffade i november 2002. Även om sådana skalv kan skapa branta klippor och sluttningar visade det sig att de flesta oregelbundenheter på ytan beror på glaciärökningar. Dessa tillfälliga händelser inträffar när smältvatten från sjöar på isytan samlas vid glaciärens bas och smörjer flödet, ibland underlättat av ett mjukt och lättfjällat underliggande berggrundsmaterial."
+  },
+  "terms": [
+    {
+      "term": "Susitna Glacier",
+      "explanation": "En glaciär i Alaska som rör sig nedför berg och visar upp komplexa mönster av ren och smutsig is."
+    },
+    {
+      "term": "ASTER",
+      "explanation": "Ett instrument ombord på NASAs Terra-satellit som registrerar termisk strålning och reflektion i flera våglängder."
+    },
+    {
+      "term": "Terra",
+      "explanation": "En satellit som används för att studera jorden och som bar instrumentet ASTER under överflygningen 2009."
+    },
+    {
+      "term": "Glacier surges",
+      "explanation": "Tillfälliga händelser där en glaciär rör sig många gånger snabbare än sin normala hastighet."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "This image shows a glacier in Alaska flowing slowly through the mountains on August 27, 2009. Glaciers are giant rivers of ice moving down slopes. In the picture we see winding bands in blue and brown. The brown areas are dirt and dust caught on the ice. Plants around it glow in red. Instead of rushing like liquid water, the ice crawls very slowly.",
+      "nyborjare": "The satellite image of the Susitna Glacier in Alaska was acquired on August 27, 2009, showing how ice masses move like rivers through the landscape. The image uses false color, combining infrared, red, and green wavelengths to make details visible. Vegetation appears red, while the glacier surface is marbled in blue for clean ice and brown for dirt-coated ice. Glaciers flow downhill, gathering dust and dirt along the way. Researchers study how tributaries push the ice to create complex patterns of stripes and curves.",
+      "entusiast": "On August 27, 2009, the Advanced Spaceborne Thermal Emission and Reflection Radiometer instrument aboard NASAs Terra satellite captured this detailed image of the Susitna Glacier in Alaska. The image combines infrared, red, and green wavelengths into a false-color representation where vegetation is red and the glacier surface is marbled with clean blue ice and dirt-coated brown ice. The glacier flows over a seismically active area where surges in tributary glaciers create complex surface patterns. These surges occur when meltwater accumulates at the base and lubricates the flow, sometimes aided by soft underlying bedrock."
+    },
+    "terms": [
+      {
+        "term": "Susitna Glacier",
+        "explanation": "A glacier in Alaska that flows downhill and displays complex patterns of clean and dirty ice."
+      },
+      {
+        "term": "ASTER",
+        "explanation": "An instrument aboard NASAs Terra satellite used to map thermal emission and reflection in multiple wavelengths."
+      },
+      {
+        "term": "Terra",
+        "explanation": "A satellite that orbits Earth and carried the ASTER instrument during the 2009 overpass."
+      },
+      {
+        "term": "Glacier surges",
+        "explanation": "Short-lived events where a glacier moves many times faster than its normal rate due to basal lubrication."
+      }
+    ],
+    "place": "Alaska, USA"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-25",
+  "title": "Webb Reveals New Details in Supernova Remnant",
+  "title_sv": "Supernovaresten Cassiopeia A",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+  "link": "https://www.nasa.gov/image-detail/cas-a-webb-miri/",
+  "credit": "NASA",
+  "taken": "2023",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/cas-a-webb-miri/",
+  "px": [
+    1600,
+    1460
+  ],
+  "w": 480,
+  "h": 438,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQMGBP/EACoQAAIBAwMDAgYDAAAAAAAAAAECAwAEEQUSIRNBUTFxBhQiIzJhodHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABoRAQEAAwEBAAAAAAAAAAAAAAEAAhEhMVH/2gAMAwEAAhEDEQA/AM9ZaZJ8gRK6RgrubHJAPAJ8CuUw28BNvkGcD6X4PPbPv/FUsDO9vIBKAoU8BuWHZaPKPNeBiQXY89+azD7M4btCmkGxtnmujDKy4LxKOQMUFrcMKyxzWuehKMgEYwe4rQG/lgRHWJpkGSTuyU8r7d8EUZrckTxv0ItqShZQAcgf1zQe7qyMdbxo/DtysdxJA7qkU6lWZscVe3jWOfpPbv1skRurHAGP9oG1fbOhwDz6GmrPV7yyd442R0TOBIgbjx7VTTx43VZ2ky3Gzf0g5ALsNykfo+lG6pJMJphuXY32wE/EhT28VefW7npqiJBHGhDbUjA5oy4uZLhtznk+BQDNTwv/2Q==",
+  "quiz": [
+    {
+      "q": "Vad är en supernovarest?",
+      "options": [
+        "Gas och stoft som slungas ut när en stjärna exploderar",
+        "Ett svart hål som suger in alla omgivande planeter",
+        "En nyfödd stjärna som precis har börjat fusionera väte"
+      ],
+      "correct": 0,
+      "fact": "När tunga stjärnor dör exploderar de i en supernova och kastar ut sina yttre lager i rymden."
+    },
+    {
+      "q": "Varför är det viktigt att studera kosmiskt stoft?",
+      "options": [
+        "Det hindrar oss från att se avlägsna galaxer",
+        "Det utgör grunden för att bilda nya planeter",
+        "Det visar hur gamla solsystemen i Vintergatan är"
+      ],
+      "correct": 1,
+      "fact": "Stoftet i supernovarester innehåller tunga grundämnen som bygger upp fasta planeter och allt liv."
+    },
+    {
+      "q": "Hur skapas de tunga grundämnena i rymden?",
+      "options": [
+        "Inne i kalla och utsträckta gasmoln långt från stjärnor",
+        "Genom att komprimera väte i vanliga planetatmosfärer",
+        "Genom kärnreaktioner under enormt tryck inuti massiva stjärnor"
+      ],
+      "correct": 2,
+      "fact": "Stora stjärnor fungerar som jättelika fabriker som bildar tunga grundämnen innan de sprids genom explosioner."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig att en jättestor stjärna har smällt som en fyrverkeripjäs i rymden. Runt omkring flyger det nu massor av glittrande stoft och färgglada gasmoln. Det är resterna efter smällen som teleskopet har fångat på bild under år 2023. Stoftet är som stjärnans egna små legobitar som har flugit all världens väg.",
+    "nyborjare": "Bilden från James Webb-teleskopet visar supernovaresten Cassiopeia A, resterna efter en stor stjärna som exploderade för länge sedan. Under år 2023 kunde forskare studera det heta stoftet i detalj. Genom att titta på vilka ämnen stoftet består av kan astronomer förstå hur ursprungsstjärnan var uppbyggd och vilka processer som ägde rum inuti den innan den slets i stycken.",
+    "entusiast": "Med James Webb-teleskopets instrument har astronomer analyserat den varma stoftsammansättningen i supernovaresten Cassiopeia A, en rest som observerades i ny detalj under år 2023. Fördelningen och kornstorleken hos det nybildade stoftet ger avgörande ledtrådar till dynamiken i den ursprungliga kärnkollapsen och supernovans chockvåg. Kartläggningen av grundämnen i dessa expanderande gaser avslöjar hur stjärnor berikar det interstellära mediet med tunga grundämnen som senare blir till nya solsystem."
+  },
+  "terms": [
+    {
+      "term": "supernovarest",
+      "explanation": "De expanderande moln av gas och stoft som lämnas kvar efter en massiv stjärnas våldsamma död."
+    },
+    {
+      "term": "stoft",
+      "explanation": "Mikroskopiska fasta partiklar av tunga grundämnen som flyter omkring i rymden."
+    },
+    {
+      "term": "astronom",
+      "explanation": "En forskare som studerar universum och himlakropparnas ursprung samt egenskaper."
+    },
+    {
+      "term": "kärnkollaps",
+      "explanation": "När en tung stjärnas inre tryck faller samman och utlöser en enorm explosion."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine that a giant star has popped like a firework out in space. Sparkling dust and colorful gas clouds are now flying all around. These are the remains after the big bang, captured by the telescope in 2023. The dust acts like the star's own tiny building blocks flying everywhere.",
+      "nyborjare": "The image from the James Webb Space Telescope shows the supernova remnant Cassiopeia A, which is what remains after a massive star exploded long ago. During 2023, researchers were able to study the hot dust in high detail. By examining what this dust is made of, astronomers can understand how the original star was structured and what processes took place inside it before it was torn apart.",
+      "entusiast": "Using the instruments of the James Webb Space Telescope, astronomers have analyzed the warm dust composition in the supernova remnant Cassiopeia A, a remnant observed in unprecedented detail during 2023. The distribution and grain size of the newly formed dust provide crucial clues regarding the dynamics of the original core-collapse and the supernova shock wave. Mapping the elements within these expanding gases reveals how stars enrich the interstellar medium with heavy elements that later form new star systems."
+    },
+    "terms": [
+      {
+        "term": "supernova remnant",
+        "explanation": "The expanding clouds of gas and dust left behind after a massive star's violent death."
+      },
+      {
+        "term": "dust",
+        "explanation": "Microscopic solid particles composed of heavy elements floating through space."
+      },
+      {
+        "term": "astronomer",
+        "explanation": "A scientist who studies the universe and the origin as well as properties of celestial bodies."
+      },
+      {
+        "term": "core-collapse",
+        "explanation": "When the inner pressure of a massive star caves in and triggers a massive explosion."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a supernova remnant?",
+        "options": [
+          "Gas and dust blasted outward when a star explodes",
+          "A black hole pulling in all surrounding planets",
+          "A newborn star that has just started fusing hydrogen"
+        ],
+        "correct": 0,
+        "fact": "When massive stars die, they explode in a supernova and eject their outer layers into space."
+      },
+      {
+        "q": "Why is studying cosmic dust important?",
+        "options": [
+          "It blocks us from seeing distant galaxies",
+          "It provides the building blocks for new planets",
+          "It shows how old solar systems in the Milky Way are"
+        ],
+        "correct": 1,
+        "fact": "Dust in supernova remnants contains heavy elements that build up rocky planets and all life."
+      },
+      {
+        "q": "How are heavy elements created in space?",
+        "options": [
+          "Inside cold and extended gas clouds far from stars",
+          "By compressing hydrogen within normal planetary atmospheres",
+          "Through nuclear reactions under immense pressure inside massive stars"
+        ],
+        "correct": 2,
+        "fact": "Large stars act like giant factories creating heavy elements before spreading them through explosions."
+      }
+    ]
+  }
+}
