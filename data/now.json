@@ -1,17 +1,7 @@
 {
- "updated": "2026-11-25T19:33:10.303Z",
+ "updated": "2026-11-26T08:14:06.558Z",
  "source": "NASA EONET",
  "events": [
-  {
-   "kind": "storm",
-   "date": "2026-11-23T00:00:00Z",
-   "title_sv": "Tropiska lågtrycket Xavier",
-   "title_en": "Tropical Depression Xavier",
-   "where_sv": "Södra Stilla havet",
-   "where_en": "Southern Pacific",
-   "value_sv": "vindar på 55 km/h",
-   "value_en": "winds of 55 km/h"
-  },
   {
    "kind": "ice",
    "date": "2026-11-20T00:00:00Z",

@@ -1,0 +1,76 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-26",
+  "title": "Seeking Refuge on Resolution Island",
+  "title_sv": "Söker en fristad på Resolution Island",
+  "place": "Fiordland, Nya Zeeland",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+  "w": 480,
+  "h": 433,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAdACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMEAQb/xAAlEAACAQQBAwQDAAAAAAAAAAABAgMAESExEgQiYRMyQVFCgcH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAgED/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMSMSH/2gAMAwEAAhEDEQA/AOXGaaguPFLiUuQB+6ce6QKpUfBudUnJk1AE8krrKZFQhF1carUV5WUswRSNiqJVVFaNSHxcuNapfTiaSGLgmvaT4osp36VRik+mEiF2I7j9ZoUcLIL8VG73o44+xs4IzSZYxgA2v4rtNq6ZnBnq8zJw/LFqATMpERIjQDB+atj6aNFHLk55ou7DuF/5QK6pGzCNcDX3nNH2iuIqmf/Z",
+  "levels": {
+    "barn": "Här ser du en stor ö i Nya Zeeland. Den är omgiven av blått vatten och höga berg. Det ser ut som om dalarna har skurits ut av stora ismassor för länge sedan. På ön växer gröna skogar och det finns våtmarker. För mycket längesen flyttade människor dit fåglar som inte kunde flyga så bra för att skydda dem från rovdjur. Nu kämpar forskare och naturvårdare för att hjälpa fåglarna att bo kvar där i trygghet.",
+    "nyborjare": "Den här satellitbilden visar Resolution Island, som är den största ön av omkring 90 öar i Fiordland National Park på Nya Zeeland. Bilden är tagen med instrumentet OLI på satelliten Landsat 9. Vi ser ett landskap med branta dalar som en gång skurits ut av glaciärer och som nu har översvämmats av havet. Ön reser sig från havsytan upp till Mount Clerke på 1 069 meter. Vegetationstypen varierar från myrar och våtmarker vid kusten till skogar och gräsmarker uppe i bergen. På 1800-talet började naturvårdare använda ön som en fristad för att skydda hotade fåglar som kiwi och kākāpō från invasiva rovdjur som hermeliner. Trots att hermelinerna simmade över till ön fortsätter skyddsarbetet än i dag genom särskilda naturvårdsprogram.",
+    "entusiast": "Satellitbilden har tagits den 12 december 2025 med instrumentet OLI, Operational Land Imager, ombord på jordobservationssatelliten Landsat 9 som drivs av U.S. Geological Survey. OLI registrerar data i det synliga och infraröda spektrumet, vilket gör det möjligt att urskilja de skiftande naturtyperna på Resolution Island i Fiordlands kuperade terräng. Den topografiska miljön präglas av dalar med branta sidor som en gång skapats av glaciärerosion och senare dränkts av havsvatten. Höjdskillnaderna sträcker sig från havsytan till 1 069 meters höjd vid Mount Clerke. Ekosystemen är varierade och omfattar kustnära våtmarker och myrar, utbredda podokarpkogar på medelhöga höjder samt Tussockgräsmarker i de subalpina och alpina zonerna. Utanför kusten skyddar det marina reservatets estuarier och vågexponerade klipprev vid inloppet till Dusky Sound. Bilden illustrerar också ett historiskt bevarandeinitiativ som inleddes under sent 1800-tal av naturvårdaren Thomas Henry Potts och vidarefördes av Richard Henry, vilka flyttade hundratals flygoförmögna fåglar till ön i ett försök att undanhålla dem från införda mustelider som hermeliner. Eftersom djuren kunde simma till ön misslyckades de tidiga utrotningsförsöken, men moderna insatser från landets miljödepartement som inleddes 2008 fortsätter arbetet med att kontrollera rovdjursstammen och värna den inhemska fågelfaunan."
+  },
+  "terms": [
+    {
+      "term": "Landsat 9",
+      "explanation": "En jordobservationssatellit utrustad med instrumentet OLI som har tagit satellitbilden."
+    },
+    {
+      "term": "Resolution Island",
+      "explanation": "Den största ön i Fiordland National Park som användes som en tidig fristad för hotade fåglar."
+    },
+    {
+      "term": "kākāpō",
+      "explanation": "En inhemsk och flygoförmögen fågelart på Nya Zeeland som har flyttats till öns reservat."
+    },
+    {
+      "term": "mustelid",
+      "explanation": "En familj av rovdjur som inkluderar hermeliner vilka utgör ett hot mot fåglarna."
+    },
+    {
+      "term": "Fiordland National Park",
+      "explanation": "En nationalpark i Nya Zeeland som inrymmer ett stort antal öar och fjordar."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Here you can see a large island in New Zealand. It is surrounded by blue water and tall mountains. The valleys look like they were carved out by massive ice a long time ago. Green forests and wetlands grow on the island. Long ago, people moved birds that could not fly very well there to protect them from predators. Now, scientists and conservationists work hard to help the birds live safely.",
+      "nyborjare": "This satellite image shows Resolution Island, the largest of about 90 islands in Fiordland National Park in New Zealand. The image was acquired with the OLI instrument on the Landsat 9 satellite. We see a landscape featuring steep-sided valleys once carved by glaciers and now inundated by the ocean. The island rises from sea level to the summit of Mount Clerke at 1,069 meters. Its habitats range from coastal bogs and wetlands to forests and alpine grasslands. In the late 1800s, conservationists began using the island as a sanctuary to protect native birds like kiwi and kākāpō from introduced predators such as stoats. Although stoats eventually swam to the island, conservation efforts continue today through dedicated programs.",
+      "entusiast": "The satellite image was acquired on December 12, 2025, using the Operational Land Imager, OLI, aboard the Landsat 9 satellite operated by the U.S. Geological Survey. OLI captures data across visible and infrared wavelengths, allowing researchers to map the diverse habitats across the rugged terrain of Resolution Island. The topography features steep-sided valleys carved by glaciers and inundated by the ocean, with elevations ranging from sea level to 1,069 meters at Mount Clerke. Ecosystems span from coastal bogs and wetlands to widespread podocarp forests at middle elevations and tussock grasslands in subalpine and alpine areas. Offshore, a marine reserve protects estuarine and wave-exposed rocky reef habitats near Dusky Sound. The image also reflects a historical conservation initiative initiated in the late 19th century by Thomas Henry Potts and continued by caretaker Richard Henry, who transported hundreds of flightless birds to the island sanctuary to shield them from introduced mustelids like stoats. Although the animals proved capable of swimming to the island, modern efforts initiated by the Department of Conservation in 2008 continue to control predator populations and protect native wildlife."
+    },
+    "terms": [
+      {
+        "term": "Landsat 9",
+        "explanation": "An Earth-observing satellite equipped with the OLI instrument used to acquire the image."
+      },
+      {
+        "term": "Resolution Island",
+        "explanation": "The largest island in Fiordland National Park selected as an early sanctuary for native birds."
+      },
+      {
+        "term": "kākāpō",
+        "explanation": "A native, flightless bird species of New Zealand relocated to island sanctuaries for protection."
+      },
+      {
+        "term": "mustelid",
+        "explanation": "A family of carnivorous mammals including stoats that became a threat to native birds."
+      },
+      {
+        "term": "Fiordland National Park",
+        "explanation": "A national park in New Zealand containing numerous islands and glacier-carved valleys."
+      }
+    ],
+    "place": "Fiordland, New Zealand"
+  }
+}

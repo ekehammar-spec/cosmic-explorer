@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-26",
+  "title": "Eye of the Sahara",
+  "title_sv": "Richatstrukturen",
+  "media_type": "image",
+  "url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=1600",
+  "thumb": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=480",
+  "hdurl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
+  "link": "https://www.nasa.gov/image-detail/iss075e0274930/",
+  "credit": "NASA",
+  "taken": "",
+  "src": "iotd",
+  "id": "https://www.nasa.gov/image-detail/iss075e0274930/",
+  "px": [
+    1600,
+    1066
+  ],
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgb/xAAiEAABAwQCAgMAAAAAAAAAAAABAAIRAwQSIRMxI1FBcYH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIDERIhMf/aAAwDAQACEQMRAD8AnUGB2nbM6hO02xofgA2k7OeQA9D59qnQb5XAggQNhTY8Fx6DW63BEfSZa0cDSNlp7jtpWYjIxrE9qla2gZbU8ozwDSgchdTjaTsKrMRBKu0CQ9gJnMT6hCE9wdfo7whxAcSVRc8i0Lo3CELC2aUuH//Z",
+  "quiz": [
+    {
+      "q": "Vad är Richatstrukturen för typ av formation?",
+      "options": [
+        "En nedslagskrater efter en stor meteorit",
+        "En eroderad geologisk dom",
+        "Ett vulkaniskt askmoln som stelnat"
+      ],
+      "correct": 1,
+      "fact": "Strukturen bildades genom magmatisk aktivitet och landhöjning, vilket skapade en upphöjd dom som sedan har eroderats."
+    },
+    {
+      "q": "Var på jorden ligger Richatstrukturen?",
+      "options": [
+        "I Saharaöknen i Mauretanien",
+        "I Gobiöknen i Mongoliet",
+        "I Atacamaöknen i Chile"
+      ],
+      "correct": 0,
+      "fact": "Den kallas ofta för Saharas öga och är belägen i nationen Mauretanien i nordvästra Afrika."
+    },
+    {
+      "q": "Hur gammal är denna geologiska formation ungefär?",
+      "options": [
+        "Cirka 100 miljoner år",
+        "Ovanligt ung, endast 50 000 år",
+        "Mer än 2 miljarder år"
+      ],
+      "correct": 0,
+      "fact": "Geologiska dateringar visar att strukturen skapades för omkring 100 miljoner år sedan under kritaperioden."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en stor tårta i flera lager som någon har skurit av toppen på och tittat rakt ner på. Från rymden ser Richatstrukturen ut som en jättelik snigel som har ritats i sanden. Det är egentligen gamla berglager som har skjutits upp ur marken och sedan slitits ner av vind och väder under lång tid.",
+    "nyborjare": "Från den internationella rymdstationen syns den märkliga Richatstrukturen tydligt i landskapet. Den kallas ibland för Saharas öga och liknar ett jättelikt målöga mitt i öknen. Formationen är en eroderad geologisk dom som en gång i tiden bildades genom magmatisk aktivitet djupt nerifrån jordskorpan. När marken höjdes upp skapades cirkulära lager av olika bergarter som sedan formades av vindens nötning.",
+    "entusiast": "Richatstrukturen i Mauretanien är ett slående exempel på en symmetrisk geologisk dom med en diameter på omkring 40 kilometer. Ursprungligen trodde forskare att formationen var en nedslagskrater efter en meteorit, men noggranna undersökningar har visat att den skapades genom tektonisk upplyftning och intrusion av magmatisk bergart för ungefär 100 miljoner år sedan. De ringformade strukturerna består av olika berglager med olika motståndskraft mot erosion. De mer motståndskraftiga bergarterna bildar höga åsar, medan de mjuka lagren har brutits ner till dalar. Denna komplexa tektoniska historia gör platsen till ett värdefullt studieobjekt för geologer som undersöker kontinental drift och jordens inre krafter."
+  },
+  "terms": [
+    {
+      "term": "erosion",
+      "explanation": "När vind, vatten och is bryter ner och flyttar bort berg och jord."
+    },
+    {
+      "term": "magmatisk",
+      "explanation": "Bergarter som har bildats genom att smält magma har svalnat och stelnat."
+    },
+    {
+      "term": "jordskorpa",
+      "explanation": "Jordens yttersta och tunnaste fasta hölje som vilar på den varmare manteln."
+    },
+    {
+      "term": "magma",
+      "explanation": "Flytande och glödgad sten som finns djupt nere under markytan."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant layer cake where someone sliced off the top and looked straight down at it. From space, the Richat Structure looks like a giant bullseye drawn in the sand. It is actually made of ancient rock layers that were pushed up from deep underground and then worn down by wind and weather over a very long time.",
+      "nyborjare": "From the International Space Station, the unusual Richat Structure stands out clearly in the desert landscape. Sometimes called the Eye of the Sahara, it resembles a giant target in the middle of the sand. The formation is an eroded geological dome that originally formed through igneous activity deep within the Earth. When the ground was uplifted, it created circular bands of different rocks that were shaped by wind over millions of years.",
+      "entusiast": "The Richat Structure in Mauritania is a striking example of a symmetrical geological dome with a diameter of about 40 kilometers. Originally hypothesized to be an impact crater from a meteorite, detailed studies have instead revealed that it was created by tectonic uplift and the intrusion of igneous rock roughly 100 million years ago. The ring-like structures consist of various rock layers with differing resistance to weathering. The more resistant rocks form prominent ridges, while softer layers have eroded into valleys, making this complex feature a key subject for studying Earth's internal processes."
+    },
+    "terms": [
+      {
+        "term": "erosion",
+        "explanation": "The process by which wind, water, and ice wear away and transport rock and soil."
+      },
+      {
+        "term": "igneous",
+        "explanation": "Rocks formed through the cooling and solidification of molten rock."
+      },
+      {
+        "term": "crust",
+        "explanation": "The outermost solid shell of a rocky planet or moon."
+      },
+      {
+        "term": "magma",
+        "explanation": "Molten and semi-molten rock located beneath the surface of a planet."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What type of geological feature is the Richat Structure?",
+        "options": [
+          "An impact crater from a large meteorite",
+          "An eroded geological dome",
+          "A solidified volcanic ash cloud"
+        ],
+        "correct": 1,
+        "fact": "The structure was formed by igneous activity and uplift, creating a raised dome that subsequently eroded."
+      },
+      {
+        "q": "Where on Earth is the Richat Structure located?",
+        "options": [
+          "In the Sahara Desert in Mauritania",
+          "In the Gobi Desert in Mongolia",
+          "In the Atacama Desert in Chile"
+        ],
+        "correct": 0,
+        "fact": "Often called the Eye of the Sahara, it is located within the nation of Mauritania in northwestern Africa."
+      },
+      {
+        "q": "Approximately how old is this geological formation?",
+        "options": [
+          "About 100 million years",
+          "Unusually young, only 50,000 years",
+          "More than 2 billion years"
+        ],
+        "correct": 0,
+        "fact": "Geological dating shows the structure was created approximately 100 million years ago during the Cretaceous period."
+      }
+    ]
+  }
+}
