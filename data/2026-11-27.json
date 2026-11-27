@@ -1,0 +1,135 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-27",
+  "title": "Galaxy NGC 4013",
+  "title_sv": "Galaxen NGC 4013",
+  "media_type": "image",
+  "url": "https://images-assets.nasa.gov/image/PIA04217/PIA04217~orig.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA04217/PIA04217~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/PIA04217/PIA04217~orig.jpg",
+  "link": "https://images.nasa.gov/details/PIA04217",
+  "credit": "NASA and the Hubble Heritage Team STSci/AURA",
+  "taken": "1999",
+  "src": "library",
+  "id": "PIA04217",
+  "px": [
+    1041,
+    1018
+  ],
+  "w": 640,
+  "h": 625,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAfACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQMCBgT/xAAlEAACAgIBAwMFAAAAAAAAAAABAgADBBEFISJREhMxMkFhobH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABETEh/9oADAMBAAIRAxEAPwBLFqxrMHQY5eMx0Qde5Tv+r+5y3P8ADV0Oz47iyvZ6iH8XzN2HYCjED7iKpnVZBcqQgbZZD9LGRfOK71ydlZU6IkiI3n4qt319PKn5EIdCp1GUWYwrS9d7IehnlE1uIMU54ZQtncPzJ5VSOPVUd+R4hgbUtXeyfBhh1//Z",
+  "quiz": [
+    {
+      "q": "Vad är en spiralgalax för något?",
+      "options": [
+        "Ett moln av gas som roterar i rymden",
+        "En enorm samling av stjärnor ordnade i spiralarmar",
+        "En exploderande stjärna med en form som en spiral"
+      ],
+      "correct": 1,
+      "fact": "En spiralgalax består av miljarder stjärnor, gas och stoft som kretsar kring ett ljust centrum och formar spiralarmar."
+    },
+    {
+      "q": "Varför ser man galaxen från sidan?",
+      "options": [
+        "Eftersom den har roterat i sidled av gravitationen",
+        "Därför att galaxens skiva ligger parallellt med vår siktlinje",
+        "Eftersom den har pressats ihop till en tunn linje"
+      ],
+      "correct": 1,
+      "fact": "Galaxen framträder i så kallad edge-on-profil eftersom vi råkar betrakta dess platta skiva precis från kanten."
+    },
+    {
+      "q": "Vad är det som skapar stoftmolnen i galaxen?",
+      "options": [
+        "Kosmiskt damm från döende stjärnor och supernovor",
+        "Rymdmoln som har sugits in från det tomma yttre",
+        "Avfall som har bildats när planeter har krockat"
+      ],
+      "correct": 0,
+      "fact": "Stoftet i en galax byggs upp av tunga grundämnen som sprids ut i rymden när äldre stjärnor dör."
+    }
+  ],
+  "levels": {
+    "barn": "Tänk dig en jättestor snurra i rymden som är full av gnistrande diamanter. Den här galaxen är så stor att ljuset behöver miljontals år för att resa tvärs igenom den. Om man tittar på den från sidan ser den ut som en lysande tallrik med mörka ränder av rymddamm i mitten.",
+    "nyborjare": "Den här bilden visar galaxen NGC 4013 som ligger femtiofem miljoner ljusår från jorden. Ett ljusår är den sträcka som ljuset hinner färdas på ett år. Galaxen fotograferades av Hubble-teleskopet, vilket är ett instrument som befinner sig i rymden för att kunna ta skarpa bilder utan att atmosfären stör. Det vi ser är en galax som betraktas precis från kanten, vilket gör att vi kan studera de enorma moln av stoft och gas som sträcker sig längs dess skiva.",
+    "entusiast": "NGC 4013 är en vacker spiralgalax av typen Sc i Hubble-klassificeringen, belägen femtiofem miljoner ljusår bort. Dess framträdande edge-on-geometri ger astronomerna en unik möjlighet att studera den vertikala utbredningen av det interstellära mediumet, inklusive gas och stoft som sträcker sig långt ovanför galaxskivan. Observationer från rymdteleskopet Hubble avslöjar intrikata stoftstråk och filamentstrukturer som kan ha bildats genom tidigare växelverkan eller mindre sammanslagningar med satellitgalaxer, vilket gör objektet särskilt intressant för att förstå galaxers utveckling och dynamik."
+  },
+  "terms": [
+    {
+      "term": "galax",
+      "explanation": "Ett enormt system som binder samman miljarder stjärnor, gas och stoft med hjälp av gravitation."
+    },
+    {
+      "term": "ljusår",
+      "explanation": "Det avstånd som ljuset hinner färdas under ett helt jordår i tomt utrymme."
+    },
+    {
+      "term": "rymdteleskop",
+      "explanation": "Ett optiskt instrument placerat i omloppsbana runt jorden för att observera universum utan atmosfäriska störningar."
+    },
+    {
+      "term": "spiralgalax",
+      "explanation": "En stjärnsamling med en platt skiva och karakteristiska armar som kretsar kring ett centralt klot."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Imagine a giant spinning wheel in space filled with sparkling diamonds. This galaxy is so huge that light needs millions of years to travel across it. When we look at it from the side, it resembles a glowing plate with dark streaks of space dust right through the middle.",
+      "nyborjare": "This image shows the galaxy NGC 4013, located fifty-five million light years from Earth. A light year is the distance that light travels in one year. The galaxy was photographed by the Hubble Space Telescope, which is an instrument placed in space to capture sharp images without atmospheric interference. What we see is a galaxy viewed precisely from the edge, allowing us to study the massive clouds of dust and gas extending along its disk.",
+      "entusiast": "NGC 4013 is an isolated spiral galaxy situated fifty-five million light years away. Its prominent edge-on geometry provides astronomers with a unique opportunity to study the vertical distribution of the interstellar medium, including gas and dust extending far above the galactic plane. Observations from the Hubble Space Telescope reveal intricate dust lanes and filamentary structures that may have been shaped by past tidal interactions or minor mergers with satellite galaxies, making the object particularly valuable for understanding galactic evolution."
+    },
+    "terms": [
+      {
+        "term": "galaxy",
+        "explanation": "A massive system held together by gravity containing billions of stars, gas, and dust."
+      },
+      {
+        "term": "light year",
+        "explanation": "The distance that a beam of light travels through a vacuum during one Earth year."
+      },
+      {
+        "term": "space telescope",
+        "explanation": "An optical instrument placed in orbit around Earth to observe the universe without atmospheric distortion."
+      },
+      {
+        "term": "spiral galaxy",
+        "explanation": "A stellar system featuring a flat disk and distinctive arms orbiting a bright central bulge."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is a spiral galaxy?",
+        "options": [
+          "A cloud of gas rotating freely in space",
+          "A massive collection of stars arranged in spiral arms",
+          "An exploding star shaped like a giant spiral"
+        ],
+        "correct": 1,
+        "fact": "A spiral galaxy consists of billions of stars, gas, and dust orbiting a bright center to form spiral arms."
+      },
+      {
+        "q": "Why do we see the galaxy edge-on?",
+        "options": [
+          "Because its flat disk happens to align with our line of sight",
+          "Because gravity has forced it to tilt sideways over time",
+          "Because the galaxy has been compressed into a thin line"
+        ],
+        "correct": 1,
+        "fact": "The galaxy appears edge-on because we happen to view its flat stellar disk directly from the side."
+      },
+      {
+        "q": "What creates the dust clouds in the galaxy?",
+        "options": [
+          "Space debris swept in from the distant void",
+          "Leftover fragments from planetary collisions",
+          "Heavy elements produced and expelled by dying stars"
+        ],
+        "correct": 0,
+        "fact": "Cosmic dust is built up from heavy elements that are scattered into space as older stars reach the end of their lives."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "v": 4,
+  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-27",
+  "title": "Shivelyuch Socked In",
+  "title_sv": "Moln och vulkanutbrott vid Sjivelutj",
+  "place": "Kamtjatka, Ryssland",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg",
+  "link": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+  "credit": "NASA Earth Observatory",
+  "source": "NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey .",
+  "src": "eo",
+  "id": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+  "w": 480,
+  "h": 320,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQD/8QAJBAAAgMAAgECBwAAAAAAAAAAAQIAAxEEIRITQSIxMlGRsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AHVViDr8TQbkfR8vHuIabe98iD+pN/GtuXq50rGswLfUftkSJac+qGTzrKlT7g7Bbsz4ooFC8dd4qWVq4xg53P7K+s6nAwl2DPUu6wJGRhxXLZvcITKu17YuDqLbFPninPeEIo//2Q==",
+  "levels": {
+    "barn": "Bilden visar det snötäckta berget Sjivelutj på Kamtjatkahalvön i Ryssland. Moln drar in runt berget men lämnar toppen fri. Mitt på berget syns en stor öppning med en mörk fläck i. Den mörka fläcken är en lavakuppa som skapas av trög magma. Vulkanen har haft utbrott under flera månader med lava och aska som ibland kan stiga högt upp i luften och sprida sig över stora områden.",
+    "nyborjare": "Satellitbilden visar vulkanen Sjivelutj på Rysslands Kamtjatkahalvön. Moln omger det snötäckta berget men lämnar en klar öppning över toppen och kalderan, som är en stor vulkankrater med en bredd på nio kilometer. Inne i kalderan syns en mörk lavakuppa som bildas av trögflytande magma. Lavakuppor växer och kollapsar i cykler, vilket ibland kan starta snabba laviner av het aska och sten som kallas pyroklastiska flöden. Vulkanen har haft återkommande utbrott under lång tid, och aska från utbrotten kan ibland nå högt upp i atmosfären och påverka flygtrafiken.",
+    "entusiast": "Landsat 9 fångade denna bild den 8 november 2026 med instrumentet Operational Land Imager. Bilden visar Sjivelutj på Kamtjatkahalvön i Ryssland, där moln svävar under toppen på 3 283 meter men lämnar en öppning över kalderan och de norra sluttningarna. Den övre delen har en nio kilometer bred kaldera med en mörk lavakuppa skapad av trög magma. Lavakupporna växer och kollapsar regelbundet, vilket genererar pyroklastiska flöden av het aska och sten. Enligt rapporter från Kamchatka Volcanic Eruption Response Team pågick effusiva utbrott och explosiv aktivitet under hösten 2026. Satelliter upptäcker regelbundet termiska anomalier, och aska har vid flera tillfällen spritts över stora avstånd och nått flygtrafikens luftrum."
+  },
+  "terms": [
+    {
+      "term": "Landsat 9",
+      "explanation": "En satellit som tar bilder av jorden med instrumentet Operational Land Imager."
+    },
+    {
+      "term": "kaldera",
+      "explanation": "En stor kraterliknande sänka på toppen av en vulkan."
+    },
+    {
+      "term": "lavakuppa",
+      "explanation": "En mörk formation inne i vulkanen som bildas av trögflytande magma."
+    },
+    {
+      "term": "pyroklastiskt flöde",
+      "explanation": "En snabb lavin av het aska och sten som kan uppstå när en lavakuppa kollapsar."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "The picture shows the snowy mountain Shivelyuch on the Kamchatka Peninsula in Russia. Clouds move in around the mountain but leave the peak clear. In the middle of the mountain, there is a large opening with a dark spot inside. The dark spot is a lava dome created by thick magma. The volcano has had eruptions for months with lava and ash that can sometimes rise high into the air and travel over large areas.",
+      "nyborjare": "The satellite image shows the Shivelyuch volcano on Russia Kamchatka Peninsula. Clouds surround the snowy mountain but leave a clear opening over the peak and the caldera, which is a volcanic crater nine kilometers wide. Inside the caldera, a dark lava dome appears, formed by viscous magma. Lava domes grow and collapse in cycles, which can sometimes trigger fast-moving avalanches of hot ash and rock called pyroclastic flows. The volcano has experienced ongoing eruptions for months, and ash from these events can sometimes reach high into the atmosphere and affect aircraft.",
+      "entusiast": "Landsat 9 captured this image on November 8, 2026, using the Operational Land Imager. The image shows Shivelyuch on Russia Kamchatka Peninsula, where clouds hover beneath the 3283-meter peak while leaving a clear opening over the caldera and northern upper slopes. The upper reaches feature a nine-kilometer-wide caldera with a dark lava dome formed by viscous magma. Lava domes undergo cycles of growth and collapse, producing pyroclastic flows of hot ash and rock. According to reports from the Kamchatka Volcanic Eruption Response Team, effusive eruptions and explosive activity continued for months. Satellites regularly detect thermal anomalies, and ash plumes have drifted great distances, posing risks to aircraft."
+    },
+    "terms": [
+      {
+        "term": "Landsat 9",
+        "explanation": "A satellite that captures images of the Earth using the Operational Land Imager instrument."
+      },
+      {
+        "term": "caldera",
+        "explanation": "A large crater on the volcano that is open to the south."
+      },
+      {
+        "term": "lava dome",
+        "explanation": "A dark area within the caldera formed by vents extruding viscous magma."
+      },
+      {
+        "term": "pyroclastic flow",
+        "explanation": "A fast-moving avalanche of hot ash and rock caused by collapsing lava domes."
+      }
+    ],
+    "place": "Kamchatka, Russia"
+  }
+}
