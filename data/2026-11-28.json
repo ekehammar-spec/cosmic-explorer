@@ -1,0 +1,139 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-28",
+  "title": "Apollo 17 VIP Site Anaglyph",
+  "title_sv": "Apollo 17:s VIP-plats som anaglyf",
+  "media_type": "image",
+  "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/a17anaglyph_vanMeijgaarden_f.jpg?w=1600&h=1600&fit=clip",
+  "thumb": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/a17anaglyph_vanMeijgaarden_f.jpg?w=480&h=480&fit=clip",
+  "hdurl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/a17anaglyph_vanMeijgaarden_f.jpg?w=2015&h=2172&fit=clip",
+  "link": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+  "credit": "Gene Cernan, Apollo 17, NASA; Anaglyph by Erik van Meijgaarden",
+  "taken": "1972",
+  "src": "apod",
+  "id": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+  "w": 445,
+  "h": 480,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgAB0DASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUABgECB//EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEERIhUQYxQQUTIjJhcbHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A5tUqzwdHzmbE9zGsYPdASSP5W910dNrJtZY9GBhXO45zQVXBxnxUq4WvSdu0LLJfSe4SNSiPGPtgmmdr076TbR6XiNw3l5Cf0O1AzztgHBPYkUvkvopZ7m2BmQC3dmOjOTkfTztxR6msOiOyO6hmTdSRuv4qLSiD1OCUtOJISyqPiUbWGxjzR9vP71rDK3xd0BYcGiGY80Oxwe1VH//Z",
+  "quiz": [
+    {
+      "q": "Varför lämnades månbilen kvar på månytan efter Apollo 17?",
+      "options": [
+        "Den saknade bränsle för att återvända.",
+        "För att spara vikt vid start.",
+        "Den gick sönder under sista turen."
+      ],
+      "correct": 1,
+      "fact": "Månlandarens startsteg behövde vara så lätt som möjligt för att nå omloppsbanan med alla stenprover."
+    },
+    {
+      "q": "Vad är Taurus-Littrow på månen för typ av plats?",
+      "options": [
+        "En enorm nedslagskrater vid månens sydpol.",
+        "Ett slätt basaltfält utan några kullar.",
+        "En dalgång omgiven av höga bergsmassiv."
+      ],
+      "correct": 2,
+      "fact": "Apollo 17 landade i en dalgång med höga berg på sidorna för att samla både gamla och unga bergarter."
+    },
+    {
+      "q": "Vilken färg har himlen sedd från månens yta mitt på dagen?",
+      "options": [
+        "Helt svart.",
+        "Ljusblå som på jorden.",
+        "Djupt mörklila."
+      ],
+      "correct": 0,
+      "fact": "Månen saknar en tät atmosfär som sprider solljuset, vilket gör att rymden förblir kolsvart även i solsken."
+    }
+  ],
+  "levels": {
+    "barn": "Här ser du en elbil som står parkerad på månen! Den kallas för månbil eller rover. Två astronauter körde runt i den för att plocka spännande rymdstenar. Månen är alldeles tyst och grå, med höga berg i bakgrunden. Längre bort syns deras lilla rymdskepp som tog dem dit. Bilen har en kamera så att människor hemma på jorden kunde titta på när astronauterna flög hem igen. Om du tar på dig 3D-glasögon ser det ut som om bilen hoppar ut ur bilden!",
+    "nyborjare": "I december 1972 genomförde Apollo 17 den sista bemannade månlandningen. Bilden visar en anaglyf, en sorts tredimensionell bild som får djup med rödblå glasögon. I förgrunden står astronauternas rover parkerad på en plats som kallades VIP-platsen. Bakom rovern syns månlandaren och dalgången Taurus-Littrow. Platsen valdes som parkering så att fordonets tv-kamera kunde filma månlandarens startsteg när det sköts upp mot omloppsbanan. Astronauterna Eugene Cernan och Harrison Schmitt tillbringade tre dygn här. De samlade in 110 kilo prover från månens yta, mer än någon annan expedition.",
+    "entusiast": "Denna anaglyf från december 1972 fångar Apollo 17 i Taurus-Littrow, en dalgång vid kanten av Mare Serenitatis. Platsen valdes noggrant av geologer för att undersöka både gammalt höglandsmaterial och spår av relativt ung vulkanism. I förgrunden står Lunar Roving Vehicle parkerad på den så kallade VIP-platsen, cirka 150 meter öster om månlandaren Challenger. Avståndet beräknades så att rovern kunde fjärrstyras från Houston för att panorera uppåt och filma uppskjutningen av landarens startsteg utan att träffas av raketflamman. Bakom landaren reser sig South Massif flera kilometer upp mot rymden. Astronauterna Eugene Cernan och Harrison Schmitt, som var utbildad fältgeolog, samlade in 110 kilo geologiska prover under tre exkursioner som varade i sammanlagt över 22 timmar. Bland fynden fanns orangefärgat vulkaniskt glas, som visade spår av explosiv vulkanism från månens inre för över tre miljarder år sedan. Sedan Apollo 17 lämnade platsen har ingen människa satt sin fot på månen."
+  },
+  "terms": [
+    {
+      "term": "anaglyf",
+      "explanation": "En bild som ger ett tredimensionellt djup när man betraktar den genom tvåfärgade glasögon."
+    },
+    {
+      "term": "rover",
+      "explanation": "Ett motorfordon konstruerat för att köra på och utforska en annan himlakropps yta."
+    },
+    {
+      "term": "månlandaren",
+      "explanation": "Rymdfarkosten som transporterade astronauterna mellan månens omloppsbana och dess yta."
+    },
+    {
+      "term": "startsteg",
+      "explanation": "Den övre delen av landaren med egen raketmotor som lyfte astronauterna från månytan."
+    },
+    {
+      "term": "vulkanism",
+      "explanation": "Geologiska processer där smälta bergarter och gas tränger upp ur en himlakropps inre."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "Here is an electric buggy parked on the Moon! It is called a lunar rover. Two astronauts drove it around to collect exciting space rocks. The Moon is silent and grey, with tall mountains in the background. Farther back, you can spot their spaceship that carried them there. The rover has a camera so people on Earth could watch the astronauts blast off for home. If you wear 3D glasses, the rover pops right out of the picture!",
+      "nyborjare": "In December 1972, Apollo 17 completed the final crewed Moon landing. This image is a 3D anaglyph that reveals stereoscopic depth when viewed through red-blue glasses. In the foreground sits the rover parked at a location nicknamed the VIP Site. Beyond it stands the lunar module against the hills of the Taurus-Littrow valley. The rover was parked here so its television camera could broadcast the ascent stage lifting off toward lunar orbit. Astronauts Eugene Cernan and Harrison Schmitt spent three days exploring the surface, gathering 110 kilograms of rock and soil samples, more than any other Apollo landing.",
+      "entusiast": "Captured in December 1972, this stereo anaglyph shows Apollo 17 in the Taurus-Littrow valley bordering Mare Serenitatis. Geologists targeted this site to sample both ancient highland crust and suspected young volcanic deposits. In the foreground, the Lunar Roving Vehicle rests at the VIP Site, roughly 150 meters east of the lunar module Challenger. This parking distance allowed ground controllers in Houston to tilt the rover camera remotely, tracking the ascent stage liftoff without camera damage from exhaust plumes. The towering South Massif looms in the background. Astronauts Eugene Cernan and Harrison Schmitt, a professional geologist, completed three moonwalks totaling over 22 hours. Their 110 kilograms of returned samples included orange volcanic glass beads, providing evidence of pyroclastic eruptions from deep within the Moon over three billion years ago."
+    },
+    "terms": [
+      {
+        "term": "anaglyph",
+        "explanation": "A stereoscopic image providing a three-dimensional effect when viewed through glasses with color-filtered lenses."
+      },
+      {
+        "term": "rover",
+        "explanation": "A motorized vehicle designed to travel over and explore the surface of an extraterrestrial body."
+      },
+      {
+        "term": "lunar module",
+        "explanation": "The spacecraft built to land astronauts on the lunar surface and return them to orbit."
+      },
+      {
+        "term": "ascent stage",
+        "explanation": "The upper part of the lunar lander carrying the crew cabin and rocket engine for liftoff."
+      },
+      {
+        "term": "pyroclastic",
+        "explanation": "Relating to rock fragments and glass beads ejected violently during an explosive volcanic eruption."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Why was the lunar rover left behind on the Moon?",
+        "options": [
+          "It ran out of fuel to return.",
+          "To save weight during liftoff.",
+          "It broke down during its final drive."
+        ],
+        "correct": 1,
+        "fact": "The lunar module ascent stage needed to be as light as possible to reach lunar orbit with the rock samples."
+      },
+      {
+        "q": "What kind of landscape is Taurus-Littrow on the Moon?",
+        "options": [
+          "A massive crater near the lunar south pole.",
+          "A flat basalt plain without any hills.",
+          "A deep valley surrounded by high mountains."
+        ],
+        "correct": 2,
+        "fact": "Apollo 17 landed in a narrow valley flanked by steep massifs to collect both highland and volcanic samples."
+      },
+      {
+        "q": "What color is the sky seen from the Moon at midday?",
+        "options": [
+          "Completely black.",
+          "Bright blue like on Earth.",
+          "Deep dark purple."
+        ],
+        "correct": 0,
+        "fact": "The Moon lacks a dense atmosphere to scatter sunlight, leaving space completely black even in full daylight."
+      }
+    ]
+  }
+}

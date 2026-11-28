@@ -1,0 +1,73 @@
+{
+  "v": 4,
+  "model": "gemini-3.8-flash",
+  "date": "2026-11-28",
+  "title": "Earthquake Births New Island off Pakistan",
+  "title_sv": "Jordskalv föder ny ö utanför Pakistan",
+  "place": "Gwadar, Pakistan",
+  "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000108/GSFC_20171208_Archive_e000108~large.jpg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000108/GSFC_20171208_Archive_e000108~small.jpg",
+  "hdurl": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000108/GSFC_20171208_Archive_e000108~orig.jpg",
+  "link": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000108",
+  "credit": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using EO-1 ALI data from the NASA EO-1 team",
+  "source": "NASA Earth Observatory image by Jesse Allen and Robert Simmon, using EO-1 ALI data from the NASA EO-1 team.",
+  "src": "library",
+  "id": "GSFC_20171208_Archive_e000108",
+  "archive": true,
+  "px": [
+    1920,
+    1920
+  ],
+  "w": 640,
+  "h": 640,
+  "lqip": "data:image/jpeg;base64,/9j/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAL/xAAoEAACAQMDAwIHAAAAAAAAAAABAgMABBEFITEGEmETQhRBUXGBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAERAiEDUf/aAAwDAQACEQMRAD8AYLbqLTrmQItwFY7ASDtz+eKNI+VGDtzsaiEU5B5NNfTPUb2dwttO5e0c435TzRrynUC39KSHHbuMUPutWjtt5l9KP5PIwUGsmu6yul2+Uw80m0YPH3PipzeXc93dmaeVppCfceB9PFLGXoG4BU88US07T7m9c/DRM+Oe0ZxWGJmidXQ4ZTkGmiw6svIkCMkGAOBGFz+qvqzhOVnPU4uhdRiVHxHCi92DjON/7QIkoO4Gm4dWySKVmtonjPK5ODS5qt5FeSBo7eC3A9sa4z5NLNkaNOH/2Q==",
+  "levels": {
+    "barn": "På bilden ser vi blått och grönt hav nära en strand. Mitt i vattnet syns en liten rund, gråbrun prick som ser ut som en ny kula av jord. Det är en alldeles ny ö som dök upp år 2013.\n\nÖn bildades när ett kraftigt jordskalv skakade marken långt inåt land i Pakistan. Skakningarna tryckte upp lera och sten från havets botten. På bilden kan du också se ljusgröna slingor i vattnet, som är sand och gyttja som virvlats upp runt den nya ön.",
+    "nyborjare": "Satellitbilden från september 2013 visar havet utanför staden Gwadar i Pakistan. Längs kusten syns en gråbrun, nybildad ö som sticker upp ur det turkosa vattnet drygt en kilometer från land. Den bildades efter ett kraftigt jordskalv med magnituden 7,7 som drabbade provinsen Baluchistan omkring 380 kilometer längre inåt land.\n\nÖn är vad forskarna kallar en lervulkan. Skakningarna från skalvet fick gas och vattenmättad lera långt under havsbotten att pressas uppåt med enorm kraft. Runt ön syns ljusare stråk av grönt och ljusbrunt i vattnet, vilket visar sediment som rörts upp från bottnen. De vita ränderna i bukten är regelbundna vågor som rör sig in mot stranden.",
+    "entusiast": "Denna satellitbild togs den 26 september 2013 av instrumentet Advanced Land Imager (ALI) ombord på NASA:s satellit Earth Observing-1 (EO-1). Bilden fångade en nyuppstådd ö i bukten Paddi Zirr utanför hamnstaden Gwadar i Pakistan, bara två dagar efter att ett kraftigt jordskalv med magnituden 7,7 skakade regionen Baluchistan. Skalvet var en så kallad strike-slip-händelse, där tektoniska plattor rör sig i sidled längs en förkastning.\n\nGeologer konstaterade att ön med största sannolikhet var en lervulkan, skapad när metangas och vattenmättade sediment under högt tryck pressades upp genom havsbottnen till följd av seismiska vågor från skalvet 380 kilometer bort. Vattendjupet kring ön uppmättes till mellan 15 och 20 meter av Pakistans nationella oceanografiska institut. Havsbottnen i området är vanligtvis plan, men här bildades en brant relief på mycket kort tid.\n\nALI-instrumentets höga detaljrikedom visar tydligt hur parallella vågfronter rör sig mot kusten, samt hur ljusgröna och sandfärgade plymer av suspenderat sediment sprids i det grunda vattnet kring ön. Genom att jämföra observationen med tidigare mätningar från Landsat 8 kunde forskare snabbt kartlägga hur havsbottnens dynamik och kustområden påverkas av storskaliga tektoniska krafter."
+  },
+  "terms": [
+    {
+      "term": "lervulkan",
+      "explanation": "En geologisk bildning där gas och vattenmättade sediment pressas upp till ytan i stället för het magma."
+    },
+    {
+      "term": "sediment",
+      "explanation": "Lösa partiklar av sand, lera eller organiskt material som sjunker och samlas på botten av vattenområden."
+    },
+    {
+      "term": "Advanced Land Imager (ALI)",
+      "explanation": "Ett satellitburet observationsinstrument på NASA:s satellit EO-1 konstruerat för att fotografera jordens yta i detalj."
+    },
+    {
+      "term": "strike-slip",
+      "explanation": "En förkastningsrörelse där två berggrundsblock huvudsakligen glider horisontellt längs med varandra."
+    }
+  ],
+  "en": {
+    "levels": {
+      "barn": "In this image, we see blue and green ocean water near a coastline. Out in the water, there is a small brownish-grey circle that looks like a little bump of soil. This is a brand new island that appeared in 2013.\n\nIt formed right after a large earthquake shook the land in Pakistan. The shaking pushed mud and sand up from the bottom of the sea. You can also see lighter green swirls in the water, which are mud and sand floating around the new island.",
+      "nyborjare": "This satellite image from September 2013 shows the ocean off the coast of Gwadar, Pakistan. About one kilometer from shore, a circular, greyish-brown island sits in the water. The landmass appeared shortly after a major magnitude 7.7 earthquake struck Baluchistan province roughly 380 kilometers inland.\n\nScientists believe the island is a mud volcano, formed when earthquake vibrations caused trapped gases and liquefied mud beneath the seafloor to push upward. Around the new land, lighter shades of green and tan reveal suspended sediment stirred up from the seabed. Crisp parallel wave crests are also clearly visible rippling toward the coastline.",
+      "entusiast": "Acquired on September 26, 2013, by the Advanced Land Imager (ALI) aboard NASA's Earth Observing-1 (EO-1) satellite, this image captures an ephemeral island in Paddi Zirr (West Bay) off Gwadar, Pakistan. The feature emerged following a major magnitude 7.7 strike-slip earthquake located 380 kilometers inland in Baluchistan.\n\nMarine geologists identified the feature as a mud volcano, created when seismic shaking pressurized trapped methane gas and saturated fine-grained sediments, forcing them through the seafloor. According to Pakistan's National Institute of Oceanography, water depths surrounding the mound averaged 15 to 20 meters. While the regional seafloor is typically flat, the eruption produced an abrupt bathymetric change.\n\nThe optical clarity of ALI reveals lighter green and tan tones in the water, indicating resuspended sediment and shallow bathymetry around the newly breached summit. The imagery also highlights parallel ocean swell patterns refracting toward the Pakistani coastline, providing valuable observational data on coastal morphology after major seismic disturbances."
+    },
+    "terms": [
+      {
+        "term": "mud volcano",
+        "explanation": "A geological formation produced when pressurized subterranean gases force slurry and sediment up through the surface."
+      },
+      {
+        "term": "strike-slip",
+        "explanation": "A type of geological fault where two tectonic blocks slide predominantly horizontally past one another."
+      },
+      {
+        "term": "sediment",
+        "explanation": "Solid fragmented material such as sand and silt transported and deposited by water or wind."
+      },
+      {
+        "term": "Advanced Land Imager",
+        "explanation": "A multispectral Earth-imaging sensor deployed aboard NASA's Earth Observing-1 spacecraft."
+      }
+    ],
+    "place": "Gwadar, Pakistan"
+  }
+}
